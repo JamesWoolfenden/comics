@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<root>
+  <Comic Title="The Walking Dead" Price="61.55" Issue="6" Bought="False" DateOfSale="12/27/2013 09:04:13" />
+  <Comic Title="The Walking Dead" Price="53.01" Issue="6" Bought="False" DateOfSale="12/27/2013 14:09:59" />
+  <Comic Title="The Walking Dead" Price="39.51" Issue="6" Bought="False" DateOfSale="12/27/2013 14:11:17" />
+  <Comic Title="The Walking Dead" Price="35.0" Issue="6" Bought="False" DateOfSale="12/27/2013 14:11:27" />
+  <Comic Title="The Walking Dead" Price="40.51" Issue="6" Bought="True" DateOfSale="12/27/2013 14:11:38" />
+  <Comic Title="The Walking Dead" Price="45.0" Issue="6" Bought="False" DateOfSale="12/27/2013 14:11:43" />
+  <Comic Title="The Walking Dead" Price="35.68" Issue="6" Bought="False" DateOfSale="12/27/2013 14:11:50" />
+  <Comic Title="The Walking Dead" Price="43.0" Issue="6" Bought="False" DateOfSale="12/27/2013 14:12:37" />
+  <Comic Title="The Walking Dead" Price="41.0" Issue="6" Bought="False" DateOfSale="12/27/2013 14:12:43" />
+  <Comic Title="The Walking Dead" Price="76.49" Issue="6" Bought="False" DateOfSale="12/27/2013 14:12:54" />
+  <Comic Title="The Walking Dead" Price="49.3" Issue="6" Bought="False" DateOfSale="12/27/2013 14:13:00" />
+  <Comic Title="The Walking Dead" Price="42.5" Issue="6" Bought="False" DateOfSale="12/27/2013 14:13:11" />
+  <Comic Title="The Walking Dead Weekly" Price="13.79" Issue="6" Bought="False" DateOfSale="12/27/2013 15:07:55" />
+  <Comic Title="The Walking Dead Weekly" Price="9.90" Issue="6" Bought="False" DateOfSale="12/27/2013 15:08:10" />
+  <Comic Title="The Walking Dead Weekly" Price="22.52" Issue="6" Bought="False" DateOfSale="12/27/2013 15:08:24" />
+  <Comic Title="The Walking Dead Weekly" Price="8.99" Issue="6" Bought="False" DateOfSale="12/27/2013 15:08:40" />
+  <Comic Title="The Walking Dead Weekly" Price="16.88" Issue="6" Bought="False" DateOfSale="12/27/2013 15:09:03" />
+  <Comic Title="The Walking Dead Weekly" Price="7.79" Issue="6" Bought="False" DateOfSale="12/27/2013 15:09:30" />
+  <Comic Title="The Walking Dead Weekly" Price="8.60" Issue="6" Bought="False" DateOfSale="12/27/2013 15:09:43" />
+  <Comic Title="The Walking Dead Weekly" Price="19.99" Issue="6" Bought="False" DateOfSale="12/27/2013 15:09:57" />
+  <Comic Title="The Walking Dead Weekly" Price="9.5" Issue="6" Bought="False" DateOfSale="12/27/2013 15:10:08" />
+  <Comic Title="The Walking Dead Weekly" Price="6.5" Issue="6" Bought="False" DateOfSale="12/27/2013 16:37:44" />
+  <Comic Title="The Walking Dead Weekly" Price="8.24" Issue="6" Bought="False" DateOfSale="12/27/2013 16:37:51" />
+  <Comic Title="The Walking Dead Weekly" Price="3.74" Issue="6" Bought="False" DateOfSale="12/27/2013 16:38:00" />
+  <Comic Title="The Walking Dead Weekly" Price="7.99" Issue="6" Bought="False" DateOfSale="12/27/2013 16:38:13" />
+  <Comic Title="The Walking Dead Weekly" Price="6.24" Issue="6" Bought="True" DateOfSale="12/27/2013 16:38:35" />
+  <Comic Title="GHOSTED" Price="2.25" Issue="5" Bought="False" DateOfSale="12/27/2013 16:41:21" />
+  <Comic Title="GHOSTED" Price="1.99" Issue="1" Bought="False" DateOfSale="12/27/2013 16:41:40" />
+  <Comic Title="GHOSTED" Price="2.25" Issue="5" Bought="False" DateOfSale="12/27/2013 16:41:51" />
+  <Comic Title="GHOSTED" Price="2.8" Issue="1" Bought="False" DateOfSale="12/27/2013 16:42:11" />
+  <Comic Title="GHOSTED" Price="2.09" Issue="5" Bought="False" DateOfSale="12/27/2013 16:42:27" />
+  <Comic Title="GHOSTED" Price="2.09" Issue="3" Bought="False" DateOfSale="12/27/2013 16:42:35" />
+  <Comic Title="GHOSTED" Price="4.49" Issue="1" Bought="False" DateOfSale="12/27/2013 16:42:53" />
+  <Comic Title="GHOSTED" Price="5.85" Issue="1" Bought="False" DateOfSale="12/27/2013 16:43:04" />
+  <Comic Title="GHOSTED" Price="5.45" Issue="1" Bought="False" DateOfSale="12/27/2013 16:43:16" />
+  <Comic Title="GHOSTED" Price="5.09" Issue="1" Bought="False" DateOfSale="12/27/2013 16:43:30" />
+  <Comic Title="GHOSTED" Price="3.5" Issue="4" Bought="False" DateOfSale="12/27/2013 16:43:44" />
+  <Comic Title="GHOSTED" Price="3.3" Issue="4" Bought="False" DateOfSale="12/27/2013 16:43:56" />
+  <Comic Title="GHOSTED" Price="3.2" Issue="4" Bought="False" DateOfSale="12/27/2013 16:44:36" />
+  <Comic Title="GHOSTED" Price="2.25" Issue="5" Bought="False" DateOfSale="12/27/2013 16:44:49" />
+  <Comic Title="GHOSTED" Price="3.99" Issue="3" Bought="False" DateOfSale="12/27/2013 16:45:05" />
+  <Comic Title="GHOSTED" Price="3.2" Issue="4" Bought="False" DateOfSale="12/27/2013 16:45:18" />
+  <Comic Title="GHOSTED" Price="3.15" Issue="4" Bought="False" DateOfSale="12/27/2013 16:45:22" />
+  <Comic Title="GHOSTED" Price="19.99" Issue="1d" Bought="False" DateOfSale="12/27/2013 16:47:20" />
+  <Comic Title="GHOSTED" Price="17.29" Issue="1d" Bought="False" DateOfSale="12/27/2013 17:20:20" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="1" Bought="True" DateOfSale="12/27/2013 20:35:12" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="1" Bought="True" DateOfSale="12/27/2013 20:35:15" />
+  <Comic Title="GHOSTED" Price="1.25" Issue="1" Bought="True" DateOfSale="12/27/2013 20:35:23" />
+  <Comic Title="GHOSTED" Price="1.25" Issue="1" Bought="True" DateOfSale="12/27/2013 20:35:24" />
+  <Comic Title="GHOSTED" Price="1.25" Issue="1b" Bought="True" DateOfSale="12/27/2013 20:38:14" />
+  <Comic Title="GHOSTED" Price="1.25" Issue="1b" Bought="True" DateOfSale="12/27/2013 20:38:17" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="2" Bought="True" DateOfSale="12/27/2013 20:38:43" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="3" Bought="True" DateOfSale="12/27/2013 20:38:59" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="3" Bought="True" DateOfSale="12/27/2013 20:39:01" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="4" Bought="True" DateOfSale="12/27/2013 20:39:16" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="4" Bought="True" DateOfSale="12/27/2013 20:39:17" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="5" Bought="True" DateOfSale="12/27/2013 20:39:29" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="5" Bought="True" DateOfSale="12/27/2013 20:39:31" />
+  <Comic Title="GHOSTED" Price="2.8" Issue="2" Bought="False" DateOfSale="12/27/2013 21:03:24" />
+  <Comic Title="GHOSTED" Price="4.6" Issue="2" Bought="False" DateOfSale="12/27/2013 21:03:41" />
+  <Comic Title="GHOSTED" Price="4.99" Issue="2" Bought="False" DateOfSale="12/27/2013 21:03:51" />
+  <Comic Title="GHOSTED" Price="3.95" Issue="2" Bought="False" DateOfSale="12/27/2013 21:04:02" />
+  <Comic Title="GHOSTED" Price="3.75" Issue="2" Bought="False" DateOfSale="12/27/2013 21:04:08" />
+  <Comic Title="GHOSTED" Price="3.25" Issue="2" Bought="False" DateOfSale="12/27/2013 21:04:16" />
+  <Comic Title="GHOSTED" Price="3.99" Issue="2" Bought="False" DateOfSale="12/27/2013 21:04:20" />
+  <Comic Title="Manifest Destiny" Price="2.1" Issue="1" Bought="True" DateOfSale="12/27/2013 21:14:29" />
+  <Comic Title="Manifest Destiny" Price="2.1" Issue="2" Bought="True" DateOfSale="12/27/2013 21:14:34" />
+  <Comic Title="Manifest Destiny" Price="2.25" Issue="2" Bought="False" DateOfSale="12/27/2013 21:21:39" />
+  <Comic Title="Manifest Destiny" Price="11" Issue="1" Bought="False" DateOfSale="12/27/2013 21:21:52" />
+  <Comic Title="Manifest Destiny" Price="3.2" Issue="2" Bought="False" DateOfSale="12/27/2013 21:21:59" />
+  <Comic Title="Manifest Destiny" Price="2.25" Issue="2" Bought="False" DateOfSale="12/27/2013 21:22:07" />
+  <Comic Title="Manifest Destiny" Price="8.95" Issue="1" Bought="False" DateOfSale="12/27/2013 21:22:18" />
+  <Comic Title="Manifest Destiny" Price="2.25" Issue="2" Bought="False" DateOfSale="12/27/2013 21:22:26" />
+  <Comic Title="Manifest Destiny" Price="2.25" Issue="2" Bought="False" DateOfSale="12/27/2013 21:22:28" />
+  <Comic Title="Manifest Destiny" Price="2.25" Issue="2" Bought="False" DateOfSale="12/27/2013 21:22:29" />
+  <Comic Title="Manifest Destiny" Price="8.95" Issue="1" Bought="False" DateOfSale="12/27/2013 21:22:43" />
+  <Comic Title="Manifest Destiny" Price="5.54" Issue="1" Bought="False" DateOfSale="12/27/2013 21:22:55" />
+  <Comic Title="Manifest Destiny" Price="5.95" Issue="1" Bought="False" DateOfSale="12/27/2013 21:23:06" />
+  <Comic Title="Manifest Destiny" Price="3.05" Issue="1" Bought="False" DateOfSale="12/27/2013 21:23:20" />
+  <Comic Title="Manifest Destiny" Price="4.95" Issue="1" Bought="False" DateOfSale="12/27/2013 21:23:27" />
+  <Comic Title="Manifest Destiny" Price="39.08" Issue="1d" Bought="False" DateOfSale="12/27/2013 21:25:11" />
+  <Comic Title="Manifest Destiny" Price="41.86" Issue="1d" Bought="False" DateOfSale="12/27/2013 21:25:18" />
+  <Comic Title="Manifest Destiny" Price="20.0" Issue="1b" Bought="False" DateOfSale="12/27/2013 21:26:02" />
+  <Comic Title="Think Tank" Price="2.75" Issue="12" Bought="False" DateOfSale="12/27/2013 21:57:31" />
+  <Comic Title="Think Tank" Price="2.75" Issue="11" Bought="False" DateOfSale="12/27/2013 21:57:40" />
+  <Comic Title="Think Tank" Price="6.0" Issue="9b" Bought="False" DateOfSale="12/27/2013 21:57:53" />
+  <Comic Title="Think Tank" Price="3.39" Issue="4" Bought="False" DateOfSale="12/27/2013 21:58:17" />
+  <Comic Title="Think Tank" Price="2.65" Issue="7" Bought="False" DateOfSale="12/27/2013 21:58:29" />
+  <Comic Title="Think Tank" Price="5.95" Issue="2" Bought="False" DateOfSale="12/27/2013 21:58:40" />
+  <Comic Title="Think Tank" Price="2.75" Issue="10" Bought="False" DateOfSale="12/27/2013 21:58:49" />
+  <Comic Title="Think Tank" Price="2.75" Issue="10" Bought="False" DateOfSale="12/27/2013 21:58:59" />
+  <Comic Title="Think Tank" Price="2.75" Issue="10" Bought="False" DateOfSale="12/27/2013 21:59:08" />
+  <Comic Title="Think Tank" Price="7.63" Issue="1" Bought="False" DateOfSale="12/27/2013 21:59:27" />
+  <Comic Title="Think Tank" Price="6.99" Issue="9b" Bought="False" DateOfSale="12/27/2013 21:59:40" />
+  <Comic Title="Think Tank" Price="2.64" Issue="1" Bought="True" DateOfSale="12/27/2013 22:18:29" />
+  <Comic Title="Think Tank" Price="2" Issue="2" Bought="True" DateOfSale="12/27/2013 22:19:11" />
+  <Comic Title="Think Tank" Price="2.64" Issue="2" Bought="True" DateOfSale="12/27/2013 22:19:18" />
+  <Comic Title="Think Tank" Price="2.64" Issue="3" Bought="True" DateOfSale="12/27/2013 22:19:25" />
+  <Comic Title="Think Tank" Price="2.65" Issue="3" Bought="True" DateOfSale="12/27/2013 22:19:28" />
+  <Comic Title="Think Tank" Price="2.65" Issue="4" Bought="True" DateOfSale="12/27/2013 22:19:36" />
+  <Comic Title="Think Tank" Price="2.64" Issue="4" Bought="True" DateOfSale="12/27/2013 22:19:40" />
+  <Comic Title="Think Tank" Price="2.64" Issue="5" Bought="True" DateOfSale="12/27/2013 22:19:50" />
+  <Comic Title="Think Tank" Price="2.65" Issue="5" Bought="True" DateOfSale="12/27/2013 22:19:53" />
+  <Comic Title="Think Tank" Price="2.65" Issue="5b" Bought="True" DateOfSale="12/27/2013 22:20:42" />
+  <Comic Title="Think Tank" Price="2.65" Issue="6" Bought="True" DateOfSale="12/27/2013 22:21:20" />
+  <Comic Title="Think Tank" Price="2.65" Issue="6" Bought="True" DateOfSale="12/27/2013 22:21:21" />
+  <Comic Title="Think Tank" Price="2.65" Issue="7" Bought="True" DateOfSale="12/27/2013 22:21:27" />
+  <Comic Title="Think Tank" Price="2.65" Issue="7" Bought="True" DateOfSale="12/27/2013 22:21:28" />
+  <Comic Title="Think Tank" Price="2.65" Issue="8" Bought="True" DateOfSale="12/27/2013 22:21:34" />
+  <Comic Title="Think Tank" Price="2.65" Issue="9" Bought="True" DateOfSale="12/27/2013 22:21:38" />
+  <Comic Title="Think Tank" Price="5.35" Issue="9b" Bought="True" DateOfSale="12/27/2013 22:21:59" />
+  <Comic Title="Think Tank" Price="2.65" Issue="10" Bought="True" DateOfSale="12/27/2013 22:22:11" />
+  <Comic Title="Think Tank" Price="2.1" Issue="11" Bought="True" DateOfSale="12/27/2013 22:22:17" />
+  <Comic Title="Think Tank" Price="2.65" Issue="4" Bought="True" DateOfSale="12/27/2013 22:24:13" />
+  <Comic Title="The Walking Dead" Price="21" Issue="63" Bought="False" DateOfSale="12/27/2013 22:26:51" />
+  <Comic Title="Sheltered" Price="2.99" Issue="3" Bought="False" DateOfSale="12/28/2013 15:34:12" />
+  <Comic Title="Sheltered" Price="2.5" Issue="5" Bought="False" DateOfSale="12/28/2013 15:34:25" />
+  <Comic Title="Sheltered" Price="3.45" Issue="5" Bought="False" DateOfSale="12/28/2013 15:34:47" />
+  <Comic Title="Sheltered" Price="2.5" Issue="1" Bought="False" DateOfSale="12/28/2013 15:35:00" />
+  <Comic Title="Sheltered" Price="5.99" Issue="2" Bought="False" DateOfSale="12/28/2013 15:35:17" />
+  <Comic Title="Sheltered" Price="2.25" Issue="5" Bought="False" DateOfSale="12/28/2013 15:35:25" />
+  <Comic Title="Sheltered" Price="2.25" Issue="3" Bought="False" DateOfSale="12/28/2013 15:35:39" />
+  <Comic Title="Sheltered" Price="5.50" Issue="1b" Bought="False" DateOfSale="12/28/2013 15:36:06" />
+  <Comic Title="Sheltered" Price="3.10" Issue="5" Bought="False" DateOfSale="12/28/2013 15:36:32" />
+  <Comic Title="Sheltered" Price="2.25" Issue="4" Bought="False" DateOfSale="12/28/2013 15:36:55" />
+  <Comic Title="Sheltered" Price="2.25" Issue="5" Bought="False" DateOfSale="12/28/2013 15:37:06" />
+  <Comic Title="Sheltered" Price="4.95" Issue="1" Bought="False" DateOfSale="12/28/2013 15:37:18" />
+  <Comic Title="Sheltered" Price="2.25" Issue="2" Bought="False" DateOfSale="12/28/2013 15:37:29" />
+  <Comic Title="Sheltered" Price="3.3" Issue="2" Bought="False" DateOfSale="12/28/2013 15:38:06" />
+  <Comic Title="Sheltered" Price="4.99" Issue="1" Bought="False" DateOfSale="12/28/2013 15:38:16" />
+  <Comic Title="Sheltered" Price="3.49" Issue="3" Bought="False" DateOfSale="12/28/2013 15:38:35" />
+  <Comic Title="Sheltered" Price="9.95" Issue="2" Bought="False" DateOfSale="12/28/2013 15:38:42" />
+  <Comic Title="Sheltered" Price="2.25" Issue="3" Bought="False" DateOfSale="12/28/2013 15:38:58" />
+  <Comic Title="Sheltered" Price="6.99" Issue="2" Bought="False" DateOfSale="12/28/2013 15:39:07" />
+  <Comic Title="Sheltered" Price="2.25" Issue="3" Bought="False" DateOfSale="12/28/2013 15:39:21" />
+  <Comic Title="Sheltered" Price="5.2" Issue="1" Bought="False" DateOfSale="12/28/2013 15:39:33" />
+  <Comic Title="Sheltered" Price="6.2" Issue="2" Bought="False" DateOfSale="12/28/2013 15:39:46" />
+  <Comic Title="Sheltered" Price="2.1" Issue="1" Bought="True" DateOfSale="12/28/2013 15:41:40" />
+  <Comic Title="Sheltered" Price="2.1" Issue="1" Bought="True" DateOfSale="12/28/2013 15:41:42" />
+  <Comic Title="Sheltered" Price="2.1" Issue="1" Bought="True" DateOfSale="12/28/2013 15:41:43" />
+  <Comic Title="Sheltered" Price="5.5" Issue="1b" Bought="True" DateOfSale="12/28/2013 15:41:57" />
+  <Comic Title="Sheltered" Price="2.1" Issue="2" Bought="True" DateOfSale="12/28/2013 15:42:18" />
+  <Comic Title="Sheltered" Price="2.1" Issue="3" Bought="True" DateOfSale="12/28/2013 15:42:22" />
+  <Comic Title="Sheltered" Price="2.1" Issue="4" Bought="True" DateOfSale="12/28/2013 15:42:26" />
+  <Comic Title="Sheltered" Price="2.1" Issue="5" Bought="True" DateOfSale="12/28/2013 15:42:32" />
+  <Comic Title="Secret" Price="2.1" Issue="1" Bought="True" DateOfSale="12/28/2013 15:49:26" />
+  <Comic Title="Secret" Price="2.1" Issue="1" Bought="True" DateOfSale="12/28/2013 15:49:28" />
+  <Comic Title="Secret" Price="2.1" Issue="1" Bought="True" DateOfSale="12/28/2013 15:49:29" />
+  <Comic Title="Secret" Price="2.1" Issue="1b" Bought="True" DateOfSale="12/28/2013 15:49:37" />
+  <Comic Title="Secret" Price="2.1" Issue="2" Bought="True" DateOfSale="12/28/2013 15:49:46" />
+  <Comic Title="Secret" Price="2.1" Issue="2" Bought="True" DateOfSale="12/28/2013 15:49:48" />
+  <Comic Title="Secret" Price="2.1" Issue="2b" Bought="True" DateOfSale="12/28/2013 15:49:54" />
+  <Comic Title="Secret" Price="2.1" Issue="3" Bought="True" DateOfSale="12/28/2013 15:50:09" />
+  <Comic Title="Secret" Price="2.1" Issue="4" Bought="True" DateOfSale="12/28/2013 15:50:18" />
+  <Comic Title="Secret" Price="11.49" Issue="1" Bought="False" DateOfSale="12/28/2013 16:09:44" />
+  <Comic Title="Secret" Price="8.49" Issue="2" Bought="False" DateOfSale="12/28/2013 16:09:58" />
+</root>

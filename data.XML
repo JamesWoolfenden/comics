@@ -1,0 +1,336 @@
+<?xml version="1.0"?>
+<root>
+  <Comic Title="The Walking Dead" Price="61.55" Issue="6" Bought="False" DateOfSale="12/27/2013 09:04:13" Status="CLOSED" />
+  <Comic Title="The Walking Dead" Price="53.01" Issue="6" Bought="False" DateOfSale="12/27/2013 14:09:59" Status="CLOSED" />
+  <Comic Title="The Walking Dead" Price="39.51" Issue="6" Bought="False" DateOfSale="12/27/2013 14:11:17" Status="CLOSED" />
+  <Comic Title="The Walking Dead" Price="35.0" Issue="6" Bought="False" DateOfSale="12/27/2013 14:11:27" Status="CLOSED" />
+  <Comic Title="The Walking Dead" Price="40.51" Issue="6" Bought="True" DateOfSale="12/27/2013 14:11:38" Status="CLOSED" />
+  <Comic Title="The Walking Dead" Price="45.0" Issue="6" Bought="False" DateOfSale="12/27/2013 14:11:43" Status="CLOSED" />
+  <Comic Title="The Walking Dead" Price="35.68" Issue="6" Bought="False" DateOfSale="12/27/2013 14:11:50" Status="CLOSED" />
+  <Comic Title="The Walking Dead" Price="43.0" Issue="6" Bought="False" DateOfSale="12/27/2013 14:12:37" Status="CLOSED" />
+  <Comic Title="The Walking Dead" Price="41.0" Issue="6" Bought="False" DateOfSale="12/27/2013 14:12:43" Status="CLOSED" />
+  <Comic Title="The Walking Dead" Price="76.49" Issue="6" Bought="False" DateOfSale="12/27/2013 14:12:54" Status="CLOSED" />
+  <Comic Title="The Walking Dead" Price="49.3" Issue="6" Bought="False" DateOfSale="12/27/2013 14:13:00" Status="CLOSED" />
+  <Comic Title="The Walking Dead" Price="42.5" Issue="6" Bought="False" DateOfSale="12/27/2013 14:13:11" Status="CLOSED" />
+  <Comic Title="The Walking Dead Weekly" Price="13.79" Issue="6" Bought="False" DateOfSale="12/27/2013 15:07:55" />
+  <Comic Title="The Walking Dead Weekly" Price="9.90" Issue="6" Bought="False" DateOfSale="12/27/2013 15:08:10" />
+  <Comic Title="The Walking Dead Weekly" Price="22.52" Issue="6" Bought="False" DateOfSale="12/27/2013 15:08:24" />
+  <Comic Title="The Walking Dead Weekly" Price="8.99" Issue="6" Bought="False" DateOfSale="12/27/2013 15:08:40" />
+  <Comic Title="The Walking Dead Weekly" Price="16.88" Issue="6" Bought="False" DateOfSale="12/27/2013 15:09:03" />
+  <Comic Title="The Walking Dead Weekly" Price="7.79" Issue="6" Bought="False" DateOfSale="12/27/2013 15:09:30" />
+  <Comic Title="The Walking Dead Weekly" Price="8.60" Issue="6" Bought="False" DateOfSale="12/27/2013 15:09:43" />
+  <Comic Title="The Walking Dead Weekly" Price="19.99" Issue="6" Bought="False" DateOfSale="12/27/2013 15:09:57" />
+  <Comic Title="The Walking Dead Weekly" Price="9.5" Issue="6" Bought="False" DateOfSale="12/27/2013 15:10:08" />
+  <Comic Title="The Walking Dead Weekly" Price="6.5" Issue="6" Bought="False" DateOfSale="12/27/2013 16:37:44" />
+  <Comic Title="The Walking Dead Weekly" Price="8.24" Issue="6" Bought="False" DateOfSale="12/27/2013 16:37:51" />
+  <Comic Title="The Walking Dead Weekly" Price="3.74" Issue="6" Bought="False" DateOfSale="12/27/2013 16:38:00" />
+  <Comic Title="The Walking Dead Weekly" Price="7.99" Issue="6" Bought="False" DateOfSale="12/27/2013 16:38:13" />
+  <Comic Title="The Walking Dead Weekly" Price="6.24" Issue="6" Bought="True" DateOfSale="12/27/2013 16:38:35" />
+  <Comic Title="GHOSTED" Price="2.25" Issue="5" Bought="False" DateOfSale="12/27/2013 16:41:21" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="1.99" Issue="1" Bought="False" DateOfSale="12/27/2013 16:41:40" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.25" Issue="5" Bought="False" DateOfSale="12/27/2013 16:41:51" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.8" Issue="1" Bought="False" DateOfSale="12/27/2013 16:42:11" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.09" Issue="5" Bought="False" DateOfSale="12/27/2013 16:42:27" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.09" Issue="3" Bought="False" DateOfSale="12/27/2013 16:42:35" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="4.49" Issue="1" Bought="False" DateOfSale="12/27/2013 16:42:53" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="5.85" Issue="1" Bought="False" DateOfSale="12/27/2013 16:43:04" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="5.45" Issue="1" Bought="False" DateOfSale="12/27/2013 16:43:16" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="5.09" Issue="1" Bought="False" DateOfSale="12/27/2013 16:43:30" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="3.5" Issue="4" Bought="False" DateOfSale="12/27/2013 16:43:44" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="3.3" Issue="4" Bought="False" DateOfSale="12/27/2013 16:43:56" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="3.2" Issue="4" Bought="False" DateOfSale="12/27/2013 16:44:36" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.25" Issue="5" Bought="False" DateOfSale="12/27/2013 16:44:49" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="3.99" Issue="3" Bought="False" DateOfSale="12/27/2013 16:45:05" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="3.2" Issue="4" Bought="False" DateOfSale="12/27/2013 16:45:18" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="3.15" Issue="4" Bought="False" DateOfSale="12/27/2013 16:45:22" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="19.99" Issue="1d" Bought="False" DateOfSale="12/27/2013 16:47:20" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="17.29" Issue="1d" Bought="False" DateOfSale="12/27/2013 17:20:20" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="1" Bought="True" DateOfSale="12/27/2013 20:35:12" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="1" Bought="True" DateOfSale="12/27/2013 20:35:15" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="1.25" Issue="1" Bought="True" DateOfSale="12/27/2013 20:35:23" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="1.25" Issue="1" Bought="True" DateOfSale="12/27/2013 20:35:24" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="1.25" Issue="1b" Bought="True" DateOfSale="12/27/2013 20:38:14" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="1.25" Issue="1b" Bought="True" DateOfSale="12/27/2013 20:38:17" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="2" Bought="True" DateOfSale="12/27/2013 20:38:43" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="3" Bought="True" DateOfSale="12/27/2013 20:38:59" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="3" Bought="True" DateOfSale="12/27/2013 20:39:01" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="4" Bought="True" DateOfSale="12/27/2013 20:39:16" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="4" Bought="True" DateOfSale="12/27/2013 20:39:17" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="5" Bought="True" DateOfSale="12/27/2013 20:39:29" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.1" Issue="5" Bought="True" DateOfSale="12/27/2013 20:39:31" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="2.8" Issue="2" Bought="False" DateOfSale="12/27/2013 21:03:24" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="4.6" Issue="2" Bought="False" DateOfSale="12/27/2013 21:03:41" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="4.99" Issue="2" Bought="False" DateOfSale="12/27/2013 21:03:51" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="3.95" Issue="2" Bought="False" DateOfSale="12/27/2013 21:04:02" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="3.75" Issue="2" Bought="False" DateOfSale="12/27/2013 21:04:08" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="3.25" Issue="2" Bought="False" DateOfSale="12/27/2013 21:04:16" Status="CLOSED" />
+  <Comic Title="GHOSTED" Price="3.99" Issue="2" Bought="False" DateOfSale="12/27/2013 21:04:20" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="2.1" Issue="1" Bought="True" DateOfSale="12/27/2013 21:14:29" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="2.1" Issue="2" Bought="True" DateOfSale="12/27/2013 21:14:34" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="2.25" Issue="2" Bought="False" DateOfSale="12/27/2013 21:21:39" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="11" Issue="1" Bought="False" DateOfSale="12/27/2013 21:21:52" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="3.2" Issue="2" Bought="False" DateOfSale="12/27/2013 21:21:59" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="2.25" Issue="2" Bought="False" DateOfSale="12/27/2013 21:22:07" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="8.95" Issue="1" Bought="False" DateOfSale="12/27/2013 21:22:18" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="2.25" Issue="2" Bought="False" DateOfSale="12/27/2013 21:22:26" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="2.25" Issue="2" Bought="False" DateOfSale="12/27/2013 21:22:28" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="2.25" Issue="2" Bought="False" DateOfSale="12/27/2013 21:22:29" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="8.95" Issue="1" Bought="False" DateOfSale="12/27/2013 21:22:43" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="5.54" Issue="1" Bought="False" DateOfSale="12/27/2013 21:22:55" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="5.95" Issue="1" Bought="False" DateOfSale="12/27/2013 21:23:06" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="3.05" Issue="1" Bought="False" DateOfSale="12/27/2013 21:23:20" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="4.95" Issue="1" Bought="False" DateOfSale="12/27/2013 21:23:27" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="39.08" Issue="1c" Bought="False" DateOfSale="12/27/2013 21:25:11" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="41.86" Issue="1c" Bought="False" DateOfSale="12/27/2013 21:25:18" Status="CLOSED" />
+  <Comic Title="Manifest Destiny" Price="20.0" Issue="1b" Bought="False" DateOfSale="12/27/2013 21:26:02" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.75" Issue="12" Bought="False" DateOfSale="12/27/2013 21:57:31" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.75" Issue="11" Bought="False" DateOfSale="12/27/2013 21:57:40" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="6.0" Issue="9b" Bought="False" DateOfSale="12/27/2013 21:57:53" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="3.39" Issue="4" Bought="False" DateOfSale="12/27/2013 21:58:17" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.65" Issue="7" Bought="False" DateOfSale="12/27/2013 21:58:29" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="5.95" Issue="2" Bought="False" DateOfSale="12/27/2013 21:58:40" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.75" Issue="10" Bought="False" DateOfSale="12/27/2013 21:58:49" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.75" Issue="10" Bought="False" DateOfSale="12/27/2013 21:58:59" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.75" Issue="10" Bought="False" DateOfSale="12/27/2013 21:59:08" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="7.63" Issue="1" Bought="False" DateOfSale="12/27/2013 21:59:27" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="6.99" Issue="9b" Bought="False" DateOfSale="12/27/2013 21:59:40" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.64" Issue="1" Bought="True" DateOfSale="12/27/2013 22:18:29" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2" Issue="2" Bought="True" DateOfSale="12/27/2013 22:19:11" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.64" Issue="2" Bought="True" DateOfSale="12/27/2013 22:19:18" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.64" Issue="3" Bought="True" DateOfSale="12/27/2013 22:19:25" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.65" Issue="3" Bought="True" DateOfSale="12/27/2013 22:19:28" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.65" Issue="4" Bought="True" DateOfSale="12/27/2013 22:19:36" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.64" Issue="4" Bought="True" DateOfSale="12/27/2013 22:19:40" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.64" Issue="5" Bought="True" DateOfSale="12/27/2013 22:19:50" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.65" Issue="5" Bought="True" DateOfSale="12/27/2013 22:19:53" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.65" Issue="5b" Bought="True" DateOfSale="12/27/2013 22:20:42" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.65" Issue="6" Bought="True" DateOfSale="12/27/2013 22:21:20" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.65" Issue="6" Bought="True" DateOfSale="12/27/2013 22:21:21" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.65" Issue="7" Bought="True" DateOfSale="12/27/2013 22:21:27" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.65" Issue="7" Bought="True" DateOfSale="12/27/2013 22:21:28" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.65" Issue="8" Bought="True" DateOfSale="12/27/2013 22:21:34" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.65" Issue="9" Bought="True" DateOfSale="12/27/2013 22:21:38" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="5.35" Issue="9b" Bought="True" DateOfSale="12/27/2013 22:21:59" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.65" Issue="10" Bought="True" DateOfSale="12/27/2013 22:22:11" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.1" Issue="11" Bought="True" DateOfSale="12/27/2013 22:22:17" Status="CLOSED" />
+  <Comic Title="Think Tank" Price="2.65" Issue="4" Bought="True" DateOfSale="12/27/2013 22:24:13" Status="CLOSED" />
+  <Comic Title="The Walking Dead" Price="21" Issue="63" Bought="False" DateOfSale="12/27/2013 22:26:51" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.99" Issue="3" Bought="False" DateOfSale="12/28/2013 15:34:12" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.5" Issue="5" Bought="False" DateOfSale="12/28/2013 15:34:25" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="3.45" Issue="5" Bought="False" DateOfSale="12/28/2013 15:34:47" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.5" Issue="1" Bought="False" DateOfSale="12/28/2013 15:35:00" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="5.99" Issue="2" Bought="False" DateOfSale="12/28/2013 15:35:17" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.25" Issue="5" Bought="False" DateOfSale="12/28/2013 15:35:25" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.25" Issue="3" Bought="False" DateOfSale="12/28/2013 15:35:39" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="5.50" Issue="1b" Bought="False" DateOfSale="12/28/2013 15:36:06" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="3.10" Issue="5" Bought="False" DateOfSale="12/28/2013 15:36:32" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.25" Issue="4" Bought="False" DateOfSale="12/28/2013 15:36:55" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.25" Issue="5" Bought="False" DateOfSale="12/28/2013 15:37:06" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="4.95" Issue="1" Bought="False" DateOfSale="12/28/2013 15:37:18" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.25" Issue="2" Bought="False" DateOfSale="12/28/2013 15:37:29" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="3.3" Issue="2" Bought="False" DateOfSale="12/28/2013 15:38:06" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="4.99" Issue="1" Bought="False" DateOfSale="12/28/2013 15:38:16" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="3.49" Issue="3" Bought="False" DateOfSale="12/28/2013 15:38:35" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="9.95" Issue="2" Bought="False" DateOfSale="12/28/2013 15:38:42" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.25" Issue="3" Bought="False" DateOfSale="12/28/2013 15:38:58" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="6.99" Issue="2" Bought="False" DateOfSale="12/28/2013 15:39:07" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.25" Issue="3" Bought="False" DateOfSale="12/28/2013 15:39:21" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="5.2" Issue="1" Bought="False" DateOfSale="12/28/2013 15:39:33" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="6.2" Issue="2" Bought="False" DateOfSale="12/28/2013 15:39:46" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.1" Issue="1" Bought="True" DateOfSale="12/28/2013 15:41:40" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.1" Issue="1" Bought="True" DateOfSale="12/28/2013 15:41:42" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.1" Issue="1" Bought="True" DateOfSale="12/28/2013 15:41:43" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="5.5" Issue="1b" Bought="True" DateOfSale="12/28/2013 15:41:57" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.1" Issue="2" Bought="True" DateOfSale="12/28/2013 15:42:18" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.1" Issue="3" Bought="True" DateOfSale="12/28/2013 15:42:22" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.1" Issue="4" Bought="True" DateOfSale="12/28/2013 15:42:26" Status="CLOSED" />
+  <Comic Title="Sheltered" Price="2.1" Issue="5" Bought="True" DateOfSale="12/28/2013 15:42:32" Status="CLOSED" />
+  <Comic Title="Secret" Price="2.1" Issue="1" Bought="True" DateOfSale="12/28/2013 15:49:26" Status="CLOSED" />
+  <Comic Title="Secret" Price="2.1" Issue="1" Bought="True" DateOfSale="12/28/2013 15:49:28" Status="CLOSED" />
+  <Comic Title="Secret" Price="2.1" Issue="1" Bought="True" DateOfSale="12/28/2013 15:49:29" Status="CLOSED" />
+  <Comic Title="Secret" Price="2.1" Issue="1b" Bought="True" DateOfSale="12/28/2013 15:49:37" Status="CLOSED" />
+  <Comic Title="Secret" Price="2.1" Issue="2" Bought="True" DateOfSale="12/28/2013 15:49:46" Status="CLOSED" />
+  <Comic Title="Secret" Price="2.1" Issue="2" Bought="True" DateOfSale="12/28/2013 15:49:48" Status="CLOSED" />
+  <Comic Title="Secret" Price="2.1" Issue="2b" Bought="True" DateOfSale="12/28/2013 15:49:54" Status="CLOSED" />
+  <Comic Title="Secret" Price="2.1" Issue="3" Bought="True" DateOfSale="12/28/2013 15:50:09" Status="CLOSED" />
+  <Comic Title="Secret" Price="2.1" Issue="4" Bought="True" DateOfSale="12/28/2013 15:50:18" Status="CLOSED" />
+  <Comic Title="Secret" Price="11.49" Issue="1" Bought="False" DateOfSale="12/28/2013 16:09:44" Status="CLOSED" />
+  <Comic Title="Secret" Price="8.49" Issue="2" Bought="False" DateOfSale="12/28/2013 16:09:58" Status="CLOSED" />
+  <Comic Title="GHOSTED" Description="Ghosted # 4 (1st Print) Image" Price="3.45" Issue="4" Bought="False" PublishDate="12/22/2013 12:21:33" EbayItem="370969507472" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="Ghosted # 1 (1st Print) Image" Price="5.5" Issue="1" Bought="False" PublishDate="12/22/2013 12:09:10" EbayItem="321280965084" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="GHOSTED 1 Sdcc Variant 1st Print 2 Issue Lot Image Comics" Price="7.88" Issue="2" Bought="False" PublishDate="11/18/2013 04:19:40" EbayItem="221319564057" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="IMAGE EXPO 2013 GHOSTED EXCLUSIVE VARIANT COMIC #1 JOSHUA WILLIAMSON /500" Price="27.28" Issue="1c" Bought="False" PublishDate="" EbayItem="221249170003" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="Image Comics: GHOSTED #1 - Standard Cover - 1st Print - NEW!" Price="9.99" Issue="1" Bought="False" PublishDate="11/04/2013 16:47:30" EbayItem="251372888133" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="Ghosted #1 2 3 4 5 Sean Phillips Covers Image Comics NM Williamson Sudzuka" Price="8.48" Issue="SET" Bought="False" PublishDate="12/01/2013 01:35:28" EbayItem="190988776151" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="GHOSTED 1 IMAGE EXPO VARIANT CGC 9.8  - WILLIAMSON SUDZUKA - IMAGE - SKYBOUND" Price="42.44" Issue="1c" Bought="False" PublishDate="11/20/2013 02:27:21" EbayItem="321254745542" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="Image Comics-Ghosted #1-5 First Prints-Unread-1,2,3,4,5-Horror/Crime" Price="10.31" Issue="SET" Bought="False" PublishDate="12/16/2013 23:42:10" EbayItem="161176760428" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="Image Comics: GHOSTED #5 - Standard Cover - 1st Print - NEW NM" Price="3.5" Issue="5" Bought="False" PublishDate="12/15/2013 16:15:33" EbayItem="261355032705" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="GHOSTED #5 - 1st PRINTING - SEAN PHILLIPS COVER - IMAGE COMICS - 2013" Price="2.12" Issue="5" Bought="False" PublishDate="11/12/2013 00:40:20" EbayItem="121213456207" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="Ghosted (2013 Image) #1B VF" Price="1.52" Issue="1B" Bought="False" PublishDate="12/06/2013 12:35:25" EbayItem="310814294547" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="GHOSTED #1 - JOSHUA WILLIAMSON - FIRST PRINT - IMAGE COMICS" Price="1.79" Issue="1" Bought="False" PublishDate="" EbayItem="271305564911" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="IMAGE COMICS SKYBOUND GHOSTED #1 SDCC 2013 EXCLUSIVE VARIANT" Price="24.25" Issue="1d" Bought="False" PublishDate="11/10/2013 06:21:35" EbayItem="141111945636" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="GHOSTED #5 (1st Print) Image" Price="3.25" Issue="5" Bought="False" PublishDate="12/19/2013 14:53:53" EbayItem="321278987203" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="GHOSTED #1 VARIANT SIGNED BY JOSHUA WILLIAMSON IMAGE EXPO 2013 SDCC LIMITED 500" Price="30.31" Issue="1d" Bought="False" PublishDate="12/08/2013 04:48:25" EbayItem="111234304032" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="SDCC 2013 IMAGE GHOSTED #1 SDCC  Variant Image Expo SOLD OUT KIRKMAN " Price="18.18" Issue="1d" Bought="False" PublishDate="11/22/2013 16:34:01" EbayItem="121220422770" Status="Open" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="Ghosted (2013 Image) #1A NM" Price="1.91" Issue="1" Bought="False" PublishDate="12/06/2013 12:35:11" EbayItem="310814294269" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="Ghosted (2013 Image) #1B NM" Price="1.91" Issue="1B" Bought="False" PublishDate="12/06/2013 12:35:23" EbayItem="131065163345" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="GHOSTED 1 IMAGE EXPO VARIANT CGC 9.6  - WILLIAMSON SUDZUKA - IMAGE - SKYBOUND" Price="36.38" Issue="1d" Bought="False" PublishDate="" EbayItem="221295105126" Status="Open" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="Ghosted #1 (July 2013, Image Comics) NM+" Price="3.63" Issue="1" Bought="False" PublishDate="12/04/2013 00:49:33" EbayItem="111231688328" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="10x GHOSTED #1; first print Image comics Joshua Williamson Gordan Sudzuka" Price="18.18" Issue="SET" Bought="False" PublishDate="11/11/2013 18:19:39" EbayItem="400605623258" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="Ghosted #1 lot of 5 1st print unread Image" Price="18.19" Issue="SET" Bought="False" PublishDate="11/22/2013 21:21:39" EbayItem="380777851007" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="Ghosted #1 2nd Print Image Comics Near Mint 9.4 Joshua Williamson Goran Sudzuka" Price="1.81" Issue="1b" Bought="False" PublishDate="12/01/2013 01:41:29" EbayItem="190988779488" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="Ghosted #1 SDCC San Diego Comic Con Exclusive Variant Image Skybound 2013" Price="18.19" Issue="1d" Bought="False" PublishDate="12/16/2013 01:17:41" EbayItem="221337753737" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="Ghosted #1,2,3,4,5 Image first prints unread Williamson" Price="15.16" Issue="SET" Bought="False" PublishDate="12/05/2013 06:00:24" EbayItem="380787720080" Status="VERIFIED" DateOfSale="12/29/2013 10:37:46" />
+  <Comic Title="GHOSTED" Description="GHOSTED #1 CGC 9.8 First print Image Expo Exclusive! " Price="36.38" Issue="1c" Bought="False" PublishDate="12/11/2013 01:00:02" EbayItem="301040882700" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED #1 IMAGE COMICS 1ST PRINTING HOT " Price="2.43" Issue="1" Bought="False" PublishDate="12/13/2013 15:38:55" EbayItem="331086658618" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED 1 2 3; first print Image comics Joshua Williamson Gordan Sudzuka" Price="10.91" Issue="SET" Bought="False" PublishDate="" EbayItem="131015431451" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED 1 IMAGE EXPO VARIANT JOSH WILLIAMSON SEAN PHILIPS Goran Sudzuka" Price="60.6" Issue="1d" Bought="False" PublishDate="" EbayItem="370846912621" Status="Open" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="Ghosted #1 2nd PTG VAR - 9.4+ NM - 11/20/13+ - Image Comics" Price="1.81" Issue="SET" Bought="False" PublishDate="11/14/2013 01:57:02" EbayItem="390700912151" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED #1 2 First Print JOSHUA WILLIAMSON Image Comics" Price="6.06" Issue="SET" Bought="False" PublishDate="11/18/2013 04:22:15" EbayItem="321253335108" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="2x GHOSTED #1; first &amp; 2nd print Image comics Joshua Williamson Gordan Sudzuka" Price="7.88" Issue="SET" Bought="False" PublishDate="" EbayItem="130997350065" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED  #1 / IMAGE COMICS / Joshua Williamson / Goran Sudzuka / Sean Phillips" Price="4.24" Issue="1" Bought="False" PublishDate="" EbayItem="400533084416" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED LOT 1 2 3 4 5 - 1st &amp; 2nd printing - IMAGE EXPO SDCC VARIANT - IMAGE" Price="42.44" Issue="SET" Bought="False" PublishDate="12/04/2013 20:28:07" EbayItem="221330813579" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="SDCC 2013 Comic Con Exclusive Variant GHOSTED #1 Scalera Cover. Image. NM." Price="18.19" Issue="1d" Bought="False" PublishDate="12/11/2013 14:18:07" EbayItem="321272705290" Status="Open" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="Ghosted #1 Image Comics" Price="1.81" Issue="1" Bought="False" PublishDate="11/18/2013 08:21:44" EbayItem="131050317184" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED #1 - NEW &amp; UNREAD - NM - (Image, Walking Dead, Saga, Clone, Revival) " Price="6.5" Issue="1" Bought="False" PublishDate="12/08/2013 15:58:56" EbayItem="281223371913" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED #1 First print Modern Age find - Image Expo Exclusive! NM" Price="24.25" Issue="1c" Bought="False" PublishDate="12/10/2013 21:06:02" EbayItem="291035559840" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED #1 &amp; #2 NM FIRST PRINT SOLD OUT IMAGE COMICS" Price="8.99" Issue="SET" Bought="False" PublishDate="12/08/2013 15:26:22" EbayItem="350949307705" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED 1 2 3; 1st print Image Joshua Williamson Sudzuka +2nd print #1 &amp; #2" Price="18.18" Issue="SET" Bought="False" PublishDate="" EbayItem="131025446421" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED #1 &amp; #2; first print Image comics Joshua Williamson Gordan Sudzuka" Price="9.69" Issue="SET" Bought="False" PublishDate="" EbayItem="121160112182" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="Ghosted #2 - New NM 1st print Joshua Williamson Goran Sudzuka Image" Price="8.95" Issue="2" Bought="False" PublishDate="12/01/2013 22:46:59" EbayItem="370955679434" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED #1 &amp; #2; 1st print Image comics Joshua Williamson Sudzuka +2nd print #1" Price="10.3" Issue="SET" Bought="False" PublishDate="" EbayItem="130968319678" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED 1 2 3; 1st print Image comics Joshua Williamson Sudzuka +2nd print #1" Price="10.91" Issue="SET" Bought="False" PublishDate="" EbayItem="130990354786" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED #1; first print Image comics Joshua Williamson Gordan Sudzuka" Price="7.88" Issue="1" Bought="False" PublishDate="" EbayItem="400542481182" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED #1 - NEW 1st Print NM (Image, Walking Dead, Thief of Thieves) FREE P&amp;P" Price="6.95" Issue="1" Bought="False" PublishDate="12/16/2013 18:06:30" EbayItem="281228719828" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="Ghosted #1 unread nm Joshua Williamson Image Comics hot sold out!" Price="2.24" Issue="1" Bought="False" PublishDate="11/29/2013 05:11:06" EbayItem="390713430417" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="Ghosted #1 NM  Image Comics" Price="2.18" Issue="1" Bought="False" PublishDate="12/09/2013 04:29:19" EbayItem="190997361998" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED 1 2 3 4; first print Image comics Joshua Williamson Gordan Sudzuka" Price="13.94" Issue="SET" Bought="False" PublishDate="11/06/2013 00:49:59" EbayItem="121209205171" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED 1 2 3 4 5; first print Image comics Joshua Williamson Gordan Sudzuka" Price="15.15" Issue="SET" Bought="False" PublishDate="11/11/2013 18:13:08" EbayItem="131044675881" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="GHOSTED 1 2 3 4 5; 1st print Image comics Joshua Williamson Gordan Sudzuka +xtra" Price="18.18" Issue="SET" Bought="False" PublishDate="11/11/2013 18:16:27" EbayItem="400605621267" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="Ghosted #1 2012 Near Mint First Printing Sean Phillips Cover Image Comics" Price="4.84" Issue="1" Bought="False" PublishDate="" EbayItem="200957579793" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="GHOSTED" Description="HOT Image Comics Kirkman Skybound Ghosted #2 1st PRINT - SOLD OUT Comic Book" Price="1.81" Issue="2" Bought="False" PublishDate="12/18/2013 15:04:19" EbayItem="201006234807" Status="VERIFIED" DateOfSale="12/29/2013 10:37:47" />
+  <Comic Title="Secret" Description="SECRET 1 SIGNED JONATHAN HICKMAN NYCC IMAGE EAST OF WEST BODENHEIM" Price="6.06" Issue="1" Bought="False" PublishDate="12/23/2013 00:12:48" EbayItem="201008273094" Status="VERIFIED" DateOfSale="12/29/2013 13:20:34" />
+  <Comic Title="Secret" Description="SECRET #1 NEW 1st Print NEW ' Sold Out Image Comics" Price="7.99" Issue="1" Bought="False" PublishDate="12/20/2013 15:20:47" EbayItem="171199490575" Status="VERIFIED" DateOfSale="12/29/2013 13:20:34" />
+  <Comic Title="Secret" Description="SECRET #4 1ST PRINT NM/M JONATHAN HICKMAN BODENHEIM IMAGE COMICS 2013" Price="1.81" Issue="4" Bought="False" PublishDate="12/20/2013 03:29:35" EbayItem="141145449037" Status="VERIFIED" DateOfSale="12/29/2013 13:20:34" />
+  <Comic Title="Secret" Description="Secret (2012 Image) #1B NM" Price="1.27" Issue="1b" Bought="False" PublishDate="12/09/2013 01:59:53" EbayItem="360810442118" Status="VERIFIED" DateOfSale="12/29/2013 13:20:34" />
+  <Comic Title="Secret" Description="Secret (2012 Image) #1B VF" Price="1.03" Issue="1b" Bought="False" PublishDate="12/09/2013 01:59:55" EbayItem="360810442160" Status="VERIFIED" DateOfSale="12/29/2013 13:20:34" />
+  <Comic Title="Secret" Description="SECRET #1 - JONATHAN HICKMAN SCRIPTS - IMAGE COMICS - 2012" Price="3" Issue="1" Bought="False" PublishDate="" EbayItem="121196065419" Status="VERIFIED" DateOfSale="12/29/2013 13:20:34" />
+  <Comic Title="Secret" Description="SECRET 2 SIGNED JONATHAN HICKMAN NYCC IMAGE EAST OF WEST BODENHEIM 1" Price="6.06" Issue="2" Bought="False" PublishDate="12/23/2013 00:07:40" EbayItem="201008271308" Status="VERIFIED" DateOfSale="12/29/2013 13:20:34" />
+  <Comic Title="Secret" Description="Secret (2012 Image) #1A NM" Price="4.12" Issue="1" Bought="False" PublishDate="12/09/2013 01:59:44" EbayItem="131067315757" Status="VERIFIED" DateOfSale="12/29/2013 13:20:34" />
+  <Comic Title="Secret" Description="Secret (2012 Image) #1A VF" Price="3.3" Issue="1" Bought="False" PublishDate="12/09/2013 01:59:46" EbayItem="310816379330" Status="VERIFIED" DateOfSale="12/29/2013 13:20:34" />
+  <Comic Title="Secret" Description="SECRET #1 NM 2ND PRINTING JOHNATHAN HICKMAN IMAGE COMICS" Price="1.52" Issue="1b" Bought="False" PublishDate="" EbayItem="290712752312" Status="VERIFIED" DateOfSale="12/29/2013 13:20:34" />
+  <Comic Title="Secret" Description="Image Comics Secret #3 1st Print Jonathan Hickman" Price="2.12" Issue="3" Bought="False" PublishDate="12/15/2013 00:08:18" EbayItem="321275439550" Status="VERIFIED" DateOfSale="12/29/2013 13:20:34" />
+  <Comic Title="Think Tank" Description="Think Tank #1-10 1st Prints Image Signed NM" Price="40" Issue="set" Bought="False" PublishDate="12/29/2013 11:23:15" EbayItem="121243887800" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank #1 CGC 9.8  1st Print NM/Mint Image Comics Movie " Price="34.55" Issue="1" Bought="False" PublishDate="12/26/2013 04:24:30" EbayItem="121242081754" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="THINK TANK #2 1st PRINT NM/M IMAGE" Price="12.95" Issue="2" Bought="False" PublishDate="" EbayItem="190879659742" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank #1 CGC 9.6 - 1st Print - IMAGE - NM+ SOLD OUT " Price="27.25" Issue="1" Bought="False" PublishDate="11/30/2013 15:18:54" EbayItem="360804435058" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="THINK TANK #4 1st PRINT NM/M IMAGE" Price="3.25" Issue="4" Bought="False" PublishDate="" EbayItem="321177729724" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank #1 1st Printing Image Comics Matt Hawkins" Price="12.71" Issue="1" Bought="False" PublishDate="12/27/2013 21:02:51" EbayItem="151197911514" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank Military Dossier (2012 Image) #1 NM" Price="2.55" Issue="Dossier" Bought="False" PublishDate="12/10/2013 00:21:40" EbayItem="310817150023" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank Military Dossier (2012 Image) #1 VF" Price="2.03" Issue="Dossier" Bought="False" PublishDate="12/10/2013 01:47:26" EbayItem="310817200966" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="2x THINK TANK #9; 1st print SIGNED vanity variant IMAGE comics Hawkins Ekedal" Price="12.12" Issue="set" Bought="False" PublishDate="" EbayItem="400582695996" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank #11 1st Printing Image Comics Matt Hawkins" Price="1.7" Issue="11" Bought="False" PublishDate="12/27/2013 21:06:37" EbayItem="151197914128" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank TPB (2012 Image) #2-1ST NM" Price="8.22" Issue="2" Bought="False" PublishDate="12/10/2013 01:47:33" EbayItem="360811138998" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank #10 1st Printing Image Comics Matt Hawkins" Price="1.7" Issue="10" Bought="False" PublishDate="12/27/2013 20:53:01" EbayItem="151197903976" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank #9 1st Printing Image Comics Matt Hawkins" Price="1.7" Issue="9" Bought="False" PublishDate="12/27/2013 21:02:51" EbayItem="151197911541" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="THINK TANK # 2 Comic 1ST PRINT Image Comics MATT HAWKINS NM / UNREAD" Price="6.06" Issue="2" Bought="False" PublishDate="02/23/2013 22:25:28" EbayItem="271161352943" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank (2012 Image) #1B NM- 9.2" Price="64.87" Issue="1b" Bought="False" PublishDate="12/11/2013 18:07:04" EbayItem="131069208892" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank (2012 Image) #1B VF 8.0" Price="28.8" Issue="1b" Bought="False" PublishDate="12/15/2013 21:25:11" EbayItem="310822188037" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="THINK TANK #1 First Print Image Comics Top Cow Matt Hawkins Movie" Price="15.16" Issue="1" Bought="False" PublishDate="" EbayItem="281178530327" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="THINK TANK #1; 2nd print variant IMAGE comics Matt Hawkins Rahsan Ekedal Top Cow" Price="15.15" Issue="1c" Bought="False" PublishDate="" EbayItem="400523876131" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="THINK TANK #2; 1st print RARE IMAGE comics Matt Hawkins Rahsan Ekedal Top Cow" Price="18.18" Issue="2" Bought="False" PublishDate="" EbayItem="130942373559" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank #6 1st Printing Image Comics Matt Hawkins" Price="2.02" Issue="6" Bought="False" PublishDate="12/27/2013 20:57:01" EbayItem="161184613853" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank #7 1st Printing Image Comics Matt Hawkins" Price="2.02" Issue="7" Bought="False" PublishDate="12/27/2013 20:57:02" EbayItem="161184613902" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank #4 1st Printing Image Comics Matt Hawkins" Price="2.02" Issue="4" Bought="False" PublishDate="12/27/2013 21:06:36" EbayItem="151197914062" Status="VERIFIED" DateOfSale="12/29/2013 14:29:37" />
+  <Comic Title="Think Tank" Description="Think Tank #1 Military Dossier, Image Comics, NM/NM+" Price="1.09" Issue="Dossier" Bought="False" PublishDate="" EbayItem="331019804572" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="Think Tank (2012 Image) #1B NM 9.4" Price="78.82" Issue="1b" Bought="False" PublishDate="12/11/2013 18:07:01" EbayItem="360812360337" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="Image Comics Top Cow - Think Tank #8 Matt Hawkins 1st PRINT Comic Book" Price="1.81" Issue="8" Bought="False" PublishDate="12/20/2013 18:48:30" EbayItem="201007290928" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="Think Tank (2012 Image) #1B VF/NM 9.0" Price="58.2" Issue="1b" Bought="False" PublishDate="12/11/2013 18:04:49" EbayItem="131069206722" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="THINK TANK #8 Image Comics 1st Print 2013 OVERSTOCK SALE! Matt Hawkins" Price="1.79" Issue="8" Bought="False" PublishDate="" EbayItem="200951354337" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="Think Tank #4 Comic Image Matt Hawkins Comics 1st Print" Price="3.03" Issue="4" Bought="False" PublishDate="02/20/2013 19:49:47" EbayItem="261173064743" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="THINK TANK #1 500 LTD VARIANT COVER SIGNED TV SHOW NEAR MINT IMAGE FREE SHIPPING" Price="33.34" Issue="1b" Bought="False" PublishDate="11/01/2013 23:18:04" EbayItem="360781511849" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="THINK TANK #4; 1st print RARE IMAGE comics Matt Hawkins Rahsan Ekedal Top Cow" Price="15.15" Issue="4" Bought="False" PublishDate="" EbayItem="400523877831" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="THINK TANK #7; 1st print RARE IMAGE comics Matt Hawkins Rahsan Ekedal Top Cow" Price="7.88" Issue="7" Bought="False" PublishDate="" EbayItem="121138822550" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="THINK TANK #6; 1st print RARE IMAGE comics Matt Hawkins Rahsan Ekedal Top Cow" Price="9.09" Issue="6" Bought="False" PublishDate="" EbayItem="121138821978" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="Think Tank (2012 Image) #1B CGC 9.6 QUALIFIED (0208651014)" Price="48.5" Issue="1b" Bought="False" PublishDate="12/01/2013 23:11:33" EbayItem="131061402760" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="Think Tank (2012 Image) #1B CGC 9.8 QUALIFIED (0208651013)" Price="54.57" Issue="1b" Bought="False" PublishDate="12/13/2013 02:41:31" EbayItem="131070274531" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="Think Tank #3 Comic Image Matt Hawkins Comics 1st Print" Price="3.63" Issue="3" Bought="False" PublishDate="02/20/2013 19:53:41" EbayItem="261173066654" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="Think Tank #1 CGC 9.8 Image Comics 1st print 2012 White pgs Hawkins NM+ Movie" Price="75.78" Issue="1" Bought="False" PublishDate="" EbayItem="151136068417" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="THINK TANK #11 MATT HAWKINS. SCI-FI! (TOP COW/IMAGE) FREE UK P+P! NEW! LAST1" Price="3.7" Issue="11" Bought="False" PublishDate="12/06/2013 11:38:01" EbayItem="390718989184" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="Think Tank 2 A Image Matt Hawkins movie news sdcc walking dead 1st printing" Price="10.76" Issue="2" Bought="False" PublishDate="12/13/2013 06:24:37" EbayItem="321274118363" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="THINK TANK # 3 Comic 1ST PRINT Image Comics MATT HAWKINS VF / NM / UNREAD" Price="2.42" Issue="3" Bought="False" PublishDate="02/23/2013 22:22:07" EbayItem="271161351524" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="Think Tank #3 1st Print (2012) // Near Mint ~ Image Comics" Price="2.9" Issue="3" Bought="False" PublishDate="03/06/2013 23:52:27" EbayItem="380593887184" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="Think Tank 1 B Virgin Variant Image Hawkins movie news sdcc walking dead 1st" Price="34.43" Issue="1b" Bought="False" PublishDate="12/13/2013 06:24:33" EbayItem="321274118339" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="Think Tank #9 Vanity Variant SIGNED BY MATT HAWKINS Image 1st print New NM" Price="19.95" Issue="9b" Bought="False" PublishDate="12/05/2013 22:08:44" EbayItem="370958452366" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="Think Tank" Description="Think Tank #2 1st Print Image Comics NM Bag+Board" Price="9.09" Issue="2" Bought="False" PublishDate="11/02/2013 02:13:11" EbayItem="331057847674" Status="VERIFIED" DateOfSale="12/29/2013 14:29:38" />
+  <Comic Title="The Walking Dead" Description="" Price="14.99" Issue="1NYCCSketch" Bought="True" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 19:09:33" />
+  <Comic Title="The Walking Dead" Description="" Price="23.25" Issue="1NYCCSketch" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 19:11:10" />
+  <Comic Title="The Walking Dead" Description="" Price="28.25" Issue="1NYCCSketch" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 19:11:28" />
+  <Comic Title="The Walking Dead" Description="" Price="38.00" Issue="1NYCCSketch" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 19:12:01" />
+  <Comic Title="The Walking Dead" Description="" Price="22.81" Issue="1NYCCSketch" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 19:12:34" />
+  <Comic Title="The Walking Dead" Description="" Price="29.99" Issue="1NYCCSketch" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 19:12:49" />
+  <Comic Title="The Walking Dead" Description="" Price="23.22" Issue="1NYCCSketch" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 19:13:00" />
+  <Comic Title="The Walking Dead" Description="" Price="24.95" Issue="1NYCCSketch" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 19:14:33" />
+  <Comic Title="The Walking Dead" Description="" Price="25.82" Issue="1NYCCSketch" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 19:15:00" />
+  <Comic Title="The Walking Dead" Description="" Price="29.45" Issue="1NYCCSketch" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 19:15:23" />
+  <Comic Title="The Walking Dead" Description="" Price="24.95" Issue="1NYCCSketch" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 19:16:42" />
+  <Comic Title="The Walking Dead" Description="" Price="29.99" Issue="1NYCCSketch" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 19:16:53" />
+  <Comic Title="Thief of Thieves" Description="" Price="37.25" Issue="1G" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 19:22:02" />
+  <Comic Title="Thief of Thieves" Description="" Price="70.0" Issue="1G" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 19:22:28" />
+  <Comic Title="Thief of Thieves" Description="" Price="44.25" Issue="1G" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/29/2013 21:42:27" />
+  <Comic Title="Manifest Destiny" Description="Manifest Destiny #1 NM- 1st Print Free UK P&amp;P Image Comics Dingess Roberts Gieni" Price="6.95" Issue="1" Bought="False" PublishDate="12/19/2013 17:41:29" EbayItem="171198930030" Status="VERIFIED" DateOfSale="12/29/2013 21:50:50" />
+  <Comic Title="Manifest Destiny" Description="MANIFEST DESTINY #1 IMAGE " Price="3.03" Issue="1" Bought="False" PublishDate="12/26/2013 23:50:02" EbayItem="161183942800" Status="VERIFIED" DateOfSale="12/29/2013 21:50:50" />
+  <Comic Title="Manifest Destiny" Description="Manifest Destiny #1 LBCC Long Beach Sketch Variant. Image. Skybound. NM." Price="45.47" Issue="1c" Bought="False" PublishDate="12/25/2013 10:21:55" EbayItem="321283207521" Status="VERIFIED" DateOfSale="12/29/2013 21:50:51" />
+  <Comic Title="Manifest Destiny" Description="MANIFEST DESTINY #1 &amp; #2 FIRST PRINTS IMAGE COMICS NM" Price="12.99" Issue="Set" Bought="False" PublishDate="12/16/2013 17:53:46" EbayItem="350956236773" Status="VERIFIED" DateOfSale="12/29/2013 21:50:51" />
+  <Comic Title="Manifest Destiny" Description="MANIFEST DESTINY #1 - 1st print  New &amp; NM (Image, Pretty Deadly, Saga) SOLD OUT!" Price="10.95" Issue="1" Bought="False" PublishDate="12/21/2013 16:18:58" EbayItem="281231631354" Status="VERIFIED" DateOfSale="12/29/2013 21:50:51" />
+  <Comic Title="Manifest Destiny" Description="Manifest Destiny 1 1st print Chris Dingess Matthew Roberts Owen Gieni Image" Price="3.63" Issue="1" Bought="False" PublishDate="12/29/2013 04:58:59" EbayItem="251413235789" Status="VERIFIED" DateOfSale="12/29/2013 21:50:51" />
+  <Comic Title="Manifest Destiny" Description="Manifest Destiny 1-A , 1 B,  2. NM    1st Prints. Image Comics" Price="12.12" Issue="Set" Bought="False" PublishDate="12/28/2013 06:56:30" EbayItem="201010615744" Status="VERIFIED" DateOfSale="12/29/2013 21:50:51" />
+  <Comic Title="The Walking Dead" Description="" Price="23.0" Issue="1CHICAGO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 18:28:45" />
+  <Comic Title="The Walking Dead" Description="" Price="24.0" Issue="1OHIOWIZARD" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 18:30:31" />
+  <Comic Title="The Walking Dead" Description="" Price="29.0" Issue="1AUSTINWIZARD" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 18:31:06" />
+  <Comic Title="The Walking Dead" Description="" Price="43.5" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:32:29" />
+  <Comic Title="The Walking Dead" Description="" Price="106" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:32:37" />
+  <Comic Title="The Walking Dead" Description="" Price="40" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:32:42" />
+  <Comic Title="The Walking Dead" Description="" Price="32.5" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:32:46" />
+  <Comic Title="The Walking Dead" Description="" Price="27.95" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:32:53" />
+  <Comic Title="The Walking Dead" Description="" Price="21.87" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:37:35" />
+  <Comic Title="The Walking Dead" Description="" Price="32.5" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:37:52" />
+  <Comic Title="The Walking Dead" Description="" Price="27.61" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:38:24" />
+  <Comic Title="The Walking Dead" Description="" Price="21.87" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:38:40" />
+  <Comic Title="The Walking Dead" Description="" Price="16.96" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:39:18" />
+  <Comic Title="The Walking Dead" Description="" Price="24.88" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:39:36" />
+  <Comic Title="The Walking Dead" Description="" Price="24.91" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:40:18" />
+  <Comic Title="The Walking Dead" Description="" Price="35.7" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:40:30" />
+  <Comic Title="The Walking Dead" Description="" Price="21.03" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:40:58" />
+  <Comic Title="The Walking Dead" Description="" Price="23.14" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:41:15" />
+  <Comic Title="The Walking Dead" Description="" Price="26.47" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:41:40" />
+  <Comic Title="The Walking Dead" Description="" Price="29.50" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:42:04" />
+  <Comic Title="The Walking Dead" Description="" Price="27.68" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:42:21" />
+  <Comic Title="The Walking Dead" Description="" Price="23.14" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:42:39" />
+  <Comic Title="The Walking Dead" Description="" Price="22.84" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:43:21" />
+  <Comic Title="The Walking Dead" Description="" Price="33.05" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:43:44" />
+  <Comic Title="The Walking Dead" Description="" Price="22.09" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:44:14" />
+  <Comic Title="The Walking Dead" Description="" Price="26.47" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:44:32" />
+  <Comic Title="The Walking Dead" Description="" Price="21.6" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:44:54" />
+  <Comic Title="The Walking Dead" Description="" Price="33.28" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:45:16" />
+  <Comic Title="The Walking Dead" Description="" Price="23.14" Issue="112IMAGEEXPO" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 21:45:28" />
+  <Comic Title="The Walking Dead" Description="" Price="83.5" Issue="115N" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 22:09:13" />
+  <Comic Title="The Walking Dead" Description="" Price="122" Issue="115N" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 22:09:17" />
+  <Comic Title="The Walking Dead" Description="" Price="103" Issue="115N" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 22:09:20" />
+  <Comic Title="The Walking Dead" Description="" Price="59.97" Issue="115N" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 22:09:28" />
+  <Comic Title="The Walking Dead" Description="" Price="71.3" Issue="115N" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 22:09:36" />
+  <Comic Title="The Walking Dead" Description="" Price="99.95" Issue="115N" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 22:09:42" />
+  <Comic Title="The Walking Dead" Description="" Price="67.76" Issue="115N" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 22:09:49" />
+  <Comic Title="The Walking Dead" Description="" Price="96.76" Issue="115N" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 22:10:11" />
+  <Comic Title="The Walking Dead" Description="" Price="119.71" Issue="115N" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 22:10:17" />
+  <Comic Title="The Walking Dead" Description="" Price="96.75" Issue="115N" Bought="False" PublishDate="" EbayItem="" Status="Closed" DateOfSale="12/31/2013 22:10:22" />
+  <Comic Title="GHOSTED" Description="Ghosted #1 - SOLD OUT New NM 1st print Joshua Williamson Goran Sudzuka Image" Price="4.5" Issue="1" Bought="False" PublishDate="12/29/2013 19:48:07" EbayItem="370974242882" Status="Open" DateOfSale="01/01/2014 15:10:07" />
+  <Comic Title="GHOSTED" Description="IMAGE COMIC GHOSTED #1 FIRST PRINT BAGGED AND BOARDED " Price="4.99" Issue="1" Bought="False" PublishDate="12/30/2013 15:46:50" EbayItem="221345283625" Status="Open" DateOfSale="01/01/2014 15:10:07" />
+  <Comic Title="GHOSTED" Description="GHOSTED #1 IMAGE COMICS NM 2013" Price="6.99" Issue="1" Bought="False" PublishDate="12/29/2013 20:24:56" EbayItem="191018137716" Status="Open" DateOfSale="01/01/2014 15:10:07" />
+  <Comic Title="GHOSTED" Description="Ghosted #1 2 3 4 5 Sean Phillips Covers Image Comics NM Williamson Sudzuka" Price="8.45" Issue="1" Bought="False" PublishDate="01/01/2014 03:20:11" EbayItem="191020467280" Status="Open" DateOfSale="01/01/2014 15:10:07" />
+  <Comic Title="GHOSTED" Description="GHOSTED VOL #1 HAUNTED HEIST TPB Joshua Williamson Image Comics #1-5 TP" Price="7.84" Issue="1" Bought="False" PublishDate="12/06/2013 18:34:42" EbayItem="370959033820" Status="Open" DateOfSale="01/01/2014 15:10:07" />
+  <Comic Title="GHOSTED" Description="GHOSTED TPB VOL 1 HAUNTED HEIST JOSHUA WILLIAMS GORAN SUDUKA IMAGE COMICS" Price="4.82" Issue="1" Bought="False" PublishDate="12/15/2013 05:34:55" EbayItem="360815092086" Status="Open" DateOfSale="01/01/2014 15:10:07" />
+  <Comic Title="GHOSTED" Description="Ghosted #2 - New NM 1st print Joshua Williamson Goran Sudzuka Image" Price="8.95" Issue="1" Bought="False" PublishDate="01/01/2014 00:39:24" EbayItem="370975766534" Status="Open" DateOfSale="01/01/2014 15:10:07" />
+  <Comic Title="GHOSTED" Description="GHOSTED #1 ~ JULY 2013 ~ IMAGE COMICS ~ NM ~ SOLD OUT NEW SERIES" Price="4.99" Issue="1" Bought="False" PublishDate="12/29/2013 13:40:38" EbayItem="191017790540" Status="Open" DateOfSale="01/01/2014 15:10:07" />
+  <Comic Title="GHOSTED" Description="Ghosted #1 2 3 4 5. NM  Image Comics" Price="12.07" Issue="1" Bought="False" PublishDate="12/29/2013 15:20:37" EbayItem="201011308356" Status="Open" DateOfSale="01/01/2014 15:10:07" />
+</root>
