@@ -4,16 +4,19 @@ $Issue="1"
 $result=Get-EbayRssItems -Keywords "GHOSTED Image $Issue" "Poster Card Still A4 Novel SET LOT"
 $result=Get-EbayRssItems -Keywords "THINK TANK Image $Issue" "Poster Card Still A4 Novel SET LOT"
 $result=Get-EbayRssItems -Keywords "SECRET Image $Issue" "Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY"
-#$result=Get-EbayRssItems -Keywords "GHOSTED Image $Issue SET" "Skullkickers Poster Card Still A4 Novel"
+#$result=Get-EbayRssItems -Keywords "GHOSTED Image $Issue SET" "Skullkickers Poster Card Still A4 Novel" $true
 
 $result=Get-EbayRssItems -Keywords "Manifest Destiny Image" "Poster Card Still A4 Novel SET LOT"
 $result=Get-EbayRssItems -Keywords "chew image" "dancer volume bedlam luther happy nightly romana VOL saga"
-
+$result=Get-EbayRssItems -Keywords "370969507472"
 
 http://www.ebay.co.uk/sch/UK-Comics-Annuals-/50179/i.html?_from=R40&_nkw=warrior+-commando+-marvel+-starblazer&LH_PrefLoc=3&LH_Complete=1&LH_Sold=1&rt=nc&_rss=1
 http://www.ebay.co.uk/sch/UK-Comics-Annuals-/50179/i.html?_from=R40&_nkw=warrior+-commando+-marvel+-starblazer&LH_PrefLoc=3&rt=nc&_rss=1
+http://www.ebay.co.uk/sch/UK-Comics-Annuals-/50179/i.html?_from=R40&_nkw=370969507472&LH_PrefLoc=3&rt=nc&_rss=1
+&programid=15
 
 &_rss=1
+
 add-array $result
 verify "Chew" 
 #State Pending
@@ -23,3 +26,9 @@ find open
 
 verify-record
 get each open record for a type and fix, change state to verified
+
+foreach ($old in $existingrecords)
+   {
+      $result=$result|where {$_.Ebayitem -ne $old.ebayItem}
+   }
+   

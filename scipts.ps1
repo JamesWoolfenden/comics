@@ -1,5 +1,7 @@
 $dbfile="C:\comics\data.XML"
 
+import-module "C:\Users\Jim\Documents\GitHub\EbayRssPowershellModule\EbayRssPowershellModule.psm1" -force
+
 function read-db
 {
    [xml]$comics= Get-Content $dbfile
@@ -193,7 +195,9 @@ function update()
    param( 
    [Parameter(Mandatory=$true)]
    [string]$ebayitem,
-   [string]$UpdateValue
+   [string]$UpdateValue,
+   [string]$price,
+   [string]$title
    )
    
    # if loading the XML from file then do this
@@ -212,6 +216,16 @@ function update()
       $comic.Issue = $UpdateValue
    }
    
+   if ($title)
+   {
+      $comic.title=$title
+   }
+   
+   if ($price)
+   {
+      $comic.Price=$Price
+   }
+   
    $comic.Status = "VERIFIED"
 
    $doc.Save($dbfile)
@@ -227,3 +241,44 @@ function view
    $IE.visible=$true
 }
 
+function update-price
+{
+   Param(
+         [Parameter(Mandatory=$true)]
+         [string]$title,
+         [Parameter(Mandatory=$true)]
+         [string]$Issue)
+   
+      $test=read-db
+      $results=$test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue -And ($_.Status -eq "VERIFIED" -or $_.Status -eq "Open")}
+
+   try
+   {
+      foreach($record in $results)
+      {
+         view $record.ebayitem
+         [decimal]$price=read-host "Price $($record.Price)"
+         if ($price -eq $NULL -or $price -eq 0)
+         {
+            $price=$record.Price
+         }
+         
+         [decimal]$postage=read-host Postage
+         [decimal]$price=$price+$postage
+         $newtitle=read-host "Title $($record.title)"
+         
+         $actualIssue=read-host "Issue $($record.Issue)"
+         if ($actualIssue -eq $NULL -or $actualIssue -eq "")
+         {
+            $actualIssue=$record.Issue
+         }
+         
+         update $record.ebayitem $actualIssue $price $newtitle
+      }
+   }
+   catch
+   {
+    throw $_.Exception
+    exit 1
+   }
+}
