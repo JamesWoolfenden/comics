@@ -249,14 +249,23 @@ function update-price
          [Parameter(Mandatory=$true)]
          [string]$Issue)
    
-      $test=read-db
-      $results=$test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue -And ($_.Status -eq "VERIFIED" -or $_.Status -eq "Open")}
+   $test=read-db
+   $results=$test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue -And ($_.Status -eq "VERIFIED" -or $_.Status -eq "Open")}
 
+   if ($results -eq "" -or $results -eq $NUll)
+   { 
+      return "None found."
+   }
+      
    try
    {
       foreach($record in $results)
       {
-         view $record.ebayitem
+         if ($record.ebayitem)
+         {
+            view $record.ebayitem
+         }
+         
          [decimal]$price=read-host "Price $($record.Price)"
          if ($price -eq $NULL -or $price -eq 0)
          {

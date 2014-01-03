@@ -7,17 +7,21 @@ $result=Get-EbayRssItems -Keywords "SECRET Image $Issue" "Skullkickers Poster Ca
 #$result=Get-EbayRssItems -Keywords "GHOSTED Image $Issue SET" "Skullkickers Poster Card Still A4 Novel" $true
 
 $result=Get-EbayRssItems -Keywords "Manifest Destiny Image" "Poster Card Still A4 Novel SET LOT"
-$result=Get-EbayRssItems -Keywords "chew image" "dancer volume bedlam luther happy nightly romana VOL saga"
-$result=Get-EbayRssItems -Keywords "370969507472"
+$result=Get-EbayRssItems -Keywords "chew image" "dancer volume bedlam luther happy nightly romana VOL saga" 
+$result=Get-EbayRssItems -Keywords "watchmen US comic" "DVD bluray canvas dress before novel spawn figure badge tpb after fashion essentials"
+$result=Get-EbayRssItems -Keywords "peter panzerfaust" "volume vol chew pacific sex jesus"
+watchmen -before -novel -spawn -figure -badge -tpb -after -fashion -essentials
+$result=Get-EbayRssItems -Keywords "370969507472" 
 
 http://www.ebay.co.uk/sch/UK-Comics-Annuals-/50179/i.html?_from=R40&_nkw=warrior+-commando+-marvel+-starblazer&LH_PrefLoc=3&LH_Complete=1&LH_Sold=1&rt=nc&_rss=1
-http://www.ebay.co.uk/sch/UK-Comics-Annuals-/50179/i.html?_from=R40&_nkw=warrior+-commando+-marvel+-starblazer&LH_PrefLoc=3&rt=nc&_rss=1
+http://www.ebay.co.uk/sch/UK-Comics-Annuals-/50179/i.html?_from=R40&_nkw=warrior+-commando+
+-marvel+-starblazer&LH_PrefLoc=3&rt=nc&_rss=1
 http://www.ebay.co.uk/sch/UK-Comics-Annuals-/50179/i.html?_from=R40&_nkw=370969507472&LH_PrefLoc=3&rt=nc&_rss=1
 &programid=15
 
 &_rss=1
 
-add-array $result
+add-array $result 
 verify "Chew" 
 #State Pending
 #write-queries out to table
