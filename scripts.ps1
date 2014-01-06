@@ -21,7 +21,8 @@ function add
    [string]$PublishDate,
    [string]$Ebayitem,
    [string]$Status="Closed",
-   [string]$Description="")
+   [string]$Description="",
+   [string]$postage="0.00")
 
    if (!(test-path $dbfile))
    {
@@ -42,6 +43,7 @@ function add
    $element.SetAttribute('Status', $Status)
    $saledate = Get-Date 
    $element.SetAttribute('DateOfSale',$saledate)
+   $element.SetAttribute('Postage',$postage)
    
    $doc.DocumentElement.AppendChild($element)
 
@@ -75,6 +77,7 @@ function find()
    [int]$count=1
    [int]$owned=$NULL
    [double]$paid=$NULL
+   [double]$postage=$NULL
    
    if ($result -eq $NULL)
    {
@@ -84,27 +87,27 @@ function find()
    if($result.count)
    {
       $count=$result.count
-      $minimum=$result[0].Price
+      #Write-host $result.count
+      $minimum=[double]$result[0].Price+[double]$result[0].postage
    }
    else
    {
-      $minimum=$result.Price
+      $minimum=[double]$result.Price+[double]$result.postage
    }
    
    foreach($comic in $result)
    {      
-      #write-host  $comic.Price $minimum
+      [string]$comic.Price=[double]$comic.Price+[double]$comic.postage 
       $minimum=[System.Math]::Min($comic.Price,$minimum)
       $maximum=[System.Math]::Max($comic.Price,$maximum)
+      
       if ($comic.Bought -eq $true)
       {
          $paid += $comic.Price
          $owned ++ 
       }
-          
-      #Write-host "Paid  $($comic.Bought) $paid"
-      #Write-host "Price  $($comic.Price)"
-      $total += $comic.Price    
+      
+      $total += $comic.Price   
    }
    
     $averagepaid=$paid/$owned
@@ -117,7 +120,6 @@ function find()
        $average=$total
     }
     
-   
     $average="{0:N2}" -f $average
     
     $objStats = New-Object System.Object
@@ -138,7 +140,7 @@ function stat()
    $test=read-db
    if ($Issue)
    {
-      $test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue}|Format-Table 
+      $test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue} | Format-Table 
    }
    else
    {
@@ -166,19 +168,23 @@ function add-array()
    foreach ($old in $existingrecords)
    {
       $resultset=$resultset|where {$_.Ebayitem -ne $old.ebayItem}
-      #$resultset.count
    }
    
    #test $existingrecords.Ebayitem  $result.Ebayitem 
    #add state as pending for live auctions
-   
-   foreach($result in $resultset)
+   if ($resultset -ne $Null)
    {
-      add $title $issue $result.CurrentPrice $false $result.PublishDate $result.Ebayitem "Open" $result.Title
+      foreach($result in $resultset)
+      {
+         add $title $issue $result.CurrentPrice $false $result.PublishDate $result.Ebayitem "Open" $result.Title
+      }
+      
+      "$($resultset.count) Added"
    }
-   
-   #$resultset
-   "$($resultset.count) Added"
+   Else
+   {
+      "None Added"
+   }   
 }
 
 
@@ -197,7 +203,9 @@ function update()
    [string]$ebayitem,
    [string]$UpdateValue,
    [string]$price,
-   [string]$title
+   [string]$postage,  
+   [string]$title,
+   [string]$status="VERIFIED"
    )
    
    # if loading the XML from file then do this
@@ -223,10 +231,15 @@ function update()
    
    if ($price)
    {
-      $comic.Price=$Price
+      $comic.price=$price
    }
    
-   $comic.Status = "VERIFIED"
+   if ($postage)
+   {
+      $comic.postage=$postage
+   }
+   
+   $comic.Status = $status
 
    $doc.Save($dbfile)
 }
@@ -241,8 +254,10 @@ function view
    $IE.visible=$true
 }
 
-function update-price
+function update-recordset
 {
+
+#renaming comic is an issue
    Param(
          [Parameter(Mandatory=$true)]
          [string]$title,
@@ -252,7 +267,7 @@ function update-price
    $test=read-db
    $results=$test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue -And ($_.Status -eq "VERIFIED" -or $_.Status -eq "Open")}
 
-   if ($results -eq "" -or $results -eq $NUll)
+   if ($results -eq "" -or $results -eq $Null)
    { 
       return "None found."
    }
@@ -261,28 +276,7 @@ function update-price
    {
       foreach($record in $results)
       {
-         if ($record.ebayitem)
-         {
-            view $record.ebayitem
-         }
-         
-         [decimal]$price=read-host "Price $($record.Price)"
-         if ($price -eq $NULL -or $price -eq 0)
-         {
-            $price=$record.Price
-         }
-         
-         [decimal]$postage=read-host Postage
-         [decimal]$price=$price+$postage
-         $newtitle=read-host "Title $($record.title)"
-         
-         $actualIssue=read-host "Issue $($record.Issue)"
-         if ($actualIssue -eq $NULL -or $actualIssue -eq "")
-         {
-            $actualIssue=$record.Issue
-         }
-         
-         update $record.ebayitem $actualIssue $price $newtitle
+         update-record $record 
       }
    }
    catch
@@ -291,3 +285,87 @@ function update-price
     exit 1
    }
 }
+
+function update-record
+{
+   param(
+   $record, 
+   [string]$newstatus)
+   
+   if ($record.ebayitem)
+   {
+      view $record.ebayitem
+   }
+         
+   [decimal]$price=read-host "Price $($record.Price)"
+   if ($price -eq $NULL -or $price -eq 0)
+   {
+      $price=$record.Price
+   }
+         
+   [decimal]$postage=read-host "Postage $($record.postage)"
+   #[decimal]$price=$price+$postage
+   $newtitle=read-host "Title $($record.title)"
+         
+   $actualIssue=read-host "Issue $($record.Issue)"
+   if ($actualIssue -eq $NULL -or $actualIssue -eq "")
+   {
+      $actualIssue=$record.Issue
+   }
+   
+   [string]$newstatus=read-host $record.Status "(V=VERIFIED,C=Closed)"
+   if (!($newstatus -eq $NULL -or $newstatus -eq ""))
+   {
+      if ($newstatus -eq "C")
+      {
+         $newstatus="CLOSED"
+      }
+      Else
+      {
+         Write-host "Set to Verified"
+         $newstatus="VERIFIED"
+      }
+   }
+   else
+   {
+      Write-host "new status not set"
+      $newstatus=$record.status
+   }
+      
+   update $record.ebayitem $actualIssue $price $postage $newtitle -Status $newstatus
+}
+
+function Finalize-Records()
+{
+   Param(
+        [Parameter(Mandatory=$true)]
+        [string]$title,
+        [Parameter(Mandatory=$true)]
+        [string]$Issue)
+   
+   $test=read-db
+   $results=$test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue -And ($_.Status -eq "VERIFIED")}
+
+   $result=$results
+
+   if ($results -eq "" -or $results -eq $Null)
+   { 
+      return "None found."
+   }
+      
+   try
+   {
+      foreach($record in $results)
+      {
+         update-record $record 
+      }
+   }
+   catch
+   {
+    throw $_.Exception
+    exit 1
+   }
+}
+
+new-alias fr Finalize-Records -force
+new-alias ur update-recordset -force
