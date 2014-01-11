@@ -27,16 +27,20 @@ add-array $newresult "CLONE" 1
 
 $closedresult=Get-EbayRssItems -Keywords "Manifest Destiny Image" -ExcludeWords "Poster Card Still A4 Novel SET LOT" -closed $true|where {$_.BidCount -ne "0"}
 add-array $closedresult "Manifest Destiny" 1
-
 $newresult=Get-EbayRssItems -Keywords "Manifest Destiny Image" -ExcludeWords "Poster Card Still A4 Novel SET LOT"
 add-array $newresult "Manifest Destiny" 1
 
 $newresult=Get-EbayRssItems -Keywords "Peter Panzerfaust" "volume vol chew pacific sex jesus sheltered Ninja Elephantmen"
 add-array $newresult "Peter Panzerfaust" 1
-380798539175
-
 $closedresult=Get-EbayRssItems -Keywords "Peter Panzerfaust" "volume vol chew pacific sex jesus sheltered Ninja Elephantmen" -closed $true|where {$_.BidCount -ne "0"}
 add-array $closedresult "Peter Panzerfaust" 1
+
+
+$newresult=Get-EbayRssItems -Keywords "watchmen" -ExcludeWords "before novel spawn figure badge tpb after fashion"
+add-array $newresult "watchmen" 1
+$closedresult=Get-EbayRssItems -Keywords "watchmen" -ExcludeWords "before novel spawn figure badge tpb after fashion"  -closed $true|where {$_.BidCount -ne "0"}
+add-array $closedresult "watchmen" 1
+
 
 
 $result=Get-EbayRssItems -Keywords "SECRET Image $Issue" "Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY"
@@ -85,3 +89,7 @@ foreach ($old in $existingrecords)
       $result=$result|where {$_.Ebayitem -ne $old.ebayItem}
    }
    
+   
+   stuff i can figure out
+fshippincost
+seller=mbg

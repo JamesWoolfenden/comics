@@ -27,7 +27,7 @@ function add
    [string]$BestOffer="",
    [string]$BidCount="",
    [string]$BuyItNowPrice="",
-   [DateTime]$CloseDate,
+   [string]$CloseDate,
    [string]$ImageSrc="",
    [string]$Link=""
    )
@@ -199,7 +199,9 @@ function add-array()
       {
          $trimmedtitle=clean-string $result.Title
          
-         add -title $title -issue $issue -price $result.CurrentPrice -bought $false -PublishDate $result.PublishDate -Ebayitem $result.Ebayitem -Status "Open" -Description $trimmedtitle
+         add -title $title -issue $issue -price $result.CurrentPrice -bought $false -PublishDate $result.PublishDate -Ebayitem $result.Ebayitem `
+             -Status "Open" -Description $trimmedtitle -AuctionType $result.AuctionType -BestOffer $result.BestOffer -BidCount $result.BidCount `
+             -BuyItNowPrice $result.BuyItNowPrice -CloseDate $result.CloseDate -ImageSrc $result.ImageSrc -Link $result.Link
       }
       
       if ($resultset.count)
