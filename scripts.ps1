@@ -22,33 +22,54 @@ function add
    [string]$Ebayitem,
    [string]$Status="Closed",
    [string]$Description="",
-   [string]$postage="0.00")
+   [string]$postage="0.00",
+   [string]$AuctionType="",
+   [string]$BestOffer="",
+   [string]$BidCount="",
+   [string]$BuyItNowPrice="",
+   [DateTime]$CloseDate,
+   [string]$ImageSrc="",
+   [string]$Link=""
+   )
 
    if (!(test-path $dbfile))
    {
       new-xmlfile $dbfile
    }
    
-   write-host "Updating $dbfile"
-   
-   $doc = [xml](Get-Content -Path $dbfile) 
-   $element   = $doc.CreateElement("Comic")
-   $element.SetAttribute('Title',$title)
-   $element.SetAttribute('Description',$Description)
-   $element.SetAttribute('Price',$Price)
-   $element.SetAttribute('Issue',$Issue)
-   $element.SetAttribute('Bought',$bought)
-   $element.SetAttribute('PublishDate',$PublishDate)
-   $element.SetAttribute('EbayItem', $EbayItem)
-   $element.SetAttribute('Status', $Status)
-   $saledate = Get-Date 
-   $element.SetAttribute('DateOfSale',$saledate)
-   $element.SetAttribute('Postage',$postage)
-   
-   $doc.DocumentElement.AppendChild($element)
+   #write-host "Updating $dbfile"
+   try 
+   {
+      $doc = [xml](Get-Content -Path $dbfile) 
+      $element = $doc.CreateElement("Comic")
+      $element.SetAttribute('Title',$title)
+      $element.SetAttribute('Description', $Description.substring(0, [System.Math]::Min(250, $Description.Length)))
+      $element.SetAttribute('Price',$Price)
+      $element.SetAttribute('Issue',$Issue)
+      $element.SetAttribute('Bought',$bought)
+      $element.SetAttribute('PublishDate',$PublishDate)
+      $element.SetAttribute('EbayItem', $EbayItem)
+      $element.SetAttribute('Status', $Status)
+      $saledate = Get-Date 
+      $element.SetAttribute('DateOfSale', $saledate)
+      $element.SetAttribute('Postage', $postage)
+      $element.SetAttribute('AuctionType', $AuctionType)
+      $element.SetAttribute('BestOffer', $BestOffer)
+      $element.SetAttribute('BidCount', $BidCount)
+      $element.SetAttribute('BuyItNowPrice', $BuyItNowPrice)
+      $element.SetAttribute('CloseDate', $CloseDate)
+      $element.SetAttribute('ImageSrc',$ImageSrc)
+      $element.SetAttribute('Link',$Link)
+      $doc.DocumentElement.AppendChild($element)
 
-   $doc.Save($dbfile)
-   write-host "Updated $dbfile."
+      $doc.Save($dbfile)
+      #write-host "Updated $dbfile."
+   }
+   catch 
+   {
+      Write-error "Failed to write item $EbayItem:$title"
+      exit 1
+   }
 }
 
 function new-xmlfile ()
@@ -176,10 +197,19 @@ function add-array()
    {
       foreach($result in $resultset)
       {
-         add $title $issue $result.CurrentPrice $false $result.PublishDate $result.Ebayitem "Open" $result.Title
+         $trimmedtitle=clean-string $result.Title
+         
+         add -title $title -issue $issue -price $result.CurrentPrice -bought $false -PublishDate $result.PublishDate -Ebayitem $result.Ebayitem -Status "Open" -Description $trimmedtitle
       }
       
-      "$($resultset.count) Added"
+      if ($resultset.count)
+      {
+         "Added $($resultset.count) records"
+      }   
+      else
+      {
+         "Added 1 record"
+      }
    }
    Else
    {
@@ -271,6 +301,17 @@ function update-recordset
    { 
       return "None found."
    }
+   else
+   {
+      If ($results.count)
+      {
+         "$($results.count) Records"
+      }
+      else
+      {
+         "1 Record"
+      }
+   }
       
    try
    {
@@ -304,7 +345,7 @@ function update-record
    }
          
    [decimal]$postage=read-host "Postage $($record.postage)"
-   #[decimal]$price=$price+$postage
+   
    $newtitle=read-host "Title $($record.title)"
          
    $actualIssue=read-host "Issue $($record.Issue)"
@@ -313,23 +354,26 @@ function update-record
       $actualIssue=$record.Issue
    }
    
-   [string]$newstatus=read-host $record.Status "(V=VERIFIED,C=Closed)"
-   if (!($newstatus -eq $NULL -or $newstatus -eq ""))
+   [string]$newstatus=read-host $record.Status "(V=Verified, C=Closed, E=Expired)"
+   
+   switch($newstatus)
    {
-      if ($newstatus -eq "C")
+      "C"
       {
          $newstatus="CLOSED"
       }
-      Else
+      "V"
       {
-         Write-host "Set to Verified"
          $newstatus="VERIFIED"
       }
-   }
-   else
-   {
-      Write-host "new status not set"
-      $newstatus=$record.status
+      "E"
+      {
+         $newstatus="EXPIRED"    
+      }   
+      default
+      {
+         $newstatus=$record.status
+      }
    }
       
    update $record.ebayitem $actualIssue $price $postage $newtitle -Status $newstatus
@@ -365,6 +409,13 @@ function Finalize-Records()
     throw $_.Exception
     exit 1
    }
+}
+
+function Clean-String()
+{
+   param([string]$dirty)
+   [string]$clean=$dirty.Replace("Â", "")
+   $clean.substring(0, [System.Math]::Min(250, $clean.Length))
 }
 
 new-alias fr Finalize-Records -force

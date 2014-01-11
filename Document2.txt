@@ -10,13 +10,44 @@ $result=$newresult+$closedresult
 add-array $result "Think Tank" 1
 
 
+$closedresult=Get-EbayRssItems -Keywords "GHOSTED Image" -ExcludeWords "Skullkickers Poster Card Still A4 Novel" -closed $true
+add-array $closedresult "GHOSTED" 1
+$openresult=Get-EbayRssItems -Keywords "GHOSTED Image" -ExcludeWords "Skullkickers Poster Card Still A4 Novel" 
+add-array $openresult "GHOSTED" 1
+
+$closedresult=Get-EbayRssItems -Keywords "The Bounce image" -ExcludeWords "VOL" -closed $true|where {$_.BidCount -ne "0"}
+add-array $closedresult "The Bounce" 1
+$newresult=Get-EbayRssItems -Keywords "The Bounce image" -ExcludeWords "VOL" 
+add-array $newresult "The Bounce" 1
+
+$closedresult=Get-EbayRssItems -Keywords "CLONE image" -ExcludeWords "VOL" -closed $true|where {$_.BidCount -ne "0"}
+add-array $closedresult "CLONE" 1
+$newresult=Get-EbayRssItems -Keywords "CLONE image" -ExcludeWords "VOL" 
+add-array $newresult "CLONE" 1
+
+$closedresult=Get-EbayRssItems -Keywords "Manifest Destiny Image" -ExcludeWords "Poster Card Still A4 Novel SET LOT" -closed $true|where {$_.BidCount -ne "0"}
+add-array $closedresult "Manifest Destiny" 1
+
+$newresult=Get-EbayRssItems -Keywords "Manifest Destiny Image" -ExcludeWords "Poster Card Still A4 Novel SET LOT"
+add-array $newresult "Manifest Destiny" 1
+
+$newresult=Get-EbayRssItems -Keywords "Peter Panzerfaust" "volume vol chew pacific sex jesus sheltered Ninja Elephantmen"
+add-array $newresult "Peter Panzerfaust" 1
+380798539175
+
+$closedresult=Get-EbayRssItems -Keywords "Peter Panzerfaust" "volume vol chew pacific sex jesus sheltered Ninja Elephantmen" -closed $true|where {$_.BidCount -ne "0"}
+add-array $closedresult "Peter Panzerfaust" 1
+
+
 $result=Get-EbayRssItems -Keywords "SECRET Image $Issue" "Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY"
-#$result=Get-EbayRssItems -Keywords "GHOSTED Image" -ExcludeWords "Skullkickers Poster Card Still A4 Novel" -closed $true
+#
 
 $result=Get-EbayRssItems -Keywords "Manifest Destiny Image" -ExcludeWords "Poster Card Still A4 Novel SET LOT"
 
 $closedresult=Get-EbayRssItems -Keywords "chew image" -ExcludeWords "dancer volume bedlam luther happy nightly romana VOL saga" -closed $true|where {$_.BidCount -ne "0"}
 $newresult=Get-EbayRssItems -Keywords "chew image" -ExcludeWords "dancer volume bedlam luther happy nightly romana VOL saga" 
+
+
 
 
 $result=Get-EbayRssItems -Keywords "watchmen US comic" "DVD bluray canvas dress before novel spawn figure badge tpb after fashion essentials"
