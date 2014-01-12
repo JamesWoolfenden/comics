@@ -1,14 +1,8 @@
-Get-EbayRssItems -Keywords "walking dead 33" "Poster Card Still A4"
 
-$Issue="1"
-$result=Get-EbayRssItems -Keywords "GHOSTED Image $Issue" "Poster Card Still A4 Novel SET LOT"
-
-#closed and 
 $newresult=Get-EbayRssItems -Keywords "THINK TANK" 
+add-array $newresult "Think Tank" 1
 $closedresult=Get-EbayRssItems -Keywords "THINK TANK" -closed $true|where {$_.BidCount -ne "0"}
-$result=$newresult+$closedresult
-add-array $result "Think Tank" 1
-
+add-array $closedresult "Think Tank" 1
 
 $closedresult=Get-EbayRssItems -Keywords "GHOSTED Image" -ExcludeWords "Skullkickers Poster Card Still A4 Novel" -closed $true
 add-array $closedresult "GHOSTED" 1
@@ -20,9 +14,9 @@ add-array $closedresult "The Bounce" 1
 $newresult=Get-EbayRssItems -Keywords "The Bounce image" -ExcludeWords "VOL" 
 add-array $newresult "The Bounce" 1
 
-$closedresult=Get-EbayRssItems -Keywords "CLONE image" -ExcludeWords "VOL" -closed $true|where {$_.BidCount -ne "0"}
+$closedresult=Get-EbayRssItems -Keywords "CLONE image" -ExcludeWords "VOL Lazarus Ghosted Orphanage" -closed $true|where {$_.BidCount -ne "0"}
 add-array $closedresult "CLONE" 1
-$newresult=Get-EbayRssItems -Keywords "CLONE image" -ExcludeWords "VOL" 
+$newresult=Get-EbayRssItems -Keywords "CLONE image" -ExcludeWords "VOL Lazarus Ghosted Orphanage" 
 add-array $newresult "CLONE" 1
 
 $closedresult=Get-EbayRssItems -Keywords "Manifest Destiny Image" -ExcludeWords "Poster Card Still A4 Novel SET LOT" -closed $true|where {$_.BidCount -ne "0"}
@@ -35,36 +29,38 @@ add-array $newresult "Peter Panzerfaust" 1
 $closedresult=Get-EbayRssItems -Keywords "Peter Panzerfaust" "volume vol chew pacific sex jesus sheltered Ninja Elephantmen" -closed $true|where {$_.BidCount -ne "0"}
 add-array $closedresult "Peter Panzerfaust" 1
 
+$newresult=Get-EbayRssItems -Keywords "Watchmen" -ExcludeWords "before novel spawn figure badge tpb after fashion"
+add-array $newresult "Watchmen" 1
+$closedresult=Get-EbayRssItems -Keywords "Watchmen" -ExcludeWords "before novel spawn figure badge tpb after fashion"  -closed $true|where {$_.BidCount -ne "0"}
+add-array $closedresult "Watchmen" 1
 
-$newresult=Get-EbayRssItems -Keywords "watchmen" -ExcludeWords "before novel spawn figure badge tpb after fashion"
-add-array $newresult "watchmen" 1
-$closedresult=Get-EbayRssItems -Keywords "watchmen" -ExcludeWords "before novel spawn figure badge tpb after fashion"  -closed $true|where {$_.BidCount -ne "0"}
-add-array $closedresult "watchmen" 1
-
-
-
-$result=Get-EbayRssItems -Keywords "SECRET Image $Issue" "Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY"
-#
-
-$result=Get-EbayRssItems -Keywords "Manifest Destiny Image" -ExcludeWords "Poster Card Still A4 Novel SET LOT"
-
-$closedresult=Get-EbayRssItems -Keywords "chew image" -ExcludeWords "dancer volume bedlam luther happy nightly romana VOL saga" -closed $true|where {$_.BidCount -ne "0"}
-$newresult=Get-EbayRssItems -Keywords "chew image" -ExcludeWords "dancer volume bedlam luther happy nightly romana VOL saga" 
+$closedresult=Get-EbayRssItems -Keywords "chew" -ExcludeWords "dancer volume bedlam luther happy nightly romana VOL saga sex talent" -closed $true|where {$_.BidCount -ne "0"}
+add-array $closedresult "CHEW" 1
+$newresult=Get-EbayRssItems -Keywords "chew" -ExcludeWords "dancer volume bedlam luther happy nightly romana VOL saga sex talent" 
+add-array $newresult "CHEW" 1
 
 
 
 
-$result=Get-EbayRssItems -Keywords "watchmen US comic" "DVD bluray canvas dress before novel spawn figure badge tpb after fashion essentials"
-$result=Get-EbayRssItems -Keywords "peter panzerfaust" "volume vol chew pacific sex jesus"
+$result=Get-EbayRssItems -Keywords "SECRET" "Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY"
+
 $result=Get-EbayRssItems -Keywords "sheltered comic image"
-$result=Get-EbayRssItems -Keywords "The Walking Dead"
-$result=Get-EbayRssItems -Keywords "The Walking Dead" -closed $true|where {$_.BidCount -ne "0"}
+$newresult=Get-EbayRssItems -Keywords "The Walking Dead" -ExcludeWords "Weekly"
+$closedresult=Get-EbayRssItems -Keywords "The Walking Dead" -closed $true|where {$_.BidCount -ne "0"}
+
+$newresult| select -Property Title
 
 
-watchmen -before -novel -spawn -figure -badge -tpb -after -fashion -essentials
 
-ebid
-http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=manifest%20destiny&category2=645&categoryid=645&categoryonly=on&mo=search&type=keyword
+function GetEbidResult()
+{
+   $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=chew%20-wolverine&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
+   $WebClient = New-Object System.Net.WebClient
+   $Results = $WebClient.DownloadString("$url")
+   return [xml]"${Results}" 
+}
+
+foreach ($set in $results.rss.channel.item){ $set.title }
 
 http://www.ebay.co.uk/sch/UK-Comics-Annuals-/50179/i.html?_from=R40&_nkw=warrior+-commando+-marvel+-starblazer&LH_PrefLoc=3&LH_Complete=1&LH_Sold=1&rt=nc&_rss=1
 http://www.ebay.co.uk/sch/UK-Comics-Annuals-/50179/i.html?_from=R40&_nkw=warrior+-commando+
@@ -74,12 +70,9 @@ http://www.ebay.co.uk/sch/US-Comics-/64755/i.html?
 
 &_rss=1
 
-add-array $result 1
-verify "Chew" 
 #State Pending
 #write-queries out to table
-find closed
-find open
+
 
 verify-record
 get each open record for a type and fix, change state to verified
@@ -93,3 +86,13 @@ foreach ($old in $existingrecords)
    stuff i can figure out
 fshippincost
 seller=mbg
+
+
+$regex = '<item>[\s\S]*?<link>([\s\S]*?)</link>[\s\S]*?<title>([\s\S]*?)</title>[\s\S]*?</item>'
+
+($results |Select-String -Pattern $regex -AllMatches).matches |foreach {$obj = New-Object psobject
+$obj |Add-Member -MemberType NoteProperty -Name Title -Value $_.groups[2].value
+$obj |Add-Member -MemberType NoteProperty -Name Link -Value $_.groups[1].value
+$obj} |Out-GridView -Title JGW
+
+
