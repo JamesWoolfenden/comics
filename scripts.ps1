@@ -29,7 +29,9 @@ function add
    [string]$BuyItNowPrice="",
    [string]$CloseDate,
    [string]$ImageSrc="",
-   [string]$Link=""
+   [string]$Link="",
+   [string]$site="ebay",
+   [int]$quantity=1
    )
 
    if (!(test-path $dbfile))
@@ -60,6 +62,9 @@ function add
       $element.SetAttribute('CloseDate', $CloseDate)
       $element.SetAttribute('ImageSrc',$ImageSrc)
       $element.SetAttribute('Link',$Link)
+      $element.SetAttribute('Site',$site)
+      $element.SetAttribute('Quantity',$quantity)
+      
       $doc.DocumentElement.AppendChild($element)
 
       $doc.Save($dbfile)
@@ -157,15 +162,16 @@ function find()
 
 function stat()
 {
-   param([string]$title,[string]$Issue)
+   param([string]$title,
+   [string]$Issue)
    $test=read-db
    if ($Issue)
    {
-      $test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue} | Format-Table 
+      $test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue} 
    }
    else
    {
-      $test.root.comic| where-object {$_.Title -eq $title}| Sort-Object Issue | Format-Table -groupby Issue 
+      $test.root.comic| where-object {$_.Title -eq $title}| Sort-Object Issue 
    }
 }
 
@@ -286,6 +292,17 @@ function view
    $IE.visible=$true
 }
 
+function view-url
+{
+   param($url)
+   $IE=new-object -com internetexplorer.application
+   write-host "Opening $url`?"
+   $IE.navigate2("$url`?")
+   $IE.visible=$true
+}
+
+
+
 function update-recordset
 {
 
@@ -337,7 +354,21 @@ function update-record
    
    if ($record.ebayitem)
    {
-      view $record.ebayitem
+      switch ($record.site)
+      {
+         "ebay"
+         {
+            view $record.ebayitem         
+         }
+         "ebid"
+         {
+            view-url $record.link
+         }
+         default
+         {
+	    view-url $record.link
+	 }
+      }
    }
          
    [decimal]$price=read-host "Price $($record.Price)"
@@ -418,6 +449,37 @@ function Clean-String()
    param([string]$dirty)
    [string]$clean=$dirty.Replace("Â", "")
    $clean.substring(0, [System.Math]::Min(250, $clean.Length))
+}
+
+function get-ebidresults()
+{
+   param([string]$url)
+   
+   $WebClient = New-Object System.Net.WebClient
+   $Results = $WebClient.DownloadString("$url")
+   return [xml]"${Results}" 
+}
+
+function add-ebidarray
+{
+   param([xml]$results,
+   [string]$title)
+   
+   foreach ($set in $results.rss.channel.item)
+   {
+      add-ebid $set $title
+   }
+}
+
+function add-ebid 
+{
+   param($ebiditem,
+   [string]$comic,
+   [int]$issue)
+   
+   add -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description $ebiditem.description[0]."#cdata-section"`
+   -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
+   -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id 
 }
 
 new-alias fr Finalize-Records -force

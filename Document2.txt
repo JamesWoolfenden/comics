@@ -39,6 +39,11 @@ add-array $closedresult "CHEW" 1
 $newresult=Get-EbayRssItems -Keywords "chew" -ExcludeWords "dancer volume bedlam luther happy nightly romana VOL saga sex talent" 
 add-array $newresult "CHEW" 1
 
+$closedresult=Get-EbayRssItems -Keywords "Sex Criminals"  -closed $true|where {$_.BidCount -ne "0"}
+add-array $closedresult "Sex Criminals" 1
+$newresult=Get-EbayRssItems -Keywords "Sex Criminals" 
+add-array $newresult "Sex Criminals" 1
+
 
 
 
@@ -47,29 +52,21 @@ $result=Get-EbayRssItems -Keywords "SECRET" "Skullkickers Poster Card Still A4 N
 $result=Get-EbayRssItems -Keywords "sheltered comic image"
 $newresult=Get-EbayRssItems -Keywords "The Walking Dead" -ExcludeWords "Weekly"
 $closedresult=Get-EbayRssItems -Keywords "The Walking Dead" -closed $true|where {$_.BidCount -ne "0"}
-
 $newresult| select -Property Title
 
 
+###########################################################
+ebid
+$title="CHEW"
+$url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=chew%20-wolverine&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
 
-function GetEbidResult()
-{
-   $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=chew%20-wolverine&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
-   $WebClient = New-Object System.Net.WebClient
-   $Results = $WebClient.DownloadString("$url")
-   return [xml]"${Results}" 
-}
+$title="The Walking Dead"
+$url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=The%20Walking%20dead&category2=9120&categoryid=9120&categoryonly=on&mo=search&type=keyword"
 
-foreach ($set in $results.rss.channel.item){ $set.title }
-
-http://www.ebay.co.uk/sch/UK-Comics-Annuals-/50179/i.html?_from=R40&_nkw=warrior+-commando+-marvel+-starblazer&LH_PrefLoc=3&LH_Complete=1&LH_Sold=1&rt=nc&_rss=1
-http://www.ebay.co.uk/sch/UK-Comics-Annuals-/50179/i.html?_from=R40&_nkw=warrior+-commando+
--marvel+-starblazer&LH_PrefLoc=3&rt=nc&_rss=1
-http://www.ebay.co.uk/sch/US-Comics-/64755/i.html?
-&programid=15
-
-&_rss=1
-
+$results=get-ebidresults -url $url
+add-ebidarray -results $results -title $title
+ 
+############################################################
 #State Pending
 #write-queries out to table
 
@@ -86,6 +83,8 @@ foreach ($old in $existingrecords)
    stuff i can figure out
 fshippincost
 seller=mbg
+split sets
+multiples (one item multiple stock)
 
 
 $regex = '<item>[\s\S]*?<link>([\s\S]*?)</link>[\s\S]*?<title>([\s\S]*?)</title>[\s\S]*?</item>'
