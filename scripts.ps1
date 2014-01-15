@@ -184,39 +184,37 @@ function add-array()
    $title, 
    [Parameter(Mandatory=$true)]
    $issue)
-   
+         
    #first lets read in all existing related items
    $test=read-db
-   $existingrecords=$test.root.comic| where-object {$_.Title -eq $title}
    
-   #$existingrecords.count
-   #$resultset.count
+   $list=$test.root.comic|Where{$_.Ebayitem -ne $NULL -and $_.Ebayitem -ne ""}|select -property Ebayitem
+   $Ebayitems=$list|foreach {"$($_.EbayItem)"}
    
-   foreach ($old in $existingrecords)
-   {
-      $resultset=$resultset|where {$_.Ebayitem -ne $old.ebayItem}
-   }
-   
-   #test $existingrecords.Ebayitem  $result.Ebayitem 
-   #add state as pending for live auctions
    if ($resultset -ne $Null)
    {
-      foreach($result in $resultset)
-      {
-         $trimmedtitle=clean-string $result.Title
-         
-         add -title $title -issue $issue -price $result.CurrentPrice -bought $false -PublishDate $result.PublishDate -Ebayitem $result.Ebayitem `
-             -Status "Open" -Description $trimmedtitle -AuctionType $result.AuctionType -BestOffer $result.BestOffer -BidCount $result.BidCount `
-             -BuyItNowPrice $result.BuyItNowPrice -CloseDate $result.CloseDate -ImageSrc $result.ImageSrc -Link $result.Link
+      $count=0
+      
+      foreach ($set in $resultset)
+      {       
+          if ($Ebayitems -notcontains $set.ebayitem)
+          {
+             $trimmedtitle=clean-string $set.Title
+           
+             add -title $title -issue $issue -price $set.CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
+	         -Status "Open" -Description $trimmedtitle -AuctionType $set.AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
+                 -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate -ImageSrc $set.ImageSrc -Link $set.Link
+             $count++
+          }
       }
       
-      if ($resultset.count)
+      if ($count)
       {
-         "Added $($resultset.count) records"
+         "Added $count record(s)"
       }   
       else
       {
-         "Added 1 record"
+         "No duplicates Added"
       }
    }
    Else
