@@ -354,11 +354,13 @@ function update-record
    
    if ($record.ebayitem)
    {
+      $baseurl="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
+      
       switch ($record.site)
       {
          "ebay"
          {
-            view $record.ebayitem         
+            view $baseurl         
          }
          "ebid"
          {
@@ -366,7 +368,7 @@ function update-record
          }
          default
          {
-	    view-url $record.link
+	    view-url $baseurl
 	 }
       }
    }
@@ -465,9 +467,19 @@ function add-ebidarray
    param([xml]$results,
    [string]$title)
    
-   foreach ($set in $results.rss.channel.item)
-   {
-      add-ebid $set $title
+   $resultset=$results.rss.channel
+      
+   #first lets read in all existing related items
+   $test=read-db
+   $list=$test.root.comic|Where{$_.Ebayitem -ne $NULL -and $_.Ebayitem -ne ""}|select -property Ebayitem
+   $Ebayitems=$list|foreach {"$($_.EbayItem)"}
+    
+   foreach ($set in $resultset.item)
+   {       
+       if ($Ebayitems -notcontains $set.id)
+       {
+          add-ebid $set $title
+       }
    }
 }
 
