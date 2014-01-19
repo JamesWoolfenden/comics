@@ -1,58 +1,42 @@
 
-$newresult=Get-EbayRssItems -Keywords "THINK TANK" 
-add-array $newresult "Think Tank" 0
-$closedresult=Get-EbayRssItems -Keywords "THINK TANK" -closed $true|where {$_.BidCount -ne "0"}
-add-array $closedresult "Think Tank" 0
+get-records -title "THINK TANK" 
+get-records -title "GHOSTED" -include "Image" -Exclude "Skullkickers Poster Card Still A4 Novel" 
+get-records -title "The Bounce" -include "image" -Exclude "VOL" 
+get-records -title "CLONE" -include "Image" -exclude "VOL Lazarus Ghosted Orphanage" 
+get-records -title "Manifest Destiny" -include "Image" -Exclude "Poster Card Still A4 Novel SET LOT"
+get-records -title "Peter Panzerfaust" -exclude "volume vol chew pacific sex jesus sheltered Ninja Elephantmen"
+get-records -title "Watchmen" -exclude "before novel spawn figure badge tpb after fashion essential swamp VOL"
+get-records -title "Chew" -Exclude "dancer volume bedlam luther happy nightly romana VOL saga sex talent"
+get-records -title "Sex Criminals"  
+get-records -title "V for Vendetta" -Exclude "VOL"
+get-records -title "SECRET" -include "Image" -exclude "Wars Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY Marvel Deadpool"
 
-$closedresult=Get-EbayRssItems -Keywords "GHOSTED Image" -ExcludeWords "Skullkickers Poster Card Still A4 Novel" -closed $true
-add-array $closedresult "GHOSTED" 1
-$openresult=Get-EbayRssItems -Keywords "GHOSTED Image" -ExcludeWords "Skullkickers Poster Card Still A4 Novel" 
-add-array $openresult "GHOSTED" 1
+get-records -title "The Walking Dead" -exclude "paperback chew volume dinosaur world weekly"
 
-$closedresult=Get-EbayRssItems -Keywords "The Bounce image" -ExcludeWords "VOL" -closed $true|where {$_.BidCount -ne "0"}
-add-array $closedresult "The Bounce" 1
-$newresult=Get-EbayRssItems -Keywords "The Bounce image" -ExcludeWords "VOL" 
-add-array $newresult "The Bounce" 1
-
-$closedresult=Get-EbayRssItems -Keywords "CLONE image" -ExcludeWords "VOL Lazarus Ghosted Orphanage" -closed $true|where {$_.BidCount -ne "0"}
-add-array $closedresult "CLONE" 1
-$newresult=Get-EbayRssItems -Keywords "CLONE image" -ExcludeWords "VOL Lazarus Ghosted Orphanage" 
-add-array $newresult "CLONE" 1
-
-$closedresult=Get-EbayRssItems -Keywords "Manifest Destiny Image" -ExcludeWords "Poster Card Still A4 Novel SET LOT" -closed $true|where {$_.BidCount -ne "0"}
-add-array $closedresult "Manifest Destiny" 1
-$newresult=Get-EbayRssItems -Keywords "Manifest Destiny Image" -ExcludeWords "Poster Card Still A4 Novel SET LOT"
-add-array $newresult "Manifest Destiny" 1
-
-$newresult=Get-EbayRssItems -Keywords "Peter Panzerfaust" "volume vol chew pacific sex jesus sheltered Ninja Elephantmen"
-add-array $newresult "Peter Panzerfaust" 1
-$closedresult=Get-EbayRssItems -Keywords "Peter Panzerfaust" "volume vol chew pacific sex jesus sheltered Ninja Elephantmen" -closed $true|where {$_.BidCount -ne "0"}
-add-array $closedresult "Peter Panzerfaust" 1
-
-$newresult=Get-EbayRssItems -Keywords "Watchmen" -ExcludeWords "before novel spawn figure badge tpb after fashion"
-add-array $newresult "Watchmen" 1
-$closedresult=Get-EbayRssItems -Keywords "Watchmen" -ExcludeWords "before novel spawn figure badge tpb after fashion"  -closed $true|where {$_.BidCount -ne "0"}
-add-array $closedresult "Watchmen" 1
-
-$closedresult=Get-EbayRssItems -Keywords "chew" -ExcludeWords "dancer volume bedlam luther happy nightly romana VOL saga sex talent" -closed $true|where {$_.BidCount -ne "0"}
-add-array $closedresult "CHEW" 1
-$newresult=Get-EbayRssItems -Keywords "chew" -ExcludeWords "dancer volume bedlam luther happy nightly romana VOL saga sex talent" 
-add-array $newresult "CHEW" 1
-
-$closedresult=Get-EbayRssItems -Keywords "Sex Criminals"  -closed $true|where {$_.BidCount -ne "0"}
-add-array $closedresult "Sex Criminals" 1
-$newresult=Get-EbayRssItems -Keywords "Sex Criminals" 
-add-array $newresult "Sex Criminals" 1
+function get-records()
+{
+   param([string]$title,
+   [string]$exclude="",
+   [string]$include="")
+   
+   if ($include -ne $NULL)
+   {
+     $keywords="$title"+" "+"$include"
+   }
+   else
+   {
+      $keywords="$title"
+   }
+   
+   $closedresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -closed $true|where {$_.BidCount -ne "0"}
+   add-array $closedresult "$title" 0
+   $result=Get-EbayRssItems -Keywords "$keywords"  -ExcludeWords "$exclude"
+   add-array $result "$title" 0
+}
 
 
 
-
-$result=Get-EbayRssItems -Keywords "SECRET" "Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY"
-
-$result=Get-EbayRssItems -Keywords "sheltered comic image"
-$newresult=Get-EbayRssItems -Keywords "The Walking Dead" -ExcludeWords "Weekly"
-$closedresult=Get-EbayRssItems -Keywords "The Walking Dead" -closed $true|where {$_.BidCount -ne "0"}
-$newresult| select -Property Title
+get-records -title "sheltered" -include "image"
 
 
 ###########################################################
@@ -78,7 +62,7 @@ add-ebidarray -results $ebidresults -title $title
 ############################################################
 #State Pending
 #write-queries out to table
-
+#update records when duplicates!
 
 verify-record
 get each open record for a type and fix, change state to verified

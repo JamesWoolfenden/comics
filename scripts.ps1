@@ -351,14 +351,12 @@ function update-record
    [string]$newstatus)
    
    if ($record.ebayitem)
-   {
-      $baseurl="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
-      
+   { 
       switch ($record.site)
       {
          "ebay"
          {
-            view $baseurl         
+            view $record.ebayitem         
          }
          "ebid"
          {
@@ -366,18 +364,22 @@ function update-record
          }
          default
          {
-	    view-url $baseurl
+	    view $record.ebayitem
 	 }
       }
    }
          
    [decimal]$price=read-host "Price $($record.Price)"
-   if ($price -eq $NULL -or $price -eq 0)
+   if ($price -eq $NULL -or $price -eq "")
    {
       $price=$record.Price
    }
          
    [decimal]$postage=read-host "Postage $($record.postage)"
+   if ($postage -eq $NULL -or $postage -eq "")
+   {
+      $postage=$record.Postage
+   }  
    
    $newtitle=read-host "Title $($record.title)"
          
@@ -408,8 +410,12 @@ function update-record
          $newstatus=$record.status
       }
    }
-      
-   update $record.ebayitem $actualIssue $price $postage $newtitle -Status $newstatus
+
+   
+   Write-Debug 'update -ebayitem $($record.ebayitem) $actualIssue -price $price -postage $postage $newtitle -Status $newstatus'
+   Write-Debug "update -ebayitem $($record.ebayitem) $actualIssue -price $price -postage $postage $newtitle -Status $newstatus"
+   
+  update -ebayitem $record.ebayitem $actualIssue -price $price -postage $postage $newtitle -Status $newstatus
 }
 
 function Finalize-Records()
