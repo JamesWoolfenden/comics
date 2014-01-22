@@ -241,7 +241,8 @@ function update()
    [string]$price,
    [string]$postage,  
    [string]$title,
-   [string]$status="VERIFIED"
+   [string]$status="VERIFIED",
+   [bool]$bought
    )
    
    # if loading the XML from file then do this
@@ -275,6 +276,11 @@ function update()
       $comic.postage=$postage
    }
    
+   if ($bought)
+   {
+      $comic.bought=$bought
+   }
+   
    $comic.Status = $status
 
    $doc.Save($dbfile)
@@ -288,6 +294,7 @@ function view
    write-host "Opening $url`?"
    $IE.navigate2("$url`?")
    $IE.visible=$true
+   $IE
 }
 
 function view-url
@@ -356,7 +363,7 @@ function update-record
       {
          "ebay"
          {
-            view $record.ebayitem         
+            $ie=view $record.ebayitem         
          }
          "ebid"
          {
@@ -364,18 +371,23 @@ function update-record
          }
          default
          {
-	    view $record.ebayitem
+	    $ie=view $record.ebayitem
 	 }
       }
    }
-         
+   
+   sleep 3
+   
+   $estimate=$ie.document.getElementByID('fshippingCost').TextContent
+   $estimate=$estimate.Trim()
+   
    [decimal]$price=read-host "Price $($record.Price)"
    if ($price -eq $NULL -or $price -eq "")
    {
       $price=$record.Price
    }
-         
-   [decimal]$postage=read-host "Postage $($record.postage)"
+   
+   [decimal]$postage=read-host "Postage $($record.postage) estimate:$estimate"
    if ($postage -eq $NULL -or $postage -eq "")
    {
       $postage=$record.Postage
@@ -389,7 +401,7 @@ function update-record
       $actualIssue=$record.Issue
    }
    
-   [string]$newstatus=read-host $record.Status "(V=Verified, C=Closed, E=Expired)"
+   [string]$newstatus=read-host $record.Status "(V=Verified, C=Closed, E=Expired, B=Bought)"
    
    switch($newstatus)
    {
@@ -404,7 +416,12 @@ function update-record
       "E"
       {
          $newstatus="EXPIRED"    
-      }   
+      }
+      "B"
+      {
+         $newstatus="CLOSED"
+         $bought=$true
+      }
       default
       {
          $newstatus=$record.status
@@ -415,7 +432,7 @@ function update-record
    Write-Debug 'update -ebayitem $($record.ebayitem) $actualIssue -price $price -postage $postage $newtitle -Status $newstatus'
    Write-Debug "update -ebayitem $($record.ebayitem) $actualIssue -price $price -postage $postage $newtitle -Status $newstatus"
    
-  update -ebayitem $record.ebayitem $actualIssue -price $price -postage $postage $newtitle -Status $newstatus
+   update -ebayitem $record.ebayitem $actualIssue -price $price -postage $postage $newtitle -Status $newstatus 
 }
 
 function Finalize-Records()
@@ -497,6 +514,28 @@ function add-ebid
    -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
    -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id 
 }
+
+function get-records()
+{
+   param([string]$title,
+   [string]$exclude="",
+   [string]$include="")
+   
+   if ($include -ne $NULL)
+   {
+     $keywords="$title"+" "+"$include"
+   }
+   else
+   {
+      $keywords="$title"
+   }
+   
+   $closedresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -closed $true|where {$_.BidCount -ne "0"}
+   add-array $closedresult "$title" 0
+   $result=Get-EbayRssItems -Keywords "$keywords"  -ExcludeWords "$exclude"
+   add-array $result "$title" 0
+}
+
 
 new-alias fr Finalize-Records -force
 new-alias ur update-recordset -force

@@ -10,34 +10,10 @@ get-records -title "Chew" -Exclude "dancer volume bedlam luther happy nightly ro
 get-records -title "Sex Criminals"  
 get-records -title "V for Vendetta" -Exclude "VOL"
 get-records -title "SECRET" -include "Image" -exclude "Wars Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY Marvel Deadpool"
-
 get-records -title "The Walking Dead" -exclude "paperback chew volume dinosaur world weekly"
+get-records -title "Sheltered" -include "image"
 
-function get-records()
-{
-   param([string]$title,
-   [string]$exclude="",
-   [string]$include="")
-   
-   if ($include -ne $NULL)
-   {
-     $keywords="$title"+" "+"$include"
-   }
-   else
-   {
-      $keywords="$title"
-   }
-   
-   $closedresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -closed $true|where {$_.BidCount -ne "0"}
-   add-array $closedresult "$title" 0
-   $result=Get-EbayRssItems -Keywords "$keywords"  -ExcludeWords "$exclude"
-   add-array $result "$title" 0
-}
-
-
-
-get-records -title "sheltered" -include "image"
-
+$test.getElementByID('fshippingCost').TextCOntent
 
 ###########################################################
 ebid
