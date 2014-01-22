@@ -377,9 +377,14 @@ function update-record
    }
    
    sleep 3
-   
-   $estimate=$ie.document.getElementByID('fshippingCost').TextContent
-   $estimate=$estimate.Trim()
+   if ($record.site -eq "ebay")
+   {
+      $estimate=$ie.Document.getElementByID('fshippingCost').innerText
+   }
+   Else
+   {
+      $estimate=$record.postage
+   }
    
    [decimal]$price=read-host "Price $($record.Price)"
    if ($price -eq $NULL -or $price -eq "")
