@@ -10,7 +10,9 @@ get-records -title "Chew" -Exclude "America Pacific VOL dancer volume bedlam lut
 get-records -title "Sex Criminals"  
 get-records -title "V for Vendetta" -Exclude "VOL"
 get-records -title "SECRET" -include "Image" -exclude "Wars Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY Marvel Deadpool"
-'get-records -title "The Walking Dead" -exclude "paperback chew volume dinosaur world weekly"
+get-records -title "The Walking Dead" -exclude "paperback chew volume dinosaur world weekly"
+get-records -title "The Walking Dead Weekly" -exclude "paperback chew volume dinosaur world"
+
 get-records -title "Sheltered" -include "image"
 
 $test.getElementByID('fshippingCost').TextCOntent

@@ -281,6 +281,9 @@ function update()
       $comic.bought=$bought
    }
    
+   [string]$modified=Get-Date 
+   
+   $comic.DateOfSale = $modified
    $comic.Status = $status
 
    $doc.Save($dbfile)
@@ -315,12 +318,19 @@ function update-recordset
    Param(
          [Parameter(Mandatory=$true)]
          [string]$title,
-         [Parameter(Mandatory=$true)]
          [string]$Issue)
    
    $test=read-db
-   $results=$test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue -And ($_.Status -eq "VERIFIED" -or $_.Status -eq "Open")}
-
+   
+   if ($Issue)
+   {
+      $results=$test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue -And ($_.Status -eq "VERIFIED" -or $_.Status -eq "Open")}| Sort-Object DateOfSale
+   }
+   Else
+   {
+      $results=$test.root.comic| where-object {$_.Title -eq $title -And ($_.Status -eq "VERIFIED" -or $_.Status -eq "Open")}| Sort-Object DateOfSale
+   }
+   
    if ($results -eq "" -or $results -eq $Null)
    { 
       return "None found."
@@ -339,9 +349,12 @@ function update-recordset
       
    try
    {
+      $counter=1
       foreach($record in $results)
       {
+         Write-host "$counter of $($results.count)"
          update-record $record 
+         $counter++
       }
    }
    catch
