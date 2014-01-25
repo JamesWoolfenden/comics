@@ -31,7 +31,8 @@ function add
    [string]$ImageSrc="",
    [string]$Link="",
    [string]$site="ebay",
-   [int]$quantity=1
+   [int]$quantity=1,
+   [string]$remaining=""
    )
 
    if (!(test-path $dbfile))
@@ -60,11 +61,11 @@ function add
       $element.SetAttribute('BidCount', $BidCount)
       $element.SetAttribute('BuyItNowPrice', $BuyItNowPrice)
       $element.SetAttribute('CloseDate', $CloseDate)
-      $element.SetAttribute('ImageSrc',$ImageSrc)
-      $element.SetAttribute('Link',$Link)
-      $element.SetAttribute('Site',$site)
-      $element.SetAttribute('Quantity',$quantity)
-      
+      $element.SetAttribute('ImageSrc', $ImageSrc)
+      $element.SetAttribute('Link', $Link)
+      $element.SetAttribute('Site', $site)
+      $element.SetAttribute('Quantity', $quantity)
+      $element.SetAttribute('Remaining', $remaining)
       $doc.DocumentElement.AppendChild($element)
 
       $doc.Save($dbfile)
@@ -314,21 +315,22 @@ function view-url
 function update-recordset
 {
 
-#renaming comic is an issue
+   #renaming comic is an issue
    Param(
          [Parameter(Mandatory=$true)]
          [string]$title,
-         [string]$Issue)
+         [string]$Issue,
+         [string]$sortby="DateOfSale")
    
    $test=read-db
    
    if ($Issue)
    {
-      $results=$test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue -And ($_.Status -eq "VERIFIED" -or $_.Status -eq "Open")}| Sort-Object DateOfSale
+      $results=$test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue -And ($_.Status -eq "VERIFIED" -or $_.Status -eq "Open")}| Sort-Object "$SortBy"
    }
    Else
    {
-      $results=$test.root.comic| where-object {$_.Title -eq $title -And ($_.Status -eq "VERIFIED" -or $_.Status -eq "Open")}| Sort-Object DateOfSale
+      $results=$test.root.comic| where-object {$_.Title -eq $title -And ($_.Status -eq "VERIFIED" -or $_.Status -eq "Open")}| Sort-Object "$SortBy"
    }
    
    if ($results -eq "" -or $results -eq $Null)
@@ -530,7 +532,7 @@ function add-ebid
    
    add -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description $ebiditem.description[0]."#cdata-section"`
    -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
-   -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id 
+   -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining
 }
 
 function get-records()
@@ -554,6 +556,17 @@ function get-records()
    add-array $result "$title" 0
 }
 
+function closing-record
+{
+   Param(
+            [Parameter(Mandatory=$true)]
+            [string]$title,
+            [string]$Issue
+            )
+   update-recordset -title $title -Issue $Issue -sortby CloseDate
+}
 
 new-alias fr Finalize-Records -force
 new-alias ur update-recordset -force
+new-alias np c:\windows\notepad.exe
+new-alias cr closing-record -force   
