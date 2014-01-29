@@ -10,9 +10,15 @@ get-records -title "Chew" -Exclude "America Pacific VOL dancer volume bedlam lut
 get-records -title "Sex Criminals"  
 get-records -title "V for Vendetta" -Exclude "VOL"
 get-records -title "SECRET" -include "Image" -exclude "Wars Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY Marvel Deadpool"
-get-records -title "The Walking Dead" -exclude "paperback chew volume dinosaur world weekly"
 get-records -title "The Walking Dead Weekly" -exclude "paperback chew volume dinosaur world"
+get-records -title "The Walking Dead" -exclude "paperback chew volume dinosaur world weekly"
 get-records -title "Sheltered" -include "image"
+get-records -title "Burn The Orphanage"
+get-records -title "manhattan projects" -exclude "women vol volume"
+get-records -title "The Nightly News"
+get-records -title "Mind the gap"
+get-records -title "Thief of Thieves" -Exclude "Super walking chew tpb VOL"
+get-records -title "Lazarus"
 
 $test.getElementByID('fshippingCost').TextCOntent
 
@@ -44,13 +50,9 @@ add-ebidarray -results $ebidresults -title $title
 verify-record
 get each open record for a type and fix, change state to verified
 
-foreach ($old in $existingrecords)
-   {
-      $result=$result|where {$_.Ebayitem -ne $old.ebayItem}
-   }
-   
-   
-   stuff i can figure out
+&_rss=1&
+      
+stuff i can figure out
 fshippincost
 seller=mbg
 split sets
@@ -66,4 +68,8 @@ $obj |Add-Member -MemberType NoteProperty -Name Title -Value $_.groups[2].value
 $obj |Add-Member -MemberType NoteProperty -Name Link -Value $_.groups[1].value
 $obj} |Out-GridView -Title JGW
 
+
+
+Five Ghosts
+Jupiters Legacy
 

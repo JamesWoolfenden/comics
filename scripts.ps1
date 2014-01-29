@@ -91,9 +91,12 @@ function new-xmlfile ()
    write-warning "Created new db file $filename"
 }
 
-function find()
+function estimate-price()
 {
-   param([string]$title,[string]$Issue)
+   param(
+   [string]$title,
+   [string]$Issue)
+   
    $test=read-db
    $result=$test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue -And $_.Status -eq "CLOSED"}
    
@@ -206,6 +209,10 @@ function add-array()
 	         -Status "Open" -Description $trimmedtitle -AuctionType $set.AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
                  -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate -ImageSrc $set.ImageSrc -Link $set.Link
              $count++
+          }
+          else
+          {
+              update -ebayitem $set.Ebayitem -price $set.CurrentPrice
           }
       }
       
@@ -551,10 +558,18 @@ function get-records()
    }
    
    $closedresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -closed $true|where {$_.BidCount -ne "0"}
-   add-array $closedresult "$title" 0
+   if ($closedresult)
+   {
+     add-array $closedresult "$title" 0
+   }
+   
    $result=Get-EbayRssItems -Keywords "$keywords"  -ExcludeWords "$exclude"
-   add-array $result "$title" 0
+   if ($result)
+   {
+      add-array $result "$title" 0
+   }
 }
+
 
 function closing-record
 {
@@ -563,10 +578,11 @@ function closing-record
             [string]$title,
             [string]$Issue
             )
-   update-recordset -title $title -Issue $Issue -sortby CloseDate
+   update-recordset -title $title -Issue $Issue -sortby DateOfSale
 }
 
 new-alias fr Finalize-Records -force
 new-alias ur update-recordset -force
 new-alias np c:\windows\notepad.exe
-new-alias cr closing-record -force   
+new-alias cr closing-record -force  
+new-alias ep estimate-price -force
