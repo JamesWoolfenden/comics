@@ -187,7 +187,8 @@ function add-array()
    [Parameter(Mandatory=$true)]
    $title, 
    [Parameter(Mandatory=$true)]
-   $issue)
+   $issue,
+   $status)
          
    #first lets read in all existing related items
    $test=read-db
@@ -212,7 +213,14 @@ function add-array()
           }
           else
           {
-              update -ebayitem $set.Ebayitem -price $set.CurrentPrice
+              if ($status -ne "Closed")
+              {
+                 $status = $($set.Status)
+              }
+              
+              Write-host "Updating $title $($set.Ebayitem)"
+              
+              update -ebayitem $set.Ebayitem -price $set.CurrentPrice -Status $status
           }
       }
       
@@ -289,9 +297,12 @@ function update()
       $comic.bought=$bought
    }
    
-   [string]$modified=Get-Date 
+   if (($comic.Status -eq "Open") -or ($comic.Status -eq "Verified"))
+   {
+      [string]$modified=(Get-Date).ToString() 
+      $comic.DateOfSale = $modified
+   }
    
-   $comic.DateOfSale = $modified
    $comic.Status = $status
 
    $doc.Save($dbfile)
@@ -316,8 +327,6 @@ function view-url
    $IE.navigate2("$url`?")
    $IE.visible=$true
 }
-
-
 
 function update-recordset
 {
@@ -560,7 +569,7 @@ function get-records()
    $closedresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -closed $true|where {$_.BidCount -ne "0"}
    if ($closedresult)
    {
-     add-array $closedresult "$title" 0
+     add-array $closedresult "$title" 0 -Status Closed
    }
    
    $result=Get-EbayRssItems -Keywords "$keywords"  -ExcludeWords "$exclude"
