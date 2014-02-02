@@ -588,6 +588,38 @@ function get-records()
    }
 }
 
+function get-issues()
+{
+   param(
+   [string]$title)
+   
+   $test=read-db
+   $result=$test.root.comic| where-object {$_.Title -eq $title -And $_.Status -eq "CLOSED"}
+   
+   $issuesfound=@()
+   
+   $issuesfound=$result| select-object -property Issue -unique|sort-object issue
+   
+   write-host "$($issuesfound.count) unique titles of $title"  
+   $issuesfound
+}
+
+function get-allprices
+{
+   param(
+      [string]$title)
+   $issues=get-issues $title
+   
+   $prices=@()
+   
+   foreach($issue in $Issues)
+   {
+      $localprice=estimate-price -title $title -Issue $($issue.Issue)
+      $prices=$prices+$localprice
+   }
+   
+   $prices
+}
 
 function closing-record
 {
@@ -604,3 +636,4 @@ new-alias ur update-recordset -force
 new-alias np c:\windows\notepad.exe
 new-alias cr closing-record -force  
 new-alias ep estimate-price -force
+new-alias ap get-allprices -force
