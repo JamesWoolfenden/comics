@@ -205,7 +205,8 @@ function add-array()
           if ($Ebayitems -notcontains $set.ebayitem)
           {
              $trimmedtitle=clean-string $set.Title
-           
+             
+             Write-host "Adding $title $($set.Ebayitem)"
              add -title $title -issue $issue -price $set.CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
 	         -Status "Open" -Description $trimmedtitle -AuctionType $set.AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
                  -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate -ImageSrc $set.ImageSrc -Link $set.Link
@@ -215,12 +216,14 @@ function add-array()
           {
               if ($status -ne "Closed")
               {
-                 $status = $($set.Status)
+                 update -ebayitem $set.Ebayitem -price $set.CurrentPrice
+                 Write-host "Updating $title $($set.Ebayitem)"
               }
-              
-              Write-host "Updating $title $($set.Ebayitem)"
-              
-              update -ebayitem $set.Ebayitem -price $set.CurrentPrice -Status $status
+              else
+              {
+                 update -ebayitem $set.Ebayitem -price $set.CurrentPrice -Status $status
+                 Write-host "Closing $title $($set.Ebayitem)"
+              }              
           }
       }
       
@@ -310,8 +313,13 @@ function update()
 
 function view
 {
-   param($ebayid)
-   $IE=new-object -com internetexplorer.application
+   param($ebayid,
+   $IE=$NULL)
+   if ($IE -eq $NULL)
+   {
+      $IE=new-object -com internetexplorer.application
+   }
+   
    $url="www.ebay.co.uk/itm/$ebayid"
    write-host "Opening $url`?"
    $IE.navigate2("$url`?")
@@ -388,6 +396,7 @@ function update-record
    $record, 
    [string]$newstatus)
    
+   
    if ($record.ebayitem)
    { 
       switch ($record.site)
@@ -437,6 +446,7 @@ function update-record
       $actualIssue=$record.Issue
    }
    
+   $bought=$false
    [string]$newstatus=read-host $record.Status "(V=Verified, C=Closed, E=Expired, B=Bought)"
    
    switch($newstatus)
@@ -463,12 +473,11 @@ function update-record
          $newstatus=$record.status
       }
    }
-
    
    Write-Debug 'update -ebayitem $($record.ebayitem) $actualIssue -price $price -postage $postage $newtitle -Status $newstatus'
    Write-Debug "update -ebayitem $($record.ebayitem) $actualIssue -price $price -postage $postage $newtitle -Status $newstatus"
    
-   update -ebayitem $record.ebayitem $actualIssue -price $price -postage $postage $newtitle -Status $newstatus 
+   update -ebayitem $record.ebayitem $actualIssue -price $price -postage $postage $newtitle -Status $newstatus -bought $bought
 }
 
 function Finalize-Records()
