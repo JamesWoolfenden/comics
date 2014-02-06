@@ -1,3 +1,5 @@
+#set-strictmode -Version Latest
+
 $dbfile="C:\comics\data.XML"
 
 import-module "C:\Users\Jim\Documents\GitHub\EbayRssPowershellModule\EbayRssPowershellModule.psm1" -force
@@ -261,7 +263,7 @@ function update()
    [string]$postage,  
    [string]$title,
    [string]$status="VERIFIED",
-   [bool]$bought
+   [string]$bought
    )
    
    # if loading the XML from file then do this
@@ -446,7 +448,7 @@ function update-record
       $actualIssue=$record.Issue
    }
    
-   $bought=$false
+   $bought="false"
    [string]$newstatus=read-host $record.Status "(V=Verified, C=Closed, E=Expired, B=Bought)"
    
    switch($newstatus)
@@ -466,7 +468,7 @@ function update-record
       "B"
       {
          $newstatus="CLOSED"
-         $bought=$true
+         $bought="true"
       }
       default
       {
