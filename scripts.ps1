@@ -50,7 +50,7 @@ function add
       $element.SetAttribute('Title',$title)
       $element.SetAttribute('Description', $Description.substring(0, [System.Math]::Min(250, $Description.Length)))
       $element.SetAttribute('Price',$Price)
-      $element.SetAttribute('Issue',$Issue)
+      $element.SetAttribute('Issue',$Issue.ToUpper())
       $element.SetAttribute('Bought',$bought)
       $element.SetAttribute('PublishDate',$PublishDate)
       $element.SetAttribute('EbayItem', $EbayItem)
@@ -129,27 +129,30 @@ function estimate-price()
    
    foreach($comic in $result)
    {      
-      [string]$comic.Price=[double]$comic.Price+[double]$comic.postage 
+      $TotalCost=[double]$comic.Price+[double]$comic.postage 
       $minimum=[System.Math]::Min($comic.Price,$minimum)
       $maximum=[System.Math]::Max($comic.Price,$maximum)
       
       if ($comic.Bought -eq $true)
       {
-         $paid += $comic.Price
+         $paid += $TotalCost
          $owned ++ 
       }
       
-      $total += $comic.Price   
+      $total += $TotalCost   
+      $totalPrice +=[double]$comic.Price
    }
-   
+    
     $averagepaid=$paid/$owned
     if ($result.Count)
     {
       $average=$total/$result.Count
+      $averagePrice=$totalPrice/$result.Count
     }
     else
     {
        $average=$total
+       $averagePrice=$totalPrice
     }
     
     $average="{0:N2}" -f $average
@@ -157,7 +160,8 @@ function estimate-price()
     $objStats = New-Object System.Object
     $objStats | Add-Member -type NoteProperty -name Title -value $($comic.Title)
     $objStats | Add-Member -type NoteProperty -name Issue -value $Issue
-    $objStats | Add-Member -type NoteProperty -name TargetPrice -value $average
+    $objStats | Add-Member -type NoteProperty -name TotalCost -value $average
+    $objStats | Add-Member -type NoteProperty -name TargetPrice -value $averagePrice
     $objStats | Add-Member -type NoteProperty -name Minimum -value $minimum
     $objStats | Add-Member -type NoteProperty -name Maximum -value $maximum
     $objStats | Add-Member -type NoteProperty -name Count -value $count
@@ -377,7 +381,7 @@ function update-recordset
       
    try
    {
-      $counter=1
+      [int]$counter=1
       foreach($record in $results)
       {
          Write-host "$counter of $($results.count)"
@@ -434,19 +438,23 @@ function update-record
       $price=$record.Price
    }
    
-   [decimal]$postage=read-host "Postage $($record.postage) estimate:$estimate"
+   $postage=new-object decimal
+   $postage=read-host "Postage $($record.postage) estimate:$estimate"
    if ($postage -eq $NULL -or $postage -eq "")
    {
       $postage=$record.Postage
    }  
    
    $newtitle=read-host "Title $($record.title)"
-         
+   $newtitle=$newtitle.ToUpper() 
+    
    $actualIssue=read-host "Issue $($record.Issue)"
    if ($actualIssue -eq $NULL -or $actualIssue -eq "")
    {
       $actualIssue=$record.Issue
    }
+   
+   $actualIssue=$actualIssue.ToUpper()
    
    $bought="false"
    [string]$newstatus=read-host $record.Status "(V=Verified, C=Closed, E=Expired, B=Bought)"
@@ -513,6 +521,45 @@ function Finalize-Records()
     exit 1
    }
 }
+
+function update-open()
+{
+   $test=read-db
+   $results=$test.root.comic| where-object {$_.Status -eq "OPEN"}
+
+   $result=$results
+   $count=1
+
+   if ($results -eq "" -or $results -eq $Null)
+   { 
+      return "None found."
+   }
+   else
+   {
+      if ($results.count)
+      {
+         $count=$results.count
+      }    
+   }
+      
+   try
+   {
+      $index=1
+      foreach($record in $results)
+      {
+         write-host "Record $index of $count"
+         update-record $record 
+         $index ++
+      }
+   }
+   catch
+   {
+    throw $_.Exception
+    exit 1
+   }
+}
+
+
 
 function Clean-String()
 {
@@ -631,6 +678,26 @@ function closing-record
             [string]$Issue
             )
    update-recordset -title $title -Issue $Issue -sortby DateOfSale
+}
+
+function reduce($array, $size)
+{
+   if ($array.count -gt $size)
+   {
+      $trimmedarray=new-object "$($array.GetType())" $size
+      $arraysize=$array.count
+  
+      for ($i=0; $i -lt $size; $i++)
+      {
+         $trimmedarray[$i]=$array[(($arraysize-1)-$i)]
+      }
+  
+      $trimmedarray
+   }
+   else
+   {
+      $array
+   }
 }
 
 new-alias fr Finalize-Records -force
