@@ -267,7 +267,8 @@ function update()
    [string]$postage,  
    [string]$title,
    [string]$status="VERIFIED",
-   [string]$bought
+   [string]$bought,
+   [string]$quantity
    )
    
    # if loading the XML from file then do this
@@ -304,6 +305,11 @@ function update()
    if ($bought)
    {
       $comic.bought=$bought
+   }
+   
+   if ($quantity)
+   {
+         $comic.quantity=$quantity
    }
    
    if (($comic.Status -eq "Open") -or ($comic.Status -eq "Verified"))
@@ -456,6 +462,14 @@ function update-record
    
    $actualIssue=$actualIssue.ToUpper()
    
+   $newquantity  = new-object int 
+   $newquantity=1
+   
+   if ($actualIssue -eq "SET" -And $($record.Quantity) -eq "1")
+   {
+      $newquantity=read-host "Number in set:$($record.Quantity)"
+   }   
+   
    $bought="false"
    [string]$newstatus=read-host $record.Status "(V=Verified, C=Closed, E=Expired, B=Bought)"
    
@@ -487,7 +501,7 @@ function update-record
    Write-Debug 'update -ebayitem $($record.ebayitem) $actualIssue -price $price -postage $postage $newtitle -Status $newstatus'
    Write-Debug "update -ebayitem $($record.ebayitem) $actualIssue -price $price -postage $postage $newtitle -Status $newstatus"
    
-   update -ebayitem $record.ebayitem $actualIssue -price $price -postage $postage $newtitle -Status $newstatus -bought $bought
+   update -ebayitem $record.ebayitem $actualIssue -price $price -postage $postage $newtitle -Status $newstatus -bought $bought -quantity $newquantity
 }
 
 function Finalize-Records()
