@@ -1,65 +1,30 @@
-get-records -title "THINK TANK" 
-get-records -title "GHOSTED" -include "Image" -Exclude "Skullkickers Poster Card Still A4 Novel" 
-get-records -title "The Bounce" -include "image" -Exclude "VOL" 
-get-records -title "CLONE" -include "Image" -exclude "VOL Lazarus Ghosted Orphanage" 
-get-records -title "Manifest Destiny" -include "Image" -Exclude "Poster Card Still A4 Novel SET LOT"
-get-records -title "Peter Panzerfaust" -exclude "volume vol chew pacific sex jesus sheltered Ninja Elephantmen"
-get-records -title "Watchmen" -exclude "prints before novel spawn figure badge tpb after fashion essential swamp VOL"
-get-records -title "CHEW" -Exclude "America Pacific VOL dancer volume bedlam luther happy nightly romana saga sex talent"
-get-records -title "Sex Criminals"  
-get-records -title "V for Vendetta" -Exclude "VOL"
-get-records -title "SECRET" -include "Image" -exclude "Wars Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY Marvel Deadpool"
-get-records -title "The Walking Dead Weekly" -exclude "paperback chew volume dinosaur world monopoly"
-get-records -title "The Walking Dead" -exclude "paperback chew volume dinosaur world weekly MONOPOLY"
-get-records -title "Sheltered" -exclude "vol volume voltron"
-get-records -title "Burn The Orphanage"
-get-records -title "Manhattan Projects" -exclude "women vol volume"
-get-records -title "The Nightly News"
-get-records -title "Mind the Gap"
-get-records -title "Thief of Thieves" -Exclude "Super walking chew tpb VOL"
-get-records -title "Lazarus" -exclude "five Incredible Moriarty Vol"
-get-records -title "Deadly Class"
-get-records -title Velvet -exclude "LADY DEATH ASSASSIN Mara National"
+get-allrecords -title "THINK TANK" -exclude "fantastic"
+get-allrecords -title "CHEW" -exclude "Wolverine America Pacific VOL dancer volume bedlam luther happy nightly romana saga sex talent"
+get-allrecords -title "V for Vendetta" -Exclude "VOL Essentials"
+get-allrecords -title "The Walking Dead Weekly" -exclude "paperback chew volume dinosaur world monopoly"
+get-allrecords -title "The Walking Dead" -exclude "paperback chew volume dinosaur world weekly MONOPOLY Weekly"
+get-allrecords -title "GHOSTED" -include "Image" -Exclude "Skullkickers Poster Card Still A4 Novel" 
+get-allrecords -title "Deadly Class"
+get-allrecords -title "Mind the Gap" 
+get-allrecords -title "Watchmen" -exclude "before novels book prints spawn figure badge tpb after fashion essential swamp VOL"
+get-allrecords -title "Manhattan Projects" -exclude "women vol volume"
+get-allrecords -title "Lazarus" -exclude "five Incredible Moriarty Vol"
+get-allrecords -title "The Bounce" -include "image" -Exclude "VOL" 
+get-allrecords -title "CLONE" -include "Image" -exclude "VOL Lazarus Ghosted Orphanage Titans Spider-man" 
+get-allrecords -title "Manifest Destiny" -include "Image" -Exclude "x-men Poster Card Still A4 Novel SET LOT"
+get-allrecords -title "Peter Panzerfaust" -exclude "volume vol chew pacific sex jesus sheltered Ninja Elephantmen"
+get-allrecords -title "Sex Criminals"  
+get-allrecords -title "SECRET" -include "Image" -exclude "Invasion Marvel Batman Valiant Avengers Warriors Flashpoint Wars Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY Marvel Deadpool"
+get-allrecords -title "Sheltered" -exclude "vol volume voltron"
+get-allrecords -title "Burn The Orphanage"
+get-allrecords -title "The Nightly News"
+get-allrecords -title "Thief of Thieves" -Exclude "Super walking chew tpb VOL"
+get-allrecords -title Velvet -exclude "LADY DEATH ASSASSIN Mara National"
+
 //get-records -title "Warrior" -Exclude "Commando Starblazer BBC 2000AD"
 
-$test.getElementByID('fshippingCost').TextCOntent
-
-###########################################################
-ebid
-$title="CHEW"
-$url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=chew%20-wolverine&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
-$ebidresults=get-ebidresults -url $url
-add-ebidarray -results $ebidresults -title $title
-
-$title="The Walking Dead"
-$url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=The%20Walking%20dead&category2=9120&categoryid=9120&categoryonly=on&mo=search&type=keyword"
-$ebidresults=get-ebidresults -url $url
-add-ebidarray -results $ebidresults -title $title
-
-$title="Think Tank"
-$url="http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=think%20tank%20-fantastic&category2=645&categoryid=645&categoryonly=on&mo=search&type=keyword"
-$ebidresults=get-ebidresults -url $url
-add-ebidarray -results $ebidresults -title $title
-
-$title="GHOSTED"
-$url="http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=ghosted&category2=645&categoryid=645&categoryonly=on&mo=search&type=keyword"
-$ebidresults=get-ebidresults -url $url
-add-ebidarray -results $ebidresults -title $title
 
 
-$title="CLONE"
-$url="http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=clone%20image&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
-
-$ebidresults=get-ebidresults -url $url
-add-ebidarray -results $ebidresults -title $title
- 
- $title="Watchmen"
- $url="http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=watchmen%20-before%20-novels%20-book&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
- $ebidresults=get-ebidresults -url $url
- add-ebidarray -results $ebidresults -title $title
-
-"Mind the gap"
- 
 ############################################################
 #State Pending
 #write-queries out to table

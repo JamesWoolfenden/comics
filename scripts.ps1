@@ -1,8 +1,11 @@
 #set-strictmode -Version Latest
 
-$dbfile="C:\comics\data.XML"
+$corescript=$myinvocation.mycommand.path
+$root=split-path -parent  $corescript
+$dbfile="$root\data.XML"
 
 import-module "C:\Users\Jim\Documents\GitHub\EbayRssPowershellModule\EbayRssPowershellModule.psm1" -force
+import-module "$root\database.ps1"
 
 function read-db
 {
@@ -216,6 +219,11 @@ function add-array()
              add -title $title -issue $issue -price $set.CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
 	         -Status "Open" -Description $trimmedtitle -AuctionType $set.AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
                  -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate -ImageSrc $set.ImageSrc -Link $set.Link
+                 
+             add-record -title $title -issue $issue -price $set.CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
+	         -Status "Open" -Description $trimmedtitle -AuctionType $set.AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
+                 -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate -ImageSrc $set.ImageSrc -Link $set.Link
+                 
              $count++
           }
           else
@@ -223,11 +231,14 @@ function add-array()
               if ($status -ne "Closed")
               {
                  update -ebayitem $set.Ebayitem -price $set.CurrentPrice
+                 update-db -ebayitem $set.Ebayitem -price $set.CurrentPrice -UpdateValue $issue -title $title -status $status 
                  Write-host "Updating $title $($set.Ebayitem)"
               }
               else
               {
                  update -ebayitem $set.Ebayitem -price $set.CurrentPrice -Status $status
+                 update-db -ebayitem $set.Ebayitem -price $set.CurrentPrice -UpdateValue $issue -title $title -status $status
+                 
                  Write-host "Closing $title $($set.Ebayitem)"
               }              
           }
@@ -452,6 +463,11 @@ function update-record
    }  
    
    $newtitle=read-host "Title $($record.title)"
+   if ($newtitle -eq $NULL -or $newtitle -eq "")
+   {
+      $newtitle=$record.title
+   }  
+   
    $newtitle=$newtitle.ToUpper() 
     
    $actualIssue=read-host "Issue $($record.Issue)"
@@ -498,10 +514,11 @@ function update-record
       }
    }
    
-   Write-Debug 'update -ebayitem $($record.ebayitem) $actualIssue -price $price -postage $postage $newtitle -Status $newstatus'
-   Write-Debug "update -ebayitem $($record.ebayitem) $actualIssue -price $price -postage $postage $newtitle -Status $newstatus"
+   #Write-Host 'update -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage $newtitle -Status $newstatus'
+   #Write-Host "update -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus"
    
-   update -ebayitem $record.ebayitem $actualIssue -price $price -postage $postage $newtitle -Status $newstatus -bought $bought -quantity $newquantity
+   update -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity
+   update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity   
 }
 
 function Finalize-Records()
@@ -574,7 +591,6 @@ function update-open()
 }
 
 
-
 function Clean-String()
 {
    param([string]$dirty)
@@ -603,11 +619,17 @@ function add-ebidarray
    $list=$test.root.comic|Where{$_.Ebayitem -ne $NULL -and $_.Ebayitem -ne ""}|select -property Ebayitem
    $Ebayitems=$list|foreach {"$($_.EbayItem)"}
     
+   write-host "Found $($resultset.item.count)"
+   
    foreach ($set in $resultset.item)
    {       
        if ($Ebayitems -notcontains $set.id)
        {
-          add-ebid $set $title
+          if ($set.title -ne $null)
+          {
+             write-host "adding $title $($set.ebayid)"
+             add-ebid $set $title
+          }
        }
    }
 }
@@ -618,9 +640,58 @@ function add-ebid
    [string]$comic,
    [int]$issue)
    
-   add -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description $ebiditem.description[0]."#cdata-section"`
+   if ($ebiditem.price -ne $null)
+   {
+      $ebiditem.price=$($ebiditem.price).Replace("&#163;","")
+   }
+   else
+   {
+     $ebiditem.price=0.00
+   }
+   
+   if ($ebiditem.Shipping -ne $null)
+   {
+      $ebiditem.Shipping=$($ebiditem.Shipping).Replace("&#163;","")
+   }
+   else
+   {
+     $ebiditem.Shipping=0.00
+   }
+
+   
+   if ($ebiditem.Shipping -contains "Free")
+   {
+      $ebiditem.Shipping =0.00
+   }
+   
+   if ($ebiditem.buynowprice -ne $null)
+   {
+      $ebiditem.buynowprice=$($ebiditem.buynowprice).Replace("&#163;","")
+   }
+   else
+   {
+     $ebiditem.buynowprice=0.00
+   }
+   
+   if ($description -ne $null)
+   {
+     $description=$ebiditem.description[0]."#cdata-section"
+     $description=$description.Replace("'","")
+   }
+   else
+   {
+      $description=""
+   }
+   
+   #$description=$description.substring(0, [System.Math]::Min(255, $description.Length))
+   
+   add -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description "$description"`
    -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
    -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining
+   
+   add-record -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description "$description"`
+   -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
+   -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining  
 }
 
 function get-records()
@@ -712,6 +783,43 @@ function reduce($array, $size)
    {
       $array
    }
+}
+
+function get-ebidrecords()
+{
+   param(
+   $title,
+   $exclude)
+   
+   if ($exclude -ne $NULL)
+   {
+      $excludearray =$exclude.split(" ")
+      $excludearray =$excludearray| Foreach-Object{ "-$_" }
+      foreach ($item in $excludearray)
+      {
+         $stringexclude=$stringexclude+$item
+      }
+   }
+   else
+   {
+      $stringexclude=$NULL
+   }
+   
+   $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title%20$stringexclude&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
+   write-host "Querying ebid $url"
+   $ebidresults=get-ebidresults -url $url
+   add-ebidarray -results $ebidresults -title $title
+}
+
+function get-allrecords()
+{
+   param(
+   [string]$title,
+   [string]$exclude,
+   [string]$include)
+   
+   get-ebidrecords -title "$title" -exclude "$exclude"
+   get-records -title "$title" -include $include -exclude "$exclude"
 }
 
 new-alias fr Finalize-Records -force
