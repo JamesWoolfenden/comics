@@ -14,13 +14,16 @@ get-allrecords -title "CLONE" -include "Image" -exclude "VOL Lazarus Ghosted Orp
 get-allrecords -title "Manifest Destiny" -include "Image" -Exclude "x-men Poster Card Still A4 Novel SET LOT"
 get-allrecords -title "Peter Panzerfaust" -exclude "volume vol chew pacific sex jesus sheltered Ninja Elephantmen"
 get-allrecords -title "Sex Criminals"  
-get-allrecords -title "SECRET" -include "Image" -exclude "Invasion Marvel Batman Valiant Avengers Warriors Flashpoint Wars Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY Marvel Deadpool"
+get-allrecords -title "SECRET" -include "Image" -exclude "dc Invasion Marvel Batman Valiant Avengers Warriors Flashpoint Wars Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY Marvel Deadpool"
 get-allrecords -title "Sheltered" -exclude "vol volume voltron"
 get-allrecords -title "Burn The Orphanage"
 get-allrecords -title "The Nightly News"
 get-allrecords -title "Thief of Thieves" -Exclude "Super walking chew tpb VOL"
 get-allrecords -title Velvet -exclude "LADY DEATH ASSASSIN Mara National"
-
+get-allrecords -title "Five Ghosts"
+get-allrecords -title "Jupiters Legacy"
+get-allrecords -title "Mercenary Sea"
+get-allrecords -title "the fuse" -include"image" "pop airboy blows"
 //get-records -title "Warrior" -Exclude "Commando Starblazer BBC 2000AD"
 
 
@@ -36,10 +39,14 @@ get each open record for a type and fix, change state to verified
 &_rss=1&
       
 stuff i can figure out
+initial listing price
+running average on price
+store estimates and generate daily
 fshippincost
 seller=mbg
 split sets
 multiples (one item multiple stock)
+estimates sales and holdings
 
 
 starting price

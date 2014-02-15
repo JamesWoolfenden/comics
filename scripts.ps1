@@ -13,6 +13,14 @@ function read-db
    $comics
 }
 
+function waitforpageload {
+    while ($ie.Busy -eq $true) { Start-Sleep -Milliseconds 1000; } 
+}
+
+function findDiv {param ($name)
+    $ie.Document.getElementsByTagName("div") | where-object {$_.id -and $_.id.EndsWith($name)}
+}
+
 function add 
 {
    param(
@@ -37,7 +45,8 @@ function add
    [string]$Link="",
    [string]$site="ebay",
    [int]$quantity=1,
-   [string]$remaining=""
+   [string]$remaining="",
+   [string]$seller=""
    )
 
    if (!(test-path $dbfile))
@@ -71,6 +80,7 @@ function add
       $element.SetAttribute('Site', $site)
       $element.SetAttribute('Quantity', $quantity)
       $element.SetAttribute('Remaining', $remaining)
+      $element.SetAttribute('Seller', $seller)
       $doc.DocumentElement.AppendChild($element)
 
       $doc.Save($dbfile)
@@ -279,7 +289,8 @@ function update()
    [string]$title,
    [string]$status="VERIFIED",
    [string]$bought,
-   [string]$quantity
+   [string]$quantity,
+   [string]$seller
    )
    
    # if loading the XML from file then do this
@@ -320,7 +331,12 @@ function update()
    
    if ($quantity)
    {
-         $comic.quantity=$quantity
+      $comic.quantity=$quantity
+   }
+   
+   if ($seller)
+   {
+      $comic.seller=$seller
    }
    
    if (($comic.Status -eq "Open") -or ($comic.Status -eq "Verified"))
@@ -439,15 +455,27 @@ function update-record
       }
    }
    
-   sleep 3
+   waitforpageload
+   
    if ($record.site -eq "ebay")
    {
       $estimate=$ie.Document.getElementByID('fshippingCost').innerText
+      $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
+      
+      $seller=$result[0].innerText
+      
+      #$bydiv=$ie.Document.body.getElementsByTagName('div') | 
+      #   Where {$_.getAttributeNode('class').Value -eq 'mbg-nw'}
+      #write-host $bydiv
+      
+      #$seller=""
    }
    Else
    {
       $estimate=$record.postage
    }
+   
+   write-host "Seller: $seller"
    
    [decimal]$price=read-host "Price $($record.Price)"
    if ($price -eq $NULL -or $price -eq "")
@@ -517,8 +545,8 @@ function update-record
    #Write-Host 'update -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage $newtitle -Status $newstatus'
    #Write-Host "update -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus"
    
-   update -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity
-   update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity   
+   update -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity -seller $seller
+   update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity  -seller $seller 
 }
 
 function Finalize-Records()
@@ -638,7 +666,9 @@ function add-ebid
 {
    param($ebiditem,
    [string]$comic,
-   [int]$issue)
+   [int]$issue,
+   [string]$seller=""
+   )
    
    if ($ebiditem.price -ne $null)
    {
@@ -681,17 +711,17 @@ function add-ebid
    else
    {
       $description=""
-   }
+   }   
    
    #$description=$description.substring(0, [System.Math]::Min(255, $description.Length))
    
    add -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description "$description"`
    -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
-   -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining
+   -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining -Seller $seller
    
    add-record -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description "$description"`
    -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
-   -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining  
+   -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining  -Seller $seller
 }
 
 function get-records()
@@ -789,12 +819,13 @@ function get-ebidrecords()
 {
    param(
    $title,
+   $include,
    $exclude)
    
    if ($exclude -ne $NULL)
    {
       $excludearray =$exclude.split(" ")
-      $excludearray =$excludearray| Foreach-Object{ "-$_" }
+      $excludearray =$excludearray| Foreach-Object{ "%20-$_" }
       foreach ($item in $excludearray)
       {
          $stringexclude=$stringexclude+$item
@@ -805,7 +836,22 @@ function get-ebidrecords()
       $stringexclude=$NULL
    }
    
-   $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title%20$stringexclude&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
+   if ($include -ne $NULL)
+      {
+         $includearray =$include.split(" ")
+         $includearray =$includearray| Foreach-Object{ "%20$_" }
+         foreach ($item in $includearray)
+         {
+            $stringinclude=$stringinclude+$item
+         }
+      }
+      else
+      {
+         $stringinclude=$NULL
+   }
+   
+   
+   $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title%$stringinclude$stringexclude&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
    write-host "Querying ebid $url"
    $ebidresults=get-ebidresults -url $url
    add-ebidarray -results $ebidresults -title $title
@@ -818,7 +864,7 @@ function get-allrecords()
    [string]$exclude,
    [string]$include)
    
-   get-ebidrecords -title "$title" -exclude "$exclude"
+   get-ebidrecords -title "$title" -include $include -exclude "$exclude"
    get-records -title "$title" -include $include -exclude "$exclude"
 }
 

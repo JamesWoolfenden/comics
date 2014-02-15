@@ -31,7 +31,8 @@ function add-record()
    [string]$Link="",
    [string]$site="ebay",
    [int]$quantity=1,
-   [string]$remaining=""
+   [string]$remaining="",
+   [string]$seller=""
    )
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
@@ -46,9 +47,9 @@ function add-record()
    $Description=$Description.Replace("'","")
    
    $cmd.commandtext = "INSERT INTO comics 
-   (Title, Price, Issue, Bought, DateOfSale, Status, postage, Description, PublishDate, EbayItem, Quantity, AuctionType, BestOffer, BidCount, BuyItNowPrice, CloseDate, ImageSrc, Link, Site, Remaining) 
+   (Title, Price, Issue, Bought, DateOfSale, Status, postage, Description, PublishDate, EbayItem, Quantity, AuctionType, BestOffer, BidCount, BuyItNowPrice, CloseDate, ImageSrc, Link, Site, Remaining, Seller) 
    VALUES
-   ('$title', '$Price', '$Issue', '$bought', '$saledate', '$status','$postage', '$Description','$PublishDate', '$ebayitem','$Quantity', '$AuctionType', '$BestOffer', '$BidCount', '$BuyItNowPrice', '$CloseDate', '$ImageSrc', '$Link', '$site', '$remaining')" 
+   ('$title', '$Price', '$Issue', '$bought', '$saledate', '$status','$postage', '$Description','$PublishDate', '$ebayitem','$Quantity', '$AuctionType', '$BestOffer', '$BidCount', '$BuyItNowPrice', '$CloseDate', '$ImageSrc', '$Link', '$site', '$remaining', '$seller')" 
    
    #$cmd.commandtext 
    
@@ -71,7 +72,8 @@ function update-db()
    [string]$title,
    [string]$status=$NULL,
    [string]$bought=$NULL,
-   [string]$quantity=$NULL
+   [string]$quantity=$NULL,
+   [string]$seller=$NULL
    )
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
@@ -104,6 +106,11 @@ function update-db()
    if ($status -ne "")
    {
       $updatestring=$updatestring+", status='$status'"
+   }
+   
+   if ($seller -ne "")
+   {
+      $updatestring=$updatestring+", seller='$seller'"
    }
    
    
