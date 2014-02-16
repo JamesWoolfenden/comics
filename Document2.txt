@@ -6,7 +6,7 @@ get-allrecords -title "The Walking Dead" -exclude "paperback chew volume dinosau
 get-allrecords -title "GHOSTED" -include "Image" -Exclude "Skullkickers Poster Card Still A4 Novel" 
 get-allrecords -title "Deadly Class"
 get-allrecords -title "Mind the Gap" 
-get-allrecords -title "Watchmen" -exclude "before novels book prints spawn figure badge tpb after fashion essential swamp VOL"
+get-allrecords -title "Watchmen" -exclude "before novels book prints spawn figure badge tpb after fashion essential swamp VOL liberty"
 get-allrecords -title "Manhattan Projects" -exclude "women vol volume"
 get-allrecords -title "Lazarus" -exclude "five Incredible Moriarty Vol"
 get-allrecords -title "The Bounce" -include "image" -Exclude "VOL" 
@@ -24,6 +24,10 @@ get-allrecords -title "Five Ghosts"
 get-allrecords -title "Jupiters Legacy"
 get-allrecords -title "Mercenary Sea"
 get-allrecords -title "the fuse" -include"image" "pop airboy blows"
+
+
+
+adapt for uk comics = warrior/2000ad
 //get-records -title "Warrior" -Exclude "Commando Starblazer BBC 2000AD"
 
 

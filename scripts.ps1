@@ -373,6 +373,7 @@ function view-url
    write-host "Opening $url`?"
    $IE.navigate2("$url`?")
    $IE.visible=$true
+   $IE
 }
 
 function update-recordset
@@ -446,7 +447,7 @@ function update-record
          }
          "ebid"
          {
-            view-url $record.link
+            $ie=view-url $record.link
          }
          default
          {
@@ -456,23 +457,31 @@ function update-record
    }
    
    waitforpageload
-   
-   if ($record.site -eq "ebay")
+      
+   if ($record.site -ne "ebid")
    {
       $estimate=$ie.Document.getElementByID('fshippingCost').innerText
-      $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
-      
-      $seller=$result[0].innerText
-      
-      #$bydiv=$ie.Document.body.getElementsByTagName('div') | 
-      #   Where {$_.getAttributeNode('class').Value -eq 'mbg-nw'}
-      #write-host $bydiv
-      
-      #$seller=""
+      if ($record.seller -eq "")
+      {
+         $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
+         $seller=$result[0].innerText
+      }
+      else
+      {
+         $seller=$record.seller
+      }
    }
    Else
    {
       $estimate=$record.postage
+      if ($record.site -eq "ebid" -And $record.seller -eq "")
+      {
+         $seller=($ie.Document.body.document.body.getElementsByTagName('a')| where{$_.innerHTML -eq "All about the seller"}).nameProp
+      }
+      else
+      {
+         $seller=$record.seller
+      }
    }
    
    write-host "Seller: $seller"
@@ -542,8 +551,8 @@ function update-record
       }
    }
    
-   #Write-Host 'update -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage $newtitle -Status $newstatus'
-   #Write-Host "update -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus"
+   #Write-Host 'update -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage $newtitle -Status $newstatus -seller $seller'
+   Write-Host "update -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -seller $seller"
    
    update -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity -seller $seller
    update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity  -seller $seller 
