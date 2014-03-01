@@ -106,95 +106,18 @@ function new-xmlfile ()
    write-warning "Created new db file $filename"
 }
 
-function estimate-price()
-{
-   param(
-   [string]$title,
-   [string]$Issue)
-   
-   $test=read-db
-   $result=$test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue -And $_.Status -eq "CLOSED"}
-   
-   [double]$total=0
-   [double]$maximum=0
-   [double]$minimum=0
-   
-   [int]$count=1
-   [int]$owned=$NULL
-   [double]$paid=$NULL
-   [double]$postage=$NULL
-   
-   if ($result -eq $NULL)
-   {
-      return "None Found"
-   }
-   
-   if($result.count)
-   {
-      $count=$result.count
-      #Write-host $result.count
-      $minimum=[double]$result[0].Price+[double]$result[0].postage
-   }
-   else
-   {
-      $minimum=[double]$result.Price+[double]$result.postage
-   }
-   
-   foreach($comic in $result)
-   {      
-      $TotalCost=[double]$comic.Price+[double]$comic.postage 
-      $minimum=[System.Math]::Min($comic.Price,$minimum)
-      $maximum=[System.Math]::Max($comic.Price,$maximum)
-      
-      if ($comic.Bought -eq $true)
-      {
-         $paid += $TotalCost
-         $owned ++ 
-      }
-      
-      $total += $TotalCost   
-      $totalPrice +=[double]$comic.Price
-   }
-    
-    $averagepaid=$paid/$owned
-    if ($result.Count)
-    {
-      $average=$total/$result.Count
-      $averagePrice=$totalPrice/$result.Count
-    }
-    else
-    {
-       $average=$total
-       $averagePrice=$totalPrice
-    }
-    
-    $average="{0:N2}" -f $average
-    
-    $objStats = New-Object System.Object
-    $objStats | Add-Member -type NoteProperty -name Title -value $($comic.Title)
-    $objStats | Add-Member -type NoteProperty -name Issue -value $Issue
-    $objStats | Add-Member -type NoteProperty -name TotalCost -value $average
-    $objStats | Add-Member -type NoteProperty -name TargetPrice -value $averagePrice
-    $objStats | Add-Member -type NoteProperty -name Minimum -value $minimum
-    $objStats | Add-Member -type NoteProperty -name Maximum -value $maximum
-    $objStats | Add-Member -type NoteProperty -name Count -value $count
-    $objStats | Add-Member -type NoteProperty -name AveragePaid -value $averagepaid
-    $objStats | Add-Member -type NoteProperty -name Stock -value $owned
-   return $objStats 
-}
-
 function stat()
 {
    param([string]$title,
    [string]$Issue)
-   $test=read-db
+    
    if ($Issue)
    {
-      $test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue} 
+      query-db "where Title = '$title' And Issue ='$Issue'" 
    }
    else
    {
-      $test.root.comic| where-object {$_.Title -eq $title}| Sort-Object Issue 
+      query-db "where Title = '$title' order by issue" 
    }
 }
 
@@ -212,7 +135,7 @@ function add-array()
    #first lets read in all existing related items
    $test=read-db
    
-   $list=$test.root.comic|Where{$_.Ebayitem -ne $NULL -and $_.Ebayitem -ne ""}|select -property Ebayitem
+   $list=query-db "Where Ebayitem != NULL"|select -property Ebayitem
    $Ebayitems=$list|foreach {"$($_.EbayItem)"}
    
    if ($resultset -ne $Null)
@@ -221,14 +144,11 @@ function add-array()
       
       foreach ($set in $resultset)
       {       
-          if ($Ebayitems -notcontains $set.ebayitem)
+          if (!(get-db $set.ebayitem))
           {
              $trimmedtitle=clean-string $set.Title
              
              Write-host "Adding $title $($set.Ebayitem)"
-             add -title $title -issue $issue -price $set.CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
-	         -Status "Open" -Description $trimmedtitle -AuctionType $set.AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
-                 -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate -ImageSrc $set.ImageSrc -Link $set.Link
                  
              add-record -title $title -issue $issue -price $set.CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
 	         -Status "Open" -Description $trimmedtitle -AuctionType $set.AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
@@ -240,15 +160,14 @@ function add-array()
           {
               if ($status -ne "Closed")
               {
-                 update -ebayitem $set.Ebayitem -price $set.CurrentPrice
-                 update-db -ebayitem $set.Ebayitem -price $set.CurrentPrice -UpdateValue $issue -title $title -status $status 
+                 #update -ebayitem $set.Ebayitem -price $set.CurrentPrice
+                 update-db -ebayitem $set.Ebayitem -status $status -price $set.CurrentPrice
                  Write-host "Updating $title $($set.Ebayitem)"
               }
               else
               {
-                 update -ebayitem $set.Ebayitem -price $set.CurrentPrice -Status $status
-                 update-db -ebayitem $set.Ebayitem -price $set.CurrentPrice -UpdateValue $issue -title $title -status $status
-                 
+                 #update -ebayitem $set.Ebayitem -price $set.CurrentPrice -Status $status
+                 update-db -ebayitem $set.Ebayitem -status $status  -price $set.CurrentPrice
                  Write-host "Closing $title $($set.Ebayitem)"
               }              
           }
@@ -273,9 +192,7 @@ function add-array()
 function verify()
 {
    param([string]$title,[string]$Issue)
-   $test=read-db
-   $result=$test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue -And $_.Status -eq "Open"}
-   $result
+   query-db "where title='$title' and issue='$issue' and status='open'"
 }
 
 function update()
@@ -378,7 +295,6 @@ function view-url
 
 function update-recordset
 {
-
    #renaming comic is an issue
    Param(
          [Parameter(Mandatory=$true)]
@@ -386,15 +302,14 @@ function update-recordset
          [string]$Issue,
          [string]$sortby="DateOfSale")
    
-   $test=read-db
    
    if ($Issue)
    {
-      $results=$test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue -And ($_.Status -eq "VERIFIED" -or $_.Status -eq "Open")}| Sort-Object "$SortBy"
+      $results=query-db "where title='$title' and issue='$issue' and (status='verified' or status='open') order by $sortby"
    }
    Else
    {
-      $results=$test.root.comic| where-object {$_.Title -eq $title -And ($_.Status -eq "VERIFIED" -or $_.Status -eq "Open")}| Sort-Object "$SortBy"
+      $results=query-db "where title='$title' and (status='verified' or status='open') order by $sortby"
    }
    
    if ($results -eq "" -or $results -eq $Null)
@@ -436,33 +351,39 @@ function update-record
    $record, 
    [string]$newstatus)
    
-   
-   if ($record.ebayitem)
+   if ($($record.ebayitem))
    { 
-      switch ($record.site)
+      #Write-host "site is:$($record.site)"
+    
+      switch ($($record.site))
       {
          "ebay"
          {
-            $ie=view $record.ebayitem         
+            $ie=view $($record.ebayitem)         
          }
          "ebid"
          {
-            $ie=view-url $record.link
+            $ie=view-url $($record.link)
          }
          default
          {
-	    $ie=view $record.ebayitem
+	    $ie=view $($record.ebayitem)
 	 }
       }
+   }
+   else 
+   {
+      write-warning "$($record.ebayitem) is null or empty"
    }
    
    waitforpageload
       
-   if ($record.site -ne "ebid")
+   if ($record.site -eq "ebay")
    {
       $estimate=$ie.Document.getElementByID('fshippingCost').innerText
-      if ($record.seller -eq "")
+      if ($record.seller -eq "" -or $record.seller -eq $NULL)
       {
+         write-host "Finding seller"
          $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
          $seller=$result[0].innerText
       }
@@ -518,7 +439,7 @@ function update-record
    $newquantity  = new-object int 
    $newquantity=1
    
-   if ($actualIssue -eq "SET" -And $($record.Quantity) -eq "1")
+   if ($actualIssue -eq "SET" -And $($record.Quantity) -eq 1)
    {
       $newquantity=read-host "Number in set:$($record.Quantity)"
    }   
@@ -551,10 +472,8 @@ function update-record
       }
    }
    
-   #Write-Host 'update -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage $newtitle -Status $newstatus -seller $seller'
-   Write-Host "update -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -seller $seller"
-   
-   update -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity -seller $seller
+   Write-Host "update-db -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -seller $seller"
+
    update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity  -seller $seller 
 }
 
@@ -566,11 +485,9 @@ function Finalize-Records()
         [Parameter(Mandatory=$true)]
         [string]$Issue)
    
-   $test=read-db
-   $results=$test.root.comic| where-object {$_.Title -eq $title -And $_.Issue -eq $Issue -And ($_.Status -eq "VERIFIED")}
-
-   $result=$results
-
+   
+   $results=query-db "where title='$title' and issue='$issue' and status = 'verified'"
+   
    if ($results -eq "" -or $results -eq $Null)
    { 
       return "None found."
@@ -592,10 +509,18 @@ function Finalize-Records()
 
 function update-open()
 {
-   $test=read-db
-   $results=$test.root.comic| where-object {$_.Status -eq "OPEN"}
-
-   $result=$results
+   param([string]$title=$NULL)
+      
+   if ($title)
+   {
+      $query="where status='open' and title='$title'"
+   }
+   else 
+   {
+      $query="where status='open'"
+   }
+   
+   $results=query-db $query
    $count=1
 
    if ($results -eq "" -or $results -eq $Null)
@@ -627,7 +552,6 @@ function update-open()
    }
 }
 
-
 function Clean-String()
 {
    param([string]$dirty)
@@ -650,23 +574,19 @@ function add-ebidarray
    [string]$title)
    
    $resultset=$results.rss.channel
-      
-   #first lets read in all existing related items
-   $test=read-db
-   $list=$test.root.comic|Where{$_.Ebayitem -ne $NULL -and $_.Ebayitem -ne ""}|select -property Ebayitem
-   $Ebayitems=$list|foreach {"$($_.EbayItem)"}
-    
-   write-host "Found $($resultset.item.count)"
-   
+       
    foreach ($set in $resultset.item)
    {       
-       if ($Ebayitems -notcontains $set.id)
+       if ((get-db $set.id) -eq 0)
        {
           if ($set.title -ne $null)
           {
-             write-host "adding $title $($set.ebayid)"
              add-ebid $set $title
           }
+       }
+       else
+       {
+          write-host "Skipping $($set.id)"
        }
    }
 }
@@ -685,18 +605,19 @@ function add-ebid
    }
    else
    {
-     $ebiditem.price=0.00
+      $ebiditem.price=0.00
    }
    
    if ($ebiditem.Shipping -ne $null)
    {
       $ebiditem.Shipping=$($ebiditem.Shipping).Replace("&#163;","")
+      $ebiditem.Shipping=$($ebiditem.Shipping).Replace("<i>","")
+      $ebiditem.Shipping=$($ebiditem.Shipping).Replace("</i>","")   
    }
    else
    {
      $ebiditem.Shipping=0.00
    }
-
    
    if ($ebiditem.Shipping -contains "Free")
    {
@@ -722,15 +643,16 @@ function add-ebid
       $description=""
    }   
    
-   #$description=$description.substring(0, [System.Math]::Min(255, $description.Length))
+   #add -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description "$description"`
+   #-postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
+   #-site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining -Seller $seller
    
-   add -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description "$description"`
-   -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
-   -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining -Seller $seller
    
    add-record -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description "$description"`
    -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
    -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining  -Seller $seller
+      
+   write-host "adding $title $($set.ebayid)"
 }
 
 function get-records()
@@ -766,9 +688,7 @@ function get-issues()
    param(
    [string]$title)
    
-   $test=read-db
-   $result=$test.root.comic| where-object {$_.Title -eq $title -And $_.Status -eq "CLOSED"}
-   
+   $result=query-db "where title='$title'  and status = 'closed'"
    $issuesfound=@()
    
    $issuesfound=$result| select-object -property Issue -unique|sort-object issue
@@ -860,7 +780,7 @@ function get-ebidrecords()
    }
    
    
-   $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title%$stringinclude$stringexclude&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
+   $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
    write-host "Querying ebid $url"
    $ebidresults=get-ebidresults -url $url
    add-ebidarray -results $ebidresults -title $title
@@ -875,6 +795,45 @@ function get-allrecords()
    
    get-ebidrecords -title "$title" -include $include -exclude "$exclude"
    get-records -title "$title" -include $include -exclude "$exclude"
+}
+
+function update-number()
+{
+   Param([string]$Issue,
+   [string]$title)
+   
+   $test=read-db
+   $results=$test.root.comic| where-object {$_.title -eq $title -And $_.Issue -eq $Issue -And $_.EbayItem -ne $NULL}
+   $results=$results| where-object{$_.EbayItem -ne ""}
+   $count=1
+
+   if ($results -eq "" -or $results -eq $Null)
+   { 
+      return "None found."
+   }
+   else
+   {
+      if ($results.count)
+      {
+         $count=$results.count
+      }    
+   }
+      
+   try
+   {
+      $index=1
+      foreach($record in $results)
+      {
+         write-host "Record $index of $count"
+         update-record $record 
+         $index ++
+      }
+   }
+   catch
+   {
+    throw $_.Exception
+    exit 1
+   }
 }
 
 new-alias fr Finalize-Records -force

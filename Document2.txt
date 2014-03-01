@@ -1,10 +1,11 @@
 get-allrecords -title "THINK TANK" -exclude "fantastic"
-get-allrecords -title "CHEW" -exclude "Wolverine America Pacific VOL dancer volume bedlam luther happy nightly romana saga sex talent"
+get-allrecords -title "CHEW" -include "image" -exclude "Pirates Trouble Detective Wolverine America Pacific VOL dancer volume bedlam luther happy nightly romana saga sex talent"
 get-allrecords -title "V for Vendetta" -Exclude "VOL Essentials"
 get-allrecords -title "The Walking Dead Weekly" -exclude "paperback chew volume dinosaur world monopoly"
-get-allrecords -title "The Walking Dead" -exclude "paperback chew volume dinosaur world weekly MONOPOLY Weekly"
+get-allrecords -title "The Walking Dead" -include "Variant" -exclude "Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly"
+get-allrecords -title "The Walking Dead" -exclude "Variant Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly"
 get-allrecords -title "GHOSTED" -include "Image" -Exclude "Skullkickers Poster Card Still A4 Novel" 
-get-allrecords -title "Deadly Class"
+get-allrecords -title "Deadly Class" 
 get-allrecords -title "Mind the Gap" 
 get-allrecords -title "Watchmen" -exclude "before novels book prints spawn figure badge tpb after fashion essential swamp VOL liberty"
 get-allrecords -title "Manhattan Projects" -exclude "women vol volume"
@@ -12,19 +13,19 @@ get-allrecords -title "Lazarus" -exclude "five Incredible Moriarty Vol"
 get-allrecords -title "The Bounce" -include "image" -Exclude "VOL" 
 get-allrecords -title "CLONE" -include "Image" -exclude "VOL Lazarus Ghosted Orphanage Titans Spider-man" 
 get-allrecords -title "Manifest Destiny" -include "Image" -Exclude "x-men Poster Card Still A4 Novel SET LOT"
-get-allrecords -title "Peter Panzerfaust" -exclude "volume vol chew pacific sex jesus sheltered Ninja Elephantmen"
+get-allrecords -title "Peter Panzerfaust" -exclude "Xenoholics Rat volume vol chew pacific sex jesus sheltered Ninja Elephantmen Debris"
 get-allrecords -title "Sex Criminals"  
 get-allrecords -title "SECRET" -include "Image" -exclude "dc Invasion Marvel Batman Valiant Avengers Warriors Flashpoint Wars Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY Marvel Deadpool"
 get-allrecords -title "Sheltered" -exclude "vol volume voltron"
 get-allrecords -title "Burn The Orphanage"
 get-allrecords -title "The Nightly News"
 get-allrecords -title "Thief of Thieves" -Exclude "Super walking chew tpb VOL"
-get-allrecords -title Velvet -exclude "LADY DEATH ASSASSIN Mara National"
+get-allrecords -title Velvet -exclude "Stumptown LADY DEATH ASSASSIN Mara National"
 get-allrecords -title "Five Ghosts"
 get-allrecords -title "Jupiters Legacy"
 get-allrecords -title "Mercenary Sea"
-get-allrecords -title "the fuse" -include"image" "pop airboy blows"
-
+get-allrecords -title "The Fuse" -include "image" -exclude "pop airboy blows"
+get-allrecords -title "Revival" -exclude "debris saga"
 
 
 adapt for uk comics = warrior/2000ad
@@ -51,7 +52,10 @@ seller=mbg
 split sets
 multiples (one item multiple stock)
 estimates sales and holdings
-
+lowest priced expired item
+no of recent sales
+no of recent offered items
+sales/offered
 
 starting price
 
