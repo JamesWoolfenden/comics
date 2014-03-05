@@ -406,8 +406,37 @@ function update-record
    }
    
    write-host "Seller: $seller"
+   $priceestimate=0
    
-   [decimal]$price=read-host "Price $($record.Price)"
+   if ($record.site -eq "ebay")
+   {
+      $priceestimate= $ie.Document.getElementByID('prcIsum').innerText
+      if ($priceestimate -eq $NULL)
+      {
+         $priceestimate= ($ie.Document.getElementByID('prcIsum_bidPrice').innerText)
+         
+      }
+      
+      #still null must have stopped auction?
+      if ($priceestimate -eq $NULL)
+      {
+         $closedpriceestimate = @($ie.Document.body.getElementsByClassName('notranslate vi-VR-cvipPrice'))
+         $priceestimate=$closedpriceestimate[0].innerText
+      }
+      
+      if ($priceestimate -ne $NULL)
+      {
+         $priceestimate=$priceestimate.replace("£","")    
+      }
+      
+      
+      [decimal]$price=read-host "Price $($record.Price): estimate:$priceestimate"
+   }
+   else
+   {
+      [decimal]$price=read-host "Price $($record.Price)"
+   }
+   
    if ($price -eq $NULL -or $price -eq "")
    {
       $price=$record.Price
