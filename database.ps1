@@ -1,12 +1,3 @@
-#[assembly.reflection]::loadwithpartialname('System.Data')
-#$conn = New-Object System.Data.SqlClient.SqlConnection
-#$conn.ConnectionString = "Data Source=localhost\r2;Initial Catalog=comics;Integrated Security=SSPI;"
-#$conn.open()
-#$title="The Walking Dead"
-#$description ="The description"
-#$issue = "1"
-#$ebayid=1221342343
-
 function get-pounds
 {
    param([string]$dirty="")
@@ -79,15 +70,13 @@ function add-record()
    #Write-host "Price $Price"
    
    $cmd.commandtext = "INSERT INTO comics 
-   (Title, Price, Issue, Bought, DateOfSale, Status, postage, Description, PublishDate, EbayItem, Quantity, AuctionType, BestOffer, BidCount, BuyItNowPrice, CloseDate, ImageSrc, Link, Site, Remaining, Seller) 
+   (Title, Price, Issue, Bought, DateOfSale, Status, postage, Description, PublishDate, EbayItem, Quantity, AuctionType, BestOffer, BidCount, BuyItNowPrice, CloseDate, ImageSrc, Link, Site, Remaining, Seller, SaleDate, StartingPrice) 
    VALUES
-   ('$title', '$Price', '$Issue', '$bought', '$saledate', '$status','$postage', '$Description','$PublishDate', '$ebayitem',$Quantity, '$AuctionType', '$BestOffer', '$BidCount', '$BuyItNowPrice', '$CloseDate', '$ImageSrc', '$Link', '$site', '$remaining', '$seller')" 
-   #$cmd.commandtext
+   ('$title', '$Price', '$Issue', '$bought', '$saledate', '$status','$postage', '$Description','$PublishDate', '$ebayitem',$Quantity, '$AuctionType', '$BestOffer', '$BidCount', '$BuyItNowPrice', '$CloseDate', '$ImageSrc', '$Link', '$site', '$remaining', '$seller', '$saledate','$Price')" 
    
    $result=$cmd.executenonquery()
    $conn.close()
 }
-
 
 function get-db()
 {
@@ -185,6 +174,10 @@ function update-db()
    if ($status -ne "")
    {
       $updatestring=$updatestring+", status='$status'"
+      if ($status -eq "closed")
+      {
+          $updatestring=$updatestring+", SaleDate='$saledate'"
+      }
    }
    
    if ($seller -ne "")
