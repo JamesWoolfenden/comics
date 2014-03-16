@@ -23,6 +23,27 @@ function get-pounds
 
 function add-record()
 {
+   <#
+      .SYNOPSIS 
+       Adds a comic sale record.
+	    
+      .DESCRIPTION
+       Adds a comic sale record to the db
+      
+      .PARAMETER Name
+	Specifies the file name.
+	    
+      .EXAMPLE
+      C:\PS> add-record -title "The Walking Dead" -issue "1A" -price 12.5 -status CLOSED -bought $true -site FP -seller FP
+      .EXAMPLE
+      C:\PS>add-record -title "The Walking Dead" -issue 122 -price 1.75 -status CLOSED -bought $true -site FP -seller FP -postage 0.67
+      .EXAMPLE
+      C:\PS>add-record -title "The Walking Dead" -issue 123 -price 1.75 -status CLOSED -bought $true -site FP -seller FP -postage 0.67
+      .EXAMPLE
+      C:\PS> add-record -title "Manhattan Projects" -issue 18 -price 2.10 -status CLOSED -bought $true -site FP -seller FP -postage 0.67
+        
+   #>
+            
    param(
    [Parameter(Mandatory=$true)]
    [string]$title,

@@ -300,17 +300,26 @@ function update-recordset
          [Parameter(Mandatory=$true)]
          [string]$title,
          [string]$Issue,
-         [string]$sortby="DateOfSale")
+         [string]$sortby="DateOfSale",
+         [string]$status)
    
+   $querystring="where title='$title'"
    
    if ($Issue)
    {
-      $results=query-db "where title='$title' and issue='$issue' and (status='verified' or status='open') order by $sortby"
+      $querystring +="and issue='$issue'"
    }
-   Else
+   
+   if($status)
    {
-      $results=query-db "where title='$title' and (status='verified' or status='open') order by $sortby"
+      $querystring +=" and (status='$status') order by $sortby"
    }
+   else
+   {
+      $querystring +=" and (status='verified' or status='open') order by $sortby"
+   }
+   
+   $results=query-db "$querystring"
    
    if ($results -eq "" -or $results -eq $Null)
    { 
@@ -334,7 +343,15 @@ function update-recordset
       foreach($record in $results)
       {
          Write-host "$counter of $($results.count)"
-         update-record $record 
+         if ($record.Ebayitem -eq "" -or $record.Ebayitem -eq $null) 
+         {
+           write-host "skipping item: record.Ebayitem is nothing"
+         }
+         else 
+         {
+           update-record $record 
+         }
+         
          $counter++
       }
    }
