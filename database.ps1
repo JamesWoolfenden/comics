@@ -534,13 +534,23 @@ function get-currentprice
    $cmd.commandtext = "Select top 5 Price FROM [Comics].[dbo].[Comics] $wherestring order by saledate desc" 
    #write-host "$($cmd.commandtext)"
    $data = $cmd.ExecuteReader()
+   $readprice=0
+   $counter=0
    while ($data.Read())
       {    
           if (!($data.IsDBNUll(0))) 
           {
-            $currentprice+=$data.GetValue(0)
+            $readprice+=$data.GetValue(0)
             $counter++
           }
       }
-   $currentprice/$counter
+  
+    if ($counter -ne 0)
+    {
+       return [double]($readprice/$counter)
+    }
+    else 
+    {
+       return 0.00
+    }
 }

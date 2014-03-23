@@ -361,9 +361,16 @@ function update-recordset
    try
    {
       [int]$counter=1
+      [int]$total=$($results.count)
+      if ($total -eq $NULL)
+      {
+         $total=1
+      }
+
       foreach($record in $results)
       {
-         Write-host "$counter of $($results.count)"
+         Write-host "$counter of $total"
+         
          if ($record.Ebayitem -eq "" -or $record.Ebayitem -eq $null) 
          {
            write-host "skipping item: record.Ebayitem is nothing"
@@ -443,16 +450,42 @@ function update-record
       }
    }
    
+   $newtitle=read-host "Title $($record.title)"
+   if ($newtitle -eq $NULL -or $newtitle -eq "")
+   {
+      $newtitle=$record.title
+   }  
+   
+   $newtitle=$newtitle.ToUpper()  
+   
+   $actualIssue=read-host "Issue $($record.Issue)"
+   if ($actualIssue -eq $NULL -or $actualIssue -eq "")
+   {
+      $actualIssue=$record.Issue
+   }
+      
+   $actualIssue=$actualIssue.ToUpper()
    write-host "Seller: $seller"
    $priceestimate=0
+   [double]$marketprice=0
+   #write-host "get-currentprice -issue $actualIssue -title $newtitle"
+   [double]$marketprice=get-currentprice -issue $actualIssue -title $newtitle
+   
+   $foregroundcolor="red"
+   
+   if ($marketprice -gt [double]$($record.Price))
+   {
+      $foregroundcolor="green"
+   }
+   
+   $marketprice="{0:N2}" -f $marketprice   
    
    if ($record.site -eq "ebay")
    {
       $priceestimate= $ie.Document.getElementByID('prcIsum').innerText
       if ($priceestimate -eq $NULL)
       {
-         $priceestimate= ($ie.Document.getElementByID('prcIsum_bidPrice').innerText)
-         
+         $priceestimate= ($ie.Document.getElementByID('prcIsum_bidPrice').innerText)      
       }
       
       #still null must have stopped auction?
@@ -467,13 +500,14 @@ function update-record
          $priceestimate=$priceestimate.replace("£","")    
       }
       
-      
-      [decimal]$price=read-host "Price $($record.Price): estimate:$priceestimate"
+      Write-host "Price $($record.Price): estimate:$priceestimate market:$marketprice" -foregroundcolor $foregroundcolor -NoNewline    
    }
    else
    {
-      [decimal]$price=read-host "Price $($record.Price)"
+       Write-host "Price $($record.Price): market:$marketprice" -foregroundcolor $foregroundcolor -NoNewline      
    }
+   
+   [decimal]$price=read-host 
    
    if ($price -eq $NULL -or $price -eq "")
    {
@@ -481,27 +515,11 @@ function update-record
    }
    
    $postage=new-object decimal
-   $postage=read-host "Postage $($record.postage) estimate:$estimate"
+   $postage=read-host "Postage: $($record.postage) estimate:$estimate"
    if ($postage -eq $NULL -or $postage -eq "")
    {
       $postage=$record.Postage
    }  
-   
-   $newtitle=read-host "Title $($record.title)"
-   if ($newtitle -eq $NULL -or $newtitle -eq "")
-   {
-      $newtitle=$record.title
-   }  
-   
-   $newtitle=$newtitle.ToUpper() 
-    
-   $actualIssue=read-host "Issue $($record.Issue)"
-   if ($actualIssue -eq $NULL -or $actualIssue -eq "")
-   {
-      $actualIssue=$record.Issue
-   }
-   
-   $actualIssue=$actualIssue.ToUpper()
    
    $newquantity  = new-object int 
    $newquantity=1
