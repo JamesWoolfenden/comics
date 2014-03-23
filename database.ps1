@@ -21,6 +21,22 @@ function get-pounds
     }
 }
 
+function get-cover
+{
+   param([string]$dirty="")
+   Try
+   {
+      [regex]$r="[^0-9.]"
+      $clean=$r.replace($dirty,"")
+ 
+      $clean
+    }
+    Catch [system.exception]
+    {
+        throw $_.message
+    }
+}
+
 function add-record()
 {
    <#
@@ -449,13 +465,17 @@ function estimate-price()
        $averagePrice=$totalPrice
     }
     
+    $currentprice=get-currentprice -title $($comic.Title) -issue $issue
+    [int]$cover = get-cover $Issue 
     $average="{0:N2}" -f $average
     
     $objStats = New-Object System.Object
     $objStats | Add-Member -type NoteProperty -name Title -value $($comic.Title)
     $objStats | Add-Member -type NoteProperty -name Issue -value $Issue
+    $objStats | Add-Member -type NoteProperty -name Cover -value $cover
     $objStats | Add-Member -type NoteProperty -name TotalCost -value $average
-    $objStats | Add-Member -type NoteProperty -name TargetPrice -value $averagePrice
+    $objStats | Add-Member -type NoteProperty -name AveragePrice -value $averagePrice
+    $objStats | Add-Member -type NoteProperty -name CurrentPrice -value $currentprice
     $objStats | Add-Member -type NoteProperty -name Minimum -value $minimum
     $objStats | Add-Member -type NoteProperty -name Maximum -value $maximum
     $objStats | Add-Member -type NoteProperty -name Count -value $count
@@ -468,7 +488,59 @@ function estimate-price()
 
 function bySeller
 {
+   <#
+      .SYNOPSIS 
+       For reviewing a set open of comic sales by vendor
+	    
+      
+      .PARAMETER seller
+	Specifies the seller. If left blank orders by seller.
+	    
+      .EXAMPLE
+      C:\PS> byseller -seller blackadam 
+      
+      .EXAMPLE
+      C:\PS> byseller -seller blackadam|ogv
+      
+      .EXAMPLE
+            C:\PS> byseller |ogv
+      
+   #>
+
    param([string]$seller)
-   query-db "where seller='$seller' and (status='open' OR status='verified')"
+   if ($seller -eq $NULL -or $seller -eq '')
+   {
+      query-db "where (status='open' OR status='verified') order by seller"
+   }
+   else
+   {
+      query-db "where seller='$seller' and (status='open' OR status='verified')"
+   }
 }
 
+function get-currentprice
+{
+   Param(
+   [string]$title,
+   [string]$Issue)
+     
+   [string]$wherestring="where Title = '$title' And Issue = '$Issue' and Status='closed'"  
+   
+   $conn = New-Object System.Data.SqlClient.SqlConnection
+   $conn.ConnectionString = "Data Source=localhost\r2;Initial Catalog=comics;Integrated Security=SSPI;"
+   $conn.open()
+   $cmd = New-Object System.Data.SqlClient.SqlCommand
+   $cmd.connection = $conn
+   $cmd.commandtext = "Select top 5 Price FROM [Comics].[dbo].[Comics] $wherestring order by saledate desc" 
+   #write-host "$($cmd.commandtext)"
+   $data = $cmd.ExecuteReader()
+   while ($data.Read())
+      {    
+          if (!($data.IsDBNUll(0))) 
+          {
+            $currentprice+=$data.GetValue(0)
+            $counter++
+          }
+      }
+   $currentprice/$counter
+}

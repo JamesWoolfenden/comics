@@ -295,6 +295,27 @@ function view-url
 
 function update-recordset
 {
+  <#
+      .SYNOPSIS 
+       For reviewing a set of comic records
+	    
+      
+      .PARAMETER title
+	Specifies the comic.
+      .PARAMETER Issue
+	Specifies the comic issue.
+      .PARAMETER sortby
+	Specifies the order parameter.
+      .PARAMETER status
+	An override to see comics in a certain status e.g. CLOSED.
+	    
+      .EXAMPLE
+      C:\PS> update-recordset -title "The Walking Dead" -issue "1A" 
+      
+      .EXAMPLE
+      C:\PS> ur -title "The Walking Dead" -issue "1A" 
+   #>
+
    #renaming comic is an issue
    Param(
          [Parameter(Mandatory=$true)]
@@ -705,7 +726,8 @@ function get-records()
 {
    param([string]$title,
    [string]$exclude="",
-   [string]$include="")
+   [string]$include="",
+   [string]$comictitle=$title)
    
    if ($include -ne $NULL)
    {
@@ -719,13 +741,13 @@ function get-records()
    $closedresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -closed $true|where {$_.BidCount -ne "0"}
    if ($closedresult)
    {
-     add-array $closedresult "$title" 0 -Status Closed
+     add-array $closedresult -title "$comictitle" -issue 0 -Status Closed
    }
    
    $result=Get-EbayRssItems -Keywords "$keywords"  -ExcludeWords "$exclude"
    if ($result)
    {
-      add-array $result "$title" 0
+      add-array $result -title "$comictitle" -issue 0
    }
 }
 
@@ -795,7 +817,8 @@ function get-ebidrecords()
    param(
    $title,
    $include,
-   $exclude)
+   $exclude,
+   $comictitle=$title)
    
    if ($exclude -ne $NULL)
    {
@@ -829,7 +852,7 @@ function get-ebidrecords()
    $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
    write-host "Querying ebid $url"
    $ebidresults=get-ebidresults -url $url
-   add-ebidarray -results $ebidresults -title $title
+   add-ebidarray -results $ebidresults -title $comictitle
 }
 
 function get-allrecords()
@@ -837,10 +860,11 @@ function get-allrecords()
    param(
    [string]$title,
    [string]$exclude,
-   [string]$include)
+   [string]$include,
+   [string]$comictitle=$title)
    
-   get-ebidrecords -title "$title" -include $include -exclude "$exclude"
-   get-records -title "$title" -include $include -exclude "$exclude"
+   get-ebidrecords -title "$title" -include $include -exclude "$exclude" -comictitle $comictitle
+   get-records -title "$title" -include $include -exclude "$exclude" -comictitle $comictitle
 }
 
 function update-number()
@@ -888,3 +912,4 @@ new-alias np c:\windows\notepad.exe
 new-alias cr closing-record -force  
 new-alias ep estimate-price -force
 new-alias ap get-allprices -force
+new-alias uo update-open -force
