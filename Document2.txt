@@ -31,6 +31,7 @@ get-allrecords -title "Revival"  -include "image" -exclude "batman debris saga C
 get-allrecords -title "Ten Grand" -include "image" 
 get-allrecords -title "Fatale" -include "image" -exclude "finale witchblade Reality Pirates Bedlam Powers Happy"
 get-allrecords -title "irredeemable ant-man"
+
 adapt for uk comics = warrior/2000ad
 //get-records -title "Warrior" -Exclude "Commando Starblazer BBC 2000AD"
 
