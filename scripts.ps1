@@ -465,6 +465,26 @@ function update-record
    }
       
    $actualIssue=$actualIssue.ToUpper()
+   
+   $newquantity  = new-object int 
+   
+   $newquantity=1
+   
+   if ($($record.Quantity) -gt 0)
+   {
+      $newquantity=$($record.Quantity)
+   }
+   
+   if ($actualIssue -eq "SET" -And $($record.Quantity) -eq 1)
+   {
+      $readquantity=read-host "Number in set:$($record.Quantity)"
+      if  ($readquantity -gt 0)
+      {
+         $newquantity = $readquantity
+      }
+   }   
+   
+   
    write-host "Seller: $seller"
    $priceestimate=0
    [double]$marketprice=0
@@ -500,11 +520,11 @@ function update-record
          $priceestimate=$priceestimate.replace("£","")    
       }
       
-      Write-host "Price $($record.Price): estimate:$priceestimate market:$marketprice" -foregroundcolor $foregroundcolor -NoNewline    
+      Write-host "Price $($record.Price): estimate:$priceestimate market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline    
    }
    else
    {
-       Write-host "Price $($record.Price): market:$marketprice" -foregroundcolor $foregroundcolor -NoNewline      
+       Write-host "Price $($record.Price): market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline      
    }
    
    [decimal]$price=read-host 
@@ -521,13 +541,8 @@ function update-record
       $postage=$record.Postage
    }  
    
-   $newquantity  = new-object int 
-   $newquantity=1
-   
-   if ($actualIssue -eq "SET" -And $($record.Quantity) -eq 1)
-   {
-      $newquantity=read-host "Number in set:$($record.Quantity)"
-   }   
+   $TCO=([decimal]$postage+[decimal]$price)/$newquantity
+   write-host "TCO per issue $TCO" -foregroundcolor cyan
    
    $bought="false"
    [string]$newstatus=read-host $record.Status "(V=Verified, C=Closed, E=Expired, B=Bought)"
