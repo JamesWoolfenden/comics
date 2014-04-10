@@ -70,7 +70,7 @@ function add-record()
    [bool]$bought=$false,
    [string]$PublishDate,
    [string]$Ebayitem,
-   [string]$Status="Closed",
+   [string]$Status="CLOSED",
    [string]$Description="",
    [string]$postage="0.00",
    [string]$AuctionType="",
@@ -211,7 +211,7 @@ function update-db()
    if ($status -ne "")
    {
       $updatestring=$updatestring+", status='$status'"
-      if ($status -eq "closed")
+      if ($status -eq "CLOSED")
       {
           $updatestring=$updatestring+", SaleDate='$saledate'"
       }
@@ -222,7 +222,7 @@ function update-db()
       $updatestring=$updatestring+", seller='$seller'"
    }
    
-   $cmd.commandtext = "update Comics.dbo.Comics SET $updatestring where Ebayitem = '$ebayitem' and (status !='closed' OR status !='expired')" 
+   $cmd.commandtext = "update Comics.dbo.Comics SET $updatestring where Ebayitem = '$ebayitem' and (status !='CLOSED' OR status !='expired')" 
     
    #$cmd.commandtext 
       
@@ -411,7 +411,7 @@ function estimate-price()
    [string]$title,
    [string]$Issue)
    
-   $results=query-db "where title='$title' and issue='$issue' and status='closed'"
+   $results=query-db "where title='$title' and issue='$issue' and status='CLOSED'"
    
    if ($results -eq $NULL)
    {
@@ -524,7 +524,7 @@ function get-currentprice
    [string]$title,
    [string]$Issue)
      
-   [string]$wherestring="where Title = '$title' And Issue = '$Issue' and Status='closed'"  
+   [string]$wherestring="where Title = '$title' And Issue = '$Issue' and Status='CLOSED'"  
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString = "Data Source=localhost\r2;Initial Catalog=comics;Integrated Security=SSPI;"

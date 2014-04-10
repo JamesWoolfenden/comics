@@ -21,78 +21,6 @@ function findDiv {param ($name)
     $ie.Document.getElementsByTagName("div") | where-object {$_.id -and $_.id.EndsWith($name)}
 }
 
-function add 
-{
-   param(
-   [Parameter(Mandatory=$true)]
-   [string]$title,
-   [Parameter(Mandatory=$true)]
-   [string]$issue,
-   [Parameter(Mandatory=$true)]
-   [string]$price,
-   [bool]$bought=$false,
-   [string]$PublishDate,
-   [string]$Ebayitem,
-   [string]$Status="Closed",
-   [string]$Description="",
-   [string]$postage="0.00",
-   [string]$AuctionType="",
-   [string]$BestOffer="",
-   [string]$BidCount="",
-   [string]$BuyItNowPrice="",
-   [string]$CloseDate,
-   [string]$ImageSrc="",
-   [string]$Link="",
-   [string]$site="ebay",
-   [int]$quantity=1,
-   [string]$remaining="",
-   [string]$seller=""
-   )
-
-   if (!(test-path $dbfile))
-   {
-      new-xmlfile $dbfile
-   }
-   
-   #write-host "Updating $dbfile"
-   try 
-   {
-      $doc = [xml](Get-Content -Path $dbfile) 
-      $element = $doc.CreateElement("Comic")
-      $element.SetAttribute('Title',$title)
-      $element.SetAttribute('Description', $Description.substring(0, [System.Math]::Min(250, $Description.Length)))
-      $element.SetAttribute('Price',$Price)
-      $element.SetAttribute('Issue',$Issue.ToUpper())
-      $element.SetAttribute('Bought',$bought)
-      $element.SetAttribute('PublishDate',$PublishDate)
-      $element.SetAttribute('EbayItem', $EbayItem)
-      $element.SetAttribute('Status', $Status)
-      $saledate = Get-Date 
-      $element.SetAttribute('DateOfSale', $saledate)
-      $element.SetAttribute('Postage', $postage)
-      $element.SetAttribute('AuctionType', $AuctionType)
-      $element.SetAttribute('BestOffer', $BestOffer)
-      $element.SetAttribute('BidCount', $BidCount)
-      $element.SetAttribute('BuyItNowPrice', $BuyItNowPrice)
-      $element.SetAttribute('CloseDate', $CloseDate)
-      $element.SetAttribute('ImageSrc', $ImageSrc)
-      $element.SetAttribute('Link', $Link)
-      $element.SetAttribute('Site', $site)
-      $element.SetAttribute('Quantity', $quantity)
-      $element.SetAttribute('Remaining', $remaining)
-      $element.SetAttribute('Seller', $seller)
-      $doc.DocumentElement.AppendChild($element)
-
-      $doc.Save($dbfile)
-      #write-host "Updated $dbfile."
-   }
-   catch 
-   {
-      Write-error "Failed to write item $EbayItem:$title"
-      exit 1
-   }
-}
-
 function new-xmlfile ()
 {
    param ([string]$filename)
@@ -572,6 +500,7 @@ function update-record
       }
    }
    
+   $IE.Quit()
    Write-Host "update-db -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -seller $seller"
 
    update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity  -seller $seller 
@@ -686,7 +615,7 @@ function add-ebidarray
        }
        else
        {
-          write-host "Skipping $($set.id)"
+          write-host "Skipping $title $($set.id)"
        }
    }
 }
@@ -771,7 +700,9 @@ function get-records()
       $keywords="$title"
    }
    
+   #write-host "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -closed $true|where {_.BidCount -ne '0'}"
    $closedresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -closed $true|where {$_.BidCount -ne "0"}
+   
    if ($closedresult)
    {
      add-array $closedresult -title "$comictitle" -issue 0 -Status Closed
@@ -897,6 +828,7 @@ function get-allrecords()
    [string]$comictitle=$title)
    
    get-ebidrecords -title "$title" -include $include -exclude "$exclude" -comictitle $comictitle
+   write-host "get-records -title $title -include $include -exclude $exclude -comictitle $comictitle"
    get-records -title "$title" -include $include -exclude "$exclude" -comictitle $comictitle
 }
 

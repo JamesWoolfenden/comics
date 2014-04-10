@@ -2,15 +2,15 @@ get-allrecords -title "THINK TANK" -exclude "fantastic"
 get-allrecords -title "CHEW" -include "image" -exclude "Alpha Pirates Trouble Detective Wolverine America Pacific VOL dancer volume bedlam luther happy nightly romana saga sex talent"
 get-allrecords -title "V for Vendetta" -Exclude "VOL Essentials TERRITORY"
 get-allrecords -title "The Walking Dead Weekly" -exclude "paperback chew volume dinosaur world monopoly"
-get-allrecords -title "The Walking Dead" -include "Variant" -exclude "FIGURE Mocking invincible Ashcan hatter Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly"
-get-allrecords -title "The Walking Dead" -exclude "FIGURE Mocking invincible THIEF Ashcan Astounding hatter Variant Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly"
-get-allrecords -title "Walking Dead" -comictitle "The Walking Dead" -exclude "FIGURE The Mocking invincible THIEF Ashcan Astounding hatter Variant Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly"
+get-allrecords -title "The Walking Dead" -include "Variant" -exclude "Haunt Nowhere Zombie FANBOYS clone FIGURE Mocking invincible Ashcan hatter Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly"
+get-allrecords -title "The Walking Dead" -exclude "Haunt Nowhere Zombie FANBOYS clone FIGURE Mocking invincible THIEF Ashcan Astounding hatter Variant Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly"
+get-allrecords -title "Walking Dead" -comictitle "The Walking Dead" -exclude "Haunt Nowhere FIGURE The Mocking invincible THIEF Ashcan Astounding hatter Variant Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly"
 get-allrecords -title "GHOSTED" -include "Image" -Exclude "Skullkickers Poster Card Still A4 Novel" 
 get-allrecords -title "Deadly Class" 
 get-allrecords -title "Mind the Gap" 
 get-allrecords -title "Watchmen" -exclude "Whatmen before dc novels book prints spawn figure badge tpb after fashion essential swamp VOL liberty"
 get-allrecords -title "Manhattan Projects" -exclude "Nowhere women vol volume"
-get-allrecords -title "Lazarus" -include "image" -exclude "Churchyard DC five incredible Moriarty Vol"
+get-allrecords -title "Lazarus" -include "image" -exclude "Manifest Voice Saviors Pretty Deadly Churchyard DC five incredible Moriarty Vol"
 get-allrecords -title "The Bounce" -include "image" -Exclude "VOL" 
 get-allrecords -title "CLONE" -include "Image" -exclude "VOL Lazarus Ghosted Orphanage Titans Spider-man" 
 get-allrecords -title "Manifest Destiny" -include "Image" -Exclude "x-men Poster Card Still A4 Novel SET LOT"
@@ -31,28 +31,14 @@ get-allrecords -title "Revival"  -include "image" -exclude "batman debris saga C
 get-allrecords -title "Ten Grand" -include "image" 
 get-allrecords -title "Fatale" -include "image" -exclude "finale witchblade Reality Pirates Bedlam Powers Happy"
 get-allrecords -title "irredeemable ant-man"
+get-allrecords -title "Casanova" -exclude "Lurkers"
 
 adapt for uk comics = warrior/2000ad
 //get-records -title "Warrior" -Exclude "Commando Starblazer BBC 2000AD"
-
-
-
-############################################################
-#State Pending
-#write-queries out to table
-#update records when duplicates!
-
-verify-record
-get each open record for a type and fix, change state to verified
-
-&_rss=1&
-      
+get-records -title "2000AD" -Exclude "Commando Starblazer BBC 2000AD"
+  
 stuff i can figure out
-initial listing price
-running average on price
 store estimates and generate daily
-fshippincost
-seller=mbg
 split sets
 multiples (one item multiple stock)
 estimates sales and holdings
@@ -69,9 +55,3 @@ $regex = '<item>[\s\S]*?<link>([\s\S]*?)</link>[\s\S]*?<title>([\s\S]*?)</title>
 $obj |Add-Member -MemberType NoteProperty -Name Title -Value $_.groups[2].value
 $obj |Add-Member -MemberType NoteProperty -Name Link -Value $_.groups[1].value
 $obj} |Out-GridView -Title JGW
-
-
-
-Five Ghosts
-Jupiters Legacy
-
