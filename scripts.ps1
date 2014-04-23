@@ -76,10 +76,15 @@ function add-array()
           {
              $trimmedtitle=clean-string $set.Title
              
-             Write-host "Adding $title $($set.Ebayitem)"
-                 
+             $AuctionType=$set.AuctionType
+             if ($AuctionType.Count -gt 1)
+             {
+                $AuctionType="Mixed"
+             }
+             
+             Write-host "Adding $title $($set.Ebayitem)" -foregroundcolor red
              add-record -title $title -issue $issue -price $set.CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
-	         -Status "Open" -Description $trimmedtitle -AuctionType $set.AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
+	         -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
                  -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate -ImageSrc $set.ImageSrc -Link $set.Link
                  
              $count++
@@ -90,13 +95,13 @@ function add-array()
               {
                  #update -ebayitem $set.Ebayitem -price $set.CurrentPrice
                  update-db -ebayitem $set.Ebayitem -status $status -price $set.CurrentPrice
-                 Write-host "Updating $title $($set.Ebayitem)"
+                 Write-host "Updating $title $($set.Ebayitem)" -foregroundcolor green
               }
               else
               {
                  #update -ebayitem $set.Ebayitem -price $set.CurrentPrice -Status $status
                  update-db -ebayitem $set.Ebayitem -status $status  -price $set.CurrentPrice
-                 Write-host "Closing $title $($set.Ebayitem)"
+                 Write-host "Closing $title $($set.Ebayitem)" -foregroundcolor green
               }              
           }
       }
@@ -301,7 +306,7 @@ function update-recordset
          
          if ($record.Ebayitem -eq "" -or $record.Ebayitem -eq $null) 
          {
-           write-host "skipping item: record.Ebayitem is nothing"
+           write-host "Skipping item: record.Ebayitem is nothing" -foregroundcolor yellow
          }
          else 
          {
@@ -615,7 +620,7 @@ function add-ebidarray
        }
        else
        {
-          write-host "Skipping $title $($set.id)"
+          write-host "Skipping $title $($set.id)" -foregroundcolor yellow
        }
    }
 }
