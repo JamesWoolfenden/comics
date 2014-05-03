@@ -6,6 +6,7 @@ $dbfile="$root\data.XML"
 
 import-module "C:\Users\Jim\Documents\GitHub\EbayRssPowershellModule\EbayRssPowershellModule.psm1" -force
 import-module "$root\database.ps1"
+import-module "$root\split-set.ps1"
 
 function read-db
 {

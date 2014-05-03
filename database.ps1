@@ -250,7 +250,7 @@ function query-db()
       ,[Site],[Remaining] 
       FROM comics $wherestring"
 
-   #$cmd.commandtext
+   write-host "$($cmd.commandtext)"
    $data = $cmd.ExecuteReader()
    
    while ($data.Read())
