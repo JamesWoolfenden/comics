@@ -83,7 +83,9 @@ function add-record()
    [string]$site="ebay",
    [int]$quantity=1,
    [string]$remaining="",
-   [string]$seller=""
+   [string]$seller="",
+   [string]$Parentid=$NULL,
+   [boolean]$split=0
    )
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
@@ -107,9 +109,9 @@ function add-record()
    #Write-host "Price $Price"
    
    $cmd.commandtext = "INSERT INTO comics 
-   (Title, Price, Issue, Bought, DateOfSale, Status, postage, Description, PublishDate, EbayItem, Quantity, AuctionType, BestOffer, BidCount, BuyItNowPrice, CloseDate, ImageSrc, Link, Site, Remaining, Seller, SaleDate, StartingPrice) 
+   (Title, Price, Issue, Bought, DateOfSale, Status, postage, Description, PublishDate, EbayItem, Quantity, AuctionType, BestOffer, BidCount, BuyItNowPrice, CloseDate, ImageSrc, Link, Site, Remaining, Seller, SaleDate, StartingPrice, Parentid, Split) 
    VALUES
-   ('$title', '$Price', '$Issue', '$bought', '$saledate', '$status','$postage', '$Description','$PublishDate', '$ebayitem',$Quantity, '$AuctionType', '$BestOffer', '$BidCount', '$BuyItNowPrice', '$CloseDate', '$ImageSrc', '$Link', '$site', '$remaining', '$seller', '$saledate','$Price')" 
+   ('$title', '$Price', '$Issue', '$bought', '$saledate', '$status','$postage', '$Description','$PublishDate', '$ebayitem',$Quantity, '$AuctionType', '$BestOffer', '$BidCount', '$BuyItNowPrice', '$CloseDate', '$ImageSrc', '$Link', '$site', '$remaining', '$seller', '$saledate','$Price', '$Parentid', '$split')" 
    
    $result=$cmd.executenonquery()
    $conn.close()
@@ -250,7 +252,7 @@ function query-db()
       ,[Site],[Remaining] 
       FROM comics $wherestring"
 
-   write-host "$($cmd.commandtext)"
+   #write-host "$($cmd.commandtext)"
    $data = $cmd.ExecuteReader()
    
    while ($data.Read())
