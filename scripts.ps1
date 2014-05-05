@@ -706,17 +706,29 @@ function get-records()
       $keywords="$title"
    }
    
-   #write-host "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -closed $true|where {_.BidCount -ne '0'}"
-   $closedresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -closed $true|where {$_.BidCount -ne "0"}
-   
-   if ($closedresult)
+   #this is the sold items
+   write-host "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {$_.BidCount -ne '0'}"
+   $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold'|where {$_.BidCount -ne '0'}
+   if ($soldresult)
    {
-     add-array $closedresult -title "$comictitle" -issue 0 -Status Closed
+     write-host "Sold results" -foregroundcolor cyan
+     add-array $soldresult -title "$comictitle" -issue 0 -Status Closed
    }
    
-   $result=Get-EbayRssItems -Keywords "$keywords"  -ExcludeWords "$exclude"
+   #this is the closed results
+   write-host "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {_.BidCount -ne '0'}"
+   $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed'|where {$_.BidCount -eq "0"}
+   if ($expiredresult)
+   {
+      write-host "Expired results" -foregroundcolor red
+      add-array $expiredresult -title "$comictitle" -issue 0 -Status Expired
+   }
+   
+   #these 
+   $result=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'Open'
    if ($result)
    {
+      write-host "Open results" -foregroundcolor green
       add-array $result -title "$comictitle" -issue 0
    }
 }

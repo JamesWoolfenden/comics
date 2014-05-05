@@ -32,6 +32,8 @@ get-allrecords -title "Ten Grand" -include "image"
 get-allrecords -title FATALE -include "image" -exclude "finale witchblade Reality Pirates Bedlam Powers Happy"
 get-allrecords -title "irredeemable ant-man"
 get-allrecords -title CASANOVA -exclude "Lurkers"
+get-allrecords -title "SOUTHERN BASTARDS" -exclude "Lurkers"
+get-allrecords -title "THE FIELD"  -exclude "Orchid Avengers iron herobear nun superman spiderwick marvel comeback strawberry"
 
 #adapt for uk comics = warrior/2000ad
 get-allrecords -title "Warrior" -include "QUALITY" -Exclude "Eternal Race Nun Wolverine Women Tarzan Mystic Frenzy Conan STRIKER SHI SPARTAN SEX Trooper Domon thor PRINCESS Xena ETERNAL Commando Starblazer BBC 2000AD"
