@@ -28,7 +28,7 @@ function get-cover
    {
       [regex]$r="[^0-9.]"
       $clean=$r.replace($dirty,"")
- 
+      $clean=$clean.Replace(":","")
       $clean
     }
     Catch [system.exception]

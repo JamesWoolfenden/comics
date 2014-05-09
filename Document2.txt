@@ -34,8 +34,6 @@ get-allrecords -title "IRREDEEMABLE ANT-MAN" -exclude "Lurkers"
 get-allrecords -title CASANOVA -exclude "Lurkers"
 get-allrecords -title "SOUTHERN BASTARDS" -exclude "Lurkers"
 get-allrecords -title "THE FIELD"  -exclude "Orchid Avengers iron herobear nun superman spiderwick marvel comeback strawberry"
-
-#adapt for uk comics = warrior/2000ad
 get-allrecords -title "Warrior" -include "QUALITY" -Exclude "Eternal Race Nun Wolverine Women Tarzan Mystic Frenzy Conan STRIKER SHI SPARTAN SEX Trooper Domon thor PRINCESS Xena ETERNAL Commando Starblazer BBC 2000AD"
 get-allrecords -title "2000AD" -Exclude "IDW monthly Rogue Revolver Showcase JUNKK Killing Eagle Hellblazer Quality Dredd STRONTIUM Xena ETERNAL Commando Starblazer BBC"
 get-allrecords -title "STRONTIUM DOG" -include "eagle" -exclude "QUALITY" 

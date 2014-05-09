@@ -24,13 +24,49 @@ function show-image
    $form.ShowDialog()
 }
 
- 
-#show-image "C:\comics\covers\The-Walking-Dead\127\127Diamond.jpg"
+function test-image
+{
+   param(
+   [string]$title,
+   [string]$issue)
+   
+   $padtitle=$title -replace(" ","-")
+   $padtitle=$padtitle -replace(":","-")
+   $cover= get-cover $issue
+   $filepath= get-imagefilename -title $title -issue $issue
+   #Write-host $filepath
+   test-path $filepath
+}
 
-#show-image "C:\comics\covers\Sex-Criminals\5\5a.jpg"
+function get-imagefilename
+{
+   param(
+   [string]$title,
+   [string]$issue)
+      
+   $padtitle=$title -replace(" ","-")
+   $padtitle=$padtitle -replace(":","-")
+   $cover= get-cover $issue
+   $issue=$issue.Replace(":","")
+   $imageroot+"\"+$padtitle+"\"+$cover+"\"+$issue+".jpg"
+}
 
-$imageroot= "C:\comics\covers"
-$padtitle=$title -replace(" ","-")
+function set-imagefolder
+{
+   param(
+   [string]$title,
+   [string]$issue)
+   
+   $cover= get-cover $issue
+   $padtitle=$title -replace(" ","-")
+   $padtitle=$padtitle -replace(":","-")
+   $imagefolder="$imageroot\$padtitle\$cover"
+   
+   if (!(test-path -path  $imagefolder))
+   {
+      md $imageroot\$padtitle\$cover
+   }
+}
 
 function import-image 
 {
@@ -38,37 +74,28 @@ function import-image
    [string]$title,
    [string]$issue)
 
-   $wherestring="where Title = '$title' And Issue = '$issue'"
+   $wherestring="where Title = '$title' And Issue = '$issue' order by PublishDate"
    $padtitle=$title -replace(" ","-")
    $cover= get-cover $issue
    $results=query-db $wherestring
    foreach ($record in $results)
-   {
-      $filepath= $imageroot+"\"+$padtitle+"\"+$cover+"\"+$issue+".jpg"
-      Write-Host "filepath: $filepath"
-      if (!(test-path -path $filepath))
+   {      
+      if (!(test-image $title $issue))
       {
-        $imagefolder="$imageroot\$padtitle\$cover"
-        if (!(test-path -path  $imagefolder))
-        {
-           md $imageroot\$padtitle\$cover
-        }
+        set-imagefolder $title $issue
         
         $fileurl=$($record.Imagesrc)
-         If (($fileurl -ne "") -And ($fileurl -ne $null))
-         {
-            Write-Host "$($record.Imagesrc)"
-            #$webclient = New-Object System.Net.webclient
-            #$userAgent = "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2;)"
-            #$webclient.Headers.Add("user-agent", $userAgent)
-            #$webclient.DownloadFile $fileurl, $filepath
-            Invoke-webRequest $fileurl -outfile $filepath
-         }
-         else
-         {
-           
-            continue
-         }
+        If (($fileurl -ne "") -And ($fileurl -ne $null))
+        {
+           Write-Host "$($record.Imagesrc)"
+           $filepath=get-imagefilename -title $title -issue $issue
+           Write-Host "$filepath"
+           Invoke-webRequest $fileurl -outfile $filepath
+        }
+        else
+        {           
+           continue
+        }
       }
       else
       { 
@@ -76,8 +103,4 @@ function import-image
          break
       }
    }
-#get list of issue records
-#try records 
-#download the assoicated image
-#if sucess return
 }

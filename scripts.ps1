@@ -3,10 +3,13 @@
 $corescript=$myinvocation.mycommand.path
 $root=split-path -parent  $corescript
 $dbfile="$root\data.XML"
+$imageroot= "$root\covers"
 
 import-module "C:\Users\Jim\Documents\GitHub\EbayRssPowershellModule\EbayRssPowershellModule.psm1" -force
 import-module "$root\database.ps1"
 import-module "$root\split-set.ps1"
+import-module "$root\show-image.ps1"
+
 
 function read-db
 {
@@ -209,7 +212,12 @@ function view
    {
       $IE=new-object -com internetexplorer.application
    }
-   
+
+   $IE.Top   =10
+   $IE.Left  =10
+   $IE.Height=600
+   $IE.Width =800
+
    $url="www.ebay.co.uk/itm/$ebayid"
    write-host "Opening $url`?"
    $IE.navigate2("$url`?")
@@ -221,6 +229,11 @@ function view-url
 {
    param($url)
    $IE=new-object -com internetexplorer.application
+   $IE.Top   =10
+   $IE.Left  =10
+   $IE.Height=600
+   $IE.Width =800
+
    write-host "Opening $url`?"
    $IE.navigate2("$url`?")
    $IE.visible=$true
@@ -391,14 +404,42 @@ function update-record
    }  
    
    $newtitle=$newtitle.ToUpper()  
+      
+   if (test-image -title $newtitle -issue $record.Issue)
+   {
+      $color="green"
+   }
+   else 
+   {
+      $color="red"   
+   }
    
-   $actualIssue=read-host "Issue $($record.Issue)"
+   write-host "Issue $($record.Issue):" -Foregroundcolor $color -nonewline
+   $actualIssue=read-host 
    if ($actualIssue -eq $NULL -or $actualIssue -eq "")
    {
       $actualIssue=$record.Issue
    }
       
    $actualIssue=$actualIssue.ToUpper()
+   if (!(test-image -title $newtitle -issue $actualIssue))
+   {
+      if ($($record.ImageSrc))
+      {
+         Write-host "Updating Library with image of $newtitle : $actualIssue" -foregroundcolor cyan
+         $filepath= get-imagefilename -title $newtitle -issue $actualIssue
+         Write-host "Downloading from $($record.Imagesrc) " 
+         Write-host "Writing to $filepath" 
+         set-imagefolder $newtitle $actualIssue
+         Invoke-webRequest $($record.ImageSrc) -outfile $filepath 
+      }
+      Else
+      {
+         Write-host "No image data"
+      }
+   }
+   
+   
    
    $newquantity  = new-object int 
    
@@ -582,8 +623,9 @@ function update-open()
    }
    catch
    {
-    throw $_.Exception
-    exit 1
+      write-error $_
+      throw $_.Exception
+      exit 1
    }
 }
 
