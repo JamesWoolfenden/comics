@@ -433,12 +433,14 @@ function estimate-price()
    
    foreach($comic in $results)
    {      
+      
       $TotalCost=[double]$comic.Price+[double]$comic.postage 
       $minimum=[System.Math]::Min($comic.Price,$minimum)
       $maximum=[System.Math]::Max($comic.Price,$maximum)
       
       if ($comic.Bought -eq $true)
       {
+         $ComicPrice+=[double]$comic.Price
          $paid += $TotalCost
          $owned ++ 
       }
@@ -450,21 +452,25 @@ function estimate-price()
     if ($owned)
     {
        $averagepaid=$paid/$owned
+       $avComicPrice=$ComicPrice/$owned
     }
     else
     {
        $averagepaid=$null
+       $avComicPrice=$null
     }
     
     if ($results.Count)
     {
       $average=$total/$results.Count
       $averagePrice=$totalPrice/$results.Count
+      
     }
     else
     {
        $average=$total
        $averagePrice=$totalPrice
+       
     }
     
     $currentprice=get-currentprice -title $($comic.Title) -issue $issue
@@ -482,6 +488,7 @@ function estimate-price()
     $objStats | Add-Member -type NoteProperty -name Maximum -value $maximum
     $objStats | Add-Member -type NoteProperty -name Count -value $count
     $objStats | Add-Member -type NoteProperty -name AveragePaid -value $averagepaid
+    $objStats | Add-Member -type NoteProperty -name AverageNetPaid -value $avComicPrice
     $objStats | Add-Member -type NoteProperty -name Stock -value $owned
     
    return $objStats 
