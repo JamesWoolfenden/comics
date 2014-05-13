@@ -9,7 +9,7 @@ import-module "C:\Users\Jim\Documents\GitHub\EbayRssPowershellModule\EbayRssPowe
 import-module "$root\database.ps1"
 import-module "$root\split-set.ps1"
 import-module "$root\show-image.ps1"
-
+import-module "$root\form.ps1"
 
 function read-db
 {
@@ -404,23 +404,38 @@ function update-record
    }  
    
    $newtitle=$newtitle.ToUpper()  
-      
-   if (test-image -title $newtitle -issue $record.Issue)
-   {
-      $color="green"
+    
+   $color=found-image  -title $newtitle -issue $record.Issue
+   
+   if ($record.Issue -eq "0")
+   {   
+      $estimateIssue=$record.Issue
+      while (($estimateIssue -eq "0") -or ($estimateIssue -eq ""))
+      {
+         write-host "Estimate issue ($($record.Issue)):" -Foregroundcolor $color -nonewline
+         $estimateIssue=read-host    
+      }
    }
-   else 
+   else
    {
-      $color="red"   
+      $estimateIssue=$($record.Issue)
    }
    
-   write-host "Issue $($record.Issue):" -Foregroundcolor $color -nonewline
-   $actualIssue=read-host 
+   $color=found-image  -title $newtitle -issue $estimateIssue
+   
+   write-host "Issue $($estimateIssue) or (i)dentify:" -Foregroundcolor $color -nonewline
+   $actualIssue=read-host  
+   
+   if ($actualIssue -eq "i")
+   {
+     $actualIssue=get-imagetitle -issue (get-cover $estimateIssue) -title $newtitle
+   }
+   
    if ($actualIssue -eq $NULL -or $actualIssue -eq "")
    {
-      $actualIssue=$record.Issue
-   }
-      
+      $actualIssue=$estimateIssue
+   }   
+   
    $actualIssue=$actualIssue.ToUpper()
    if (!(test-image -title $newtitle -issue $actualIssue))
    {
