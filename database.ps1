@@ -155,7 +155,8 @@ function update-db()
    [string]$status=$NULL,
    [string]$bought=$NULL,
    [string]$quantity=$NULL,
-   [string]$seller=$NULL
+   [string]$seller=$NULL,
+   [System.Nullable[System.Boolean]]$watch=$NULL
    )
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
@@ -224,15 +225,26 @@ function update-db()
       $updatestring=$updatestring+", seller='$seller'"
    }
    
+   If ($watch -ne "")
+   {
+      $updatestring=$updatestring+", watch='$watch'"
+   }
+ 
    $cmd.commandtext = "update Comics.dbo.Comics SET $updatestring where Ebayitem = '$ebayitem' and (status !='CLOSED' OR status !='expired')" 
-    
-   #$cmd.commandtext 
-      
-   $result=$cmd.executenonquery()
-   $conn.close()
-   #$result
+   
+   try
+   {   
+      $result=$cmd.executenonquery()
+   }
+   catch
+   {
+      write-error $_.exception
+   }
+   finally
+   {
+      $conn.close()
+   }
 }
-
 
 function query-db()
 {
@@ -249,7 +261,7 @@ function query-db()
       ,[postage],[Ebayitem],[Description],[PublishDate]
       ,[Quantity],[AuctionType],[BestOffer],[BidCount]
       ,[BuyItNowPrice],[CloseDate],[ImageSrc],[Link]
-      ,[Site],[Remaining] 
+      ,[Site],[Remaining],[watch] 
       FROM comics $wherestring"
 
    #write-host "$($cmd.commandtext)"
@@ -378,7 +390,18 @@ function query-db()
        {
           $site=$data.GetString(19)
        }
-          
+        
+       #watch
+       if ($data.IsDBNull(20))
+       {
+          $watch=$null
+       }
+       else 
+       {
+          $watch=$data.GetValue(20)
+       } 
+         
+         
        $objComic = New-Object System.Object
        $objComic | Add-Member -type NoteProperty -name Title -value $data.GetString(1)
        $objComic | Add-Member -type NoteProperty -name Issue -value $data.GetString(3)
@@ -400,6 +423,7 @@ function query-db()
        $objComic | Add-Member -type NoteProperty -name Imagesrc -value $Imagesrc
        $objComic | Add-Member -type NoteProperty -name link -value $link
        $objComic | Add-Member -type NoteProperty -name site -value $site
+       $objComic | Add-Member -type NoteProperty -name watch -value $watch
        #remaining
        $objComic
    }

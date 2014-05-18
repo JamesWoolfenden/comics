@@ -10,6 +10,8 @@ import-module "$root\database.ps1"
 import-module "$root\split-set.ps1"
 import-module "$root\show-image.ps1"
 import-module "$root\form.ps1"
+import-module "$root\info.ps1"
+
 
 function read-db
 {
@@ -86,7 +88,8 @@ function add-array()
                 $AuctionType="Mixed"
              }
              
-             Write-host "Adding $title $($set.Ebayitem)" -foregroundcolor red
+             Write-host "Adding $title " -nonewline
+             Write-host "$($set.Ebayitem)" -foregroundcolor red
              add-record -title $title -issue $issue -price $set.CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
 	         -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
                  -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate -ImageSrc $set.ImageSrc -Link $set.Link
@@ -97,15 +100,15 @@ function add-array()
           {
               if ($status -ne "Closed")
               {
-                 #update -ebayitem $set.Ebayitem -price $set.CurrentPrice
                  update-db -ebayitem $set.Ebayitem -status $status -price $set.CurrentPrice
-                 Write-host "Updating $title $($set.Ebayitem)" -foregroundcolor green
+                 Write-host "Updating $title " -nonewline
+                 Write-host "$($set.Ebayitem)" -foregroundcolor green
               }
               else
               {
-                 #update -ebayitem $set.Ebayitem -price $set.CurrentPrice -Status $status
                  update-db -ebayitem $set.Ebayitem -status $status  -price $set.CurrentPrice
-                 Write-host "Closing $title $($set.Ebayitem)" -foregroundcolor green
+                 Write-host "Closing $title " -nonewline 
+                 write-host "$($set.Ebayitem)" -foregroundcolor green
               }              
           }
       }
@@ -124,7 +127,6 @@ function add-array()
       "None Added"
    }   
 }
-
 
 function verify()
 {
@@ -340,13 +342,12 @@ function update-recordset
 function update-record
 {
    param(
+   [Parameter(Mandatory=$true)]
    $record, 
    [string]$newstatus)
    
    if ($($record.ebayitem))
    { 
-      #Write-host "site is:$($record.site)"
-    
       switch ($($record.site))
       {
          "ebay"
@@ -455,7 +456,6 @@ function update-record
    }
    
    
-   
    $newquantity  = new-object int 
    
    $newquantity=1
@@ -473,12 +473,10 @@ function update-record
          $newquantity = $readquantity
       }
    }   
-   
-   
+      
    write-host "Seller: $seller"
    $priceestimate=0
    [double]$marketprice=0
-   #write-host "get-currentprice -issue $actualIssue -title $newtitle"
    [double]$marketprice=get-currentprice -issue $actualIssue -title $newtitle
    
    $foregroundcolor="red"
@@ -526,16 +524,18 @@ function update-record
    
    $postage=new-object decimal
    $postage=read-host "Postage: $($record.postage) estimate:$estimate"
+   $postage="{0:N2}" -f $postage
    if ($postage -eq $NULL -or $postage -eq "")
    {
       $postage=$record.Postage
    }  
    
-   $TCO=([decimal]$postage+[decimal]$price)/$newquantity
+   $TCO ="{0:N2}" -f ([decimal]$postage+[decimal]$price)/$newquantity
    write-host "TCO per issue $TCO" -foregroundcolor cyan
    
    $bought="false"
-   [string]$newstatus=read-host $record.Status "(V=Verified, C=Closed, E=Expired, B=Bought)"
+   [string]$newstatus=read-host $record.Status "(V)erified, (C)losed, (E)xpired, (B)ought, (W)atch"
+   [boolean]$watch=$false
    
    switch($newstatus)
    {
@@ -556,16 +556,22 @@ function update-record
          $newstatus="CLOSED"
          $bought="true"
       }
+      "W"
+      {
+         $newstatus="VERIFIED"
+         $watch=$true
+      }
       default
       {
          $newstatus=$record.status
+         $watch=$record.watch
       }
    }
    
    $IE.Quit()
-   Write-Host "update-db -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -seller $seller"
+   Write-debug "update-db -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -seller $seller -watch $watch"
 
-   update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity  -seller $seller 
+   update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity -seller $seller -watch $watch
 }
 
 function Finalize-Records()

@@ -1,7 +1,9 @@
-Function Chooser
+function Chooser
 {
-  param([string]$selection)
-  #write-host $selection
+  param(
+  [Parameter(Mandatory=$true)]
+  [string]$selection)
+
   $script:Choice=$selection 
   $Form.Dispose()
 }
@@ -9,9 +11,11 @@ Function Chooser
 function get-imagetitle
 {
    param
-   ($title="PETER-PANZERFAUST",
-   $issue="1"
-   )
+   (
+   [Parameter(Mandatory=$true)]
+   [string]$title,
+   [Parameter(Mandatory=$true)]
+   [string]$issue)
 
    [System.Reflection.Assembly]::LoadWithPartialName("System.Windows.Forms") | Out-Null
    [System.Reflection.Assembly]::LoadWithPartialName("System.Drawing") | Out-Null
@@ -33,7 +37,7 @@ function get-imagetitle
       }
    }
 
-   Write-host "Scan path: $scanpath" 
+   Write-debug "Scan path: $scanpath" 
    $coverfiles=gci -path $scanpath
 
    #Draw form
@@ -81,12 +85,14 @@ function get-imagetitle
    #$Form.startposition = "centerscreen"
    $Form.KeyPreview    = $True
    $Form.Add_KeyDown({if ($_.KeyCode -eq "Enter") {}})
-   $Form.Add_KeyDown({if ($_.KeyCode -eq "Escape") 
+   $Form.Add_KeyDown({
+   if ($_.KeyCode -eq "Escape") 
    {
-     $Form.Close()}}
+     $Form.Close()
+	 }
+	 }
    )
-   
-   
+     
    $Form.Add_Shown({$Form.Activate()})
   
    $result=$Form.ShowDialog()
@@ -97,14 +103,15 @@ function get-imagetitle
    
    write-host $choice 
  
- $choice
+  $choice
 }
-
 
 function found-image
 {
    param(
+   [Parameter(Mandatory=$true)]
    [string]$title,
+   [Parameter(Mandatory=$true)]
    [string]$issue)
    
    if (test-image -title $title -issue $Issue)
@@ -114,7 +121,7 @@ function found-image
    else 
    {
       $color="red"   
-   }   
+   } 
+     
    $color
 }
-
