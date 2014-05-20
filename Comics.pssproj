@@ -36,6 +36,7 @@
     <Compile Include="Document2.txt" />
     <Compile Include="Document3.txt" />
     <Compile Include="form.ps1" />
+    <Compile Include="fp.ps1" />
     <Compile Include="scripts.ps1" />
     <Compile Include="show-image.ps1" />
     <Compile Include="split-set.ps1" />

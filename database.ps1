@@ -156,7 +156,7 @@ function update-db()
    [string]$bought=$NULL,
    [string]$quantity=$NULL,
    [string]$seller=$NULL,
-   [System.Nullable[System.Boolean]]$watch=$NULL
+   [System.Nullable[System.Boolean]]$watch
    )
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
@@ -225,7 +225,11 @@ function update-db()
       $updatestring=$updatestring+", seller='$seller'"
    }
    
-   If ($watch -ne "")
+   If (($watch -eq "") -or ($watch -eq $null))
+   {
+      #write-Host "watch not set:$watch"
+   }
+   else
    {
       $updatestring=$updatestring+", watch='$watch'"
    }

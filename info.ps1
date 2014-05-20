@@ -6,7 +6,7 @@ function get-watch
 	    
       .EXAMPLE
       C:\PS> get-watch
-      
+      This lists all the open records marked watch
    #>
 
    param()
@@ -16,6 +16,15 @@ function get-watch
 
 function watch
 {
+   <#
+      .SYNOPSIS 
+       For reviewing a set open of watch items
+	    
+      .EXAMPLE
+      C:\PS> watch
+      
+   #>
+   
    Param()
 
    $results=get-watch

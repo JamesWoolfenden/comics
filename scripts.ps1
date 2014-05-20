@@ -684,7 +684,8 @@ function add-ebidarray
        }
        else
        {
-          write-host "Skipping $title $($set.id)" -foregroundcolor yellow
+          write-host "Skipping $title " -nonewline
+          write-host "$($set.id)" -foregroundcolor yellow
        }
    }
 }
@@ -909,7 +910,7 @@ function get-allrecords()
    [string]$comictitle=$title)
    
    get-ebidrecords -title "$title" -include $include -exclude "$exclude" -comictitle $comictitle
-   write-host "get-records -title $title -include $include -exclude $exclude -comictitle $comictitle"
+   write-debug "get-records -title $title -include $include -exclude $exclude -comictitle $comictitle"
    get-records -title "$title" -include $include -exclude "$exclude" -comictitle $comictitle
 }
 
