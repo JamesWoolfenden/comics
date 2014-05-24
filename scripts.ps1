@@ -89,7 +89,7 @@ function add-array()
                 $AuctionType="Mixed"
              }
              
-             Write-host "Adding $title " -nonewline
+             Write-host "Adding " -nonewline
              Write-host "$($set.Ebayitem)" -foregroundcolor red
              add-record -title $title -issue $issue -price $set.CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
 	         -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
@@ -102,13 +102,13 @@ function add-array()
               if ($status -ne "Closed")
               {
                  update-db -ebayitem $set.Ebayitem -status $status -price $set.CurrentPrice
-                 Write-host "Updating $title " -nonewline
+                 Write-host "Updating " -nonewline
                  Write-host "$($set.Ebayitem)" -foregroundcolor green
               }
               else
               {
                  update-db -ebayitem $set.Ebayitem -status $status  -price $set.CurrentPrice
-                 Write-host "Closing $title " -nonewline 
+                 Write-host "Closing " -nonewline 
                  write-host "$($set.Ebayitem)" -foregroundcolor green
               }              
           }
@@ -117,11 +117,7 @@ function add-array()
       if ($count)
       {
          "Added $count record(s)"
-      }   
-      else
-      {
-         "No duplicates Added"
-      }
+      }         
    }
    Else
    {
@@ -686,7 +682,7 @@ function add-ebidarray
        }
        else
        {
-          write-host "Skipping $title " -nonewline
+          write-host "Skipping " -nonewline
           write-host "$($set.id)" -foregroundcolor yellow
        }
    }
@@ -770,7 +766,7 @@ function get-records()
    }
    
    #this is the sold items
-   write-host "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {$_.BidCount -ne '0'}"
+   write-debug "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {$_.BidCount -ne '0'}"
    $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold'|where {$_.BidCount -ne '0'}
    if ($soldresult)
    {
@@ -778,8 +774,8 @@ function get-records()
      add-array $soldresult -title "$comictitle" -issue 0 -Status Closed
    }
    
-   #this is the closed results
-   write-host "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {_.BidCount -ne '0'}"
+   # this is the closed results
+   write-debug "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {_.BidCount -ne '0'}"
    $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed'|where {$_.BidCount -eq "0"}
    if ($expiredresult)
    {

@@ -29,8 +29,8 @@
   <ItemGroup>
     <Compile Include=".gitattributes" />
     <Compile Include=".gitignore" />
-    <Compile Include="comics.xls" />
-    <Compile Include="comics2.xls" />
+    <Compile Include="Excel\comics.xls" />
+    <Compile Include="Excel\comics2.xls" />
     <Compile Include="core.ps1" />
     <Compile Include="data.XML" />
     <Compile Include="database.ps1" />
@@ -718,6 +718,7 @@
     <Folder Include="covers\WATCHMEN\8\" />
     <Folder Include="covers\WATCHMEN\9\" />
     <Folder Include="ebayrsspowershellmodule\" />
+    <Folder Include="Excel\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Target Name="Build" />

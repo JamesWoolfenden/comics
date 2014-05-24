@@ -10,8 +10,7 @@ function Chooser
 
 function get-imagetitle
 {
-   param
-   (
+   param(
    [Parameter(Mandatory=$true)]
    [string]$title,
    [Parameter(Mandatory=$true)]
@@ -19,13 +18,14 @@ function get-imagetitle
 
    [System.Reflection.Assembly]::LoadWithPartialName("System.Windows.Forms") | Out-Null
    [System.Reflection.Assembly]::LoadWithPartialName("System.Drawing") | Out-Null
-
+   
+   $script:Choice=$null
    $imagepath="C:\comics\covers\"
    $padtitle=$title -replace(" ","-")
    $scanpath=$imagepath+$padtitle+"\$issue\"
    if (!(test-path $scanpath))
    {
-      Write-Host "Not in Library, Add?" -foregroundcolor yellow -nonewline
+      Write-Host "Not in Library, Add(y)?" -foregroundcolor yellow -nonewline
       $add=read-host
       if ($add -eq "y")
       {
@@ -73,25 +73,24 @@ function get-imagetitle
       $maxheight=($maxheight,$Height | Measure -Max).Maximum
    }
 
-   $Form.width         = $x+10
-   $Form.height        = $maxheight+45
-   $Form.Top           = 1000
-   $Form.Left          = 0
-   $Form.backcolor     = [System.Drawing.Color]::CornflowerBlue
+   $Form.width          = $x+10
+   $Form.height         = $maxheight+45
+   $Form.Top            = 1000
+   $Form.Left           = 0
+   $Form.backcolor      = [System.Drawing.Color]::CornflowerBlue
    $Form.FormBorderStyle = [System.Windows.Forms.FormBorderStyle]::Fixed3D
-   $Form.Text          = "Cover Chooser"
-   $Form.Font          = New-Object System.Drawing.Font("Verdana",10,[System.Drawing.FontStyle]::Bold)
-   $Form.maximumsize   = New-Object System.Drawing.Size($Form.width,250)
-   #$Form.startposition = "centerscreen"
+   $Form.Text           = "Cover Chooser"
+   $Form.Font           = New-Object System.Drawing.Font("Verdana",10,[System.Drawing.FontStyle]::Bold)
+   $Form.maximumsize    = New-Object System.Drawing.Size($Form.width,250)
+
    $Form.KeyPreview    = $True
    $Form.Add_KeyDown({if ($_.KeyCode -eq "Enter") {}})
    $Form.Add_KeyDown({
-   if ($_.KeyCode -eq "Escape") 
-   {
-     $Form.Close()
-	 }
-	 }
-   )
+      if ($_.KeyCode -eq "Escape") 
+      {
+         $Form.Close()
+      }
+   })
      
    $Form.Add_Shown({$Form.Activate()})
   
@@ -101,9 +100,8 @@ function get-imagetitle
       $choice=read-host "Set Issue title"  
    }
    
-   write-host $choice 
- 
-  $choice
+   write-debug $choice 
+   $choice
 }
 
 function found-image
