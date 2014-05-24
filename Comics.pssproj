@@ -46,6 +46,9 @@
     <Compile Include="split-set.ps1" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".\ebayrsspowershellmodule\*.*"/>
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="info.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
