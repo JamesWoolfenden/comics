@@ -31,13 +31,17 @@
     <Compile Include=".gitignore" />
     <Compile Include="comics.xls" />
     <Compile Include="comics2.xls" />
+    <Compile Include="core.ps1" />
     <Compile Include="data.XML" />
     <Compile Include="database.ps1" />
     <Compile Include="Document2.txt" />
     <Compile Include="Document3.txt" />
     <Compile Include="form.ps1" />
     <Compile Include="fp.ps1" />
+    <Compile Include="guru.ps1" />
     <Compile Include="scripts.ps1" />
+    <Compile Include="search-data.json" />
+    <Compile Include="search-data.ps1" />
     <Compile Include="show-image.ps1" />
     <Compile Include="split-set.ps1" />
   </ItemGroup>

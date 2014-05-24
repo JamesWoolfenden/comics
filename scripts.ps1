@@ -11,6 +11,7 @@ import-module "$root\split-set.ps1"
 import-module "$root\show-image.ps1"
 import-module "$root\form.ps1"
 import-module "$root\info.ps1"
+import-module "$root\core.ps1"
 
 
 function read-db
@@ -653,6 +654,7 @@ function update-open()
 function Clean-String()
 {
    param([string]$dirty)
+   
    [string]$clean=$dirty.Replace("Â", "")
    $clean.substring(0, [System.Math]::Min(250, $clean.Length))
 }
@@ -741,12 +743,7 @@ function add-ebid
    {
       $description=""
    }   
-   
-   #add -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description "$description"`
-   #-postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
-   #-site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining -Seller $seller
-   
-   
+      
    add-record -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description "$description"`
    -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
    -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining  -Seller $seller
@@ -756,7 +753,9 @@ function add-ebid
 
 function get-records()
 {
-   param([string]$title,
+   param(
+   
+   [string]$title,
    [string]$exclude="",
    [string]$include="",
    [string]$comictitle=$title)
@@ -814,7 +813,8 @@ function get-issues()
 function get-allprices
 {
    param(
-      [string]$title)
+   [string]$title)
+      
    $issues=get-issues $title
    
    $prices=@()
@@ -831,10 +831,10 @@ function get-allprices
 function closing-record
 {
    Param(
-            [Parameter(Mandatory=$true)]
-            [string]$title,
-            [string]$Issue
-            )
+   [Parameter(Mandatory=$true)]
+   [string]$title,
+   [string]$Issue)
+   
    update-recordset -title $title -Issue $Issue -sortby DateOfSale
 }
 
@@ -904,6 +904,7 @@ function get-ebidrecords()
 function get-allrecords()
 {
    param(
+   [Parameter(Mandatory=$true)]
    [string]$title,
    [string]$exclude,
    [string]$include,
@@ -916,7 +917,8 @@ function get-allrecords()
 
 function update-number()
 {
-   Param([string]$Issue,
+   Param(
+   [string]$Issue,
    [string]$title)
    
    $test=read-db
