@@ -1,0 +1,26 @@
+$search="&q=the+walking+dead+comica"
+$filter="&filter_instock=on"
+$size="&size=30"
+$fullfilter=$size+$filter+$search
+
+$fpresults=Invoke-WebRequest -Uri "http://www.kimonolabs.com/api/ca9vxpfa?apikey=01f250503b7c40eb0ce695da7d74cbb1"
+$fpraw=$fpresults.content|convertfrom-json
+$fpclean=$fpraw.results.collection1| where {$_.title -ne ""}
+$counter=0
+$fp=@()
+
+While($counter -ne $fpclean.count)
+{
+   $record= New-Object System.Object
+   $record| Add-Member -type NoteProperty -name price -value $fpclean[$counter].price.text[1]
+   $record| Add-Member -type NoteProperty -name url -value $fpclean[$counter].price.href[1]
+   $record| Add-Member -type NoteProperty -name orderdate -value $fpclean[$counter].orderdate.replace("before ","")
+   $record| Add-Member -type NoteProperty -name title -value $fpclean[$counter].title.text.split("#")[0]
+   $rawissue=$fpclean[$counter].title.text.split("#")[1]
+   $issue=$rawissue.split("(?=()")
+   $record| Add-Member -type NoteProperty -name issue -value $issue[0]
+   $record| Add-Member -type NoteProperty -name variant -value $issue[1]
+   $record| Add-Member -type NoteProperty -name rundate -value $fpraw.lastsuccess
+   $fp+=$record
+   $counter++
+}
