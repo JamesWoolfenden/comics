@@ -892,7 +892,7 @@ function get-ebidrecords()
    
    
    $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
-   write-host "Querying ebid $url"
+   write-debug "Querying ebid $url"
    $ebidresults=get-ebidresults -url $url
    add-ebidarray -results $ebidresults -title $comictitle
 }

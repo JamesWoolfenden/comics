@@ -32,7 +32,6 @@
     <Compile Include="Excel\comics.xls" />
     <Compile Include="Excel\comics2.xls" />
     <Compile Include="core.ps1" />
-    <Compile Include="data.XML" />
     <Compile Include="database.ps1" />
     <Compile Include="Document2.txt" />
     <Compile Include="form.ps1" />

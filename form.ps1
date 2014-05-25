@@ -1,5 +1,10 @@
 function Chooser
 {
+  <#
+      .SYNOPSIS 
+       form function to pass selected title
+	    
+   #>
   param(
   [Parameter(Mandatory=$true)]
   [string]$selection)
@@ -10,6 +15,14 @@ function Chooser
 
 function get-imagetitle
 {
+  <#
+      .SYNOPSIS 
+       Call to select title from similar issues cover, useful for variants.
+	    
+      .EXAMPLE
+      C:\PS> get-imagetitle -title CHEW -issue 1
+      This displays a dilaog with a number of possible no.1 covers for the title chew.
+   #>
    param(
    [Parameter(Mandatory=$true)]
    [string]$title,
@@ -20,7 +33,7 @@ function get-imagetitle
    [System.Reflection.Assembly]::LoadWithPartialName("System.Drawing") | Out-Null
    
    $script:Choice=$null
-   $imagepath="C:\comics\covers\"
+   $imagepath="$root\covers\"
    $padtitle=$title -replace(" ","-")
    $scanpath=$imagepath+$padtitle+"\$issue\"
    if (!(test-path $scanpath))
