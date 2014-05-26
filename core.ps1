@@ -1,6 +1,15 @@
 
 function scan
 {
+   <#
+      .SYNOPSIS 
+       Reviews all selected comics and updates db with new and updated items
+	    
+      .EXAMPLE
+      C:\PS> scan
+      This loads the search json db and scan ebay and ebid.
+   #>
+
    $searches=(Get-Content "$root\search-data.json") -join "`n" | ConvertFrom-Json
 
    foreach($search in $searches)
@@ -19,6 +28,15 @@ function scan
 
 function best-buys
 {
+   <#
+      .SYNOPSIS 
+       Given a results object, this function add average and current price plus the margin available and returns the new array.
+	    
+      .EXAMPLE
+      C:\PS> best-buys $resultarray
+
+   #>
+
    param([pscustomobject]$results)
    
    foreach($record in $results)
