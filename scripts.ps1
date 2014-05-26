@@ -951,6 +951,7 @@ function update-number()
    }
 }
 
+new-alias gb get-bestbuy -force
 new-alias fr Finalize-Records -force
 new-alias ur update-recordset -force
 new-alias np c:\windows\notepad.exe

@@ -30,3 +30,23 @@ function best-buys
    }
    $results
 }
+
+function get-bestbuy
+{
+    param([string]$title)
+
+    $results=query-db -wherestring "where title='$title' and status='Verified'"
+    best-buys $results| sort-Object -property Margin
+}
+
+function clean-records
+{
+   $records=query-db -wherestring "where status='verified' and Ebayitem is not null  order by CloseDate desc"
+   
+   Write-host "Found $($records.count)"
+   
+   foreach($record in $records)
+   {
+      update-record $record
+   }  
+}
