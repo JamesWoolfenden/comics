@@ -6,7 +6,6 @@ function get-pounds
       $clean=$dirty.split(" ")
    
       [regex]$r="[^0-9.]"
-      #$clean=$r.replace($clean,"")
       
       if ($clean.count -gt 1)
       {
@@ -99,14 +98,8 @@ function add-record()
    $Issue=$Issue.ToUpper()
    $Description=$Description.Replace("'","")
    
-   #Write-host "Postage $Postage"
-   #Write-host "Price $Price"
-   
    $postage=get-pounds $postage
    $price=get-pounds $price
-   
-   #Write-host "Postage $Postage"
-   #Write-host "Price $Price"
    
    $cmd.commandtext = "INSERT INTO comics 
    (Title, Price, Issue, Bought, DateOfSale, Status, postage, Description, PublishDate, EbayItem, Quantity, AuctionType, BestOffer, BidCount, BuyItNowPrice, CloseDate, ImageSrc, Link, Site, Remaining, Seller, SaleDate, StartingPrice, Parentid, Split) 
@@ -128,7 +121,6 @@ function get-db()
    $cmd = New-Object System.Data.SqlClient.SqlCommand
    $cmd.connection = $conn
    $cmd.commandtext = "select title FROM [Comics].[dbo].[Comics] where ebayitem='$ebayitem'"
-   #write-host $cmd.commandtext 
    $data= $cmd.ExecuteReader()
    $result = @()
    $count=0
@@ -268,7 +260,6 @@ function query-db()
       ,[Site],[Remaining],[watch] 
       FROM comics $wherestring"
 
-   #write-host "$($cmd.commandtext)"
    $data = $cmd.ExecuteReader()
    
    while ($data.Read())

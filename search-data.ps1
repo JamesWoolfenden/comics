@@ -7,8 +7,6 @@ function make-searchdata
    [string]$exclude=$null,
    [string]$comictitle=$null
    )
-   #$includeArray=$include.split(" ")
-   #$excludeArray=$exclude.split(" ")
    
    New-Object PSObject -Property @{title=$title;include=$include;exclude=$exclude;comictitle=$comictitle}
 }
@@ -22,7 +20,7 @@ function append-searchdata
    [string]$comictitle
    )
    
-   $datafile="c:\comics\search-data.json"
+   $datafile="$root\search-data.json"
    $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
    $searches+=make-searchdata -title "$title" -exclude "$exclude" -include "$include" -comictitle $comictitle
    $searches| ConvertTo-Json -depth 999 | Out-File "$datafile"

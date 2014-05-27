@@ -12,6 +12,8 @@ import-module "$root\show-image.ps1"
 import-module "$root\form.ps1"
 import-module "$root\info.ps1"
 import-module "$root\core.ps1"
+import-module "$root\search-data.ps1"
+
 
 
 function read-db
