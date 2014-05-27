@@ -77,6 +77,6 @@ $file+=make-searchdata -title REVIVAL  -include "image" -exclude "batman debris 
 $file+=make-searchdata -title REVOLVER -exclude "Danger Wolverine VOLCANIC Vertigo RENEGADE"
 $file+=make-searchdata -title VELVET -include "image" -exclude "Ten Grand Stumptown LADY DEATH ASSASSIN Mara National"
 $file+=make-searchdata -title WATCHMEN -exclude "Trade Paperback badges Whatmen before dc novels book prints spawn figure badge tpb after fashion essential swamp VOL liberty"
-
+$file+=make-searchdata -title cowl -batman -gordon -azrael -battle -dc
 $file| ConvertTo-Json -depth 999 | Out-File "c:\comics\search-data.json"
 #>
