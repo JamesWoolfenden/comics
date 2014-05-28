@@ -1,24 +1,5 @@
-closeencounters
-http://www.kimonolabs.com/apis/9u9wvzya
-
-http://www.kimonolabs.com/api/9u9wvzya?apikey=01f250503b7c40eb0ce695da7d74cbb1
-
-Parameter 	Default value 	Parameter to append
-kimpath1 	index.php 	&kimpath1=newvalue
-kimpath2 	catalogsearch 	&kimpath2=newvalue
-kimpath3 	result 	&kimpath3=newvalue
-cat 	0 	&cat=newvalue
-name 	manifest+destiny 	&name=newvalue
 
 
-comicbookstore
-http://www.kimonolabs.com/api/bthid1ss?apikey=01f250503b7c40eb0ce695da7d74cbb1
-
-kimpath1 	catalogsearch 	&kimpath1=newvalue
-kimpath2 	result 	&kimpath2=newvalue
-kimpath3 	index 	&kimpath3=newvalue
-limit 	99 	&limit=newvalue
-q 	manifest+destiny 	&q=newvalue
 
 reed comics
 http://www.kimonolabs.com/api/b1awm6nu?apikey=01f250503b7c40eb0ce695da7d74cbb1
@@ -29,3 +10,4 @@ keywords 	manifest%20destiny 	&keywords=newvalue
 sort 	2a 	&sort=newvalue
 listing 	1000 	&listing=newvalue
 osCsid 	pv7c5rk4j1u0p83fpanlr1oc63 	&osCsid=newvalue
+
