@@ -31,7 +31,7 @@ function get-fpdata()
 
    While($counter -ne $fpclean.count)
    {
-      write-host "Record $counter"
+      
       $record= New-Object System.Object
       
       $record| Add-Member -type NoteProperty -name url -value $fpclean[$counter].price.href[1]
@@ -48,5 +48,8 @@ function get-fpdata()
       $fp+=$record
       $counter++
    }
+   
+   write-host "Record $counter"
+   
    $fp
 }

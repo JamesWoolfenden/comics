@@ -1,6 +1,6 @@
 function get-comicbookstoredata()
 {
-   param ([string]$title="The Walking Dead")
+   param ([string]$title="Walking Dead")
 
 #kimpath1 catalogsearch &kimpath1=newvalue 
 #kimpath2 result &kimpath2=newvalue 
@@ -14,6 +14,7 @@ function get-comicbookstoredata()
    $fullfilter=$search
    $url="http://www.kimonolabs.com/api/9n2moou6?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-Host "Accessing $url"
+   write-Host "for $title from The comic book store"
   
 <# Postage
    1X  x x
@@ -63,6 +64,6 @@ function get-comicbookstoredata()
       $comicbookstore+=$record
       $counter++
    }
-
+   write-host "Record $counter"
    $comicbookstore 
 }

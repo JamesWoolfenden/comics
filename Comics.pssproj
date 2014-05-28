@@ -49,6 +49,7 @@
     <Content Include="reed.ps1" />
     <Content Include="comicbookstore.ps1" />
     <Content Include="samples.ps1" />
+    <Content Include="Scanner.ps1" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="closeencounters.ps1" />

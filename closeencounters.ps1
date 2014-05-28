@@ -14,7 +14,8 @@ function get-closeencountersdata()
    $fullfilter=$search
    $url="http://www.kimonolabs.com/api/9u9wvzya?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-Host "Accessing $url"
-  
+   write-Host "for $title from Close encounters"
+
 <# Postage
    1X  x x
    2X  x x
@@ -35,7 +36,7 @@ function get-closeencountersdata()
 
    While($counter -ne $ceresults.count)
    {
-      write-host "Record $counter"
+
       $record= New-Object System.Object
   
       $record| Add-Member -type NoteProperty -name url -value $ceresults.results.collection1[$counter].title.href
@@ -52,6 +53,7 @@ function get-closeencountersdata()
       $closeecounters+=$record
       $counter++
    }
-
+   
+   write-host "Record $counter"
    $closeecounters 
 }

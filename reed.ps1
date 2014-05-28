@@ -39,7 +39,6 @@ function get-reeddata()
 
    While($counter -ne $results.count)
    {
-      write-debug "Record $counter"
       $record= New-Object System.Object
   
       $record| Add-Member -type NoteProperty -name url -value $results[$counter].cover.href
@@ -70,6 +69,8 @@ function get-reeddata()
       $reed+=$record
       $counter++
    }
+   
+   write-host "Record $counter"
 
    $reed
 }
