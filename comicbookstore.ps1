@@ -1,20 +1,20 @@
 function get-comicbookstoredata()
 {
-   param ([string]$title="Walking Dead")
+   param ([string]$title="The Walking Dead")
 
-#kimpath1 catalogsearch &kimpath1=newvalue 
-#kimpath2 result &kimpath2=newvalue 
-#kimpath3 index &kimpath3=newvalue 
-#cat 120 &cat=newvalue 
-#limit 99 &limit=newvalue 
-#q manifest+destiny &q=newvalue 
+#kimpath1 shop &kimpath1=newvalue 
+#kimpath2 index.php &kimpath2=newvalue 
+#main_page advanced_search_result &main_page=newvalue 
+#search_in_description 0 &search_in_description=newvalue 
+#zenid p8upjit25hl85tj35nuu9l9u46 &zenid=newvalue 
+#keyword manifest+destiny &keyword=newvalue 
 
    $comic=$title.replace(" ","+")
    $search="&q=$comic"
    $fullfilter=$search
    $url="http://www.kimonolabs.com/api/9n2moou6?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-Host "Accessing $url"
-   write-Host "for $title from The comic book store"
+   write-Host "Looking for $title @ `"The Comic Book Store`""
   
 <# Postage
    1X  x x
@@ -35,11 +35,6 @@ function get-comicbookstoredata()
    $comicbookstore=@()
 
    $results=$cbsresults.results.collection1|where {$_.title.text -like "*$title*"}
-  # $results=$results|where {$_.title.text -notlike "*book*"}
-  # $results=$results|where {$_.title.text -notlike "*tpb*"}
-  # $results=$results|where {$_.title.text -notlike "*t-shirt*"}
-  # $results=$results|where {$_.title.text -notlike "*volume*"}
-
 
    While($counter -ne $results.count)
    {
@@ -64,6 +59,7 @@ function get-comicbookstoredata()
       $comicbookstore+=$record
       $counter++
    }
+
    write-host "Record $counter"
    $comicbookstore 
 }

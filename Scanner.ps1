@@ -2,15 +2,25 @@ $corescript=$myinvocation.mycommand.path
 $root=split-path -parent  $corescript
 
 import-module "$root\closeencounters.ps1" -force
-import-module "$root\Comicbookstore.ps1"
-import-module "$root\fp.ps1"
-import-module "$root\guru.ps1"
-import-module "$root\reed.ps1"
+import-module "$root\comicbookstore.ps1" -force
+import-module "$root\fp.ps1" -force
+import-module "$root\guru.ps1"  -force
+import-module "$root\reed.ps1" -force
+import-module "$root\comicbookshop.ps1" -force
 
 $title="The Walking Dead"
 $filetitle=$title.replace(" ","")
-$close=    get-closeencountersdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencountera.json"
-$comicbook=get-comicbookstoredata -title  $($title.Replace("The ","")) |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookstore.json"
+$close=    get-closeencountersdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json"
+$comicbook =get-comicbookstoredata -title  $($title.Replace("The ","")) |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookstore.json"
 $fp       =get-fpdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)fp.json"
 $reed     =get-reeddata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)reed.json"
+$bookshop = get-comicbookshopdata  -title $($title.Replace("The ","")) |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookshop.json"
 
+
+$title="Manifest Destiny"
+$filetitle=$title.replace(" ","")
+$close=    get-closeencountersdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json"
+$comicbook =get-comicbookstoredata -title  $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookstore.json"
+$fp       =get-fpdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)fp.json"
+$reed     =get-reeddata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)reed.json"
+$bookshop = get-comicbookshopdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookshop.json"

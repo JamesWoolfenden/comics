@@ -46,10 +46,11 @@
   <ItemGroup>
     <Content Include=".\ebayrsspowershellmodule\*.*" />
     <Content Include=".\covers\**\*.*" />
+    <Content Include="comicbookshop.ps1" />
     <Content Include="reed.ps1" />
     <Content Include="comicbookstore.ps1" />
     <Content Include="samples.ps1" />
-    <Content Include="Scanner.ps1" />
+    <Content Include="scanner.ps1" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="closeencounters.ps1" />
@@ -402,6 +403,9 @@
     <Folder Include="covers\MIND-THE-GAP\7\" />
     <Folder Include="covers\MIND-THE-GAP\8\" />
     <Folder Include="covers\MIND-THE-GAP\9\" />
+    <Folder Include="covers\NAILBITER\" />
+    <Folder Include="covers\NAILBITER\1\" />
+    <Folder Include="covers\NAILBITER\2\" />
     <Folder Include="covers\NUMBER-CRUNCHER\" />
     <Folder Include="covers\OUTCAST\" />
     <Folder Include="covers\OUTCAST\1\" />
@@ -470,6 +474,7 @@
     <Folder Include="covers\SEX-CRIMINALS\4\" />
     <Folder Include="covers\SEX-CRIMINALS\5\" />
     <Folder Include="covers\SEX\" />
+    <Folder Include="covers\SEX\2\" />
     <Folder Include="covers\SHELTERED\" />
     <Folder Include="covers\SHELTERED\1\" />
     <Folder Include="covers\SHELTERED\2\" />
@@ -487,6 +492,8 @@
     <Folder Include="covers\TEN-GRAND\" />
     <Folder Include="covers\TEN-GRAND\1\" />
     <Folder Include="covers\TEN-GRAND\2\" />
+    <Folder Include="covers\TEN-GRAND\3\" />
+    <Folder Include="covers\TEN-GRAND\4\" />
     <Folder Include="covers\TEN-GRAND\5\" />
     <Folder Include="covers\TEN-GRAND\7\" />
     <Folder Include="covers\TEN-GRAND\8\" />
@@ -506,6 +513,7 @@
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\16\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\17\" />
+    <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\19\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\21\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\22\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\23\" />
@@ -516,7 +524,9 @@
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\28\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\2\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\30\" />
+    <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\31\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\34\" />
+    <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\3\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\40\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\42\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\44\" />
@@ -526,6 +536,7 @@
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\51\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\52\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\5\" />
+    <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\6\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\7\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\8\" />
     <Folder Include="covers\THE-WALKING-DEAD\" />
@@ -646,8 +657,10 @@
     <Folder Include="covers\THE-WALKING-DEAD\89\" />
     <Folder Include="covers\THE-WALKING-DEAD\8\" />
     <Folder Include="covers\THE-WALKING-DEAD\90\" />
+    <Folder Include="covers\THE-WALKING-DEAD\91\" />
     <Folder Include="covers\THE-WALKING-DEAD\92\" />
     <Folder Include="covers\THE-WALKING-DEAD\94\" />
+    <Folder Include="covers\THE-WALKING-DEAD\95\" />
     <Folder Include="covers\THE-WALKING-DEAD\96\" />
     <Folder Include="covers\THE-WALKING-DEAD\97\" />
     <Folder Include="covers\THE-WALKING-DEAD\98\" />
@@ -687,8 +700,11 @@
     <Folder Include="covers\THINK-TANK\7\" />
     <Folder Include="covers\THINK-TANK\8\" />
     <Folder Include="covers\THINK-TANK\9\" />
+    <Folder Include="covers\THIRD-WORLD-WAR\" />
+    <Folder Include="covers\THIRD-WORLD-WAR\2\" />
     <Folder Include="covers\TURBO-JONES\" />
     <Folder Include="covers\TURBO-JONES\0\" />
+    <Folder Include="covers\TURBO-JONES\1\" />
     <Folder Include="covers\ULTIMATE-X-MEN\" />
     <Folder Include="covers\V-FOR-VENDETTA\" />
     <Folder Include="covers\V-FOR-VENDETTA\10\" />
