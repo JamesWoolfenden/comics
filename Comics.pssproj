@@ -46,6 +46,7 @@
   <ItemGroup>
     <Content Include=".\ebayrsspowershellmodule\*.*" />
     <Content Include=".\covers\**\*.*" />
+    <Content Include="reed.ps1" />
     <Content Include="comicbookstore.ps1" />
     <Content Include="samples.ps1" />
   </ItemGroup>
