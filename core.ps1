@@ -68,3 +68,20 @@ function clean-records
       update-record $record
    }  
 }
+
+
+function combine-data
+{
+   param([string]$title)
+
+   $filetitle=$title.replace(" ","")
+   $files=gci "$root\livedata" -Filter "$filetitle*"
+   
+   $data=@()
+   foreach($file in $files)
+   {
+      $data+=(Get-Content "$($file.FullName)") -join "`n" | ConvertFrom-Json
+   }
+
+   $data
+}
