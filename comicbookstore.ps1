@@ -44,7 +44,7 @@ function get-comicbookstoredata()
       $record| Add-Member -type NoteProperty -name url -value $results[$counter].title.href
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
-      $issue=$results[$counter].title.text
+      $issue=($results[$counter].title.text).ToUpper()
       $issue=$issue -replace("$title ","")
       $issue=$issue -replace("#","")
       $variant=$issue

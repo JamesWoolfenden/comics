@@ -42,7 +42,7 @@ function get-closeencountersdata()
       $record| Add-Member -type NoteProperty -name url -value $ceresults.results.collection1[$counter].title.href
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
-      $variant=$ceresults.results.collection1[$counter].title.text.Replace("$title ","")
+      $variant=(($ceresults.results.collection1[$counter].title.text).ToUpper()).Replace("$title ","")
       $temp=$variant.Split(" ")
       $record| Add-Member -type NoteProperty -name issue -value $temp[0]
       $record| Add-Member -type NoteProperty -name variant -value $variant

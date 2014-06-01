@@ -43,7 +43,7 @@ function get-reeddata()
   
       $record| Add-Member -type NoteProperty -name url -value $results[$counter].cover.href
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
-      $temp=$results[$counter].cover.alt
+      $temp=($results[$counter].cover.alt).ToUpper()
       $temp=$temp.split("#")
       if ($temp.count -eq 1)
       {
