@@ -2,6 +2,7 @@ function get-comicbookshopdata()
 {
    param ([string]$title="Walking Dead")
 
+   $title=$title.ToUpper()
    $comic=$title.replace(" ","+")
    $search="&keyword=$comic"
    $fullfilter=$search
@@ -32,6 +33,23 @@ function get-comicbookshopdata()
    $results=$results|where {$_.title.text -notmatch "vol"}
    $results=$results|where {$_.title.text -notmatch "T/S"}
    $results=$results|where {$_.title.text -notmatch "Novel"}
+
+   switch ($results -is [system.array] )
+   {
+      $NULL 
+      {
+         return $NULL 
+      }
+      $true
+      {
+         #do nothing
+      }
+      $false 
+      {
+         $results = $results | Add-Member @{count="1"} -PassThru
+      }
+   }
+
 
    While($counter -ne $results.count)
    {

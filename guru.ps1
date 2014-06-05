@@ -1,29 +1,16 @@
 function get-gurudata()
 {
-   param ([string]$title="The Walking Dead")
-
-   switch($title)
-   {
-      "The Walking Dead"
-      {
-         $product=2140
-      }
-      "Manhattan Projects"
-      {
-         $product=15087
-      }
-      "Chew"
-      {
-         $product=12622
-      }
-   }
+   param (
+   [string]$title="The Walking Dead",
+   [string]$productcode)
 
 
-
-   $fullfilter="&product=$product"
+   $title=$title.ToUpper()
+   $fullfilter="&product=$productcode"
    $url="http://www.kimonolabs.com/api/2gr32l5y?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-Host "Accessing $url"
-   
+   write-Host "Looking for $title @ `"The Comic Guru`""
+  
 <# Postage
    1X  £3.50  1.00
    2X  £3.65  1.825
@@ -41,20 +28,34 @@ function get-gurudata()
    $gururaw=Invoke-RestMethod -Uri $url
    $counter=0
    $guru=@()
-
-   While($counter -ne $gururaw.count)
+   $results=$gururaw.results.collection1| where {$_.title -ne ""}
+   switch ($results -is [system.array] )
    {
-      write-host "Record $counter"
+      $NULL 
+      {
+         return $NULL 
+      }
+      $true
+      {
+         #do nothing
+      }
+      $false 
+      {
+         $results = $results | Add-Member @{count="1"} -PassThru
+      }
+   }
+   While($counter -ne $results.count)
+   {
       $record= New-Object System.Object
       
       $record| Add-Member -type NoteProperty -name url -value "http://www.thecomicguru.co.uk"
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
-      $temp=$gururaw.results.collection1[$counter].issue -split("Stock:")
+      $temp=$results[$counter].issue -split("Stock:")
       $record| Add-Member -type NoteProperty -name issue -value $temp[0]
       [string]$variant=$temp[1]
       $record| Add-Member -type NoteProperty -name variant -value $variant
-      $record| Add-Member -type NoteProperty -name price -value $gururaw.results.collection1[$counter].price.Replace("£","")
+      $record| Add-Member -type NoteProperty -name price -value $results[$counter].price.Replace("£","")
       $record| Add-Member -type NoteProperty -name rundate -value $gururaw.lastsuccess
       $record| Add-Member -type NoteProperty -name site -value "The Comic Guru"
       
@@ -62,5 +63,6 @@ function get-gurudata()
       $counter++
    }
    
+   write-host "Record $counter"
    $guru
 }

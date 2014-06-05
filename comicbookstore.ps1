@@ -8,7 +8,8 @@ function get-comicbookstoredata()
 #search_in_description 0 &search_in_description=newvalue 
 #zenid p8upjit25hl85tj35nuu9l9u46 &zenid=newvalue 
 #keyword manifest+destiny &keyword=newvalue 
-
+   
+   $title=$title.ToUpper()
    $comic=$title.replace(" ","+")
    $search="&q=$comic"
    $fullfilter=$search
@@ -36,9 +37,25 @@ function get-comicbookstoredata()
 
    $results=$cbsresults.results.collection1|where {$_.title.text -like "*$title*"}
 
+   switch ($results -is [system.array] )
+   {
+      $NULL 
+      {
+         return $NULL 
+      }
+      $true
+      {
+         #do nothing
+      }
+      $false 
+      {
+         $results = $results | Add-Member @{count="1"} -PassThru
+      }
+   }
+
+
    While($counter -ne $results.count)
    {
-      write-debug "Record $counter"
       $record= New-Object System.Object
   
       $record| Add-Member -type NoteProperty -name url -value $results[$counter].title.href

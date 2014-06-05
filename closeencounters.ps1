@@ -8,13 +8,13 @@ function get-closeencountersdata()
 #kimpath3 	result 	&kimpath3=newvalue
 #cat 	0 	&cat=newvalue
 #name 	manifest+destiny 	&name=newvalue
-
+   $title=$title.ToUpper()
    $comic=$title.replace(" ","+")
    $search="&name=$comic"
    $fullfilter=$search
    $url="http://www.kimonolabs.com/api/9u9wvzya?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-Host "Accessing $url"
-   write-Host "for $title from Close encounters"
+   write-Host "Looking for $title @ `"Close Encounters`""
 
 <# Postage
    1X  x x
@@ -34,19 +34,37 @@ function get-closeencountersdata()
    $counter=0
    $closeecounters=@()
 
+   $results=$ceresults.results.collection1
+
+   switch ($results -is [system.array] )
+   {
+      $NULL 
+      {
+         return $NULL 
+      }
+      $true
+      {
+         #do nothing
+      }
+      $false 
+      {
+         $results = $results | Add-Member @{count="1"} -PassThru
+      }
+   }
+
    While($counter -ne $ceresults.count)
    {
 
       $record= New-Object System.Object
   
-      $record| Add-Member -type NoteProperty -name url -value $ceresults.results.collection1[$counter].title.href
+      $record| Add-Member -type NoteProperty -name url -value $results[$counter].title.href
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
-      $variant=(($ceresults.results.collection1[$counter].title.text).ToUpper()).Replace("$title ","")
+      $variant=(($results[$counter].title.text).ToUpper()).Replace("$title ","")
       $temp=$variant.Split(" ")
       $record| Add-Member -type NoteProperty -name issue -value $temp[0]
       $record| Add-Member -type NoteProperty -name variant -value $variant
-      $record| Add-Member -type NoteProperty -name price -value $ceresults.results.collection1[$counter].price.Replace("£","")
+      $record| Add-Member -type NoteProperty -name price -value $results[$counter].price.Replace("£","")
       $record| Add-Member -type NoteProperty -name rundate -value $ceresults.lastsuccess
       $record| Add-Member -type NoteProperty -name site -value "Close Encounters"
 

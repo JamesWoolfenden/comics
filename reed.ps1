@@ -8,12 +8,13 @@ function get-reeddata()
 #sort 	2a 	&sort=newvalue
 #listing 	1000 	&listing=newvalue
 #osCsid 	pv7c5rk4j1u0p83fpanlr1oc63 	&osCsid=newvalue
-
+   $title=$title.ToUpper()
    $comic=$title.replace(" ","%20")
    $search="&keywords=$comic"
    $fullfilter=$search
    $url="http://www.kimonolabs.com/api/b1awm6nu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-Host "Accessing $url"
+   write-Host "Looking for $title @ `"Reed Comics`""
   
 <# Postage
    1X  x x
@@ -36,6 +37,23 @@ function get-reeddata()
    $results=$reedresults.results.collection1| where {$_.title -ne ""}
    $results=$results| where {$_.title.text -notmatch "novel"}
    $results=$results| where {$_.title.text -notmatch "Volume"}
+
+   switch ($results -is [system.array] )
+   {
+      $NULL 
+      {
+         return $NULL 
+      }
+      $true
+      {
+         #do nothing
+      }
+      $false 
+      {
+         $results = $results | Add-Member @{count="1"} -PassThru
+      }
+   }
+
 
    While($counter -ne $results.count)
    {
