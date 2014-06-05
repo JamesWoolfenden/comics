@@ -1,0 +1,13 @@
+add-record -title Trees 1 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title Nailbiter 1phantom -price 3.99 -status CLOSED -bought $true -site FP -seller FP
+add-record -title Nailbiter 1phantom -price 3.99 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "Mind the gap" 17a -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "Mind the gap" 17b -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "Deadly Class" 5 -price 2.5 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "southern bastards" 2 -price 2.5 -status CLOSED -bought $true -site FP -seller FP
+add-record -title velvet 5 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "The walking dead" 1firsts -price 0.75 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "The walking dead" 1firsts -price 0.75 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "ALEX ADA" 2b -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+
+add-record -title "ALEX ADA" 1firsts -price 0.75 -status CLOSED -bought $true -site FP -seller FP
