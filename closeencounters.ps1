@@ -52,7 +52,7 @@ function get-closeencountersdata()
       }
    }
 
-   While($counter -ne $ceresults.count)
+   While($counter -ne $results.count)
    {
 
       $record= New-Object System.Object

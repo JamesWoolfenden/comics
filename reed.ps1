@@ -65,13 +65,13 @@ function get-reeddata()
       $temp=$temp.split("#")
       if ($temp.count -eq 1)
       {
-         $newtitle=$title
+         $newtitle=$title.trim()
          $issue=$temp.Replace("$title ","")
          $variant=$issue
       }
       else
       {
-         $newtitle=$temp[0]
+         $newtitle=($temp[0]).trim()
          $variant=$temp[1]
          $issue=$temp[1].split(" ")[0]
       }

@@ -53,7 +53,7 @@ function get-gurudata()
       $record| Add-Member -type NoteProperty -name title -value $title
       $temp=$results[$counter].issue -split("Stock:")
       $record| Add-Member -type NoteProperty -name issue -value $temp[0]
-      [string]$variant=$temp[1]
+      [string]$variant=($temp[1]).trim
       $record| Add-Member -type NoteProperty -name variant -value $variant
       $record| Add-Member -type NoteProperty -name price -value $results[$counter].price.Replace("£","")
       $record| Add-Member -type NoteProperty -name rundate -value $gururaw.lastsuccess
