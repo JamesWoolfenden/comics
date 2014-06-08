@@ -25,10 +25,16 @@ function get-gurudata()
    11X $5.00  0.45 
    50X $11.00  0.22
 #>
-   $gururaw=Invoke-RestMethod -Uri $url
+   $gururesults=Invoke-RestMethod -Uri $url
+   if ($gururesults.lastrunstatus -eq "failure")
+   {
+      return $null
+   }
+   
+   $results=$gururesults.results.collection1| where {$_.title -ne ""}
    $counter=0
    $guru=@()
-   $results=$gururaw.results.collection1| where {$_.title -ne ""}
+   
    switch ($results -is [system.array] )
    {
       $NULL 
@@ -43,7 +49,12 @@ function get-gurudata()
       {
          $results = $results | Add-Member @{count="1"} -PassThru
       }
+      default
+      {
+         return $NULL
+      }
    }
+   
    While($counter -ne $results.count)
    {
       $record= New-Object System.Object
@@ -53,10 +64,10 @@ function get-gurudata()
       $record| Add-Member -type NoteProperty -name title -value $title
       $temp=$results[$counter].issue -split("Stock:")
       $record| Add-Member -type NoteProperty -name issue -value $temp[0]
-      [string]$variant=($temp[1]).trim
+      [string]$variant=($temp[1]).trim()
       $record| Add-Member -type NoteProperty -name variant -value $variant
       $record| Add-Member -type NoteProperty -name price -value $results[$counter].price.Replace("£","")
-      $record| Add-Member -type NoteProperty -name rundate -value $gururaw.lastsuccess
+      $record| Add-Member -type NoteProperty -name rundate -value $gururesults.lastsuccess
       $record| Add-Member -type NoteProperty -name site -value "The Comic Guru"
       
       $guru+=$record

@@ -25,9 +25,13 @@ function get-comicbookshopdata()
    50X x x
 #>
    $cbsresults=Invoke-RestMethod -Uri $url
+   if ($cbsresults.lastrunstatus -eq "failure")
+   {
+      return $null
+   }
+   
    $counter=0
    $comicbookshop=@()
-
    $results=$cbsresults.results.collection1
    
    $results=$results|where {$_.title.text -notmatch "vol"}
@@ -48,8 +52,11 @@ function get-comicbookshopdata()
       {
          $results = $results | Add-Member @{count="1"} -PassThru
       }
+      default
+      {
+         return $NULL
+      }
    }
-
 
    While($counter -ne $results.count)
    {

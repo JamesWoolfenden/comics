@@ -12,32 +12,38 @@ function get-market
 {
    param(
    [string]$title,
-   [string]$productcode)
+   [string]$productcode,
+   [string]$alttitle)
    
+   $allrecords=@()
    $filetitle=$title.replace(" ","")
-   $close     =get-closeencountersdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json"
-   $comicbook =get-comicbookstoredata -title  $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookstore.json"
-   $fp        =get-fpdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)fp.json"
-   $reed      =get-reeddata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)reed.json"
-   $bookshop  =get-comicbookshopdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookshop.json"
+   
+   get-closeencountersdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json"
+
+   get-fpdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)fp.json"
+   get-reeddata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)reed.json"
+   
+   if ($alttitle -ne "")
+   {
+      write-Host "Using Alternative title $alttitle"
+      get-comicbookshopdata  -title $alttitle |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookshop.json"
+      get-comicbookstoredata -title $alttitle |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookstore.json"
+   }
+   else
+   {
+      write-Host "Using Original title $title"
+      get-comicbookshopdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookshop.json"
+      get-comicbookstoredata -title  $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookstore.json"
+   }
    
    If ($productcode -ne "")
    {
-      $guru      =get-gurudata -title $title -productcode $productcode |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)guru.json"
+      get-gurudata -title $title -productcode $productcode |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)guru.json"
    }
 }
 
 
-$title="The Walking Dead"
-$filetitle=$title.replace(" ","")
-$productcode="2140"
-$close     =get-closeencountersdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json"
-$comicbook =get-comicbookstoredata -title  $($title.Replace("The ","")) |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookstore.json"
-$fp        =get-fpdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)fp.json"
-$reed      =get-reeddata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)reed.json"
-$bookshop  =get-comicbookshopdata  -title $($title.Replace("The ","")) |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookshop.json"
-$guru      =get-gurudata -title $title -productcode $productcode |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)guru.json"
-
+get-market -title "The Walking Dead" -productcode "2140" -alttitle "Walking Dead"
 get-market -title "Manifest Destiny"
 get-market -title "Sex Criminals" -productcode "16547"
 get-market -title "CHEW" -productcode "12622"

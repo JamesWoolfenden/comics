@@ -1,6 +1,7 @@
 function get-fpdata()
 {
-   param ([string]$title="The Walking Dead")
+   param (
+   [string]$title="The Walking Dead")
 
    $title=$title.ToUpper()
    $comic=$title.replace(" ","+")
@@ -27,6 +28,11 @@ function get-fpdata()
    50X $5.50  0.11
 #>
    $fpresults=Invoke-RestMethod -Uri $url
+   if ($fpresults.lastrunstatus -eq "failure")
+   {
+      return $null
+   }
+   
    $results=$fpresults.results.collection1| where {$_.title -ne ""}
    $counter=0
    $fp=@()
@@ -44,6 +50,10 @@ function get-fpdata()
       $false 
       {
          $results = $results | Add-Member @{count="1"} -PassThru
+      }
+      default
+      {
+         return $NULL
       }
    }
 
@@ -87,6 +97,5 @@ function get-fpdata()
    }
    
    write-host "Record $counter"
-   
    $fp
 }

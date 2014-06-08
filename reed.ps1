@@ -1,13 +1,14 @@
 function get-reeddata()
 {
-   param ([string]$title="The Walking Dead")
+   param (
+   [string]$title="The Walking Dead")
 
-#Parameter 	Default value 	Parameter to append
-#kimpath1 	advanced_search_result.php 	&kimpath1=newvalue
-#keywords 	manifest%20destiny 	&keywords=newvalue
-#sort 	2a 	&sort=newvalue
-#listing 	1000 	&listing=newvalue
-#osCsid 	pv7c5rk4j1u0p83fpanlr1oc63 	&osCsid=newvalue
+   #Parameter 	Default value 	Parameter to append
+   #kimpath1 	advanced_search_result.php 	&kimpath1=newvalue
+   #keywords 	manifest%20destiny 	&keywords=newvalue
+   #sort 	2a 	&sort=newvalue
+   #listing 	1000 	&listing=newvalue
+   #osCsid 	pv7c5rk4j1u0p83fpanlr1oc63 	&osCsid=newvalue
    $title=$title.ToUpper()
    $comic=$title.replace(" ","%20")
    $search="&keywords=$comic"
@@ -31,9 +32,12 @@ function get-reeddata()
    50X x x
 #>
    $reedresults=Invoke-RestMethod -Uri $url
+   if ($reedresults.lastrunstatus -eq "failure")
+   {
+      return $null
+   }
    $counter=0
    $reed=@()
-
    $results=$reedresults.results.collection1| where {$_.title -ne ""}
    $results=$results| where {$_.title.text -notmatch "novel"}
    $results=$results| where {$_.title.text -notmatch "Volume"}
@@ -52,9 +56,12 @@ function get-reeddata()
       {
          $results = $results | Add-Member @{count="1"} -PassThru
       }
+      default
+      {
+         return $NULL
+      }
    }
-
-
+   
    While($counter -ne $results.count)
    {
       $record= New-Object System.Object
@@ -89,6 +96,5 @@ function get-reeddata()
    }
    
    write-host "Record $counter"
-
    $reed
 }

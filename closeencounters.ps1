@@ -31,11 +31,16 @@ function get-closeencountersdata()
    50X x x
 #>
    $ceresults=Invoke-RestMethod -Uri $url
+   
+   if ($ceresults.lastrunstatus -eq "failure")
+   {
+      return $null
+   }
+
    $counter=0
    $closeecounters=@()
-
-   $results=$ceresults.results.collection1
-
+   $results= $ceresults.results.collection1
+   
    switch ($results -is [system.array] )
    {
       $NULL 
@@ -50,6 +55,10 @@ function get-closeencountersdata()
       {
          $results = $results | Add-Member @{count="1"} -PassThru
       }
+      default
+      {
+         return $NULL
+      }
    }
 
    While($counter -ne $results.count)
@@ -60,6 +69,7 @@ function get-closeencountersdata()
       $record| Add-Member -type NoteProperty -name url -value $results[$counter].title.href
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
+
       $variant=(($results[$counter].title.text).ToUpper()).Replace("$title ","")
       $temp=$variant.Split(" ")
       $record| Add-Member -type NoteProperty -name issue -value $temp[0]

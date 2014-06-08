@@ -1,13 +1,46 @@
-add-record -title Trees 1 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
-add-record -title Nailbiter 1phantom -price 3.99 -status CLOSED -bought $true -site FP -seller FP
-add-record -title Nailbiter 1phantom -price 3.99 -status CLOSED -bought $true -site FP -seller FP
-add-record -title "Mind the gap" 17a -price 2.2 -status CLOSED -bought $true -site FP -seller FP
-add-record -title "Mind the gap" 17b -price 2.2 -status CLOSED -bought $true -site FP -seller FP
-add-record -title "Deadly Class" 5 -price 2.5 -status CLOSED -bought $true -site FP -seller FP
-add-record -title "southern bastards" 2 -price 2.5 -status CLOSED -bought $true -site FP -seller FP
-add-record -title velvet 5 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
-add-record -title "The walking dead" 1firsts -price 0.75 -status CLOSED -bought $true -site FP -seller FP
-add-record -title "The walking dead" 1firsts -price 0.75 -status CLOSED -bought $true -site FP -seller FP
-add-record -title "ALEX ADA" 2b -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title COWL 1 -price 2.5 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "ALEX ADA" 3b -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title NAILBITER 2 -price 2.20 -status CLOSED -bought $true -site FP -seller FP
+add-record -title DARKNESS 1 -price 2.85 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "DEADLY CLASS" 5 -price 2.5 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "MPH" 1fp:signed -price 3.99 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "SAGA" 1firsts -price 0.75 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "SHELTERED" 9 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "MERCENARY SEA" 4 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "SOUTHERN BASTARDS" 1a -price 2.5 -status CLOSED -bought $true -site FP -seller FP
 
-add-record -title "ALEX ADA" 1firsts -price 0.75 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "MANHATTAN PROJECTS" 19 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "MANHATTAN PROJECTS" 20 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+
+add-record -title "THE WALKING DEAD" 116 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 116 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 117 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 117 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 118 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 119 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 120 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 121 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 121 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 122 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 122 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 122 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 123 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 124 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 125 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 126 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 126 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 126 -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 127A -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 127A -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "THE WALKING DEAD" 127A -price 2.2 -status CLOSED -bought $true -site FP -seller FP
+
+add-record -title NAILBITER 1 -price 2.20 -status CLOSED -bought $true -site FP -seller FP
+add-record -title NAILBITER 1 -price 2.20 -status CLOSED -bought $true -site FP -seller FP
+add-record -title NAILBITER 2 -price 3.25 -status CLOSED -bought $true -site FP -seller FP
+
+add-record -title "SOUTHERN BASTARDS" 1A -price 2.5 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "SOUTHERN BASTARDS" 1A -price 2.5 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "SOUTHERN BASTARDS" 1FP -price 6.99 -status CLOSED -bought $true -site FP -seller FP
+add-record -title "SOUTHERN BASTARDS" 1THIRDEYE -price 2.5 -status CLOSED -bought $true -site FP -seller FP
+
+add-record -title VELVET 1FIRSTS -price 0.75 -status CLOSED -bought $true -site FP -seller FP

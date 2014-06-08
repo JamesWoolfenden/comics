@@ -83,5 +83,5 @@ function combine-data
       $data+=(Get-Content "$($file.FullName)") -join "`n" | ConvertFrom-Json
    }
 
-   $data
+   $data|sort-object issue
 }
