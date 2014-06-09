@@ -7,6 +7,7 @@ import-module "$root\fp.ps1" -force
 import-module "$root\guru.ps1"  -force
 import-module "$root\reed.ps1" -force
 import-module "$root\comicbookshop.ps1" -force
+import-Module "$root\disposableheroes.ps1" -force
 
 function get-market
 {
@@ -18,8 +19,8 @@ function get-market
    $allrecords=@()
    $filetitle=$title.replace(" ","")
    
+   get-dhdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json"
    get-closeencountersdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json"
-
    get-fpdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)fp.json"
    get-reeddata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)reed.json"
    
@@ -67,3 +68,6 @@ get-market -title "VELVET" -productcode "16617"
 get-market -title "OUTCAST" 
 get-market -title "COWL"
 get-market -title "MPH" -productcode "17137"
+get-market -title "SPREAD" 
+get-market -title "FADE OUT"
+get-market -title "IMPERIAL"

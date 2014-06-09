@@ -43,4 +43,38 @@ add-record -title "SOUTHERN BASTARDS" 1A -price 2.5 -status CLOSED -bought $true
 add-record -title "SOUTHERN BASTARDS" 1FP -price 6.99 -status CLOSED -bought $true -site FP -seller FP
 add-record -title "SOUTHERN BASTARDS" 1THIRDEYE -price 2.5 -status CLOSED -bought $true -site FP -seller FP
 
-add-record -title VELVET 1FIRSTS -price 0.75 -status CLOSED -bought $true -site FP -seller FP
+add-record -title REVIVAL 1C -price 2.10 -status CLOSED -bought $true -site ebay -seller ebay
+add-record -title REVIVAL 19 -price 2.10 -status CLOSED -bought $true -site fp -seller fp
+add-record -title REVIVAL 19 -price 2.10 -status CLOSED -bought $true -site fp -seller fp
+
+add-record -title "SATELLITE SAM" 1B -price 1 -status CLOSED -bought $true -site ebid -seller blackadam
+add-record -title "SATELLITE SAM" 2 -price 1 -status CLOSED -bought $true -site ebid -seller blackadam
+
+add-record -title "PRETTY DEADLY" 1A -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+add-record -title "PRETTY DEADLY" 1FP -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+
+add-record -title "TEN GRAND" 1A -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+add-record -title "TEN GRAND" 1FP -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+
+add-record -title "SEX" 1A -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+add-record -title "SEX" 1B -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+add-record -title "THE SAVIORS" 1 -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+
+add-record -title "UNDERTOW" 1A -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+add-record -title "UNDERTOW" 1B -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+
+add-record -title "FATALE" 1FIRSTS -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+add-record -title "FATALE" 1E -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+add-record -title "FATALE" 2C -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+add-record -title "FATALE" 3A -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+add-record -title "FATALE" 4  -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+add-record -title "FATALE" 5  -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+add-record -title "FATALE" 5  -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+add-record -title "FATALE" 6  -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+add-record -title "FATALE" 7  -price 2.1 -status CLOSED -bought $true -site fp -seller fp
+
+add-record -title "MERCENARY SEA" 3 -price 2.2 -status CLOSED -bought $true -site fp -seller fp
+
+add-record -title VELVET 1b -price 2.2 -status CLOSED -bought $true -site fp -seller fp
+add-record -title VELVET 2a -price 2.2 -status CLOSED -bought $true -site fp -seller fp
+add-record -title VELVET 4 -price 2.2 -status CLOSED -bought $true -site fp -seller fp

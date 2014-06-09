@@ -64,7 +64,9 @@ function get-comicbookshopdata()
   
       $record| Add-Member -type NoteProperty -name url -value $results[$counter].title.href
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
-      $variant= $results[$counter].title.text
+      
+      #some encoding to sort
+      $variant= ($results[$counter].title.text).replace("\u0026","&")
       $temp=$results[$counter].title.text
       $id=$temp.split(" ")[0]
       $temp=$temp.Replace("$id ","")

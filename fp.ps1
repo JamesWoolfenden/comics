@@ -60,19 +60,37 @@ function get-fpdata()
    While($counter -ne $results.count)
    {
       $record= New-Object System.Object
-      
-      $record| Add-Member -type NoteProperty -name url -value $results[$counter].price.href[1]
-      $record| Add-Member -type NoteProperty -name orderdate -value $results[$counter].orderdate.replace("before ","")
-      $record| Add-Member -type NoteProperty -name title -value $title
-
-      if ($results[$counter].title.text.Contains("#"))
+      write-debug "Counter $counter"
+      if (($results[$counter].price[0] -eq "Pre-order") -or ($results[$counter].price[0] -eq "Web Price"))
       {
-         $rawissue=$results[$counter].title.text.split("#")[1]
+         $url=$null
+         $price=$results[$counter].price[1]
+         if ($results[$counter].title.Contains("#"))
+         {
+            $rawissue=$results[$counter].title.split("#")[1]
+         }
+         else
+         {
+            $rawissue=$results[$counter].title
+         }
       }
       else
-      {
-         $rawissue=$results[$counter].title.text
+      {   
+         $url=$results[$counter].price.href[1] 
+         $price=$results[$counter].price.text[1] 
+         if ($results[$counter].title.text.Contains("#"))
+         {
+            $rawissue=$results[$counter].title.text.split("#")[1]
+         }
+         else
+         {
+            $rawissue=$results[$counter].title.text
+         }
       }
+
+      $record| Add-Member -type NoteProperty -name url -value $url
+      $record| Add-Member -type NoteProperty -name orderdate -value $results[$counter].orderdate.replace("before ","")
+      $record| Add-Member -type NoteProperty -name title -value $title
 
       if ($rawissue.Contains("("))
       {
@@ -88,8 +106,8 @@ function get-fpdata()
 
       $record| Add-Member -type NoteProperty -name issue -value $issue
       $record| Add-Member -type NoteProperty -name variant -value $variant
-      $record| Add-Member -type NoteProperty -name price -value $results[$counter].price.text[1]
-      $record| Add-Member -type NoteProperty -name rundate -value $fpraw.lastsuccess
+      $record| Add-Member -type NoteProperty -name price -value $price
+      $record| Add-Member -type NoteProperty -name rundate -value $fpresults.lastsuccess
       $record| Add-Member -type NoteProperty -name site -value "Forbidden Planet"
       
       $fp+=$record

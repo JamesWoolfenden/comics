@@ -70,7 +70,7 @@ function get-closeencountersdata()
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
 
-      $variant=(($results[$counter].title.text).ToUpper()).Replace("$title ","")
+      $variant=(($results[$counter].title.text).ToUpper()).Replace("$title ","").replace("\u0026","&")
       $temp=$variant.Split(" ")
       $record| Add-Member -type NoteProperty -name issue -value $temp[0]
       $record| Add-Member -type NoteProperty -name variant -value $variant
