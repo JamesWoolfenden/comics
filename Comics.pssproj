@@ -43,6 +43,7 @@
     <Compile Include="search-data.ps1" />
     <Compile Include="show-image.ps1" />
     <Compile Include="split-set.ps1" />
+    <Compile Include="todo.txt" />
   </ItemGroup>
   <ItemGroup>
     <Content Include=".\ebayrsspowershellmodule\*.*" />

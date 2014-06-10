@@ -1,6 +1,6 @@
 
-1.save estimated price at import time.
-2, revist import/revuiew to just look at postage and issues- reduce human in input
+1. save estimated price at import time.
+2. revist import/revuiew to just look at postage and issues- reduce human in input
 rework in Node.js, output to screen list of available new issues
 refactor to use more common code/better code
 include new items/buitnow from ebay/ebid
