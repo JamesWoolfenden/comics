@@ -246,8 +246,7 @@ function update-recordset
   <#
       .SYNOPSIS 
        For reviewing a set of comic records
-	    
-      
+	       
       .PARAMETER title
 	Specifies the comic.
       .PARAMETER Issue
@@ -296,7 +295,7 @@ function update-recordset
    }
    else
    {
-      If ($results.count)
+      If ($results -is [system.array])
       {
          "$($results.count) Records"
       }
@@ -359,8 +358,8 @@ function update-record
          }
          default
          {
-	    $ie=view $($record.ebayitem)
-	 }
+	        $ie=view $($record.ebayitem)
+	     }
       }
    }
    else 
@@ -373,6 +372,7 @@ function update-record
    if ($record.site -eq "ebay")
    {
       $estimate=$ie.Document.getElementByID('fshippingCost').innerText
+     
       if ($record.seller -eq "" -or $record.seller -eq $NULL)
       {
          write-host "Finding seller"
@@ -386,6 +386,7 @@ function update-record
    }
    Else
    {
+      write-debug "Record: $($record.postage)"
       $estimate=$record.postage
       if ($record.site -eq "ebid" -And $record.seller -eq "")
       {
@@ -452,11 +453,9 @@ function update-record
       {
          Write-host "No image data"
       }
-   }
+   }  
    
-   
-   $newquantity  = new-object int 
-   
+   $newquantity  = new-object int    
    $newquantity=1
    
    if ($($record.Quantity) -gt 0)
@@ -501,8 +500,7 @@ function update-record
          $closedpriceestimate = @($ie.Document.body.getElementsByClassName('notranslate vi-VR-cvipPrice'))
          $priceestimate=$closedpriceestimate[0].innerText
       }
-      
-      if ($priceestimate -ne $NULL)
+      else
       {
          $priceestimate=$priceestimate.replace("£","")    
       }
@@ -521,14 +519,41 @@ function update-record
       $price=$record.Price
    }
    
-   $postage=new-object decimal
-   $postage=read-host "Postage: $($record.postage) estimate:$estimate"
-   $postage="{0:N2}" -f $postage
-   if ($postage -eq $NULL -or $postage -eq "")
+   write-debug "Before Estimate $estimate"
+   if ($estimate -notlike $NULL)
    {
-      $postage=$record.Postage
-   }  
-   
+      $estimate=($estimate.Replace("£","")).Replace('$',"")
+   }
+
+   if ($estimate -match "Free")
+   {
+      $estimate=[decimal]0
+   }
+
+   if ($estimate -match "Free")
+   {
+      $estimate=[decimal]0
+   }
+
+   try
+   {     
+      $estimate=[decimal]$estimate 
+      $postage=$estimate
+   }
+   catch
+   {
+      $postage=new-object decimal
+      $postage=read-host "Postage: $($record.postage) estimate:$estimate"
+      $postage="{0:N2}" -f $postage
+    
+      if ($postage -eq $NULL -or $postage -eq "")
+      {
+         $postage=$record.Postage
+      }  
+   }
+
+   write-host "Postage estimate:$estimate"
+
    $TCO ="{0:N2}" -f ([decimal]$postage+[decimal]$price)/$newquantity
    write-host "TCO per issue $TCO" -foregroundcolor cyan
    
@@ -781,7 +806,7 @@ function get-records()
    $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed'|where {$_.BidCount -eq "0"}
    if ($expiredresult)
    {
-      write-host "Expired results" -foregroundcolor red
+      write-host "Expired results" -foregroundcolor cyan
       add-array $expiredresult -title "$comictitle" -issue 0 -Status Expired
    }
    
