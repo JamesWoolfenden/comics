@@ -51,6 +51,7 @@
     <Content Include="comicbookshop.ps1" />
     <Content Include="reed.ps1" />
     <Content Include="comicbookstore.ps1" />
+    <Content Include="review.ps1" />
     <Content Include="samples.ps1" />
     <Content Include="scanner.ps1" />
   </ItemGroup>
@@ -92,6 +93,7 @@
     <Folder Include="covers\2000AD\1746\" />
     <Folder Include="covers\2000AD\1747\" />
     <Folder Include="covers\2000AD\1754\" />
+    <Folder Include="covers\2000AD\1755\" />
     <Folder Include="covers\2000AD\1756\" />
     <Folder Include="covers\2000AD\1757\" />
     <Folder Include="covers\2000AD\1760\" />
@@ -168,6 +170,9 @@
     <Folder Include="covers\ALEX-ADA\4\" />
     <Folder Include="covers\ALEX-ADA\5\" />
     <Folder Include="covers\ALEX-ADA\6\" />
+    <Folder Include="covers\ALEX-ADA\7\" />
+    <Folder Include="covers\AMAZING-SPIDERMAN\" />
+    <Folder Include="covers\AMAZING-SPIDERMAN\143\" />
     <Folder Include="covers\BEDLAM\" />
     <Folder Include="covers\BEFORE-WATCHMEN\" />
     <Folder Include="covers\BEST-OF-2000-AD\" />
@@ -241,8 +246,10 @@
     <Folder Include="covers\CLONE\12\" />
     <Folder Include="covers\CLONE\13\" />
     <Folder Include="covers\CLONE\14\" />
+    <Folder Include="covers\CLONE\15\" />
     <Folder Include="covers\CLONE\16\" />
     <Folder Include="covers\CLONE\17\" />
+    <Folder Include="covers\CLONE\18\" />
     <Folder Include="covers\CLONE\1\" />
     <Folder Include="covers\CLONE\2\" />
     <Folder Include="covers\CLONE\3\" />
@@ -250,6 +257,7 @@
     <Folder Include="covers\CLONE\5\" />
     <Folder Include="covers\CLONE\6\" />
     <Folder Include="covers\CLONE\7\" />
+    <Folder Include="covers\CLONE\8\" />
     <Folder Include="covers\CLONE\9\" />
     <Folder Include="covers\COLLIDER\" />
     <Folder Include="covers\COLLIDER\1\" />
@@ -258,6 +266,7 @@
     <Folder Include="covers\CRAP\" />
     <Folder Include="covers\CRAP\19\" />
     <Folder Include="covers\CRAP\1\" />
+    <Folder Include="covers\CRAP\2\" />
     <Folder Include="covers\CRAP\9\" />
     <Folder Include="covers\CREED\" />
     <Folder Include="covers\CREED\1\" />
@@ -290,6 +299,7 @@
     <Folder Include="covers\FATALE\" />
     <Folder Include="covers\FATALE\10\" />
     <Folder Include="covers\FATALE\11\" />
+    <Folder Include="covers\FATALE\12\" />
     <Folder Include="covers\FATALE\13\" />
     <Folder Include="covers\FATALE\14\" />
     <Folder Include="covers\FATALE\15\" />
@@ -301,6 +311,8 @@
     <Folder Include="covers\FATALE\20\" />
     <Folder Include="covers\FATALE\21\" />
     <Folder Include="covers\FATALE\22\" />
+    <Folder Include="covers\FATALE\23\" />
+    <Folder Include="covers\FATALE\24\" />
     <Folder Include="covers\FATALE\2\" />
     <Folder Include="covers\FATALE\3\" />
     <Folder Include="covers\FATALE\4\" />
@@ -309,8 +321,12 @@
     <Folder Include="covers\FATALE\7\" />
     <Folder Include="covers\FATALE\8\" />
     <Folder Include="covers\FATALE\9\" />
+    <Folder Include="covers\FINAL-CRISIS\" />
+    <Folder Include="covers\FINAL-CRISIS\8\" />
     <Folder Include="covers\FIVE-GHOSTS\" />
     <Folder Include="covers\FIVE-GHOSTS\10\" />
+    <Folder Include="covers\FIVE-GHOSTS\11\" />
+    <Folder Include="covers\FIVE-GHOSTS\12\" />
     <Folder Include="covers\FIVE-GHOSTS\1\" />
     <Folder Include="covers\FIVE-GHOSTS\2\" />
     <Folder Include="covers\FIVE-GHOSTS\3\" />
@@ -332,6 +348,8 @@
     <Folder Include="covers\GHOSTED\7\" />
     <Folder Include="covers\GHOSTED\8\" />
     <Folder Include="covers\GHOSTED\9\" />
+    <Folder Include="covers\GREEN-LANTERN\" />
+    <Folder Include="covers\GREEN-LANTERN\1\" />
     <Folder Include="covers\HARVEST\" />
     <Folder Include="covers\HIP-HOP-FAMILY-TREE-\" />
     <Folder Include="covers\HOAX-HUNTERS\" />
@@ -343,6 +361,7 @@
     <Folder Include="covers\IRREDEEMABLE-ANT-MAN\6\" />
     <Folder Include="covers\IRREDEEMABLE-ANT-MAN\7\" />
     <Folder Include="covers\IRREDEEMABLE-ANT-MAN\9\" />
+    <Folder Include="covers\JENNY-SPARKS\" />
     <Folder Include="covers\JUDGE-DREDD-CRIME-FILE\" />
     <Folder Include="covers\JUDGE-DREDD-THE-EARLY-CASES\" />
     <Folder Include="covers\JUDGE-DREDD-THE-EARLY-CASES\1\" />
@@ -400,6 +419,8 @@
     <Folder Include="covers\LAZARUS\7\" />
     <Folder Include="covers\LAZARUS\8\" />
     <Folder Include="covers\LIBERTY-ANNUALS\" />
+    <Folder Include="covers\LIBERTY-ANNUAL\" />
+    <Folder Include="covers\LIBERTY-ANNUAL\2012\" />
     <Folder Include="covers\LIBERTYANUUAL\" />
     <Folder Include="covers\LIBERTYANUUAL\2012\" />
     <Folder Include="covers\LOST-VEGAS\" />
@@ -460,10 +481,13 @@
     <Folder Include="covers\MIND-THE-GAP\7\" />
     <Folder Include="covers\MIND-THE-GAP\8\" />
     <Folder Include="covers\MIND-THE-GAP\9\" />
+    <Folder Include="covers\MIRACLEMAN\" />
+    <Folder Include="covers\MIRACLEMAN\23\" />
     <Folder Include="covers\MORIARTY\" />
     <Folder Include="covers\MORIARTY\6\" />
     <Folder Include="covers\MPH\" />
     <Folder Include="covers\MPH\1\" />
+    <Folder Include="covers\MPH\2\" />
     <Folder Include="covers\NAILBITER\" />
     <Folder Include="covers\NAILBITER\1\" />
     <Folder Include="covers\NAILBITER\2\" />
@@ -532,8 +556,11 @@
     <Folder Include="covers\ROBO-HUNTER\1\" />
     <Folder Include="covers\ROBO-HUNTER\2\" />
     <Folder Include="covers\ROBO-HUNTER\5\" />
+    <Folder Include="covers\SAGA\" />
+    <Folder Include="covers\SAGA\19\" />
     <Folder Include="covers\SCALPED\" />
     <Folder Include="covers\SCALPED\43\" />
+    <Folder Include="covers\SECRET-SIX\" />
     <Folder Include="covers\SECRET\" />
     <Folder Include="covers\SECRET\1\" />
     <Folder Include="covers\SECRET\2\" />
@@ -548,6 +575,7 @@
     <Folder Include="covers\SEX-CRIMINALS\3\" />
     <Folder Include="covers\SEX-CRIMINALS\4\" />
     <Folder Include="covers\SEX-CRIMINALS\5\" />
+    <Folder Include="covers\SEX-CRIMINALS\6\" />
     <Folder Include="covers\SEX\" />
     <Folder Include="covers\SEX\2\" />
     <Folder Include="covers\SE\" />
@@ -567,8 +595,18 @@
     <Folder Include="covers\SOUTHERN-BASTARDS\2\" />
     <Folder Include="covers\SOUTHERN-BASTARDS\3\" />
     <Folder Include="covers\SPAWN\" />
+    <Folder Include="covers\SPIDERMAN\" />
+    <Folder Include="covers\SPIDERMAN\16\" />
+    <Folder Include="covers\SPIDERMAN\1\" />
+    <Folder Include="covers\SPIDERMAN\234\" />
     <Folder Include="covers\STAR-TREK\" />
     <Folder Include="covers\STAR-TREK\34\" />
+    <Folder Include="covers\STAR-WARS\" />
+    <Folder Include="covers\STAR-WARS\10\" />
+    <Folder Include="covers\STAR-WARS\11\" />
+    <Folder Include="covers\STAR-WARS\9\" />
+    <Folder Include="covers\START-WARS\" />
+    <Folder Include="covers\START-WARS\5\" />
     <Folder Include="covers\SWAMP-THING\" />
     <Folder Include="covers\SWAMP-THING\2\" />
     <Folder Include="covers\TEN-GRAND\" />
@@ -599,6 +637,10 @@
     <Folder Include="covers\THE-FUSE\4\" />
     <Folder Include="covers\THE-INFINITE\" />
     <Folder Include="covers\THE-INFINITE\1\" />
+    <Folder Include="covers\THE-SECRET-DEFENDERS\" />
+    <Folder Include="covers\THE-SECRET-DEFENDERS\10\" />
+    <Folder Include="covers\THE-STRAIN\" />
+    <Folder Include="covers\THE-STRAIN\1\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\10\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\11\" />
@@ -837,6 +879,7 @@
     <Folder Include="covers\VELVET\4\" />
     <Folder Include="covers\VELVET\5\" />
     <Folder Include="covers\WAKE-THE-DEAD\" />
+    <Folder Include="covers\WAKE-THE-DEAD\1\" />
     <Folder Include="covers\WAKE-THE-DEAD\3\" />
     <Folder Include="covers\WARRIOR\" />
     <Folder Include="covers\WARRIOR\10\" />
