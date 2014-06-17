@@ -12,7 +12,7 @@ function get-gurudata()
    write-Host "Looking for $title @ `"The Comic Guru`""
   
 <# Postage
-   1X  £3.50  1.00
+   1X  £3.50  3.50
    2X  £3.65  1.825
    3X  £3.80  1.27
    4X  £3.95  0.99 

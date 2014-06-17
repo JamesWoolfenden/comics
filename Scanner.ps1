@@ -8,6 +8,7 @@ import-module "$root\guru.ps1"  -force
 import-module "$root\reed.ps1" -force
 import-module "$root\comicbookshop.ps1" -force
 import-Module "$root\disposableheroes.ps1" -force
+import-Module "$root\comicbiz.ps1" -force
 
 function get-market
 {
@@ -23,6 +24,8 @@ function get-market
    get-closeencountersdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json"
    get-fpdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)fp.json"
    get-reeddata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)reed.json"
+   get-comicbizdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbiz.json"
+
    
    if ($alttitle -ne "")
    {
@@ -44,12 +47,12 @@ function get-market
 }
 
 
-get-market -title "The Walking Dead" -productcode "2140" -alttitle "Walking Dead"
-get-market -title "Manifest Destiny"
-get-market -title "Sex Criminals" -productcode "16547"
+get-market -title "THE WALKING DEAD" -productcode "2140" -alttitle "WALKING DEAD"
+get-market -title "MANIFEST DESTINY"
+get-market -title "SEX CRIMINALS" -productcode "16547"
 get-market -title "CHEW" -productcode "12622"
-get-market -title "Nailbiter" -productcode "17108"
-get-market -title "Manhattan Projects" -productcode "15087"
+get-market -title "NAILBITER" -productcode "17108"
+get-market -title "MANHATTAN PROJECTS" -productcode "15087"
 get-market -title "CLONE" -productcode "15777"
 get-market -title "DEADLY CLASS" -productcode "16834"
 get-market -title "JUPITERS LEGACY"  -productcode "16143"
@@ -71,3 +74,6 @@ get-market -title "MPH" -productcode "17137"
 get-market -title "SPREAD" 
 get-market -title "FADE OUT"
 get-market -title "IMPERIAL"
+get-market -title "RAT QUEENS" -productcode "16545"
+get-market -title "ALEX ADA" 
+

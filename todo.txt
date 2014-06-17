@@ -4,3 +4,5 @@
 rework in Node.js, output to screen list of available new issues
 refactor to use more common code/better code
 include new items/buitnow from ebay/ebid
+function to see if same object has been set for sale
+create inventory of others

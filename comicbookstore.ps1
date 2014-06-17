@@ -18,7 +18,7 @@ function get-comicbookstoredata()
    write-Host "Looking for $title @ `"The Comic Book Store`""
   
 <# Postage
-   1X  x x
+   1X  £1.23 1.23
    2X  x x
    3X  x x
    4X  x x
