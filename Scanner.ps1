@@ -24,7 +24,7 @@ function get-market
    get-closeencountersdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json"
    get-fpdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)fp.json"
    get-reeddata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)reed.json"
-   get-comicbizdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbiz.json"
+   #get-comicbizdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbiz.json"
 
    
    if ($alttitle -ne "")
@@ -76,4 +76,5 @@ get-market -title "FADE OUT"
 get-market -title "IMPERIAL"
 get-market -title "RAT QUEENS" -productcode "16545"
 get-market -title "ALEX ADA" 
+get-market -title "WICKED DIVINE" 
 
