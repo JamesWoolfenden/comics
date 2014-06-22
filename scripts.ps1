@@ -5,7 +5,7 @@ $root=split-path -parent  $corescript
 $dbfile="$root\data.XML"
 $imageroot= "$root\covers"
 
-import-module "$root\EbayRssPowershellModule\EbayRssPowershellModule.psm1" -force
+import-module "$root\rss\EbayRssPowershellModule.psm1" -force
 import-module "$root\database.ps1"
 import-module "$root\split-set.ps1"
 import-module "$root\show-image.ps1"

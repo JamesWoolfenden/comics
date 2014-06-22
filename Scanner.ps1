@@ -20,29 +20,29 @@ function get-market
    $allrecords=@()
    $filetitle=$title.replace(" ","")
    
-   get-dhdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json"
-   get-closeencountersdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json"
-   get-fpdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)fp.json"
-   get-reeddata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)reed.json"
-   #get-comicbizdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbiz.json"
+   get-dhdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json" -Encoding ascii
+   get-closeencountersdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json" -Encoding ascii
+   get-fpdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)fp.json" -Encoding ascii
+   get-reeddata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)reed.json" -Encoding ascii
+   #get-comicbizdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbiz.json" 
 
    
    if ($alttitle -ne "")
    {
       write-Host "Using Alternative title $alttitle"
-      get-comicbookshopdata  -title $alttitle |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookshop.json"
-      get-comicbookstoredata -title $alttitle |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookstore.json"
+      get-comicbookshopdata  -title $alttitle |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookshop.json" -Encoding ascii
+      get-comicbookstoredata -title $alttitle |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookstore.json" -Encoding ascii
    }
    else
    {
       write-Host "Using Original title $title"
-      get-comicbookshopdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookshop.json"
-      get-comicbookstoredata -title  $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookstore.json"
+      get-comicbookshopdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookshop.json" -Encoding ascii
+      get-comicbookstoredata -title  $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookstore.json" -Encoding ascii
    }
    
    If ($productcode -ne "")
    {
-      get-gurudata -title $title -productcode $productcode |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)guru.json"
+      get-gurudata -title $title -productcode $productcode |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)guru.json" -Encoding ascii
    }
 }
 
@@ -77,4 +77,3 @@ get-market -title "IMPERIAL"
 get-market -title "RAT QUEENS" -productcode "16545"
 get-market -title "ALEX ADA" 
 get-market -title "WICKED DIVINE" 
-

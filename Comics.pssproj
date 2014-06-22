@@ -31,6 +31,8 @@
     <Compile Include=".gitignore" />
     <Compile Include="comicbiz.ps1" />
     <Compile Include="DisposableHeroes.ps1" />
+    <Compile Include="rss\EbayRssPowershellModule.psd1" />
+    <Compile Include="rss\EbayRssPowershellModule.psm1" />
     <Compile Include="Excel\comics.xls" />
     <Compile Include="Excel\comics2.xls" />
     <Compile Include="core.ps1" />
@@ -38,7 +40,10 @@
     <Compile Include="Document2.txt" />
     <Compile Include="form.ps1" />
     <Compile Include="fp.ps1" />
+    <Compile Include="rss\Get-EbayRssItems.ps1" />
+    <Compile Include="rss\Get-RssContent.ps1" />
     <Compile Include="guru.ps1" />
+    <Compile Include="rss\Parse-ListingInfo.ps1" />
     <Compile Include="scripts.ps1" />
     <Compile Include="search-data.json" />
     <Compile Include="search-data.ps1" />
@@ -47,7 +52,13 @@
     <Compile Include="todo.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include=".\ebayrsspowershellmodule\*.*" />
+    <Content Include=".\ebayrsspowershellmodule\Build-Url.ps1" />
+    <Content Include=".\ebayrsspowershellmodule\EbayRssPowershellModule.psd1" />
+    <Content Include=".\ebayrsspowershellmodule\EbayRssPowershellModule.psm1" />
+    <Content Include=".\ebayrsspowershellmodule\Get-EbayRssItems.ps1" />
+    <Content Include=".\ebayrsspowershellmodule\Get-RssContent.ps1" />
+    <Content Include=".\ebayrsspowershellmodule\Parse-ListingInfo.ps1" />
+    <Content Include=".\ebayrsspowershellmodule\readme.txt" />
     <Content Include=".\covers\**\*.*" />
     <Content Include="comicbookshop.ps1" />
     <Content Include="reed.ps1" />
@@ -68,12 +79,14 @@
     <Folder Include="covers\2000AD-PRESENTS\" />
     <Folder Include="covers\2000AD-PRESENTS\12\" />
     <Folder Include="covers\2000AD-PRESENTS\14\" />
+    <Folder Include="covers\2000AD-PRESENTS\8\" />
     <Folder Include="covers\2000AD\" />
     <Folder Include="covers\2000AD\1009\" />
     <Folder Include="covers\2000AD\1010\" />
     <Folder Include="covers\2000AD\1031\" />
     <Folder Include="covers\2000AD\1041\" />
     <Folder Include="covers\2000AD\1044\" />
+    <Folder Include="covers\2000AD\10\" />
     <Folder Include="covers\2000AD\1150\" />
     <Folder Include="covers\2000AD\118\" />
     <Folder Include="covers\2000AD\1702\" />
@@ -90,6 +103,7 @@
     <Folder Include="covers\2000AD\1721\" />
     <Folder Include="covers\2000AD\1723\" />
     <Folder Include="covers\2000AD\1726\" />
+    <Folder Include="covers\2000AD\1742\" />
     <Folder Include="covers\2000AD\1745\" />
     <Folder Include="covers\2000AD\1746\" />
     <Folder Include="covers\2000AD\1747\" />
@@ -182,6 +196,7 @@
     <Folder Include="covers\BEFORE-WATCHMEN\" />
     <Folder Include="covers\BEST-OF-2000-AD\" />
     <Folder Include="covers\BEST-OF-2000-AD\28\" />
+    <Folder Include="covers\BEST-OF-2000-AD\41\" />
     <Folder Include="covers\BRASS-SUN\" />
     <Folder Include="covers\BRASS-SUN\1\" />
     <Folder Include="covers\BRIT\" />
@@ -198,11 +213,18 @@
     <Folder Include="covers\BURN-THE-ORPHANAGE\2\" />
     <Folder Include="covers\BURN-THE-ORPHANAGE\3\" />
     <Folder Include="covers\BUSHIDO\" />
+    <Folder Include="covers\CAMELOT\" />
+    <Folder Include="covers\CAMELOT\1\" />
     <Folder Include="covers\CASANOVA\" />
+    <Folder Include="covers\CASANOVA\10\" />
+    <Folder Include="covers\CASANOVA\11\" />
+    <Folder Include="covers\CASANOVA\13\" />
     <Folder Include="covers\CASANOVA\1\" />
     <Folder Include="covers\CASANOVA\2\" />
     <Folder Include="covers\CASANOVA\3\" />
+    <Folder Include="covers\CASANOVA\4\" />
     <Folder Include="covers\CASANOVA\8\" />
+    <Folder Include="covers\CASANOVA\9\" />
     <Folder Include="covers\CBLDF\" />
     <Folder Include="covers\CBLDF\2012\" />
     <Folder Include="covers\CHEW-SECRET-AGENT-POYO\" />
@@ -225,6 +247,7 @@
     <Folder Include="covers\CHEW\25\" />
     <Folder Include="covers\CHEW\26\" />
     <Folder Include="covers\CHEW\27\" />
+    <Folder Include="covers\CHEW\28\" />
     <Folder Include="covers\CHEW\29\" />
     <Folder Include="covers\CHEW\2\" />
     <Folder Include="covers\CHEW\30\" />
@@ -245,6 +268,7 @@
     <Folder Include="covers\CHEW\5\" />
     <Folder Include="covers\CHEW\6\" />
     <Folder Include="covers\CHEW\7\" />
+    <Folder Include="covers\CHEW\8\" />
     <Folder Include="covers\CHEW\9\" />
     <Folder Include="covers\CLONE\" />
     <Folder Include="covers\CLONE\10\" />
@@ -269,6 +293,7 @@
     <Folder Include="covers\COLLIDER\1\" />
     <Folder Include="covers\COWL\" />
     <Folder Include="covers\COWL\1\" />
+    <Folder Include="covers\COWL\2\" />
     <Folder Include="covers\CRAP\" />
     <Folder Include="covers\CRAP\19\" />
     <Folder Include="covers\CRAP\1\" />
@@ -306,8 +331,11 @@
     <Folder Include="covers\DEADLY-CLASS\5\" />
     <Folder Include="covers\DEADLY-CLASS\6\" />
     <Folder Include="covers\DESOLATION-JONES\" />
+    <Folder Include="covers\dream-merchant\" />
+    <Folder Include="covers\dream-merchant\2\" />
     <Folder Include="covers\EAST-OF-WEST\" />
     <Folder Include="covers\EAST-OF-WEST\11\" />
+    <Folder Include="covers\EAST-OF-WEST\12\" />
     <Folder Include="covers\EAST-OF-WEST\1\" />
     <Folder Include="covers\EAST-OF-WEST\5\" />
     <Folder Include="covers\EAST-OF-WEST\8\" />
@@ -399,6 +427,8 @@
     <Folder Include="covers\IRREDEEMABLE-ANT-MAN\9\" />
     <Folder Include="covers\JENNY-SPARKS\" />
     <Folder Include="covers\JUDGE-DREDD-CRIME-FILE\" />
+    <Folder Include="covers\JUDGE-DREDD-CRIME-FILE\1\" />
+    <Folder Include="covers\JUDGE-DREDD-CRIME-FILE\5\" />
     <Folder Include="covers\JUDGE-DREDD-THE-EARLY-CASES\" />
     <Folder Include="covers\JUDGE-DREDD-THE-EARLY-CASES\1\" />
     <Folder Include="covers\JUDGE-DREDD\" />
@@ -486,6 +516,7 @@
     <Folder Include="covers\MANHATTAN-PROJECTS\1\" />
     <Folder Include="covers\MANHATTAN-PROJECTS\20\" />
     <Folder Include="covers\MANHATTAN-PROJECTS\21\" />
+    <Folder Include="covers\MANHATTAN-PROJECTS\22\" />
     <Folder Include="covers\MANHATTAN-PROJECTS\2\" />
     <Folder Include="covers\MANHATTAN-PROJECTS\3\" />
     <Folder Include="covers\MANHATTAN-PROJECTS\4\" />
@@ -509,6 +540,7 @@
     <Folder Include="covers\MERCENARY-SEA\2\" />
     <Folder Include="covers\MERCENARY-SEA\3\" />
     <Folder Include="covers\MERCENARY-SEA\4\" />
+    <Folder Include="covers\MERCENARY-SEA\5\" />
     <Folder Include="covers\MINATURE-JESUS\" />
     <Folder Include="covers\MIND-THE-GAP\" />
     <Folder Include="covers\MIND-THE-GAP\10\" />
@@ -539,9 +571,11 @@
     <Folder Include="covers\NAILBITER\1\" />
     <Folder Include="covers\NAILBITER\2\" />
     <Folder Include="covers\NAILBITER\3\" />
+    <Folder Include="covers\NEMESIS-THE-WARLOCK\" />
     <Folder Include="covers\NUMBER-CRUNCHER\" />
     <Folder Include="covers\OUTCAST\" />
     <Folder Include="covers\OUTCAST\1\" />
+    <Folder Include="covers\OUTCAST\2\" />
     <Folder Include="covers\PETER-PANZERFAUST\" />
     <Folder Include="covers\PETER-PANZERFAUST\10\" />
     <Folder Include="covers\PETER-PANZERFAUST\11\" />
@@ -575,6 +609,7 @@
     <Folder Include="covers\RAT-QUEENS\3\" />
     <Folder Include="covers\RAT-QUEENS\5\" />
     <Folder Include="covers\RAT-QUEENS\6\" />
+    <Folder Include="covers\RAT-QUEENS\7\" />
     <Folder Include="covers\REALITY-CHECK\" />
     <Folder Include="covers\REALITY-CHECK\1\" />
     <Folder Include="covers\RED-RAZORS\" />
@@ -650,6 +685,8 @@
     <Folder Include="covers\SE\" />
     <Folder Include="covers\SE\8\" />
     <Folder Include="covers\SHELTERED\" />
+    <Folder Include="covers\SHELTERED\10\" />
+    <Folder Include="covers\SHELTERED\11\" />
     <Folder Include="covers\SHELTERED\1\" />
     <Folder Include="covers\SHELTERED\2\" />
     <Folder Include="covers\SHELTERED\3\" />
@@ -689,6 +726,7 @@
     <Folder Include="covers\STAR-WARS\9\" />
     <Folder Include="covers\START-WARS\" />
     <Folder Include="covers\START-WARS\5\" />
+    <Folder Include="covers\STRONTIUM-DOG\" />
     <Folder Include="covers\SWAMP-THING\" />
     <Folder Include="covers\SWAMP-THING\2\" />
     <Folder Include="covers\TEEN-TITANS\" />
@@ -730,6 +768,7 @@
     <Folder Include="covers\THE-INFINITE\" />
     <Folder Include="covers\THE-INFINITE\1\" />
     <Folder Include="covers\THE-NIGHTLY-NEWS\" />
+    <Folder Include="covers\THE-NIGHTLY-NEWS\1\" />
     <Folder Include="covers\THE-OCCULTIST\" />
     <Folder Include="covers\THE-OCCULTIST\1\" />
     <Folder Include="covers\THE-SECRET-DEFENDERS\" />
@@ -737,6 +776,8 @@
     <Folder Include="covers\THE-SECRET-SOCIETY-OF-SUPER-VILLIANS\" />
     <Folder Include="covers\The-sinners-1\" />
     <Folder Include="covers\The-sinners-1\1\" />
+    <Folder Include="covers\THE-SINNERS\" />
+    <Folder Include="covers\THE-SINNERS\1\" />
     <Folder Include="covers\THE-STRAIN\" />
     <Folder Include="covers\THE-STRAIN\1\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\" />
@@ -760,6 +801,7 @@
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\30\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\31\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\34\" />
+    <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\37\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\38\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\3\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\40\" />
@@ -908,6 +950,8 @@
     <Folder Include="covers\THE-WALKING-DEAD\98\" />
     <Folder Include="covers\THE-WALKING-DEAD\99\" />
     <Folder Include="covers\THE-WALKING-DEAD\9\" />
+    <Folder Include="covers\THE-WICKED-THE-DIVINE\" />
+    <Folder Include="covers\THE-WICKED-THE-DIVINE\1\" />
     <Folder Include="covers\THIEF-OF-THIEVES\" />
     <Folder Include="covers\THIEF-OF-THIEVES\10\" />
     <Folder Include="covers\THIEF-OF-THIEVES\11\" />
@@ -1015,7 +1059,9 @@
     <Folder Include="covers\WATCHMEN\12\" />
     <Folder Include="covers\WATCHMEN\1\" />
     <Folder Include="covers\WATCHMEN\2\" />
+    <Folder Include="covers\WATCHMEN\3\" />
     <Folder Include="covers\WATCHMEN\4\" />
+    <Folder Include="covers\WATCHMEN\5\" />
     <Folder Include="covers\WATCHMEN\6\" />
     <Folder Include="covers\WATCHMEN\7\" />
     <Folder Include="covers\WATCHMEN\8\" />
@@ -1023,8 +1069,8 @@
     <Folder Include="covers\X-MEN\" />
     <Folder Include="covers\X-MEN\3\" />
     <Folder Include="covers\ZOMBIE-WORLD\" />
-    <Folder Include="ebayrsspowershellmodule\" />
     <Folder Include="Excel\" />
+    <Folder Include="rss\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Target Name="Build" />

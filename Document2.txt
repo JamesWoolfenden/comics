@@ -31,7 +31,7 @@ get-allrecords -title "THE FIELD"  -exclude "Orchid Avengers iron herobear nun s
 get-allrecords -title "THE FUSE" -include "image" -exclude "pop airboy blows"
 get-allrecords -title "THE WALKING DEAD WEEKLY" -exclude "brit paperback chew volume dinosaur world monopoly Marvel "
 get-allrecords -title "THE WALKING DEAD" -exclude "brit Haunt Nowhere Zombie FANBOYS clone FIGURE Mocking invincible THIEF Ashcan Astounding hatter Variant Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly Marvel"
-get-allrecords -title "THE WALKING DEAD" -include "brit Variant" -exclude "Haunt Nowhere Zombie FANBOYS clone FIGURE Mocking invincible Ashcan hatter Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly Marvel"
+get-allrecords -title "THE WALKING DEAD" -include "Variant" -exclude "brit Haunt Nowhere Zombie FANBOYS clone FIGURE Mocking invincible Ashcan hatter Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly Marvel"
 get-allrecords -title "THIEF OF THIEVES" -Exclude "Super walking chew tpb VOL"
 get-allrecords -title "THINK TANK" -exclude "fantastic Daredevil"
 get-allrecords -title "THE NIGHTLY NEWS" -include "image" -exclude "Lurkers"
