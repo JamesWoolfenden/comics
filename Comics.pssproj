@@ -52,13 +52,6 @@
     <Compile Include="todo.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include=".\ebayrsspowershellmodule\Build-Url.ps1" />
-    <Content Include=".\ebayrsspowershellmodule\EbayRssPowershellModule.psd1" />
-    <Content Include=".\ebayrsspowershellmodule\EbayRssPowershellModule.psm1" />
-    <Content Include=".\ebayrsspowershellmodule\Get-EbayRssItems.ps1" />
-    <Content Include=".\ebayrsspowershellmodule\Get-RssContent.ps1" />
-    <Content Include=".\ebayrsspowershellmodule\Parse-ListingInfo.ps1" />
-    <Content Include=".\ebayrsspowershellmodule\readme.txt" />
     <Content Include=".\covers\**\*.*" />
     <Content Include="comicbookshop.ps1" />
     <Content Include="reed.ps1" />
@@ -572,6 +565,7 @@
     <Folder Include="covers\NAILBITER\2\" />
     <Folder Include="covers\NAILBITER\3\" />
     <Folder Include="covers\NEMESIS-THE-WARLOCK\" />
+    <Folder Include="covers\NEMESIS-THE-WARLOCK\4\" />
     <Folder Include="covers\NUMBER-CRUNCHER\" />
     <Folder Include="covers\OUTCAST\" />
     <Folder Include="covers\OUTCAST\1\" />
