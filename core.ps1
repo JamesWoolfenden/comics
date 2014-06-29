@@ -1,4 +1,3 @@
-
 function scan
 {
    <#
@@ -72,6 +71,14 @@ function clean-records
 
 function combine-data
 {
+<#
+      .SYNOPSIS 
+       combine market feed results
+	    
+      .EXAMPLE
+      C:\PS> combine-date $title
+
+   #>
    param([string]$title)
 
    $filetitle=$title.replace(" ","")
