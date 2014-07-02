@@ -18,10 +18,11 @@ function scan
         $search.comictitle="$($search.title)"
      }
 
-     Write-Host "Finding $($search.title)" -ForegroundColor cyan
+     Write-Host "`nFinding $($search.title)" -ForegroundColor cyan
      Write-debug "get-allrecords -title $($search.title) -include $($search.include)  -exclude $($search.exclude) -comictitle $($search.comictitle)"
      get-allrecords -title "$($search.title)" -include "$($search.include)"  -exclude "$($search.exclude)" -comictitle "$($search.comictitle)"
-     Write-Host "Complete." -ForegroundColor cyan
+     write-host ""
+     Write-debug "Complete."
    }
 }
 

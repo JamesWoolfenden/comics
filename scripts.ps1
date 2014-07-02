@@ -91,6 +91,7 @@ function add-array()
                 $AuctionType="Mixed"
              }
              
+             Write-Host ""
              Write-host "Adding " -nonewline
              Write-host "$($set.Ebayitem)" -foregroundcolor red
              add-record -title $title -issue $issue -price $set.CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
@@ -104,26 +105,25 @@ function add-array()
               if ($status -ne "Closed")
               {
                  update-db -ebayitem $set.Ebayitem -status $status -price $set.CurrentPrice
-                 Write-host "Updating " -nonewline
-                 Write-host "$($set.Ebayitem)" -foregroundcolor green
+                 Write-host "`rUpdating $($set.Ebayitem)" -foregroundcolor green  -NoNewline 
               }
               else
               {
                  update-db -ebayitem $set.Ebayitem -status $status  -price $set.CurrentPrice
-                 Write-host "Closing " -nonewline 
-                 write-host "$($set.Ebayitem)" -foregroundcolor green
-              }              
+                 Write-host "`rClosing $($set.Ebayitem)"  -NoNewline 
+              }            
+                
           }
       }
       
       if ($count)
       {
-         "Added $count record(s)"
+         "`nAdded $count record(s)"
       }         
    }
    Else
    {
-      "None Added"
+      "`nNone Added"
    }   
 }
 
@@ -448,8 +448,7 @@ function add-ebidarray
        }
        else
        {
-          write-host "Skipping " -nonewline
-          write-host "$($set.id)" -foregroundcolor yellow
+          write-host "`rSkipping $($set.id)" -nonewline -foregroundcolor yellow
        }
    }
 }
@@ -510,7 +509,7 @@ function add-ebid
    -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
    -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining  -Seller $seller
       
-   write-host "adding $title $($set.ebayid)"
+   write-host "Adding $title $($set.ebayid)"
 }
 
 function get-records()
@@ -536,7 +535,7 @@ function get-records()
    $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold'|where {$_.BidCount -ne '0'}
    if ($soldresult)
    {
-     write-host "Sold results" -foregroundcolor cyan
+     write-host "`nSold" -foregroundcolor cyan
      add-array $soldresult -title "$comictitle" -issue 0 -Status Closed
    }
    
@@ -545,7 +544,8 @@ function get-records()
    $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed'|where {$_.BidCount -eq "0"}
    if ($expiredresult)
    {
-      write-host "Expired results" -foregroundcolor cyan
+      write-host ""
+      write-host "Expired" -foregroundcolor cyan
       add-array $expiredresult -title "$comictitle" -issue 0 -Status Expired
    }
    
@@ -553,7 +553,8 @@ function get-records()
    $result=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'Open'
    if ($result)
    {
-      write-host "Open results" -foregroundcolor green
+      write-host ""
+      write-debug "Open" 
       add-array $result -title "$comictitle" -issue 0
    }
 }
@@ -654,8 +655,7 @@ function get-ebidrecords()
       else
       {
          $stringinclude=$NULL
-   }
-   
+   }  
    
    $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
    write-debug "Querying ebid $url"
