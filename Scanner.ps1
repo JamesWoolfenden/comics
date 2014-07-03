@@ -20,30 +20,33 @@ function get-market
    $allrecords=@()
    $filetitle=$title.replace(" ","")
    
-   get-dhdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json" -Encoding ascii
-   get-closeencountersdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)closeencounter.json" -Encoding ascii
-   get-fpdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)fp.json" -Encoding ascii
-   get-reeddata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)reed.json" -Encoding ascii
-   #get-comicbizdata -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbiz.json" 
+   $allrecords+=get-dhdata -title $title
+   $allrecords+=get-closeencountersdata -title $title 
+   $allrecords+=get-fpdata  -title $title  
+   $allrecords+=get-reeddata -title $title 
+   #$allrecords+=get-comicbizdata -title $title 
 
    
    if ($alttitle -ne "")
    {
       write-Host "Using Alternative title $alttitle"
-      get-comicbookshopdata  -title $alttitle |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookshop.json" -Encoding ascii
-      get-comicbookstoredata -title $alttitle |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookstore.json" -Encoding ascii
+      $allrecords+=get-comicbookshopdata  -title $alttitle 
+      $allrecords+=get-comicbookstoredata -title $alttitle  
    }
    else
    {
       write-Host "Using Original title $title"
-      get-comicbookshopdata  -title $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookshop.json" -Encoding ascii
-      get-comicbookstoredata -title  $title |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)comicbookstore.json" -Encoding ascii
+      $allrecords+=get-comicbookshopdata  -title $title
+      $allrecords+=get-comicbookstoredata -title  $title 
    }
    
    If ($productcode -ne "")
    {
-      get-gurudata -title $title -productcode $productcode |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle)guru.json" -Encoding ascii
+      $allrecords+=get-gurudata -title $title -productcode $productcode
    }
+
+   $allrecords |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle).json" -Encoding ascii
+   #$allrecords |ConvertTo-Json -depth 999 
 }
 
 

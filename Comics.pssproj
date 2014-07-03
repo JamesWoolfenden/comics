@@ -100,6 +100,7 @@
     <Folder Include="covers\2000AD\1745\" />
     <Folder Include="covers\2000AD\1746\" />
     <Folder Include="covers\2000AD\1747\" />
+    <Folder Include="covers\2000AD\1752\" />
     <Folder Include="covers\2000AD\1754\" />
     <Folder Include="covers\2000AD\1755\" />
     <Folder Include="covers\2000AD\1756\" />
@@ -150,6 +151,7 @@
     <Folder Include="covers\2000AD\1880\" />
     <Folder Include="covers\2000AD\1881\" />
     <Folder Include="covers\2000AD\1885\" />
+    <Folder Include="covers\2000AD\1886\" />
     <Folder Include="covers\2000AD\1979\" />
     <Folder Include="covers\2000AD\1980\" />
     <Folder Include="covers\2000AD\1981\" />
@@ -273,6 +275,7 @@
     <Folder Include="covers\CLONE\16\" />
     <Folder Include="covers\CLONE\17\" />
     <Folder Include="covers\CLONE\18\" />
+    <Folder Include="covers\CLONE\19\" />
     <Folder Include="covers\CLONE\1\" />
     <Folder Include="covers\CLONE\2\" />
     <Folder Include="covers\CLONE\3\" />
@@ -324,6 +327,8 @@
     <Folder Include="covers\DEADLY-CLASS\5\" />
     <Folder Include="covers\DEADLY-CLASS\6\" />
     <Folder Include="covers\DESOLATION-JONES\" />
+    <Folder Include="covers\destroyer\" />
+    <Folder Include="covers\destroyer\5\" />
     <Folder Include="covers\dream-merchant\" />
     <Folder Include="covers\dream-merchant\2\" />
     <Folder Include="covers\EAST-OF-WEST\" />
@@ -414,6 +419,8 @@
     <Folder Include="covers\IRREDEEMABLE-ANT-MAN\" />
     <Folder Include="covers\IRREDEEMABLE-ANT-MAN\10\" />
     <Folder Include="covers\IRREDEEMABLE-ANT-MAN\11\" />
+    <Folder Include="covers\IRREDEEMABLE-ANT-MAN\1\" />
+    <Folder Include="covers\IRREDEEMABLE-ANT-MAN\2\" />
     <Folder Include="covers\IRREDEEMABLE-ANT-MAN\5\" />
     <Folder Include="covers\IRREDEEMABLE-ANT-MAN\6\" />
     <Folder Include="covers\IRREDEEMABLE-ANT-MAN\7\" />
@@ -525,6 +532,7 @@
     <Folder Include="covers\MANIFEST-DESTINY\5\" />
     <Folder Include="covers\MANIFEST-DESTINY\6\" />
     <Folder Include="covers\MANIFEST-DESTINY\7\" />
+    <Folder Include="covers\MANIFEST-DESTINY\8\" />
     <Folder Include="covers\MARTIAN-MANHUNTER\" />
     <Folder Include="covers\MARTIAN-MANHUNTER\1\" />
     <Folder Include="covers\MARTIAN-MANHUNTER\2\" />
@@ -564,6 +572,7 @@
     <Folder Include="covers\NAILBITER\1\" />
     <Folder Include="covers\NAILBITER\2\" />
     <Folder Include="covers\NAILBITER\3\" />
+    <Folder Include="covers\NAILBITER\4\" />
     <Folder Include="covers\NEMESIS-THE-WARLOCK\" />
     <Folder Include="covers\NEMESIS-THE-WARLOCK\4\" />
     <Folder Include="covers\NUMBER-CRUNCHER\" />
@@ -601,6 +610,7 @@
     <Folder Include="covers\RAT-QUEENS\1\" />
     <Folder Include="covers\RAT-QUEENS\2\" />
     <Folder Include="covers\RAT-QUEENS\3\" />
+    <Folder Include="covers\RAT-QUEENS\4\" />
     <Folder Include="covers\RAT-QUEENS\5\" />
     <Folder Include="covers\RAT-QUEENS\6\" />
     <Folder Include="covers\RAT-QUEENS\7\" />
@@ -690,6 +700,8 @@
     <Folder Include="covers\SHELTERED\7\" />
     <Folder Include="covers\SHELTERED\8\" />
     <Folder Include="covers\SHELTERED\9\" />
+    <Folder Include="covers\SHIMURA-\" />
+    <Folder Include="covers\SHIMURA-\1\" />
     <Folder Include="covers\SLEEPER\" />
     <Folder Include="covers\SLEEPER\10\" />
     <Folder Include="covers\SLEEPER\11\" />
@@ -759,6 +771,7 @@
     <Folder Include="covers\THE-FUSE\2\" />
     <Folder Include="covers\THE-FUSE\3\" />
     <Folder Include="covers\THE-FUSE\4\" />
+    <Folder Include="covers\THE-FUSE\5\" />
     <Folder Include="covers\THE-INFINITE\" />
     <Folder Include="covers\THE-INFINITE\1\" />
     <Folder Include="covers\THE-NIGHTLY-NEWS\" />
@@ -791,15 +804,22 @@
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\26\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\27\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\28\" />
+    <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\29\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\2\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\30\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\31\" />
+    <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\32\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\34\" />
+    <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\35\" />
+    <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\36\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\37\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\38\" />
+    <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\39\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\3\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\40\" />
+    <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\41\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\42\" />
+    <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\43\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\44\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\45\" />
     <Folder Include="covers\THE-WALKING-DEAD-WEEKLY\46\" />
@@ -946,6 +966,7 @@
     <Folder Include="covers\THE-WALKING-DEAD\9\" />
     <Folder Include="covers\THE-WICKED-THE-DIVINE\" />
     <Folder Include="covers\THE-WICKED-THE-DIVINE\1\" />
+    <Folder Include="covers\THE-WICKED-THE-DIVINE\2\" />
     <Folder Include="covers\THIEF-OF-THIEVES\" />
     <Folder Include="covers\THIEF-OF-THIEVES\10\" />
     <Folder Include="covers\THIEF-OF-THIEVES\11\" />
@@ -995,6 +1016,7 @@
     <Folder Include="covers\TREES\1\" />
     <Folder Include="covers\TREES\2\" />
     <Folder Include="covers\TREES\3\" />
+    <Folder Include="covers\TREES\4\" />
     <Folder Include="covers\TURBO-JONES\" />
     <Folder Include="covers\TURBO-JONES\0\" />
     <Folder Include="covers\TURBO-JONES\1\" />
@@ -1003,6 +1025,10 @@
     <Folder Include="covers\V-FOR-VENDETTA\" />
     <Folder Include="covers\V-FOR-VENDETTA\10\" />
     <Folder Include="covers\V-FOR-VENDETTA\1\" />
+    <Folder Include="covers\V-FOR-VENDETTA\20\" />
+    <Folder Include="covers\V-FOR-VENDETTA\23\" />
+    <Folder Include="covers\V-FOR-VENDETTA\24\" />
+    <Folder Include="covers\V-FOR-VENDETTA\25\" />
     <Folder Include="covers\V-FOR-VENDETTA\26\" />
     <Folder Include="covers\V-FOR-VENDETTA\2\" />
     <Folder Include="covers\V-FOR-VENDETTA\3\" />
