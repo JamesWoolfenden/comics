@@ -49,7 +49,7 @@ function get-market
    #$allrecords |ConvertTo-Json -depth 999 
 }
 
-
+get-market -title "ENORMOUS"
 get-market -title "THE WALKING DEAD" -productcode "2140" -alttitle "WALKING DEAD"
 get-market -title "MANIFEST DESTINY"
 get-market -title "SEX CRIMINALS" -productcode "16547"
