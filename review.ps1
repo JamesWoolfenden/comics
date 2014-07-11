@@ -64,7 +64,7 @@ function update-record
 
    $color=found-image  -title $newtitle -issue $record.Issue
    
-   $estimateIssue=set-issue -rawissue $($record.Issue) -rawtitle $($record.Description) -color $color
+   $estimateIssue=set-issue -rawissue $($record.Issue) -rawtitle $($record.Description) -title $newtitle -color $color
 
    $color=found-image  -title $newtitle -issue $estimateIssue
    
@@ -74,6 +74,7 @@ function update-record
    if ($actualIssue -eq "i")
    {
      $actualIssue=get-imagetitle -issue (get-cover $estimateIssue) -title $newtitle
+     write-host "Choose $actualIssue" -ForegroundColor cyan
    }
    
    if ($actualIssue -eq $NULL -or $actualIssue -eq "")
@@ -226,7 +227,13 @@ function update-record
       }
       default
       {
-         $newstatus=$record.status
+         if ($record.status -eq "Open")
+         {
+            $newstatus="VERIFIED"
+         }
+         else{
+            $newstatus=$record.status
+         }
          $watch=$record.watch
       }
    }
@@ -236,8 +243,6 @@ function update-record
 
    update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity -seller $seller -watch $watch
 }
-
-
 
 function set-title 
 {
@@ -261,29 +266,59 @@ function set-issue
    param(
    [string]$rawissue,
    [string]$rawtitle,
+   [string]$title,
    [string]$color)
   
    write-debug "$rawissue $rawtitle $color"
    
+   #if its a new record
    if ($rawissue -eq "0")
-   {   
+   {
+      #are we lucky to have an issue no?
       $tempstring=$rawtitle.split("#")
+
+      #has it split
       if ($tempstring[1] -ne $null)
       {
-        $tempstring=($tempstring[1].Trim()).split(" ")
+          $tempstring=($tempstring[1].Trim()).split(" ")
         
-        if ($tempstring -is [system.array])
-        {
-           $tempstring =$tempstring[0]
-        }
+          if ($tempstring -is [system.array])
+          {
+             $tempstring =$tempstring[0]
+          }
         
-        $estimateIssue=$tempstring 
+          #found-image  -title $newtitle -issue $record.Issue
+          $estimateIssue=$tempstring 
+          write-debug "Before estimate $estimateIssue"
+          $estimateIssue=guess-title -title $title -issue $estimateIssue
+          write-debug "After estimate $estimateIssue"
       }
       else
       {
+         #maybe used no to indicate version
+         $tempstring=$rawtitle -split("No")
+         if ($tempstring[1] -ne $null)
+         {
+            $tempstring=($tempstring[1].Trim()).split(" ")
+        
+            if ($tempstring -is [system.array])
+            {
+               $tempstring =$tempstring[0]
+            }
+        
+            $estimateIssue=$tempstring 
+            write-debug "Before estimate $estimateIssue"
+            $estimateIssue=guess-title -title $title -issue $estimateIssue
+            write-debug "After estimate $estimateIssue"
+         }
+         else
+         {
+            #ok best chance did not work now edge cases
             $estimateIssue=$rawissue
+         }
       }
 
+      #while nothings been entered continue
       while (($estimateIssue -eq "0") -or ($estimateIssue -eq ""))
       {
          write-host "Estimate issue ($rawIssue):" -Foregroundcolor $color -nonewline
@@ -297,4 +332,37 @@ function set-issue
 
    $estimateIssue
  }  
+
+
+ function guess-title()
+ {
+    param(
+    [Parameter(Mandatory=$true)]
+    [string]$title,
+    [Parameter(Mandatory=$true)]
+    [string]$issue)
+
+    $issue=$issue.replace(".","")
+    $cover=get-cover $issue
+
+    $padtitle=$title -replace(" ","-")
+    write-host "looking for $root\covers\$padtitle\$cover"
+
+    if (test-path "$root\covers\$padtitle\$cover\$issue.jpg")
+    {
+       return $issue 
+    }
+    else
+    {
+       if (test-path "$root\covers\$padtitle\$cover\$($issue)A.jpg")
+       {
+          return "$($issue)A"
+       }
+       else
+       {
+          write-host "Guessing a set $issue"
+          return "set"
+       }
+    }
+ }
  
