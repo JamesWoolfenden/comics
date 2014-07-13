@@ -54,6 +54,7 @@
   <ItemGroup>
     <Content Include=".\covers\**\*.*" />
     <Content Include="comicbookshop.ps1" />
+    <Content Include="TFAW.ps1" />
     <Content Include="ebay.ps1" />
     <Content Include="reed.ps1" />
     <Content Include="comicbookstore.ps1" />

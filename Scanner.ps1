@@ -9,6 +9,7 @@ import-module "$root\reed.ps1" -force
 import-module "$root\comicbookshop.ps1" -force
 import-Module "$root\disposableheroes.ps1" -force
 import-Module "$root\comicbiz.ps1" -force
+import-Module "$root\tfaw.ps1" -force
 
 function get-market
 {
@@ -32,12 +33,14 @@ function get-market
       write-Host "Using Alternative title $alttitle"
       $allrecords+=get-comicbookshopdata  -title $alttitle 
       $allrecords+=get-comicbookstoredata -title $alttitle  
+      $allrecords+=get-tfawdata -title $alttitle  
    }
    else
    {
       write-Host "Using Original title $title"
       $allrecords+=get-comicbookshopdata  -title $title
       $allrecords+=get-comicbookstoredata -title  $title 
+      $allrecords+=get-tfawdata -title $title  
    }
    
    If ($productcode -ne "")
