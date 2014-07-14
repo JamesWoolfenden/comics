@@ -54,6 +54,7 @@
   <ItemGroup>
     <Content Include=".\covers\**\*.*" />
     <Content Include="comicbookshop.ps1" />
+    <Content Include="midtown.ps1" />
     <Content Include="TFAW.ps1" />
     <Content Include="ebay.ps1" />
     <Content Include="reed.ps1" />
@@ -193,6 +194,7 @@
     <Folder Include="covers\AMAZING-SPIDERMAN\143\" />
     <Folder Include="covers\batman\" />
     <Folder Include="covers\batman\12\" />
+    <Folder Include="covers\batman\173\" />
     <Folder Include="covers\BEDLAM\" />
     <Folder Include="covers\BEFORE-WATCHMEN\" />
     <Folder Include="covers\BEST-OF-2000-AD\" />
@@ -221,6 +223,11 @@
     <Folder Include="covers\CASANOVA\11\" />
     <Folder Include="covers\CASANOVA\13\" />
     <Folder Include="covers\CASANOVA\1\" />
+    <Folder Include="covers\CASANOVA\2.1\" />
+    <Folder Include="covers\CASANOVA\2.2\" />
+    <Folder Include="covers\CASANOVA\2.3\" />
+    <Folder Include="covers\CASANOVA\2.4\" />
+    <Folder Include="covers\CASANOVA\2.6\" />
     <Folder Include="covers\CASANOVA\2\" />
     <Folder Include="covers\CASANOVA\3\" />
     <Folder Include="covers\CASANOVA\4\" />
@@ -344,6 +351,7 @@
     <Folder Include="covers\DESOLATION-JONES\" />
     <Folder Include="covers\destroyer\" />
     <Folder Include="covers\destroyer\5\" />
+    <Folder Include="covers\dr-&amp;-quinch\" />
     <Folder Include="covers\dream-merchant\" />
     <Folder Include="covers\dream-merchant\2\" />
     <Folder Include="covers\EAST-OF-WEST\" />
@@ -358,6 +366,7 @@
     <Folder Include="covers\ENORMOUS\1\" />
     <Folder Include="covers\ENORMOUS\2\" />
     <Folder Include="covers\EPIC-KILL\" />
+    <Folder Include="covers\exterminators\" />
     <Folder Include="covers\FATALE\" />
     <Folder Include="covers\FATALE\10\" />
     <Folder Include="covers\FATALE\11\" />
@@ -613,6 +622,8 @@
     <Folder Include="covers\NUMBER-CRUNCHER\" />
     <Folder Include="covers\oh-my-goddess\" />
     <Folder Include="covers\oh-my-goddess\1\" />
+    <Folder Include="covers\one-hit-wonder\" />
+    <Folder Include="covers\one-hit-wonder\1\" />
     <Folder Include="covers\OUTCAST\" />
     <Folder Include="covers\OUTCAST\1\" />
     <Folder Include="covers\OUTCAST\2\" />
@@ -675,6 +686,7 @@
     <Folder Include="covers\REVIVAL\20\" />
     <Folder Include="covers\REVIVAL\21\" />
     <Folder Include="covers\REVIVAL\22\" />
+    <Folder Include="covers\REVIVAL\23\" />
     <Folder Include="covers\REVIVAL\2\" />
     <Folder Include="covers\REVIVAL\3\" />
     <Folder Include="covers\REVIVAL\4\" />
@@ -698,6 +710,7 @@
     <Folder Include="covers\rocket-girl\1\" />
     <Folder Include="covers\rogue-trooper\" />
     <Folder Include="covers\rogue-trooper\5\" />
+    <Folder Include="covers\rot-3b\" />
     <Folder Include="covers\SAGA\" />
     <Folder Include="covers\SAGA\19\" />
     <Folder Include="covers\SATELLITE-SAM\" />
@@ -735,6 +748,7 @@
     <Folder Include="covers\SEX-CRIMINALS\5\" />
     <Folder Include="covers\SEX-CRIMINALS\6\" />
     <Folder Include="covers\SEX-CRIMINALS\7\" />
+    <Folder Include="covers\SEX-CRIMINALS\8\" />
     <Folder Include="covers\SEX\" />
     <Folder Include="covers\SEX\1\" />
     <Folder Include="covers\SEX\2\" />
@@ -784,10 +798,14 @@
     <Folder Include="covers\SOUTHERN-BASTARDS\3\" />
     <Folder Include="covers\SOUTHERN-BASTARDS\4\" />
     <Folder Include="covers\SPAWN\" />
+    <Folder Include="covers\SPAWN\1\" />
     <Folder Include="covers\SPIDERMAN\" />
     <Folder Include="covers\SPIDERMAN\16\" />
     <Folder Include="covers\SPIDERMAN\1\" />
     <Folder Include="covers\SPIDERMAN\234\" />
+    <Folder Include="covers\SPREAD\" />
+    <Folder Include="covers\SPREAD\1\" />
+    <Folder Include="covers\SPREAD\2\" />
     <Folder Include="covers\STAR-TREK\" />
     <Folder Include="covers\STAR-TREK\34\" />
     <Folder Include="covers\STAR-WARS\" />

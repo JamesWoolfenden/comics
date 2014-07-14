@@ -73,7 +73,17 @@ function update-record
    
    if ($actualIssue -eq "i")
    {
-     $actualIssue=get-imagetitle -issue (get-cover $estimateIssue) -title $newtitle
+     if (($estimateIssue -replace("\D","")) -eq "")
+     {
+        write-host "Estimate Cover Issue:" -Foregroundcolor $color -nonewline
+        $cover=read-host  
+     }
+     else
+     {
+        $cover=get-cover $estimateIssue
+     }
+
+     $actualIssue=get-imagetitle -issue $cover -title $newtitle
      write-host "Choose $actualIssue" -ForegroundColor cyan
    }
    
@@ -295,10 +305,12 @@ function set-issue
       }
       else
       {
+         write-debug "No split #"
          #maybe used no to indicate version
          $tempstring=$rawtitle -split("No")
          if ($tempstring[1] -ne $null)
          {
+            write-debug "Split on No"
             $tempstring=($tempstring[1].Trim()).split(" ")
         
             if ($tempstring -is [system.array])
@@ -313,8 +325,25 @@ function set-issue
          }
          else
          {
+            $edition=""
+            write-debug "No splits $rawissue"
+            if ($rawtitle -match "1st")
+            { 
+               $rawtitle =$rawtitle.Replace("1st","")
+               $edition = "A"  
+            } 
+
             #ok best chance did not work now edge cases
-            $estimateIssue=$rawissue
+            $estimateIssue=($rawtitle -replace("\D",""))
+            if ($estimateIssue)
+            {
+               $estimateIssue=guess-title -title $title -issue $estimateIssue
+            }
+            else
+            {
+               #no numbers
+               $estimateIssue=$rawtitle
+            }
          }
       }
 
@@ -343,10 +372,12 @@ function set-issue
     [string]$issue)
 
     $issue=$issue.replace(".","")
+    $issue=$issue.replace(",","")
+    
     $cover=get-cover $issue
 
     $padtitle=$title -replace(" ","-")
-    write-host "looking for $root\covers\$padtitle\$cover"
+    write-host "looking for $root\covers\$padtitle\$cover\$issue"
 
     if (test-path "$root\covers\$padtitle\$cover\$issue.jpg")
     {
