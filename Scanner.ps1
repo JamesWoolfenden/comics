@@ -49,6 +49,8 @@ function get-market
    }
 
    $allrecords |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle).json" -Encoding ascii
+   $allrecords |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle).txt" -Encoding utf8
+
    #$allrecords |ConvertTo-Json -depth 999 
 }
 

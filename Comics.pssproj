@@ -54,6 +54,7 @@
   <ItemGroup>
     <Content Include=".\covers\**\*.*" />
     <Content Include="comicbookshop.ps1" />
+    <Content Include="jqwidgets\demos\jqxgrid\bindbestcomicprice.htm" />
     <Content Include="midtown.ps1" />
     <Content Include="TFAW.ps1" />
     <Content Include="ebay.ps1" />
@@ -70,6 +71,7 @@
   <ItemGroup>
     <Folder Include="covers\" />
     <Folder Include="covers\2000AD-MONTHLY\" />
+    <Folder Include="covers\2000AD-MONTHLY\1\" />
     <Folder Include="covers\2000AD-MONTHLY\2\" />
     <Folder Include="covers\2000AD-MONTHLY\4\" />
     <Folder Include="covers\2000AD-PRESENTS\" />
@@ -467,6 +469,7 @@
     <Folder Include="covers\JUDGE-DREDD-JUDGE-CHILD-QUEST\" />
     <Folder Include="covers\JUDGE-DREDD-JUDGE-CHILD-QUEST\1\" />
     <Folder Include="covers\JUDGE-DREDD-JUDGE-CHILD-QUEST\3\" />
+    <Folder Include="covers\JUDGE-DREDD-JUDGE-CHILD-QUEST\4\" />
     <Folder Include="covers\JUDGE-DREDD-THE-EARLY-CASES\" />
     <Folder Include="covers\JUDGE-DREDD-THE-EARLY-CASES\1\" />
     <Folder Include="covers\JUDGE-DREDD\" />
