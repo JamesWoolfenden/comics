@@ -1,3 +1,7 @@
+$corescript=$myinvocation.mycommand.path
+$root=split-path -parent  -Path $corescript
+
+import-module "$root\core.ps1" -force
 function get-tfawdata()
 {
    param ([string]$title="The Walking Dead")
@@ -17,10 +21,11 @@ function get-tfawdata()
    $kimpath2="_results_limit_search=100"
    $kimpath4="_results_sstring_search=$comic"
    $search="&kimpath2=$kimpath2&kimpath4=$kimpath4"
+   $site="TFAW"
    $fullfilter=$search
    $url="https://www.kimonolabs.com/api/7fuasgeu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-Host "Accessing $url"
-   write-Host "Looking for $title @ `"TFAW`""
+   write-Host "Looking for $title @ `"$site`""
   
 <# Postage
    1X  x x
@@ -39,7 +44,7 @@ function get-tfawdata()
    $tfawresults=Invoke-RestMethod -Uri $url
    if ($tfawresults.lastrunstatus -eq "failure")
    {
-      return $null
+     throw "No records found"
    }
    
    $counter=0
@@ -69,23 +74,28 @@ function get-tfawdata()
    While($counter -ne $results.count)
    {
       $record= New-Object System.Object
-  
-      $record| Add-Member -type NoteProperty -name url -value $results[$counter].title.href
+      $url="<a href=`"$($results[$counter].title.href)`">$($results[$counter].title.href)</a>"
+      
+      $record| Add-Member -type NoteProperty -name link      -value $results[$counter].title.href
+      $record| Add-Member -type NoteProperty -name url       -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
-      $record| Add-Member -type NoteProperty -name title -value $title
+      $record| Add-Member -type NoteProperty -name title     -value $title
+
+      write-debug "$($results[$counter].title.text)"
       $issue=($results[$counter].title.text).ToUpper()
       $issue=$issue -replace("$title ","")
       $issue=$issue -replace("#","")
       $variant=$issue
       $temp=$issue.split(" ")
       
-      $price=($results[$counter].price).split(" ")[0]
+      $price=get-price -price  ($results[$counter].price).split(" ")[0]
 
-      $record| Add-Member -type NoteProperty -name issue -value $temp[0]
-      $record| Add-Member -type NoteProperty -name variant -value $variant
-      $record| Add-Member -type NoteProperty -name price -value $price
-      $record| Add-Member -type NoteProperty -name rundate -value $tfawresults.lastsuccess
-      $record| Add-Member -type NoteProperty -name site -value "TFAW"
+      $record| Add-Member -type NoteProperty -name issue    -value $temp[0]
+      $record| Add-Member -type NoteProperty -name variant  -value $variant
+      $record| Add-Member -type NoteProperty -name price    -value $price.Amount
+      $record| Add-Member -type NoteProperty -name currency -value $price.Currency
+      $record| Add-Member -type NoteProperty -name rundate  -value $tfawresults.lastsuccess
+      $record| Add-Member -type NoteProperty -name site     -value $site
 
       $tfaw+=$record
       $counter++

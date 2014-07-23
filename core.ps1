@@ -69,7 +69,6 @@ function clean-records
    }  
 }
 
-
 function combine-data
 {
 <#
@@ -92,4 +91,75 @@ function combine-data
    }
 
    $data|sort-object issue
+}
+
+
+function get-price
+{
+   param( 
+   [Parameter(Mandatory=$true)]
+   [string]$price)
+
+   [string]$currency=""
+
+   if ($price.contains("£"))
+   {
+      $price=$price.Replace("£","")
+      $currency="£"
+   }
+
+   if ($price.contains('$'))
+   {
+      $price=$price.Replace('$',"")
+      $currency='$'
+   }
+
+   if ($price.contains("€"))
+   {
+      $price=$price.Replace("€","")
+      $currency="€"
+   }
+
+   $price=$price.split("")
+   if ($price -is [system.array] )
+   {
+      $price=$price[1]
+   }
+
+   [decimal]$price=$price
+
+   $cost= New-Object System.Object
+   $cost| Add-Member -type NoteProperty -name Amount -value $price
+   $cost| Add-Member -type NoteProperty -name Currency -value $currency
+   $cost
+}
+
+function get-issue()
+{
+   param( 
+   [Parameter(Mandatory=$true)]
+   [string]$rawissue)
+
+   if ($rawissue.Contains("#"))
+   {
+      $rawissue=$rawissue.split("#")[1]
+   }
+   
+   if ($rawissue.Contains("("))
+   {
+      $rawissue=$rawissue.split("(?=()")
+      $cover=$rawissue[0]
+      $variant=$rawissue[1]
+   }
+   Else
+   {
+      $cover=$rawissue -replace("\D","")
+      $variant=$rawissue
+   }
+
+   $issue= New-Object System.Object
+   $issue| Add-Member -type NoteProperty -name cover -value $cover
+   $issue| Add-Member -type NoteProperty -name variant -value $variant
+   
+   $issue
 }

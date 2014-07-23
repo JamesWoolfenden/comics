@@ -31,6 +31,7 @@
     <Compile Include=".gitignore" />
     <Compile Include="comicbiz.ps1" />
     <Compile Include="DisposableHeroes.ps1" />
+    <Compile Include="jqwidgets\demos\jqxgrid\comic-Walkingdead.htm" />
     <Compile Include="rss\EbayRssPowershellModule.psd1" />
     <Compile Include="rss\EbayRssPowershellModule.psm1" />
     <Compile Include="Excel\comics.xls" />
@@ -54,7 +55,7 @@
   <ItemGroup>
     <Content Include=".\covers\**\*.*" />
     <Content Include="comicbookshop.ps1" />
-    <Content Include="jqwidgets\demos\jqxgrid\bindbestcomicprice.htm" />
+    <Content Include="jqwidgets\demos\jqxgrid\comic-enormous.htm" />
     <Content Include="midtown.ps1" />
     <Content Include="TFAW.ps1" />
     <Content Include="ebay.ps1" />
@@ -159,6 +160,7 @@
     <Folder Include="covers\2000AD\1882\" />
     <Folder Include="covers\2000AD\1885\" />
     <Folder Include="covers\2000AD\1886\" />
+    <Folder Include="covers\2000AD\1888\" />
     <Folder Include="covers\2000AD\1979\" />
     <Folder Include="covers\2000AD\1980\" />
     <Folder Include="covers\2000AD\1981\" />
@@ -171,12 +173,15 @@
     <Folder Include="covers\2000AD\1991\" />
     <Folder Include="covers\2000AD\1992\" />
     <Folder Include="covers\2000AD\2000\" />
+    <Folder Include="covers\2000AD\2012\" />
     <Folder Include="covers\2000AD\2013\" />
     <Folder Include="covers\2000AD\2014\" />
     <Folder Include="covers\2000AD\493\" />
     <Folder Include="covers\2000AD\556\" />
     <Folder Include="covers\2000AD\8\" />
     <Folder Include="covers\2000AD\958\" />
+    <Folder Include="covers\23\" />
+    <Folder Include="covers\23\23\" />
     <Folder Include="covers\666\" />
     <Folder Include="covers\88MPH-COMICS-GHOSTBUSTERS\" />
     <Folder Include="covers\88MPH-COMICS-GHOSTBUSTERS\2\" />
@@ -192,6 +197,8 @@
     <Folder Include="covers\ALEX-ADA\5\" />
     <Folder Include="covers\ALEX-ADA\6\" />
     <Folder Include="covers\ALEX-ADA\7\" />
+    <Folder Include="covers\alice-in-sunderland\" />
+    <Folder Include="covers\alice-in-sunderland\1\" />
     <Folder Include="covers\AMAZING-SPIDERMAN\" />
     <Folder Include="covers\AMAZING-SPIDERMAN\143\" />
     <Folder Include="covers\batman\" />
@@ -220,6 +227,8 @@
     <Folder Include="covers\BUSHIDO\" />
     <Folder Include="covers\CAMELOT\" />
     <Folder Include="covers\CAMELOT\1\" />
+    <Folder Include="covers\captain-america\" />
+    <Folder Include="covers\captain-america\101\" />
     <Folder Include="covers\CASANOVA\" />
     <Folder Include="covers\CASANOVA\10\" />
     <Folder Include="covers\CASANOVA\11\" />
@@ -302,6 +311,7 @@
     <Folder Include="covers\CLONE\7\" />
     <Folder Include="covers\CLONE\8\" />
     <Folder Include="covers\CLONE\9\" />
+    <Folder Include="covers\code-flesh\" />
     <Folder Include="covers\codeflesh\" />
     <Folder Include="covers\codeflesh\2\" />
     <Folder Include="covers\COLLIDER\" />
@@ -322,6 +332,8 @@
     <Folder Include="covers\CREED\1\" />
     <Folder Include="covers\CRIMINAL\" />
     <Folder Include="covers\CRIMINAL\1\" />
+    <Folder Include="covers\CRIMINAL\2.1\" />
+    <Folder Include="covers\CRIMINAL\2.4\" />
     <Folder Include="covers\CRIMINAL\2.6\" />
     <Folder Include="covers\CRIMINAL\2\" />
     <Folder Include="covers\CRIMINAL\3\" />
@@ -447,6 +459,7 @@
     <Folder Include="covers\INCOGNITO\5\" />
     <Folder Include="covers\INCOGNITO\6\" />
     <Folder Include="covers\INFINITE-CRISIS\" />
+    <Folder Include="covers\inhumans\" />
     <Folder Include="covers\INVINCIBLE\" />
     <Folder Include="covers\INVINCIBLE\110\" />
     <Folder Include="covers\INVINCIBLE\111\" />
@@ -465,6 +478,7 @@
     <Folder Include="covers\JUDGE-DREDD-CRIME-FILE\" />
     <Folder Include="covers\JUDGE-DREDD-CRIME-FILE\1\" />
     <Folder Include="covers\JUDGE-DREDD-CRIME-FILE\2\" />
+    <Folder Include="covers\JUDGE-DREDD-CRIME-FILE\4\" />
     <Folder Include="covers\JUDGE-DREDD-CRIME-FILE\5\" />
     <Folder Include="covers\JUDGE-DREDD-JUDGE-CHILD-QUEST\" />
     <Folder Include="covers\JUDGE-DREDD-JUDGE-CHILD-QUEST\1\" />
@@ -472,6 +486,7 @@
     <Folder Include="covers\JUDGE-DREDD-JUDGE-CHILD-QUEST\4\" />
     <Folder Include="covers\JUDGE-DREDD-THE-EARLY-CASES\" />
     <Folder Include="covers\JUDGE-DREDD-THE-EARLY-CASES\1\" />
+    <Folder Include="covers\JUDGE-DREDD-THE-EARLY-CASES\2\" />
     <Folder Include="covers\JUDGE-DREDD\" />
     <Folder Include="covers\JUDGE-DREDD\10\" />
     <Folder Include="covers\JUDGE-DREDD\11\" />
@@ -577,6 +592,7 @@
     <Folder Include="covers\MANIFEST-DESTINY\6\" />
     <Folder Include="covers\MANIFEST-DESTINY\7\" />
     <Folder Include="covers\MANIFEST-DESTINY\8\" />
+    <Folder Include="covers\MANIFEST-DESTINY\9\" />
     <Folder Include="covers\MARTIAN-MANHUNTER\" />
     <Folder Include="covers\MARTIAN-MANHUNTER\1\" />
     <Folder Include="covers\MARTIAN-MANHUNTER\2\" />
@@ -630,6 +646,7 @@
     <Folder Include="covers\OUTCAST\" />
     <Folder Include="covers\OUTCAST\1\" />
     <Folder Include="covers\OUTCAST\2\" />
+    <Folder Include="covers\OUTCAST\3\" />
     <Folder Include="covers\PETER-PANZERFAUST\" />
     <Folder Include="covers\PETER-PANZERFAUST\10\" />
     <Folder Include="covers\PETER-PANZERFAUST\11\" />
@@ -728,6 +745,8 @@
     <Folder Include="covers\SECRET-HISTORY-OF-THE-AUTHORITY\" />
     <Folder Include="covers\SECRET-HISTORY-OF-THE-AUTHORITY\4\" />
     <Folder Include="covers\SECRET-MESSAGES\" />
+    <Folder Include="covers\secret-of-the-swamp-thing\" />
+    <Folder Include="covers\secret-of-the-swamp-thing\1\" />
     <Folder Include="covers\SECRET-ORIGINS\" />
     <Folder Include="covers\SECRET-ORIGINS\14\" />
     <Folder Include="covers\SECRET-SIX\" />
@@ -850,6 +869,7 @@
     <Folder Include="covers\THE-BOUNCE\2\" />
     <Folder Include="covers\THE-BOUNCE\3\" />
     <Folder Include="covers\THE-BOUNCE\4\" />
+    <Folder Include="covers\THE-BOUNCE\5\" />
     <Folder Include="covers\THE-BOUNCE\6\" />
     <Folder Include="covers\THE-BOUNCE\7\" />
     <Folder Include="covers\THE-BOUNCE\8\" />
@@ -974,6 +994,7 @@
     <Folder Include="covers\THE-WALKING-DEAD\18\" />
     <Folder Include="covers\THE-WALKING-DEAD\19\" />
     <Folder Include="covers\THE-WALKING-DEAD\1\" />
+    <Folder Include="covers\THE-WALKING-DEAD\2005\" />
     <Folder Include="covers\THE-WALKING-DEAD\20\" />
     <Folder Include="covers\THE-WALKING-DEAD\21\" />
     <Folder Include="covers\THE-WALKING-DEAD\22\" />
@@ -1081,6 +1102,7 @@
     <Folder Include="covers\THIEF-OF-THIEVES\21\" />
     <Folder Include="covers\THIEF-OF-THIEVES\22\" />
     <Folder Include="covers\THIEF-OF-THIEVES\23\" />
+    <Folder Include="covers\THIEF-OF-THIEVES\24\" />
     <Folder Include="covers\THIEF-OF-THIEVES\2\" />
     <Folder Include="covers\THIEF-OF-THIEVES\3\" />
     <Folder Include="covers\THIEF-OF-THIEVES\4\" />
@@ -1142,6 +1164,7 @@
     <Folder Include="covers\VELVET\3\" />
     <Folder Include="covers\VELVET\4\" />
     <Folder Include="covers\VELVET\5\" />
+    <Folder Include="covers\VELVET\6\" />
     <Folder Include="covers\WAKE-THE-DEAD\" />
     <Folder Include="covers\WAKE-THE-DEAD\1\" />
     <Folder Include="covers\WAKE-THE-DEAD\3\" />
@@ -1188,6 +1211,9 @@
     <Folder Include="covers\X-MEN\3\" />
     <Folder Include="covers\ZOMBIE-WORLD\" />
     <Folder Include="Excel\" />
+    <Folder Include="jqwidgets\" />
+    <Folder Include="jqwidgets\demos\" />
+    <Folder Include="jqwidgets\demos\jqxgrid\" />
     <Folder Include="rss\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

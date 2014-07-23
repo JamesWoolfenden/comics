@@ -1,3 +1,7 @@
+$corescript=$myinvocation.mycommand.path
+$root=split-path -parent  -Path $corescript
+
+import-module "$root\core.ps1" -force
 function get-comicbizdata()
 {
    param ([string]$title="The Walking Dead")
@@ -12,9 +16,10 @@ filter_name 	walking%20dead 	&filter_name=newvalue
    $comic=$title.replace(" ","%20")
    $search="&filter_name=$comic"
    $fullfilter=$search
+   $site="The Comic Biz Store"
    $url="http://www.kimonolabs.com/api/b1efn3xu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-Host "Accessing $url"
-   write-Host "Looking for $title @ `"The Comic Biz Store`""
+   write-Host "Looking for $title @ `"$site`""
   
 <# Postage
    1X  x x
@@ -63,21 +68,21 @@ filter_name 	walking%20dead 	&filter_name=newvalue
    While($counter -ne $results.count)
    {
       $record= New-Object System.Object
-  
-      $record| Add-Member -type NoteProperty -name url -value $results[$counter].title.href
+      $url="<a href=`"$($results[$counter].title.href)`">$($results[$counter].title.href)</a>"
+      $record| Add-Member -type NoteProperty -name link -value $results[$counter].title.href
+      $record| Add-Member -type NoteProperty -name url -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
-      $issue=($results[$counter].title.text).ToUpper()
-      $issue=$issue -replace("$title ","")
-      $issue=$issue -replace("#","")
-      $variant=$issue
-      $temp=$issue.split(" ")
+  
+      $issue=get-cover -rawissue $results[$counter].title.text     
+      $price=get-price -price $results[$counter].price.split(" ")[0]
 
-      $record| Add-Member -type NoteProperty -name issue -value $temp[0]
-      $record| Add-Member -type NoteProperty -name variant -value $variant
-      $record| Add-Member -type NoteProperty -name price -value $results[$counter].price.Replace("£","")
+      $record| Add-Member -type NoteProperty -name issue -value $issue.cover
+      $record| Add-Member -type NoteProperty -name variant -value $issue.variant
+      $record| Add-Member -type NoteProperty -name price -value $price.Amount
+      $record| Add-Member -type NoteProperty -name currency -value $price.Currency
       $record| Add-Member -type NoteProperty -name rundate -value $cbsresults.lastsuccess
-      $record| Add-Member -type NoteProperty -name site -value "Comic-biz"
+      $record| Add-Member -type NoteProperty -name site -value $site
 
       $comicbiz+=$record
       $counter++
@@ -85,4 +90,30 @@ filter_name 	walking%20dead 	&filter_name=newvalue
 
    write-host "Record $counter"
    $comicbiz 
+}
+
+function get-cover()
+{
+   param (
+   [Parameter(Mandatory=$true)]
+   [string]$rawissue)
+
+   Write-debug $rawissue
+   $issue=$rawissue.ToUpper()
+   $variant=$issue.trim()
+   
+   if($issue.contains("#"))
+   { 
+      $cover=($issue.split("#")[1]).split(" ")[0]
+   }
+   else
+   {
+      $cover=$issue
+   }
+
+   $issue= New-Object System.Object
+   $issue| Add-Member -type NoteProperty -name cover -value $cover
+   $issue| Add-Member -type NoteProperty -name variant -value $variant
+   
+   $issue
 }

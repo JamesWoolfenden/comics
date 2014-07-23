@@ -1,3 +1,7 @@
+$corescript=$myinvocation.mycommand.path
+$root=split-path -parent  -Path $corescript
+
+import-module "$root\core.ps1" -force
 function get-reeddata()
 {
    param (
@@ -12,11 +16,12 @@ function get-reeddata()
    $title=$title.ToUpper()
    $comic=$title.replace(" ","%20")
    $search="&keywords=$comic"
+   $site="Reed Comics"
    $fullfilter=$search
    $url="http://www.kimonolabs.com/api/b1awm6nu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-Host "Accessing $url"
-   write-Host "Looking for $title @ `"Reed Comics`""
-  
+   write-Host "Looking for $title @ `"$site`""
+
 <# Postage
    1X  x x
    2X  x x
@@ -65,8 +70,10 @@ function get-reeddata()
    While($counter -ne $results.count)
    {
       $record= New-Object System.Object
+      $url="<a href=`"$($results[$counter].cover.href)`">$($results[$counter].cover.href)</a>"
   
-      $record| Add-Member -type NoteProperty -name url -value $results[$counter].cover.href
+      $record| Add-Member -type NoteProperty -name link -value $results[$counter].cover.href
+      $record| Add-Member -type NoteProperty -name url -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $temp=($results[$counter].cover.alt).ToUpper()
       $temp=$temp.split("#")
@@ -82,12 +89,15 @@ function get-reeddata()
          $variant=$temp[1]
          $issue=$temp[1].split(" ")[0]
       }
+      
+      $price=get-price -price $results[$counter].price
 
       
       $record| Add-Member -type NoteProperty -name title -value $newtitle
       $record| Add-Member -type NoteProperty -name issue -value $issue
       $record| Add-Member -type NoteProperty -name variant -value $variant
-      $record| Add-Member -type NoteProperty -name price -value $results[$counter].price.Replace("£","")
+      $record| Add-Member -type NoteProperty -name price -value $price.Amount
+      $record| Add-Member -type NoteProperty -name currency -value $price.Currency
       $record| Add-Member -type NoteProperty -name rundate -value $reedresults.lastsuccess
       $record| Add-Member -type NoteProperty -name site -value "Reed"
 

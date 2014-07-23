@@ -34,13 +34,13 @@ function get-market
       $allrecords+=get-comicbookshopdata  -title $alttitle 
       $allrecords+=get-comicbookstoredata -title $alttitle  
       $allrecords+=get-tfawdata -title $alttitle  
+      $allrecords+=get-comicbizdata -title $alttitle  
    }
    else
    {
       write-Host "Using Original title $title"
       $allrecords+=get-comicbookshopdata  -title $title
       $allrecords+=get-comicbookstoredata -title  $title 
-      $allrecords+=get-tfawdata -title $title  
    }
    
    If ($productcode -ne "")

@@ -1,3 +1,7 @@
+$corescript=$myinvocation.mycommand.path
+$root=split-path -parent  -Path $corescript
+
+import-module "$root\core.ps1" -force
 function get-comicbookshopdata()
 {
    param ([string]$title="Walking Dead")
@@ -5,10 +9,11 @@ function get-comicbookshopdata()
    $title=$title.ToUpper()
    $comic=$title.replace(" ","+")
    $search="&keyword=$comic"
+   $site="Comic book shop"
    $fullfilter=$search
    $url="http://www.kimonolabs.com/api/azk3oj0y?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-Host "Accessing $url"
-   write-Host "Looking for $title @ `"The Comic Book Shop`""
+   write-Host "Looking for $title @ `"$site`""
   
 <# Postage
    1X  x x
@@ -61,8 +66,10 @@ function get-comicbookshopdata()
    While($counter -ne $results.count)
    {
       $record= New-Object System.Object
+      $url="<a href=`"$($results[$counter].title.href)`">$($results[$counter].title.href)</a>"
   
-      $record| Add-Member -type NoteProperty -name url -value $results[$counter].title.href
+      $record| Add-Member -type NoteProperty -name link -value $results[$counter].title.href
+      $record| Add-Member -type NoteProperty -name url -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       
       #some encoding to sort
@@ -81,19 +88,26 @@ function get-comicbookshopdata()
       }
 
       $record| Add-Member -type NoteProperty -name title -value $title
-      $price=($results[$counter].price.Replace("£","")).Replace("Add:","")
+      
+      $rawprice=($results[$counter].price).Replace("Add:","")
+      if (!$rawprice)
+      {
+         $rawprice="£0.00"
+      }
+
+      $price=get-price -price $rawprice.split(" ")[0]
   
       $record| Add-Member -type NoteProperty -name issue -value $issue
       $record| Add-Member -type NoteProperty -name variant -value $variant
-      $record| Add-Member -type NoteProperty -name price -value $price
+      $record| Add-Member -type NoteProperty -name price -value $price.Amount
+      $record| Add-Member -type NoteProperty -name currency -value $price.Currency
       $record| Add-Member -type NoteProperty -name rundate -value $cbsresults.lastsuccess
-      $record| Add-Member -type NoteProperty -name site -value "Comic Book Shop"
+      $record| Add-Member -type NoteProperty -name site -value $site
 
       $comicbookshop+=$record
       $counter++
    }
 
-   write-host "Record $counter"
-   
+   write-host "Record $counter" 
    $comicbookshop
 }

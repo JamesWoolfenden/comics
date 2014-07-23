@@ -1,3 +1,7 @@
+$corescript=$myinvocation.mycommand.path
+$root=split-path -parent  -Path $corescript
+
+import-module "$root\core.ps1" -force
 function get-comicbookstoredata()
 {
    param ([string]$title="The Walking Dead")
@@ -12,11 +16,12 @@ function get-comicbookstoredata()
    $title=$title.ToUpper()
    $comic=$title.replace(" ","+")
    $search="&q=$comic"
+   $site="The Comic Book Store"
    $fullfilter=$search
    $url="http://www.kimonolabs.com/api/9n2moou6?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-Host "Accessing $url"
-   write-Host "Looking for $title @ `"The Comic Book Store`""
-  
+   write-Host "Looking for $title @ `"$site`""
+
 <# Postage
    1X  £1.23 1.23
    2X  x x
@@ -64,8 +69,10 @@ function get-comicbookstoredata()
    While($counter -ne $results.count)
    {
       $record= New-Object System.Object
-  
-      $record| Add-Member -type NoteProperty -name url -value $results[$counter].title.href
+      $url="<a href=`"$($results[$counter].title.href)`">$($results[$counter].title.href)</a>"
+      
+      $record| Add-Member -type NoteProperty -name link -value $results[$counter].title.href
+      $record| Add-Member -type NoteProperty -name url -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
       $issue=($results[$counter].title.text).ToUpper()
@@ -74,11 +81,14 @@ function get-comicbookstoredata()
       $variant=$issue
       $temp=$issue.split(" ")
 
+      $price=get-price -price $results[$counter].price
+
       $record| Add-Member -type NoteProperty -name issue -value $temp[0]
       $record| Add-Member -type NoteProperty -name variant -value $variant
-      $record| Add-Member -type NoteProperty -name price -value $results[$counter].price.Replace("£","")
+      $record| Add-Member -type NoteProperty -name price -value $price.Amount
+      $record| Add-Member -type NoteProperty -name currency -value $price.Currency
       $record| Add-Member -type NoteProperty -name rundate -value $cbsresults.lastsuccess
-      $record| Add-Member -type NoteProperty -name site -value "Comic Book Store"
+      $record| Add-Member -type NoteProperty -name site -value $site
 
       $comicbookstore+=$record
       $counter++

@@ -1,3 +1,7 @@
+$corescript=$myinvocation.mycommand.path
+$root=split-path -parent  -Path $corescript
+
+import-module "$root\core.ps1" -force
 function get-fpdata()
 {
    param (
@@ -9,9 +13,10 @@ function get-fpdata()
    $filter="&filter_instock=on"
    $size="&size=30"
    $fullfilter=$size+$filter+$search
+   $site="Forbidden Planet"
    $url="http://www.kimonolabs.com/api/ca9vxpfa?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-Host "Accessing $url"
-   write-Host "Looking for $title @ `"Forbidden Planet`""
+   write-Host "Looking for $title @ `"$site`""
 
 <# Postage
    1X  £1.00  1.00
@@ -87,7 +92,9 @@ function get-fpdata()
             $rawissue=$results[$counter].title.text
          }
       }
-
+      
+      $url="<a href=`"$($results[$counter].title.href)`">$($results[$counter].title.href)</a>"
+      $record| Add-Member -type NoteProperty -name link -value $results[$counter].title.href
       $record| Add-Member -type NoteProperty -name url -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $results[$counter].orderdate.replace("before ","")
       $record| Add-Member -type NoteProperty -name title -value $title
@@ -108,7 +115,7 @@ function get-fpdata()
       $record| Add-Member -type NoteProperty -name variant -value $variant
       $record| Add-Member -type NoteProperty -name price -value $price
       $record| Add-Member -type NoteProperty -name rundate -value $fpresults.lastsuccess
-      $record| Add-Member -type NoteProperty -name site -value "Forbidden Planet"
+      $record| Add-Member -type NoteProperty -name site -value $site
       
       $fp+=$record
       $counter++

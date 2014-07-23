@@ -1,3 +1,7 @@
+$corescript=$myinvocation.mycommand.path
+$root=split-path -parent  -Path $corescript
+
+import-module "$root\core.ps1" -force
 function get-gurudata()
 {
    param (
@@ -7,9 +11,10 @@ function get-gurudata()
 
    $title=$title.ToUpper()
    $fullfilter="&product=$productcode"
+   $site="The Comic Guru"
    $url="http://www.kimonolabs.com/api/2gr32l5y?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-Host "Accessing $url"
-   write-Host "Looking for $title @ `"The Comic Guru`""
+   write-Host "Looking for $title @ `"$site`""
   
 <# Postage
    1X  £3.50  3.50
@@ -58,8 +63,8 @@ function get-gurudata()
    While($counter -ne $results.count)
    {
       $record= New-Object System.Object
-      
-      $record| Add-Member -type NoteProperty -name url -value "http://www.thecomicguru.co.uk"
+      $record| Add-Member -type NoteProperty -name link -value "http://www.thecomicguru.co.uk"
+      $record| Add-Member -type NoteProperty -name url -value "<a href=`"http://www.thecomicguru.co.uk/item.php?product=$productcode`">http://www.thecomicguru.co.uk/item.php?product=$productcode</>"
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
       $temp=$results[$counter].issue -split("Stock:")
@@ -68,7 +73,7 @@ function get-gurudata()
       $record| Add-Member -type NoteProperty -name variant -value $variant
       $record| Add-Member -type NoteProperty -name price -value $results[$counter].price.Replace("£","")
       $record| Add-Member -type NoteProperty -name rundate -value $gururesults.lastsuccess
-      $record| Add-Member -type NoteProperty -name site -value "The Comic Guru"
+      $record| Add-Member -type NoteProperty -name site -value $site
       
       $guru+=$record
       $counter++
