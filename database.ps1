@@ -494,6 +494,7 @@ function estimate-price()
     
     $currentprice=get-currentprice -title $($comic.Title) -issue $issue
     [int]$cover = get-cover $Issue 
+    $mean=$average
     $average="{0:N2}" -f $average
     
     $objStats = New-Object System.Object
@@ -501,6 +502,7 @@ function estimate-price()
     $objStats | Add-Member -type NoteProperty -name Issue -value $Issue
     $objStats | Add-Member -type NoteProperty -name Cover -value $cover
     $objStats | Add-Member -type NoteProperty -name TotalCost -value $average
+    $objStats | Add-Member -type NoteProperty -name Mean -value $Mean
     $objStats | Add-Member -type NoteProperty -name AveragePrice -value $averagePrice
     $objStats | Add-Member -type NoteProperty -name CurrentPrice -value $currentprice
     $objStats | Add-Member -type NoteProperty -name Minimum -value $minimum

@@ -413,7 +413,7 @@ function update-open()
    }
 }
 
-function Clean-String()
+function clean-string()
 {
    param([string]$dirty)
    
@@ -576,6 +576,7 @@ function get-issues()
 function get-allprices
 {
    param(
+   [Parameter(Mandatory=$true)]
    [string]$title)
       
    $issues=get-issues $title
@@ -589,6 +590,12 @@ function get-allprices
    }
    
    $prices
+}
+
+function datestring
+{
+   $date=(get-date).Date
+   "$($date.day)-$($date.month)-$($date.year)"
 }
 
 function closing-record
