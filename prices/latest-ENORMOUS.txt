@@ -1,0 +1,47 @@
+﻿[
+    {
+        "Title":  "ENORMOUS",
+        "Issue":  "1A",
+        "Cover":  1,
+        "TotalCost":  "5.79",
+        "Mean":  5.791,
+        "AveragePrice":  5.291,
+        "CurrentPrice":  6.5920000000000005,
+        "Minimum":  2.75,
+        "Maximum":  7.95,
+        "Count":  10,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null
+    },
+    {
+        "Title":  "ENORMOUS",
+        "Issue":  "1B",
+        "Cover":  1,
+        "TotalCost":  "5.16",
+        "Mean":  5.1614285714285719,
+        "AveragePrice":  5.1614285714285719,
+        "CurrentPrice":  6.126,
+        "Minimum":  2.75,
+        "Maximum":  9.95,
+        "Count":  7,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null
+    },
+    {
+        "Title":  "ENORMOUS",
+        "Issue":  "1PHANTOM",
+        "Cover":  1,
+        "TotalCost":  "9.01",
+        "Mean":  9.0133333333333336,
+        "AveragePrice":  8.254999999999999,
+        "CurrentPrice":  7.316,
+        "Minimum":  5.19,
+        "Maximum":  12.95,
+        "Count":  6,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null
+    }
+]

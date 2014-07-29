@@ -1,0 +1,32 @@
+﻿[
+    {
+        "Title":  "COWL",
+        "Issue":  "1",
+        "Cover":  1,
+        "TotalCost":  "4.40",
+        "Mean":  4.402,
+        "AveragePrice":  3.6126666666666676,
+        "CurrentPrice":  4.286,
+        "Minimum":  0.99,
+        "Maximum":  9.85,
+        "Count":  15,
+        "AveragePaid":  2.5,
+        "AverageNetPaid":  2.5,
+        "Stock":  2
+    },
+    {
+        "Title":  "COWL",
+        "Issue":  "2",
+        "Cover":  2,
+        "TotalCost":  "3.55",
+        "Mean":  3.5480000000000005,
+        "AveragePrice":  3.5480000000000005,
+        "CurrentPrice":  3.5480000000000005,
+        "Minimum":  2.5,
+        "Maximum":  3.99,
+        "Count":  5,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null
+    }
+]
