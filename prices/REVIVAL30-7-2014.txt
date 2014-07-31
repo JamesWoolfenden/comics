@@ -661,6 +661,21 @@
     },
     {
         "Title":  "REVIVAL",
+        "Issue":  "7PHANTOM",
+        "Cover":  7,
+        "TotalCost":  "8.99",
+        "Mean":  8.99,
+        "AveragePrice":  8.99,
+        "CurrentPrice":  8.99,
+        "Minimum":  8.99,
+        "Maximum":  8.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null
+    },
+    {
+        "Title":  "REVIVAL",
         "Issue":  "8",
         "Cover":  8,
         "TotalCost":  "2.89",
