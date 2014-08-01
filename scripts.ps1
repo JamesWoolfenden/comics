@@ -90,9 +90,8 @@ function add-array()
              {
                 $AuctionType="Mixed"
              }
-             
-             Write-Host ""
-             Write-host "Adding " -nonewline
+
+             Write-host "`r`nAdding " -nonewline
              Write-host "$($set.Ebayitem)" -foregroundcolor red
              add-record -title $title -issue $issue -price $set.CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
 	         -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
@@ -544,8 +543,7 @@ function get-records()
    $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed'|where {$_.BidCount -eq "0"}
    if ($expiredresult)
    {
-      write-host ""
-      write-host "Expired" -foregroundcolor cyan
+      write-host "`r`nExpired" -foregroundcolor cyan
       add-array $expiredresult -title "$comictitle" -issue 0 -Status Expired
    }
    
@@ -553,8 +551,7 @@ function get-records()
    $result=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'Open'
    if ($result)
    {
-      write-host ""
-      write-debug "Open" 
+      write-debug "`r`nOpen" 
       add-array $result -title "$comictitle" -issue 0
    }
 }

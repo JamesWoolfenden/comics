@@ -21,8 +21,7 @@ function scan
      Write-Host "`nFinding $($search.title)" -ForegroundColor cyan
      Write-debug "get-allrecords -title $($search.title) -include $($search.include)  -exclude $($search.exclude) -comictitle $($search.comictitle)"
      get-allrecords -title "$($search.title)" -include "$($search.include)"  -exclude "$($search.exclude)" -comictitle "$($search.comictitle)"
-     write-host ""
-     Write-debug "Complete."
+     Write-debug "`r`nComplete."
    }
 }
 
