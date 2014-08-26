@@ -16,6 +16,21 @@
     },
     {
         "Title":  "RAT QUEENS",
+        "Issue":  "1ASIGNED",
+        "Cover":  1,
+        "TotalCost":  "16.35",
+        "Mean":  16.35,
+        "AveragePrice":  13.5,
+        "CurrentPrice":  13.5,
+        "Minimum":  13.5,
+        "Maximum":  13.5,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null
+    },
+    {
+        "Title":  "RAT QUEENS",
         "Issue":  "1B",
         "Cover":  1,
         "TotalCost":  "34.20",

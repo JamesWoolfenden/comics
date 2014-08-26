@@ -466,6 +466,21 @@
     },
     {
         "Title":  "2000AD",
+        "Issue":  "FCBD2013",
+        "Cover":  2013,
+        "TotalCost":  "3.75",
+        "Mean":  3.75,
+        "AveragePrice":  3.75,
+        "CurrentPrice":  3.75,
+        "Minimum":  3.75,
+        "Maximum":  3.75,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null
+    },
+    {
+        "Title":  "2000AD",
         "Issue":  "FCBD2014",
         "Cover":  2014,
         "TotalCost":  "5.16",
