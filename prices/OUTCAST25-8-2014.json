@@ -1,0 +1,62 @@
+[
+    {
+        "Title":  "OUTCAST",
+        "Issue":  "1A",
+        "Cover":  1,
+        "TotalCost":  "7.78",
+        "Mean":  7.7816197183098641,
+        "AveragePrice":  7.0089436619718368,
+        "CurrentPrice":  7.484,
+        "Minimum":  1.44,
+        "Maximum":  99.95,
+        "Count":  142,
+        "AveragePaid":  2.95,
+        "AverageNetPaid":  2.95,
+        "Stock":  1
+    },
+    {
+        "Title":  "OUTCAST",
+        "Issue":  "2",
+        "Cover":  2,
+        "TotalCost":  "2.80",
+        "Mean":  2.8000000000000003,
+        "AveragePrice":  2.8000000000000003,
+        "CurrentPrice":  2.68,
+        "Minimum":  2.25,
+        "Maximum":  3.4,
+        "Count":  6,
+        "AveragePaid":  2.25,
+        "AverageNetPaid":  2.25,
+        "Stock":  1
+    },
+    {
+        "Title":  "OUTCAST",
+        "Issue":  "3",
+        "Cover":  3,
+        "TotalCost":  "3.40",
+        "Mean":  3.4,
+        "AveragePrice":  3.4,
+        "CurrentPrice":  3.4,
+        "Minimum":  3.4,
+        "Maximum":  3.4,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null
+    },
+    {
+        "Title":  "OUTCAST",
+        "Issue":  "SET",
+        "Cover":  0,
+        "TotalCost":  "13.45",
+        "Mean":  13.45,
+        "AveragePrice":  11.081999999999999,
+        "CurrentPrice":  13.178,
+        "Minimum":  6.49,
+        "Maximum":  21.95,
+        "Count":  10,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null
+    }
+]

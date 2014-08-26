@@ -1,0 +1,62 @@
+[
+    {
+        "Title":  "COWL",
+        "Issue":  "1",
+        "Cover":  1,
+        "TotalCost":  "4.67",
+        "Mean":  4.6672222222222217,
+        "AveragePrice":  3.9816666666666669,
+        "CurrentPrice":  4.216,
+        "Minimum":  0.99,
+        "Maximum":  9.85,
+        "Count":  18,
+        "AveragePaid":  2.5,
+        "AverageNetPaid":  2.5,
+        "Stock":  2
+    },
+    {
+        "Title":  "COWL",
+        "Issue":  "2",
+        "Cover":  2,
+        "TotalCost":  "4.27",
+        "Mean":  4.2675,
+        "AveragePrice":  4.2675,
+        "CurrentPrice":  4.868,
+        "Minimum":  2.5,
+        "Maximum":  5.95,
+        "Count":  8,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null
+    },
+    {
+        "Title":  "COWL",
+        "Issue":  "3",
+        "Cover":  3,
+        "TotalCost":  "2.17",
+        "Mean":  2.17,
+        "AveragePrice":  1.745,
+        "CurrentPrice":  1.745,
+        "Minimum":  0.99,
+        "Maximum":  2.5,
+        "Count":  2,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null
+    },
+    {
+        "Title":  "COWL",
+        "Issue":  "SET",
+        "Cover":  0,
+        "TotalCost":  "11.89",
+        "Mean":  11.89,
+        "AveragePrice":  9.99,
+        "CurrentPrice":  9.99,
+        "Minimum":  9.99,
+        "Maximum":  9.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null
+    }
+]
