@@ -1,5 +1,12 @@
 $corescript=$myinvocation.mycommand.path
-$root=split-path -parent  -Path $corescript
+if ($corescript -eq $null)
+{
+   $root=$root=(gl).Path
+}
+else
+{
+   $root=split-path -parent -Path $corescript
+}
 
 import-module "$root\closeencounters.ps1" -force
 import-module "$root\comicbookstore.ps1" -force

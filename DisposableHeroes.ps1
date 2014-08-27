@@ -1,5 +1,12 @@
 $corescript=$myinvocation.mycommand.path
-$root=split-path -parent  -Path $corescript
+if ($corescript -eq $null)
+{
+   $root=$root=(gl).Path
+}
+else
+{
+   $root=split-path -parent -Path $corescript
+}
 
 import-module "$root\core.ps1" -force
 

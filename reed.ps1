@@ -44,6 +44,7 @@ function get-reeddata()
    $counter=0
    $reed=@()
    $results=$reedresults.results.collection1| where {$_.title -ne ""}
+   $results=$results| where {$_.price -ne ""}
    $results=$results| where {$_.title.text -notmatch "novel"}
    $results=$results| where {$_.title.text -notmatch "Volume"}
 

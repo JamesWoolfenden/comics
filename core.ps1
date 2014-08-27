@@ -99,6 +99,11 @@ function get-price
    [Parameter(Mandatory=$true)]
    [string]$price)
 
+   if ($price -eq "")
+   {
+     return ""
+   }
+    
    [string]$currency=""
 
    if ($price.contains("£"))
@@ -138,22 +143,28 @@ function get-issue()
    param( 
    [Parameter(Mandatory=$true)]
    [string]$rawissue)
+   
+   [string]$variant=""
 
    if ($rawissue.Contains("#"))
    {
+      write-debug "splitting on # $rawissue"
       $rawissue=$rawissue.split("#")[1]
    }
    
-   if ($rawissue.Contains("("))
+   
+   $split=$rawissue.split(" ")
+   $cover=$split[0]
+   $variant=$rawissue
+   write-debug "Variant is $variant"
+
+   if ($variant -eq $null)
    {
-      $rawissue=$rawissue.split("(?=()")
-      $cover=$rawissue[0]
-      $variant=$rawissue[1]
+      write-Error "Variant is undefined"
    }
-   Else
+   else
    {
-      $cover=$rawissue -replace("\D","")
-      $variant=$rawissue
+      write-debug "Variant is $variant"
    }
 
    $issue= New-Object System.Object

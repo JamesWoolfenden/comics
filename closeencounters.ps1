@@ -80,7 +80,22 @@ function get-closeencountersdata()
       $variant=(($results[$counter].title.text).ToUpper()).Replace("$title ","").replace("\u0026","&")
       $temp=$variant.Split(" ")
 
-      $price=get-price -price $results[$counter].price
+      if ($results[$counter].price -is [system.array])
+      {
+         $price=get-price -price $results[$counter].price[1]
+      }
+      else
+      {
+         if ($results[$counter].price.contains(" "))
+         {
+            $tempprice=$results[$counter].price.Split(" ")
+            $price=get-price -price $tempprice[1]
+         }
+         else
+         {
+            $price=get-price -price $results[$counter].price
+         }
+      }
 
       $record| Add-Member -type NoteProperty -name issue -value $temp[0]
       $record| Add-Member -type NoteProperty -name variant -value $variant
