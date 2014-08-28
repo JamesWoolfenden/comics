@@ -408,7 +408,6 @@
     <Compile Include="Excel\comics2.xls" />
     <Compile Include="core.ps1" />
     <Compile Include="database.ps1" />
-    <Compile Include="Document2.txt" />
     <Compile Include="form.ps1" />
     <Compile Include="fp.ps1" />
     <Compile Include="rss\Get-EbayRssItems.ps1" />
