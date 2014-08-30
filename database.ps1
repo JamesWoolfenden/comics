@@ -515,7 +515,6 @@ function estimate-price()
    return $objStats 
 }
 
-
 function bySeller
 {
    <#
@@ -551,7 +550,9 @@ function bySeller
 function get-currentprice
 {
    Param(
+   [Parameter(Mandatory=$true)]
    [string]$title,
+   [Parameter(Mandatory=$true)]
    [string]$Issue)
      
    [string]$wherestring="where Title = '$title' And Issue = '$Issue' and Status='CLOSED'"  
@@ -583,4 +584,44 @@ function get-currentprice
     {
        return 0.00
     }
+}
+
+function update-issue()
+{
+   <#
+      .SYNOPSIS 
+       For modifying the issue for a given record
+	    
+      
+      .PARAMETER OldIssue
+      
+      .PARAMETER NewIssue
+      
+      .PARAMETER title
+	    
+      .EXAMPLE
+      C:\PS>  update-issue -OldIssue 127:SIGNED -title "The Walking Dead" -NewIssue 127SIGNED
+            
+   #>
+   Param(
+   [Parameter(Mandatory=$true)]
+   [string]$title,
+   [Parameter(Mandatory=$true)]
+   [string]$OldIssue,
+   [Parameter(Mandatory=$true)]
+   [string]$NewIssue)
+   
+   write-Host "Modifying issue $OldIssue - $title to $NewIssue" -ForegroundColor  cyan 
+   $conn = New-Object System.Data.SqlClient.SqlConnection
+   $conn.ConnectionString = "Data Source=localhost\r2;Initial Catalog=comics;Integrated Security=SSPI;"
+   $conn.open()
+   $cmd = New-Object System.Data.SqlClient.SqlCommand
+   $cmd.connection = $conn
+   $cmd.commandtext = "update comics set issue='$NewIssue' where title='$title' and issue='$OldIssue'"
+
+
+   $result = $cmd.ExecuteNonQuery()
+   
+   Write-Host "Updated $result records"
+   $conn.Close()
 }
