@@ -496,6 +496,7 @@ function estimate-price()
     [int]$cover = get-cover $Issue 
     $mean=$average
     $average="{0:N2}" -f $average
+    $date=Get-date 
     
     $objStats = New-Object System.Object
     $objStats | Add-Member -type NoteProperty -name Title -value $($comic.Title)
@@ -511,6 +512,7 @@ function estimate-price()
     $objStats | Add-Member -type NoteProperty -name AveragePaid -value $averagepaid
     $objStats | Add-Member -type NoteProperty -name AverageNetPaid -value $avComicPrice
     $objStats | Add-Member -type NoteProperty -name Stock -value $owned
+    $objStats | Add-Member -type NoteProperty -name Date -value $date
     
    return $objStats 
 }
