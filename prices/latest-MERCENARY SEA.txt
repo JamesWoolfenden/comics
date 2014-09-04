@@ -13,7 +13,7 @@
         "AveragePaid":  2.3125,
         "AverageNetPaid":  2.0625,
         "Stock":  4,
-        "Date":  "\/Date(1409491668775)\/"
+        "Date":  "\/Date(1409774395471)\/"
     },
     {
         "Title":  "MERCENARY SEA",
@@ -29,39 +29,39 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1409491668802)\/"
+        "Date":  "\/Date(1409774395503)\/"
     },
     {
-        "Title":  "Mercenary Sea",
+        "Title":  "MERCENARY SEA",
         "Issue":  "2A",
         "Cover":  2,
-        "TotalCost":  "2.53",
-        "Mean":  2.5333333333333337,
-        "AveragePrice":  2.5333333333333337,
-        "CurrentPrice":  2.5333333333333337,
+        "TotalCost":  "2.65",
+        "Mean":  2.6475,
+        "AveragePrice":  2.6475,
+        "CurrentPrice":  2.6475,
         "Minimum":  2.1,
         "Maximum":  3.3,
-        "Count":  3,
+        "Count":  4,
         "AveragePaid":  2.1500000000000004,
         "AverageNetPaid":  2.1500000000000004,
         "Stock":  2,
-        "Date":  "\/Date(1409491668830)\/"
+        "Date":  "\/Date(1409774395534)\/"
     },
     {
         "Title":  "MERCENARY SEA",
         "Issue":  "3",
         "Cover":  3,
-        "TotalCost":  "1.92",
-        "Mean":  1.9225,
-        "AveragePrice":  1.9225,
-        "CurrentPrice":  1.9225,
+        "TotalCost":  "2.03",
+        "Mean":  2.028,
+        "AveragePrice":  2.028,
+        "CurrentPrice":  2.028,
         "Minimum":  0.99,
-        "Maximum":  2.25,
-        "Count":  4,
+        "Maximum":  2.45,
+        "Count":  5,
         "AveragePaid":  1.5950000000000002,
         "AverageNetPaid":  1.5950000000000002,
         "Stock":  2,
-        "Date":  "\/Date(1409491668861)\/"
+        "Date":  "\/Date(1409774395565)\/"
     },
     {
         "Title":  "MERCENARY SEA",
@@ -77,7 +77,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1409491668883)\/"
+        "Date":  "\/Date(1409774395596)\/"
     },
     {
         "Title":  "MERCENARY SEA",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491668904)\/"
+        "Date":  "\/Date(1409774395612)\/"
     },
     {
         "Title":  "MERCENARY SEA",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491668930)\/"
+        "Date":  "\/Date(1409774395643)\/"
     },
     {
         "Title":  "MERCENARY SEA",
@@ -125,6 +125,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491668972)\/"
+        "Date":  "\/Date(1409774395690)\/"
     }
 ]

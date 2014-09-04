@@ -13,7 +13,7 @@
         "AveragePaid":  2.225,
         "AverageNetPaid":  2.225,
         "Stock":  2,
-        "Date":  "\/Date(1409491774283)\/"
+        "Date":  "\/Date(1409774504750)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491774314)\/"
+        "Date":  "\/Date(1409774504781)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491774339)\/"
+        "Date":  "\/Date(1409774504796)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -61,7 +61,7 @@
         "AveragePaid":  1.6749999999999998,
         "AverageNetPaid":  1.6749999999999998,
         "Stock":  4,
-        "Date":  "\/Date(1409491774430)\/"
+        "Date":  "\/Date(1409774504890)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -77,7 +77,7 @@
         "AveragePaid":  1.25,
         "AverageNetPaid":  1.25,
         "Stock":  2,
-        "Date":  "\/Date(1409491774455)\/"
+        "Date":  "\/Date(1409774504921)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -93,7 +93,7 @@
         "AveragePaid":  13.71,
         "AverageNetPaid":  10.71,
         "Stock":  1,
-        "Date":  "\/Date(1409491774478)\/"
+        "Date":  "\/Date(1409774504937)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491774504)\/"
+        "Date":  "\/Date(1409774504968)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -125,7 +125,7 @@
         "AveragePaid":  11,
         "AverageNetPaid":  11,
         "Stock":  1,
-        "Date":  "\/Date(1409491774534)\/"
+        "Date":  "\/Date(1409774504999)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -141,7 +141,7 @@
         "AveragePaid":  1.67,
         "AverageNetPaid":  1.545,
         "Stock":  2,
-        "Date":  "\/Date(1409491774608)\/"
+        "Date":  "\/Date(1409774505062)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1409491774664)\/"
+        "Date":  "\/Date(1409774505124)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -173,23 +173,23 @@
         "AveragePaid":  1.9300000000000002,
         "AverageNetPaid":  1.9300000000000002,
         "Stock":  2,
-        "Date":  "\/Date(1409491774691)\/"
+        "Date":  "\/Date(1409774505155)\/"
     },
     {
         "Title":  "GHOSTED",
         "Issue":  "4A",
         "Cover":  4,
-        "TotalCost":  "2.13",
-        "Mean":  2.126433333333333,
-        "AveragePrice":  2.0597666666666665,
-        "CurrentPrice":  0.90170000000000017,
+        "TotalCost":  "2.19",
+        "Mean":  2.1904062499999997,
+        "AveragePrice":  2.1279062499999997,
+        "CurrentPrice":  1.4901,
         "Minimum":  0.165,
         "Maximum":  3.5,
-        "Count":  15,
+        "Count":  16,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1409491774751)\/"
+        "Date":  "\/Date(1409774505218)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -205,39 +205,39 @@
         "AveragePaid":  13,
         "AverageNetPaid":  10,
         "Stock":  1,
-        "Date":  "\/Date(1409491774774)\/"
+        "Date":  "\/Date(1409774505233)\/"
     },
     {
         "Title":  "GHOSTED",
         "Issue":  "5",
         "Cover":  5,
-        "TotalCost":  "1.93",
-        "Mean":  1.9311875,
-        "AveragePrice":  1.7686874999999997,
-        "CurrentPrice":  1.7965999999999998,
+        "TotalCost":  "2.00",
+        "Mean":  2.0028823529411763,
+        "AveragePrice":  1.849941176470588,
+        "CurrentPrice":  2.259,
         "Minimum":  0.165,
-        "Maximum":  3.074,
-        "Count":  16,
+        "Maximum":  3.15,
+        "Count":  17,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1409491774838)\/"
+        "Date":  "\/Date(1409774505296)\/"
     },
     {
         "Title":  "GHOSTED",
         "Issue":  "6A",
         "Cover":  6,
-        "TotalCost":  "1.77",
-        "Mean":  1.7729999999999997,
-        "AveragePrice":  1.533,
-        "CurrentPrice":  1.533,
+        "TotalCost":  "2.00",
+        "Mean":  2.0025,
+        "AveragePrice":  1.8025,
+        "CurrentPrice":  1.7429999999999999,
         "Minimum":  0.165,
-        "Maximum":  2.25,
-        "Count":  5,
+        "Maximum":  3.15,
+        "Count":  6,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491774872)\/"
+        "Date":  "\/Date(1409774505342)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -253,7 +253,7 @@
         "AveragePaid":  14.99,
         "AverageNetPaid":  14.99,
         "Stock":  1,
-        "Date":  "\/Date(1409491774896)\/"
+        "Date":  "\/Date(1409774505358)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -269,7 +269,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1409491774935)\/"
+        "Date":  "\/Date(1409774505405)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -285,7 +285,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1409491774970)\/"
+        "Date":  "\/Date(1409774505436)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -301,23 +301,23 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1409491775018)\/"
+        "Date":  "\/Date(1409774505483)\/"
     },
     {
         "Title":  "GHOSTED",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "11.66",
-        "Mean":  11.663000000000002,
-        "AveragePrice":  8.035,
-        "CurrentPrice":  8.608,
+        "TotalCost":  "11.58",
+        "Mean":  11.576451612903227,
+        "AveragePrice":  7.9690322580645159,
+        "CurrentPrice":  6.206,
         "Minimum":  0.99,
         "Maximum":  42.44,
-        "Count":  30,
+        "Count":  31,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491775112)\/"
+        "Date":  "\/Date(1409774505576)\/"
     },
     {
         "Title":  "GHOSTED",
@@ -333,6 +333,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491775135)\/"
+        "Date":  "\/Date(1409774505608)\/"
     }
 ]

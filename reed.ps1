@@ -19,7 +19,7 @@ function get-reeddata()
    $site="Reed Comics"
    $fullfilter=$search
    $url="http://www.kimonolabs.com/api/b1awm6nu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-Host "Accessing $url"
+   write-debug "Accessing $url"
    write-Host "Looking for $title @ `"$site`""
 
 <# Postage

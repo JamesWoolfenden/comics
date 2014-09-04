@@ -13,7 +13,7 @@
         "AveragePaid":  2.4875,
         "AverageNetPaid":  2.4875,
         "Stock":  2,
-        "Date":  "\/Date(1409491729633)\/"
+        "Date":  "\/Date(1409774458792)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491729657)\/"
+        "Date":  "\/Date(1409774458807)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
@@ -45,23 +45,23 @@
         "AveragePaid":  2.625,
         "AverageNetPaid":  2.625,
         "Stock":  2,
-        "Date":  "\/Date(1409491729730)\/"
+        "Date":  "\/Date(1409774458885)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
         "Issue":  "2",
         "Cover":  2,
-        "TotalCost":  "3.65",
-        "Mean":  3.6516833333333336,
-        "AveragePrice":  3.3771833333333334,
-        "CurrentPrice":  2.1184,
+        "TotalCost":  "3.75",
+        "Mean":  3.7496984126984128,
+        "AveragePrice":  3.3692222222222221,
+        "CurrentPrice":  2.3404,
         "Minimum":  0.9,
         "Maximum":  7.17,
-        "Count":  20,
+        "Count":  21,
         "AveragePaid":  2.4875,
         "AverageNetPaid":  2.4875,
         "Stock":  2,
-        "Date":  "\/Date(1409491729804)\/"
+        "Date":  "\/Date(1409774458963)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
@@ -77,7 +77,7 @@
         "AveragePaid":  3,
         "AverageNetPaid":  3,
         "Stock":  2,
-        "Date":  "\/Date(1409491729880)\/"
+        "Date":  "\/Date(1409774459041)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
@@ -93,7 +93,7 @@
         "AveragePaid":  2.4450000000000003,
         "AverageNetPaid":  2.4450000000000003,
         "Stock":  2,
-        "Date":  "\/Date(1409491729953)\/"
+        "Date":  "\/Date(1409774459119)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
@@ -109,7 +109,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  2,
-        "Date":  "\/Date(1409491730030)\/"
+        "Date":  "\/Date(1409774459182)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
@@ -125,7 +125,7 @@
         "AveragePaid":  3.1550000000000002,
         "AverageNetPaid":  3.1550000000000002,
         "Stock":  2,
-        "Date":  "\/Date(1409491730102)\/"
+        "Date":  "\/Date(1409774459260)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
@@ -141,7 +141,7 @@
         "AveragePaid":  1.75,
         "AverageNetPaid":  1.75,
         "Stock":  2,
-        "Date":  "\/Date(1409491730177)\/"
+        "Date":  "\/Date(1409774459338)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.045,
         "AverageNetPaid":  2.045,
         "Stock":  2,
-        "Date":  "\/Date(1409491730258)\/"
+        "Date":  "\/Date(1409774459416)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
@@ -173,7 +173,7 @@
         "AveragePaid":  1.75,
         "AverageNetPaid":  1.75,
         "Stock":  2,
-        "Date":  "\/Date(1409491730327)\/"
+        "Date":  "\/Date(1409774459494)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
@@ -189,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491730351)\/"
+        "Date":  "\/Date(1409774459525)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491730374)\/"
+        "Date":  "\/Date(1409774459541)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
@@ -221,23 +221,23 @@
         "AveragePaid":  6.95,
         "AverageNetPaid":  4.95,
         "Stock":  1,
-        "Date":  "\/Date(1409491730449)\/"
+        "Date":  "\/Date(1409774459619)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
         "Issue":  "VOL",
         "Cover":  0,
-        "TotalCost":  "13.59",
-        "Mean":  13.590833333333334,
-        "AveragePrice":  11.285833333333334,
-        "CurrentPrice":  17.708,
+        "TotalCost":  "13.19",
+        "Mean":  13.190769230769233,
+        "AveragePrice":  11.063076923076922,
+        "CurrentPrice":  7.9539999999999988,
         "Minimum":  3.22,
         "Maximum":  57.16,
-        "Count":  12,
+        "Count":  13,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491730497)\/"
+        "Date":  "\/Date(1409774459665)\/"
     },
     {
         "Title":  "V FOR VENDETTA",
@@ -253,6 +253,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491730524)\/"
+        "Date":  "\/Date(1409774459697)\/"
     }
 ]

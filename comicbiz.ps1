@@ -18,7 +18,7 @@ filter_name 	walking%20dead 	&filter_name=newvalue
    $fullfilter=$search
    $site="The Comic Biz Store"
    $url="http://www.kimonolabs.com/api/b1efn3xu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-Host "Accessing $url"
+   write-debug "Accessing $url"
    write-Host "Looking for $title @ `"$site`""
   
 <# Postage

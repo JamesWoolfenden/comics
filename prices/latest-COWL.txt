@@ -13,7 +13,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  2,
-        "Date":  "\/Date(1409491784909)\/"
+        "Date":  "\/Date(1409774516060)\/"
     },
     {
         "Title":  "COWL",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491784951)\/"
+        "Date":  "\/Date(1409774516106)\/"
     },
     {
         "Title":  "COWL",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491784979)\/"
+        "Date":  "\/Date(1409774516122)\/"
     },
     {
         "Title":  "COWL",
@@ -57,11 +57,11 @@
         "CurrentPrice":  2.5,
         "Minimum":  2.5,
         "Maximum":  2.5,
-        "Count":  1,
+        "Count":  2,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491785003)\/"
+        "Date":  "\/Date(1409774516153)\/"
     },
     {
         "Title":  "COWL",
@@ -77,6 +77,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491785025)\/"
+        "Date":  "\/Date(1409774516184)\/"
     }
 ]

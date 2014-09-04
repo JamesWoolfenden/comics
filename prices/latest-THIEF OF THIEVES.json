@@ -13,7 +13,7 @@
         "AveragePaid":  1.9400000000000002,
         "AverageNetPaid":  1.9400000000000002,
         "Stock":  3,
-        "Date":  "\/Date(1409491725441)\/"
+        "Date":  "\/Date(1409774454455)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491725462)\/"
+        "Date":  "\/Date(1409774454486)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -45,7 +45,7 @@
         "AveragePaid":  1.98,
         "AverageNetPaid":  1.98,
         "Stock":  4,
-        "Date":  "\/Date(1409491725514)\/"
+        "Date":  "\/Date(1409774454533)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491725538)\/"
+        "Date":  "\/Date(1409774454564)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -77,23 +77,23 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491725559)\/"
+        "Date":  "\/Date(1409774454580)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
         "Issue":  "12",
         "Cover":  12,
-        "TotalCost":  "2.97",
-        "Mean":  2.97,
-        "AveragePrice":  2.62,
-        "CurrentPrice":  3.3860000000000006,
+        "TotalCost":  "3.15",
+        "Mean":  3.1545454545454548,
+        "AveragePrice":  2.7090909090909094,
+        "CurrentPrice":  3.686,
         "Minimum":  0.99,
         "Maximum":  4.99,
-        "Count":  10,
+        "Count":  11,
         "AveragePaid":  1.8099999999999998,
         "AverageNetPaid":  1.8099999999999998,
         "Stock":  3,
-        "Date":  "\/Date(1409491725607)\/"
+        "Date":  "\/Date(1409774454627)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -109,7 +109,7 @@
         "AveragePaid":  1.8099999999999998,
         "AverageNetPaid":  1.8099999999999998,
         "Stock":  3,
-        "Date":  "\/Date(1409491725648)\/"
+        "Date":  "\/Date(1409774454673)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -125,7 +125,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1409491725696)\/"
+        "Date":  "\/Date(1409774454720)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -141,7 +141,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1409491725748)\/"
+        "Date":  "\/Date(1409774454783)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -157,39 +157,39 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1409491725797)\/"
+        "Date":  "\/Date(1409774454829)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
         "Issue":  "17",
         "Cover":  17,
-        "TotalCost":  "2.60",
-        "Mean":  2.6033333333333335,
-        "AveragePrice":  2.1922222222222221,
-        "CurrentPrice":  2.6079999999999997,
+        "TotalCost":  "2.66",
+        "Mean":  2.6580000000000004,
+        "AveragePrice":  2.2880000000000003,
+        "CurrentPrice":  2.7380000000000004,
         "Minimum":  0.99,
-        "Maximum":  2.99,
-        "Count":  9,
+        "Maximum":  3.15,
+        "Count":  10,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1409491725841)\/"
+        "Date":  "\/Date(1409774454861)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
         "Issue":  "18",
         "Cover":  18,
-        "TotalCost":  "2.19",
-        "Mean":  2.1914285714285713,
-        "AveragePrice":  1.9771428571428571,
-        "CurrentPrice":  1.8980000000000001,
+        "TotalCost":  "2.31",
+        "Mean":  2.3112500000000002,
+        "AveragePrice":  2.1237500000000002,
+        "CurrentPrice":  2.108,
         "Minimum":  0.99,
-        "Maximum":  2.25,
-        "Count":  7,
+        "Maximum":  3.15,
+        "Count":  8,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1409491725880)\/"
+        "Date":  "\/Date(1409774454907)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -205,23 +205,23 @@
         "AveragePaid":  2.46,
         "AverageNetPaid":  2.125,
         "Stock":  2,
-        "Date":  "\/Date(1409491725928)\/"
+        "Date":  "\/Date(1409774454954)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
         "Issue":  "1A",
         "Cover":  1,
-        "TotalCost":  "35.56",
-        "Mean":  35.563333333333333,
-        "AveragePrice":  32.975555555555552,
-        "CurrentPrice":  32.751999999999995,
+        "TotalCost":  "36.01",
+        "Mean":  36.007,
+        "AveragePrice":  33.678,
+        "CurrentPrice":  35.552,
         "Minimum":  12.02,
         "Maximum":  51,
-        "Count":  9,
+        "Count":  10,
         "AveragePaid":  12.02,
         "AverageNetPaid":  12.02,
         "Stock":  1,
-        "Date":  "\/Date(1409491725972)\/"
+        "Date":  "\/Date(1409774455001)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -237,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726003)\/"
+        "Date":  "\/Date(1409774455032)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -253,7 +253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726024)\/"
+        "Date":  "\/Date(1409774455063)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -269,7 +269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726046)\/"
+        "Date":  "\/Date(1409774455079)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -285,7 +285,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491726077)\/"
+        "Date":  "\/Date(1409774455110)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -301,7 +301,7 @@
         "AveragePaid":  45.99,
         "AverageNetPaid":  45.99,
         "Stock":  1,
-        "Date":  "\/Date(1409491726106)\/"
+        "Date":  "\/Date(1409774455141)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -317,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726130)\/"
+        "Date":  "\/Date(1409774455173)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -333,7 +333,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491726155)\/"
+        "Date":  "\/Date(1409774455188)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -349,7 +349,7 @@
         "AveragePaid":  4.5,
         "AverageNetPaid":  4.5,
         "Stock":  2,
-        "Date":  "\/Date(1409491726192)\/"
+        "Date":  "\/Date(1409774455235)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -365,7 +365,7 @@
         "AveragePaid":  3.29,
         "AverageNetPaid":  3.29,
         "Stock":  1,
-        "Date":  "\/Date(1409491726216)\/"
+        "Date":  "\/Date(1409774455251)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -381,7 +381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726246)\/"
+        "Date":  "\/Date(1409774455282)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -397,7 +397,7 @@
         "AveragePaid":  1.23,
         "AverageNetPaid":  1.23,
         "Stock":  1,
-        "Date":  "\/Date(1409491726279)\/"
+        "Date":  "\/Date(1409774455313)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -413,7 +413,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726303)\/"
+        "Date":  "\/Date(1409774455344)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -429,7 +429,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726343)\/"
+        "Date":  "\/Date(1409774455375)\/"
+    },
+    {
+        "Title":  "THIEF OF THIEVES",
+        "Issue":  "1GCGC",
+        "Cover":  1,
+        "TotalCost":  "125.00",
+        "Mean":  125,
+        "AveragePrice":  125,
+        "CurrentPrice":  125,
+        "Minimum":  125,
+        "Maximum":  125,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null,
+        "Date":  "\/Date(1409774455407)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -445,7 +461,7 @@
         "AveragePaid":  2.1625,
         "AverageNetPaid":  1.975,
         "Stock":  2,
-        "Date":  "\/Date(1409491726376)\/"
+        "Date":  "\/Date(1409774455438)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -461,7 +477,7 @@
         "AveragePaid":  2.77,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1409491726419)\/"
+        "Date":  "\/Date(1409774455485)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -477,7 +493,7 @@
         "AveragePaid":  2.77,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491726451)\/"
+        "Date":  "\/Date(1409774455516)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -493,7 +509,7 @@
         "AveragePaid":  10.075,
         "AverageNetPaid":  10.075,
         "Stock":  2,
-        "Date":  "\/Date(1409491726499)\/"
+        "Date":  "\/Date(1409774455563)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -509,7 +525,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726543)\/"
+        "Date":  "\/Date(1409774455609)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -525,7 +541,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726565)\/"
+        "Date":  "\/Date(1409774455625)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -541,7 +557,7 @@
         "AveragePaid":  1.23,
         "AverageNetPaid":  1.23,
         "Stock":  1,
-        "Date":  "\/Date(1409491726589)\/"
+        "Date":  "\/Date(1409774455656)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -557,7 +573,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726611)\/"
+        "Date":  "\/Date(1409774455672)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -573,7 +589,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726639)\/"
+        "Date":  "\/Date(1409774455703)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -589,7 +605,7 @@
         "AveragePaid":  8.78,
         "AverageNetPaid":  8.78,
         "Stock":  3,
-        "Date":  "\/Date(1409491726690)\/"
+        "Date":  "\/Date(1409774455750)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -605,7 +621,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726719)\/"
+        "Date":  "\/Date(1409774455781)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -621,7 +637,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726743)\/"
+        "Date":  "\/Date(1409774455812)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -637,7 +653,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726765)\/"
+        "Date":  "\/Date(1409774455828)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -653,7 +669,7 @@
         "AveragePaid":  1.365,
         "AverageNetPaid":  1.365,
         "Stock":  2,
-        "Date":  "\/Date(1409491726792)\/"
+        "Date":  "\/Date(1409774455859)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -669,7 +685,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726816)\/"
+        "Date":  "\/Date(1409774455875)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -685,7 +701,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726837)\/"
+        "Date":  "\/Date(1409774455906)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -701,7 +717,7 @@
         "AveragePaid":  1.23,
         "AverageNetPaid":  1.23,
         "Stock":  1,
-        "Date":  "\/Date(1409491726865)\/"
+        "Date":  "\/Date(1409774455937)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -717,7 +733,7 @@
         "AveragePaid":  1.5,
         "AverageNetPaid":  1.5,
         "Stock":  3,
-        "Date":  "\/Date(1409491726895)\/"
+        "Date":  "\/Date(1409774455968)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -733,7 +749,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491726919)\/"
+        "Date":  "\/Date(1409774455984)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -749,7 +765,7 @@
         "AveragePaid":  1.545,
         "AverageNetPaid":  1.545,
         "Stock":  4,
-        "Date":  "\/Date(1409491726958)\/"
+        "Date":  "\/Date(1409774456031)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -765,7 +781,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491726981)\/"
+        "Date":  "\/Date(1409774456046)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -781,7 +797,7 @@
         "AveragePaid":  1.8699999999999999,
         "AverageNetPaid":  1.8699999999999999,
         "Stock":  6,
-        "Date":  "\/Date(1409491727045)\/"
+        "Date":  "\/Date(1409774456124)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -797,7 +813,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491727067)\/"
+        "Date":  "\/Date(1409774456140)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -813,7 +829,7 @@
         "AveragePaid":  1.9400000000000002,
         "AverageNetPaid":  1.9400000000000002,
         "Stock":  3,
-        "Date":  "\/Date(1409491727117)\/"
+        "Date":  "\/Date(1409774456187)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -829,7 +845,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491727138)\/"
+        "Date":  "\/Date(1409774456218)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -845,7 +861,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491727160)\/"
+        "Date":  "\/Date(1409774456233)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -861,7 +877,7 @@
         "AveragePaid":  1.665,
         "AverageNetPaid":  1.665,
         "Stock":  2,
-        "Date":  "\/Date(1409491727197)\/"
+        "Date":  "\/Date(1409774456280)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -877,7 +893,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491727220)\/"
+        "Date":  "\/Date(1409774456296)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -893,7 +909,7 @@
         "AveragePaid":  1.9400000000000002,
         "AverageNetPaid":  1.9400000000000002,
         "Stock":  3,
-        "Date":  "\/Date(1409491727267)\/"
+        "Date":  "\/Date(1409774456343)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -909,7 +925,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491727289)\/"
+        "Date":  "\/Date(1409774456374)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -925,7 +941,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491727312)\/"
+        "Date":  "\/Date(1409774456389)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -941,23 +957,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491727334)\/"
+        "Date":  "\/Date(1409774456421)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "49.04",
-        "Mean":  49.039056603773595,
-        "AveragePrice":  45.1766037735849,
-        "CurrentPrice":  37.6,
+        "TotalCost":  "48.20",
+        "Mean":  48.204814814814824,
+        "AveragePrice":  44.413888888888877,
+        "CurrentPrice":  37.198,
         "Minimum":  0.99,
         "Maximum":  155,
-        "Count":  53,
+        "Count":  54,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491727487)\/"
+        "Date":  "\/Date(1409774456577)\/"
     },
     {
         "Title":  "THIEF OF THIEVES",
@@ -973,6 +989,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491727509)\/"
+        "Date":  "\/Date(1409774456592)\/"
     }
 ]

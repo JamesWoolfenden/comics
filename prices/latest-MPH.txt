@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787105)\/"
+        "Date":  "\/Date(1409774518493)\/"
     },
     {
         "Title":  "MPH",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787150)\/"
+        "Date":  "\/Date(1409774518524)\/"
     },
     {
         "Title":  "MPH",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787180)\/"
+        "Date":  "\/Date(1409774518556)\/"
     },
     {
         "Title":  "MPH",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787213)\/"
+        "Date":  "\/Date(1409774518587)\/"
     },
     {
         "Title":  "MPH",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787235)\/"
+        "Date":  "\/Date(1409774518618)\/"
     },
     {
         "Title":  "MPH",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787270)\/"
+        "Date":  "\/Date(1409774518649)\/"
     },
     {
         "Title":  "MPH",
@@ -109,7 +109,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1409491787302)\/"
+        "Date":  "\/Date(1409774518680)\/"
     },
     {
         "Title":  "MPH",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787330)\/"
+        "Date":  "\/Date(1409774518712)\/"
     },
     {
         "Title":  "MPH",
@@ -141,7 +141,7 @@
         "AveragePaid":  3.99,
         "AverageNetPaid":  3.99,
         "Stock":  1,
-        "Date":  "\/Date(1409491787355)\/"
+        "Date":  "\/Date(1409774518743)\/"
     },
     {
         "Title":  "MPH",
@@ -157,7 +157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787380)\/"
+        "Date":  "\/Date(1409774518758)\/"
     },
     {
         "Title":  "MPH",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787410)\/"
+        "Date":  "\/Date(1409774518790)\/"
     },
     {
         "Title":  "MPH",
@@ -189,7 +189,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  2,
-        "Date":  "\/Date(1409491787453)\/"
+        "Date":  "\/Date(1409774518836)\/"
     },
     {
         "Title":  "MPH",
@@ -205,23 +205,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787480)\/"
+        "Date":  "\/Date(1409774518852)\/"
     },
     {
         "Title":  "MPH",
         "Issue":  "2C",
         "Cover":  2,
-        "TotalCost":  "3.06",
-        "Mean":  3.0625,
-        "AveragePrice":  3.0625,
-        "CurrentPrice":  3.0625,
+        "TotalCost":  "3.35",
+        "Mean":  3.35,
+        "AveragePrice":  3.35,
+        "CurrentPrice":  3.35,
         "Minimum":  2.25,
         "Maximum":  4.5,
-        "Count":  4,
+        "Count":  5,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787511)\/"
+        "Date":  "\/Date(1409774518899)\/"
     },
     {
         "Title":  "MPH",
@@ -237,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787548)\/"
+        "Date":  "\/Date(1409774518930)\/"
     },
     {
         "Title":  "MPH",
@@ -253,7 +253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787576)\/"
+        "Date":  "\/Date(1409774518961)\/"
     },
     {
         "Title":  "MPH",
@@ -269,7 +269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787598)\/"
+        "Date":  "\/Date(1409774518977)\/"
     },
     {
         "Title":  "MPH",
@@ -285,6 +285,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491787621)\/"
+        "Date":  "\/Date(1409774519008)\/"
     }
 ]

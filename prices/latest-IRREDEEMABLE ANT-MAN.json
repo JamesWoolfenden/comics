@@ -13,7 +13,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1409491660371)\/"
+        "Date":  "\/Date(1409774386355)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
@@ -29,7 +29,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1409491660395)\/"
+        "Date":  "\/Date(1409774386386)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -45,7 +45,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1409491660416)\/"
+        "Date":  "\/Date(1409774386417)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -61,7 +61,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1409491660437)\/"
+        "Date":  "\/Date(1409774386433)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
@@ -77,7 +77,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1409491660465)\/"
+        "Date":  "\/Date(1409774386464)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -93,7 +93,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1409491660486)\/"
+        "Date":  "\/Date(1409774386480)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -109,7 +109,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1409491660507)\/"
+        "Date":  "\/Date(1409774386511)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -125,23 +125,23 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1409491660531)\/"
+        "Date":  "\/Date(1409774386542)\/"
     },
     {
-        "Title":  "irredeemable ant-man",
+        "Title":  "IRREDEEMABLE ANT-MAN",
         "Issue":  "6",
         "Cover":  6,
-        "TotalCost":  "2.41",
-        "Mean":  2.4050000000000002,
-        "AveragePrice":  0.78499999999999992,
-        "CurrentPrice":  0.78499999999999992,
+        "TotalCost":  "2.44",
+        "Mean":  2.436666666666667,
+        "AveragePrice":  1.3566666666666667,
+        "CurrentPrice":  1.3566666666666667,
         "Minimum":  0.58,
-        "Maximum":  0.99,
-        "Count":  2,
+        "Maximum":  2.5,
+        "Count":  3,
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1409491660555)\/"
+        "Date":  "\/Date(1409774386558)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
@@ -157,7 +157,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1409491660579)\/"
+        "Date":  "\/Date(1409774386589)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -173,7 +173,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1409491660600)\/"
+        "Date":  "\/Date(1409774386620)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -189,7 +189,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1409491660621)\/"
+        "Date":  "\/Date(1409774386636)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
@@ -205,6 +205,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491660651)\/"
+        "Date":  "\/Date(1409774386667)\/"
     }
 ]

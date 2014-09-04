@@ -1,5 +1,12 @@
 $corescript=$myinvocation.mycommand.path
-$root=split-path -parent  -Path $corescript
+if ($corescript -eq $null)
+{
+   $root=$root=(gl).Path
+}
+else
+{
+   $root=split-path -parent -Path $corescript
+}
 
 import-module "$root\core.ps1" -force
 function get-closeencountersdata()
@@ -18,7 +25,7 @@ function get-closeencountersdata()
    $site="Close Encounters"
    $fullfilter=$search+"&limit=30"
    $url="http://www.kimonolabs.com/api/9u9wvzya?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-Host "Accessing $url"
+   write-debug "Accessing $url"
    write-Host "Looking for $title @ `"$site`""
 
 <# Postage
@@ -45,6 +52,7 @@ function get-closeencountersdata()
    $counter=0
    $closeecounters=@()
    $results= $ceresults.results.collection1
+   $results= $results| where {$_.title.text -ne ""}
    
    switch ($results -is [system.array] )
    {
@@ -93,7 +101,15 @@ function get-closeencountersdata()
          }
          else
          {
-            $price=get-price -price $results[$counter].price
+            try
+            {
+                $price=get-price -price $results[$counter].price
+            }     
+            catch
+            {
+                write-warning "Price fail on Count $counter : $results[$counter])"
+                $price=$null
+            }       
          }
       }
 

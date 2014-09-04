@@ -3,17 +3,17 @@
         "Title":  "REVIVAL",
         "Issue":  "10",
         "Cover":  10,
-        "TotalCost":  "2.72",
-        "Mean":  2.7166666666666668,
-        "AveragePrice":  2.7166666666666668,
-        "CurrentPrice":  2.7166666666666668,
-        "Minimum":  2.5,
+        "TotalCost":  "1.84",
+        "Mean":  1.8359333333333336,
+        "AveragePrice":  1.8359333333333336,
+        "CurrentPrice":  1.8359333333333332,
+        "Minimum":  0.198,
         "Maximum":  3.15,
-        "Count":  3,
+        "Count":  5,
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  2,
-        "Date":  "\/Date(1409491777589)\/"
+        "Date":  "\/Date(1409774508275)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -29,23 +29,23 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1409491777612)\/"
+        "Date":  "\/Date(1409774508291)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "11",
         "Cover":  11,
-        "TotalCost":  "2.39",
-        "Mean":  2.3875,
-        "AveragePrice":  2.0125,
-        "CurrentPrice":  2.0125,
-        "Minimum":  1.32,
+        "TotalCost":  "1.76",
+        "Mean":  1.7632777777777779,
+        "AveragePrice":  1.5132777777777779,
+        "CurrentPrice":  1.3159333333333332,
+        "Minimum":  0.198,
         "Maximum":  2.5,
-        "Count":  4,
+        "Count":  6,
         "AveragePaid":  2.365,
         "AverageNetPaid":  2.365,
         "Stock":  2,
-        "Date":  "\/Date(1409491777644)\/"
+        "Date":  "\/Date(1409774508322)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  2,
-        "Date":  "\/Date(1409491777687)\/"
+        "Date":  "\/Date(1409774508369)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -77,139 +77,139 @@
         "AveragePaid":  9,
         "AverageNetPaid":  9,
         "Stock":  1,
-        "Date":  "\/Date(1409491777715)\/"
+        "Date":  "\/Date(1409774508400)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "13",
         "Cover":  13,
-        "TotalCost":  "2.96",
-        "Mean":  2.964,
-        "AveragePrice":  2.844,
-        "CurrentPrice":  3.028,
-        "Minimum":  2.1,
+        "TotalCost":  "2.68",
+        "Mean":  2.6769444444444441,
+        "AveragePrice":  2.5769444444444445,
+        "CurrentPrice":  2.344666666666666,
+        "Minimum":  1,
         "Maximum":  3.15,
-        "Count":  10,
+        "Count":  12,
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1409491777765)\/"
+        "Date":  "\/Date(1409774508447)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "14",
         "Cover":  14,
-        "TotalCost":  "2.60",
-        "Mean":  2.5966666666666671,
-        "AveragePrice":  2.0883333333333334,
-        "CurrentPrice":  2.066,
-        "Minimum":  0.49,
+        "TotalCost":  "2.03",
+        "Mean":  2.0290370370370372,
+        "AveragePrice":  1.690148148148148,
+        "CurrentPrice":  1.1242666666666659,
+        "Minimum":  0.198,
         "Maximum":  3.25,
-        "Count":  6,
+        "Count":  9,
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1409491777801)\/"
+        "Date":  "\/Date(1409774508494)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "15",
         "Cover":  15,
-        "TotalCost":  "2.59",
-        "Mean":  2.5922222222222224,
-        "AveragePrice":  2.108888888888889,
-        "CurrentPrice":  1.616,
-        "Minimum":  0.49,
+        "TotalCost":  "2.27",
+        "Mean":  2.2737575757575756,
+        "AveragePrice":  1.8783030303030301,
+        "CurrentPrice":  1.0322666666666662,
+        "Minimum":  0.198,
         "Maximum":  3.1,
-        "Count":  9,
+        "Count":  11,
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1409491777848)\/"
+        "Date":  "\/Date(1409774508540)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "16",
         "Cover":  16,
-        "TotalCost":  "2.49",
-        "Mean":  2.4916666666666667,
-        "AveragePrice":  2.2916666666666665,
-        "CurrentPrice":  2.2,
-        "Minimum":  2.1,
-        "Maximum":  2.75,
-        "Count":  6,
+        "TotalCost":  "2.20",
+        "Mean":  2.2044444444444444,
+        "AveragePrice":  2.0711111111111111,
+        "CurrentPrice":  1.8779999999999994,
+        "Minimum":  0.256666666666667,
+        "Maximum":  3.15,
+        "Count":  9,
         "AveragePaid":  2.75,
         "AverageNetPaid":  2.75,
         "Stock":  1,
-        "Date":  "\/Date(1409491777884)\/"
+        "Date":  "\/Date(1409774508587)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "17",
         "Cover":  17,
-        "TotalCost":  "2.50",
-        "Mean":  2.4999999999999996,
-        "AveragePrice":  2.0090909090909088,
-        "CurrentPrice":  2.25,
-        "Minimum":  0.6,
+        "TotalCost":  "2.18",
+        "Mean":  2.1776785714285709,
+        "AveragePrice":  1.7919642857142855,
+        "CurrentPrice":  1.6374999999999993,
+        "Minimum":  0.256666666666667,
         "Maximum":  2.95,
-        "Count":  11,
+        "Count":  14,
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1409491777934)\/"
+        "Date":  "\/Date(1409774508650)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "18",
         "Cover":  18,
-        "TotalCost":  "2.75",
-        "Mean":  2.7484615384615383,
-        "AveragePrice":  2.6146153846153846,
-        "CurrentPrice":  2.728,
-        "Minimum":  1.75,
+        "TotalCost":  "2.42",
+        "Mean":  2.4198437499999996,
+        "AveragePrice":  2.31109375,
+        "CurrentPrice":  1.6154999999999995,
+        "Minimum":  0.256666666666667,
         "Maximum":  3.3,
-        "Count":  13,
+        "Count":  16,
         "AveragePaid":  2.25,
         "AverageNetPaid":  1.75,
         "Stock":  1,
-        "Date":  "\/Date(1409491777989)\/"
+        "Date":  "\/Date(1409774508712)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "19",
         "Cover":  19,
-        "TotalCost":  "2.46",
-        "Mean":  2.4625,
-        "AveragePrice":  2.425,
-        "CurrentPrice":  2.2399999999999998,
-        "Minimum":  1.75,
+        "TotalCost":  "2.18",
+        "Mean":  2.1774305555555555,
+        "AveragePrice":  2.1461805555555555,
+        "CurrentPrice":  1.6708333333333336,
+        "Minimum":  0.256666666666667,
         "Maximum":  3.3,
-        "Count":  10,
+        "Count":  12,
         "AveragePaid":  2.1083333333333329,
         "AverageNetPaid":  1.9833333333333334,
         "Stock":  3,
-        "Date":  "\/Date(1409491778037)\/"
+        "Date":  "\/Date(1409774508759)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "1A",
         "Cover":  1,
-        "TotalCost":  "9.72",
-        "Mean":  9.7177272727272719,
-        "AveragePrice":  8.4527272727272713,
-        "CurrentPrice":  10.898,
-        "Minimum":  2.1,
+        "TotalCost":  "8.60",
+        "Mean":  8.6030864197530867,
+        "AveragePrice":  7.5723456790123453,
+        "CurrentPrice":  3.6986666666666679,
+        "Minimum":  1.7,
         "Maximum":  15.95,
-        "Count":  22,
+        "Count":  27,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1409491778112)\/"
+        "Date":  "\/Date(1409774508852)\/"
     },
     {
         "Title":  "REVIVAL",
-        "Issue":  "1A:CGC",
+        "Issue":  "1ACGC",
         "Cover":  1,
         "TotalCost":  "35.50",
         "Mean":  35.5,
@@ -221,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491778135)\/"
+        "Date":  "\/Date(1409774508868)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -237,23 +237,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491778159)\/"
+        "Date":  "\/Date(1409774508899)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "1B",
         "Cover":  1,
-        "TotalCost":  "7.46",
-        "Mean":  7.4633333333333338,
-        "AveragePrice":  5.830000000000001,
-        "CurrentPrice":  5.830000000000001,
-        "Minimum":  0.99,
+        "TotalCost":  "5.75",
+        "Mean":  5.7475000000000005,
+        "AveragePrice":  4.5225000000000009,
+        "CurrentPrice":  4.5225,
+        "Minimum":  0.6,
         "Maximum":  8.5,
-        "Count":  3,
+        "Count":  4,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491778187)\/"
+        "Date":  "\/Date(1409774508930)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -269,7 +269,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491778212)\/"
+        "Date":  "\/Date(1409774508962)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -285,7 +285,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491778237)\/"
+        "Date":  "\/Date(1409774508977)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -301,7 +301,7 @@
         "AveragePaid":  2.8,
         "AverageNetPaid":  2.8,
         "Stock":  2,
-        "Date":  "\/Date(1409491778276)\/"
+        "Date":  "\/Date(1409774509024)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -317,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491778299)\/"
+        "Date":  "\/Date(1409774509040)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -333,7 +333,7 @@
         "AveragePaid":  8.8,
         "AverageNetPaid":  8.8,
         "Stock":  1,
-        "Date":  "\/Date(1409491778330)\/"
+        "Date":  "\/Date(1409774509071)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -349,7 +349,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491778352)\/"
+        "Date":  "\/Date(1409774509102)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -365,7 +365,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491778375)\/"
+        "Date":  "\/Date(1409774509118)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -381,39 +381,39 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491778400)\/"
+        "Date":  "\/Date(1409774509149)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "20",
         "Cover":  20,
-        "TotalCost":  "2.46",
-        "Mean":  2.4581818181818176,
-        "AveragePrice":  2.3218181818181813,
-        "CurrentPrice":  2.368,
-        "Minimum":  0.99,
+        "TotalCost":  "2.20",
+        "Mean":  2.1957051282051281,
+        "AveragePrice":  2.0803205128205127,
+        "CurrentPrice":  2.0208333333333335,
+        "Minimum":  0.256666666666667,
         "Maximum":  3.15,
-        "Count":  11,
+        "Count":  13,
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1409491778448)\/"
+        "Date":  "\/Date(1409774509196)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "21",
         "Cover":  21,
-        "TotalCost":  "2.54",
-        "Mean":  2.5375,
-        "AveragePrice":  2.5375,
-        "CurrentPrice":  2.44,
-        "Minimum":  2.2,
+        "TotalCost":  "2.28",
+        "Mean":  2.2840740740740744,
+        "AveragePrice":  2.2840740740740744,
+        "CurrentPrice":  2.0413333333333332,
+        "Minimum":  0.256666666666667,
         "Maximum":  3.4,
-        "Count":  8,
+        "Count":  9,
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1409491778489)\/"
+        "Date":  "\/Date(1409774509242)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -429,7 +429,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491778528)\/"
+        "Date":  "\/Date(1409774509289)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -445,39 +445,39 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491778554)\/"
+        "Date":  "\/Date(1409774509320)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "2A",
         "Cover":  2,
-        "TotalCost":  "3.94",
-        "Mean":  3.9445454545454548,
-        "AveragePrice":  3.0036363636363634,
-        "CurrentPrice":  4.138,
+        "TotalCost":  "3.87",
+        "Mean":  3.8677083333333346,
+        "AveragePrice":  3.2208333333333341,
+        "CurrentPrice":  3.6986666666666679,
         "Minimum":  0.99,
         "Maximum":  7.49,
-        "Count":  11,
+        "Count":  16,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  4,
-        "Date":  "\/Date(1409491778604)\/"
+        "Date":  "\/Date(1409774509383)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "2B",
         "Cover":  2,
-        "TotalCost":  "2.37",
-        "Mean":  2.37,
-        "AveragePrice":  1.545,
-        "CurrentPrice":  1.545,
-        "Minimum":  0.99,
+        "TotalCost":  "1.78",
+        "Mean":  1.78,
+        "AveragePrice":  1.23,
+        "CurrentPrice":  1.23,
+        "Minimum":  0.6,
         "Maximum":  2.1,
-        "Count":  2,
+        "Count":  3,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491778629)\/"
+        "Date":  "\/Date(1409774509398)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -493,7 +493,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491778658)\/"
+        "Date":  "\/Date(1409774509430)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -509,39 +509,23 @@
         "AveragePaid":  5.1,
         "AverageNetPaid":  5.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491778683)\/"
-    },
-    {
-        "Title":  "REVIVAL",
-        "Issue":  "3",
-        "Cover":  3,
-        "TotalCost":  "2.99",
-        "Mean":  2.99,
-        "AveragePrice":  0.99,
-        "CurrentPrice":  0.99,
-        "Minimum":  0.99,
-        "Maximum":  0.99,
-        "Count":  2,
-        "AveragePaid":  null,
-        "AverageNetPaid":  null,
-        "Stock":  null,
-        "Date":  "\/Date(1409491778709)\/"
+        "Date":  "\/Date(1409774509461)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "3A",
         "Cover":  3,
-        "TotalCost":  "6.56",
-        "Mean":  6.5616666666666665,
-        "AveragePrice":  5.745,
-        "CurrentPrice":  6.4740000000000011,
-        "Minimum":  1.64,
+        "TotalCost":  "4.92",
+        "Mean":  4.92452380952381,
+        "AveragePrice":  4.2888095238095252,
+        "CurrentPrice":  3.6986666666666679,
+        "Minimum":  0.99,
         "Maximum":  12.99,
-        "Count":  6,
+        "Count":  14,
         "AveragePaid":  4.35,
         "AverageNetPaid":  4.35,
         "Stock":  2,
-        "Date":  "\/Date(1409491778746)\/"
+        "Date":  "\/Date(1409774509523)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -557,7 +541,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491778774)\/"
+        "Date":  "\/Date(1409774509539)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -573,23 +557,23 @@
         "AveragePaid":  2.99,
         "AverageNetPaid":  2.99,
         "Stock":  1,
-        "Date":  "\/Date(1409491778799)\/"
+        "Date":  "\/Date(1409774509570)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "4A",
         "Cover":  4,
-        "TotalCost":  "4.15",
-        "Mean":  4.1542857142857139,
-        "AveragePrice":  3.4542857142857142,
-        "CurrentPrice":  3.268,
+        "TotalCost":  "4.07",
+        "Mean":  4.0663888888888895,
+        "AveragePrice":  3.6580555555555563,
+        "CurrentPrice":  3.9433333333333338,
         "Minimum":  1.64,
         "Maximum":  7.5,
-        "Count":  7,
+        "Count":  12,
         "AveragePaid":  3.01,
         "AverageNetPaid":  3.01,
         "Stock":  4,
-        "Date":  "\/Date(1409491778838)\/"
+        "Date":  "\/Date(1409774509617)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -605,39 +589,23 @@
         "AveragePaid":  3.99,
         "AverageNetPaid":  3.99,
         "Stock":  1,
-        "Date":  "\/Date(1409491778862)\/"
-    },
-    {
-        "Title":  "revival",
-        "Issue":  "5",
-        "Cover":  5,
-        "TotalCost":  "2.29",
-        "Mean":  2.29,
-        "AveragePrice":  0.99,
-        "CurrentPrice":  0.99,
-        "Minimum":  0.99,
-        "Maximum":  0.99,
-        "Count":  1,
-        "AveragePaid":  null,
-        "AverageNetPaid":  null,
-        "Stock":  null,
-        "Date":  "\/Date(1409491778884)\/"
+        "Date":  "\/Date(1409774509648)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "5A",
         "Cover":  5,
-        "TotalCost":  "2.93",
-        "Mean":  2.9272727272727277,
-        "AveragePrice":  2.2363636363636363,
-        "CurrentPrice":  2.0940000000000003,
+        "TotalCost":  "3.04",
+        "Mean":  3.0441666666666669,
+        "AveragePrice":  2.4879166666666666,
+        "CurrentPrice":  3.0413333333333341,
         "Minimum":  0.99,
-        "Maximum":  4.32,
-        "Count":  11,
+        "Maximum":  5.1,
+        "Count":  16,
         "AveragePaid":  2.544,
         "AverageNetPaid":  2.544,
         "Stock":  5,
-        "Date":  "\/Date(1409491778933)\/"
+        "Date":  "\/Date(1409774509710)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -653,7 +621,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491778962)\/"
+        "Date":  "\/Date(1409774509742)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -669,23 +637,23 @@
         "AveragePaid":  3.99,
         "AverageNetPaid":  3.99,
         "Stock":  1,
-        "Date":  "\/Date(1409491778985)\/"
+        "Date":  "\/Date(1409774509757)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "6",
         "Cover":  6,
-        "TotalCost":  "4.66",
-        "Mean":  4.6579999999999995,
-        "AveragePrice":  4.358,
-        "CurrentPrice":  4.358,
-        "Minimum":  2.01,
+        "TotalCost":  "3.78",
+        "Mean":  3.7836333333333343,
+        "AveragePrice":  3.6336333333333344,
+        "CurrentPrice":  2.9092666666666673,
+        "Minimum":  0.198,
         "Maximum":  6.99,
-        "Count":  5,
+        "Count":  10,
         "AveragePaid":  2.9,
         "AverageNetPaid":  2.9,
         "Stock":  2,
-        "Date":  "\/Date(1409491779018)\/"
+        "Date":  "\/Date(1409774509804)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -701,23 +669,23 @@
         "AveragePaid":  6.5,
         "AverageNetPaid":  6.5,
         "Stock":  1,
-        "Date":  "\/Date(1409491779041)\/"
+        "Date":  "\/Date(1409774509835)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "7",
         "Cover":  7,
-        "TotalCost":  "5.98",
-        "Mean":  5.982,
-        "AveragePrice":  5.982,
-        "CurrentPrice":  5.982,
-        "Minimum":  2.65,
+        "TotalCost":  "5.25",
+        "Mean":  5.2488095238095225,
+        "AveragePrice":  5.2488095238095225,
+        "CurrentPrice":  6.1623333333333337,
+        "Minimum":  0.831666666666667,
         "Maximum":  8.99,
-        "Count":  5,
+        "Count":  7,
         "AveragePaid":  2.965,
         "AverageNetPaid":  2.965,
         "Stock":  2,
-        "Date":  "\/Date(1409491779075)\/"
+        "Date":  "\/Date(1409774509866)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -733,23 +701,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491779097)\/"
+        "Date":  "\/Date(1409774509898)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "8",
         "Cover":  8,
-        "TotalCost":  "2.82",
-        "Mean":  2.819,
-        "AveragePrice":  2.5039999999999996,
-        "CurrentPrice":  2.5460000000000003,
+        "TotalCost":  "2.84",
+        "Mean":  2.8434722222222226,
+        "AveragePrice":  2.5809722222222216,
+        "CurrentPrice":  2.5523333333333333,
         "Minimum":  0.49,
-        "Maximum":  3.25,
-        "Count":  10,
+        "Maximum":  5.1,
+        "Count":  12,
         "AveragePaid":  2.65,
         "AverageNetPaid":  2.65,
         "Stock":  3,
-        "Date":  "\/Date(1409491779143)\/"
+        "Date":  "\/Date(1409774509944)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -765,23 +733,23 @@
         "AveragePaid":  3.99,
         "AverageNetPaid":  3.99,
         "Stock":  1,
-        "Date":  "\/Date(1409491779167)\/"
+        "Date":  "\/Date(1409774509976)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "9",
         "Cover":  9,
-        "TotalCost":  "2.77",
-        "Mean":  2.7666666666666671,
-        "AveragePrice":  2.2833333333333337,
-        "CurrentPrice":  2.24,
-        "Minimum":  0.99,
-        "Maximum":  2.99,
-        "Count":  6,
+        "TotalCost":  "2.55",
+        "Mean":  2.5539583333333331,
+        "AveragePrice":  2.1914583333333333,
+        "CurrentPrice":  2.5443333333333333,
+        "Minimum":  0.831666666666667,
+        "Maximum":  3,
+        "Count":  8,
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1409491779203)\/"
+        "Date":  "\/Date(1409774510007)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -797,23 +765,23 @@
         "AveragePaid":  0.99,
         "AverageNetPaid":  0.99,
         "Stock":  1,
-        "Date":  "\/Date(1409491779225)\/"
+        "Date":  "\/Date(1409774510038)\/"
     },
     {
         "Title":  "REVIVAL",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "18.12",
-        "Mean":  18.123870967741933,
-        "AveragePrice":  15.573870967741934,
-        "CurrentPrice":  8.158,
+        "TotalCost":  "17.68",
+        "Mean":  17.682499999999997,
+        "AveragePrice":  15.180937499999999,
+        "CurrentPrice":  8.45,
         "Minimum":  0.99,
         "Maximum":  74.95,
-        "Count":  31,
+        "Count":  32,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491779326)\/"
+        "Date":  "\/Date(1409774510132)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -829,7 +797,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491779351)\/"
+        "Date":  "\/Date(1409774510163)\/"
     },
     {
         "Title":  "REVIVAL",
@@ -845,6 +813,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1409491779376)\/"
+        "Date":  "\/Date(1409774510194)\/"
     }
 ]

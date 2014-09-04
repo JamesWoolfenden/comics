@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491796284)\/"
+        "Date":  "\/Date(1409774528742)\/"
     },
     {
         "Title":  "Comeback",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491796307)\/"
+        "Date":  "\/Date(1409774528774)\/"
     },
     {
         "Title":  "Comeback",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491796330)\/"
+        "Date":  "\/Date(1409774528789)\/"
     },
     {
         "Title":  "Comeback",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491796352)\/"
+        "Date":  "\/Date(1409774528820)\/"
     },
     {
         "Title":  "Comeback",
@@ -77,6 +77,22 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1409491796377)\/"
+        "Date":  "\/Date(1409774528836)\/"
+    },
+    {
+        "Title":  "COMEBACK",
+        "Issue":  "SET",
+        "Cover":  0,
+        "TotalCost":  "11.50",
+        "Mean":  11.5,
+        "AveragePrice":  10,
+        "CurrentPrice":  10,
+        "Minimum":  10,
+        "Maximum":  10,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null,
+        "Date":  "\/Date(1409774528867)\/"
     }
 ]

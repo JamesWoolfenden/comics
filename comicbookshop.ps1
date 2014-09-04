@@ -12,7 +12,7 @@ function get-comicbookshopdata()
    $site="Comic book shop"
    $fullfilter=$search
    $url="http://www.kimonolabs.com/api/azk3oj0y?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-Host "Accessing $url"
+   write-debug "Accessing $url"
    write-Host "Looking for $title @ `"$site`""
   
 <# Postage

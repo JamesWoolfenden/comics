@@ -25,7 +25,7 @@ furl 	pl
    $search="&q=$comic"
    $fullfilter=$search
    $url="https://www.kimonolabs.com/api/2y1kpohc?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-Host "Accessing $url"
+   write-debug "Accessing $url"
    write-Host "Looking for $title @ `"Midtown`""
   
 <# Postage
