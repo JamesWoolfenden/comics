@@ -1,31 +1,30 @@
-finding
-http://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findItemsByProduct&SECURITY-APPNAME=RedWolfS-f525-478e-b13e-8893d513d683&RESPONSE-DATA-FORMAT=JSON&REST-PAYLOAD&productId.@type=UPC&productId=024543611363
+$corescript=$myinvocation.mycommand.path
+if ($corescript -eq $null)
+{
+   $root=$root=(gl).Path
+}
+else
+{
+   $root=split-path -parent -Path $corescript
+}
 
+import-module "$root\core.ps1" -force
 
-completed
-http://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.7.0&SECURITY-APPNAME=RedWolfS-f525-478e-b13e-8893d513d683&RESPONSE-DATA-FORMAT=JSON&REST-PAYLOAD&keywords=MANIFEST+DESTINY&itemFilter(0).name=SoldItemsOnly&itemFilter(0).value=true&sortOrder=PricePlusShippingLowest&paginationInput.entriesPerPage=100
+function get-ebayitem()
+{
+   #curl --include --request GET "https://www.kimonolabs.com/api/afv7qe7k?apikey=01f250503b7c40eb0ce695da7d74cbb1"
+   param (
+   [string]$ebayid="201080445741",
+   [string]$title="The Walking Dead")
 
-#Get completed items from uk
-$coreurl="http://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.7.0&SECURITY-APPNAME=RedWolfS-f525-478e-b13e-8893d513d683&RESPONSE-DATA-FORMAT=JSON&REST-PAYLOAD&GLOBAL-ID=EBAY-GB"
-$query="&keywords=MANIFEST+DESTINY&itemFilter(0).name=SoldItemsOnly&itemFilter(0).value=true&sortOrder=EndTimeSoonest&paginationInput.entriesPerPage=500"
+#http://www.ebay.co.uk/ itm / 201080445741 /
+#Parameter 	Default value 	Parameter to append
+#kimpath1 	itm 	&kimpath1=newvalue
+#kimpath2 	201080445741 	&kimpath2=newvalue
+   $title=$title.ToUpper()
+   $comic=$title.replace(" ","+")
+   $fullfilter="&kimpath2=$ebayid"
+   $url="https://www.kimonolabs.com/api/afv7qe7k?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
 
-$url=$coreurl+$query 
-$test=invoke-restmethod -Uri $url -Method GET
-$comic=$test.findCompletedItemsResponse.searchresult.item[0]
-
-#page2
-$query="&keywords=MANIFEST+DESTINY&itemFilter(0).name=SoldItemsOnly&itemFilter(0).value=true&sortOrder=EndTimeSoonest&paginationInput.entriesPerPage=100&paginationInput.pageNumber=2"
-$url=$coreurl+$query 
-$test=invoke-restmethod -Uri $url -Method GET
-$comic=$test.findCompletedItemsResponse.searchresult.item[0]
-
-paginationInput.pageNumber=2
-
-
-filters
-http://developer.ebay.com/DevZone/finding/HowTo/GettingStarted_JS_NV_JSON/GettingStarted_JS_NV_JSON.html
-http://developer.ebay.com/DevZone/finding/CallRef/findCompletedItems.html#Samples
-
-
-sniping starts here
-http://developer.ebay.com/DevZone/XML/docs/Reference/eBay/PlaceOffer.html#samplebid
+   $results=Invoke-RestMethod -Uri $url
+}

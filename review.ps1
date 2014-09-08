@@ -161,8 +161,8 @@ function update-record
    {
        Write-host "Price $($record.Price): market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline      
    }
-   
-   [decimal]$price=read-host 
+    
+   $price=read-hostdecimal 
    
    if ($price -eq $NULL -or $price -eq "")
    {
@@ -192,8 +192,7 @@ function update-record
    }
    catch
    {
-      $postage=new-object decimal
-      $postage=read-host "Postage: $($record.postage) estimate:$estimate"
+      $postage=read-hostdecimal "Postage: $($record.postage) estimate:$estimate"
       $postage="{0:N2}" -f $postage
     
       if ($postage -eq $NULL -or $postage -eq "")
@@ -259,16 +258,37 @@ function set-title
    param([string]$rawtitle)
 
    $newtitle=($rawtitle.ToUpper()).Split("#")
-   $title=read-host "Title $($newtitle[0])"
+   $padtitle=$newtitle -replace(" ","-")
+   $found=test-Path "$root\covers\$padtitle"
+   write-debug "Title at $root\covers\$padtitle"
+
+   if ($found)
+   {
+      write-Host "Title $($newtitle[0]):" -NoNewline -ForegroundColor green
+   } 
+   else
+   {
+      write-Host "New Title? $($newtitle[0]):" -NoNewline -ForegroundColor Yellow
+   }
+   
+   $title=read-host
 
    If (($title -eq $null) -or ($title -eq ""))
    {
-      $($newtitle[0]).trim()
+      $returntitle=$($newtitle[0]).trim()
    }  
    else
    {
-      $title
+      $returntitle=$title
    }
+
+   $padtitle=$returntitle -replace(" ","-")
+   if (!(test-Path $root\covers\$padtitle))
+   {
+     write-Host "New title: $returntitle" -ForegroundColor cyan
+   }
+
+   $returntitle
 }
 
 function set-issue
@@ -361,7 +381,6 @@ function set-issue
 
    $estimateIssue
  }  
-
 
  function guess-title()
  {

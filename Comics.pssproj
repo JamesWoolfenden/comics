@@ -2349,6 +2349,7 @@
     <Content Include=".\covers\X-MEN\SET.jpg" />
     <Content Include=".\covers\ZOMBIE-WORLD\SET.jpg" />
     <Content Include="comicbookshop.ps1" />
+    <Content Include="ebay.ps1" />
     <Content Include="history.ps1" />
     <Content Include="jqwidgets\demos\jqxgrid\prices-ratqueens.htm" />
     <Content Include="sales.ps1" />
@@ -2356,7 +2357,7 @@
     <Content Include="jqwidgets\demos\jqxgrid\comic-enormous.htm" />
     <Content Include="midtown.ps1" />
     <Content Include="TFAW.ps1" />
-    <Content Include="ebay.ps1" />
+    <Content Include="ebayinfo.ps1" />
     <Content Include="reed.ps1" />
     <Content Include="comicbookstore.ps1" />
     <Content Include="review.ps1" />

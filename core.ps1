@@ -173,3 +173,24 @@ function get-issue()
    
    $issue
 }
+
+function read-hostdecimal
+{
+
+   do 
+   {
+      try 
+      {
+        $numOk = $true
+        [Decimal]$Entry = Read-host 
+      } # end try
+      catch 
+      {
+         write-Host "Decimal entry required" -ForegroundColor  Yellow
+         $numOK = $false
+      }
+    } # end do 
+    until ($numOK)
+ 
+   $Entry
+ }
