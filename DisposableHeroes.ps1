@@ -86,8 +86,17 @@ function get-dhdata()
       $record| Add-Member -type NoteProperty -name title -value $title
 
       $issue=get-issue -rawissue $results[$counter].title.text
-      $price=get-price -price $results[$counter].price
-      
+      $temp=$results[$counter].price
+
+      if ( ($temp.split("`n")).count -gt 1)
+      {
+         $price=get-price -price $temp.split("`n")[1]
+      }
+      else
+      {
+         $price=get-price -price $results[$counter].price
+      }
+       
       $record| Add-Member -type NoteProperty -name issue -value $issue.cover
       $record| Add-Member -type NoteProperty -name variant -value $issue.variant
       $record| Add-Member -type NoteProperty -name price -value $price.Amount
