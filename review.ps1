@@ -192,7 +192,8 @@ function update-record
    }
    catch
    {
-      $postage=read-hostdecimal "Postage: $($record.postage) estimate:$estimate"
+      write-host "Postage: $($record.postage) estimate:$estimate" -NoNewline 
+      $postage=read-hostdecimal 
       $postage="{0:N2}" -f $postage
     
       if ($postage -eq $NULL -or $postage -eq "")
