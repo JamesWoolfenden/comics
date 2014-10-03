@@ -8,20 +8,8 @@
         "variant":  "THE WALKING DEAD MONOPOLY 2013 DHC",
         "price":  34.31,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:03:21 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/sep130648b.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep130648b.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep130648b.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE WALKING DEAD",
-        "issue":  "117",
-        "variant":  "117 SECOND PRINT",
-        "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:06 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
     },
     {
         "link":  "http://www.closeencounters.co.uk/index.php/sep130648c.html",
@@ -32,7 +20,19 @@
         "variant":  "117 THIRD PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:56 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep130648b.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep130648b.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep130648b.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "117",
+        "variant":  "117 SECOND PRINT",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Sep 22 2014 09:23:56 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "125 \u0027ALL OUT WAR\u0027 PART 11 OF 12",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:56 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "120 \u0027ALL OUT WAR\u0027 6 OF 12 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:56 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "119 \u0027ALL OUT WAR\u0027 CHAPTER 5 OF 12 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:56 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "118 \u0027ALL OUT WAR\u0027 PART 4 OF 12 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:56 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "#117 \u0027ALL OUT WAR\u0027 PART 3 OF 12 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:56 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "116 FIRST PRINT \u0027ALL OUT WAR\u0027 PART 2 OF 12",
         "price":  4.50,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:56 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -116,7 +116,7 @@
         "variant":  "WALKING DEAD SEASON 2 DEPUTY RICK GRIMES BY MCFARLANE TOYS BNIB",
         "price":  76.73,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:56 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -127,7 +127,7 @@
         "issue":  "134",
         "variant":  "134",
         "price":  "1.95",
-        "rundate":  "Mon Sep 22 2014 09:03:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:03:40 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -138,7 +138,7 @@
         "issue":  "133",
         "variant":  "133",
         "price":  "1.95",
-        "rundate":  "Mon Sep 22 2014 09:03:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:03:40 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -149,7 +149,7 @@
         "issue":  "132",
         "variant":  "132",
         "price":  "1.95",
-        "rundate":  "Mon Sep 22 2014 09:03:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:03:40 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -160,7 +160,18 @@
         "issue":  "131",
         "variant":  "131",
         "price":  "1.95",
-        "rundate":  "Mon Sep 22 2014 09:03:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:03:40 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/128018-manifest-destiny-8-walking-dead-129-cci-sdcc-2014-connect-pack-variant/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/128018-manifest-destiny-8-walking-dead-129-cci-sdcc-2014-connect-pack-variant/\"\u003ehttps://forbiddenplanet.com/128018-manifest-destiny-8-walking-dead-129-cci-sdcc-2014-connect-pack-variant/\u003c/a\u003e",
+        "orderdate":  "",
+        "title":  "THE WALKING DEAD",
+        "issue":  "8 \u0026 Walking Dead ",
+        "variant":  "8 \u0026 Walking Dead ",
+        "price":  "19.99",
+        "rundate":  "Mon Sep 29 2014 09:03:40 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -171,7 +182,7 @@
         "issue":  "130",
         "variant":  "130",
         "price":  "1.95",
-        "rundate":  "Mon Sep 22 2014 09:03:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:03:40 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -182,7 +193,7 @@
         "issue":  "128",
         "variant":  "128",
         "price":  "1.95",
-        "rundate":  "Mon Sep 22 2014 09:03:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:03:40 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -194,7 +205,7 @@
         "variant":  "FCBD EDITION SPECIAL",
         "price":  0.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -206,7 +217,7 @@
         "variant":  "1",
         "price":  0.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -218,7 +229,7 @@
         "variant":  "1 10TH ANNIVERSARY EDITION",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -230,7 +241,7 @@
         "variant":  "100 (1ST PRINT - ADLARD STANDARD COVER)",
         "price":  5.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -242,7 +253,7 @@
         "variant":  "100 (SDCC ESCAPE VARIANT CGC 9.8)",
         "price":  175.00,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -254,7 +265,7 @@
         "variant":  "102 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -266,7 +277,7 @@
         "variant":  "109 (BLANK COVER) *SIGNED BY CHARLIE ADLARD*",
         "price":  9.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -278,7 +289,7 @@
         "variant":  "109 *HOT BOOK*",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -290,7 +301,7 @@
         "variant":  "110",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -302,7 +313,7 @@
         "variant":  "111",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -314,7 +325,7 @@
         "variant":  "112",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -326,19 +337,7 @@
         "variant":  "113",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/the-walking-dead-114-p-57987.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/the-walking-dead-114-p-57987.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/the-walking-dead-114-p-57987.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE WALKING DEAD",
-        "issue":  "114",
-        "variant":  "114",
-        "price":  2.49,
-        "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -350,7 +349,7 @@
         "variant":  "115 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -362,7 +361,7 @@
         "variant":  "115 (COVER A)",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -374,7 +373,7 @@
         "variant":  "115 (MIDNIGHT RELEASE VARIANT COVER)",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -386,7 +385,7 @@
         "variant":  "115 (NEW YORK COMIC CON VARIANT COVER)",
         "price":  7.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -398,7 +397,7 @@
         "variant":  "115 (SET OF 10 CONNECTING COVERS)",
         "price":  29.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -410,7 +409,7 @@
         "variant":  "116 (1ST PRINT)",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -422,7 +421,7 @@
         "variant":  "116 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -434,7 +433,7 @@
         "variant":  "117 (1ST PRINT)",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -446,7 +445,7 @@
         "variant":  "117 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -458,7 +457,7 @@
         "variant":  "117 (3RD PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -470,7 +469,7 @@
         "variant":  "118",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -482,7 +481,7 @@
         "variant":  "120",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -494,7 +493,7 @@
         "variant":  "121",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -506,7 +505,7 @@
         "variant":  "122",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -518,7 +517,7 @@
         "variant":  "123",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -530,7 +529,7 @@
         "variant":  "124",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -542,7 +541,7 @@
         "variant":  "125",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -554,7 +553,7 @@
         "variant":  "126",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -566,7 +565,7 @@
         "variant":  "127 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -578,7 +577,7 @@
         "variant":  "128",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -590,7 +589,7 @@
         "variant":  "129",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -602,7 +601,7 @@
         "variant":  "130",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -614,7 +613,7 @@
         "variant":  "131",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -626,7 +625,7 @@
         "variant":  "MICHONNE SPECIAL (2ND PRINTING)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -638,7 +637,7 @@
         "variant":  "THE GOVERNOR SPECIAL",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -650,7 +649,7 @@
         "variant":  "TYREESE SPECIAL",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -662,7 +661,7 @@
         "variant":  "5 *HOT BOOK*",
         "price":  7.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -674,7 +673,7 @@
         "variant":  "9 *HOT BOOK*",
         "price":  5.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:22:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -686,19 +685,7 @@
         "variant":  "WALKING DEAD #STANDING ORDER",
         "price":  0.00,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83383\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83383\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83383\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "WALKING DEAD",
-        "issue":  "132",
-        "variant":  "AUG140566 WALKING DEAD #132 (MR)",
-        "price":  2.40,
-        "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -710,7 +697,7 @@
         "variant":  "AUG140567 WALKING DEAD #133 (MR)",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -722,7 +709,7 @@
         "variant":  "AUG140613 WALKING DEAD ALL OUT WAR AP EDITION HC (MR)",
         "price":  26.00,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -734,7 +721,7 @@
         "variant":  "AUG141973 WALKING DEAD MAGAZINE #10 NEWSSTAND ED (MR) (C: 0-1-1)",
         "price":  7.50,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -746,7 +733,7 @@
         "variant":  "AUG141974 WALKING DEAD MAGAZINE #10 PX ED (MR) (C: 0-1-1)",
         "price":  7.50,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -758,7 +745,7 @@
         "variant":  "IMAGE FIRSTS WALKING DEAD CURR PTG #1 [(W) Robert Kirkman (A) Charlie Adlard, Cliff Rathburn (CA) Charlie Adlard]",
         "price":  0.80,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -770,7 +757,7 @@
         "variant":  "SEP140763 WALKING DEAD #134 (MR)",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -782,7 +769,7 @@
         "variant":  "SPIDER: BURNING LEAD FOR THE WALKING DEAD",
         "price":  5.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -794,7 +781,7 @@
         "variant":  "WALKING DEAD #115 - 10th Anniversary - set of Covers A-L plus Midnight Release variant - 13 comics [(W) Robert Kirkman (A) Charl",
         "price":  31.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -806,7 +793,7 @@
         "variant":  "WALKING DEAD #115 CVR M MIDNIGHT RELEASE VARIANT [(W) Robert Kirkman (A) Charlie Adlard, Cliff Rathburn]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -818,7 +805,7 @@
         "variant":  "WALKING DEAD #115 CVR O NYCC 2013 EXCLUSIVE VARIANT [(W) Robert Kirkman (A) Charlie Adlard, Cliff Rathburn]",
         "price":  3.00,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -830,7 +817,7 @@
         "variant":  "WALKING DEAD #127 2ND PTG (MR) [(W) Robert Kirkman (A) Charlie Adlard \u0026 Various (CA) Charlie Adlard, Dave Stewart]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -842,7 +829,7 @@
         "variant":  "WALKING DEAD #128 (MR) [(W) Robert Kirkman (A) Charlie Adlard \u0026 Various (CA) Charlie Adlard, Dave Stewart]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -854,7 +841,7 @@
         "variant":  "WALKING DEAD #129 (MR) [(W) Robert Kirkman (A) Charlie Adlard \u0026 Various (CA) Charlie Adlard, Dave Stewart]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -866,7 +853,7 @@
         "variant":  "WALKING DEAD #130 (MR) [(W) Robert Kirkman (A) Charlie Adlard \u0026 Various (CA) Charlie Adlard, Dave Stewart]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -878,7 +865,19 @@
         "variant":  "WALKING DEAD #131 (MR) [(W) Robert Kirkman (A/CA) Charlie Adlard \u0026 Various]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83383\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83383\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83383\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "132",
+        "variant":  "WALKING DEAD #132 (MR) [(W) Robert Kirkman (A) Charlie Adlard \u0026 Various (CA) Charlie Adlard, Dave Stewart]",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -890,7 +889,7 @@
         "variant":  "WALKING DEAD 100 PROJECT LTD ED HC [(W) Robert Kirkman (A/CA) Charlie Adlard, Cliff Rathburn]",
         "price":  18.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -902,7 +901,7 @@
         "variant":  "WALKING DEAD 100 PROJECT [(W) Robert Kirkman (A/CA) Charlie Adlard, Cliff Rathburn]",
         "price":  9.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -914,7 +913,7 @@
         "variant":  "WALKING DEAD CHRONICLES",
         "price":  12.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -926,7 +925,7 @@
         "variant":  "Walking Dead Michonne Special (2012) #001 2nd printing",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Sep 22 2014 09:03:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 29 2014 09:04:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -938,7 +937,7 @@
         "variant":  "115 (COVER K)",
         "price":  1.79,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -948,9 +947,9 @@
         "title":  "WALKING DEAD",
         "issue":  "115",
         "variant":  "115 MASTER BUNDLE",
-        "price":  29.60,
+        "price":  19.73,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -962,7 +961,7 @@
         "variant":  "116 (2ND PRINTING)",
         "price":  2.39,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -974,7 +973,7 @@
         "variant":  "128",
         "price":  2.69,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -986,7 +985,7 @@
         "variant":  "129",
         "price":  2.69,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -998,7 +997,7 @@
         "variant":  "130",
         "price":  2.69,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1010,7 +1009,7 @@
         "variant":  "131",
         "price":  2.69,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1022,7 +1021,7 @@
         "variant":  "132",
         "price":  2.39,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1034,7 +1033,7 @@
         "variant":  "133",
         "price":  2.39,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1046,7 +1045,19 @@
         "variant":  "134",
         "price":  2.39,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-135___465070",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-135___465070\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-135___465070\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "135",
+        "variant":  "135",
+        "price":  2.39,
+        "currency":  "$",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1058,7 +1069,7 @@
         "variant":  "100 PROJECT LTD ED HC",
         "price":  14.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1070,7 +1081,7 @@
         "variant":  "100 PROJECT TPB",
         "price":  7.79,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1082,7 +1093,7 @@
         "variant":  "2013 CALENDAR",
         "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1094,7 +1105,19 @@
         "variant":  "2013 CALENDAR - NICK \u0026 DENT",
         "price":  7.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-2015-Calendar___465015",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-2015-Calendar___465015\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-2015-Calendar___465015\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "2015",
+        "variant":  "2015 CALENDAR",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1106,7 +1129,7 @@
         "variant":  "3D CROSSBOW MUG",
         "price":  16.79,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1118,7 +1141,7 @@
         "variant":  "ABRAHAMS ARMY T-SHIRT MED WOMEN",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1130,7 +1153,7 @@
         "variant":  "ALL OUT WAR AP EDITION HC",
         "price":  27.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1142,7 +1165,7 @@
         "variant":  "AMC 2015 16 MONTH MINI CALENDAR",
         "price":  7.19,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1154,7 +1177,7 @@
         "variant":  "AMC 2015 16 MONTH WALL CALENDAR",
         "price":  13.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1166,7 +1189,7 @@
         "variant":  "AMC 2015 BOXED DAILY TRIVIA CALENDAR",
         "price":  13.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1178,7 +1201,7 @@
         "variant":  "BATTLE SCENE BILLFOLD WALLET",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1190,7 +1213,7 @@
         "variant":  "BD SEA 04",
         "price":  86.39,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1202,7 +1225,7 @@
         "variant":  "BD SEA 04 LTD ED",
         "price":  139.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1214,7 +1237,7 @@
         "variant":  "BEWARE BITERS ENAMEL DOG TAG",
         "price":  9.89,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1226,7 +1249,7 @@
         "variant":  "BOARD GAME (COMIC SERIES)",
         "price":  31.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1238,7 +1261,7 @@
         "variant":  "BOARD GAME - THE BEST DEFENSE (TV SERIES)",
         "price":  23.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1250,7 +1273,7 @@
         "variant":  "BUST BANK ZOMBIE PET 2",
         "price":  18.39,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1262,7 +1285,7 @@
         "variant":  "CHRONICLES SC",
         "price":  15.96,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1274,7 +1297,7 @@
         "variant":  "COMIC SERIES 2 ACTION FIGURE ASSORTMENT",
         "price":  192.00,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1286,7 +1309,7 @@
         "variant":  "COMIC SERIES 2 GLENN ACTION FIGURE",
         "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1298,7 +1321,7 @@
         "variant":  "COMIC SERIES 2 GOVERNOR ACTION FIGURE",
         "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1310,7 +1333,7 @@
         "variant":  "COMIC SERIES 2 MICHONNE PET ACTION FIGURE",
         "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1322,7 +1345,7 @@
         "variant":  "COMIC SERIES 2 PENNY ACTION FIGURE",
         "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1332,9 +1355,9 @@
         "title":  "WALKING DEAD",
         "issue":  "COMIC",
         "variant":  "COMIC SERIES 3 ANDREA ACTION FIGURE",
-        "price":  17.99,
+        "price":  14.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1344,9 +1367,9 @@
         "title":  "WALKING DEAD",
         "issue":  "COMIC",
         "variant":  "COMIC SERIES 3 DWIGHT ACTION FIGURE",
-        "price":  17.99,
+        "price":  14.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1358,7 +1381,7 @@
         "variant":  "COMIC SERIES 3 PUNK ZOMBIE ACTION FIGURE",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1370,7 +1393,7 @@
         "variant":  "COMIC SERIES 3 RICK GRIMES ACTION FIGURE",
         "price":  17.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1382,7 +1405,7 @@
         "variant":  "COMPENDIUM TPB VOL. 01",
         "price":  47.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1394,7 +1417,7 @@
         "variant":  "COMPENDIUM TPB VOL. 02",
         "price":  53.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1406,7 +1429,7 @@
         "variant":  "COMPENDIUM TPB VOL. 1 - NICK \u0026 DENT",
         "price":  29.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1418,7 +1441,7 @@
         "variant":  "COVERS HC",
         "price":  22.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1430,7 +1453,7 @@
         "variant":  "DARYL CROSSBOW MUG",
         "price":  18.89,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1442,7 +1465,7 @@
         "variant":  "DARYL DIXON 7IN VINYL FIGURE",
         "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1454,7 +1477,7 @@
         "variant":  "DARYL DIXON BEER MUG",
         "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1466,7 +1489,7 @@
         "variant":  "DARYL DIXON BUSINESS CARD HOLDER",
         "price":  9.60,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1478,7 +1501,7 @@
         "variant":  "DARYL DIXON ENAMEL DOG TAG",
         "price":  6.59,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1490,7 +1513,19 @@
         "variant":  "DARYL KEEP CALM DOG TAG",
         "price":  5.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Daryl-Transfer-Print-Socks___465962",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Daryl-Transfer-Print-Socks___465962\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Daryl-Transfer-Print-Socks___465962\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "DARYL",
+        "variant":  "DARYL TRANSFER PRINT SOCKS",
+        "price":  8.00,
+        "currency":  "$",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1500,69 +1535,69 @@
         "title":  "WALKING DEAD",
         "issue":  "DARYL",
         "variant":  "DARYL WALKER PREVIEWS EXCLUSIVE BLK T-SHIRT XXL",
-        "price":  18.89,
+        "price":  15.74,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-LG___463887",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-LG___463887\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-LG___463887\u003c/a\u003e",
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-LG___465985",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-LG___465985\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-LG___465985\u003c/a\u003e",
         "orderdate":  null,
         "title":  "WALKING DEAD",
         "issue":  "DARYL",
-        "variant":  "DARYL WINGS BLK ZIP HOODIE LG",
-        "price":  43.99,
+        "variant":  "DARYL WINGS MECHANIC JKT LG",
+        "price":  85.60,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-MED___463886",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-MED___463886\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-MED___463886\u003c/a\u003e",
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-MED___465984",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-MED___465984\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-MED___465984\u003c/a\u003e",
         "orderdate":  null,
         "title":  "WALKING DEAD",
         "issue":  "DARYL",
-        "variant":  "DARYL WINGS BLK ZIP HOODIE MED",
-        "price":  43.99,
+        "variant":  "DARYL WINGS MECHANIC JKT MED",
+        "price":  85.60,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-SM___463885",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-SM___463885\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-SM___463885\u003c/a\u003e",
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-SM___465983",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-SM___465983\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-SM___465983\u003c/a\u003e",
         "orderdate":  null,
         "title":  "WALKING DEAD",
         "issue":  "DARYL",
-        "variant":  "DARYL WINGS BLK ZIP HOODIE SM",
-        "price":  43.99,
+        "variant":  "DARYL WINGS MECHANIC JKT SM",
+        "price":  85.60,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-XL___463888",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-XL___463888\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-XL___463888\u003c/a\u003e",
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-XL___465986",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-XL___465986\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-XL___465986\u003c/a\u003e",
         "orderdate":  null,
         "title":  "WALKING DEAD",
         "issue":  "DARYL",
-        "variant":  "DARYL WINGS BLK ZIP HOODIE XL",
-        "price":  43.99,
+        "variant":  "DARYL WINGS MECHANIC JKT XL",
+        "price":  85.60,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-XXL___463889",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-XXL___463889\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Blk-Zip-Hoodie-XXL___463889\u003c/a\u003e",
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-XXL___465987",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-XXL___465987\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Daryl-Wings-Mechanic-Jkt-XXL___465987\u003c/a\u003e",
         "orderdate":  null,
         "title":  "WALKING DEAD",
         "issue":  "DARYL",
-        "variant":  "DARYL WINGS BLK ZIP HOODIE XXL",
-        "price":  43.99,
+        "variant":  "DARYL WINGS MECHANIC JKT XXL",
+        "price":  85.60,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1574,7 +1609,7 @@
         "variant":  "DARYL ZEN JRS TANK LG",
         "price":  16.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1586,7 +1621,7 @@
         "variant":  "DVD SEA 04",
         "price":  75.19,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1598,19 +1633,31 @@
         "variant":  "ESCAPE T-SHIRT LG",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Escape-T-Shirt-XL___455930",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Escape-T-Shirt-XL___455930\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Escape-T-Shirt-XL___455930\u003c/a\u003e",
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Escape-T-Shirt-MED___455928",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Escape-T-Shirt-MED___455928\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Escape-T-Shirt-MED___455928\u003c/a\u003e",
         "orderdate":  null,
         "title":  "WALKING DEAD",
         "issue":  "ESCAPE",
-        "variant":  "ESCAPE T-SHIRT XL",
+        "variant":  "ESCAPE T-SHIRT MED",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Escape-T-Shirt-XXL___455931",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Escape-T-Shirt-XXL___455931\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Escape-T-Shirt-XXL___455931\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "ESCAPE",
+        "variant":  "ESCAPE T-SHIRT XXL",
+        "price":  17.59,
+        "currency":  "$",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1622,7 +1669,7 @@
         "variant":  "FISH TANK BI-FOLD WALLET",
         "price":  9.60,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1634,19 +1681,67 @@
         "variant":  "FISH TANK LED PAPERWEIGHT",
         "price":  17.59,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Got-Bit-Crew-Sock-2pk___463881",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Got-Bit-Crew-Sock-2pk___463881\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Got-Bit-Crew-Sock-2pk___463881\u003c/a\u003e",
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-LG-Men___464998",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-LG-Men___464998\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-LG-Men___464998\u003c/a\u003e",
         "orderdate":  null,
         "title":  "WALKING DEAD",
-        "issue":  "GOT",
-        "variant":  "GOT BIT CREW SOCK 2PK",
-        "price":  8.00,
+        "issue":  "FREE",
+        "variant":  "FREE NEGAN SHIRT LG MEN",
+        "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-MED-Men___464997",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-MED-Men___464997\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-MED-Men___464997\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "FREE",
+        "variant":  "FREE NEGAN SHIRT MED MEN",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-SM-Men___464996",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-SM-Men___464996\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-SM-Men___464996\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "FREE",
+        "variant":  "FREE NEGAN SHIRT SM MEN",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-XL-Men___464999",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-XL-Men___464999\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-XL-Men___464999\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "FREE",
+        "variant":  "FREE NEGAN SHIRT XL MEN",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-XXL-Men___465000",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-XXL-Men___465000\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-XXL-Men___465000\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "FREE",
+        "variant":  "FREE NEGAN SHIRT XXL MEN",
+        "price":  17.59,
+        "currency":  "$",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1658,19 +1753,7 @@
         "variant":  "GRAVEDIGGER HOODIE MED",
         "price":  35.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
-        "site":  "TFAW"
-    },
-    {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Gravedigger-Hoodie-SM___453111",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Gravedigger-Hoodie-SM___453111\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Gravedigger-Hoodie-SM___453111\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "WALKING DEAD",
-        "issue":  "GRAVEDIGGER",
-        "variant":  "GRAVEDIGGER HOODIE SM",
-        "price":  35.99,
-        "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1682,7 +1765,7 @@
         "variant":  "THE HC VOL. 01",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1694,7 +1777,7 @@
         "variant":  "HC VOL. 02",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1706,7 +1789,7 @@
         "variant":  "HC VOL. 03",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1718,7 +1801,7 @@
         "variant":  "HC VOL. 04",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1730,7 +1813,7 @@
         "variant":  "HC VOL. 05",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1742,7 +1825,7 @@
         "variant":  "HC VOL. 06",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1754,7 +1837,7 @@
         "variant":  "HC VOL. 07",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1766,7 +1849,7 @@
         "variant":  "HC VOL. 08",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1778,7 +1861,7 @@
         "variant":  "HC VOL. 09",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1790,7 +1873,7 @@
         "variant":  "HC VOL. 10",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1802,7 +1885,7 @@
         "variant":  "HC VOL. 5 - NICK \u0026 DENT",
         "price":  17.49,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1814,7 +1897,7 @@
         "variant":  "HEAD STAB T-SHIRT MED",
         "price":  19.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1826,7 +1909,7 @@
         "variant":  "HEAD STAB T-SHIRT XXL",
         "price":  22.39,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1838,7 +1921,7 @@
         "variant":  "HILLTOP MENS T-SHIRT LG",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1850,7 +1933,7 @@
         "variant":  "HILLTOP MENS T-SHIRT XL",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1862,7 +1945,7 @@
         "variant":  "HILLTOP T-SHIRT MENS XXL",
         "price":  18.39,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1874,7 +1957,7 @@
         "variant":  "HILLTOP T-SHIRT WOMENS MED",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1886,7 +1969,7 @@
         "variant":  "HILLTOP T-SHIRT WOMENS XL",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1898,7 +1981,7 @@
         "variant":  "HILLTOP WOMENS T-SHIRT SM",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1910,7 +1993,7 @@
         "variant":  "HOLE IN HEAD BOTTLE OPENER",
         "price":  11.39,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1922,31 +2005,7 @@
         "variant":  "HORDE OF WALKER ENAMEL DOG TAG",
         "price":  6.59,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
-        "site":  "TFAW"
-    },
-    {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-I-Heart-Daryl-Tank-Dress-T-Shirt-MED___454128",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-I-Heart-Daryl-Tank-Dress-T-Shirt-MED___454128\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-I-Heart-Daryl-Tank-Dress-T-Shirt-MED___454128\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "WALKING DEAD",
-        "issue":  "I",
-        "variant":  "I HEART DARYL TANK DRESS T-SHIRT MED",
-        "price":  14.39,
-        "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
-        "site":  "TFAW"
-    },
-    {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-I-Heart-Daryl-Wmns-Low-Cut-Sock-3pk___463840",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-I-Heart-Daryl-Wmns-Low-Cut-Sock-3pk___463840\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-I-Heart-Daryl-Wmns-Low-Cut-Sock-3pk___463840\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "WALKING DEAD",
-        "issue":  "I",
-        "variant":  "I HEART DARYL WMNS LOW CUT SOCK 3PK",
-        "price":  8.00,
-        "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1958,7 +2017,7 @@
         "variant":  "I HEART T-SHIRT LG",
         "price":  19.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1970,7 +2029,7 @@
         "variant":  "I HEART T-SHIRT MED",
         "price":  19.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1982,7 +2041,7 @@
         "variant":  "I HEART T-SHIRT SM",
         "price":  19.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1994,7 +2053,7 @@
         "variant":  "I HEART T-SHIRT XL",
         "price":  19.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -2006,19 +2065,7 @@
         "variant":  "I HEART T-SHIRT XXL",
         "price":  22.39,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
-        "site":  "TFAW"
-    },
-    {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-In-Daryl-We-Trust-Carnival-Cup___464082",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-In-Daryl-We-Trust-Carnival-Cup___464082\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-In-Daryl-We-Trust-Carnival-Cup___464082\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "WALKING DEAD",
-        "issue":  "IN",
-        "variant":  "IN DARYL WE TRUST CARNIVAL CUP",
-        "price":  9.59,
-        "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -2030,7 +2077,7 @@
         "variant":  "KINGDOM T-SHIRT MENS LG",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -2042,7 +2089,7 @@
         "variant":  "KINGDOM T-SHIRT MENS XL",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -2054,7 +2101,7 @@
         "variant":  "KINGDOM T-SHIRT WOMENS LG",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -2066,7 +2113,7 @@
         "variant":  "KINGDOM T-SHIRT WOMENS SM",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -2078,55 +2125,7 @@
         "variant":  "LOGO BELT BUCKLE",
         "price":  9.59,
         "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
-        "site":  "TFAW"
-    },
-    {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Logo-Business-Card-Holder___428964",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Logo-Business-Card-Holder___428964\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Logo-Business-Card-Holder___428964\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "WALKING DEAD",
-        "issue":  "LOGO",
-        "variant":  "LOGO BUSINESS CARD HOLDER",
-        "price":  9.60,
-        "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
-        "site":  "TFAW"
-    },
-    {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Logo-T-Shirt-LG___389163",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Logo-T-Shirt-LG___389163\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Logo-T-Shirt-LG___389163\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "WALKING DEAD",
-        "issue":  "LOGO",
-        "variant":  "LOGO T-SHIRT LG",
-        "price":  19.99,
-        "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
-        "site":  "TFAW"
-    },
-    {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Logo-T-Shirt-MED___389162",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Logo-T-Shirt-MED___389162\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Logo-T-Shirt-MED___389162\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "WALKING DEAD",
-        "issue":  "LOGO",
-        "variant":  "LOGO T-SHIRT MED",
-        "price":  19.99,
-        "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
-        "site":  "TFAW"
-    },
-    {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Logo-T-Shirt-SM___389161",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Logo-T-Shirt-SM___389161\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Logo-T-Shirt-SM___389161\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "WALKING DEAD",
-        "issue":  "LOGO",
-        "variant":  "LOGO T-SHIRT SM",
-        "price":  19.99,
-        "currency":  "$",
-        "rundate":  "Mon Sep 15 2014 09:04:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:25 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -2138,7 +2137,7 @@
         "variant":  "WALKING DEAD SURVIVORS GUIDE (2011) #2 (4 ISSUES) GRADE=NM",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:04:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "The Comic Biz Store"
     },
     {
@@ -2150,7 +2149,7 @@
         "variant":  "WALKING DEAD, THE #51 (ONGOING) GRADE=NM",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:04:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "The Comic Biz Store"
     },
     {
@@ -2162,7 +2161,502 @@
         "variant":  "WALKING DEAD, THE #51 (ONGOING) GRADE=NM",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Sep 15 2014 09:04:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "The Comic Biz Store"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "1",
+        "variant":  "11st Print. Approx 9.5 grade.",
+        "price":  "999.99",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "103",
+        "variant":  "1",
+        "price":  "15.00",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "105",
+        "variant":  "2",
+        "price":  "15.00",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "107",
+        "variant":  "2",
+        "price":  "15.00",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "112",
+        "variant":  "4",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "113",
+        "variant":  "1",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "114",
+        "variant":  "1",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "115 Cover A",
+        "variant":  "2",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "115 Cover B",
+        "variant":  "8",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "115 Cover C",
+        "variant":  "2",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "115 Cover D",
+        "variant":  "7",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "115 Cover E",
+        "variant":  "9",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "115 Cover F",
+        "variant":  "7",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "115 Cover G",
+        "variant":  "8",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "115 Cover H",
+        "variant":  "8",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "115 Cover I",
+        "variant":  "7",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "115 Cover J",
+        "variant":  "8",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "115 Cover K",
+        "variant":  "4",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "115 Cover L Blank Variant",
+        "variant":  "4",
+        "price":  "9.99",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "115 Cover M Midnight Release Variant",
+        "variant":  "1",
+        "price":  "9.99",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "116",
+        "variant":  "2",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "117",
+        "variant":  "3",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "118",
+        "variant":  "1",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "119",
+        "variant":  "2",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "120",
+        "variant":  "1",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "121",
+        "variant":  "1",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "122",
+        "variant":  "3",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "123",
+        "variant":  "2",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "124",
+        "variant":  "4",
+        "price":  "2.00",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "125",
+        "variant":  "4",
+        "price":  "2.00",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "126",
+        "variant":  "2",
+        "price":  "2.00",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "127 2nd Printing",
+        "variant":  "5",
+        "price":  "2.00",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "128",
+        "variant":  "8",
+        "price":  "2.00",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "129",
+        "variant":  "4",
+        "price":  "2.00",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "130",
+        "variant":  "8",
+        "price":  "2.00",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "131",
+        "variant":  "10",
+        "price":  "2.00",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "Walking Dead Novel The Road To Woodbury Hardcover",
+        "variant":  "1",
+        "price":  "18.99",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "Walking Dead Tyreese Special",
+        "variant":  "1",
+        "price":  "2.20",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "Walking Dead Volume 4 Hardcover",
+        "variant":  "1",
+        "price":  "25.99",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "Walking Dead Volume 5 Hardcover",
+        "variant":  "1",
+        "price":  "25.99",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "Walking Dead Volume 6 Hardcover",
+        "variant":  "1",
+        "price":  "25.99",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "Walking Dead Volume 7 Hardcover",
+        "variant":  "1",
+        "price":  "25.99",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "Walking Dead Volume 8 Hardcover",
+        "variant":  "1",
+        "price":  "25.99",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "Walking Dead Volume 9 Hardcover",
+        "variant":  "1",
+        "price":  "25.99",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=2140\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=2140\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE WALKING DEAD",
+        "issue":  "Walking Dead Volume 10 Hardcover",
+        "variant":  "1",
+        "price":  "25.99",
+        "rundate":  "Mon Sep 15 2014 09:17:46 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
     }
 ]

@@ -8,7 +8,7 @@
         "variant":  "1 CVR A CHEGGOUR",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:53 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,19 +20,19 @@
         "variant":  "1 CVR B ROSSMO",
         "price":  9.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:53 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/enormous-2-cvr-a-cheggour/prod_49246.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/enormous-2-cvr-a-cheggour/prod_49246.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/enormous-2-cvr-a-cheggour/prod_49246.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/other-publishers/enormous-2-cvr-a-cheggour/prod_49246.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/other-publishers/enormous-2-cvr-a-cheggour/prod_49246.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/other-publishers/enormous-2-cvr-a-cheggour/prod_49246.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
         "issue":  "2",
         "variant":  "2 CVR A CHEGGOUR",
         "price":  3.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:53 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "3 CVR A CHEGGOUR",
         "price":  5.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:53 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "4 CVR A CHEGGOUR",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:53 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "4 CVR B OEMING",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:53 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "5 CVR A CHEGGOUR",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:53 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "5 CVR B HUERTA",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:53 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "6 CVR A CHEGGOUR",
         "price":  2.70,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:53 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +116,7 @@
         "variant":  "6 CVR B LORIMER",
         "price":  2.70,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:53 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,7 +128,7 @@
         "variant":  "6 CVR A CHEGGOUR",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:53 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -140,7 +140,7 @@
         "variant":  "6 CVR B LORIMER",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:53 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -151,7 +151,7 @@
         "issue":  "6 ",
         "variant":  "Cover B Lorimer",
         "price":  "2.65",
-        "rundate":  "Mon Sep 15 2014 09:22:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:59 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -162,7 +162,7 @@
         "issue":  "6 ",
         "variant":  "Cover A Cheggour",
         "price":  "2.65",
-        "rundate":  "Mon Sep 15 2014 09:22:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:59 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -173,7 +173,7 @@
         "issue":  "5 ",
         "variant":  "Cover B Huerta",
         "price":  "2.65",
-        "rundate":  "Mon Sep 15 2014 09:22:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:59 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -184,29 +184,7 @@
         "issue":  "5 ",
         "variant":  "Cover A Cheggour",
         "price":  "2.65",
-        "rundate":  "Mon Sep 15 2014 09:22:09 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/124251-enormous-4-cover-b-oeming/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/124251-enormous-4-cover-b-oeming/\"\u003ehttps://forbiddenplanet.com/124251-enormous-4-cover-b-oeming/\u003c/a\u003e",
-        "orderdate":  "24th September, 2014",
-        "title":  "ENORMOUS",
-        "issue":  "4 ",
-        "variant":  "Cover B Oeming",
-        "price":  "2.65",
-        "rundate":  "Mon Sep 15 2014 09:22:09 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/124250-enormous-4-cover-a-cheggour/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/124250-enormous-4-cover-a-cheggour/\"\u003ehttps://forbiddenplanet.com/124250-enormous-4-cover-a-cheggour/\u003c/a\u003e",
-        "orderdate":  "24th September, 2014",
-        "title":  "ENORMOUS",
-        "issue":  "4 ",
-        "variant":  "Cover A Cheggour",
-        "price":  "2.65",
-        "rundate":  "Mon Sep 15 2014 09:22:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:23:59 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -218,7 +196,7 @@
         "variant":  "AUG141693 ENORMOUS #5 CVR A CHEGGOUR",
         "price":  3.20,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:06 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -230,7 +208,7 @@
         "variant":  "AUG141694 ENORMOUS #5 CVR B HUERTA",
         "price":  3.20,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:06 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -242,7 +220,7 @@
         "variant":  "SEP141663 ENORMOUS #6 CVR A CHEGGOUR",
         "price":  3.20,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:06 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -254,7 +232,7 @@
         "variant":  "SEP141664 ENORMOUS #6 CVR B LORIMER",
         "price":  3.20,
         "currency":  "£",
-        "rundate":  "Mon Sep 15 2014 09:22:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Sep 22 2014 09:24:06 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

@@ -9,7 +9,7 @@ function scan
       This loads the search json db and scan ebay and ebid.
    #>
 
-   $searches=(Get-Content "$root\search-data.json") -join "`n" | ConvertFrom-Json
+   $searches=(Get-Content "$root\search-data.json") -join "`n" |ConvertFrom-Json
 
    foreach($search in $searches)
    {

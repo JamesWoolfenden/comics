@@ -1,7 +1,15 @@
 #set-strictmode -Version Latest
 
 $corescript=$myinvocation.mycommand.path
-$root=split-path -parent  $corescript
+if ($corescript -eq $null)
+{
+   $root=$root=(gl).Path
+}
+else
+{
+   $root=split-path -parent -Path $corescript
+}
+
 $dbfile="$root\data.XML"
 $imageroot= "$root\covers"
 

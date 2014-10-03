@@ -18,17 +18,18 @@ Function Build-Url
 	$Keywords = $Keywords.Replace("(", "%28")
 	$Keywords = $Keywords.Replace(")", "%29")
 	
-	$url= 'http://www.ebay.co.uk/sch/US-Comics-/64755/i.html?rt=nc&_nkw=${Keywords}&LH_PrefLoc=3'
-	
+	#$url= 'http://www.ebay.co.uk/sch/US-Comics-/64755/i.html?rt=nc&_nkw=${Keywords}&LH_PrefLoc=3'
+	$url = 'http://www.ebay.co.uk/sch/rss/?&_fls=1&LH_AvailTo=3&_trksid=m194&_sop=1&_dcat=77&_from=R40&_nkw=${keywords}&_geositeid=3&LH_PrefLoc=3'
+
 	switch ($state)
 	{
 	   "Closed"
 	   {
-	      $url = $url+'&LH_Complete=1'   	      
+	      $url += '&LH_Complete=1'   	      
 	   }
 	   "Sold"
 	   {
-	      $url = $url+'&LH_Complete=1&LH_Sold=1'   
+	      $url += '&LH_Complete=1&LH_Sold=1'   
 	   }
 	   default
 	   {
