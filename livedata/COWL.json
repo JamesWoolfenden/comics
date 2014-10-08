@@ -6,21 +6,21 @@
         "title":  "COWL",
         "issue":  "1",
         "variant":  "1 2ND PTG (MR)",
-        "price":  1.83,
+        "price":  2.15,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:36 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:08:57 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/image/cowl-5-mr-/prod_60978.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/image/cowl-5-mr-/prod_60978.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/image/cowl-5-mr-/prod_60978.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/image/cowl-5-mr-/prod_60978.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/image/cowl-5-mr-/prod_60978.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/image/cowl-5-mr-/prod_60978.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "COWL",
         "issue":  "5",
         "variant":  "5 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:36 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:08:57 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -30,9 +30,9 @@
         "title":  "COWL",
         "issue":  "2",
         "variant":  "2 2ND PTG (MR)",
-        "price":  2.50,
+        "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:36 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:08:57 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "6 (MR)",
         "price":  2.45,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:36 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:08:57 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "6 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:36 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:08:57 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "3 2ND PTG (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:36 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:08:57 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "1 (MR)",
         "price":  1.40,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:36 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:08:57 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "7 (MR)",
         "price":  2.45,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:36 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:08:57 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "1 (MR)",
         "price":  1.45,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:36 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:08:57 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,8 +116,32 @@
         "variant":  "7 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:36 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:08:57 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct140732.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140732.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140732.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  2.50,
+        "currency":  "?",
+        "rundate":  "Mon Oct 06 2014 13:09:01 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct140704.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140704.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140704.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "IMAGE",
+        "variant":  "IMAGE FIRSTS 1",
+        "price":  0.75,
+        "currency":  "?",
+        "rundate":  "Mon Oct 06 2014 13:09:01 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
     },
     {
         "link":  "http://www.closeencounters.co.uk/index.php/sep140575.html",
@@ -128,7 +152,7 @@
         "variant":  "6",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:41 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:01 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -140,7 +164,7 @@
         "variant":  "5",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:41 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:01 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +176,7 @@
         "variant":  "3",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:41 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:01 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +188,7 @@
         "variant":  "1 SECOND PRINT",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:41 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:01 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +200,7 @@
         "variant":  "BATMAN BATTLE FOR THE THE NETWORK #1",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:41 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:01 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -187,7 +211,7 @@
         "issue":  "6",
         "variant":  "6",
         "price":  "2.40",
-        "rundate":  "Mon Sep 29 2014 09:19:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:05 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -198,7 +222,7 @@
         "issue":  "5",
         "variant":  "5",
         "price":  "2.40",
-        "rundate":  "Mon Sep 29 2014 09:19:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:05 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -209,7 +233,7 @@
         "issue":  "4",
         "variant":  "4",
         "price":  "2.40",
-        "rundate":  "Mon Sep 29 2014 09:19:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:05 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -220,7 +244,7 @@
         "issue":  "3",
         "variant":  "3",
         "price":  "2.40",
-        "rundate":  "Mon Sep 29 2014 09:19:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:05 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -231,7 +255,7 @@
         "issue":  "2 ",
         "variant":  "2nd Printing",
         "price":  "2.40",
-        "rundate":  "Mon Sep 29 2014 09:19:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:05 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -243,7 +267,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -255,7 +279,7 @@
         "variant":  "1 *HOT BOOK*",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -267,7 +291,7 @@
         "variant":  "2 *HOT BOOK*",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -279,7 +303,7 @@
         "variant":  "3",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -291,7 +315,7 @@
         "variant":  "4",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -303,67 +327,7 @@
         "variant":  "5",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:09:08 GMT+0000 (UTC)",
         "site":  "Reed"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=28432\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=28432\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=28432\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "COWL",
-        "issue":  "BATTLE FOR THE COWL",
-        "variant":  "BATMAN: BATTLE FOR THE COWL",
-        "price":  10.99,
-        "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:54 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=12877\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=12877\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=12877\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "COWL",
-        "issue":  "BATTLE FOR THE COWL COMPANION",
-        "variant":  "BATMAN: BATTLE FOR THE COWL COMPANION",
-        "price":  10.99,
-        "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:54 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=15343\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=15343\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=15343\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "COWL",
-        "issue":  "UNDER THE COWL",
-        "variant":  "BATMAN: UNDER THE COWL",
-        "price":  13.50,
-        "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:54 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83135\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83135\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83135\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "COWL",
-        "issue":  "1",
-        "variant":  "COWL #1 2ND PTG (MR) [(W) Kyle Higgins, Alec Siegel (A) Rod Reis (CA) Trevor McCarthy]",
-        "price":  2.80,
-        "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:54 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=85815\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=85815\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=85815\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "COWL",
-        "issue":  "6",
-        "variant":  "SEP140575 COWL #6 (MR)",
-        "price":  2.80,
-        "currency":  "?",
-        "rundate":  "Mon Sep 29 2014 09:19:54 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
     }
 ]

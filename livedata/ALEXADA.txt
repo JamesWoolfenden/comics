@@ -1,5 +1,17 @@
 ﻿[
     {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct140729.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140729.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140729.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "ALEX",
+        "variant":  "ALEX + ADA 11",
+        "price":  2.10,
+        "currency":  "£",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
         "link":  "http://www.closeencounters.co.uk/index.php/sep140710.html",
         "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep140710.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep140710.html\u003c/a\u003e",
         "orderdate":  null,
@@ -8,7 +20,7 @@
         "variant":  "ALEX + ADA 10",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -20,7 +32,7 @@
         "variant":  "ALEX + ADA 9",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -32,7 +44,7 @@
         "variant":  "ALEX + ADA 8",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -44,7 +56,7 @@
         "variant":  "ALEX + ADA 7",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -56,7 +68,7 @@
         "variant":  "ALEX + ADA 6",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -68,19 +80,7 @@
         "variant":  "ALEX + ADA 5",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jan148304.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan148304.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan148304.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  "ALEX",
-        "variant":  "ALEX + ADA 4 SECOND PRINT",
-        "price":  2.10,
-        "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -92,7 +92,19 @@
         "variant":  "ALEX + ADA 4 FIRST PRINT",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan148304.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan148304.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan148304.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "ALEX",
+        "variant":  "ALEX + ADA 4 SECOND PRINT",
+        "price":  2.10,
+        "currency":  "£",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -104,7 +116,7 @@
         "variant":  "ALEX + ADA 3 SECOND PRINT",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -116,7 +128,7 @@
         "variant":  "ALEX + ADA 3 FIRST PRINT",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -128,7 +140,7 @@
         "variant":  "ALEX + ADA 2 FIRST PRINT",
         "price":  7.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -140,7 +152,7 @@
         "variant":  "ALEX + ADA 1 FIRST PRINT",
         "price":  12.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +164,7 @@
         "variant":  "ALEX + ADA 1 SECOND PRINT",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +176,7 @@
         "variant":  "SECRET AVENGERS 26 AVX - AVENGERS VS X-MEN TIE IN -",
         "price":  2.90,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +188,7 @@
         "variant":  "SECRET AVENGERS 25",
         "price":  2.90,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +200,7 @@
         "variant":  "SECRET AVENGERS 22",
         "price":  2.90,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -200,7 +212,7 @@
         "variant":  "SECRET AVENGERS 21",
         "price":  2.90,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -212,7 +224,7 @@
         "variant":  "NEW MUTANTS 1 MCCLEOD VARIANT",
         "price":  4.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:23:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:33 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -223,7 +235,18 @@
         "issue":  "10",
         "variant":  "10",
         "price":  "1.95",
-        "rundate":  "Mon Sep 29 2014 09:23:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:36 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/123688-alex-ada-9/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/123688-alex-ada-9/\"\u003ehttps://forbiddenplanet.com/123688-alex-ada-9/\u003c/a\u003e",
+        "orderdate":  "",
+        "title":  "ALEX ADA",
+        "issue":  "9",
+        "variant":  "9",
+        "price":  "1.95",
+        "rundate":  "Mon Oct 06 2014 13:13:36 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -235,7 +258,7 @@
         "variant":  "3",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:24:01 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:39 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -247,7 +270,7 @@
         "variant":  "4",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:24:01 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:39 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -259,7 +282,7 @@
         "variant":  "6",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:24:01 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:39 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -271,7 +294,7 @@
         "variant":  "7",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:24:01 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:39 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -283,7 +306,19 @@
         "variant":  "8",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:24:01 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:39 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/alex-ada-9-p-63423.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/alex-ada-9-p-63423.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/alex-ada-9-p-63423.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX + ADA",
+        "issue":  "9",
+        "variant":  "9",
+        "price":  2.49,
+        "currency":  "£",
+        "rundate":  "Mon Oct 06 2014 13:13:39 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -295,19 +330,31 @@
         "variant":  "ALEX + ADA #STANDING ORDER",
         "price":  0.00,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:24:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:44 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87043\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87043\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87043\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87348\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87348\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87348\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ALEX ADA",
-        "issue":  "9",
-        "variant":  "ALEX + ADA #9 [(W) Jonathan Luna, Sarah Vaughn (A/CA) Jonathan Luna]",
+        "issue":  "1",
+        "variant":  "OCT140707 IMAGE FIRSTS ALEX + ADA #1",
+        "price":  0.80,
+        "currency":  "£",
+        "rundate":  "Mon Oct 06 2014 13:13:44 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87355\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87355\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87355\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "11",
+        "variant":  "OCT140729 ALEX + ADA #11",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:24:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:44 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -319,7 +366,7 @@
         "variant":  "SEP140710 ALEX + ADA #10",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:24:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:13:44 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

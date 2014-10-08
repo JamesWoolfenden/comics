@@ -8,7 +8,7 @@
         "variant":  "22 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:33 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "23 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:33 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -30,9 +30,9 @@
         "title":  "FATALE",
         "issue":  "24",
         "variant":  "24 (MR)",
-        "price":  3.25,
+        "price":  3.10,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:33 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "1 (O/A) (MR)",
         "price":  1.45,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:33 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -54,9 +54,9 @@
         "title":  "FATALE",
         "issue":  "4",
         "variant":  "4 (OF 4) (MR) DHC",
-        "price":  2.21,
+        "price":  2.60,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:33 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -66,9 +66,9 @@
         "title":  "FATALE",
         "issue":  "10",
         "variant":  "10 (MR) DHC",
-        "price":  1.70,
+        "price":  2.00,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:33 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "21 (MR) DHC",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:33 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -90,9 +90,9 @@
         "title":  "FATALE",
         "issue":  "8",
         "variant":  "8 (MR) DHC",
-        "price":  1.79,
+        "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:33 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "1 (MR)",
         "price":  1.45,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:33 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +116,7 @@
         "variant":  "1 (O/A) (MR)",
         "price":  1.40,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:33 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,7 +128,7 @@
         "variant":  "1 (O/A) (MR)",
         "price":  1.45,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:33 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -140,7 +140,7 @@
         "variant":  "24",
         "price":  3.45,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +152,7 @@
         "variant":  "23",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +164,19 @@
         "variant":  "22",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec130117.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec130117.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec130117.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FATALE",
+        "issue":  "CLOWN",
+        "variant":  "CLOWN 4",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +188,19 @@
         "variant":  "21 IMAGE FIRST PRINT",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov130021.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov130021.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov130021.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FATALE",
+        "issue":  "CLOWN",
+        "variant":  "CLOWN 3",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +212,31 @@
         "variant":  "20",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct130072.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct130072.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct130072.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FATALE",
+        "issue":  "CLOWN",
+        "variant":  "CLOWN 2",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep130038.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep130038.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep130038.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FATALE",
+        "issue":  "CLOWN",
+        "variant":  "CLOWN 1 FIRST PRINT",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -200,7 +248,7 @@
         "variant":  "19 FIRST PRINT",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -212,7 +260,7 @@
         "variant":  "18 FIRST PRINT",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -224,7 +272,7 @@
         "variant":  "17",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +284,7 @@
         "variant":  "16",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +296,7 @@
         "variant":  "15",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -260,7 +308,7 @@
         "variant":  "14",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -272,7 +320,7 @@
         "variant":  "13",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -284,7 +332,7 @@
         "variant":  "12",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -296,7 +344,7 @@
         "variant":  "11",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -308,7 +356,7 @@
         "variant":  "10 FIRST PRINT",
         "price":  2.94,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -320,7 +368,7 @@
         "variant":  "9 FIRST PRINT",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -332,7 +380,7 @@
         "variant":  "8 FIRST PRINT",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -344,7 +392,7 @@
         "variant":  "7 FIRST PRINT",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -356,7 +404,7 @@
         "variant":  "6 FIRST PRINT",
         "price":  2.94,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -368,7 +416,7 @@
         "variant":  "5 FIRST PRINT",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -380,31 +428,7 @@
         "variant":  "4 FIRST PRINT",
         "price":  3.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jan120584-50019.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan120584-50019.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan120584-50019.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "3",
-        "variant":  "3 SECOND PRINT",
-        "price":  3.99,
-        "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jan120584.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan120584.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan120584.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "3",
-        "variant":  "3 FIRST PRINT",
-        "price":  6.94,
-        "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -416,7 +440,31 @@
         "variant":  "3 SECOND PRINT",
         "price":  3.94,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan120584.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan120584.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan120584.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FATALE",
+        "issue":  "3",
+        "variant":  "3 FIRST PRINT",
+        "price":  6.94,
+        "currency":  "£",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan120584-50019.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan120584-50019.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan120584-50019.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FATALE",
+        "issue":  "3",
+        "variant":  "3 SECOND PRINT",
+        "price":  3.99,
+        "currency":  "£",
+        "rundate":  "Mon Oct 06 2014 13:05:38 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -427,7 +475,7 @@
         "issue":  "66 ",
         "variant":  "Fatal Fantasy Cover",
         "price":  "2.65",
-        "rundate":  "Mon Sep 29 2014 09:14:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:03 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -438,7 +486,7 @@
         "issue":  "65 ",
         "variant":  "Fatal Fantasy Cover",
         "price":  "2.65",
-        "rundate":  "Mon Sep 29 2014 09:14:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:03 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -449,18 +497,18 @@
         "issue":  "64 ",
         "variant":  "Fatal Fantasy Cover",
         "price":  "2.65",
-        "rundate":  "Mon Sep 29 2014 09:14:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:03 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
         "link":  "https://forbiddenplanet.com/125666-crossed-badlands-63-fatal-fantasy-cover/",
         "url":  "\u003ca href=\"https://forbiddenplanet.com/125666-crossed-badlands-63-fatal-fantasy-cover/\"\u003ehttps://forbiddenplanet.com/125666-crossed-badlands-63-fatal-fantasy-cover/\u003c/a\u003e",
-        "orderdate":  "15th October, 2014",
+        "orderdate":  "8th October, 2014",
         "title":  "FATALE",
         "issue":  "63 ",
         "variant":  "Fatal Fantasy Cover",
         "price":  "2.65",
-        "rundate":  "Mon Sep 29 2014 09:14:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:03 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -472,7 +520,7 @@
         "variant":  "1",
         "price":  3.29,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -484,7 +532,7 @@
         "variant":  "2",
         "price":  3.29,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -496,7 +544,7 @@
         "variant":  "3",
         "price":  3.29,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -508,7 +556,7 @@
         "variant":  "4",
         "price":  3.29,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -520,7 +568,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  6.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -532,7 +580,7 @@
         "variant":  "1 (3RD PRINT)",
         "price":  5.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -544,7 +592,7 @@
         "variant":  "1 (5TH PRINT)",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -556,7 +604,7 @@
         "variant":  "10",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -568,7 +616,7 @@
         "variant":  "11",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -580,7 +628,7 @@
         "variant":  "12",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -592,7 +640,7 @@
         "variant":  "13",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -604,7 +652,7 @@
         "variant":  "14",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -616,7 +664,7 @@
         "variant":  "15",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -628,7 +676,7 @@
         "variant":  "16",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -640,7 +688,7 @@
         "variant":  "17",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -652,7 +700,7 @@
         "variant":  "18",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -664,7 +712,7 @@
         "variant":  "19",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -676,7 +724,7 @@
         "variant":  "21",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -688,7 +736,7 @@
         "variant":  "22",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -700,7 +748,7 @@
         "variant":  "23",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -712,7 +760,7 @@
         "variant":  "24",
         "price":  3.49,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -724,7 +772,7 @@
         "variant":  "5",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -736,7 +784,7 @@
         "variant":  "8",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -748,7 +796,7 @@
         "variant":  "9",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -760,7 +808,7 @@
         "variant":  "1",
         "price":  1.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:05:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -772,7 +820,7 @@
         "variant":  "FATALE #23 [(W) Ed Brubaker (A) Sean Phillips, Bettie Breitweiser (CA) Sean Phillips]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:06:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -784,7 +832,7 @@
         "variant":  "SPIRIT: FEMME FATALES",
         "price":  12.99,
         "currency":  "£",
-        "rundate":  "Mon Sep 29 2014 09:16:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:06:00 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -795,7 +843,7 @@
         "issue":  "3",
         "variant":  "3",
         "price":  "2.85",
-        "rundate":  "Mon Sep 29 2014 09:16:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:06:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -806,7 +854,7 @@
         "issue":  "4",
         "variant":  "3",
         "price":  "2.85",
-        "rundate":  "Mon Sep 29 2014 09:16:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:06:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -817,7 +865,7 @@
         "issue":  "12",
         "variant":  "3",
         "price":  "2.85",
-        "rundate":  "Mon Sep 29 2014 09:16:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:06:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -828,7 +876,7 @@
         "issue":  "13",
         "variant":  "2",
         "price":  "2.85",
-        "rundate":  "Mon Sep 29 2014 09:16:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:06:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -839,7 +887,7 @@
         "issue":  "14",
         "variant":  "2",
         "price":  "2.85",
-        "rundate":  "Mon Sep 29 2014 09:16:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:06:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -850,7 +898,7 @@
         "issue":  "15",
         "variant":  "1",
         "price":  "2.85",
-        "rundate":  "Mon Sep 29 2014 09:16:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:06:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -861,7 +909,7 @@
         "issue":  "16",
         "variant":  "1",
         "price":  "2.85",
-        "rundate":  "Mon Sep 29 2014 09:16:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:06:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -872,7 +920,7 @@
         "issue":  "17",
         "variant":  "1",
         "price":  "2.85",
-        "rundate":  "Mon Sep 29 2014 09:16:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:06:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -883,7 +931,7 @@
         "issue":  "18",
         "variant":  "2",
         "price":  "2.85",
-        "rundate":  "Mon Sep 29 2014 09:16:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:06:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -894,7 +942,7 @@
         "issue":  "19",
         "variant":  "1",
         "price":  "2.85",
-        "rundate":  "Mon Sep 29 2014 09:16:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 06 2014 13:06:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     }
 ]

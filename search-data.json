@@ -20,92 +20,92 @@
     {
         "title":  "BURN THE ORPHANAGE",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  "Lurkers Paperback Volume"
     },
     {
         "title":  "CHEW",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "dog Astronauts Walking HERO Alpha Pirates Trouble Detective Wolverine America Pacific VOL dancer volume bedlam luther happy nightly romana saga sex talent"
+        "include":  "image",
+        "exclude":  "Omnivore Hardback Paperback dog Astronauts Walking HERO Alpha Pirates Trouble Detective Wolverine America Pacific VOL dancer volume bedlam luther happy nightly romana saga sex talent"
     },
     {
         "title":  "CLONE",
         "comictitle":  "",
-        "include":  "image comic",
-        "exclude":  "Marvel DC HYPERNATURALS Cowper VOL Lazarus Ghosted Orphanage Titans Spider-man Star Spiderman"
+        "include":  "image",
+        "exclude":  "Tuner MASK Ghost premier Trilogy Christ Clonezilla Marvel DC HYPERNATURALS Cowper VOL Lazarus Ghosted Orphanage Titans Spider-man Star Spiderman vol volume Paperback"
     },
     {
         "title":  "DEADLY CLASS",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  "Lurkers Volume Halloween Suspicion"
     },
     {
         "title":  "FIVE GHOSTS",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "Lurkers marvel Trek Freedom Atomic Darth Rider Space"
+        "include":  "image",
+        "exclude":  "vol volume Lurkers marvel Trek Freedom Atomic Darth Rider Space"
     },
     {
         "title":  "IRREDEEMABLE ANT-MAN",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "Lurkers"
+        "include":  "",
+        "exclude":  "TPB Lurkers"
     },
     {
         "title":  "JUDGE DREDD THE EARLY CASES",
         "comictitle":  "",
-        "include":  "eagle comic",
+        "include":  "eagle",
         "exclude":  "Lurkers"
     },
     {
         "title":  "JUDGE DREDD CRIME FILE",
         "comictitle":  "",
-        "include":  "eagle comic",
+        "include":  "eagle",
         "exclude":  "Lurkers"
     },
     {
         "title":  "JUDGE DREDD JUDGE CHILD QUEST",
         "comictitle":  "",
-        "include":  "eagle comic",
+        "include":  "eagle",
         "exclude":  "Lurkers"
     },
     {
         "title":  "JUDGE DREDD",
         "comictitle":  "",
-        "include":  "Eagle comic",
-        "exclude":  "Early Child Crime IDW Quality"
+        "include":  "Eagle",
+        "exclude":  "Early Child Crime IDW Quality POSTER"
     },
     {
         "title":  "JUPITERS LEGACY",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  "Lurkers"
     },
     {
         "title":  "MANHATTAN PROJECTS",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "Nowhere women vol volume"
+        "include":  "image",
+        "exclude":  "Nowhere women vol volume Paperback"
     },
     {
         "title":  "MANIFEST DESTINY",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "x-men Poster Card Still A4 Novel LOT MARVEL Strain 2099 Wolverine Manhattan Justice Hero Saga Ordeal"
+        "include":  "image",
+        "exclude":  "Presence Volume vol x-men Poster Card Still A4 Novel LOT MARVEL Strain 2099 Wolverine Manhattan Justice Hero Saga Ordeal"
     },
     {
         "title":  "MIND THE GAP",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "Lurkers"
+        "include":  "image",
+        "exclude":  "Lurkers poster vol volume"
     },
     {
         "title":  "MERCENARY SEA",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "Lurkers"
+        "include":  "image",
+        "exclude":  "Lurkers vol volume"
     },
     {
         "title":  "NEMESIS THE WARLOCK",
@@ -116,8 +116,8 @@
     {
         "title":  "PETER PANZERFAUST",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "Hatter Morning chin Xenoholics Rat volume vol chew pacific sex jesus sheltered Ninja Elephantmen Debris"
+        "include":  "image",
+        "exclude":  "Hardback Hatter Morning chin Xenoholics Rat volume vol chew pacific sex jesus sheltered Ninja Elephantmen Debris"
     },
     {
         "title":  "ROBO-HUNTER",
@@ -128,97 +128,97 @@
     {
         "title":  "SECRET",
         "comictitle":  "",
-        "include":  "comic image",
-        "exclude":  "SPIDERMAN CSI MARVEL Pecos Winx Pony FILES Weapons BOND SKULL America HE-MAN Fantastic x-men great batgirl LENSMAN history MARRIAGE Victorian titans Authority Origins Manhunter Marshal Cooper QUEST X-factor Crisis thor TMNT joker charlton Romance Silent Fleetway ASTONISH TEENAGE STEAMPUNK SPIDER-MAN Origin Superman AGENT SIX Dark messages nightwing house legion SERVICE Caliber Villains Hawkman DEFENDERS IDW GODS WAR JENNY ULTIMATE VERTIGO SAGA Justice avengers dc Invasion Marvel Batman Valiant Avengers Warriors Flashpoint Wars Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY Marvel Deadpool"
+        "include":  "image comics",
+        "exclude":  "Judge volume MURDER SPIDERMAN CSI MARVEL Pecos Winx Pony FILES Weapons BOND SKULL America HE-MAN Fantastic x-men great batgirl LENSMAN history MARRIAGE Victorian titans Authority Origins Manhunter Marshal Cooper QUEST X-factor Crisis thor TMNT joker charlton Romance Silent Fleetway ASTONISH TEENAGE STEAMPUNK SPIDER-MAN Origin Superman AGENT SIX Dark messages nightwing house legion SERVICE Caliber Villains Hawkman DEFENDERS IDW GODS WAR JENNY ULTIMATE VERTIGO SAGA Justice avengers dc Invasion Marvel Batman Valiant Avengers Warriors Flashpoint Wars Skullkickers Poster Card Still A4 Novel SET LOT POYO RAGE Vibert HAPPY Marvel Deadpool"
     },
     {
         "title":  "SEX CRIMINALS",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "zero hawkeye satellitte"
+        "include":  "image",
+        "exclude":  "vol volume zero hawkeye satellitte"
     },
     {
         "title":  "SHELTERED",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "vol volume voltron"
+        "include":  "image",
+        "exclude":  "vol volume voltron photo Paperback"
     },
     {
         "title":  "SOUTHERN BASTARDS",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "Lurkers THOR"
+        "include":  "image",
+        "exclude":  "Lurkers THOR vol volume paperback"
     },
     {
         "title":  "STRONTIUM DOG",
         "comictitle":  "",
-        "include":  "eagle comic",
+        "include":  "eagle",
         "exclude":  "QUALITY"
     },
     {
         "title":  "TEN GRAND",
         "comictitle":  "",
-        "include":  "comic image",
+        "include":  "image",
         "exclude":  "volume Novel"
     },
     {
         "title":  "THE BOUNCE",
         "comictitle":  "",
-        "include":  "comic image",
+        "include":  "image",
         "exclude":  "VOL"
     },
     {
         "title":  "THE FIELD",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "Orchid Avengers iron herobear nun superman spiderwick marvel comeback strawberry"
+        "include":  "image comics",
+        "exclude":  "Manga Orchid Avengers iron herobear nun superman spiderwick marvel comeback strawberry"
     },
     {
         "title":  "THE FUSE",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  "pop airboy blows"
     },
     {
         "title":  "THE WALKING DEAD WEEKLY",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  "outcast brit paperback chew volume dinosaur world monopoly Marvel "
     },
     {
         "title":  "THE WALKING DEAD",
         "comictitle":  "",
-        "include":  "comic image",
-        "exclude":  "Boxset Trading toy CODEFLESH BEARLANDS watch plush jacket bedlam JESUS REALITY compendium Italian game wallet Argentina Serbian krampus sex plush outcast brit Haunt Nowhere Zombie FANBOYS clone FIGURE Mocking invincible THIEF Ashcan Astounding hatter Variant Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly Marvel"
+        "include":  "image",
+        "exclude":  "puzzle hardback vol Boxset Trading toy CODEFLESH BEARLANDS watch plush jacket bedlam JESUS REALITY compendium Italian game wallet Argentina Serbian krampus sex plush outcast brit Haunt Nowhere Zombie FANBOYS clone FIGURE Mocking invincible THIEF Ashcan Astounding hatter Variant Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly Marvel"
     },
     {
         "title":  "THE WALKING DEAD",
         "comictitle":  "",
-        "include":  "comic Variant",
-        "exclude":  "Boxset Trading toy CODEFLESH BEARLANDS watch plush jacket bedlam JESUS REALITY compendium Italian game wallet Argentina Serbian brit krampus sex plush outcast Haunt Nowhere Zombie FANBOYS clone FIGURE Mocking invincible Ashcan hatter Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly Marvel"
+        "include":  "image Variant",
+        "exclude":  "puzzle hardback vol Boxset Trading toy CODEFLESH BEARLANDS watch plush jacket bedlam JESUS REALITY compendium Italian game wallet Argentina Serbian brit krampus sex plush outcast Haunt Nowhere Zombie FANBOYS clone FIGURE Mocking invincible Ashcan hatter Magazine Xenoholics x-files paperback chew volume dinosaur world weekly MONOPOLY Weekly Marvel"
     },
     {
         "title":  "THIEF OF THIEVES",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "Super walking chew tpb VOL"
+        "include":  "image",
+        "exclude":  "Super walking chew tpb VOL volume paperback"
     },
     {
         "title":  "THINK TANK",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "fantastic Daredevil"
+        "include":  "image",
+        "exclude":  "blur fantastic Daredevil vol volume paperback"
     },
     {
         "title":  "THE NIGHTLY NEWS",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "Lurkers"
+        "include":  "image comics",
+        "exclude":  "Nightmare Lurkers vol volume paperback novel"
     },
     {
         "title":  "THE STAINLESS STEEL RAT",
         "comictitle":  "",
-        "include":  "eagle comic",
+        "include":  "eagle",
         "exclude":  "Lurkers"
     },
     {
@@ -230,14 +230,14 @@
     {
         "title":  "WALKING DEAD",
         "comictitle":  "The Walking Dead",
-        "include":  "comic image",
-        "exclude":  "Boxset Trading toy CODEFLESH Exterminators BEARLANDS watch plush jacket bedlam JESUS REALITY Ultimate compendium Italian game wallet Serbian krampus sex plush brit outcast Haunt Nowhere FIGURE The Mocking invincible THIEF Ashcan Astounding hatter Variant Magazine Xenoholics x-files paperback chew volume dinosaur world MONOPOLY Weekly Marvel "
+        "include":  "image",
+        "exclude":  "puzzle hardback vol revival Boxset Trading toy CODEFLESH Exterminators BEARLANDS watch plush jacket bedlam JESUS REALITY Ultimate compendium Italian game wallet Serbian krampus sex plush brit outcast Haunt Nowhere FIGURE The Mocking invincible THIEF Ashcan Astounding hatter Variant Magazine Xenoholics x-files paperback chew volume dinosaur world MONOPOLY Weekly Marvel "
     },
     {
         "title":  "WARRIOR",
         "comictitle":  "",
-        "include":  "QUALITY comic",
-        "exclude":  "Riverstone ROGUE Eternal Race Nun Wolverine Women Tarzan Mystic Frenzy Conan STRIKER SHI SPARTAN SEX Trooper Domon thor PRINCESS Xena ETERNAL Commando Starblazer BBC 2000AD"
+        "include":  "QUALITY",
+        "exclude":  "warrior quality print sticker mens top mat tyre power yamaha tribes battery street art rugby vintage wounded bronze sprocket t-shirts t-shirt toy oil samurai viking xena cc die case new boots jade silver mask greek bracers gift costume t-shirt road high leather antique movie poster wars Riverstone ROGUE Eternal Race Nun Wolverine Women Tarzan Mystic Frenzy Conan STRIKER SHI SPARTAN SEX Trooper Domon thor PRINCESS Xena ETERNAL Commando Starblazer BBC 2000AD"
     },
     {
         "title":  "CASANOVA",
@@ -248,20 +248,20 @@
     {
         "title":  "FATALE",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "DC Marvel Broadway SHADOW CATWOMAN finale witchblade Reality Pirates Bedlam Powers Happy Clown"
+        "include":  "image",
+        "exclude":  "fade vol volume DC Marvel Broadway SHADOW CATWOMAN finale witchblade Reality Pirates Bedlam Powers Happy Clown Incognito "
     },
     {
         "title":  "GHOSTED",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "Skullkickers Poster Card Still A4 Novel"
+        "include":  "image",
+        "exclude":  "Paperback vol volume Skullkickers Poster Card Still A4 Novel"
     },
     {
         "title":  "LAZARUS",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "Titus Manifest Voice Saviors Pretty Deadly Churchyard DC five incredible Moriarty Vol"
+        "include":  "image",
+        "exclude":  "Poster STAR postcard photo art Titus Manifest Voice Saviors Pretty Deadly Churchyard DC five incredible Moriarty Vol volume"
     },
     {
         "title":  "REVIVAL",
@@ -278,62 +278,62 @@
     {
         "title":  "VELVET",
         "comictitle":  "",
-        "include":  "comic image",
-        "exclude":  "Ernie Ten Grand Stumptown LADY DEATH ASSASSIN Mara National Batman"
+        "include":  "image comics",
+        "exclude":  "CARD vol volume Ernie Ten Grand Stumptown LADY DEATH ASSASSIN Mara National Batman"
     },
     {
         "title":  "WATCHMEN",
         "comictitle":  "",
         "include":  "comic",
-        "exclude":  "OINK Marvel Panini Dress motion dvd Tshirt CBLDF Watching t-shirt Trade Paperback badges Whatmen before dc novels book prints spawn figure badge tpb after fashion essential swamp VOL liberty"
+        "exclude":  "Walls Blu-Ray soundtrack model Portraits Press canvas OINK Marvel Panini Dress motion dvd Tshirt CBLDF Watching t-shirt Trade Paperback badges Whatmen before dc novels book prints spawn figure badge tpb after fashion essential swamp VOL liberty"
     },
     {
         "title":  "OUTCAST",
         "comictitle":  "",
-        "include":  "comic image",
-        "exclude":  "COMMANDO SAGA thief Morning chew Valen the hornet dc MODERN INVINCIBLE MODERN"
+        "include":  "image",
+        "exclude":  "size COMMANDO SAGA thief Morning chew Valen the hornet dc MODERN INVINCIBLE MODERN"
     },
     {
         "title":  "COWL",
         "comictitle":  "",
-        "include":  "comic image",
-        "exclude":  "batman flash gordon azrael battle dc"
+        "include":  "image",
+        "exclude":  "womens batman flash gordon azrael battle dc print"
     },
     {
         "title":  "NAILBITER",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  ""
     },
     {
         "title":  "LOST VEGAS",
         "comictitle":  "",
-        "include":  "comic image",
+        "include":  "image",
         "exclude":  "David"
     },
     {
         "title":  "PRETTY DEADLY",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "Reality bushido epic"
+        "include":  "image",
+        "exclude":  "Volume vol Reality bushido epic"
     },
     {
         "title":  "MPH",
         "comictitle":  "",
-        "include":  "comic image",
+        "include":  "image",
         "exclude":  "eagle Ghostbusters"
     },
     {
         "title":  "ALEX ADA",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  ""
     },
     {
         "title":  "TREES",
         "comictitle":  "",
-        "include":  "comic image",
-        "exclude":  "creed SWAMP Daredevil Trek Moriarty DC JUNIPER ECLIPSE Zombie"
+        "include":  "image comics",
+        "exclude":  "size poster autumn palm mining fabric art sticker letter woods photo computer moor coasters christmas xmas creed SWAMP Daredevil Trek Moriarty DC JUNIPER ECLIPSE Zombie"
     },
     {
         "title":  "INCOGNITO",
@@ -356,13 +356,13 @@
     {
         "title":  "RAT QUEENS",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "volume"
+        "include":  "image",
+        "exclude":  "volume spoon"
     },
     {
         "title":  "THE WICKED THE DIVINE",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  ""
     },
     {
@@ -374,19 +374,19 @@
     {
         "title":  "SPREAD",
         "comictitle":  "",
-        "include":  "comic",
-        "exclude":  "Saddle MARVEL "
+        "include":  "image",
+        "exclude":  "Spectrum print Saddle MARVEL Poster vol volume photo paperback"
     },
     {
         "title":  "SAGA",
         "comictitle":  "",
-        "include":  "comic image",
-        "exclude":  "manga KENTS STAR Legacy Crystar ULTIMATES WITCHBLADE Miniature SOUL Spiderman FATHOM X-Force Glassmakers Thor Defenders CONAN Superman Warlord Powerline SECRET X-MEN ZERO WOLVERINE MARVEL TOPPS Robotech Clone SWAMP Elektra LEAGUE REIGN America Ultimate Shadowline Spider-Man BATMAN STORMBREAKER DREAM Annihilation SUB-MARINER BALLADS Wardrums Mortal Transformers Doctor ROBOTECH LEGION CHIN ELF Trek"
+        "include":  "image",
+        "exclude":  "REALITY vol volume manga KENTS STAR Legacy Crystar ULTIMATES WITCHBLADE Miniature SOUL Spiderman FATHOM X-Force Glassmakers Thor Defenders CONAN Superman Warlord Powerline SECRET X-MEN ZERO WOLVERINE MARVEL TOPPS Robotech Clone SWAMP Elektra LEAGUE REIGN America Ultimate Shadowline Spider-Man BATMAN STORMBREAKER DREAM Annihilation SUB-MARINER BALLADS Wardrums Mortal Transformers Doctor ROBOTECH LEGION CHIN ELF Trek"
     },
     {
         "title":  "THE RED WING",
         "comictitle":  "",
-        "include":  "comic image",
+        "include":  "image",
         "exclude":  "MARVEL panini "
     },
     {
@@ -398,31 +398,31 @@
     {
         "title":  "RED MASS FOR MARS",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  "Paperback "
     },
     {
         "title":  "COMEBACK",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  "kings"
     },
     {
         "title":  "FASHION BEAST",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "avatar",
         "exclude":  "panini NOVEL Fusion"
     },
     {
         "title":  "THE AGENTS",
         "comictitle":  "",
-        "include":  "comic image",
+        "include":  "image comics",
         "exclude":  "AVENGERS THUNDER INVADERS Panther Cable KABUKI Secret VICTORIAN Boris GRAYSON Atlas Liberty SHIELD azrael FEAR America Marvel DC Frankenstein Hulk Wars T.H.U.N.D.E.R."
     },
     {
         "title":  "DEAD BODY ROAD",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  ""
     },
     {
@@ -434,37 +434,37 @@
     {
         "title":  "IMPERIAL",
         "comictitle":  "",
-        "include":  "comic image",
+        "include":  "image comic",
         "exclude":  "Russian ARCADE Marvel CALIGULA x-men GUARD STAR DARK"
     },
     {
         "title":  "BIRTHRIGHT",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  "Legend SUPERMAN "
     },
     {
         "title":  "WAYWARD",
         "comictitle":  "",
-        "include":  "comic image",
+        "include":  "image",
         "exclude":  ""
     },
     {
         "title":  "COPPERHEAD",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  "Daredevil"
     },
     {
         "title":  "DCBS",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  "Spider-Man"
     },
     {
         "title":  "THIRD EYE",
         "comictitle":  "",
-        "include":  "comic",
+        "include":  "image",
         "exclude":  "REGULAR Guardians INFINITY Dark MUTIES BEDLAM"
     }
 ]
