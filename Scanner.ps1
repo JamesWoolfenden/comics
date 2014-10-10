@@ -95,3 +95,6 @@ get-market -title "WICKED DIVINE"
 get-market -title "BIRTHRIGHT" 
 get-market -title "COPPERHEAD" 
 get-market -title "FADE OUT" 
+get-market -title "WYTCHES"
+get-market -title "BIRTHRIGHT"
+

@@ -560,8 +560,18 @@ function get-records()
    if ($result)
    {
       write-debug "`r`nOpen" 
+	  if ($result.count)
+	  {
+	     write-host "`n`tEbay found: $($result.count)"
+	  }
+	  else
+      {
+         write-host "`n`tEbay found: 0"
+      }
+
       add-array $result -title "$comictitle" -issue 0
    }
+   
 }
 
 function get-issues()
@@ -672,6 +682,15 @@ function get-ebidrecords()
    $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
    write-debug "Querying ebid $url"
    $ebidresults=get-ebidresults -url $url
+   if ($ebidresults.count)
+   {
+      write-host "`tEbid found: $($ebidresults.count)" -foregroundcolor green
+   }
+   else
+   {
+      write-host "`tEbid found: 0"
+   }
+
    add-ebidarray -results $ebidresults -title $comictitle
 }
 
