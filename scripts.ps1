@@ -432,30 +432,28 @@ function get-ebidresults()
 {
    param([string]$url)
    
-   $WebClient = New-Object System.Net.WebClient
-   $Results = $WebClient.DownloadString("$url")
-   return [xml]"${Results}" 
+   Write-debug "Getting $url"
+   $Results = invoke-restmethod -uri "$url"
+   $Results 
 }
 
 function add-ebidarray
 {
-   param([xml]$results,
+   param([psobject]$results,
    [string]$title)
-   
-   $resultset=$results.rss.channel
        
-   foreach ($set in $resultset.item)
+   foreach ($record in $results)
    {       
-       if ((get-db $set.id) -eq 0)
+       if ((get-db $record.id) -eq 0)
        {
-          if ($set.title -ne $null)
+          if ($record.title -ne $null)
           {
-             add-ebid $set $title
+             add-ebid $record $title
           }
        }
        else
        {
-          write-host "`rSkipping $($set.id)" -nonewline -foregroundcolor yellow
+          write-host "`t`rSkipping $($record.id)" -nonewline -foregroundcolor yellow
        }
    }
 }
@@ -646,11 +644,24 @@ function reduce($array, $size)
 function get-ebidrecords()
 {
    param(
+   [Parameter(Mandatory=$true)]
    $title,
    $include,
    $exclude,
    $comictitle=$title)
    
+    <#
+      .SYNOPSIS 
+       Rereiving and adding new records from ebid site
+	    
+      .EXAMPLE
+      C:\PS> get-ebidrecords -title "THE WALKING DEAD"
+      This lists all the open records marked watch
+   #>
+
+   $title=$title.replace(" ","%20")
+   $comictitle=$comictitle.replace(" ","%20")
+
    if ($exclude -ne $NULL)
    {
       $excludearray =$exclude.split(" ")
@@ -681,7 +692,8 @@ function get-ebidrecords()
    
    $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
    write-debug "Querying ebid $url"
-   $ebidresults=get-ebidresults -url $url
+   $ebidresults=get-ebidresults -url "$url"
+
    if ($ebidresults.count)
    {
       write-host "`tEbid found: $($ebidresults.count)" -foregroundcolor green
