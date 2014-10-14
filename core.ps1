@@ -18,10 +18,19 @@ function scan
         $search.comictitle="$($search.title)"
      }
 
-     Write-Host "`nFinding $($search.title)" -ForegroundColor cyan
-     Write-debug "get-allrecords -title $($search.title) -include $($search.include)  -exclude $($search.exclude) -comictitle $($search.comictitle)"
-     get-allrecords -title "$($search.title)" -include "$($search.include)"  -exclude "$($search.exclude)" -comictitle "$($search.comictitle)"
-     Write-debug "`r`nComplete."
+     if ($search.Enabled)
+	 { 
+	    Write-Host "`nFinding $($search.title)" -ForegroundColor cyan
+        Write-debug "get-allrecords -title $($search.title) -include $($search.include)  -exclude $($search.exclude) -comictitle $($search.comictitle)"
+	    get-allrecords -title "$($search.title)" -include "$($search.include)"  -exclude "$($search.exclude)" -comictitle "$($search.comictitle)" -category "$($search.category)"
+        Write-debug "`r`nComplete."
+	 }
+	 Else
+	 {
+	    Write-host "`r`nSearch disabled for $($search.title)" -foregroundcolor cyan
+	 }
+
+	 
    }
 }
 

@@ -648,7 +648,8 @@ function get-ebidrecords()
    $title,
    $include,
    $exclude,
-   $comictitle=$title)
+   $comictitle=$title,
+   $category)
    
     <#
       .SYNOPSIS 
@@ -660,7 +661,6 @@ function get-ebidrecords()
    #>
 
    $title=$title.replace(" ","%20")
-   $comictitle=$comictitle.replace(" ","%20")
 
    if ($exclude -ne $NULL)
    {
@@ -690,7 +690,8 @@ function get-ebidrecords()
          $stringinclude=$NULL
    }  
    
-   $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=8077&categoryid=8077&categoryonly=on&mo=search&type=keyword"
+   $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=$category&categoryid=$category&categoryonly=on&mo=search&type=keyword"
+
    write-debug "Querying ebid $url"
    $ebidresults=get-ebidresults -url "$url"
 
@@ -713,9 +714,10 @@ function get-allrecords()
    [string]$title,
    [string]$exclude,
    [string]$include,
-   [string]$comictitle=$title)
+   [string]$comictitle=$title,
+   [string]$category="8077")
    
-   get-ebidrecords -title "$title" -include $include -exclude "$exclude" -comictitle $comictitle
+   get-ebidrecords -title "$title" -exclude "$exclude" -comictitle $comictitle -category $category
    write-debug "get-records -title $title -include $include -exclude $exclude -comictitle $comictitle"
    get-records -title "$title" -include $include -exclude "$exclude" -comictitle $comictitle
 }
