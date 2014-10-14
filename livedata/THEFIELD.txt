@@ -8,7 +8,7 @@
         "variant":  "1 IMAGE FIRST PRINT",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:03:36 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:14:37 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -19,7 +19,7 @@
         "issue":  "1",
         "variant":  "1",
         "price":  "2.40",
-        "rundate":  "Mon Oct 06 2014 13:03:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:14:40 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -31,7 +31,7 @@
         "variant":  "CONAN: BORN ON THE BATTLEFIELD HC",
         "price":  18.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:03:48 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:14:48 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -42,7 +42,7 @@
         "issue":  "1",
         "variant":  "1",
         "price":  "2.60",
-        "rundate":  "Mon Oct 06 2014 13:03:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:14:28 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -53,7 +53,7 @@
         "issue":  "2",
         "variant":  "2",
         "price":  "2.60",
-        "rundate":  "Mon Oct 06 2014 13:03:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:14:28 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -64,7 +64,7 @@
         "issue":  "3",
         "variant":  "1",
         "price":  "2.60",
-        "rundate":  "Mon Oct 06 2014 13:03:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:14:28 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -75,7 +75,7 @@
         "issue":  "4",
         "variant":  "1",
         "price":  "2.60",
-        "rundate":  "Mon Oct 06 2014 13:03:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:14:28 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     }
 ]

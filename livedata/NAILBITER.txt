@@ -8,7 +8,7 @@
         "variant":  "1 (MR)",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:44 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "2 (MR)",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:44 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "4 (MR)",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:44 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "1 2ND PTG (MR)",
         "price":  1.80,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:44 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "5 (MR)",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:44 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,31 +68,19 @@
         "variant":  "3 (MR)",
         "price":  2.20,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:44 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/image/nailbiter-6-mr-/prod_73290.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/image/nailbiter-6-mr-/prod_73290.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/image/nailbiter-6-mr-/prod_73290.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/image/nailbiter-6-mr-/prod_73290.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/image/nailbiter-6-mr-/prod_73290.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/image/nailbiter-6-mr-/prod_73290.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "NAILBITER",
         "issue":  "6",
         "variant":  "6 (MR)",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:55:57 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/nailbiter-7-mr-/prod_110696.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/nailbiter-7-mr-/prod_110696.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/nailbiter-7-mr-/prod_110696.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "7",
-        "variant":  "7 (MR)",
-        "price":  2.20,
-        "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:44 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +92,7 @@
         "variant":  "7 (MR)",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:44 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +104,7 @@
         "variant":  "1 (MR)",
         "price":  1.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:44 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,7 +116,7 @@
         "variant":  "8 (MR)",
         "price":  2.20,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:44 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -140,7 +128,7 @@
         "variant":  "1 (MR)",
         "price":  1.45,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:44 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -152,32 +140,20 @@
         "variant":  "8 (MR)",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:44 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/image/nailbiter-3-sdcc-var-net-/prod_116608.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/image/nailbiter-3-sdcc-var-net-/prod_116608.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/image/nailbiter-3-sdcc-var-net-/prod_116608.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/image/nailbiter-3-sdcc-var-net-/prod_116608.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/image/nailbiter-3-sdcc-var-net-/prod_116608.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/image/nailbiter-3-sdcc-var-net-/prod_116608.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "NAILBITER",
         "issue":  "3",
         "variant":  "3 SDCC VAR (NET)",
         "price":  9.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:44 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/oct140705.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140705.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140705.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "IMAGE",
-        "variant":  "IMAGE FIRSTS 1",
-        "price":  0.75,
-        "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:02 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
     },
     {
         "link":  "http://www.closeencounters.co.uk/index.php/oct140751.html",
@@ -188,7 +164,7 @@
         "variant":  "8",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -200,7 +176,7 @@
         "variant":  "7",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -212,7 +188,7 @@
         "variant":  "6",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -224,7 +200,7 @@
         "variant":  "5",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +212,7 @@
         "variant":  "4",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +224,7 @@
         "variant":  "3",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -260,7 +236,7 @@
         "variant":  "1 SECOND PRINT",
         "price":  2.94,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -272,7 +248,7 @@
         "variant":  "1 FIRST PRINT",
         "price":  7.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -284,8 +260,30 @@
         "variant":  "2",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/128895-image-firsts-nailbiter-1/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/128895-image-firsts-nailbiter-1/\"\u003ehttps://forbiddenplanet.com/128895-image-firsts-nailbiter-1/\u003c/a\u003e",
+        "orderdate":  "24th December, 2014",
+        "title":  "NAILBITER",
+        "issue":  "1",
+        "variant":  "1",
+        "price":  "0.65",
+        "rundate":  "Mon Oct 13 2014 09:06:56 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/128921-nailbiter-8/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/128921-nailbiter-8/\"\u003ehttps://forbiddenplanet.com/128921-nailbiter-8/\u003c/a\u003e",
+        "orderdate":  "3rd December, 2014",
+        "title":  "NAILBITER",
+        "issue":  "8",
+        "variant":  "8",
+        "price":  "1.95",
+        "rundate":  "Mon Oct 13 2014 09:06:56 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
     },
     {
         "link":  "https://forbiddenplanet.com/127174-nailbiter-7/",
@@ -295,18 +293,7 @@
         "issue":  "7",
         "variant":  "7",
         "price":  "1.95",
-        "rundate":  "Mon Oct 06 2014 12:56:05 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/125343-nailbiter-6/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/125343-nailbiter-6/\"\u003ehttps://forbiddenplanet.com/125343-nailbiter-6/\u003c/a\u003e",
-        "orderdate":  "",
-        "title":  "NAILBITER",
-        "issue":  "6",
-        "variant":  "6",
-        "price":  "1.95",
-        "rundate":  "Mon Oct 06 2014 12:56:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:56 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -317,7 +304,7 @@
         "issue":  "3 ",
         "variant":  "CCI SDCC 2014 Variant",
         "price":  "7.99",
-        "rundate":  "Mon Oct 06 2014 12:56:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:56 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -328,7 +315,7 @@
         "issue":  "4",
         "variant":  "4",
         "price":  "1.95",
-        "rundate":  "Mon Oct 06 2014 12:56:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:06:56 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -340,7 +327,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:10 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:01 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -352,7 +339,7 @@
         "variant":  "1 *HOT BOOK*",
         "price":  7.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:10 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:01 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -364,7 +351,7 @@
         "variant":  "2",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:10 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:01 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -376,7 +363,7 @@
         "variant":  "3",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:10 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:01 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -388,7 +375,7 @@
         "variant":  "4",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:10 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:01 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -400,7 +387,7 @@
         "variant":  "6",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:10 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:01 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -412,7 +399,7 @@
         "variant":  "NAILBITER #STANDING ORDER",
         "price":  0.00,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:08 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -424,7 +411,7 @@
         "variant":  "NAILBITER #2 (MR) [(W) Joshua Williamson (A/CA) Mike Henderson]",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:08 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -436,7 +423,7 @@
         "variant":  "NAILBITER #3 (MR) [(W) Joshua Williamson (A/CA) Mike Henderson]",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:08 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -448,7 +435,7 @@
         "variant":  "NAILBITER #4 (MR) [(W) Joshua Williamson (A/CA) Mike Henderson]",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:08 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -460,7 +447,7 @@
         "variant":  "NAILBITER #5 (MR) [(W) Joshua Williamson (A/CA) Mike Henderson]",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:08 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -472,7 +459,7 @@
         "variant":  "NAILBITER #6 (MR) [(W) Joshua Williamson (A/CA) Mike Henderson]",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:08 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -484,7 +471,7 @@
         "variant":  "OCT140705 IMAGE FIRSTS NAILBITER #1 (MR)",
         "price":  0.80,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:08 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -496,7 +483,7 @@
         "variant":  "OCT140751 NAILBITER #8 (MR)",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:08 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -508,7 +495,7 @@
         "variant":  "SEP140735 NAILBITER #7 (MR)",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 12:56:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:08 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -519,7 +506,7 @@
         "issue":  "1 2nd Printing Variant",
         "variant":  "1",
         "price":  "2.60",
-        "rundate":  "Mon Oct 06 2014 12:56:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:25 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -530,7 +517,7 @@
         "issue":  "2 2nd Printing Variant",
         "variant":  "2",
         "price":  "2.60",
-        "rundate":  "Mon Oct 06 2014 12:56:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:25 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -541,7 +528,7 @@
         "issue":  "3",
         "variant":  "4",
         "price":  "2.60",
-        "rundate":  "Mon Oct 06 2014 12:56:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:25 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -552,7 +539,7 @@
         "issue":  "4",
         "variant":  "2",
         "price":  "2.60",
-        "rundate":  "Mon Oct 06 2014 12:56:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:25 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -563,7 +550,7 @@
         "issue":  "5",
         "variant":  "1",
         "price":  "2.60",
-        "rundate":  "Mon Oct 06 2014 12:56:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:25 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -574,7 +561,7 @@
         "issue":  "6",
         "variant":  "1",
         "price":  "2.60",
-        "rundate":  "Mon Oct 06 2014 12:56:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:07:25 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     }
 ]

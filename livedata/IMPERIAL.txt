@@ -8,7 +8,7 @@
         "variant":  "1",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:11:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:10 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "2",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:11:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:10 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,31 +32,19 @@
         "variant":  "MARVEL GN COLL VOL 34 NEW X-MEN VOL 2 IMPERIAL HC (C: 0 2013 DHC",
         "price":  9.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:11:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:10 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/image/imperial-3/prod_73393.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/image/imperial-3/prod_73393.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/image/imperial-3/prod_73393.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/image/imperial-3/prod_73393.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/image/imperial-3/prod_73393.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/image/imperial-3/prod_73393.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "IMPERIAL",
         "issue":  "3",
         "variant":  "3",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:11:58 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/imperial-4/prod_110688.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/imperial-4/prod_110688.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/imperial-4/prod_110688.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "4",
-        "variant":  "4",
-        "price":  2.20,
-        "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:11:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:10 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,31 +56,7 @@
         "variant":  "4",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:11:58 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/statues-toys-uk-only-/etrian-odyssey-iv-imperial-girl-plastic-mdl-kit-c-1-1-2-/prod_113075.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/statues-toys-uk-only-/etrian-odyssey-iv-imperial-girl-plastic-mdl-kit-c-1-1-2-/prod_113075.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/statues-toys-uk-only-/etrian-odyssey-iv-imperial-girl-plastic-mdl-kit-c-1-1-2-/prod_113075.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "ETRIAN",
-        "variant":  "ETRIAN ODYSSEY IV IMPERIAL GIRL PLASTIC MDL KIT (C: 1-1-2)",
-        "price":  38.09,
-        "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:11:58 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-07/01/15/other-merchandise/etrian-odyssey-iv-imperial-girl-plastic-mdl-kit-c-1-1-2-/prod_114529.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-07/01/15/other-merchandise/etrian-odyssey-iv-imperial-girl-plastic-mdl-kit-c-1-1-2-/prod_114529.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-07/01/15/other-merchandise/etrian-odyssey-iv-imperial-girl-plastic-mdl-kit-c-1-1-2-/prod_114529.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "ETRIAN",
-        "variant":  "ETRIAN ODYSSEY IV IMPERIAL GIRL PLASTIC MDL KIT (C: 1-1-2)",
-        "price":  41.02,
-        "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:11:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:10 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +68,7 @@
         "variant":  "4",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:15 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -116,7 +80,7 @@
         "variant":  "3",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:15 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -128,7 +92,7 @@
         "variant":  "2",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:15 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -140,7 +104,7 @@
         "variant":  "1 FIRST PRINT",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:15 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +116,7 @@
         "variant":  "REALM OF KINGS GUARD 5",
         "price":  2.90,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:15 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +128,7 @@
         "variant":  "REALM OF KINGS GUARD 1",
         "price":  2.90,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:02 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:15 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -175,18 +139,7 @@
         "issue":  "4",
         "variant":  "4",
         "price":  "1.95",
-        "rundate":  "Mon Oct 06 2014 13:12:14 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/125335-imperial-3/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/125335-imperial-3/\"\u003ehttps://forbiddenplanet.com/125335-imperial-3/\u003c/a\u003e",
-        "orderdate":  "8th October, 2014",
-        "title":  "IMPERIAL",
-        "issue":  "3",
-        "variant":  "3",
-        "price":  "1.95",
-        "rundate":  "Mon Oct 06 2014 13:12:14 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:18 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -197,7 +150,7 @@
         "issue":  "2",
         "variant":  "2",
         "price":  "1.95",
-        "rundate":  "Mon Oct 06 2014 13:12:14 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:18 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -208,7 +161,7 @@
         "issue":  "1",
         "variant":  "1",
         "price":  "1.95",
-        "rundate":  "Mon Oct 06 2014 13:12:14 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:18 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -220,7 +173,7 @@
         "variant":  "1",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:22 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -232,7 +185,19 @@
         "variant":  "2",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:22 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/imperial-3-p-63607.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/imperial-3-p-63607.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/imperial-3-p-63607.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "3",
+        "variant":  "3",
+        "price":  2.49,
+        "currency":  "£",
+        "rundate":  "Mon Oct 13 2014 09:23:22 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -244,7 +209,7 @@
         "variant":  "1",
         "price":  3.29,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:22 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -256,7 +221,7 @@
         "variant":  "3",
         "price":  3.29,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:22 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -268,7 +233,7 @@
         "variant":  "4",
         "price":  3.29,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:22 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -280,55 +245,7 @@
         "variant":  "5",
         "price":  3.29,
         "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 13 2014 09:23:22 GMT+0000 (UTC)",
         "site":  "Reed"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=81948\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=81948\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=81948\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STANDING",
-        "variant":  "IMPERIAL #STANDING ORDER",
-        "price":  0.00,
-        "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:23 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83406\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83406\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83406\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "3",
-        "variant":  "AUG140655 IMPERIAL #3",
-        "price":  2.40,
-        "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:23 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=80834\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=80834\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=80834\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "1",
-        "variant":  "IMPERIAL #1 [(W) Steven T. Seagle (A/CA) Marc Dos Santos]",
-        "price":  2.40,
-        "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:23 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=85839\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=85839\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=85839\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "4",
-        "variant":  "SEP140727 IMPERIAL #4",
-        "price":  2.40,
-        "currency":  "£",
-        "rundate":  "Mon Oct 06 2014 13:12:23 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
     }
 ]
