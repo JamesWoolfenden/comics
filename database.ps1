@@ -503,7 +503,7 @@ function estimate-price()
     }
     
     $currentprice=get-currentprice -title $($comic.Title) -issue $issue
-	write-host "estimating cover for ep"
+
     [int]$cover = get-cover -dirty $issue 
     $mean=$average
     $average="{0:N2}" -f $average
