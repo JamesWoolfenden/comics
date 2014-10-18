@@ -25,6 +25,16 @@ function get-cover
    param([string]$dirty="")
    Try
    {
+      write-debug "Analysing cover $dirty"
+      if ($dirty.Contains("#"))
+	  {
+         $dirty=$dirty.split("#")[1]
+	  }
+	  elseif (($dirty.ToUpper()).Contains("PROG"))
+	  {
+	     $dirty=($dirty.ToUpper() -split("PROG"))[1]
+	  }
+
       [regex]$r="[^0-9.]"
       $clean=$r.replace($dirty,"")
       $clean=$clean.Replace(":","")
@@ -493,7 +503,8 @@ function estimate-price()
     }
     
     $currentprice=get-currentprice -title $($comic.Title) -issue $issue
-    [int]$cover = get-cover $Issue 
+	write-host "estimating cover for ep"
+    [int]$cover = get-cover -dirty $issue 
     $mean=$average
     $average="{0:N2}" -f $average
     $date=Get-date 

@@ -301,26 +301,35 @@ function set-issue
    [string]$color)
   
    write-debug "$rawissue $rawtitle $color"
-   
+
    #if its a new record
    if ($rawissue -eq "0")
    {
       #are we lucky to have an issue no?
-      $tempstring=$rawtitle.split("#")
+      if ($rawtitle.Contains("#"))
+	  {
+	     $tempstring=$rawtitle.Split("#")[1]
+      }
+	  elseif (($rawtitle.ToUpper()).Contains("PROG"))
+	  {
+	     $tempstring=($rawtitle.ToUpper() -split("PROG"))[1]	     
+	  }
 
       #has it split
-      if ($tempstring[1] -ne $null)
+      if ($tempstring -ne $null)
       {
-          $tempstring=($tempstring[1].Trim()).split(" ")
+	      write-host "Before estimate $estimateIssue : $tempstring"
+          $tempstring=($tempstring.Trim()).split(" ")
         
           if ($tempstring -is [system.array])
           {
              $tempstring =$tempstring[0]
           }
-        
+          
+
           #found-image  -title $newtitle -issue $record.Issue
           $estimateIssue=$tempstring 
-          write-debug "Before estimate $estimateIssue"
+          
           $estimateIssue=guess-title -title $title -issue $estimateIssue
           write-debug "After estimate $estimateIssue"
       }

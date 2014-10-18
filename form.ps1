@@ -125,7 +125,9 @@ function found-image
    [Parameter(Mandatory=$true)]
    [string]$issue)
    
-   if (test-image -title $title -issue $Issue)
+   Write-debug "Looking for $issue"
+
+   if (test-image -title $title -issue $issue)
    {
       $color="green"
    }

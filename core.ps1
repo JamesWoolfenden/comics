@@ -160,7 +160,11 @@ function get-issue()
       write-debug "splitting on # $rawissue"
       $rawissue=$rawissue.split("#")[1]
    }
-   
+   elseif(($rawissue.ToUpper()).Contains("PROG"))
+   {
+      write-debug "splitting on prog $rawissue"
+      $rawissue=($rawissue.ToUpper() -split("PROG"))[1]
+   }
    
    $split=$rawissue.split(" ")
    $cover=$split[0]

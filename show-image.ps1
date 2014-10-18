@@ -32,6 +32,7 @@ function test-image
    
    $padtitle=$title -replace(" ","-")
    $padtitle=$padtitle -replace(":","-")
+   write-debug "Test image: $issue!"
    $cover= get-cover $issue
    $filepath= get-imagefilename -title $title -issue $issue
    #Write-host $filepath
