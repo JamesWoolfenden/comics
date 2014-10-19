@@ -631,6 +631,22 @@
         "category":  "8077",
         "Enabled":  true
     },
+	{
+        "title":  "HASTINGS",
+        "comictitle":  "",
+        "include":  "image",
+        "exclude":  "REGULAR Guardians INFINITY Dark MUTIES BEDLAM",
+        "category":  "8077",
+        "Enabled":  true
+    },
+	{
+        "title":  "LAUGHING OGRE",
+        "comictitle":  "",
+        "include":  "image",
+        "exclude":  "REGULAR Guardians INFINITY Dark MUTIES BEDLAM",
+        "category":  "8077",
+        "Enabled":  true
+    },
     {
         "title":  "WYTCHES",
         "comictitle":  "",
