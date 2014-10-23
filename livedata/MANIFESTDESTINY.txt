@@ -8,7 +8,7 @@
         "variant":  "7",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "8",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "1",
         "price":  1.45,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "6 2ND PTG",
         "price":  2.15,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "9",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "7 CVR B SILVESTRI VAR",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "10",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "1 4TH PTG DHC",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "5 DHC",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +116,7 @@
         "variant":  "5 2ND PTG DHC",
         "price":  2.20,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,19 +128,19 @@
         "variant":  "6 DHC",
         "price":  2.00,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/image/manifest-destiny-11/prod_73499.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/image/manifest-destiny-11/prod_73499.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/image/manifest-destiny-11/prod_73499.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/image/manifest-destiny-11/prod_73499.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/image/manifest-destiny-11/prod_73499.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/image/manifest-destiny-11/prod_73499.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "MANIFEST DESTINY",
         "issue":  "11",
         "variant":  "11",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -152,7 +152,7 @@
         "variant":  "12 (MR)",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -164,7 +164,7 @@
         "variant":  "1",
         "price":  1.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -176,7 +176,7 @@
         "variant":  "1",
         "price":  1.45,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -188,7 +188,7 @@
         "variant":  "MANIFEST DESTINY TP 02 (RT)",
         "price":  9.89,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -200,7 +200,7 @@
         "variant":  "MANIFEST DESTINY TP 02 (RT)",
         "price":  10.44,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -212,7 +212,7 @@
         "variant":  "MANIFEST DESTINY TP 01 (MAR140546) (RT)",
         "price":  6.75,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -224,7 +224,7 @@
         "variant":  "MANIFEST DESTINY TP 01 (MAR140546) (RT)",
         "price":  7.13,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -236,7 +236,7 @@
         "variant":  "12",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +248,7 @@
         "variant":  "11",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -260,7 +260,7 @@
         "variant":  "10",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -272,7 +272,7 @@
         "variant":  "9",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -284,7 +284,7 @@
         "variant":  "8",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -296,7 +296,7 @@
         "variant":  "7",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -308,7 +308,7 @@
         "variant":  "6 SECOND PRINT",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -320,7 +320,7 @@
         "variant":  "6",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -332,7 +332,7 @@
         "variant":  "5 SECOND PRINT",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -344,7 +344,7 @@
         "variant":  "5",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -356,7 +356,7 @@
         "variant":  "4 SECOND PRINT",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -368,19 +368,7 @@
         "variant":  "4",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/nov130508-56510.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov130508-56510.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov130508-56510.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "MANIFEST DESTINY",
-        "issue":  "3",
-        "variant":  "3 SECOND PRINT",
-        "price":  2.10,
-        "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -392,7 +380,19 @@
         "variant":  "3 FIRST PRINT",
         "price":  4.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov130508-56510.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov130508-56510.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov130508-56510.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "3",
+        "variant":  "3 SECOND PRINT",
+        "price":  2.10,
+        "currency":  "£",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -404,7 +404,7 @@
         "variant":  "1 SECOND PRINT",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -416,7 +416,7 @@
         "variant":  "1 THIRD PRINT",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:40 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -427,18 +427,7 @@
         "issue":  "12",
         "variant":  "12",
         "price":  "1.95",
-        "rundate":  "Mon Oct 13 2014 09:04:42 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/125341-manifest-destiny-11/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/125341-manifest-destiny-11/\"\u003ehttps://forbiddenplanet.com/125341-manifest-destiny-11/\u003c/a\u003e",
-        "orderdate":  "15th October, 2014",
-        "title":  "MANIFEST DESTINY",
-        "issue":  "11",
-        "variant":  "11",
-        "price":  "1.95",
-        "rundate":  "Mon Oct 13 2014 09:04:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:43 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -449,7 +438,7 @@
         "issue":  "8 \u0026 Walking Dead ",
         "variant":  "8 \u0026 Walking Dead ",
         "price":  "19.99",
-        "rundate":  "Mon Oct 13 2014 09:04:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:43 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -461,7 +450,19 @@
         "variant":  "10",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:47 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:48 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/manifest-destiny-11-p-63735.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/manifest-destiny-11-p-63735.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/manifest-destiny-11-p-63735.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "11",
+        "variant":  "11",
+        "price":  2.49,
+        "currency":  "£",
+        "rundate":  "Mon Oct 20 2014 09:04:48 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -473,7 +474,7 @@
         "variant":  "7",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:47 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:48 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -485,7 +486,7 @@
         "variant":  "8",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:47 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:48 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -497,7 +498,7 @@
         "variant":  "9",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:47 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:48 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -509,7 +510,7 @@
         "variant":  "UNCANNY X-MEN HARDCOVER",
         "price":  8.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:47 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:48 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -521,7 +522,7 @@
         "variant":  "1",
         "price":  0.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:47 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:48 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -533,7 +534,7 @@
         "variant":  "2",
         "price":  0.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:47 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:48 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -545,7 +546,7 @@
         "variant":  "5",
         "price":  0.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:47 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:48 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -557,7 +558,7 @@
         "variant":  "MANIFEST DESTINY #STANDING ORDER",
         "price":  0.00,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -569,7 +570,7 @@
         "variant":  "MANIFEST DESTINY #11 [(W) Chris Dingess (A/CA) Matthew Roberts, Owen Gieni]",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -581,7 +582,7 @@
         "variant":  "MANIFEST DESTINY #3 2ND PTG [(W) Chris Dingess (A/CA) Matthew Roberts, Owen Gieni]",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -593,7 +594,7 @@
         "variant":  "MANIFEST DESTINY #4 2ND PTG [(W) Chris Dingess (A/CA) Matthew Roberts, Owen Gieni]",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -605,7 +606,7 @@
         "variant":  "MANIFEST DESTINY #6 [(W) Chris Dingess (A/CA) Matthew Roberts, Owen Gieni]",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -617,7 +618,7 @@
         "variant":  "MANIFEST DESTINY #7 [(W) Chris Dingess (A/CA) Matthew Roberts, Owen Gieni]",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -629,7 +630,7 @@
         "variant":  "MANIFEST DESTINY #8 [(W) Chris Dingess (A/CA) Matthew Roberts, Owen Gieni]",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -641,7 +642,7 @@
         "variant":  "MANIFEST DESTINY #9 [(W) Chris Dingess (A/CA) Matthew Roberts, Owen Gieni]",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -653,7 +654,7 @@
         "variant":  "OCT140716 IMAGE FIRSTS MANIFEST DESTINY #1",
         "price":  0.80,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -665,7 +666,7 @@
         "variant":  "SEP140733 MANIFEST DESTINY #12 (MR)",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -677,7 +678,7 @@
         "variant":  "X-MEN: MANIFEST DESTINY",
         "price":  18.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:04:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:04:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

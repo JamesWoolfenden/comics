@@ -8,7 +8,7 @@
         "variant":  "2 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:05 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "3 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:05 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "4 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:05 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "1 2ND PTG (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:05 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "5 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:05 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "1 3RD PTG (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:05 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "2 2ND PTG (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:05 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "6 (MR)",
         "price":  2.45,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:05 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "6 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:05 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +116,7 @@
         "variant":  "6",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:12 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -128,7 +128,7 @@
         "variant":  "5",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:12 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -140,7 +140,7 @@
         "variant":  "4",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:12 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +152,19 @@
         "variant":  "3",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:12 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun140579-62452.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140579-62452.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140579-62452.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SPREAD",
+        "issue":  "2",
+        "variant":  "2 SECOND PRINT",
+        "price":  2.30,
+        "currency":  "£",
+        "rundate":  "Mon Oct 20 2014 09:23:12 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +176,19 @@
         "variant":  "2 FIRST PRINT",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:12 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/may140579-62451.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may140579-62451.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may140579-62451.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SPREAD",
+        "issue":  "1",
+        "variant":  "1 THIRD PRINT",
+        "price":  2.25,
+        "currency":  "£",
+        "rundate":  "Mon Oct 20 2014 09:23:12 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +200,7 @@
         "variant":  "1 SECOND PRINT",
         "price":  3.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:12 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -187,7 +211,7 @@
         "issue":  "6",
         "variant":  "6",
         "price":  "2.40",
-        "rundate":  "Mon Oct 13 2014 09:21:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:28 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -198,7 +222,7 @@
         "issue":  "5",
         "variant":  "5",
         "price":  "2.40",
-        "rundate":  "Mon Oct 13 2014 09:21:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:28 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -209,7 +233,7 @@
         "issue":  "1 ",
         "variant":  "3rd Printing",
         "price":  "2.40",
-        "rundate":  "Mon Oct 13 2014 09:21:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:28 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -220,7 +244,7 @@
         "issue":  "2 ",
         "variant":  "2nd Printing",
         "price":  "2.40",
-        "rundate":  "Mon Oct 13 2014 09:21:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:28 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -231,7 +255,7 @@
         "issue":  "3",
         "variant":  "3",
         "price":  "2.40",
-        "rundate":  "Mon Oct 13 2014 09:21:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:28 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -242,7 +266,7 @@
         "issue":  "1 ",
         "variant":  "2nd Printing",
         "price":  "2.40",
-        "rundate":  "Mon Oct 13 2014 09:21:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:28 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -253,7 +277,7 @@
         "issue":  "2",
         "variant":  "2",
         "price":  "2.40",
-        "rundate":  "Mon Oct 13 2014 09:21:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:28 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -265,7 +289,7 @@
         "variant":  "1 (2ND PRINTING)",
         "price":  4.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:32 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -277,7 +301,7 @@
         "variant":  "1 (3RD PRINTING)",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:32 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -289,7 +313,7 @@
         "variant":  "1 *HOT BOOK*",
         "price":  5.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:32 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -301,7 +325,7 @@
         "variant":  "2 (1ST PRINT)",
         "price":  4.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:32 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -313,7 +337,7 @@
         "variant":  "2 (2ND PRINT)",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:32 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -325,7 +349,7 @@
         "variant":  "3 (1ST PRINT)",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:32 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -337,7 +361,7 @@
         "variant":  "SPREAD #STANDING ORDER",
         "price":  0.00,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:38 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -349,7 +373,7 @@
         "variant":  "AUG140682 SPREAD #4 (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:38 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -361,7 +385,7 @@
         "variant":  "OCT140766 SPREAD #6 (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:38 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -373,7 +397,7 @@
         "variant":  "SEP140756 SPREAD #5 (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:38 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -385,7 +409,7 @@
         "variant":  "SPREAD #1 (MR) [(W) Justin Jordan (A/CA) Kyle Strahm]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:38 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -397,7 +421,7 @@
         "variant":  "SPREAD #1 2ND PTG (MR) []",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:38 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -409,7 +433,7 @@
         "variant":  "SPREAD #1 3RD PTG (MR) [(W) Justin Jordan (A/CA) Kyle Strahm]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:38 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -421,7 +445,7 @@
         "variant":  "SPREAD #2 (MR) [(W) Justin Jordan (A/CA) Kyle Strahm]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:38 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -433,7 +457,7 @@
         "variant":  "SPREAD #3 (MR) [(W) Justin Jordan (A/CA) Kyle Strahm]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Oct 13 2014 09:21:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 20 2014 09:23:38 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]
