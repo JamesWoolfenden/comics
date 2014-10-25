@@ -335,22 +335,28 @@ function set-issue
       }
       else
       {
-         write-debug "No split #"
+	     $tempstring=@()
+         write-debug "No split # $($rawtitle -split('No'))"
          #maybe used no to indicate version
-         $tempstring=$rawtitle -split("No")
-         if ($tempstring[1] -ne $null)
+         
+		 if ($rawtitle -Contains("No"))
          {
-            write-debug "Split on No"
-            $tempstring=($tempstring[1].Trim()).split(" ")
+		    $tempstring=$rawtitle -split("No")
+		    write-debug "Split on No $tempstring"
+            
+			$splitspaces=($tempstring[1].Trim()).split(" ")
         
-            if ($tempstring -is [system.array])
+            if ($splitspaces -is [system.array])
             {
-               $tempstring =$tempstring[0]
+               $estimateIssue =$splitspaces[0]
             }
-        
-            $estimateIssue=$tempstring 
-            write-debug "Before estimate $estimateIssue"
-            $estimateIssue=guess-title -title $title -issue $estimateIssue
+			else
+			{
+			  $estimateIssue=$tempstring 
+			}
+           
+            write-host "Before estimate $estimateIssue"
+            $estimateIssue=guess-title -title $title -issue "$estimateIssue"
             write-debug "After estimate $estimateIssue"
          }
          else

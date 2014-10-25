@@ -5,24 +5,29 @@ function make-searchdata
    [string]$title,
    [string]$include=$null,
    [string]$exclude=$null,
-   [string]$comictitle=$null
+   [string]$comictitle=$null,
+   [string]$category="8077",
+   [Boolean]$Enabled=$true
    )
    
-   New-Object PSObject -Property @{title=$title;include=$include;exclude=$exclude;comictitle=$comictitle}
+   New-Object PSObject -Property @{title=$title;include=$include;exclude=$exclude;comictitle=$comictitle;category=$category;Enabled=$Enabled}
 }
 
 function append-searchdata
 {
    Param(
-   [string]$title,
+   [Parameter(Mandatory=$true)]
+   [string]$title=$title.ToUpper(),
    [string]$include,
    [string]$exclude,
-   [string]$comictitle
+   [string]$comictitle,
+   [string]$category,
+   [Boolean]$Enabled
    )
    
    $datafile="$root\search-data.json"
    $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
-   $searches+=make-searchdata -title "$title" -exclude "$exclude" -include "$include" -comictitle $comictitle
+   $searches+=make-searchdata -title "$title" -exclude "$exclude" -include "$include" -comictitle $comictitle -category $category -Enabled $Enabled
    $searches| ConvertTo-Json -depth 999 | Out-File "$datafile"
 }
 <#
