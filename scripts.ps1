@@ -439,7 +439,8 @@ function get-ebidresults()
 
 function add-ebidarray
 {
-   param([psobject]$results,
+   param(
+   [psobject]$results,
    [string]$title)
        
    foreach ($record in $results)
@@ -520,11 +521,12 @@ function add-ebid
 function get-records()
 {
    param(
-   
+   [Parameter(Mandatory=$true)]
    [string]$title,
    [string]$exclude="",
    [string]$include="",
-   [string]$comictitle=$title)
+   [string]$comictitle=$title,
+   [Boolean]$enabled=$true)
    
    if ($include -ne $NULL)
    {
@@ -554,22 +556,27 @@ function get-records()
    }
    
    #these 
-   $result=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'Open'
-   if ($result)
+   if ($enabled)
    {
-      write-debug "`r`nOpen" 
-	  if ($result.count)
-	  {
-	     write-host "`n`tEbay found: $($result.count)"
-	  }
-	  else
+      $result=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'Open'
+      if ($result)
       {
-         write-host "`n`tEbay found: 0"
-      }
+         write-debug "`r`nOpen" 
+	     if ($result.count)
+	     {
+	        write-host "`n`tEbay found: $($result.count)"
+	     }
+	     else
+         {
+            write-host "`n`tEbay found: 0"
+         }
 
-      add-array $result -title "$comictitle" -issue 0
+         add-array $result -title "$comictitle" -issue 0
+      }
    }
-   
+   Else{
+      write-warning "Disabled New records for $title"
+   }
 }
 
 function get-issues()
