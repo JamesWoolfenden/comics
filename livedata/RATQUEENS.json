@@ -8,7 +8,7 @@
         "variant":  "6 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:45 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "6 DOUBLE GATEFOLD INCV (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:45 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "8 CVR A JENKINS (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:45 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "8 1:10 CVR B OEMING INCV (MR)",
         "price":  3.79,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:45 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "9 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:45 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "10 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:45 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "1 (MR)",
         "price":  1.40,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:45 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,55 @@
         "variant":  "1 (MR)",
         "price":  1.45,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:45 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/rat-queens-11-cvr-a-fowler-upchurch-mr-/prod_122615.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/rat-queens-11-cvr-a-fowler-upchurch-mr-/prod_122615.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/rat-queens-11-cvr-a-fowler-upchurch-mr-/prod_122615.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "11",
+        "variant":  "11 CVR A FOWLER \u0026 UPCHURCH (MR)",
+        "price":  2.45,
+        "currency":  "?",
+        "rundate":  "Mon Oct 27 2014 10:32:45 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/rat-queens-11-cvr-b-upchurch-mr-/prod_122616.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/rat-queens-11-cvr-b-upchurch-mr-/prod_122616.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/rat-queens-11-cvr-b-upchurch-mr-/prod_122616.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "11",
+        "variant":  "11 CVR B UPCHURCH (MR)",
+        "price":  2.45,
+        "currency":  "?",
+        "rundate":  "Mon Oct 27 2014 10:32:45 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-14/01/15/image/rat-queens-11-cvr-a-fowler-upchurch-mr-/prod_123379.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-14/01/15/image/rat-queens-11-cvr-a-fowler-upchurch-mr-/prod_123379.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-14/01/15/image/rat-queens-11-cvr-a-fowler-upchurch-mr-/prod_123379.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "11",
+        "variant":  "11 CVR A FOWLER \u0026 UPCHURCH (MR)",
+        "price":  2.50,
+        "currency":  "?",
+        "rundate":  "Mon Oct 27 2014 10:32:45 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-14/01/15/image/rat-queens-11-cvr-b-upchurch-mr-/prod_123380.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-14/01/15/image/rat-queens-11-cvr-b-upchurch-mr-/prod_123380.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-14/01/15/image/rat-queens-11-cvr-b-upchurch-mr-/prod_123380.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "11",
+        "variant":  "11 CVR B UPCHURCH (MR)",
+        "price":  2.50,
+        "currency":  "?",
+        "rundate":  "Mon Oct 27 2014 10:32:45 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +152,7 @@
         "variant":  "10",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:50 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -116,7 +164,7 @@
         "variant":  "9",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:50 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -128,7 +176,7 @@
         "variant":  "8 COVER A JENKINS",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:50 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -140,7 +188,7 @@
         "variant":  "7",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:50 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +200,7 @@
         "variant":  "5 COVER A",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:50 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,19 +212,7 @@
         "variant":  "5 COVER B",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:22 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/oct130614.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct130614.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct130614.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "RAT QUEENS",
-        "issue":  "4",
-        "variant":  "4 COVER A",
-        "price":  2.50,
-        "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:50 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +224,7 @@
         "variant":  "4 COVER B",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:50 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -200,30 +236,20 @@
         "variant":  "2 COVER B UPCHURCH",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:50 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
-        "link":  "https://forbiddenplanet.com/125349-rat-queens-10/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/125349-rat-queens-10/\"\u003ehttps://forbiddenplanet.com/125349-rat-queens-10/\u003c/a\u003e",
-        "orderdate":  "22nd October, 2014",
+        "link":  "http://www.closeencounters.co.uk/index.php/oct130614.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct130614.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct130614.html\u003c/a\u003e",
+        "orderdate":  null,
         "title":  "RAT QUEENS",
-        "issue":  "10",
-        "variant":  "10",
-        "price":  "2.40",
-        "rundate":  "Mon Oct 20 2014 09:25:26 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/122234-rat-queens-8-cover-a-jenkins/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/122234-rat-queens-8-cover-a-jenkins/\"\u003ehttps://forbiddenplanet.com/122234-rat-queens-8-cover-a-jenkins/\u003c/a\u003e",
-        "orderdate":  "",
-        "title":  "RAT QUEENS",
-        "issue":  "8 ",
-        "variant":  "Cover A Jenkins",
-        "price":  "2.40",
-        "rundate":  "Mon Oct 20 2014 09:25:26 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
+        "issue":  "4",
+        "variant":  "4 COVER A FIRST PRINT",
+        "price":  3.99,
+        "currency":  "?",
+        "rundate":  "Mon Oct 27 2014 10:32:50 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
     },
     {
         "link":  "http://www.reedcomics.com/rat-queens-3-cover-b-p-59007.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
@@ -234,7 +260,7 @@
         "variant":  "3 (COVER B)",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:58 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -246,7 +272,7 @@
         "variant":  "5",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:58 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -258,7 +284,7 @@
         "variant":  "6",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:58 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -270,7 +296,7 @@
         "variant":  "7",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:58 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -282,7 +308,7 @@
         "variant":  "8",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:32:58 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -294,7 +320,7 @@
         "variant":  "AUG140669 RAT QUEENS #10 (MR)",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:33:06 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -306,7 +332,31 @@
         "variant":  "BOOTY: PIRATE QUEENS",
         "price":  7.99,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:33:06 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=88543\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=88543\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=88543\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "11",
+        "variant":  "NOV140672 RAT QUEENS #11 CVR A FOWLER \u0026 UPCHURCH (MR)",
+        "price":  2.80,
+        "currency":  "?",
+        "rundate":  "Mon Oct 27 2014 10:33:06 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=88544\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=88544\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=88544\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "11",
+        "variant":  "NOV140673 RAT QUEENS #11 CVR B UPCHURCH (MR)",
+        "price":  2.80,
+        "currency":  "?",
+        "rundate":  "Mon Oct 27 2014 10:33:06 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -318,7 +368,7 @@
         "variant":  "OCT140719 IMAGE FIRSTS RAT QUEENS #1 (MR)",
         "price":  0.80,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:33:06 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -330,18 +380,7 @@
         "variant":  "RAT QUEENS #8 CVR A JENKINS (MR) [(W) Kurtis J. Wiebe (A) Roc Upchurch (CA) Tyler Jenkins]",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Oct 20 2014 09:25:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Oct 27 2014 10:33:06 GMT+0000 (UTC)",
         "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://www.thecomicguru.co.uk",
-        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=16545\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=16545\u003c/\u003e",
-        "orderdate":  null,
-        "title":  "RAT QUEENS",
-        "issue":  "8",
-        "variant":  "1",
-        "price":  "2.60",
-        "rundate":  "Mon Oct 20 2014 09:23:55 GMT+0000 (UTC)",
-        "site":  "The Comic Guru"
     }
 ]

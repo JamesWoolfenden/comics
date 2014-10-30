@@ -1,0 +1,50 @@
+﻿[
+    {
+        "Title":  "LOOT CRATE",
+        "Issue":  "OCTOBER",
+        "Cover":  0,
+        "TotalCost":  "18.40",
+        "Mean":  18.398,
+        "AveragePrice":  18.398,
+        "CurrentPrice":  18.398,
+        "Minimum":  10.5,
+        "Maximum":  25,
+        "Count":  5,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null,
+        "Date":  "\/Date(1414404214226)\/"
+    },
+    {
+        "Title":  "LOOT CRATE",
+        "Issue":  "OH BROTHER ART PRINT",
+        "Cover":  0,
+        "TotalCost":  "1.42",
+        "Mean":  1.42,
+        "AveragePrice":  1.42,
+        "CurrentPrice":  1.42,
+        "Minimum":  1.42,
+        "Maximum":  1.42,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null,
+        "Date":  "\/Date(1414404214255)\/"
+    },
+    {
+        "Title":  "LOOT CRATE",
+        "Issue":  "SLEDGESAW",
+        "Cover":  0,
+        "TotalCost":  "9.19",
+        "Mean":  9.19,
+        "AveragePrice":  8.4438461538461542,
+        "CurrentPrice":  8.656,
+        "Minimum":  4.8,
+        "Maximum":  12,
+        "Count":  13,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null,
+        "Date":  "\/Date(1414404214320)\/"
+    }
+]
