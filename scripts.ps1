@@ -542,7 +542,7 @@ function get-records()
    $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold'|where {$_.BidCount -ne '0'}
    if ($soldresult)
    {
-     write-host "`nSold" -foregroundcolor cyan
+     write-host "`n`tFound Sold $($soldresult.count)" -foregroundcolor cyan
      add-array $soldresult -title "$comictitle" -issue 0 -Status Closed
    }
    
