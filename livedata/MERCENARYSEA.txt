@@ -8,7 +8,7 @@
         "variant":  "4",
         "price":  2.15,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "5",
         "price":  2.15,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "6",
         "price":  2.00,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "1 2ND PTG DHC",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,19 +56,19 @@
         "variant":  "2 DHC",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/preorders-for-05/11/14/image/mercenary-sea-7/prod_111445.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-05/11/14/image/mercenary-sea-7/prod_111445.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-05/11/14/image/mercenary-sea-7/prod_111445.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/image/mercenary-sea-7/prod_111445.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/image/mercenary-sea-7/prod_111445.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/image/mercenary-sea-7/prod_111445.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "MERCENARY SEA",
         "issue":  "7",
         "variant":  "7",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "8",
         "price":  2.20,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "8",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -103,7 +103,7 @@
         "issue":  "8",
         "variant":  "8",
         "price":  "1.95",
-        "rundate":  "Mon Oct 27 2014 10:14:01 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:13:36 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -114,7 +114,7 @@
         "issue":  "7",
         "variant":  "7",
         "price":  "1.95",
-        "rundate":  "Mon Oct 27 2014 10:14:01 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:13:36 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -126,7 +126,7 @@
         "variant":  "1 (1ST PRINT)",
         "price":  4.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:42 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -138,7 +138,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:42 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -150,7 +150,7 @@
         "variant":  "2",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:42 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -162,7 +162,7 @@
         "variant":  "3",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:42 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -174,7 +174,7 @@
         "variant":  "4",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:42 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -186,7 +186,7 @@
         "variant":  "5",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:42 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -198,7 +198,7 @@
         "variant":  "6",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:42 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -210,7 +210,7 @@
         "variant":  "MERCENARY SEA #3 [(W) Kel Symons (A/CA) Mathew Reynolds]",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:47 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -222,7 +222,7 @@
         "variant":  "OCT140750 MERCENARY SEA #8",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:47 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -234,7 +234,29 @@
         "variant":  "SEP140734 MERCENARY SEA #7",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Oct 27 2014 10:15:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:14:47 GMT+0000 (UTC)",
         "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=16959\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=16959\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "2",
+        "variant":  "1",
+        "price":  "2.20",
+        "rundate":  "Mon Nov 03 2014 10:15:05 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=16959\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=16959\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "6",
+        "variant":  "1",
+        "price":  "2.00",
+        "rundate":  "Mon Nov 03 2014 10:15:05 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
     }
 ]

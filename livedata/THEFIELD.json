@@ -1,5 +1,17 @@
 [
     {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb140485.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb140485.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb140485.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THE FIELD",
+        "issue":  "1",
+        "variant":  "1 IMAGE FIRST PRINT",
+        "price":  2.50,
+        "currency":  "?",
+        "rundate":  "Mon Nov 03 2014 10:17:51 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
         "link":  "https://forbiddenplanet.com/115768-field-1/",
         "url":  "\u003ca href=\"https://forbiddenplanet.com/115768-field-1/\"\u003ehttps://forbiddenplanet.com/115768-field-1/\u003c/a\u003e",
         "orderdate":  "",
@@ -7,7 +19,7 @@
         "issue":  "1",
         "variant":  "1",
         "price":  "2.40",
-        "rundate":  "Mon Oct 27 2014 10:20:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:17:54 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -19,7 +31,51 @@
         "variant":  "CONAN: BORN ON THE BATTLEFIELD HC",
         "price":  18.99,
         "currency":  "?",
-        "rundate":  "Mon Oct 27 2014 10:20:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 03 2014 10:18:02 GMT+0000 (UTC)",
         "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=17015\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=17015\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE FIELD",
+        "issue":  "1",
+        "variant":  "1",
+        "price":  "2.60",
+        "rundate":  "Mon Nov 03 2014 10:17:42 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=17015\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=17015\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE FIELD",
+        "issue":  "2",
+        "variant":  "2",
+        "price":  "2.60",
+        "rundate":  "Mon Nov 03 2014 10:17:42 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=17015\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=17015\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE FIELD",
+        "issue":  "3",
+        "variant":  "1",
+        "price":  "2.60",
+        "rundate":  "Mon Nov 03 2014 10:17:42 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=17015\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=17015\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE FIELD",
+        "issue":  "4",
+        "variant":  "1",
+        "price":  "2.60",
+        "rundate":  "Mon Nov 03 2014 10:17:42 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
     }
 ]
