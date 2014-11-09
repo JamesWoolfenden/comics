@@ -104,7 +104,7 @@ function add-record()
    $cmd = New-Object System.Data.SqlClient.SqlCommand
    $cmd.connection = $conn
    
-   $saledate = Get-Date 
+   $saledate = $(Get-date).ToString()
    $Issue=$Issue.ToUpper()
    $Description=$Description.Replace("'","")
    
@@ -116,6 +116,7 @@ function add-record()
    VALUES
    ('$title', '$Price', '$Issue', '$bought', '$saledate', '$status','$postage', '$Description','$PublishDate', '$ebayitem',$Quantity, '$AuctionType', '$BestOffer', '$BidCount', '$BuyItNowPrice', '$CloseDate', '$ImageSrc', '$Link', '$site', '$remaining', '$seller', '$saledate','$Price', '$Parentid', '$split')" 
    
+   write-debug $cmd.commandtext
    $result=$cmd.executenonquery()
    $conn.close()
 }
@@ -181,7 +182,7 @@ function update-db()
       $postage=get-pounds $postage
    }
    
-   $updatestring="DateOfSale='$saledate'" 
+   $updatestring="DateOfSale='$($saledate.ToString())'" 
    
    if ($title -ne "")
    {
@@ -218,7 +219,7 @@ function update-db()
       $updatestring=$updatestring+", status='$status'"
       if ($status -eq "CLOSED")
       {
-          $updatestring=$updatestring+", SaleDate='$saledate'"
+          $updatestring=$updatestring+", SaleDate='$($saledate.ToString())'"
       }
    }
    
@@ -237,7 +238,7 @@ function update-db()
    }
  
    $cmd.commandtext = "update Comics.dbo.Comics SET $updatestring where Ebayitem = '$ebayitem' and (status !='CLOSED' OR status !='expired')" 
-   
+   write-debug $cmd.commandtext
    try
    {   
       $result=$cmd.executenonquery()
