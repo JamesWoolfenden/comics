@@ -6,9 +6,9 @@
         "title":  "IMPERIAL",
         "issue":  "1",
         "variant":  "1",
-        "price":  2.25,
+        "price":  1.87,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:23:59 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "2",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:23:59 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "MARVEL GN COLL VOL 34 NEW X-MEN VOL 2 IMPERIAL HC (C: 0 2013 DHC",
         "price":  9.49,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:23:59 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,19 +44,43 @@
         "variant":  "3",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:23:59 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/image/imperial-4/prod_111442.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/image/imperial-4/prod_111442.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/image/imperial-4/prod_111442.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/image/imperial-4/prod_111442.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/image/imperial-4/prod_111442.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/image/imperial-4/prod_111442.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "IMPERIAL",
         "issue":  "4",
         "variant":  "4",
         "price":  2.25,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:35 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:23:59 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-board-game-c-0-1-2-/prod_127745.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-board-game-c-0-1-2-/prod_127745.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-board-game-c-0-1-2-/prod_127745.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT BOARD GAME (C: 0-1-2)",
+        "price":  65.35,
+        "currency":  "£",
+        "rundate":  "Mon Nov 10 2014 10:23:59 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-28/01/15/other-merchandise/star-wars-imperial-assault-board-game-c-0-1-2-/prod_129000.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-28/01/15/other-merchandise/star-wars-imperial-assault-board-game-c-0-1-2-/prod_129000.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-28/01/15/other-merchandise/star-wars-imperial-assault-board-game-c-0-1-2-/prod_129000.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT BOARD GAME (C: 0-1-2)",
+        "price":  70.55,
+        "currency":  "£",
+        "rundate":  "Mon Nov 10 2014 10:23:59 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +92,7 @@
         "variant":  "4",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:02 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -80,7 +104,7 @@
         "variant":  "3",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:02 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -92,7 +116,7 @@
         "variant":  "2",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:02 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -104,7 +128,7 @@
         "variant":  "1 FIRST PRINT",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:02 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -116,7 +140,7 @@
         "variant":  "REALM OF KINGS GUARD 5",
         "price":  2.90,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:02 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -128,30 +152,8 @@
         "variant":  "REALM OF KINGS GUARD 1",
         "price":  2.90,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:02 GMT+0000 (UTC)",
         "site":  "Close Encounters"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/127166-imperial-4/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/127166-imperial-4/\"\u003ehttps://forbiddenplanet.com/127166-imperial-4/\u003c/a\u003e",
-        "orderdate":  "5th November, 2014",
-        "title":  "IMPERIAL",
-        "issue":  "4",
-        "variant":  "4",
-        "price":  "1.95",
-        "rundate":  "Mon Nov 03 2014 10:26:43 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/125335-imperial-3/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/125335-imperial-3/\"\u003ehttps://forbiddenplanet.com/125335-imperial-3/\u003c/a\u003e",
-        "orderdate":  "",
-        "title":  "IMPERIAL",
-        "issue":  "3",
-        "variant":  "3",
-        "price":  "1.95",
-        "rundate":  "Mon Nov 03 2014 10:26:43 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
     },
     {
         "link":  "https://forbiddenplanet.com/123707-imperial-2/",
@@ -161,7 +163,7 @@
         "issue":  "2",
         "variant":  "2",
         "price":  "1.95",
-        "rundate":  "Mon Nov 03 2014 10:26:43 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:05 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -172,7 +174,7 @@
         "issue":  "1",
         "variant":  "1",
         "price":  "1.95",
-        "rundate":  "Mon Nov 03 2014 10:26:43 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:05 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -184,7 +186,7 @@
         "variant":  "1",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:09 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -196,7 +198,7 @@
         "variant":  "2",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:09 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -208,7 +210,19 @@
         "variant":  "3",
         "price":  2.49,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:09 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/imperial-4-p-64065.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/imperial-4-p-64065.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/imperial-4-p-64065.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "4",
+        "variant":  "4",
+        "price":  2.49,
+        "currency":  "£",
+        "rundate":  "Mon Nov 10 2014 10:24:09 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -220,7 +234,7 @@
         "variant":  "1",
         "price":  3.29,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:09 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -232,7 +246,7 @@
         "variant":  "3",
         "price":  3.29,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:09 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -244,7 +258,7 @@
         "variant":  "4",
         "price":  3.29,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:09 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -256,7 +270,7 @@
         "variant":  "5",
         "price":  3.29,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:09 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -268,7 +282,7 @@
         "variant":  "IMPERIAL #STANDING ORDER",
         "price":  0.00,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:13 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -280,7 +294,7 @@
         "variant":  "AUG140655 IMPERIAL #3",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:13 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -292,7 +306,7 @@
         "variant":  "IMPERIAL #1 [(W) Steven T. Seagle (A/CA) Marc Dos Santos]",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:13 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -304,7 +318,7 @@
         "variant":  "SEP140727 IMPERIAL #4",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Nov 03 2014 10:26:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 10 2014 10:24:13 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]
