@@ -104,7 +104,8 @@ function add-record()
    $cmd = New-Object System.Data.SqlClient.SqlCommand
    $cmd.connection = $conn
    
-   $saledate = $(Get-date).ToString()
+   $DateOfSale=$(Get-date).ToString()
+   $saledate = Get-date
    $Issue=$Issue.ToUpper()
    $Description=$Description.Replace("'","")
    
@@ -114,7 +115,7 @@ function add-record()
    $cmd.commandtext = "INSERT INTO comics 
    (Title, Price, Issue, Bought, DateOfSale, Status, postage, Description, PublishDate, EbayItem, Quantity, AuctionType, BestOffer, BidCount, BuyItNowPrice, CloseDate, ImageSrc, Link, Site, Remaining, Seller, SaleDate, StartingPrice, Parentid, Split) 
    VALUES
-   ('$title', '$Price', '$Issue', '$bought', '$saledate', '$status','$postage', '$Description','$PublishDate', '$ebayitem',$Quantity, '$AuctionType', '$BestOffer', '$BidCount', '$BuyItNowPrice', '$CloseDate', '$ImageSrc', '$Link', '$site', '$remaining', '$seller', '$saledate','$Price', '$Parentid', '$split')" 
+   ('$title', '$Price', '$Issue', '$bought', '$DateOfSale', '$status','$postage', '$Description','$PublishDate', '$ebayitem',$Quantity, '$AuctionType', '$BestOffer', '$BidCount', '$BuyItNowPrice', '$CloseDate', '$ImageSrc', '$Link', '$site', '$remaining', '$seller', '$saledate','$Price', '$Parentid', '$split')" 
    
    write-debug $cmd.commandtext
    $result=$cmd.executenonquery()
@@ -219,7 +220,7 @@ function update-db()
       $updatestring=$updatestring+", status='$status'"
       if ($status -eq "CLOSED")
       {
-          $updatestring=$updatestring+", SaleDate='$($saledate.ToString())'"
+          $updatestring=$updatestring+", SaleDate='$saledate'"
       }
    }
    
