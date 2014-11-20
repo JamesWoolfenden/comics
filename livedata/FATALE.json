@@ -1,269 +1,5 @@
 [
     {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/fatale-22-mr-/prod_22757.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/fatale-22-mr-/prod_22757.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/fatale-22-mr-/prod_22757.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "22",
-        "variant":  "22 (MR)",
-        "price":  2.13,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/fatale-23-mr-/prod_30527.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/fatale-23-mr-/prod_30527.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/fatale-23-mr-/prod_30527.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "23",
-        "variant":  "23 (MR)",
-        "price":  2.13,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/fatale-24-mr-/prod_35091.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/fatale-24-mr-/prod_35091.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/fatale-24-mr-/prod_35091.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "24",
-        "variant":  "24 (MR)",
-        "price":  2.64,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/image-firsts-fatale-curr-ptg-1-o/a-mr-/prod_60965.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/image-firsts-fatale-curr-ptg-1-o/a-mr-/prod_60965.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/image-firsts-fatale-curr-ptg-1-o/a-mr-/prod_60965.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "1",
-        "variant":  "1 (O/A) (MR)",
-        "price":  1.23,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/other-publishers/clown-fatale-4-of-4-mr-dhc/prod_69234.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/other-publishers/clown-fatale-4-of-4-mr-dhc/prod_69234.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/other-publishers/clown-fatale-4-of-4-mr-dhc/prod_69234.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "4",
-        "variant":  "4 (OF 4) (MR) DHC",
-        "price":  2.21,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/fatale-10-mr-dhc/prod_69648.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/fatale-10-mr-dhc/prod_69648.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/fatale-10-mr-dhc/prod_69648.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "10",
-        "variant":  "10 (MR) DHC",
-        "price":  1.70,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/fatale-21-mr-dhc/prod_69649.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/fatale-21-mr-dhc/prod_69649.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/fatale-21-mr-dhc/prod_69649.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "21",
-        "variant":  "21 (MR) DHC",
-        "price":  2.13,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/fatale-8-mr-dhc/prod_69650.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/fatale-8-mr-dhc/prod_69650.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/fatale-8-mr-dhc/prod_69650.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "8",
-        "variant":  "8 (MR) DHC",
-        "price":  1.79,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/image-firsts-fatale-curr-ptg-1-mr-/prod_112022.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/image-firsts-fatale-curr-ptg-1-mr-/prod_112022.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/image-firsts-fatale-curr-ptg-1-mr-/prod_112022.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "1",
-        "variant":  "1 (MR)",
-        "price":  1.45,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders-for-19/11/14/image/image-firsts-fatale-curr-ptg-1-o/a-mr-/prod_115861.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-19/11/14/image/image-firsts-fatale-curr-ptg-1-o/a-mr-/prod_115861.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-19/11/14/image/image-firsts-fatale-curr-ptg-1-o/a-mr-/prod_115861.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "1",
-        "variant":  "1 (O/A) (MR)",
-        "price":  1.45,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/image-firsts-fatale-curr-ptg-1-o/a-mr-/prod_122580.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/image-firsts-fatale-curr-ptg-1-o/a-mr-/prod_122580.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/image-firsts-fatale-curr-ptg-1-o/a-mr-/prod_122580.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "1",
-        "variant":  "1 (O/A) (MR)",
-        "price":  1.40,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/idw/image-firsts-fatale-curr-ptg-1-o/a-mr-/prod_123344.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/idw/image-firsts-fatale-curr-ptg-1-o/a-mr-/prod_123344.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/idw/image-firsts-fatale-curr-ptg-1-o/a-mr-/prod_123344.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "1",
-        "variant":  "1 (O/A) (MR)",
-        "price":  1.45,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-01-death-chases-me-apr120439-mr-rt-/prod_126898.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-01-death-chases-me-apr120439-mr-rt-/prod_126898.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-01-death-chases-me-apr120439-mr-rt-/prod_126898.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "FATALE",
-        "variant":  "FATALE TP 01 DEATH CHASES ME (APR120439) (MR) (RT)",
-        "price":  9.89,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-02-devils-business-oct120474-mr-rt-/prod_126899.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-02-devils-business-oct120474-mr-rt-/prod_126899.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-02-devils-business-oct120474-mr-rt-/prod_126899.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "FATALE",
-        "variant":  "FATALE TP 02 DEVILS BUSINESS (OCT120474) (MR) (RT)",
-        "price":  9.89,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-03-west-of-hell-apr130422-mr-rt-/prod_126900.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-03-west-of-hell-apr130422-mr-rt-/prod_126900.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-03-west-of-hell-apr130422-mr-rt-/prod_126900.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "FATALE",
-        "variant":  "FATALE TP 03 WEST OF HELL (APR130422) (MR) (RT)",
-        "price":  9.89,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-04-pray-for-rain-oct130469-mr-rt-/prod_126901.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-04-pray-for-rain-oct130469-mr-rt-/prod_126901.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-04-pray-for-rain-oct130469-mr-rt-/prod_126901.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "FATALE",
-        "variant":  "FATALE TP 04 PRAY FOR RAIN (OCT130469) (MR) (RT)",
-        "price":  9.89,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-05-curse-the-demon-jul140483-mr-rt-/prod_126902.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-05-curse-the-demon-jul140483-mr-rt-/prod_126902.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/fatale-tp-05-curse-the-demon-jul140483-mr-rt-/prod_126902.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "FATALE",
-        "variant":  "FATALE TP 05 CURSE THE DEMON (JUL140483) (MR) (RT)",
-        "price":  9.89,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders-for-10/12/14/graphic-novels-books/fatale-tp-01-death-chases-me-apr120439-mr-rt-/prod_128153.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-10/12/14/graphic-novels-books/fatale-tp-01-death-chases-me-apr120439-mr-rt-/prod_128153.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-10/12/14/graphic-novels-books/fatale-tp-01-death-chases-me-apr120439-mr-rt-/prod_128153.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "FATALE",
-        "variant":  "FATALE TP 01 DEATH CHASES ME (APR120439) (MR) (RT)",
-        "price":  10.44,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/other-publishers/fatale-tp-02-devils-business-oct120474-mr-rt-/prod_128154.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/other-publishers/fatale-tp-02-devils-business-oct120474-mr-rt-/prod_128154.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/other-publishers/fatale-tp-02-devils-business-oct120474-mr-rt-/prod_128154.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "FATALE",
-        "variant":  "FATALE TP 02 DEVILS BUSINESS (OCT120474) (MR) (RT)",
-        "price":  10.44,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders-for-10/12/14/graphic-novels-books/fatale-tp-03-west-of-hell-apr130422-mr-rt-/prod_128155.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-10/12/14/graphic-novels-books/fatale-tp-03-west-of-hell-apr130422-mr-rt-/prod_128155.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-10/12/14/graphic-novels-books/fatale-tp-03-west-of-hell-apr130422-mr-rt-/prod_128155.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "FATALE",
-        "variant":  "FATALE TP 03 WEST OF HELL (APR130422) (MR) (RT)",
-        "price":  10.44,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/other-publishers/fatale-tp-04-pray-for-rain-oct130469-mr-rt-/prod_128156.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/other-publishers/fatale-tp-04-pray-for-rain-oct130469-mr-rt-/prod_128156.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/other-publishers/fatale-tp-04-pray-for-rain-oct130469-mr-rt-/prod_128156.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "FATALE",
-        "variant":  "FATALE TP 04 PRAY FOR RAIN (OCT130469) (MR) (RT)",
-        "price":  10.44,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders-for-10/12/14/graphic-novels-books/fatale-tp-05-curse-the-demon-jul140483-mr-rt-/prod_128157.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-10/12/14/graphic-novels-books/fatale-tp-05-curse-the-demon-jul140483-mr-rt-/prod_128157.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-10/12/14/graphic-novels-books/fatale-tp-05-curse-the-demon-jul140483-mr-rt-/prod_128157.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "FATALE",
-        "variant":  "FATALE TP 05 CURSE THE DEMON (JUL140483) (MR) (RT)",
-        "price":  10.44,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:41 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
         "link":  "http://www.closeencounters.co.uk/index.php/mar140516.html",
         "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/mar140516.html\"\u003ehttp://www.closeencounters.co.uk/index.php/mar140516.html\u003c/a\u003e",
         "orderdate":  null,
@@ -272,7 +8,7 @@
         "variant":  "24",
         "price":  3.45,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -284,7 +20,7 @@
         "variant":  "23",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -296,7 +32,7 @@
         "variant":  "22",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -308,7 +44,7 @@
         "variant":  "21 IMAGE FIRST PRINT",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -320,7 +56,7 @@
         "variant":  "20",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -332,7 +68,7 @@
         "variant":  "19 FIRST PRINT",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -344,7 +80,7 @@
         "variant":  "18 FIRST PRINT",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -356,7 +92,7 @@
         "variant":  "17",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -368,7 +104,7 @@
         "variant":  "16",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -380,7 +116,7 @@
         "variant":  "15",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -392,7 +128,7 @@
         "variant":  "14",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -404,7 +140,7 @@
         "variant":  "13",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -416,7 +152,7 @@
         "variant":  "12",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -428,7 +164,7 @@
         "variant":  "11",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -440,7 +176,7 @@
         "variant":  "10 FIRST PRINT",
         "price":  2.94,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -452,7 +188,7 @@
         "variant":  "9 FIRST PRINT",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -464,7 +200,7 @@
         "variant":  "8 FIRST PRINT",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -476,7 +212,7 @@
         "variant":  "7 FIRST PRINT",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -488,7 +224,7 @@
         "variant":  "6 FIRST PRINT",
         "price":  2.94,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -500,7 +236,7 @@
         "variant":  "5 FIRST PRINT",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -512,31 +248,7 @@
         "variant":  "4 FIRST PRINT",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jan128124.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan128124.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan128124.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "3",
-        "variant":  "3 SECOND PRINT",
-        "price":  3.94,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jan120584.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan120584.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan120584.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FATALE",
-        "issue":  "3",
-        "variant":  "3 FIRST PRINT",
-        "price":  6.94,
-        "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -548,7 +260,31 @@
         "variant":  "3 SECOND PRINT",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:17:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan128124.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan128124.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan128124.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FATALE",
+        "issue":  "3",
+        "variant":  "3 SECOND PRINT",
+        "price":  3.94,
+        "currency":  "?",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan120584.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan120584.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan120584.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FATALE",
+        "issue":  "3",
+        "variant":  "3 FIRST PRINT",
+        "price":  6.94,
+        "currency":  "?",
+        "rundate":  "Mon Nov 17 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -559,7 +295,7 @@
         "issue":  "70 ",
         "variant":  "Fatal Fantasy Cover",
         "price":  "2.65",
-        "rundate":  "Mon Nov 10 2014 10:16:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:35 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -570,7 +306,7 @@
         "issue":  "69 ",
         "variant":  "Fatal Fantasy Cover",
         "price":  "2.65",
-        "rundate":  "Mon Nov 10 2014 10:16:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:35 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -581,7 +317,7 @@
         "issue":  "68 ",
         "variant":  "Fatal Fantasy Cover",
         "price":  "2.65",
-        "rundate":  "Mon Nov 10 2014 10:16:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:35 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -592,7 +328,7 @@
         "issue":  "67 ",
         "variant":  "Fatal Fantasy Cover",
         "price":  "2.65",
-        "rundate":  "Mon Nov 10 2014 10:16:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:35 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -603,18 +339,7 @@
         "issue":  "66 ",
         "variant":  "Fatal Fantasy Cover",
         "price":  "2.65",
-        "rundate":  "Mon Nov 10 2014 10:16:18 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/127472-crossed-badlands-65-fatal-fantasy-cover/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/127472-crossed-badlands-65-fatal-fantasy-cover/\"\u003ehttps://forbiddenplanet.com/127472-crossed-badlands-65-fatal-fantasy-cover/\u003c/a\u003e",
-        "orderdate":  "12th November, 2014",
-        "title":  "FATALE",
-        "issue":  "65 ",
-        "variant":  "Fatal Fantasy Cover",
-        "price":  "2.65",
-        "rundate":  "Mon Nov 10 2014 10:16:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:35 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -626,7 +351,7 @@
         "variant":  "1",
         "price":  3.29,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -638,7 +363,7 @@
         "variant":  "2",
         "price":  3.29,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -650,7 +375,7 @@
         "variant":  "3",
         "price":  3.29,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -662,7 +387,7 @@
         "variant":  "4",
         "price":  3.29,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -674,7 +399,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  6.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -686,7 +411,7 @@
         "variant":  "1 (3RD PRINT)",
         "price":  5.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -698,7 +423,7 @@
         "variant":  "1 (5TH PRINT)",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -710,7 +435,7 @@
         "variant":  "10",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -722,7 +447,7 @@
         "variant":  "11",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -734,7 +459,7 @@
         "variant":  "12",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -746,7 +471,7 @@
         "variant":  "13",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -758,7 +483,7 @@
         "variant":  "14",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -770,7 +495,7 @@
         "variant":  "15",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -782,7 +507,7 @@
         "variant":  "16",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -794,7 +519,7 @@
         "variant":  "17",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -806,7 +531,7 @@
         "variant":  "18",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -818,7 +543,7 @@
         "variant":  "19",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -830,7 +555,7 @@
         "variant":  "21",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -842,7 +567,7 @@
         "variant":  "22",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -854,7 +579,7 @@
         "variant":  "23",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -866,7 +591,7 @@
         "variant":  "24",
         "price":  3.49,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -878,7 +603,7 @@
         "variant":  "5",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -890,7 +615,7 @@
         "variant":  "8",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -902,7 +627,7 @@
         "variant":  "9",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -914,7 +639,7 @@
         "variant":  "1",
         "price":  1.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -926,7 +651,7 @@
         "variant":  "FATALE #23 [(W) Ed Brubaker (A) Sean Phillips, Bettie Breitweiser (CA) Sean Phillips]",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:10 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:44 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -938,7 +663,7 @@
         "variant":  "IMAGE FIRSTS FATALE CURR PTG #1 (MR) [(W) Ed Brubaker (A/CA) Sean Phillips]",
         "price":  0.80,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:10 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:44 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -950,7 +675,7 @@
         "variant":  "SPIRIT: FEMME FATALES",
         "price":  12.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:18:10 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:34:44 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -961,7 +686,7 @@
         "issue":  "3",
         "variant":  "3",
         "price":  "2.85",
-        "rundate":  "Mon Nov 10 2014 10:18:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:35:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -972,7 +697,7 @@
         "issue":  "4",
         "variant":  "3",
         "price":  "2.85",
-        "rundate":  "Mon Nov 10 2014 10:18:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:35:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -983,7 +708,7 @@
         "issue":  "12",
         "variant":  "3",
         "price":  "2.85",
-        "rundate":  "Mon Nov 10 2014 10:18:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:35:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -994,7 +719,7 @@
         "issue":  "13",
         "variant":  "2",
         "price":  "2.85",
-        "rundate":  "Mon Nov 10 2014 10:18:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:35:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1005,7 +730,7 @@
         "issue":  "14",
         "variant":  "2",
         "price":  "2.85",
-        "rundate":  "Mon Nov 10 2014 10:18:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:35:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1016,7 +741,7 @@
         "issue":  "15",
         "variant":  "1",
         "price":  "2.85",
-        "rundate":  "Mon Nov 10 2014 10:18:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:35:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1027,7 +752,7 @@
         "issue":  "16",
         "variant":  "1",
         "price":  "2.85",
-        "rundate":  "Mon Nov 10 2014 10:18:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:35:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1038,7 +763,7 @@
         "issue":  "17",
         "variant":  "1",
         "price":  "2.85",
-        "rundate":  "Mon Nov 10 2014 10:18:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:35:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1049,7 +774,7 @@
         "issue":  "18",
         "variant":  "2",
         "price":  "2.85",
-        "rundate":  "Mon Nov 10 2014 10:18:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:35:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1060,7 +785,7 @@
         "issue":  "19",
         "variant":  "1",
         "price":  "2.85",
-        "rundate":  "Mon Nov 10 2014 10:18:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:35:17 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     }
 ]

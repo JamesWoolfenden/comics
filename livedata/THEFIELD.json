@@ -8,7 +8,7 @@
         "variant":  "1 IMAGE FIRST PRINT",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:15:38 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:29:35 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -19,7 +19,7 @@
         "issue":  "1",
         "variant":  "1",
         "price":  "2.65",
-        "rundate":  "Mon Nov 10 2014 10:15:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:29:39 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -30,7 +30,7 @@
         "issue":  "1",
         "variant":  "1",
         "price":  "2.40",
-        "rundate":  "Mon Nov 10 2014 10:15:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:29:39 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -42,7 +42,7 @@
         "variant":  "CONAN: BORN ON THE BATTLEFIELD HC",
         "price":  18.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 10 2014 10:15:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:29:48 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -53,7 +53,7 @@
         "issue":  "1",
         "variant":  "1",
         "price":  "2.60",
-        "rundate":  "Mon Nov 10 2014 10:15:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:30:20 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -64,7 +64,7 @@
         "issue":  "2",
         "variant":  "2",
         "price":  "2.60",
-        "rundate":  "Mon Nov 10 2014 10:15:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:30:20 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -75,7 +75,7 @@
         "issue":  "3",
         "variant":  "1",
         "price":  "2.60",
-        "rundate":  "Mon Nov 10 2014 10:15:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:30:20 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -86,7 +86,7 @@
         "issue":  "4",
         "variant":  "1",
         "price":  "2.60",
-        "rundate":  "Mon Nov 10 2014 10:15:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 17 2014 10:30:20 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     }
 ]
