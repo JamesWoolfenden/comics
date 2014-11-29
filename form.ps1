@@ -83,7 +83,7 @@ function get-imagetitle
       $Form.Controls.Add($obj)
       $x=$x+$img.Size.Width+10
       $counter++
-      $maxheight=($maxheight,$Height | Measure -Max).Maximum
+      $maxheight=(0,$Height | Measure -Max).Maximum
    }
 
    $Form.width          = $x+10

@@ -138,8 +138,11 @@ function update-record
    
    if ($record.site -eq "ebay")
    {
-      $priceestimate= $ie.Document.getElementByID('prcIsum').innerText
-      if ($priceestimate -eq $NULL)
+      if ($ie.Document.getElementByID('prcIsum'))
+      {
+         $priceestimate= $ie.Document.getElementByID('prcIsum').innerText
+      }
+      else
       {
          $priceestimate= ($ie.Document.getElementByID('prcIsum_bidPrice').innerText)      
       }
@@ -169,7 +172,7 @@ function update-record
       $price=$record.Price
    }
    
-   write-debug "Before Estimate $estimate"
+   write-debug "Before Estimate estimate $estimate"
    if ($estimate -notlike $NULL)
    {
       $estimate=($estimate.Replace("£","")).Replace('$',"")
@@ -305,6 +308,8 @@ function set-issue
    #if its a new record
    if ($rawissue -eq "0")
    {
+      [string]$tempstring=$null
+
       #are we lucky to have an issue no?
       if ($rawtitle.Contains("#"))
 	  {
@@ -318,18 +323,26 @@ function set-issue
       #has it split
       if ($tempstring -ne $null)
       {
-	      write-host "Before estimate $estimateIssue : $tempstring"
-          $tempstring=($tempstring.Trim()).split(" ")
+	      write-host "Before estimate tempstring $tempstring"
+          $splitstring=($tempstring.Trim()).split(" ")
         
-          if ($tempstring -is [system.array])
+          if ($splitstring -is [system.array])
           {
-             $tempstring =$tempstring[0]
-          }
-          
+             $splitstring= $splitstring[0]
+          }     
 
           #found-image  -title $newtitle -issue $record.Issue
-          $estimateIssue=$tempstring 
+          if ($splitstring)
+          {
+             $estimateIssue=$splitstring 
+          }
+          else
+          {
+             $estimateIssue=$null
+          }
           
+          write-debug "Tempstring $tempstring $($tempstring.GetType())"
+          write-debug "guess-title -title $title -issue $estimateIssue"
           $estimateIssue=guess-title -title $title -issue $estimateIssue
           write-debug "After estimate $estimateIssue"
       }
@@ -352,10 +365,10 @@ function set-issue
             }
 			else
 			{
-			  $estimateIssue=$tempstring 
+			   $estimateIssue=$tempstring 
 			}
            
-            write-host "Before estimate $estimateIssue"
+            write-host "Before estimate estimateIssue $estimateIssue"
             $estimateIssue=guess-title -title $title -issue "$estimateIssue"
             write-debug "After estimate $estimateIssue"
          }
@@ -398,13 +411,12 @@ function set-issue
    $estimateIssue
  }  
 
- function guess-title()
+ function guess-title
  {
     param(
     [Parameter(Mandatory=$true)]
     [string]$title,
-    [Parameter(Mandatory=$true)]
-    [string]$issue)
+    [string]$issue=$null)
 
     $issue=$issue.replace(".","")
     $issue=$issue.replace(",","")
