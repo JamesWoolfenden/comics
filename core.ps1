@@ -29,7 +29,6 @@ function scan
 	 {
 	    Write-host "`r`nSearch disabled for $($search.title)" -foregroundcolor cyan
 	 }
-
 	 
    }
 }
@@ -84,7 +83,7 @@ function combine-data
        combine market feed results
 	    
       .EXAMPLE
-      C:\PS> combine-date $title
+      C:\PS> combine-data $title
 
    #>
    param([string]$title)
@@ -104,6 +103,15 @@ function combine-data
 
 function get-price
 {
+  <#
+      .SYNOPSIS 
+       For return numeric price from a dirty string
+	    
+      .EXAMPLE
+      C:\PS> get-price "$3.59"
+
+   #>
+
    param( 
    [Parameter(Mandatory=$true)]
    [string]$price)
@@ -113,7 +121,7 @@ function get-price
      return ""
    }
     
-   [string]$currency=""
+   [string]$currency=$null
 
    if ($price.contains("£"))
    {
@@ -121,10 +129,10 @@ function get-price
       $currency="£"
    }
 
-   if ($price.contains('$'))
+   if ($price.contains("`$"))
    {
-      $price=$price.Replace('$',"")
-      $currency='$'
+      $price=$price.Replace("`$","")
+      $currency="`$"
    }
 
    if ($price.contains("€"))
@@ -147,7 +155,7 @@ function get-price
    $cost
 }
 
-function get-issue()
+function get-issue
 {
    param( 
    [Parameter(Mandatory=$true)]

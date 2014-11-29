@@ -1,4 +1,3 @@
-#set-strictmode -Version Latest
 
 $corescript=$myinvocation.mycommand.path
 if ($corescript -eq $null)
@@ -518,8 +517,17 @@ function add-ebid
    write-host "Adding $title $($set.ebayid)"
 }
 
-function get-records()
+function get-records
 {
+ <#
+   .SYNOPSIS 
+   Retrieves ebay records and adds them to the db
+	    
+   .EXAMPLE
+   C:\PS> get-records -title "The Walking Dead" -exclude "Poster"   
+    This loads the search json db and scan ebay and ebid.
+ #>
+
    param(
    [Parameter(Mandatory=$true)]
    [string]$title,
@@ -538,7 +546,7 @@ function get-records()
    }
    
    #this is the sold items
-   write-debug "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {$_.BidCount -ne '0'}"
+   write-debug "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {`$_.BidCount -ne '0'}"
    $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold'|where {$_.BidCount -ne '0'}
    if ($soldresult)
    {
@@ -547,7 +555,7 @@ function get-records()
    }
    
    # this is the closed results
-   write-debug "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {_.BidCount -ne '0'}"
+   write-debug "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {`$_.BidCount -ne '0'}"
    $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed'|where {$_.BidCount -eq "0"}
    if ($expiredresult)
    {
@@ -562,11 +570,11 @@ function get-records()
       if ($result)
       {
          write-debug "`r`nOpen" 
-	     if ($result.count)
-	     {
-	        write-host "`n`tEbay found: $($result.count)"
-	     }
-	     else
+	 if ($result.count)
+	 {
+	     write-host "`n`tEbay found: $($result.count)"
+	 }
+	 else
          {
             write-host "`n`tEbay found: 0"
          }
@@ -574,8 +582,9 @@ function get-records()
          add-array $result -title "$comictitle" -issue 0
       }
    }
-   Else{
-      write-warning "Disabled New records for $title"
+   else
+   {
+      write-warning "Disabled new records for $title"
    }
 }
 
