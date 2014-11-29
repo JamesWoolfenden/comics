@@ -3,33 +3,33 @@
         "Title":  "LAZARUS",
         "Issue":  "10",
         "Cover":  10,
-        "TotalCost":  "2.96",
-        "Mean":  2.9571428571428569,
-        "AveragePrice":  2.9571428571428569,
-        "CurrentPrice":  2.7,
+        "TotalCost":  "3.03",
+        "Mean":  3.0333333333333332,
+        "AveragePrice":  3.0333333333333332,
+        "CurrentPrice":  2.92,
         "Minimum":  2.4,
         "Maximum":  3.6,
-        "Count":  7,
+        "Count":  6,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218575178)\/"
+        "Date":  "\/Date(1416823397736)\/"
     },
     {
         "Title":  "LAZARUS",
         "Issue":  "11",
         "Cover":  11,
-        "TotalCost":  "2.98",
-        "Mean":  2.9799999999999995,
-        "AveragePrice":  2.9799999999999995,
-        "CurrentPrice":  2.98,
+        "TotalCost":  "2.84",
+        "Mean":  2.8375,
+        "AveragePrice":  2.8375,
+        "CurrentPrice":  2.8375,
         "Minimum":  2.5,
         "Maximum":  3.6,
-        "Count":  5,
+        "Count":  4,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218575221)\/"
+        "Date":  "\/Date(1416823397776)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -45,23 +45,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218575251)\/"
+        "Date":  "\/Date(1416823397816)\/"
     },
     {
         "Title":  "LAZARUS",
         "Issue":  "1A",
         "Cover":  1,
-        "TotalCost":  "3.85",
-        "Mean":  3.84557857142857,
-        "AveragePrice":  3.1917785714285718,
-        "CurrentPrice":  3.678,
+        "TotalCost":  "3.83",
+        "Mean":  3.825811011904761,
+        "AveragePrice":  3.1687276785714289,
+        "CurrentPrice":  3.082,
         "Minimum":  0.26,
         "Maximum":  6.99,
-        "Count":  50,
+        "Count":  48,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1416218575405)\/"
+        "Date":  "\/Date(1416823397976)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218575437)\/"
+        "Date":  "\/Date(1416823398016)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -93,7 +93,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1416218575475)\/"
+        "Date":  "\/Date(1416823398066)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -109,7 +109,7 @@
         "AveragePaid":  0.75,
         "AverageNetPaid":  0.75,
         "Stock":  1,
-        "Date":  "\/Date(1416218575517)\/"
+        "Date":  "\/Date(1416823398106)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -125,7 +125,7 @@
         "AveragePaid":  2.42,
         "AverageNetPaid":  1.545,
         "Stock":  2,
-        "Date":  "\/Date(1416218575564)\/"
+        "Date":  "\/Date(1416823398156)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218575595)\/"
+        "Date":  "\/Date(1416823398196)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1416218575674)\/"
+        "Date":  "\/Date(1416823398276)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -173,7 +173,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1416218575719)\/"
+        "Date":  "\/Date(1416823398326)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -189,7 +189,7 @@
         "AveragePaid":  3.99,
         "AverageNetPaid":  3.99,
         "Stock":  1,
-        "Date":  "\/Date(1416218575762)\/"
+        "Date":  "\/Date(1416823398376)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -205,7 +205,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1416218575834)\/"
+        "Date":  "\/Date(1416823398446)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -221,7 +221,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1416218575916)\/"
+        "Date":  "\/Date(1416823398536)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -237,7 +237,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1416218575982)\/"
+        "Date":  "\/Date(1416823398606)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -253,7 +253,7 @@
         "AveragePaid":  2.475,
         "AverageNetPaid":  2.475,
         "Stock":  2,
-        "Date":  "\/Date(1416218576080)\/"
+        "Date":  "\/Date(1416823398706)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -269,7 +269,7 @@
         "AveragePaid":  1.75,
         "AverageNetPaid":  1.75,
         "Stock":  1,
-        "Date":  "\/Date(1416218576133)\/"
+        "Date":  "\/Date(1416823398766)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -285,7 +285,7 @@
         "AveragePaid":  2.125,
         "AverageNetPaid":  1.75,
         "Stock":  1,
-        "Date":  "\/Date(1416218576185)\/"
+        "Date":  "\/Date(1416823398816)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -301,7 +301,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1416218576237)\/"
+        "Date":  "\/Date(1416823398876)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -317,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218576269)\/"
+        "Date":  "\/Date(1416823398906)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -326,14 +326,14 @@
         "TotalCost":  "9.34",
         "Mean":  9.3403846153846146,
         "AveragePrice":  7.0144230769230793,
-        "CurrentPrice":  7.5920000000000005,
+        "CurrentPrice":  5.1320000000000006,
         "Minimum":  0.99,
         "Maximum":  22.5,
         "Count":  52,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218576428)\/"
+        "Date":  "\/Date(1416823399076)\/"
     },
     {
         "Title":  "LAZARUS",
@@ -349,6 +349,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218576458)\/"
+        "Date":  "\/Date(1416823399106)\/"
     }
 ]

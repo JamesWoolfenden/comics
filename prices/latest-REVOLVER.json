@@ -13,23 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218579943)\/"
-    },
-    {
-        "Title":  "REVOLVER",
-        "Issue":  "3",
-        "Cover":  3,
-        "TotalCost":  "3.81",
-        "Mean":  3.81,
-        "AveragePrice":  3.81,
-        "CurrentPrice":  3.81,
-        "Minimum":  3.81,
-        "Maximum":  3.81,
-        "Count":  1,
-        "AveragePaid":  null,
-        "AverageNetPaid":  null,
-        "Stock":  null,
-        "Date":  "\/Date(1416218579975)\/"
+        "Date":  "\/Date(1416823403166)\/"
     },
     {
         "Title":  "REVOLVER",
@@ -45,23 +29,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218580005)\/"
+        "Date":  "\/Date(1416823403206)\/"
     },
     {
         "Title":  "REVOLVER",
         "Issue":  "5",
         "Cover":  5,
-        "TotalCost":  "3.05",
-        "Mean":  3.05,
-        "AveragePrice":  2.4,
-        "CurrentPrice":  2.4,
+        "TotalCost":  "2.29",
+        "Mean":  2.29,
+        "AveragePrice":  0.99,
+        "CurrentPrice":  0.99,
         "Minimum":  0.99,
-        "Maximum":  3.81,
-        "Count":  2,
+        "Maximum":  0.99,
+        "Count":  1,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218580038)\/"
+        "Date":  "\/Date(1416823403236)\/"
     },
     {
         "Title":  "REVOLVER",
@@ -77,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218580068)\/"
+        "Date":  "\/Date(1416823403266)\/"
     },
     {
         "Title":  "REVOLVER",
@@ -93,22 +77,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218580100)\/"
-    },
-    {
-        "Title":  "REVOLVER",
-        "Issue":  "SET",
-        "Cover":  0,
-        "TotalCost":  "5.99",
-        "Mean":  5.99,
-        "AveragePrice":  5.99,
-        "CurrentPrice":  5.99,
-        "Minimum":  5.99,
-        "Maximum":  5.99,
-        "Count":  1,
-        "AveragePaid":  null,
-        "AverageNetPaid":  null,
-        "Stock":  null,
-        "Date":  "\/Date(1416218580130)\/"
+        "Date":  "\/Date(1416823403296)\/"
     }
 ]

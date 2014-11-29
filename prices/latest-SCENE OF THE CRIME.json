@@ -1,67 +1,19 @@
 [
     {
         "Title":  "SCENE OF THE CRIME",
-        "Issue":  "1",
-        "Cover":  1,
-        "TotalCost":  "2.49",
-        "Mean":  2.49,
-        "AveragePrice":  2.49,
-        "CurrentPrice":  2.49,
-        "Minimum":  2.49,
-        "Maximum":  2.49,
-        "Count":  1,
-        "AveragePaid":  null,
-        "AverageNetPaid":  null,
-        "Stock":  null,
-        "Date":  "\/Date(1416218607375)\/"
-    },
-    {
-        "Title":  "SCENE OF THE CRIME",
-        "Issue":  "2",
-        "Cover":  2,
-        "TotalCost":  "5.98",
-        "Mean":  5.98,
-        "AveragePrice":  5.98,
-        "CurrentPrice":  5.98,
-        "Minimum":  5.98,
-        "Maximum":  5.98,
-        "Count":  1,
-        "AveragePaid":  5.98,
-        "AverageNetPaid":  5.98,
-        "Stock":  1,
-        "Date":  "\/Date(1416218607405)\/"
-    },
-    {
-        "Title":  "SCENE OF THE CRIME",
-        "Issue":  "A LITTLE PIECE OF GOODNIGHT",
-        "Cover":  0,
-        "TotalCost":  "4.70",
-        "Mean":  4.7,
-        "AveragePrice":  3,
-        "CurrentPrice":  3,
-        "Minimum":  3,
-        "Maximum":  3,
-        "Count":  1,
-        "AveragePaid":  null,
-        "AverageNetPaid":  null,
-        "Stock":  null,
-        "Date":  "\/Date(1416218607434)\/"
-    },
-    {
-        "Title":  "SCENE OF THE CRIME",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "11.29",
-        "Mean":  11.293333333333331,
-        "AveragePrice":  9.8266666666666662,
-        "CurrentPrice":  9.8266666666666662,
+        "TotalCost":  "4.85",
+        "Mean":  4.85,
+        "AveragePrice":  2.7,
+        "CurrentPrice":  2.7,
         "Minimum":  2.7,
-        "Maximum":  13.79,
-        "Count":  3,
+        "Maximum":  2.7,
+        "Count":  1,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218607472)\/"
+        "Date":  "\/Date(1416823431716)\/"
     },
     {
         "Title":  "SCENE OF THE CRIME",
@@ -77,6 +29,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218607502)\/"
+        "Date":  "\/Date(1416823431746)\/"
     }
 ]

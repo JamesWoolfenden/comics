@@ -13,23 +13,55 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218611194)\/"
+        "Date":  "\/Date(1416823435566)\/"
+    },
+    {
+        "Title":  "LOOT CRATE",
+        "Issue":  "BADGE",
+        "Cover":  0,
+        "TotalCost":  "1.69",
+        "Mean":  1.69,
+        "AveragePrice":  0.99,
+        "CurrentPrice":  0.99,
+        "Minimum":  0.99,
+        "Maximum":  0.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null,
+        "Date":  "\/Date(1416823435596)\/"
     },
     {
         "Title":  "LOOT CRATE",
         "Issue":  "OCTOBER",
         "Cover":  0,
-        "TotalCost":  "18.64",
-        "Mean":  18.634999999999998,
-        "AveragePrice":  17.049285714285713,
-        "CurrentPrice":  19.898,
+        "TotalCost":  "17.88",
+        "Mean":  17.87875,
+        "AveragePrice":  16.179375,
+        "CurrentPrice":  14.238,
         "Minimum":  4.5,
         "Maximum":  25.7,
-        "Count":  14,
+        "Count":  16,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218611261)\/"
+        "Date":  "\/Date(1416823435676)\/"
+    },
+    {
+        "Title":  "LOOT CRATE",
+        "Issue":  "OH BROTHER",
+        "Cover":  0,
+        "TotalCost":  "4.70",
+        "Mean":  4.7,
+        "AveragePrice":  3.2,
+        "CurrentPrice":  3.2,
+        "Minimum":  3.2,
+        "Maximum":  3.2,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null,
+        "Date":  "\/Date(1416823435706)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -45,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218611293)\/"
+        "Date":  "\/Date(1416823435756)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -61,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218611325)\/"
+        "Date":  "\/Date(1416823435796)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -77,22 +109,22 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218611357)\/"
+        "Date":  "\/Date(1416823435826)\/"
     },
     {
         "Title":  "LOOT CRATE",
         "Issue":  "SLEDGESAW",
         "Cover":  0,
-        "TotalCost":  "9.05",
-        "Mean":  9.0460000000000012,
-        "AveragePrice":  7.2165714285714291,
-        "CurrentPrice":  8.456,
-        "Minimum":  2.5,
+        "TotalCost":  "8.96",
+        "Mean":  8.9611111111111139,
+        "AveragePrice":  6.9936111111111119,
+        "CurrentPrice":  7.636,
+        "Minimum":  0.99,
         "Maximum":  12,
-        "Count":  35,
+        "Count":  36,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218611478)\/"
+        "Date":  "\/Date(1416823435966)\/"
     }
 ]

@@ -1,6 +1,22 @@
 ﻿[
     {
         "Title":  "WARRIOR",
+        "Issue":  "0",
+        "Cover":  0,
+        "TotalCost":  "28.73",
+        "Mean":  28.73,
+        "AveragePrice":  28.73,
+        "CurrentPrice":  28.73,
+        "Minimum":  19.96,
+        "Maximum":  37.5,
+        "Count":  2,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  null,
+        "Date":  "\/Date(1416823390026)\/"
+    },
+    {
+        "Title":  "WARRIOR",
         "Issue":  "1",
         "Cover":  1,
         "TotalCost":  "19.83",
@@ -13,7 +29,7 @@
         "AveragePaid":  5.7,
         "AverageNetPaid":  4.2,
         "Stock":  1,
-        "Date":  "\/Date(1416218568311)\/"
+        "Date":  "\/Date(1416823390066)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -29,7 +45,7 @@
         "AveragePaid":  3,
         "AverageNetPaid":  1,
         "Stock":  1,
-        "Date":  "\/Date(1416218568350)\/"
+        "Date":  "\/Date(1416823390106)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -45,7 +61,7 @@
         "AveragePaid":  3.75,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1416218568386)\/"
+        "Date":  "\/Date(1416823390146)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -61,7 +77,7 @@
         "AveragePaid":  5,
         "AverageNetPaid":  5,
         "Stock":  1,
-        "Date":  "\/Date(1416218568423)\/"
+        "Date":  "\/Date(1416823390186)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -77,7 +93,7 @@
         "AveragePaid":  3.79,
         "AverageNetPaid":  1.99,
         "Stock":  1,
-        "Date":  "\/Date(1416218568458)\/"
+        "Date":  "\/Date(1416823390226)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -93,7 +109,7 @@
         "AveragePaid":  3,
         "AverageNetPaid":  1,
         "Stock":  1,
-        "Date":  "\/Date(1416218568496)\/"
+        "Date":  "\/Date(1416823390266)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -109,7 +125,7 @@
         "AveragePaid":  3.79,
         "AverageNetPaid":  1.99,
         "Stock":  1,
-        "Date":  "\/Date(1416218568531)\/"
+        "Date":  "\/Date(1416823390296)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -125,7 +141,7 @@
         "AveragePaid":  3,
         "AverageNetPaid":  1,
         "Stock":  1,
-        "Date":  "\/Date(1416218568568)\/"
+        "Date":  "\/Date(1416823390336)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -141,7 +157,7 @@
         "AveragePaid":  2,
         "AverageNetPaid":  0.75,
         "Stock":  1,
-        "Date":  "\/Date(1416218568604)\/"
+        "Date":  "\/Date(1416823390376)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -157,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218568638)\/"
+        "Date":  "\/Date(1416823390416)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -173,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218568672)\/"
+        "Date":  "\/Date(1416823390446)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -189,7 +205,7 @@
         "AveragePaid":  4.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1416218568711)\/"
+        "Date":  "\/Date(1416823390496)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -205,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218568744)\/"
+        "Date":  "\/Date(1416823390526)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -221,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218568776)\/"
+        "Date":  "\/Date(1416823390566)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -237,7 +253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218568813)\/"
+        "Date":  "\/Date(1416823390606)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -253,7 +269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218568848)\/"
+        "Date":  "\/Date(1416823390646)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -269,7 +285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218568882)\/"
+        "Date":  "\/Date(1416823390676)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -285,7 +301,7 @@
         "AveragePaid":  5.76,
         "AverageNetPaid":  4.01,
         "Stock":  1,
-        "Date":  "\/Date(1416218568918)\/"
+        "Date":  "\/Date(1416823390716)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -301,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218568952)\/"
+        "Date":  "\/Date(1416823390756)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -317,7 +333,7 @@
         "AveragePaid":  5.2,
         "AverageNetPaid":  3.95,
         "Stock":  1,
-        "Date":  "\/Date(1416218568987)\/"
+        "Date":  "\/Date(1416823390796)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -333,7 +349,7 @@
         "AveragePaid":  3,
         "AverageNetPaid":  1,
         "Stock":  1,
-        "Date":  "\/Date(1416218569027)\/"
+        "Date":  "\/Date(1416823390836)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -349,7 +365,7 @@
         "AveragePaid":  3.09,
         "AverageNetPaid":  1.49,
         "Stock":  1,
-        "Date":  "\/Date(1416218569062)\/"
+        "Date":  "\/Date(1416823390876)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -365,7 +381,7 @@
         "AveragePaid":  3,
         "AverageNetPaid":  1,
         "Stock":  1,
-        "Date":  "\/Date(1416218569101)\/"
+        "Date":  "\/Date(1416823390916)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -381,7 +397,7 @@
         "AveragePaid":  3,
         "AverageNetPaid":  1,
         "Stock":  1,
-        "Date":  "\/Date(1416218569138)\/"
+        "Date":  "\/Date(1416823390956)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -397,7 +413,7 @@
         "AveragePaid":  3,
         "AverageNetPaid":  1,
         "Stock":  1,
-        "Date":  "\/Date(1416218569174)\/"
+        "Date":  "\/Date(1416823390996)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -413,7 +429,7 @@
         "AveragePaid":  3,
         "AverageNetPaid":  1,
         "Stock":  1,
-        "Date":  "\/Date(1416218569211)\/"
+        "Date":  "\/Date(1416823391036)\/"
     },
     {
         "Title":  "WARRIOR",
@@ -429,6 +445,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218569241)\/"
+        "Date":  "\/Date(1416823391066)\/"
     }
 ]

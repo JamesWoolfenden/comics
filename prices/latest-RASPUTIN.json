@@ -3,33 +3,33 @@
         "Title":  "RASPUTIN",
         "Issue":  "1A",
         "Cover":  1,
-        "TotalCost":  "3.45",
-        "Mean":  3.4536363636363632,
-        "AveragePrice":  3.3263636363636362,
-        "CurrentPrice":  3.6479999999999997,
-        "Minimum":  2.25,
-        "Maximum":  4.99,
-        "Count":  11,
+        "TotalCost":  "2.85",
+        "Mean":  2.85,
+        "AveragePrice":  2.85,
+        "CurrentPrice":  2.85,
+        "Minimum":  2.5,
+        "Maximum":  3.55,
+        "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218611670)\/"
+        "Date":  "\/Date(1416823436176)\/"
     },
     {
         "Title":  "RASPUTIN",
         "Issue":  "1B",
         "Cover":  1,
-        "TotalCost":  "3.70",
-        "Mean":  3.7042857142857142,
-        "AveragePrice":  3.7042857142857142,
-        "CurrentPrice":  3.9859999999999998,
+        "TotalCost":  "3.12",
+        "Mean":  3.1225,
+        "AveragePrice":  3.1225,
+        "CurrentPrice":  3.1225,
         "Minimum":  2.5,
-        "Maximum":  5.99,
-        "Count":  7,
+        "Maximum":  4.99,
+        "Count":  4,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218611718)\/"
+        "Date":  "\/Date(1416823436226)\/"
     },
     {
         "Title":  "RASPUTIN",
@@ -45,6 +45,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218611748)\/"
+        "Date":  "\/Date(1416823436256)\/"
     }
 ]

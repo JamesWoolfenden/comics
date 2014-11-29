@@ -8,7 +8,7 @@
         "variant":  "1 MOVIE MAGAZINE VAR (MR)",
         "price":  3.19,
         "currency":  "?",
-        "rundate":  "Mon Nov 17 2014 10:50:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:42:29 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "1 (MR)",
         "price":  2.13,
         "currency":  "?",
-        "rundate":  "Mon Nov 17 2014 10:50:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:42:29 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,19 +32,19 @@
         "variant":  "2 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 17 2014 10:50:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:42:29 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/image/fade-out-3-mr-/prod_73153.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/image/fade-out-3-mr-/prod_73153.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/image/fade-out-3-mr-/prod_73153.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/image/fade-out-3-mr-/prod_73153.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/image/fade-out-3-mr-/prod_73153.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/image/fade-out-3-mr-/prod_73153.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "FADE OUT",
         "issue":  "3",
         "variant":  "3 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 17 2014 10:50:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:42:29 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "4 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 17 2014 10:50:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:42:29 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "1 2ND PTG (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 17 2014 10:50:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:42:29 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,68 +80,44 @@
         "variant":  "1 (MR)",
         "price":  1.45,
         "currency":  "?",
-        "rundate":  "Mon Nov 17 2014 10:50:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:42:29 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/image/fade-out-2-2nd-ptg/prod_124081.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/image/fade-out-2-2nd-ptg/prod_124081.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/image/fade-out-2-2nd-ptg/prod_124081.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/back-issues/image/fade-out-2-2nd-ptg/prod_124081.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/fade-out-2-2nd-ptg/prod_124081.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/fade-out-2-2nd-ptg/prod_124081.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "FADE OUT",
         "issue":  "2",
         "variant":  "2 2ND PTG",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 17 2014 10:50:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:42:29 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.closeencounters.co.uk/index.php/sep140717.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep140717.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep140717.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/fade-out-5-mr-/prod_129768.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/fade-out-5-mr-/prod_129768.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/fade-out-5-mr-/prod_129768.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "FADE OUT",
-        "issue":  "4",
-        "variant":  "4",
-        "price":  2.50,
+        "issue":  "5",
+        "variant":  "5 (MR)",
+        "price":  2.45,
         "currency":  "?",
-        "rundate":  "Mon Nov 17 2014 10:50:56 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
+        "rundate":  "Mon Nov 24 2014 10:42:29 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.closeencounters.co.uk/index.php/aug140646.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140646.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140646.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/image/fade-out-5-mr-/prod_130539.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/image/fade-out-5-mr-/prod_130539.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/image/fade-out-5-mr-/prod_130539.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "FADE OUT",
-        "issue":  "3",
-        "variant":  "3",
+        "issue":  "5",
+        "variant":  "5 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 17 2014 10:50:56 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jul140545.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140545.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140545.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FADE OUT",
-        "issue":  "2",
-        "variant":  "2",
-        "price":  2.50,
-        "currency":  "?",
-        "rundate":  "Mon Nov 17 2014 10:50:56 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jun140463.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140463.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140463.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FADE OUT",
-        "issue":  "1",
-        "variant":  "1",
-        "price":  3.94,
-        "currency":  "?",
-        "rundate":  "Mon Nov 17 2014 10:50:56 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
+        "rundate":  "Mon Nov 24 2014 10:42:29 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
     },
     {
         "link":  "https://forbiddenplanet.com/128893-image-firsts-the-fade-out-1/",
@@ -151,18 +127,7 @@
         "issue":  "1",
         "variant":  "1",
         "price":  "0.65",
-        "rundate":  "Mon Nov 17 2014 10:50:59 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/127156-fade-out-4/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/127156-fade-out-4/\"\u003ehttps://forbiddenplanet.com/127156-fade-out-4/\u003c/a\u003e",
-        "orderdate":  "19th November, 2014",
-        "title":  "FADE OUT",
-        "issue":  "4",
-        "variant":  "4",
-        "price":  "2.40",
-        "rundate":  "Mon Nov 17 2014 10:50:59 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:43:10 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -173,7 +138,7 @@
         "issue":  "3",
         "variant":  "3",
         "price":  "2.40",
-        "rundate":  "Mon Nov 17 2014 10:50:59 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:43:10 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -184,7 +149,139 @@
         "issue":  "2",
         "variant":  "2",
         "price":  "2.40",
-        "rundate":  "Mon Nov 17 2014 10:50:59 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:43:10 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "http://www.reedcomics.com/fade-out-1-p-62806.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/fade-out-1-p-62806.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/fade-out-1-p-62806.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "1",
+        "variant":  "1",
+        "price":  3.99,
+        "currency":  "?",
+        "rundate":  "Mon Nov 24 2014 10:43:14 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/fade-out-1-movie-magazine-variant-p-62807.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/fade-out-1-movie-magazine-variant-p-62807.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/fade-out-1-movie-magazine-variant-p-62807.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "1",
+        "variant":  "1 (MOVIE MAGAZINE VARIANT)",
+        "price":  3.99,
+        "currency":  "?",
+        "rundate":  "Mon Nov 24 2014 10:43:14 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/fade-out-2-p-63459.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/fade-out-2-p-63459.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/fade-out-2-p-63459.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "2",
+        "variant":  "2",
+        "price":  2.75,
+        "currency":  "?",
+        "rundate":  "Mon Nov 24 2014 10:43:14 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=81947\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=81947\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=81947\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "STANDING",
+        "variant":  "FADE OUT #STANDING ORDER",
+        "price":  0.00,
+        "currency":  "?",
+        "rundate":  "Mon Nov 24 2014 10:43:19 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=80833\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=80833\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=80833\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "1",
+        "variant":  "FADE OUT #1 (MR) [(W) Ed Brubaker (A/CA) Sean Phillips, Elizabeth Breitweiser]",
+        "price":  2.80,
+        "currency":  "?",
+        "rundate":  "Mon Nov 24 2014 10:43:19 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=84648\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=84648\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=84648\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "1",
+        "variant":  "FADE OUT #1 MOVIE MAGAZINE VAR (MR) [(W) Ed Brubaker (A/CA) Sean Phillips, Elizabeth Breitweiser]",
+        "price":  4.50,
+        "currency":  "?",
+        "rundate":  "Mon Nov 24 2014 10:43:19 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=86998\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=86998\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=86998\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "2",
+        "variant":  "FADE OUT #2 (MR) [(W) Ed Brubaker (A/CA) Sean Phillips, Elizabeth Breitweiser]",
+        "price":  2.80,
+        "currency":  "?",
+        "rundate":  "Mon Nov 24 2014 10:43:19 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=89595\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=89595\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=89595\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "2",
+        "variant":  "FADE OUT #2 2ND PTG [(W) Ed Brubaker (A/CA) Sean Phillips]",
+        "price":  2.80,
+        "currency":  "?",
+        "rundate":  "Mon Nov 24 2014 10:43:19 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83399\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83399\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83399\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "3",
+        "variant":  "FADE OUT #3 (MR) [(W) Ed Brubaker (A/CA) Sean Phillips, Elizabeth Breitweiser]",
+        "price":  2.80,
+        "currency":  "?",
+        "rundate":  "Mon Nov 24 2014 10:43:19 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87344\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87344\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87344\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "1",
+        "variant":  "OCT140703 IMAGE FIRSTS THE FADE OUT #1 (MR)",
+        "price":  0.80,
+        "currency":  "?",
+        "rundate":  "Mon Nov 24 2014 10:43:19 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=85829\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=85829\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=85829\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "4",
+        "variant":  "SEP140717 FADE OUT #4 (MR)",
+        "price":  2.80,
+        "currency":  "?",
+        "rundate":  "Mon Nov 24 2014 10:43:19 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
     }
 ]

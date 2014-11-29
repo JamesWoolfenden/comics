@@ -13,39 +13,39 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1416218423552)\/"
+        "Date":  "\/Date(1416823234895)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
         "Issue":  "10",
         "Cover":  10,
-        "TotalCost":  "2.61",
-        "Mean":  2.6066666666666669,
-        "AveragePrice":  2.0233333333333334,
-        "CurrentPrice":  2.0233333333333334,
+        "TotalCost":  "2.42",
+        "Mean":  2.415,
+        "AveragePrice":  2.29,
+        "CurrentPrice":  2.29,
         "Minimum":  0.58,
         "Maximum":  4,
-        "Count":  3,
-        "AveragePaid":  0.83,
-        "AverageNetPaid":  0.58,
-        "Stock":  1,
-        "Date":  "\/Date(1416218423590)\/"
-    },
-    {
-        "Title":  "IRREDEEMABLE ANT-MAN",
-        "Issue":  "11",
-        "Cover":  11,
-        "TotalCost":  "1.67",
-        "Mean":  1.665,
-        "AveragePrice":  1.54,
-        "CurrentPrice":  1.54,
-        "Minimum":  0.58,
-        "Maximum":  2.5,
         "Count":  2,
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1416218423623)\/"
+        "Date":  "\/Date(1416823234935)\/"
+    },
+    {
+        "Title":  "irredeemable ant-man",
+        "Issue":  "11",
+        "Cover":  11,
+        "TotalCost":  "0.83",
+        "Mean":  0.83,
+        "AveragePrice":  0.58,
+        "CurrentPrice":  0.58,
+        "Minimum":  0.58,
+        "Maximum":  0.58,
+        "Count":  1,
+        "AveragePaid":  0.83,
+        "AverageNetPaid":  0.58,
+        "Stock":  1,
+        "Date":  "\/Date(1416823234965)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -61,7 +61,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1416218423655)\/"
+        "Date":  "\/Date(1416823235015)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
@@ -77,7 +77,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1416218423690)\/"
+        "Date":  "\/Date(1416823235065)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -93,7 +93,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1416218423720)\/"
+        "Date":  "\/Date(1416823235095)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -109,39 +109,39 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1416218423751)\/"
+        "Date":  "\/Date(1416823235135)\/"
     },
     {
-        "Title":  "IRREDEEMABLE ANT-MAN",
+        "Title":  "irredeemable ant-man",
         "Issue":  "5",
         "Cover":  5,
-        "TotalCost":  "2.44",
-        "Mean":  2.436666666666667,
-        "AveragePrice":  1.3566666666666667,
-        "CurrentPrice":  1.3566666666666667,
+        "TotalCost":  "2.41",
+        "Mean":  2.4050000000000002,
+        "AveragePrice":  0.78499999999999992,
+        "CurrentPrice":  0.78499999999999992,
         "Minimum":  0.58,
-        "Maximum":  2.5,
-        "Count":  3,
+        "Maximum":  0.99,
+        "Count":  2,
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1416218423786)\/"
+        "Date":  "\/Date(1416823235175)\/"
     },
     {
-        "Title":  "IRREDEEMABLE ANT-MAN",
+        "Title":  "irredeemable ant-man",
         "Issue":  "6",
         "Cover":  6,
-        "TotalCost":  "2.44",
-        "Mean":  2.436666666666667,
-        "AveragePrice":  1.3566666666666667,
-        "CurrentPrice":  1.3566666666666667,
+        "TotalCost":  "2.41",
+        "Mean":  2.4050000000000002,
+        "AveragePrice":  0.78499999999999992,
+        "CurrentPrice":  0.78499999999999992,
         "Minimum":  0.58,
-        "Maximum":  2.5,
-        "Count":  3,
+        "Maximum":  0.99,
+        "Count":  2,
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1416218423823)\/"
+        "Date":  "\/Date(1416823235205)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
@@ -157,7 +157,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1416218423855)\/"
+        "Date":  "\/Date(1416823235245)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -173,7 +173,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1416218423885)\/"
+        "Date":  "\/Date(1416823235275)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -189,22 +189,22 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1416218423916)\/"
+        "Date":  "\/Date(1416823235315)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "20.95",
-        "Mean":  20.948,
-        "AveragePrice":  18.268,
-        "CurrentPrice":  18.268,
+        "TotalCost":  "18.70",
+        "Mean":  18.697499999999998,
+        "AveragePrice":  15.3475,
+        "CurrentPrice":  15.347499999999998,
         "Minimum":  7,
         "Maximum":  29.99,
-        "Count":  5,
+        "Count":  4,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218423957)\/"
+        "Date":  "\/Date(1416823235375)\/"
     }
 ]

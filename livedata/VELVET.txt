@@ -8,7 +8,7 @@
         "variant":  "1 DYNAMIC MIDTOWN ED (C: 0-1-2)",
         "price":  8.79,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:01 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "5 (MR)",
         "price":  1.79,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:01 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "6 (MR)",
         "price":  2.04,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:01 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,19 +44,19 @@
         "variant":  "1 (MR)",
         "price":  1.23,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:01 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/image/velvet-8-mr-/prod_61026.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/image/velvet-8-mr-/prod_61026.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/image/velvet-8-mr-/prod_61026.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/back-issues/image/velvet-8-mr-/prod_61026.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/velvet-8-mr-/prod_61026.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/velvet-8-mr-/prod_61026.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "VELVET",
         "issue":  "8",
         "variant":  "8 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:01 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "2 2ND PTG (MR) DHC",
         "price":  1.53,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:01 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "4 (MR) DHC",
         "price":  1.91,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:01 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "7 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:01 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,152 +104,32 @@
         "variant":  "9 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:01 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/preorders/november-2014/preorders-for-26/11/14/image/velvet-10-mr-/prod_111815.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/november-2014/preorders-for-26/11/14/image/velvet-10-mr-/prod_111815.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/november-2014/preorders-for-26/11/14/image/velvet-10-mr-/prod_111815.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-10/12/14/image/velvet-10-mr-/prod_111815.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-10/12/14/image/velvet-10-mr-/prod_111815.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-10/12/14/image/velvet-10-mr-/prod_111815.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "VELVET",
         "issue":  "10",
         "variant":  "10 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:01 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/image/image-firsts-velvet-1-mr-/prod_115872.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/image/image-firsts-velvet-1-mr-/prod_115872.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/image/image-firsts-velvet-1-mr-/prod_115872.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/back-issues/image/image-firsts-velvet-1-mr-/prod_115872.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/image-firsts-velvet-1-mr-/prod_115872.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/image-firsts-velvet-1-mr-/prod_115872.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "VELVET",
         "issue":  "1",
         "variant":  "1 (MR)",
         "price":  1.45,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:01 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/sep140760.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep140760.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep140760.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "VELVET",
-        "issue":  "10",
-        "variant":  "10",
-        "price":  2.50,
-        "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:17 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/aug140689.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140689.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140689.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "VELVET",
-        "issue":  "9",
-        "variant":  "9",
-        "price":  2.50,
-        "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:17 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jul140586.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140586.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140586.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "VELVET",
-        "issue":  "8",
-        "variant":  "8",
-        "price":  2.50,
-        "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:17 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/may140743.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may140743.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may140743.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "VELVET",
-        "issue":  "7",
-        "variant":  "7",
-        "price":  2.50,
-        "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:17 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/apr140614.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/apr140614.html\"\u003ehttp://www.closeencounters.co.uk/index.php/apr140614.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "VELVET",
-        "issue":  "6",
-        "variant":  "6",
-        "price":  2.50,
-        "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:17 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/dec130602.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec130602.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec130602.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "VELVET",
-        "issue":  "5",
-        "variant":  "5",
-        "price":  1.94,
-        "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:17 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/nov130530.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov130530.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov130530.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "VELVET",
-        "issue":  "4",
-        "variant":  "4 FIRST PRINT IMAGE",
-        "price":  2.10,
-        "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:17 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/oct130631.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct130631.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct130631.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "VELVET",
-        "issue":  "3",
-        "variant":  "3 FIRST PRINT BRUBAKER",
-        "price":  2.94,
-        "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:17 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/aug130505-54521.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug130505-54521.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug130505-54521.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "VELVET",
-        "issue":  "1",
-        "variant":  "1 SECOND PRINT",
-        "price":  2.50,
-        "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:17 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/aug130505.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug130505.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug130505.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "VELVET",
-        "issue":  "1",
-        "variant":  "1 FIRST PRINT",
-        "price":  3.99,
-        "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:17 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
     },
     {
         "link":  "https://forbiddenplanet.com/127199-velvet-10/",
@@ -259,7 +139,7 @@
         "issue":  "10",
         "variant":  "10",
         "price":  "2.40",
-        "rundate":  "Mon Nov 17 2014 10:37:20 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:31 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -270,7 +150,7 @@
         "issue":  "8",
         "variant":  "8",
         "price":  "2.40",
-        "rundate":  "Mon Nov 17 2014 10:37:20 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:31 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -281,7 +161,7 @@
         "issue":  "7",
         "variant":  "7",
         "price":  "2.40",
-        "rundate":  "Mon Nov 17 2014 10:37:20 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:31 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -292,7 +172,7 @@
         "issue":  "5",
         "variant":  "5",
         "price":  "1.95",
-        "rundate":  "Mon Nov 17 2014 10:37:20 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:31 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -303,8 +183,116 @@
         "issue":  "1 ",
         "variant":  "Forbidden Planet Variant",
         "price":  "3.99",
-        "rundate":  "Mon Nov 17 2014 10:37:20 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:31 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "http://www.reedcomics.com/velvet-1-2nd-print-p-58915.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/velvet-1-2nd-print-p-58915.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/velvet-1-2nd-print-p-58915.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "1",
+        "variant":  "1 (2ND PRINT)",
+        "price":  2.99,
+        "currency":  "£",
+        "rundate":  "Mon Nov 24 2014 10:28:36 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/velvet-1-hot-book-p-58558.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/velvet-1-hot-book-p-58558.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/velvet-1-hot-book-p-58558.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "1",
+        "variant":  "1 *HOT BOOK*",
+        "price":  4.99,
+        "currency":  "£",
+        "rundate":  "Mon Nov 24 2014 10:28:36 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/velvet-2-p-59141.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/velvet-2-p-59141.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/velvet-2-p-59141.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "2",
+        "variant":  "2",
+        "price":  2.99,
+        "currency":  "£",
+        "rundate":  "Mon Nov 24 2014 10:28:36 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/velvet-3-p-59650.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/velvet-3-p-59650.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/velvet-3-p-59650.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "3",
+        "variant":  "3",
+        "price":  2.49,
+        "currency":  "£",
+        "rundate":  "Mon Nov 24 2014 10:28:36 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/velvet-4-p-60350.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/velvet-4-p-60350.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/velvet-4-p-60350.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "4",
+        "variant":  "4",
+        "price":  2.49,
+        "currency":  "£",
+        "rundate":  "Mon Nov 24 2014 10:28:36 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/velvet-5-p-61486.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/velvet-5-p-61486.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/velvet-5-p-61486.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "5",
+        "variant":  "5",
+        "price":  2.49,
+        "currency":  "£",
+        "rundate":  "Mon Nov 24 2014 10:28:36 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/velvet-6-p-62427.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/velvet-6-p-62427.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/velvet-6-p-62427.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "6",
+        "variant":  "6",
+        "price":  2.75,
+        "currency":  "£",
+        "rundate":  "Mon Nov 24 2014 10:28:36 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/velvet-7-p-63180.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/velvet-7-p-63180.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/velvet-7-p-63180.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  2.75,
+        "currency":  "£",
+        "rundate":  "Mon Nov 24 2014 10:28:36 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/velvet-8-p-64100.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/velvet-8-p-64100.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/velvet-8-p-64100.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "8",
+        "variant":  "8",
+        "price":  2.75,
+        "currency":  "£",
+        "rundate":  "Mon Nov 24 2014 10:28:36 GMT+0000 (UTC)",
+        "site":  "Reed"
     },
     {
         "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=81824\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
@@ -315,7 +303,7 @@
         "variant":  "VELVET #STANDING ORDER",
         "price":  0.00,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:42 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -327,7 +315,7 @@
         "variant":  "AUG140689 VELVET #9 (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:42 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -339,7 +327,7 @@
         "variant":  "EIGHTBALL - LIKE A VELVET GLOVE CAST IN IRON",
         "price":  14.99,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:42 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -351,7 +339,7 @@
         "variant":  "OCT140724 IMAGE FIRSTS VELVET #1 (MR)",
         "price":  0.80,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:42 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -363,7 +351,7 @@
         "variant":  "SEP140760 VELVET #10 (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:42 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -375,7 +363,7 @@
         "variant":  "VELVET #6 (MR) [(W) Ed Brubaker (A/CA) Steve Epting]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:42 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -387,7 +375,7 @@
         "variant":  "VELVET #7 (MR) [(W) Ed Brubaker (A/CA) Steve Epting]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:42 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -399,7 +387,7 @@
         "variant":  "VELVET #8 (MR) [(W) Ed Brubaker (A/CA) Steve Epting, Elizabeth Breitweiser]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Nov 17 2014 10:37:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:42 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -410,7 +398,7 @@
         "issue":  "6",
         "variant":  "3",
         "price":  "2.85",
-        "rundate":  "Mon Nov 17 2014 10:38:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:59 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -421,7 +409,7 @@
         "issue":  "7",
         "variant":  "3",
         "price":  "2.60",
-        "rundate":  "Mon Nov 17 2014 10:38:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:59 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -430,9 +418,9 @@
         "orderdate":  null,
         "title":  "VELVET",
         "issue":  "8",
-        "variant":  "5",
+        "variant":  "4",
         "price":  "2.60",
-        "rundate":  "Mon Nov 17 2014 10:38:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Nov 24 2014 10:28:59 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     }
 ]

@@ -13,28 +13,12 @@
         "AveragePaid":  2.35,
         "AverageNetPaid":  1.75,
         "Stock":  2,
-        "Date":  "\/Date(1416218444271)\/"
+        "Date":  "\/Date(1416823257935)\/"
     },
     {
         "Title":  "SHELTERED",
         "Issue":  "11",
         "Cover":  11,
-        "TotalCost":  "2.58",
-        "Mean":  2.5833333333333335,
-        "AveragePrice":  2.5833333333333335,
-        "CurrentPrice":  2.5833333333333335,
-        "Minimum":  2.25,
-        "Maximum":  3.25,
-        "Count":  3,
-        "AveragePaid":  null,
-        "AverageNetPaid":  null,
-        "Stock":  null,
-        "Date":  "\/Date(1416218444306)\/"
-    },
-    {
-        "Title":  "SHELTERED",
-        "Issue":  "12",
-        "Cover":  12,
         "TotalCost":  "2.25",
         "Mean":  2.25,
         "AveragePrice":  2.25,
@@ -45,23 +29,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218444336)\/"
+        "Date":  "\/Date(1416823257965)\/"
     },
     {
         "Title":  "SHELTERED",
         "Issue":  "1A",
         "Cover":  1,
-        "TotalCost":  "5.26",
-        "Mean":  5.2626052631578935,
-        "AveragePrice":  4.81488596491228,
-        "CurrentPrice":  3.7701333333333338,
+        "TotalCost":  "5.13",
+        "Mean":  5.1270636363636353,
+        "AveragePrice":  4.6630636363636357,
+        "CurrentPrice":  2.2335333333333343,
         "Minimum":  0.4,
         "Maximum":  15.99,
-        "Count":  57,
+        "Count":  55,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1416218444507)\/"
+        "Date":  "\/Date(1416823258135)\/"
     },
     {
         "Title":  "SHELTERED",
@@ -77,7 +61,7 @@
         "AveragePaid":  5.5,
         "AverageNetPaid":  5.5,
         "Stock":  1,
-        "Date":  "\/Date(1416218444546)\/"
+        "Date":  "\/Date(1416823258175)\/"
     },
     {
         "Title":  "SHELTERED",
@@ -93,7 +77,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1416218444639)\/"
+        "Date":  "\/Date(1416823258275)\/"
     },
     {
         "Title":  "SHELTERED",
@@ -109,23 +93,23 @@
         "AveragePaid":  1.6466666666666665,
         "AverageNetPaid":  1.28,
         "Stock":  3,
-        "Date":  "\/Date(1416218444740)\/"
+        "Date":  "\/Date(1416823258375)\/"
     },
     {
         "Title":  "SHELTERED",
         "Issue":  "4",
         "Cover":  4,
-        "TotalCost":  "2.60",
-        "Mean":  2.5997400000000006,
-        "AveragePrice":  2.4857400000000003,
+        "TotalCost":  "2.54",
+        "Mean":  2.5418125000000003,
+        "AveragePrice":  2.4230625000000003,
         "CurrentPrice":  2.155533333333334,
         "Minimum":  0.49,
         "Maximum":  4.99833333333333,
-        "Count":  25,
+        "Count":  24,
         "AveragePaid":  1.425,
         "AverageNetPaid":  1.425,
         "Stock":  2,
-        "Date":  "\/Date(1416218444827)\/"
+        "Date":  "\/Date(1416823258465)\/"
     },
     {
         "Title":  "SHELTERED",
@@ -141,7 +125,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1416218444920)\/"
+        "Date":  "\/Date(1416823258565)\/"
     },
     {
         "Title":  "SHELTERED",
@@ -157,7 +141,7 @@
         "AveragePaid":  2.77,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1416218444995)\/"
+        "Date":  "\/Date(1416823258645)\/"
     },
     {
         "Title":  "SHELTERED",
@@ -173,39 +157,39 @@
         "AveragePaid":  2.585,
         "AverageNetPaid":  1.65,
         "Stock":  2,
-        "Date":  "\/Date(1416218445060)\/"
+        "Date":  "\/Date(1416823258745)\/"
     },
     {
         "Title":  "SHELTERED",
         "Issue":  "8",
         "Cover":  8,
-        "TotalCost":  "2.39",
-        "Mean":  2.3937142857142852,
-        "AveragePrice":  2.3458571428571426,
+        "TotalCost":  "2.33",
+        "Mean":  2.3278461538461537,
+        "AveragePrice":  2.2763076923076926,
         "CurrentPrice":  1.7683999999999997,
         "Minimum":  0.998,
         "Maximum":  3.25,
-        "Count":  14,
+        "Count":  13,
         "AveragePaid":  2.77,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1416218445121)\/"
+        "Date":  "\/Date(1416823258815)\/"
     },
     {
         "Title":  "SHELTERED",
         "Issue":  "9",
         "Cover":  9,
-        "TotalCost":  "2.22",
-        "Mean":  2.2216923076923076,
-        "AveragePrice":  2.1263076923076922,
+        "TotalCost":  "2.13",
+        "Mean":  2.1285,
+        "AveragePrice":  2.1285,
         "CurrentPrice":  1.7683999999999997,
         "Minimum":  0.998,
         "Maximum":  3.25,
-        "Count":  13,
+        "Count":  12,
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1416218445182)\/"
+        "Date":  "\/Date(1416823258875)\/"
     },
     {
         "Title":  "SHELTERED",
@@ -214,13 +198,13 @@
         "TotalCost":  "14.52",
         "Mean":  14.523421052631578,
         "AveragePrice":  12.140526315789474,
-        "CurrentPrice":  15.687999999999999,
+        "CurrentPrice":  14.304000000000002,
         "Minimum":  1.2,
         "Maximum":  29.99,
         "Count":  38,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218445302)\/"
+        "Date":  "\/Date(1416823259005)\/"
     }
 ]

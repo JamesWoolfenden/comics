@@ -1,22 +1,6 @@
 [
     {
         "Title":  "PHONOGRAM",
-        "Issue":  "1FIRSTS",
-        "Cover":  1,
-        "TotalCost":  "1.45",
-        "Mean":  1.45,
-        "AveragePrice":  1.45,
-        "CurrentPrice":  1.45,
-        "Minimum":  1.45,
-        "Maximum":  1.45,
-        "Count":  1,
-        "AveragePaid":  null,
-        "AverageNetPaid":  null,
-        "Stock":  null,
-        "Date":  "\/Date(1416218609690)\/"
-    },
-    {
-        "Title":  "PHONOGRAM",
         "Issue":  "2",
         "Cover":  2,
         "TotalCost":  "2.10",
@@ -29,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218609720)\/"
+        "Date":  "\/Date(1416823433786)\/"
     },
     {
         "Title":  "PHONOGRAM",
@@ -45,6 +29,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218609753)\/"
+        "Date":  "\/Date(1416823433816)\/"
     }
 ]

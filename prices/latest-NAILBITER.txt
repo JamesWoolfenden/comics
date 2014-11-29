@@ -3,33 +3,33 @@
         "Title":  "NAILBITER",
         "Issue":  "1A",
         "Cover":  1,
-        "TotalCost":  "4.92",
-        "Mean":  4.9158333333333344,
-        "AveragePrice":  4.3191666666666677,
-        "CurrentPrice":  4.5859999999999994,
+        "TotalCost":  "4.89",
+        "Mean":  4.8906097560975619,
+        "AveragePrice":  4.27939024390244,
+        "CurrentPrice":  3.9939999999999998,
         "Minimum":  1.8,
         "Maximum":  7.95,
-        "Count":  42,
+        "Count":  41,
         "AveragePaid":  2.1666666666666665,
         "AverageNetPaid":  2.1666666666666665,
         "Stock":  3,
-        "Date":  "\/Date(1416218588008)\/"
+        "Date":  "\/Date(1416823411386)\/"
     },
     {
         "Title":  "NAILBITER",
         "Issue":  "1ASIGNED",
         "Cover":  1,
-        "TotalCost":  "10.81",
-        "Mean":  10.80857142857143,
-        "AveragePrice":  9.7800000000000011,
-        "CurrentPrice":  10.294,
+        "TotalCost":  "10.11",
+        "Mean":  10.110000000000001,
+        "AveragePrice":  8.9100000000000019,
+        "CurrentPrice":  9.092,
         "Minimum":  6.5,
-        "Maximum":  15,
-        "Count":  7,
+        "Maximum":  13.99,
+        "Count":  6,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218588057)\/"
+        "Date":  "\/Date(1416823411436)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218588094)\/"
+        "Date":  "\/Date(1416823411476)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -61,23 +61,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218588125)\/"
+        "Date":  "\/Date(1416823411516)\/"
     },
     {
         "Title":  "NAILBITER",
         "Issue":  "1INFINITY",
         "Cover":  1,
-        "TotalCost":  "6.87",
-        "Mean":  6.874,
-        "AveragePrice":  5.9739999999999993,
-        "CurrentPrice":  5.9740000000000011,
+        "TotalCost":  "7.11",
+        "Mean":  7.1049999999999995,
+        "AveragePrice":  5.9799999999999995,
+        "CurrentPrice":  5.98,
         "Minimum":  5.49,
         "Maximum":  6.99,
-        "Count":  5,
+        "Count":  4,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218588166)\/"
+        "Date":  "\/Date(1416823411556)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218588197)\/"
+        "Date":  "\/Date(1416823411586)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -109,23 +109,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218588236)\/"
+        "Date":  "\/Date(1416823411636)\/"
     },
     {
         "Title":  "NAILBITER",
         "Issue":  "1PHANTOM",
         "Cover":  1,
-        "TotalCost":  "8.18",
-        "Mean":  8.1787499999999991,
-        "AveragePrice":  7.2425000000000006,
-        "CurrentPrice":  8.1939999999999991,
+        "TotalCost":  "7.58",
+        "Mean":  7.5766666666666671,
+        "AveragePrice":  6.8266666666666671,
+        "CurrentPrice":  7.394000000000001,
         "Minimum":  3.99,
         "Maximum":  12.99,
-        "Count":  8,
+        "Count":  6,
         "AveragePaid":  3.99,
         "AverageNetPaid":  3.99,
         "Stock":  2,
-        "Date":  "\/Date(1416218588286)\/"
+        "Date":  "\/Date(1416823411676)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -141,39 +141,39 @@
         "AveragePaid":  2.725,
         "AverageNetPaid":  2.725,
         "Stock":  2,
-        "Date":  "\/Date(1416218588363)\/"
+        "Date":  "\/Date(1416823411766)\/"
     },
     {
         "Title":  "NAILBITER",
         "Issue":  "2B",
         "Cover":  2,
-        "TotalCost":  "3.25",
-        "Mean":  3.2475,
-        "AveragePrice":  3.2475,
-        "CurrentPrice":  3.2475,
+        "TotalCost":  "3.50",
+        "Mean":  3.4966666666666666,
+        "AveragePrice":  3.4966666666666666,
+        "CurrentPrice":  3.4966666666666666,
         "Minimum":  2.25,
         "Maximum":  4.25,
-        "Count":  4,
+        "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218588402)\/"
+        "Date":  "\/Date(1416823411806)\/"
     },
     {
         "Title":  "NAILBITER",
         "Issue":  "3",
         "Cover":  3,
-        "TotalCost":  "2.68",
-        "Mean":  2.6749999999999994,
-        "AveragePrice":  2.6749999999999994,
-        "CurrentPrice":  2.5900000000000003,
+        "TotalCost":  "2.72",
+        "Mean":  2.7154545454545453,
+        "AveragePrice":  2.7154545454545453,
+        "CurrentPrice":  2.794,
         "Minimum":  2.23,
         "Maximum":  3.4,
-        "Count":  12,
+        "Count":  11,
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  2,
-        "Date":  "\/Date(1416218588459)\/"
+        "Date":  "\/Date(1416823411866)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -189,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218588493)\/"
+        "Date":  "\/Date(1416823411896)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -205,86 +205,70 @@
         "AveragePaid":  7.99,
         "AverageNetPaid":  7.99,
         "Stock":  1,
-        "Date":  "\/Date(1416218588524)\/"
+        "Date":  "\/Date(1416823411926)\/"
     },
     {
         "Title":  "NAILBITER",
         "Issue":  "4",
         "Cover":  4,
-        "TotalCost":  "2.61",
-        "Mean":  2.6109090909090908,
-        "AveragePrice":  2.6109090909090908,
-        "CurrentPrice":  2.624,
+        "TotalCost":  "2.75",
+        "Mean":  2.75,
+        "AveragePrice":  2.75,
+        "CurrentPrice":  2.8200000000000003,
         "Minimum":  2.2,
         "Maximum":  3.4,
-        "Count":  11,
+        "Count":  8,
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
-        "Stock":  2,
-        "Date":  "\/Date(1416218588579)\/"
+        "Stock":  1,
+        "Date":  "\/Date(1416823411986)\/"
     },
     {
         "Title":  "NAILBITER",
         "Issue":  "5",
         "Cover":  5,
-        "TotalCost":  "2.88",
-        "Mean":  2.8763636363636365,
-        "AveragePrice":  2.8763636363636365,
-        "CurrentPrice":  3.038,
+        "TotalCost":  "2.85",
+        "Mean":  2.8449999999999998,
+        "AveragePrice":  2.8449999999999998,
+        "CurrentPrice":  3.04,
         "Minimum":  2.25,
         "Maximum":  3.25,
-        "Count":  11,
+        "Count":  10,
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  2,
-        "Date":  "\/Date(1416218588634)\/"
+        "Date":  "\/Date(1416823412046)\/"
     },
     {
         "Title":  "NAILBITER",
         "Issue":  "6",
         "Cover":  6,
-        "TotalCost":  "2.76",
-        "Mean":  2.7588888888888889,
-        "AveragePrice":  2.7588888888888889,
-        "CurrentPrice":  2.91,
+        "TotalCost":  "2.52",
+        "Mean":  2.52,
+        "AveragePrice":  2.52,
+        "CurrentPrice":  2.5200000000000005,
         "Minimum":  2.1,
         "Maximum":  3.45,
-        "Count":  9,
+        "Count":  4,
         "AveragePaid":  2.165,
         "AverageNetPaid":  2.165,
         "Stock":  2,
-        "Date":  "\/Date(1416218588687)\/"
-    },
-    {
-        "Title":  "NAILBITER",
-        "Issue":  "7",
-        "Cover":  7,
-        "TotalCost":  "2.45",
-        "Mean":  2.45,
-        "AveragePrice":  2.45,
-        "CurrentPrice":  2.45,
-        "Minimum":  2.45,
-        "Maximum":  2.45,
-        "Count":  1,
-        "AveragePaid":  null,
-        "AverageNetPaid":  null,
-        "Stock":  null,
-        "Date":  "\/Date(1416218588718)\/"
+        "Date":  "\/Date(1416823412086)\/"
     },
     {
         "Title":  "NAILBITER",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "10.22",
-        "Mean":  10.21703703703704,
-        "AveragePrice":  9.0025925925925936,
-        "CurrentPrice":  14.291999999999998,
+        "TotalCost":  "9.36",
+        "Mean":  9.36423076923077,
+        "AveragePrice":  8.08,
+        "CurrentPrice":  13.395999999999997,
         "Minimum":  0.99,
         "Maximum":  19,
-        "Count":  27,
+        "Count":  26,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  null,
-        "Date":  "\/Date(1416218588812)\/"
+        "Date":  "\/Date(1416823412186)\/"
     }
 ]
