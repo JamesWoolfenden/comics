@@ -445,13 +445,16 @@ function estimate-price()
    [string]$Issue)
    
    $results=query-db "where title='$title' and issue='$issue' and status='CLOSED'"
-   
+   [decimal]$maximum=0
+   [int]$count      =1
+   [int]$owned      =0
+
    if ($results -eq $NULL)
    {
       return "None Found"
    }
    
-   if($results.count)
+   if($results -is [system.array])
    {
       $count=$results.count
       
@@ -463,8 +466,7 @@ function estimate-price()
    }
    
    foreach($comic in $results)
-   {      
-      
+   {          
       $TotalCost=[double]$comic.Price+[double]$comic.postage 
       $minimum=[System.Math]::Min($comic.Price,$minimum)
       $maximum=[System.Math]::Max($comic.Price,$maximum)
@@ -491,7 +493,7 @@ function estimate-price()
        $avComicPrice=$null
     }
     
-    if ($results.Count)
+    if ($results -is [system.array])
     {
       $average=$total/$results.Count
       $averagePrice=$totalPrice/$results.Count

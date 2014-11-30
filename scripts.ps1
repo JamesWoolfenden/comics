@@ -93,7 +93,7 @@ function add-array()
              $trimmedtitle=clean-string $set.Title
              
              $AuctionType=$set.AuctionType
-             if ($AuctionType.Count -gt 1)
+             if ($AuctionType -is [system.array])
              {
                 $AuctionType="Mixed"
              }
@@ -550,7 +550,13 @@ function get-records
    $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold'|where {$_.BidCount -ne '0'}
    if ($soldresult)
    {
-     write-host "`n`tFound Sold $($soldresult.count)" -foregroundcolor cyan
+     $sold=1
+     if ($soldresult -is [system.array])
+     {
+        $sold=$soldresult.count
+     }
+     
+     write-host "`n`tFound Sold $($sold)" -foregroundcolor cyan
      add-array $soldresult -title "$comictitle" -issue 0 -Status Closed
    }
    
@@ -677,6 +683,8 @@ function get-ebidrecords()
    #>
 
    $title=$title.replace(" ","%20")
+   
+   [string]$stringexclude=$null
 
    if ($exclude -ne $NULL)
    {
@@ -686,10 +694,6 @@ function get-ebidrecords()
       {
          $stringexclude=$stringexclude+$item
       }
-   }
-   else
-   {
-      $stringexclude=$NULL
    }
    
    if ($include -ne $NULL)
@@ -711,7 +715,7 @@ function get-ebidrecords()
    write-debug "Querying ebid $url"
    $ebidresults=get-ebidresults -url "$url"
 
-   if ($ebidresults.count)
+   if ($ebidresults -is [system.array])
    {
       write-host "`tEbid found: $($ebidresults.count)" -foregroundcolor green
    }
