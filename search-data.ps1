@@ -1,6 +1,23 @@
 
 function make-searchdata
-{
+{<#
+      .SYNOPSIS 
+    Given some string properties this returns a search csutom object             
+      .PARAMETER title
+    Specifies the comic title.
+      .PARAMETER include
+	Optional  specifies any additional search strings.
+      .PARAMETER exclude
+	Optional specifies any terms to exclude by
+      .PARAMETER comictitle
+	An alterative title 
+	  .PARAMETER category
+	An optional ebid category parameter 
+	  .PARAMETER Enabled
+	Enables or Disables its use in the scan
+    .EXAMPLE
+      C:\PS> make-searchdata -title "The Walking Dead" -exclude "Poster" -include "Image"    
+   #>
    Param(
    [string]$title,
    [string]$include=$null,
@@ -14,7 +31,25 @@ function make-searchdata
 }
 
 function add-searchdata
-{
+{<#
+      .SYNOPSIS 
+    Adds an item to the scan search db	       
+      .PARAMETER title
+	Specifies the comic title.
+      .PARAMETER include
+	Optional  specifies any additional search strings.
+      .PARAMETER exclude
+	Optional specifies any terms to exclude by
+      .PARAMETER comictitle
+	An alterative title 
+	  .PARAMETER category
+	An optional ebid category parameter 
+	  .PARAMETER Enabled
+	Enables or Disables its use in the scan
+    .EXAMPLE
+      C:\PS> add-searchdata -title "The Walking Dead" -exclude "Poster" -include "Image"    
+   #>
+
    Param(
    [Parameter(Mandatory=$true)]
    [string]$title=$title.ToUpper(),
@@ -25,9 +60,19 @@ function add-searchdata
    [Boolean]$Enabled
    )
    
+  
+
+   $datafile="$root\search-data.json"
+   $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
+   $searches+=make-searchdata -title "$title" -exclude "$exclude" -include "$include" -comictitle $comictitle -category $category -Enabled $Enabled
+   $searches|Sort-Object title| ConvertTo-Json -depth 999 | Out-File "$datafile"
+}
+
+function set-searchdata
+{  
   <#
       .SYNOPSIS 
-       Adds an item to the scan search db
+       updates an item to the scan search db
 	       
       .PARAMETER title
 	Specifies the comic title.
@@ -47,14 +92,6 @@ function add-searchdata
      
    #>
 
-   $datafile="$root\search-data.json"
-   $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
-   $searches+=make-searchdata -title "$title" -exclude "$exclude" -include "$include" -comictitle $comictitle -category $category -Enabled $Enabled
-   $searches|Sort-Object title| ConvertTo-Json -depth 999 | Out-File "$datafile"
-}
-
-function set-searchdata
-{
    Param(
    [Parameter(Mandatory=$true)]
    [string]$title,
@@ -65,28 +102,6 @@ function set-searchdata
    [switch]$Enabled,
    [switch]$Disabled
    )
-
-  <#
-      .SYNOPSIS 
-       Adds an item to the scan search db
-	       
-      .PARAMETER title
-	Specifies the comic title.
-      .PARAMETER include
-	Optional  specifies any additional search strings.
-      .PARAMETER exclude
-	Optional specifies any terms to exclude by
-      .PARAMETER comictitle
-	An alterative title 
-	  .PARAMETER category
-	An optional ebid category parameter 
-	  .PARAMETER Enabled
-	Enables or Disables its use in the scan
-	    
-      .EXAMPLE
-      C:\PS> add-searchdata -title "The Walking Dead" -exclude "Poster" -include "Image"
-     
-   #>
 
    $title=$title.ToUpper()
    $datafile="$root\search-data.json"
@@ -121,6 +136,16 @@ function set-searchdata
 
 function get-searchdata
 {
+   <#
+      .SYNOPSIS 
+       returns a search object when given its title
+	       
+      .PARAMETER title
+	Specifies the comic title.
+      .EXAMPLE
+      C:\PS> get-searchdata -title "The Walking Dead" 
+     
+   #>
    Param(
    [Parameter(Mandatory=$true)]
    [string]$title)

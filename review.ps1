@@ -4,6 +4,9 @@ function update-record
    [Parameter(Mandatory=$true)]
    $record, 
    [string]$newstatus)
+
+   #postage
+   $estimate=$null
    
    if ($($record.ebayitem))
    { 
@@ -27,13 +30,20 @@ function update-record
    {
       write-warning "$($record.ebayitem) is null or empty"
    }
-   
+
    waitforpageload
       
    if ($record.site -eq "ebay")
    {
-      $estimate=$ie.Document.getElementByID('fshippingCost').innerText
-     
+      if ($ie.Document.getElementByID('fshippingCost'))
+      {
+         $estimate=$ie.Document.getElementByID('fshippingCost').innerText
+      }
+      else
+      {
+         write-host "Postage cannot be estimated"
+      }
+
       if ($record.seller -eq "" -or $record.seller -eq $NULL)
       {
          write-host "Finding seller"
@@ -58,7 +68,6 @@ function update-record
          $seller=$record.seller
       }
    }
-
    
    $newtitle=set-title -rawtitle $($record.Title)
 
@@ -171,16 +180,10 @@ function update-record
    {
       $price=$record.Price
    }
-   
-   write-debug "Before Estimate estimate $estimate"
+    
    if ($estimate -notlike $NULL)
    {
       $estimate=($estimate.Replace("£","")).Replace('$',"")
-   }
-
-   if ($estimate -match "Free")
-   {
-      $estimate=[decimal]0
    }
 
    if ($estimate -match "Free")
@@ -420,8 +423,15 @@ function set-issue
 
     $issue=$issue.replace(".","")
     $issue=$issue.replace(",","")
-    
-    $cover=get-cover $issue
+      
+    if ($Issue)
+    {
+       $cover=get-cover $issue
+    }
+    else
+    {
+      $cover="set"
+    }
 
     $padtitle=$title -replace(" ","-")
     write-host "looking for $root\covers\$padtitle\$cover\$issue"

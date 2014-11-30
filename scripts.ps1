@@ -294,7 +294,8 @@ function update-recordset
    }
    
    $results=query-db "$querystring"
-   
+   $found=0
+
    if ($results -eq "" -or $results -eq $Null)
    { 
       return "None found."
@@ -303,18 +304,20 @@ function update-recordset
    {
       If ($results -is [system.array])
       {
-         "$($results.count) Records"
+         $found=$results.count
       }
       else
       {
-         "1 Record"
+         $found=1
       }
-   }
-      
+   }      
+
+   "$found Record(s)"
+
    try
    {
       [int]$counter=1
-      [int]$total=$($results.count)
+      [int]$total=$found
       if ($total -eq $NULL)
       {
          $total=1
@@ -395,7 +398,7 @@ function update-open()
    }
    else
    {
-      if ($results.count)
+      if ($results -is [system.array])
       {
          $count=$results.count
       }    
@@ -573,19 +576,24 @@ function get-records
    if ($enabled)
    {
       $result=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'Open'
+      $found=0
       if ($result)
       {
          write-debug "`r`nOpen" 
-	 if ($result.count)
-	 {
-	     write-host "`n`tEbay found: $($result.count)"
-	 }
-	 else
+	     if ($result -is [system.array])
+	     {
+	       $found=$($result.count)
+	     }
+	     else
          {
-            write-host "`n`tEbay found: 0"
+            $found=1
          }
-
+         write-host "`n`tebay Found $($found)" -foregroundcolor cyan
          add-array $result -title "$comictitle" -issue 0
+      }
+      else
+      {
+         write-host "`n`tEbay found: 0"
       }
    }
    else

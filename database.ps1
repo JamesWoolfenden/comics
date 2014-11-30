@@ -1,6 +1,18 @@
 function get-pounds
-{
-   param([string]$dirty="")
+{   <#
+      .SYNOPSIS 
+       returns clean currency string when given a dirty string    
+      
+      .PARAMETER dirty
+      	    
+      .EXAMPLE
+      C:\PS>  get-pounds -dirty    
+   #>
+
+   param(
+   [Parameter(Mandatory=$true)]
+   [string]$dirty)
+
    Try
    {
       $clean=$dirty.split(" ")
@@ -22,7 +34,20 @@ function get-pounds
 
 function get-cover
 {
-   param([string]$dirty="")
+   <#
+      .SYNOPSIS 
+       attempts to find cover issue when given a dirty string    
+      
+      .PARAMETER dirty
+      	    
+      .EXAMPLE
+      C:\PS>  get-cover -dirty    
+   #>
+
+   param(
+   [Parameter(Mandatory=$true)]
+   [string]$dirty)
+   
    Try
    {
       write-debug "Analysing cover $dirty"
@@ -46,7 +71,7 @@ function get-cover
     }
 }
 
-function add-record()
+function add-record
 {
    <#
       .SYNOPSIS 
@@ -122,7 +147,7 @@ function add-record()
    $conn.close()
 }
 
-function get-db()
+function get-db
 {
    param([string]$ebayitem)
 
@@ -147,7 +172,7 @@ function get-db()
    return $result.count
 }
 
-function update-db()
+function update-db
 {
    param( 
    [Parameter(Mandatory=$true)]
@@ -254,7 +279,7 @@ function update-db()
    }
 }
 
-function query-db()
+function query-db
 {
    Param([string]$wherestring="where Title = '$title' And Issue = '$Issue'")
      
@@ -438,7 +463,7 @@ function query-db()
    $conn.Close()
 }
 
-function estimate-price()
+function estimate-price
 {
    param(
    [string]$title,
@@ -497,13 +522,11 @@ function estimate-price()
     {
       $average=$total/$results.Count
       $averagePrice=$totalPrice/$results.Count
-      
     }
     else
     {
        $average=$total
-       $averagePrice=$totalPrice
-       
+       $averagePrice=$totalPrice     
     }
     
     $currentprice=get-currentprice -title $($comic.Title) -issue $issue
@@ -537,8 +560,7 @@ function bySeller
    <#
       .SYNOPSIS 
        For reviewing a set open of comic sales by vendor
-	    
-      
+	        
       .PARAMETER seller
 	Specifies the seller. If left blank orders by seller.
 	    
@@ -566,6 +588,20 @@ function bySeller
 
 function get-currentprice
 {
+   <#
+      .SYNOPSIS 
+       gets the current market price    
+      
+      .PARAMETER title
+      The comics title
+
+      .PARAMETER Issue
+      The issue for pricing
+        
+      .EXAMPLE
+      C:\PS>  get-currentprice -Issue 127 -title "The Walking Dead" 
+   #>
+
    Param(
    [Parameter(Mandatory=$true)]
    [string]$title,
@@ -580,10 +616,11 @@ function get-currentprice
    $cmd = New-Object System.Data.SqlClient.SqlCommand
    $cmd.connection = $conn
    $cmd.commandtext = "Select top 5 Price FROM [Comics].[dbo].[Comics] $wherestring order by saledate desc" 
-   #write-host "$($cmd.commandtext)"
+   
    $data = $cmd.ExecuteReader()
    $readprice=0
    $counter=0
+
    while ($data.Read())
       {    
           if (!($data.IsDBNUll(0))) 
@@ -603,12 +640,11 @@ function get-currentprice
     }
 }
 
-function update-issue()
+function update-issue
 {
    <#
       .SYNOPSIS 
-       For modifying the issue for a given record
-	    
+       For modifying the issue for a given record    
       
       .PARAMETER OldIssue
       
@@ -617,8 +653,7 @@ function update-issue()
       .PARAMETER title
 	    
       .EXAMPLE
-      C:\PS>  update-issue -OldIssue 127:SIGNED -title "The Walking Dead" -NewIssue 127SIGNED
-            
+      C:\PS>  update-issue -OldIssue 127:SIGNED -title "The Walking Dead" -NewIssue 127SIGNED         
    #>
    Param(
    [Parameter(Mandatory=$true)]
@@ -635,7 +670,6 @@ function update-issue()
    $cmd = New-Object System.Data.SqlClient.SqlCommand
    $cmd.connection = $conn
    $cmd.commandtext = "update comics set issue='$NewIssue' where title='$title' and issue='$OldIssue'"
-
 
    $result = $cmd.ExecuteNonQuery()
    
