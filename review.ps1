@@ -153,9 +153,12 @@ function update-record
       }
       else
       {
-         $priceestimate= ($ie.Document.getElementByID('prcIsum_bidPrice').innerText)      
+         if ($ie.Document.getElementByID('prcIsum_bidPrice'))
+         {
+            $priceestimate= ($ie.Document.getElementByID('prcIsum_bidPrice').innerText)      
+         }
       }
-      
+
       #still null must have stopped auction?
       if ($priceestimate -eq $NULL)
       {
@@ -164,7 +167,10 @@ function update-record
       }
       else
       {
-         $priceestimate=$priceestimate.replace("£","")    
+         if ($priceestimate -is [string])
+         {
+            $priceestimate=$priceestimate.replace("£","")    
+         }
       }
       
       Write-host "Price $($record.Price): estimate:$priceestimate market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline    

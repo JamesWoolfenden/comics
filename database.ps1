@@ -352,15 +352,16 @@ function query-db
        {
           $auctiontype=$data.GetString(12)  
        }
+
+       $BestOffer=0
        
        #BestOffer
-       if ($data.IsDBNull(13))
-       {
-          $BestOffer=$null
-       }
-       else 
-       {
-          $BestOffer=get-pounds $data.GetString(13)  
+       if (!($data.IsDBNull(13)))
+       {    
+         if ($data.GetString(13))
+          {
+             $BestOffer=get-pounds -dirty "$($data.GetString(13))" 
+          }
        }
        
        #BidCount

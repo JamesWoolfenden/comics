@@ -8,7 +8,7 @@
         "variant":  "6 (MR)",
         "price":  2.13,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:10 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "6 DOUBLE GATEFOLD INCV (MR)",
         "price":  2.13,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:10 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "8 CVR A JENKINS (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:10 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,19 +44,19 @@
         "variant":  "8 1:10 CVR B OEMING INCV (MR)",
         "price":  3.79,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:10 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/preorders-for-03/12/14/image/rat-queens-9-mr-/prod_61009.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-03/12/14/image/rat-queens-9-mr-/prod_61009.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-03/12/14/image/rat-queens-9-mr-/prod_61009.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/idw/rat-queens-9-mr-/prod_61009.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/idw/rat-queens-9-mr-/prod_61009.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/idw/rat-queens-9-mr-/prod_61009.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "RAT QUEENS",
         "issue":  "9",
         "variant":  "9 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:10 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,43 +68,19 @@
         "variant":  "10 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:10 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/image/image-firsts-rat-queens-1-mr-/prod_115867.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/image/image-firsts-rat-queens-1-mr-/prod_115867.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/image/image-firsts-rat-queens-1-mr-/prod_115867.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/image/image-firsts-rat-queens-1-mr-/prod_115867.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/image/image-firsts-rat-queens-1-mr-/prod_115867.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/image/image-firsts-rat-queens-1-mr-/prod_115867.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "RAT QUEENS",
         "issue":  "1",
         "variant":  "1 (MR)",
         "price":  1.45,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:05 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/rat-queens-11-cvr-a-fowler-upchurch-mr-/prod_122615.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/rat-queens-11-cvr-a-fowler-upchurch-mr-/prod_122615.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/rat-queens-11-cvr-a-fowler-upchurch-mr-/prod_122615.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "RAT QUEENS",
-        "issue":  "11",
-        "variant":  "11 CVR A FOWLER \u0026 UPCHURCH (MR)",
-        "price":  2.45,
-        "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:05 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/rat-queens-11-cvr-b-upchurch-mr-/prod_122616.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/rat-queens-11-cvr-b-upchurch-mr-/prod_122616.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/rat-queens-11-cvr-b-upchurch-mr-/prod_122616.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "RAT QUEENS",
-        "issue":  "11",
-        "variant":  "11 CVR B UPCHURCH (MR)",
-        "price":  2.45,
-        "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:10 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +92,7 @@
         "variant":  "11 CVR A FOWLER \u0026 UPCHURCH (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:10 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,7 +104,7 @@
         "variant":  "11 CVR B UPCHURCH (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:10 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -139,7 +115,7 @@
         "issue":  "11 ",
         "variant":  "Cover B Roc Upchurch",
         "price":  "2.40",
-        "rundate":  "Mon Nov 24 2014 10:36:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:39 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -150,7 +126,7 @@
         "issue":  "11 ",
         "variant":  "Cover A Tess Fowler \u0026 Roc Upchurch",
         "price":  "2.40",
-        "rundate":  "Mon Nov 24 2014 10:36:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:39 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -162,7 +138,7 @@
         "variant":  "3 (COVER B)",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:38 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:43 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -174,7 +150,7 @@
         "variant":  "5",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:38 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:43 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -186,7 +162,7 @@
         "variant":  "6",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:38 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:43 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -198,7 +174,7 @@
         "variant":  "7",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:38 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:43 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -210,7 +186,7 @@
         "variant":  "8",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:38 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:43 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -222,7 +198,7 @@
         "variant":  "AUG140669 RAT QUEENS #10 (MR)",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:48 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -234,7 +210,7 @@
         "variant":  "BOOTY: PIRATE QUEENS",
         "price":  7.99,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:48 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -246,7 +222,7 @@
         "variant":  "NOV140672 RAT QUEENS #11 CVR A FOWLER \u0026 UPCHURCH (MR)",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:48 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -258,7 +234,7 @@
         "variant":  "NOV140673 RAT QUEENS #11 CVR B UPCHURCH (MR)",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:48 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -270,7 +246,7 @@
         "variant":  "OCT140719 IMAGE FIRSTS RAT QUEENS #1 (MR)",
         "price":  0.80,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:48 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -282,7 +258,7 @@
         "variant":  "RAT QUEENS #8 CVR A JENKINS (MR) [(W) Kurtis J. Wiebe (A) Roc Upchurch (CA) Tyler Jenkins]",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Nov 24 2014 10:36:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 01 2014 10:35:48 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]
