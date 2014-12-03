@@ -169,7 +169,7 @@ function get-db
    }
    
    $conn.close()
-   return $result.count
+   $result.count
 }
 
 function update-db
@@ -381,7 +381,15 @@ function query-db
        }
        else 
        {
-          $buyitnowprice=get-pounds ($data.GetString(15)).Replace("&#163;","")  
+          if ($data.GetString(15))
+          {
+             $buyitnowprice=($data.GetString(15)).Replace("&#163;","")
+             $buyitnowprice=get-pounds -dirty $buyitnowprice  
+          }
+          else
+          {
+             $buyitnowprice=0
+          }
        }
 
        #closedate

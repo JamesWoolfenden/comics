@@ -100,7 +100,14 @@ function add-array()
 
              Write-host "`r`nAdding " -nonewline
              Write-host "$($set.Ebayitem)" -foregroundcolor red
-             add-record -title $title -issue $issue -price $set.CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
+             if ($set.CurrentPrice)
+             {
+                $CurrentPrice=$set.CurrentPrice
+             }
+             else{
+                $CurrentPrice=0
+             }
+             add-record -title $title -issue $issue -price $CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
 	         -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
                  -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate -ImageSrc $set.ImageSrc -Link $set.Link
                  
@@ -463,7 +470,8 @@ function add-ebidarray
 
 function add-ebid 
 {
-   param($ebiditem,
+   param(
+   $ebiditem,
    [string]$comic,
    [int]$issue,
    [string]$seller=""
@@ -503,7 +511,7 @@ function add-ebid
      $ebiditem.buynowprice=0.00
    }
    
-   if ($description -ne $null)
+   if ($ebiditem.description[0]."#cdata-section")
    {
      $description=$ebiditem.description[0]."#cdata-section"
      $description=$description.Replace("'","")
@@ -517,7 +525,7 @@ function add-ebid
    -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
    -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining  -Seller $seller
       
-   write-host "Adding $title $($set.ebayid)"
+   write-host "Adding $title $($ebiditem.id)"
 }
 
 function get-records
