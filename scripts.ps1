@@ -610,28 +610,63 @@ function get-records
    }
 }
 
-function get-issues()
+function get-issues
 {
+ <#
+      .SYNOPSIS 
+    Retrieves sold issue records for a title.
+	       
+      .PARAMETER title
+	Specifies the comic.
+	    
+    .EXAMPLE
+    C:\PS> get-issues -title "The Walking Dead" 
+          
+ #>
    param(
+   [Parameter(Mandatory=$true)]
    [string]$title)
    
    $result=query-db "where title='$title'  and status = 'closed'"
    $issuesfound=@()
-   
+   $count=0
+
    $issuesfound=$result| select-object -property Issue -unique|sort-object issue
-   
-   write-host "$($issuesfound.count) unique titles of $title"  
+   if ($issuesfound -is [system.array])
+   {
+      $count=$issuesfound.count
+   }
+   else
+   {
+      if ($issuesfound)
+      {
+         $count=1
+      }
+   }
+
+   write-host "$count unique titles of $title"  
    $issuesfound
 }
 
 function get-allprices
 {
+   <#
+      .SYNOPSIS 
+    Retrieves sold issue records for a title.
+	       
+      .PARAMETER title
+	Specifies the comic.
+	    
+    .EXAMPLE
+    C:\PS> get-issues -title "The Walking Dead"        
+   #>
+
    param(
    [Parameter(Mandatory=$true)]
    [string]$title)
       
-   $issues=get-issues $title
-   
+   $issues=get-issues -title $title
+
    $prices=@()
    
    foreach($issue in $Issues)

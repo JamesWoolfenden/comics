@@ -7,7 +7,8 @@ function update-record
 
    #postage
    $estimate=$null
-   
+   $seller=$null
+
    if ($($record.ebayitem))
    { 
       switch ($($record.site))
@@ -46,9 +47,20 @@ function update-record
 
       if ($record.seller -eq "" -or $record.seller -eq $NULL)
       {
-         write-host "Finding seller"
+         
+         write-host "Finding seller" -NoNewline
          $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
-         $seller=$result[0].innerText
+
+         #could be old and return nothing
+         if ($result)
+         {
+            $seller=$result[0].innerText
+            Write-Host " $seller" -ForegroundColor green
+         }
+         else
+         {
+            Write-Host " not found" -ForegroundColor red
+         }
       }
       else
       {
