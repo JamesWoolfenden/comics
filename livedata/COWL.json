@@ -6,9 +6,9 @@
         "title":  "COWL",
         "issue":  "1",
         "variant":  "1 2ND PTG (MR)",
-        "price":  1.83,
+        "price":  2.15,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:29:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -18,9 +18,9 @@
         "title":  "COWL",
         "issue":  "5",
         "variant":  "5 (MR)",
-        "price":  2.50,
+        "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:29:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -30,21 +30,21 @@
         "title":  "COWL",
         "issue":  "2",
         "variant":  "2 2ND PTG (MR)",
-        "price":  2.04,
+        "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:29:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/image/cowl-6-mr-/prod_111803.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/image/cowl-6-mr-/prod_111803.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/image/cowl-6-mr-/prod_111803.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/image/cowl-6-mr-/prod_111803.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/image/cowl-6-mr-/prod_111803.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/image/cowl-6-mr-/prod_111803.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "COWL",
         "issue":  "6",
         "variant":  "6 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:29:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -54,21 +54,21 @@
         "title":  "COWL",
         "issue":  "3",
         "variant":  "3 2ND PTG (MR)",
-        "price":  2.04,
+        "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:29:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/image/image-firsts-cowl-1-mr-/prod_115852.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/image/image-firsts-cowl-1-mr-/prod_115852.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/image/image-firsts-cowl-1-mr-/prod_115852.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/other-publishers/image-firsts-cowl-1-mr-/prod_115852.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/other-publishers/image-firsts-cowl-1-mr-/prod_115852.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/other-publishers/image-firsts-cowl-1-mr-/prod_115852.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "COWL",
         "issue":  "1",
         "variant":  "1 (MR)",
         "price":  1.45,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:29:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "7 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:29:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "8 (MR)",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:29:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "9 (MR)",
         "price":  2.70,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:29:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,8 +116,19 @@
         "variant":  "9 (MR)",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:29:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/132384-cowl-9/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/132384-cowl-9/\"\u003ehttps://forbiddenplanet.com/132384-cowl-9/\u003c/a\u003e",
+        "orderdate":  "25th February, 2015",
+        "title":  "COWL",
+        "issue":  "9",
+        "variant":  "9",
+        "price":  "2.65",
+        "rundate":  "Mon Dec 08 2014 10:29:37 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
     },
     {
         "link":  "https://forbiddenplanet.com/130607-cowl-8/",
@@ -127,7 +138,7 @@
         "issue":  "8",
         "variant":  "8",
         "price":  "2.40",
-        "rundate":  "Mon Dec 01 2014 10:30:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:37 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -138,7 +149,7 @@
         "issue":  "7",
         "variant":  "7",
         "price":  "2.40",
-        "rundate":  "Mon Dec 01 2014 10:30:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:37 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -149,7 +160,7 @@
         "issue":  "1",
         "variant":  "1",
         "price":  "0.65",
-        "rundate":  "Mon Dec 01 2014 10:30:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:37 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -160,7 +171,7 @@
         "issue":  "6",
         "variant":  "6",
         "price":  "2.40",
-        "rundate":  "Mon Dec 01 2014 10:30:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:37 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -171,7 +182,7 @@
         "issue":  "5",
         "variant":  "5",
         "price":  "2.40",
-        "rundate":  "Mon Dec 01 2014 10:30:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:37 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -182,7 +193,7 @@
         "issue":  "4",
         "variant":  "4",
         "price":  "2.40",
-        "rundate":  "Mon Dec 01 2014 10:30:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:37 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -193,7 +204,7 @@
         "issue":  "3",
         "variant":  "3",
         "price":  "2.40",
-        "rundate":  "Mon Dec 01 2014 10:30:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:37 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -205,7 +216,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:25 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -217,7 +228,7 @@
         "variant":  "1 *HOT BOOK*",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:25 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -229,7 +240,7 @@
         "variant":  "2 *HOT BOOK*",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:25 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -241,7 +252,7 @@
         "variant":  "3",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:25 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -253,7 +264,7 @@
         "variant":  "4",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:25 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -265,7 +276,7 @@
         "variant":  "5",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:25 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -277,7 +288,7 @@
         "variant":  "6",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:25 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -289,7 +300,7 @@
         "variant":  "BATMAN: BATTLE FOR THE COWL",
         "price":  10.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:45 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -301,7 +312,7 @@
         "variant":  "BATMAN: BATTLE FOR THE COWL COMPANION",
         "price":  10.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:45 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -313,7 +324,7 @@
         "variant":  "BATMAN: UNDER THE COWL",
         "price":  13.50,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:45 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -325,7 +336,7 @@
         "variant":  "COWL #1 2ND PTG (MR) [(W) Kyle Higgins, Alec Siegel (A) Rod Reis (CA) Trevor McCarthy]",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:45 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -337,7 +348,7 @@
         "variant":  "DEC140723 COWL #9 (MR)",
         "price":  3.20,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:45 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -349,7 +360,7 @@
         "variant":  "NOV140645 COWL #8 (MR)",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:45 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -361,7 +372,7 @@
         "variant":  "OCT140704 IMAGE FIRSTS COWL #1 (MR)",
         "price":  0.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:45 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -373,7 +384,7 @@
         "variant":  "OCT140732 COWL #7 (MR)",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:45 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -385,7 +396,7 @@
         "variant":  "SEP140575 COWL #6 (MR)",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:30:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:29:45 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

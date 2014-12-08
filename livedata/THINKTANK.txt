@@ -6,9 +6,9 @@
         "title":  "THINK TANK",
         "issue":  "1",
         "variant":  "1",
-        "price":  2.68,
+        "price":  3.15,
         "currency":  "£",
-        "rundate":  "Mon Dec 01 2014 10:23:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:22:37 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -18,9 +18,9 @@
         "title":  "THINK TANK",
         "issue":  "9",
         "variant":  "9 (MR)",
-        "price":  2.21,
+        "price":  2.60,
         "currency":  "£",
-        "rundate":  "Mon Dec 01 2014 10:23:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:22:37 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -30,9 +30,9 @@
         "title":  "THINK TANK",
         "issue":  "10",
         "variant":  "10 (MR) 2013 DHC",
-        "price":  2.13,
+        "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 01 2014 10:23:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:22:37 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -42,9 +42,9 @@
         "title":  "THINK TANK",
         "issue":  "11",
         "variant":  "11 (MR) 2013 DHC",
-        "price":  2.30,
+        "price":  2.70,
         "currency":  "£",
-        "rundate":  "Mon Dec 01 2014 10:23:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:22:37 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -54,9 +54,9 @@
         "title":  "THINK TANK",
         "issue":  "12",
         "variant":  "12 DHC",
-        "price":  2.25,
+        "price":  2.65,
         "currency":  "£",
-        "rundate":  "Mon Dec 01 2014 10:23:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:22:37 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -66,9 +66,9 @@
         "title":  "THINK TANK",
         "issue":  "7",
         "variant":  "7 (MR) 2013 DHC",
-        "price":  2.25,
+        "price":  2.65,
         "currency":  "£",
-        "rundate":  "Mon Dec 01 2014 10:23:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:22:37 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -78,9 +78,9 @@
         "title":  "THINK TANK",
         "issue":  "8",
         "variant":  "8 (MR) 2013 DHC",
-        "price":  2.21,
+        "price":  2.60,
         "currency":  "£",
-        "rundate":  "Mon Dec 01 2014 10:23:31 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:22:37 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "THINK TANK",
         "price":  10.99,
         "currency":  "£",
-        "rundate":  "Mon Dec 01 2014 10:24:20 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:23:27 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

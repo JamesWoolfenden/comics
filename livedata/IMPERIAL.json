@@ -6,9 +6,9 @@
         "title":  "IMPERIAL",
         "issue":  "1",
         "variant":  "1",
-        "price":  1.87,
+        "price":  2.20,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:01 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -18,9 +18,9 @@
         "title":  "IMPERIAL",
         "issue":  "2",
         "variant":  "2",
-        "price":  2.25,
+        "price":  2.20,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:01 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "MARVEL GN COLL VOL 34 NEW X-MEN VOL 2 IMPERIAL HC (C: 0 2013 DHC",
         "price":  9.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:01 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "3",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:01 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,199 @@
         "variant":  "4",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:01 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-chewbacca-pack-c-0-1-2-/prod_132179.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-chewbacca-pack-c-0-1-2-/prod_132179.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-chewbacca-pack-c-0-1-2-/prod_132179.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT CHEWBACCA PACK (C: 0-1-2)",
+        "price":  9.41,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-dice-pack-c-0-1-2-/prod_132180.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-dice-pack-c-0-1-2-/prod_132180.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-dice-pack-c-0-1-2-/prod_132180.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT DICE PACK (C: 0-1-2)",
+        "price":  10.78,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-general-weiss-pack-c-0-1-2-/prod_132181.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-general-weiss-pack-c-0-1-2-/prod_132181.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-general-weiss-pack-c-0-1-2-/prod_132181.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT GENERAL WEISS PACK (C: 0-1-2)",
+        "price":  14.66,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-han-solo-pack-c-0-1-2-/prod_132182.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-han-solo-pack-c-0-1-2-/prod_132182.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-han-solo-pack-c-0-1-2-/prod_132182.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT HAN SOLO PACK (C: 0-1-2)",
+        "price":  9.41,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-ig-88-pack-c-0-1-2-/prod_132183.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-ig-88-pack-c-0-1-2-/prod_132183.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-ig-88-pack-c-0-1-2-/prod_132183.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT IG-88 PACK (C: 0-1-2)",
+        "price":  9.41,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-rebel-saboteurs-pack-c-0-1-2-/prod_132184.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-rebel-saboteurs-pack-c-0-1-2-/prod_132184.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-rebel-saboteurs-pack-c-0-1-2-/prod_132184.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT REBEL SABOTEURS PACK (C: 0-1-2)",
+        "price":  12.36,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-rebel-troopers-pack-c-0-1-2-/prod_132185.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-rebel-troopers-pack-c-0-1-2-/prod_132185.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-rebel-troopers-pack-c-0-1-2-/prod_132185.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT REBEL TROOPERS PACK (C: 0-1-2)",
+        "price":  12.36,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-royal-guard-champion-pack-c-0-1/prod_132186.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-royal-guard-champion-pack-c-0-1/prod_132186.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-royal-guard-champion-pack-c-0-1/prod_132186.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT ROYAL GUARD CHAMPION PACK (C: 0-1",
+        "price":  9.41,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-chewbacca-pack-c-0-1-2-/prod_133362.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-chewbacca-pack-c-0-1-2-/prod_133362.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-chewbacca-pack-c-0-1-2-/prod_133362.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT CHEWBACCA PACK (C: 0-1-2)",
+        "price":  9.94,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-dice-pack-c-0-1-2-/prod_133363.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-dice-pack-c-0-1-2-/prod_133363.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-dice-pack-c-0-1-2-/prod_133363.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT DICE PACK (C: 0-1-2)",
+        "price":  11.42,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-general-weiss-pack-c-0-1-2-/prod_133364.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-general-weiss-pack-c-0-1-2-/prod_133364.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-general-weiss-pack-c-0-1-2-/prod_133364.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT GENERAL WEISS PACK (C: 0-1-2)",
+        "price":  15.64,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-han-solo-pack-c-0-1-2-/prod_133365.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-han-solo-pack-c-0-1-2-/prod_133365.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-han-solo-pack-c-0-1-2-/prod_133365.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT HAN SOLO PACK (C: 0-1-2)",
+        "price":  9.94,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-ig-88-pack-c-0-1-2-/prod_133366.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-ig-88-pack-c-0-1-2-/prod_133366.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-ig-88-pack-c-0-1-2-/prod_133366.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT IG-88 PACK (C: 0-1-2)",
+        "price":  9.94,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-rebel-saboteurs-pack-c-0-1-2-/prod_133367.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-rebel-saboteurs-pack-c-0-1-2-/prod_133367.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-rebel-saboteurs-pack-c-0-1-2-/prod_133367.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT REBEL SABOTEURS PACK (C: 0-1-2)",
+        "price":  13.14,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-rebel-troopers-pack-c-0-1-2-/prod_133368.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-rebel-troopers-pack-c-0-1-2-/prod_133368.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-rebel-troopers-pack-c-0-1-2-/prod_133368.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT REBEL TROOPERS PACK (C: 0-1-2)",
+        "price":  13.14,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-royal-guard-champion-pack-c-0-1/prod_133369.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-royal-guard-champion-pack-c-0-1/prod_133369.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-royal-guard-champion-pack-c-0-1/prod_133369.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS IMPERIAL ASSAULT ROYAL GUARD CHAMPION PACK (C: 0-1",
+        "price":  9.94,
+        "currency":  "?",
+        "rundate":  "Mon Dec 08 2014 10:33:41 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -67,7 +259,7 @@
         "issue":  "2",
         "variant":  "2",
         "price":  "1.95",
-        "rundate":  "Mon Dec 01 2014 10:34:43 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:34:23 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -78,7 +270,7 @@
         "issue":  "1",
         "variant":  "1",
         "price":  "1.95",
-        "rundate":  "Mon Dec 01 2014 10:34:43 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:34:23 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -90,7 +282,7 @@
         "variant":  "1",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:34:27 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -102,7 +294,7 @@
         "variant":  "2",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:34:27 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -114,7 +306,7 @@
         "variant":  "3",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:34:27 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -126,7 +318,7 @@
         "variant":  "4",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:34:27 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -138,7 +330,7 @@
         "variant":  "1",
         "price":  3.29,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:34:27 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -150,7 +342,7 @@
         "variant":  "3",
         "price":  3.29,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:34:27 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -162,7 +354,7 @@
         "variant":  "4",
         "price":  3.29,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:34:27 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -174,7 +366,7 @@
         "variant":  "5",
         "price":  3.29,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:34:27 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -186,7 +378,7 @@
         "variant":  "IMPERIAL #STANDING ORDER",
         "price":  0.00,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -198,7 +390,7 @@
         "variant":  "AUG140655 IMPERIAL #3",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -210,7 +402,7 @@
         "variant":  "IMPERIAL #1 [(W) Steven T. Seagle (A/CA) Marc Dos Santos]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -222,7 +414,7 @@
         "variant":  "SEP140727 IMPERIAL #4",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 01 2014 10:34:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 08 2014 10:34:31 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

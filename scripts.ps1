@@ -841,3 +841,5 @@ new-alias cr closing-record -force
 new-alias ep estimate-price -force
 new-alias ap get-allprices -force
 new-alias uo update-open -force
+new-alias bs get-selleritems -force
+new-alias byseller get-selleritems -force

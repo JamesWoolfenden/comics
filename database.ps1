@@ -564,7 +564,7 @@ function estimate-price
    return $objStats 
 }
 
-function bySeller
+function get-selleritems
 {
    <#
       .SYNOPSIS 
@@ -574,25 +574,39 @@ function bySeller
 	Specifies the seller. If left blank orders by seller.
 	    
       .EXAMPLE
-      C:\PS> byseller -seller blackadam 
+      C:\PS> get-selleritems -seller blackadam 
       
       .EXAMPLE
-      C:\PS> byseller -seller blackadam|ogv
+      C:\PS> get-selleritems -seller blackadam -nogrid
       
       .EXAMPLE
             C:\PS> byseller |ogv
       
    #>
 
-   param([string]$seller)
+   param(
+   [Parameter(Mandatory=$true)]
+   [string]$seller,
+   [switch]$nogrid)
+
    if ($seller -eq $NULL -or $seller -eq '')
    {
-      query-db "where (status='open' OR status='verified') order by seller"
+      $resultsset=query-db "where (status='open' OR status='verified') order by seller"
    }
    else
    {
-      query-db "where seller='$seller' and (status='open' OR status='verified')"
+      $resultsset=query-db "where seller='$seller' and (status='open' OR status='verified')"
    }
+   
+   if ($nogrid)
+   {
+      $resultsset
+   }
+   else
+   {
+      $resultsset|ogv
+   }
+
 }
 
 function get-currentprice

@@ -100,7 +100,6 @@ function combine-data
    $data|sort-object issue
 }
 
-
 function get-price
 {
   <#
@@ -215,3 +214,24 @@ function read-hostdecimal
  
    $Entry
  }
+
+function update-set
+{
+    <#
+      .SYNOPSIS 
+       Allows the individual update of a resultset 
+	    
+      .EXAMPLE
+      C:\PS> update-set $(get-selleritems -seller blackadam -nogrid)
+
+   #>
+
+   param(   
+   [Parameter(Mandatory=$true)]
+   [psobject]$results)
+
+   foreach($record in $results)
+   {
+      update-record $record 
+   }
+}
