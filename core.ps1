@@ -46,22 +46,54 @@ function best-buys
 
    param([pscustomobject]$results)
    
+   $results.Count
+
    foreach($record in $results)
    {
-      $prices=estimate-price -title $record.title -issue $record.issue
-      $record | Add-Member -type NoteProperty -name AveragePrice -value $prices.AveragePrice
-      $record | Add-Member -type NoteProperty -name Margin -Value ($prices.CurrentPrice-$record.price)
-      $record | Add-Member -type NoteProperty -name CurrentPrice -value $prices.CurrentPrice
+      Write-debug "estimate-price -title $($record.title) -issue $($record.issue)"
+      $prices=estimate-price -title $($record.title) -issue $($record.issue)
+
+      $CurrentPrice=0
+      $AveragePrice=0
+      $Margin=0
+
+      if ($prices)
+      {
+         $CurrentPrice=$($prices.CurrentPrice)
+         $AveragePrice=$($prices.AveragePrice)
+         $Margin=$($prices.CurrentPrice)-$($record.price)
+      }
+
+      $record | Add-Member -type NoteProperty -name CurrentPrice -value $CurrentPrice
+      $record | Add-Member -type NoteProperty -name AveragePrice -value $AveragePrice
+      $record | Add-Member -type NoteProperty -name Margin -Value $Margin
    }
+
    $results
 }
 
 function get-bestbuy
 {
-    param([string]$title)
+    <#
+      .SYNOPSIS 
+       Gets and sorts an array of a certain table by margin
+	    
+      .EXAMPLE
+      C:\PS> get-bestbuy -title "THE WALKING DEAD"
+
+   #>
+    param([string]$title,
+    [switch]$nogrid)
 
     $results=query-db -wherestring "where title='$title' and status='Verified'"
-    best-buys $results| sort-Object -property Margin
+    if ($nogrid)
+    {
+       best-buys $results| sort-Object -property Margin -Descending
+    }
+    else
+    {
+       best-buys $results| sort-Object -property Margin -Descending |ogv
+    }
 }
 
 function clean-records
@@ -196,6 +228,13 @@ function get-issue
 
 function read-hostdecimal
 {
+    <#
+      .SYNOPSIS 
+       Same as read host but only accepts decimal entries
+	    
+      .EXAMPLE
+      C:\PS> read-hostdecimal
+   #>
 
    do 
    {

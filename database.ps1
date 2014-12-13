@@ -485,7 +485,7 @@ function estimate-price
 
    if ($results -eq $NULL)
    {
-      return "None Found"
+      return $null
    }
    
    if($results -is [system.array])
