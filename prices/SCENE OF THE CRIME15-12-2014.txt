@@ -1,0 +1,34 @@
+﻿[
+    {
+        "Title":  "SCENE OF THE CRIME",
+        "Issue":  "SET",
+        "Cover":  0,
+        "TotalCost":  "4.85",
+        "Mean":  4.85,
+        "AveragePrice":  2.7,
+        "CurrentPrice":  2.7,
+        "Minimum":  2.7,
+        "Maximum":  2.7,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1418637682894)\/"
+    },
+    {
+        "Title":  "SCENE OF THE CRIME",
+        "Issue":  "VOL",
+        "Cover":  0,
+        "TotalCost":  "6.00",
+        "Mean":  6,
+        "AveragePrice":  4,
+        "CurrentPrice":  4,
+        "Minimum":  4,
+        "Maximum":  4,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1418637682926)\/"
+    }
+]
