@@ -3,49 +3,49 @@
         "Title":  "CHEW",
         "Issue":  "10",
         "Cover":  10,
-        "TotalCost":  "5.87",
-        "Mean":  5.870000000000001,
-        "AveragePrice":  4.494545454545456,
-        "CurrentPrice":  2.5260000000000002,
+        "TotalCost":  "5.71",
+        "Mean":  5.7075000000000005,
+        "AveragePrice":  4.3216666666666681,
+        "CurrentPrice":  2.3600000000000003,
         "Minimum":  0.99,
         "Maximum":  8.25,
-        "Count":  11,
+        "Count":  12,
         "AveragePaid":  6.79,
         "AverageNetPaid":  6.79,
         "Stock":  1,
-        "Date":  "\/Date(1418032817525)\/"
+        "Date":  "\/Date(1418637624801)\/"
     },
     {
         "Title":  "CHEW",
         "Issue":  "11",
         "Cover":  11,
-        "TotalCost":  "6.40",
-        "Mean":  6.3966666666666718,
-        "AveragePrice":  5.5341666666666711,
-        "CurrentPrice":  6.1066666666666745,
-        "Minimum":  2.25,
+        "TotalCost":  "5.96",
+        "Mean":  5.9625925925925971,
+        "AveragePrice":  5.0292592592592635,
+        "CurrentPrice":  4.9146666666666743,
+        "Minimum":  0.99,
         "Maximum":  13.6666666666667,
-        "Count":  8,
+        "Count":  9,
         "AveragePaid":  2.9,
         "AverageNetPaid":  2.9,
         "Stock":  1,
-        "Date":  "\/Date(1418032817575)\/"
+        "Date":  "\/Date(1418637624856)\/"
     },
     {
         "Title":  "CHEW",
         "Issue":  "12A",
         "Cover":  12,
-        "TotalCost":  "6.11",
-        "Mean":  6.1141666666666712,
-        "AveragePrice":  4.976666666666671,
-        "CurrentPrice":  5.7166666666666739,
-        "Minimum":  2.25,
+        "TotalCost":  "5.71",
+        "Mean":  5.7114814814814858,
+        "AveragePrice":  4.5337037037037078,
+        "CurrentPrice":  4.9146666666666743,
+        "Minimum":  0.99,
         "Maximum":  13.6666666666667,
-        "Count":  8,
+        "Count":  9,
         "AveragePaid":  3.12,
         "AverageNetPaid":  3.12,
         "Stock":  2,
-        "Date":  "\/Date(1418032817635)\/"
+        "Date":  "\/Date(1418637624910)\/"
     },
     {
         "Title":  "CHEW",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032817665)\/"
+        "Date":  "\/Date(1418637624945)\/"
     },
     {
         "Title":  "CHEW",
@@ -77,7 +77,7 @@
         "AveragePaid":  3.34,
         "AverageNetPaid":  3.34,
         "Stock":  1,
-        "Date":  "\/Date(1418032817725)\/"
+        "Date":  "\/Date(1418637625002)\/"
     },
     {
         "Title":  "CHEW",
@@ -93,7 +93,7 @@
         "AveragePaid":  2.9,
         "AverageNetPaid":  2.9,
         "Stock":  1,
-        "Date":  "\/Date(1418032817775)\/"
+        "Date":  "\/Date(1418637625052)\/"
     },
     {
         "Title":  "CHEW",
@@ -109,7 +109,7 @@
         "AveragePaid":  2.9,
         "AverageNetPaid":  2.9,
         "Stock":  1,
-        "Date":  "\/Date(1418032817815)\/"
+        "Date":  "\/Date(1418637625100)\/"
     },
     {
         "Title":  "CHEW",
@@ -125,7 +125,7 @@
         "AveragePaid":  2.9,
         "AverageNetPaid":  2.9,
         "Stock":  1,
-        "Date":  "\/Date(1418032817875)\/"
+        "Date":  "\/Date(1418637625155)\/"
     },
     {
         "Title":  "CHEW",
@@ -141,7 +141,7 @@
         "AveragePaid":  2.49,
         "AverageNetPaid":  2.49,
         "Stock":  1,
-        "Date":  "\/Date(1418032817925)\/"
+        "Date":  "\/Date(1418637625207)\/"
     },
     {
         "Title":  "CHEW",
@@ -157,7 +157,7 @@
         "AveragePaid":  8.95,
         "AverageNetPaid":  8.95,
         "Stock":  1,
-        "Date":  "\/Date(1418032817985)\/"
+        "Date":  "\/Date(1418637625265)\/"
     },
     {
         "Title":  "CHEW",
@@ -173,7 +173,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1418032818035)\/"
+        "Date":  "\/Date(1418637625312)\/"
     },
     {
         "Title":  "CHEW",
@@ -189,7 +189,7 @@
         "AveragePaid":  3.245,
         "AverageNetPaid":  3.245,
         "Stock":  2,
-        "Date":  "\/Date(1418032818095)\/"
+        "Date":  "\/Date(1418637625367)\/"
     },
     {
         "Title":  "CHEW",
@@ -205,23 +205,23 @@
         "AveragePaid":  7.8,
         "AverageNetPaid":  7.05,
         "Stock":  2,
-        "Date":  "\/Date(1418032818135)\/"
+        "Date":  "\/Date(1418637625412)\/"
     },
     {
         "Title":  "CHEW",
         "Issue":  "1A",
         "Cover":  1,
-        "TotalCost":  "111.42",
-        "Mean":  111.41999999999999,
-        "AveragePrice":  110.53999999999999,
-        "CurrentPrice":  89.133999999999986,
+        "TotalCost":  "110.02",
+        "Mean":  110.01874999999998,
+        "AveragePrice":  109.00625,
+        "CurrentPrice":  99.833999999999989,
         "Minimum":  16.5,
         "Maximum":  199.99,
-        "Count":  15,
+        "Count":  16,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032818205)\/"
+        "Date":  "\/Date(1418637625487)\/"
     },
     {
         "Title":  "CHEW",
@@ -237,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032818245)\/"
+        "Date":  "\/Date(1418637625520)\/"
     },
     {
         "Title":  "CHEW",
@@ -253,7 +253,7 @@
         "AveragePaid":  16.744999999999997,
         "AverageNetPaid":  16.744999999999997,
         "Stock":  2,
-        "Date":  "\/Date(1418032818275)\/"
+        "Date":  "\/Date(1418637625558)\/"
     },
     {
         "Title":  "CHEW",
@@ -269,7 +269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032818315)\/"
+        "Date":  "\/Date(1418637625592)\/"
     },
     {
         "Title":  "CHEW",
@@ -285,7 +285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032818345)\/"
+        "Date":  "\/Date(1418637625625)\/"
     },
     {
         "Title":  "CHEW",
@@ -301,7 +301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032818385)\/"
+        "Date":  "\/Date(1418637625660)\/"
     },
     {
         "Title":  "CHEW",
@@ -317,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032818415)\/"
+        "Date":  "\/Date(1418637625693)\/"
     },
     {
         "Title":  "CHEW",
@@ -333,7 +333,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1418032818485)\/"
+        "Date":  "\/Date(1418637625766)\/"
     },
     {
         "Title":  "CHEW",
@@ -349,7 +349,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032818525)\/"
+        "Date":  "\/Date(1418637625799)\/"
     },
     {
         "Title":  "CHEW",
@@ -365,7 +365,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032818555)\/"
+        "Date":  "\/Date(1418637625834)\/"
     },
     {
         "Title":  "CHEW",
@@ -381,7 +381,7 @@
         "AveragePaid":  3.9749999999999996,
         "AverageNetPaid":  3.9749999999999996,
         "Stock":  2,
-        "Date":  "\/Date(1418032818605)\/"
+        "Date":  "\/Date(1418637625886)\/"
     },
     {
         "Title":  "CHEW",
@@ -397,7 +397,7 @@
         "AveragePaid":  1.635,
         "AverageNetPaid":  1.635,
         "Stock":  2,
-        "Date":  "\/Date(1418032818665)\/"
+        "Date":  "\/Date(1418637625940)\/"
     },
     {
         "Title":  "CHEW",
@@ -413,7 +413,7 @@
         "AveragePaid":  1.635,
         "AverageNetPaid":  1.635,
         "Stock":  2,
-        "Date":  "\/Date(1418032818705)\/"
+        "Date":  "\/Date(1418637625987)\/"
     },
     {
         "Title":  "CHEW",
@@ -429,7 +429,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1418032818745)\/"
+        "Date":  "\/Date(1418637626022)\/"
     },
     {
         "Title":  "CHEW",
@@ -445,7 +445,7 @@
         "AveragePaid":  1.2,
         "AverageNetPaid":  1.2,
         "Stock":  3,
-        "Date":  "\/Date(1418032818795)\/"
+        "Date":  "\/Date(1418637626102)\/"
     },
     {
         "Title":  "CHEW",
@@ -461,7 +461,7 @@
         "AveragePaid":  1.625,
         "AverageNetPaid":  1.5,
         "Stock":  4,
-        "Date":  "\/Date(1418032818865)\/"
+        "Date":  "\/Date(1418637626165)\/"
     },
     {
         "Title":  "CHEW",
@@ -477,7 +477,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032818895)\/"
+        "Date":  "\/Date(1418637626198)\/"
     },
     {
         "Title":  "CHEW",
@@ -493,7 +493,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032818925)\/"
+        "Date":  "\/Date(1418637626233)\/"
     },
     {
         "Title":  "CHEW",
@@ -509,7 +509,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032818965)\/"
+        "Date":  "\/Date(1418637626266)\/"
     },
     {
         "Title":  "CHEW",
@@ -525,7 +525,7 @@
         "AveragePaid":  1.745,
         "AverageNetPaid":  1.745,
         "Stock":  2,
-        "Date":  "\/Date(1418032819025)\/"
+        "Date":  "\/Date(1418637626322)\/"
     },
     {
         "Title":  "CHEW",
@@ -541,7 +541,7 @@
         "AveragePaid":  2.55,
         "AverageNetPaid":  2.55,
         "Stock":  2,
-        "Date":  "\/Date(1418032819075)\/"
+        "Date":  "\/Date(1418637626378)\/"
     },
     {
         "Title":  "CHEW",
@@ -557,7 +557,7 @@
         "AveragePaid":  2.8,
         "AverageNetPaid":  2.8,
         "Stock":  2,
-        "Date":  "\/Date(1418032819135)\/"
+        "Date":  "\/Date(1418637626434)\/"
     },
     {
         "Title":  "CHEW",
@@ -573,7 +573,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032819165)\/"
+        "Date":  "\/Date(1418637626466)\/"
     },
     {
         "Title":  "CHEW",
@@ -589,7 +589,7 @@
         "AveragePaid":  2.95,
         "AverageNetPaid":  2.95,
         "Stock":  2,
-        "Date":  "\/Date(1418032819215)\/"
+        "Date":  "\/Date(1418637626516)\/"
     },
     {
         "Title":  "CHEW",
@@ -605,7 +605,7 @@
         "AveragePaid":  2.75,
         "AverageNetPaid":  2.75,
         "Stock":  2,
-        "Date":  "\/Date(1418032819285)\/"
+        "Date":  "\/Date(1418637626584)\/"
     },
     {
         "Title":  "CHEW",
@@ -621,7 +621,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032819315)\/"
+        "Date":  "\/Date(1418637626616)\/"
     },
     {
         "Title":  "CHEW",
@@ -637,7 +637,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  2,
-        "Date":  "\/Date(1418032819385)\/"
+        "Date":  "\/Date(1418637626684)\/"
     },
     {
         "Title":  "CHEW",
@@ -653,23 +653,23 @@
         "AveragePaid":  6.7,
         "AverageNetPaid":  6.7,
         "Stock":  1,
-        "Date":  "\/Date(1418032819425)\/"
+        "Date":  "\/Date(1418637626725)\/"
     },
     {
         "Title":  "CHEW",
         "Issue":  "2A",
         "Cover":  2,
-        "TotalCost":  "16.60",
-        "Mean":  16.6,
-        "AveragePrice":  15.987272727272728,
-        "CurrentPrice":  21.948,
+        "TotalCost":  "17.09",
+        "Mean":  17.091666666666669,
+        "AveragePrice":  16.405,
+        "CurrentPrice":  25.598000000000003,
         "Minimum":  2.75,
         "Maximum":  51,
-        "Count":  11,
+        "Count":  12,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032819485)\/"
+        "Date":  "\/Date(1418637626788)\/"
     },
     {
         "Title":  "CHEW",
@@ -685,7 +685,7 @@
         "AveragePaid":  6.2,
         "AverageNetPaid":  4.2,
         "Stock":  1,
-        "Date":  "\/Date(1418032819515)\/"
+        "Date":  "\/Date(1418637626822)\/"
     },
     {
         "Title":  "CHEW",
@@ -701,7 +701,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032819555)\/"
+        "Date":  "\/Date(1418637626858)\/"
     },
     {
         "Title":  "CHEW",
@@ -717,7 +717,7 @@
         "AveragePaid":  5,
         "AverageNetPaid":  5,
         "Stock":  1,
-        "Date":  "\/Date(1418032819585)\/"
+        "Date":  "\/Date(1418637626891)\/"
     },
     {
         "Title":  "CHEW",
@@ -733,7 +733,7 @@
         "AveragePaid":  2.05,
         "AverageNetPaid":  2.05,
         "Stock":  2,
-        "Date":  "\/Date(1418032819655)\/"
+        "Date":  "\/Date(1418637626958)\/"
     },
     {
         "Title":  "CHEW",
@@ -749,7 +749,7 @@
         "AveragePaid":  2.05,
         "AverageNetPaid":  2.05,
         "Stock":  2,
-        "Date":  "\/Date(1418032819725)\/"
+        "Date":  "\/Date(1418637627028)\/"
     },
     {
         "Title":  "CHEW",
@@ -765,7 +765,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  2,
-        "Date":  "\/Date(1418032819785)\/"
+        "Date":  "\/Date(1418637627087)\/"
     },
     {
         "Title":  "CHEW",
@@ -781,7 +781,7 @@
         "AveragePaid":  2.43,
         "AverageNetPaid":  2.0633333333333335,
         "Stock":  3,
-        "Date":  "\/Date(1418032819865)\/"
+        "Date":  "\/Date(1418637627157)\/"
     },
     {
         "Title":  "CHEW",
@@ -797,7 +797,7 @@
         "AveragePaid":  2.45,
         "AverageNetPaid":  2.45,
         "Stock":  2,
-        "Date":  "\/Date(1418032819925)\/"
+        "Date":  "\/Date(1418637627217)\/"
     },
     {
         "Title":  "CHEW",
@@ -813,7 +813,7 @@
         "AveragePaid":  2.42,
         "AverageNetPaid":  1.87,
         "Stock":  2,
-        "Date":  "\/Date(1418032819995)\/"
+        "Date":  "\/Date(1418637627285)\/"
     },
     {
         "Title":  "CHEW",
@@ -829,7 +829,7 @@
         "AveragePaid":  17.55,
         "AverageNetPaid":  17.55,
         "Stock":  1,
-        "Date":  "\/Date(1418032820035)\/"
+        "Date":  "\/Date(1418637627327)\/"
     },
     {
         "Title":  "CHEW",
@@ -845,7 +845,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032820065)\/"
+        "Date":  "\/Date(1418637627360)\/"
     },
     {
         "Title":  "CHEW",
@@ -861,7 +861,7 @@
         "AveragePaid":  2.45,
         "AverageNetPaid":  2.45,
         "Stock":  2,
-        "Date":  "\/Date(1418032820135)\/"
+        "Date":  "\/Date(1418637627432)\/"
     },
     {
         "Title":  "CHEW",
@@ -877,7 +877,7 @@
         "AveragePaid":  2.45,
         "AverageNetPaid":  2.45,
         "Stock":  1,
-        "Date":  "\/Date(1418032820195)\/"
+        "Date":  "\/Date(1418637627491)\/"
     },
     {
         "Title":  "CHEW",
@@ -893,7 +893,7 @@
         "AveragePaid":  2.45,
         "AverageNetPaid":  2.45,
         "Stock":  1,
-        "Date":  "\/Date(1418032820245)\/"
+        "Date":  "\/Date(1418637627537)\/"
     },
     {
         "Title":  "CHEW",
@@ -909,7 +909,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032820275)\/"
+        "Date":  "\/Date(1418637627571)\/"
     },
     {
         "Title":  "CHEW",
@@ -925,7 +925,7 @@
         "AveragePaid":  2.75,
         "AverageNetPaid":  2.75,
         "Stock":  1,
-        "Date":  "\/Date(1418032820335)\/"
+        "Date":  "\/Date(1418637627630)\/"
     },
     {
         "Title":  "CHEW",
@@ -941,7 +941,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032820365)\/"
+        "Date":  "\/Date(1418637627663)\/"
     },
     {
         "Title":  "CHEW",
@@ -957,23 +957,23 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1418032820435)\/"
+        "Date":  "\/Date(1418637627730)\/"
     },
     {
         "Title":  "CHEW",
         "Issue":  "3A",
         "Cover":  3,
-        "TotalCost":  "9.62",
-        "Mean":  9.6175000000000015,
-        "AveragePrice":  8.5337500000000013,
-        "CurrentPrice":  7.831999999999999,
+        "TotalCost":  "9.46",
+        "Mean":  9.4635294117647071,
+        "AveragePrice":  8.35529411764706,
+        "CurrentPrice":  8.382,
         "Minimum":  2.75,
         "Maximum":  19.99,
-        "Count":  16,
+        "Count":  17,
         "AveragePaid":  7.25,
         "AverageNetPaid":  7.25,
         "Stock":  1,
-        "Date":  "\/Date(1418032820505)\/"
+        "Date":  "\/Date(1418637627804)\/"
     },
     {
         "Title":  "CHEW",
@@ -989,7 +989,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032820545)\/"
+        "Date":  "\/Date(1418637627836)\/"
     },
     {
         "Title":  "CHEW",
@@ -1005,7 +1005,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032820575)\/"
+        "Date":  "\/Date(1418637627869)\/"
     },
     {
         "Title":  "CHEW",
@@ -1021,7 +1021,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032820605)\/"
+        "Date":  "\/Date(1418637627902)\/"
     },
     {
         "Title":  "CHEW",
@@ -1037,7 +1037,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1418032820665)\/"
+        "Date":  "\/Date(1418637627963)\/"
     },
     {
         "Title":  "CHEW",
@@ -1053,7 +1053,7 @@
         "AveragePaid":  2.1500000000000004,
         "AverageNetPaid":  2.1500000000000004,
         "Stock":  2,
-        "Date":  "\/Date(1418032820725)\/"
+        "Date":  "\/Date(1418637628017)\/"
     },
     {
         "Title":  "CHEW",
@@ -1069,7 +1069,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1418032820785)\/"
+        "Date":  "\/Date(1418637628076)\/"
     },
     {
         "Title":  "CHEW",
@@ -1085,7 +1085,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032820825)\/"
+        "Date":  "\/Date(1418637628113)\/"
     },
     {
         "Title":  "CHEW",
@@ -1101,7 +1101,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032820855)\/"
+        "Date":  "\/Date(1418637628149)\/"
     },
     {
         "Title":  "CHEW",
@@ -1117,103 +1117,103 @@
         "AveragePaid":  6.8900000000000006,
         "AverageNetPaid":  6.8900000000000006,
         "Stock":  2,
-        "Date":  "\/Date(1418032820935)\/"
+        "Date":  "\/Date(1418637628219)\/"
     },
     {
         "Title":  "CHEW",
         "Issue":  "4B",
         "Cover":  4,
-        "TotalCost":  "3.70",
-        "Mean":  3.7,
-        "AveragePrice":  2.2,
-        "CurrentPrice":  2.2,
+        "TotalCost":  "4.17",
+        "Mean":  4.166666666666667,
+        "AveragePrice":  2.6666666666666665,
+        "CurrentPrice":  2.6666666666666665,
         "Minimum":  2.1,
-        "Maximum":  2.3,
-        "Count":  2,
+        "Maximum":  3.6,
+        "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032820965)\/"
+        "Date":  "\/Date(1418637628257)\/"
     },
     {
         "Title":  "CHEW",
         "Issue":  "5A",
         "Cover":  5,
-        "TotalCost":  "8.46",
-        "Mean":  8.455,
-        "AveragePrice":  7.4808333333333321,
-        "CurrentPrice":  7.8400000000000007,
-        "Minimum":  2.1,
+        "TotalCost":  "8.01",
+        "Mean":  8.0123076923076919,
+        "AveragePrice":  6.9976923076923061,
+        "CurrentPrice":  7.24,
+        "Minimum":  1.2,
         "Maximum":  14.95,
-        "Count":  12,
+        "Count":  13,
         "AveragePaid":  7.87,
         "AverageNetPaid":  7.87,
         "Stock":  1,
-        "Date":  "\/Date(1418032821035)\/"
+        "Date":  "\/Date(1418637628322)\/"
     },
     {
         "Title":  "CHEW",
         "Issue":  "6",
         "Cover":  6,
-        "TotalCost":  "9.53",
-        "Mean":  9.525,
-        "AveragePrice":  8.275,
-        "CurrentPrice":  8.275,
+        "TotalCost":  "8.92",
+        "Mean":  8.92,
+        "AveragePrice":  7.62,
+        "CurrentPrice":  7.62,
         "Minimum":  2.1,
         "Maximum":  21.5,
-        "Count":  4,
+        "Count":  5,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1418032821075)\/"
+        "Date":  "\/Date(1418637628366)\/"
     },
     {
         "Title":  "CHEW",
         "Issue":  "7",
         "Cover":  7,
-        "TotalCost":  "9.79",
-        "Mean":  9.79142857142857,
-        "AveragePrice":  8.8,
-        "CurrentPrice":  8.648,
-        "Minimum":  4.99,
+        "TotalCost":  "9.28",
+        "Mean":  9.28,
+        "AveragePrice":  8.225,
+        "CurrentPrice":  8.238,
+        "Minimum":  4.2,
         "Maximum":  21.5,
-        "Count":  7,
+        "Count":  8,
         "AveragePaid":  10.11,
         "AverageNetPaid":  10.11,
         "Stock":  1,
-        "Date":  "\/Date(1418032821125)\/"
+        "Date":  "\/Date(1418637628417)\/"
     },
     {
         "Title":  "CHEW",
         "Issue":  "8",
         "Cover":  8,
-        "TotalCost":  "7.65",
-        "Mean":  7.6471428571428577,
-        "AveragePrice":  7.0485714285714289,
-        "CurrentPrice":  7.19,
+        "TotalCost":  "7.94",
+        "Mean":  7.94125,
+        "AveragePrice":  7.23,
+        "CurrentPrice":  6.7900000000000009,
         "Minimum":  2.2,
         "Maximum":  11,
-        "Count":  7,
+        "Count":  8,
         "AveragePaid":  7.1,
         "AverageNetPaid":  7.1,
         "Stock":  1,
-        "Date":  "\/Date(1418032821175)\/"
+        "Date":  "\/Date(1418637628470)\/"
     },
     {
         "Title":  "CHEW",
         "Issue":  "9",
         "Cover":  9,
-        "TotalCost":  "5.34",
-        "Mean":  5.3370000000000006,
-        "AveragePrice":  3.9370000000000003,
-        "CurrentPrice":  2.678,
+        "TotalCost":  "5.41",
+        "Mean":  5.4063636363636371,
+        "AveragePrice":  3.997272727272728,
+        "CurrentPrice":  2.998,
         "Minimum":  0.99,
         "Maximum":  8.26,
-        "Count":  10,
+        "Count":  11,
         "AveragePaid":  5.87,
         "AverageNetPaid":  5.87,
         "Stock":  2,
-        "Date":  "\/Date(1418032821235)\/"
+        "Date":  "\/Date(1418637628529)\/"
     },
     {
         "Title":  "CHEW",
@@ -1229,7 +1229,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032821265)\/"
+        "Date":  "\/Date(1418637628563)\/"
     },
     {
         "Title":  "CHEW",
@@ -1245,7 +1245,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032821295)\/"
+        "Date":  "\/Date(1418637628595)\/"
     },
     {
         "Title":  "CHEW",
@@ -1261,7 +1261,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032821325)\/"
+        "Date":  "\/Date(1418637628628)\/"
     },
     {
         "Title":  "CHEW",
@@ -1277,7 +1277,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032821365)\/"
+        "Date":  "\/Date(1418637628664)\/"
     },
     {
         "Title":  "CHEW",
@@ -1293,7 +1293,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032821395)\/"
+        "Date":  "\/Date(1418637628697)\/"
     },
     {
         "Title":  "CHEW",
@@ -1309,7 +1309,7 @@
         "AveragePaid":  3.25,
         "AverageNetPaid":  3.25,
         "Stock":  1,
-        "Date":  "\/Date(1418032821465)\/"
+        "Date":  "\/Date(1418637628763)\/"
     },
     {
         "Title":  "CHEW",
@@ -1325,23 +1325,23 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1418032821515)\/"
+        "Date":  "\/Date(1418637628807)\/"
     },
     {
         "Title":  "CHEW",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "25.16",
-        "Mean":  25.163333333333348,
-        "AveragePrice":  22.521666666666675,
-        "CurrentPrice":  26.736,
+        "TotalCost":  "25.17",
+        "Mean":  25.165238095238106,
+        "AveragePrice":  22.523571428571433,
+        "CurrentPrice":  26.752,
         "Minimum":  0.99,
         "Maximum":  165,
         "Count":  42,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032821645)\/"
+        "Date":  "\/Date(1418637628944)\/"
     },
     {
         "Title":  "CHEW",
@@ -1357,6 +1357,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032821685)\/"
+        "Date":  "\/Date(1418637628978)\/"
     }
 ]

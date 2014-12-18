@@ -20,10 +20,7 @@ function scan
 
      if ($search.Enabled)
 	 { 
-	    Write-Host "`nFinding $($search.title)" -ForegroundColor cyan
-        Write-debug "get-allrecords -title $($search.title) -include $($search.include)  -exclude $($search.exclude) -comictitle $($search.comictitle)"
 	    get-allrecords -title "$($search.title)" -include "$($search.include)"  -exclude "$($search.exclude)" -comictitle "$($search.comictitle)" -category "$($search.category)"
-        Write-debug "`r`nComplete."
 	 }
 	 Else
 	 {

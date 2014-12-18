@@ -1,41 +1,5 @@
 [
     {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/revival-20-mr-/prod_30577.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/revival-20-mr-/prod_30577.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/revival-20-mr-/prod_30577.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "REVIVAL",
-        "issue":  "20",
-        "variant":  "20 (MR)",
-        "price":  2.25,
-        "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/chew-/-revival-1-mr-/prod_35088.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/chew-/-revival-1-mr-/prod_35088.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/chew-/-revival-1-mr-/prod_35088.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "REVIVAL",
-        "issue":  "1",
-        "variant":  "1 (MR)",
-        "price":  3.25,
-        "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/revival-21-mr-/prod_45955.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/revival-21-mr-/prod_45955.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/revival-21-mr-/prod_45955.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "REVIVAL",
-        "issue":  "21",
-        "variant":  "21 (MR)",
-        "price":  2.00,
-        "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
         "link":  "http://www.disposableheroes.co.uk/back-issues/other-publishers/df-chew-revival-1-seeley-sgn-c-0-1-2-/prod_46446.html",
         "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/other-publishers/df-chew-revival-1-seeley-sgn-c-0-1-2-/prod_46446.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/other-publishers/df-chew-revival-1-seeley-sgn-c-0-1-2-/prod_46446.html\u003c/a\u003e",
         "orderdate":  null,
@@ -44,19 +8,7 @@
         "variant":  "1 SEELEY SGN (C: 0-1-2)",
         "price":  14.24,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/revival-22-mr-/prod_48846.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/revival-22-mr-/prod_48846.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/revival-22-mr-/prod_48846.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "REVIVAL",
-        "issue":  "22",
-        "variant":  "22 (MR)",
-        "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,19 +20,7 @@
         "variant":  "23 (MR)",
         "price":  2.05,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/image-firsts-revival-curr-ptg-1-o/a-/prod_60969.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/image-firsts-revival-curr-ptg-1-o/a-/prod_60969.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/image-firsts-revival-curr-ptg-1-o/a-/prod_60969.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "REVIVAL",
-        "issue":  "1",
-        "variant":  "1 (O/A)",
-        "price":  1.45,
-        "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +32,7 @@
         "variant":  "10 2013",
         "price":  1.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +44,7 @@
         "variant":  "19 (MR) DHC",
         "price":  1.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +56,7 @@
         "variant":  "REVIVAL TP 01 YOU\u0027RE AMONG FRIENDS (OCT120493) (RT) DHC",
         "price":  9.39,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,7 +68,7 @@
         "variant":  "24 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -140,7 +80,7 @@
         "variant":  "1 (O/A)",
         "price":  1.45,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -152,7 +92,7 @@
         "variant":  "25 CVR A FRISON (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -164,7 +104,7 @@
         "variant":  "25 25TH FRANCAVILLA COVER",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -176,19 +116,19 @@
         "variant":  "1 (O/A)",
         "price":  1.45,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/other-publishers/revival-26-mr-/prod_115907.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/other-publishers/revival-26-mr-/prod_115907.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-17/12/14/other-publishers/revival-26-mr-/prod_115907.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-24/12/14/other-publishers/revival-26-mr-/prod_115907.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-24/12/14/other-publishers/revival-26-mr-/prod_115907.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-24/12/14/other-publishers/revival-26-mr-/prod_115907.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "REVIVAL",
         "issue":  "26",
         "variant":  "26 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -200,7 +140,7 @@
         "variant":  "27 (MR)",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -212,7 +152,7 @@
         "variant":  "1",
         "price":  1.45,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -224,7 +164,7 @@
         "variant":  "28 (MR)",
         "price":  2.70,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -236,8 +176,296 @@
         "variant":  "28 (MR)",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:25:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec140754.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec140754.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec140754.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "28",
+        "variant":  "28",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov140674.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov140674.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov140674.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "27",
+        "variant":  "27",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct140759.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140759.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140759.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "26",
+        "variant":  "26",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep140745.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep140745.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep140745.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "25",
+        "variant":  "25 CVR A FRISON",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug140671.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140671.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140671.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "24",
+        "variant":  "24",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun140567.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140567.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140567.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "23",
+        "variant":  "23",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/may140723.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may140723.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may140723.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "22",
+        "variant":  "22",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/apr140589.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/apr140589.html\"\u003ehttp://www.closeencounters.co.uk/index.php/apr140589.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "21",
+        "variant":  "21",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/mar140497.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/mar140497.html\"\u003ehttp://www.closeencounters.co.uk/index.php/mar140497.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "CHEW",
+        "variant":  "CHEW / 1",
+        "price":  3.50,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb140625.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb140625.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb140625.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "20",
+        "variant":  "20",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan140612.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan140612.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan140612.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "19",
+        "variant":  "19",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec130589.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec130589.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec130589.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "18",
+        "variant":  "18",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov130518.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov130518.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov130518.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "17",
+        "variant":  "17",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct130617.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct130617.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct130617.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "#16",
+        "variant":  "#16 FIRST PRINT",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep130632.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep130632.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep130632.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "#15",
+        "variant":  "#15 FIRST PRINT",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun130557.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun130557.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun130557.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "13",
+        "variant":  "13",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/apr130568.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/apr130568.html\"\u003ehttp://www.closeencounters.co.uk/index.php/apr130568.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "11",
+        "variant":  "11",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/mar130587.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/mar130587.html\"\u003ehttp://www.closeencounters.co.uk/index.php/mar130587.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "10",
+        "variant":  "10",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb130460.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb130460.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb130460.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "9",
+        "variant":  "9",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan130604.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan130604.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan130604.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "8",
+        "variant":  "8",
+        "price":  2.35,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec120584.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec120584.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec120584.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov120470.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov120470.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov120470.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "6",
+        "variant":  "6",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep120519-53739.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep120519-53739.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep120519-53739.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "5",
+        "variant":  "5 SECOND PRINT",
+        "price":  2.99,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul120515-51229.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul120515-51229.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul120515-51229.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "REVIVAL",
+        "issue":  "3",
+        "variant":  "3 SECOND PRINT",
+        "price":  2.35,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:17:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
     },
     {
         "link":  "https://forbiddenplanet.com/132415-revival-28/",
@@ -247,7 +475,7 @@
         "issue":  "28",
         "variant":  "28",
         "price":  "2.65",
-        "rundate":  "Mon Dec 08 2014 10:26:23 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -258,7 +486,7 @@
         "issue":  "27",
         "variant":  "27",
         "price":  "2.65",
-        "rundate":  "Mon Dec 08 2014 10:26:23 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -269,7 +497,7 @@
         "issue":  "26",
         "variant":  "26",
         "price":  "1.95",
-        "rundate":  "Mon Dec 08 2014 10:26:23 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -280,7 +508,7 @@
         "issue":  "25 ",
         "variant":  "Cover A Jenny Frison",
         "price":  "1.95",
-        "rundate":  "Mon Dec 08 2014 10:26:23 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -291,7 +519,7 @@
         "issue":  "Ultimate Spider-Man: Volume 1: Revival",
         "variant":  "Ultimate Spider-Man: Volume 1: Revival",
         "price":  "9.32",
-        "rundate":  "Mon Dec 08 2014 10:26:23 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -302,7 +530,7 @@
         "issue":  "5 ",
         "variant":  "Phantom Variant",
         "price":  "3.99",
-        "rundate":  "Mon Dec 08 2014 10:26:23 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -313,7 +541,7 @@
         "issue":  "10 ",
         "variant":  "Phantom Variant",
         "price":  "3.99",
-        "rundate":  "Mon Dec 08 2014 10:26:23 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -324,7 +552,7 @@
         "issue":  "7 ",
         "variant":  "Phantom Variant",
         "price":  "3.99",
-        "rundate":  "Mon Dec 08 2014 10:26:23 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -336,7 +564,7 @@
         "variant":  "1",
         "price":  1.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:19 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -348,7 +576,7 @@
         "variant":  "1 (3RD PRINT)",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:19 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -360,7 +588,7 @@
         "variant":  "1 (4TH PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:19 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -372,7 +600,7 @@
         "variant":  "10",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:19 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -384,7 +612,7 @@
         "variant":  "12",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:19 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -396,7 +624,7 @@
         "variant":  "13",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:19 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -408,7 +636,7 @@
         "variant":  "15",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:19 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -420,7 +648,7 @@
         "variant":  "16",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:19 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -432,7 +660,7 @@
         "variant":  "17",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:19 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -444,7 +672,7 @@
         "variant":  "18",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:19 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -456,7 +684,7 @@
         "variant":  "19",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:19 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -468,7 +696,7 @@
         "variant":  "20",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:19 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -480,7 +708,7 @@
         "variant":  "8",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:19 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -492,7 +720,7 @@
         "variant":  "9",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:19 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -504,7 +732,7 @@
         "variant":  "REVIVAL #STANDING ORDER",
         "price":  0.00,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:24 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -516,7 +744,7 @@
         "variant":  "DEC140754 REVIVAL #28 (MR)",
         "price":  3.20,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:24 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -528,7 +756,7 @@
         "variant":  "NOV140674 REVIVAL #27 (MR)",
         "price":  3.20,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:24 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -540,7 +768,7 @@
         "variant":  "OCT140759 REVIVAL #26 (MR)",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:24 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -552,31 +780,7 @@
         "variant":  "REVIVAL #21 (MR) [(W) Tim Seeley (A) Mike Norton (CA) Jenny Frison]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:32 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=80880\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=80880\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=80880\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "REVIVAL",
-        "issue":  "23",
-        "variant":  "REVIVAL #23 (MR) [(W) Tim Seeley (A) Mike Norton (CA) Jenny Frison]",
-        "price":  2.40,
-        "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:32 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83422\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83422\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=83422\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "REVIVAL",
-        "issue":  "24",
-        "variant":  "REVIVAL #24 (MR) [(W) Tim Seeley (A) Mike Norton (CA) Jenny Frison]",
-        "price":  2.40,
-        "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:26:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:17:24 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

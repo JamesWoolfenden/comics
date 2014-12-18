@@ -8,7 +8,7 @@
         "variant":  "5 CVR A QUITELY (MR)",
         "price":  1.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:14:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "5 CVR B HITCH (MR)",
         "price":  2.15,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:14:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "5 CVR C FEGREDO (MR)",
         "price":  2.05,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:14:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "5 CVR A QUITELY (RES) (MR)",
         "price":  3.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:14:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "5 CVR B HITCH (RES) (MR)",
         "price":  3.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:14:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "5 CVR C FEGREDO (RES) (MR)",
         "price":  3.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:14:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "1 MIDTOWN EXC CVR ( 2013 DHC",
         "price":  21.28,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:14:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "3 (MR) 2013 DHC",
         "price":  1.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:14:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "3 CVR B HITCH (MR) 2013 DHC",
         "price":  1.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:14:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,8 +116,176 @@
         "variant":  "4 CVR A QUIETLY (MR) DHC",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:14:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul140552.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140552.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140552.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "5",
+        "variant":  "5 COVER A QUITELY",
+        "price":  3.50,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:10:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan140596.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan140596.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan140596.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "5",
+        "variant":  "5 COVER A QUITELY",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:10:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct130474.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct130474.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct130474.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "STUDIO",
+        "variant":  "STUDIO ED 1",
+        "price":  3.50,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:10:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct130474z.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct130474z.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct130474z.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "JUPITER\u0027S",
+        "variant":  "JUPITER\u0027S LEGACY 1 STUDIO EDITION",
+        "price":  3.99,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:10:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug130700.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug130700.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug130700.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "4",
+        "variant":  "4 COVER B HITCH",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:10:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug130699.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug130699.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug130699.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "4",
+        "variant":  "4 COVER A QUIETLY FIRST PRINT",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:10:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun130547b.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun130547b.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun130547b.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "3",
+        "variant":  "3 BRYAN HITCH VARIANT",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:10:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun130547.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun130547.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun130547.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "3",
+        "variant":  "3 SEAN PHILLIPS VARIANT",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:10:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb130382.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb130382.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb130382.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "JUPITER\u0027S",
+        "variant":  "JUPITER\u0027S LEGACY 1 COVER D NOTO FIRST PRINT",
+        "price":  1.99,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:10:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb130379.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb130379.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb130379.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "1",
+        "variant":  "1 COVER A QUITELY FIRST PRINT",
+        "price":  2.99,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:10:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb130381.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb130381.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb130381.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "JUPITER\u0027S",
+        "variant":  "JUPITER\u0027S LEGACY 1 COVER C JOHNSON FIRST PRINT",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:10:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb130380.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb130380.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb130380.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "1",
+        "variant":  "1 COVER B HITCH",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:10:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb130379-52455.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb130379-52455.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb130379-52455.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "1",
+        "variant":  "1 BLANK VARIANT",
+        "price":  3.99,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:10:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb130383.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb130383.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb130383.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "1",
+        "variant":  "1 QUITELY SKETCH VARIANT 1:25",
+        "price":  9.99,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:10:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
     },
     {
         "link":  "https://forbiddenplanet.com/106318-jupiters-legacy-4-cover-a-quietly/",
@@ -127,7 +295,7 @@
         "issue":  "4 ",
         "variant":  "Cover A Quietly",
         "price":  "1.95",
-        "rundate":  "Mon Dec 08 2014 10:15:10 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:39 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -139,7 +307,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:15:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:43 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -151,7 +319,7 @@
         "variant":  "1 (COVER A)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:15:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:43 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -163,7 +331,7 @@
         "variant":  "1 (COVER B)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:15:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:43 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -175,7 +343,7 @@
         "variant":  "1 (COVER C)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:15:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:43 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -187,7 +355,7 @@
         "variant":  "1 (COVER D)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:15:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:43 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -199,7 +367,7 @@
         "variant":  "2 (COVER A)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:15:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:43 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -211,7 +379,7 @@
         "variant":  "2 (COVER B)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:15:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:43 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -223,7 +391,7 @@
         "variant":  "2 (COVER C)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:15:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:43 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -235,7 +403,7 @@
         "variant":  "4 (COVER B)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:15:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:10:43 GMT+0000 (UTC)",
         "site":  "Reed"
     }
 ]

@@ -8,7 +8,7 @@
         "variant":  "1",
         "price":  3.15,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:22:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:15:24 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "9 (MR)",
         "price":  2.60,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:22:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:15:24 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "10 (MR) 2013 DHC",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:22:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:15:24 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "11 (MR) 2013 DHC",
         "price":  2.70,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:22:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:15:24 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "12 DHC",
         "price":  2.65,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:22:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:15:24 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "7 (MR) 2013 DHC",
         "price":  2.65,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:22:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:15:24 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,8 +80,200 @@
         "variant":  "8 (MR) 2013 DHC",
         "price":  2.60,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:22:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:15:24 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan140545.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan140545.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan140545.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "FUN",
+        "variant":  "FUN WITH PTSD 1",
+        "price":  3.50,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct130627.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct130627.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct130627.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "12",
+        "variant":  "12",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep130643.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep130643.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep130643.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "11",
+        "variant":  "11",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul130548.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul130548.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul130548.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "10",
+        "variant":  "10",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun130567.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun130567.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun130567.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "9",
+        "variant":  "9",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb130470.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb130470.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb130470.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "8",
+        "variant":  "8",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan130613.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan130613.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan130613.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec120590.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec120590.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec120590.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "6",
+        "variant":  "6",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov120474.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov120474.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov120474.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "MILITARY",
+        "variant":  "MILITARY DOSSIER 1",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov120584.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov120584.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov120584.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "5",
+        "variant":  "5",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep120523.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep120523.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep120523.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "4",
+        "variant":  "4",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug120533.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug120533.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug120533.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "3",
+        "variant":  "3",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul120520.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul120520.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul120520.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "2",
+        "variant":  "2",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun120437.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun120437.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun120437.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "1",
+        "variant":  "1 SIGNED ED",
+        "price":  7.50,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun120435.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun120435.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun120435.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "1",
+        "variant":  "1 CVR A EKEDAL \u0026 REBER",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun120436.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun120436.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun120436.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THINK TANK",
+        "issue":  "1",
+        "variant":  "1 CVR B 10 COPY HUTOMO",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:15:29 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
     },
     {
         "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=59584\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
@@ -92,7 +284,7 @@
         "variant":  "THINK TANK",
         "price":  10.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:23:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:15:53 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

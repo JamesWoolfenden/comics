@@ -1,5 +1,101 @@
 [
     {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec140772.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec140772.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec140772.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WICKED DIVINE",
+        "issue":  "WICKED",
+        "variant":  "WICKED \u0026 DIVINE 8",
+        "price":  2.50,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:23:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov140697.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov140697.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov140697.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WICKED DIVINE",
+        "issue":  "WICKED",
+        "variant":  "WICKED \u0026 DIVINE 7",
+        "price":  2.50,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:23:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct140611.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140611.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140611.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WICKED DIVINE",
+        "issue":  "WICKED",
+        "variant":  "WICKED \u0026 DIVINE 6",
+        "price":  2.50,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:23:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct140700.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140700.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140700.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WICKED DIVINE",
+        "issue":  "IMAGE",
+        "variant":  "IMAGE FIRSTS WICKED \u0026 DIVINE 1",
+        "price":  0.75,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:23:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug140694.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140694.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140694.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WICKED DIVINE",
+        "issue":  "WICKED",
+        "variant":  "WICKED \u0026 DIVINE 5",
+        "price":  2.50,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:23:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul140590.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140590.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140590.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WICKED DIVINE",
+        "issue":  "WICKED",
+        "variant":  "WICKED \u0026 DIVINE 4",
+        "price":  2.50,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:23:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun140587.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140587.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140587.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WICKED DIVINE",
+        "issue":  "WICKED",
+        "variant":  "WICKED \u0026 DIVINE 3",
+        "price":  2.50,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:23:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/apr140486.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/apr140486.html\"\u003ehttp://www.closeencounters.co.uk/index.php/apr140486.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WICKED DIVINE",
+        "issue":  "THE",
+        "variant":  "THE WICKED + THE DIVINE 1 FIRST PRINT",
+        "price":  3.99,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:23:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
         "link":  "https://forbiddenplanet.com/132433-the-wicked-the-divine-8/",
         "url":  "\u003ca href=\"https://forbiddenplanet.com/132433-the-wicked-the-divine-8/\"\u003ehttps://forbiddenplanet.com/132433-the-wicked-the-divine-8/\u003c/a\u003e",
         "orderdate":  "25th February, 2015",
@@ -7,7 +103,7 @@
         "issue":  "8",
         "variant":  "8",
         "price":  "2.40",
-        "rundate":  "Mon Dec 08 2014 10:37:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -18,7 +114,7 @@
         "issue":  "7",
         "variant":  "7",
         "price":  "2.40",
-        "rundate":  "Mon Dec 08 2014 10:37:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -29,7 +125,7 @@
         "issue":  "6",
         "variant":  "6",
         "price":  "2.40",
-        "rundate":  "Mon Dec 08 2014 10:37:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -40,7 +136,7 @@
         "issue":  "1",
         "variant":  "1",
         "price":  "0.65",
-        "rundate":  "Mon Dec 08 2014 10:37:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -51,7 +147,7 @@
         "issue":  "5",
         "variant":  "5",
         "price":  "2.40",
-        "rundate":  "Mon Dec 08 2014 10:37:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -62,18 +158,7 @@
         "issue":  "2 ",
         "variant":  "CCI SDCC 2014 Variant",
         "price":  "7.99",
-        "rundate":  "Mon Dec 08 2014 10:37:51 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/122293-the-wicked-the-divine-3/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/122293-the-wicked-the-divine-3/\"\u003ehttps://forbiddenplanet.com/122293-the-wicked-the-divine-3/\u003c/a\u003e",
-        "orderdate":  "",
-        "title":  "WICKED DIVINE",
-        "issue":  "3",
-        "variant":  "3",
-        "price":  "2.40",
-        "rundate":  "Mon Dec 08 2014 10:37:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -84,7 +169,18 @@
         "issue":  "3 ",
         "variant":  "Cover B Hans",
         "price":  "2.40",
-        "rundate":  "Mon Dec 08 2014 10:37:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:14 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/122293-the-wicked-the-divine-3/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/122293-the-wicked-the-divine-3/\"\u003ehttps://forbiddenplanet.com/122293-the-wicked-the-divine-3/\u003c/a\u003e",
+        "orderdate":  "",
+        "title":  "WICKED DIVINE",
+        "issue":  "3",
+        "variant":  "3",
+        "price":  "2.40",
+        "rundate":  "Mon Dec 15 2014 10:23:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -95,7 +191,7 @@
         "issue":  "1 ",
         "variant":  "Forbidden Planet Variant",
         "price":  "3.99",
-        "rundate":  "Mon Dec 08 2014 10:37:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -107,7 +203,7 @@
         "variant":  "1 (1ST PRINT - COVER C)",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:37:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:17 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -119,7 +215,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:37:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:17 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -131,7 +227,7 @@
         "variant":  "1 *HOT BOOK*",
         "price":  5.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:37:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:17 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -143,7 +239,7 @@
         "variant":  "4",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:37:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:17 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -155,7 +251,7 @@
         "variant":  "5",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:37:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:17 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -167,7 +263,7 @@
         "variant":  "WICKED \u0026 DIVINE #STANDING ORDER",
         "price":  0.00,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:38:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:23 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -179,7 +275,7 @@
         "variant":  "DEC140772 WICKED \u0026 DIVINE #8 (MR)",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:38:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:23 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -191,7 +287,7 @@
         "variant":  "IMAGE FIRSTS WICKED \u0026 DIVINE #1 (MR) []",
         "price":  0.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:38:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:23 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -203,19 +299,7 @@
         "variant":  "NOV140697 WICKED \u0026 DIVINE #7 (MR)",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:38:00 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87339\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87339\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87339\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "WICKED DIVINE",
-        "issue":  "6",
-        "variant":  "OCT140611 WICKED \u0026 DIVINE #6 (MR)",
-        "price":  2.80,
-        "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:38:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:23 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -227,7 +311,7 @@
         "variant":  "OCT140700 IMAGE FIRSTS WICKED \u0026 DIVINE #1 (MR)",
         "price":  0.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:38:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:23 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -239,7 +323,7 @@
         "variant":  "WICKED \u0026 DIVINE #1 2ND PTG (MR) [(W) Kieron Gillen (A) Jamie McKelvie, Matthew Wilson (CA) Matthew Wilson, Jamie McKelvie]",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:38:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:23 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -251,7 +335,7 @@
         "variant":  "WICKED \u0026 DIVINE #3 (MR) [(W) Kieron Gillen (A) Jamie McKelvie, Matthew Wilson (CA) Matthew Wilson, Jamie McKelvie]",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:38:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:23 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -263,7 +347,7 @@
         "variant":  "WICKED \u0026 DIVINE #4 (MR) [(W) Kieron Gillen (A) Jamie McKelvie, Matthew Wilson (CA) Matthew Wilson, Jamie McKelvie]",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:38:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:23 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -275,7 +359,19 @@
         "variant":  "WICKED \u0026 DIVINE #5 (MR) [(W) Kieron Gillen (A) Jamie McKelvie, Matthew Wilson (CA) Matthew Wilson, Jamie McKelvie]",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 08 2014 10:38:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 15 2014 10:23:23 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87339\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87339\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87339\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WICKED DIVINE",
+        "issue":  "6",
+        "variant":  "WICKED \u0026 DIVINE #6 (MR) [(W) Kieron Gillen (A) Jamie McKelvie, Matthew Wilson (CA) Matthew Wilson, Jamie McKelvie]",
+        "price":  2.80,
+        "currency":  "?",
+        "rundate":  "Mon Dec 15 2014 10:23:23 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

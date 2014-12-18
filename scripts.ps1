@@ -9,7 +9,6 @@ else
    $root=split-path -parent -Path $corescript
 }
 
-$dbfile="$root\data.XML"
 $imageroot= "$root\covers"
 
 import-module "$root\rss\EbayRssPowershellModule.psm1" -force
@@ -23,12 +22,6 @@ import-module "$root\search-data.ps1"
 import-module "$root\review.ps1"
 
 
-function read-db
-{
-   [xml]$comics= Get-Content $dbfile
-   $comics
-}
-
 function waitforpageload {
     while ($ie.Busy -eq $true) { Start-Sleep -Milliseconds 1000; } 
 }
@@ -37,35 +30,31 @@ function findDiv {param ($name)
     $ie.Document.getElementsByTagName("div") | where-object {$_.id -and $_.id.EndsWith($name)}
 }
 
-function new-xmlfile ()
+function stat
 {
-   param ([string]$filename)
-
-   $doc = new-object xml
-   $decl = $doc.CreateXmlDeclaration("1.0", $null, $null)
-   $rootNode = $doc.CreateElement("root");
-   $doc.InsertBefore($decl, $doc.DocumentElement)
-   $doc.AppendChild($rootNode);
-   $doc.Save($filename)
-   write-warning "Created new db file $filename"
-}
-
-function stat()
-{
-   param([string]$title,
-   [string]$Issue)
+   param(
+   [string]$title,
+   [string]$Issue,
+   [switch]$nogrid)
     
+   $querystring="where Title = '$title'"
+   
    if ($Issue)
    {
-      query-db "where Title = '$title' And Issue ='$Issue'" 
+      $querystring+=" And Issue ='$Issue'" 
+   }
+   
+   if ($nogrid)
+   {      
+      query-db "$querystring" 
    }
    else
    {
-      query-db "where Title = '$title' order by issue" 
+      query-db "$querystring"|ogv 
    }
 }
 
-function add-array()
+function add-array
 {
    param(
    [Parameter(Mandatory=$true)]
@@ -77,7 +66,7 @@ function add-array()
    $status)
          
    #first lets read in all existing related items
-   $test=read-db
+   #$test=read-db
    
    $list=query-db "Where Ebayitem != NULL"|select -property Ebayitem
    $Ebayitems=$list|foreach {"$($_.EbayItem)"}
@@ -140,82 +129,13 @@ function add-array()
    }   
 }
 
-function verify()
+function verify
 {
-   param([string]$title,[string]$Issue)
-   query-db "where title='$title' and issue='$issue' and status='open'"
-}
-
-function update()
-{
-   param( 
-   [Parameter(Mandatory=$true)]
-   [string]$ebayitem,
-   [string]$UpdateValue,
-   [string]$price,
-   [string]$postage,  
+   param(
    [string]$title,
-   [string]$status="VERIFIED",
-   [string]$bought,
-   [string]$quantity,
-   [string]$seller
-   )
+   [string]$Issue)
    
-   # if loading the XML from file then do this
-   $doc = New-Object System.Xml.XmlDocument
-   $doc.Load($dbfile)
-
-   $selectstring="//Comic[@EbayItem = '$ebayitem']"
-   $comic = $doc.SelectSingleNode("$selectstring")
-   
-   if ($UpdateValue -eq $NULL -or $UpdateValue -eq "" )
-   {
-      $comic.Issue = $comic.Issue
-   }
-   else
-   {
-      $comic.Issue = $UpdateValue
-   }
-   
-   if ($title)
-   {
-      $comic.title=$title
-   }
-   
-   if ($price)
-   {
-      $comic.price=$price
-   }
-   
-   if ($postage)
-   {
-      $comic.postage=$postage
-   }
-   
-   if ($bought)
-   {
-      $comic.bought=$bought
-   }
-   
-   if ($quantity)
-   {
-      $comic.quantity=$quantity
-   }
-   
-   if ($seller)
-   {
-      $comic.seller=$seller
-   }
-   
-   if (($comic.Status -eq "Open") -or ($comic.Status -eq "Verified"))
-   {
-      [string]$modified=(Get-Date).ToString() 
-      $comic.DateOfSale = $modified
-   }
-   
-   $comic.Status = $status
-
-   $doc.Save($dbfile)
+   query-db "where title='$title' and issue='$issue' and status='open'"
 }
 
 function view
@@ -353,13 +273,13 @@ function update-recordset
    }
 }
 
-function Finalize-Records()
+function Finalize-Records
 {
    Param(
-        [Parameter(Mandatory=$true)]
-        [string]$title,
-        [Parameter(Mandatory=$true)]
-        [string]$Issue)
+   [Parameter(Mandatory=$true)]
+   [string]$title,
+   [Parameter(Mandatory=$true)]
+   [string]$Issue)
    
    
    $results=query-db "where title='$title' and issue='$issue' and status = 'verified'"
@@ -383,7 +303,7 @@ function Finalize-Records()
    }
 }
 
-function update-open()
+function update-open
 {
    param([string]$title=$NULL)
       
@@ -429,7 +349,7 @@ function update-open()
    }
 }
 
-function clean-string()
+function clean-string
 {
    param([string]$dirty)
    
@@ -437,7 +357,7 @@ function clean-string()
    $clean.substring(0, [System.Math]::Min(250, $clean.Length))
 }
 
-function get-ebidresults()
+function get-ebidresults
 {
    param([string]$url)
    
@@ -474,7 +394,7 @@ function add-ebid
    $ebiditem,
    [string]$comic,
    [int]$issue,
-   [string]$seller=""
+   [string]$seller=$null
    )
    
    if ($ebiditem.price -ne $null)
@@ -542,8 +462,8 @@ function get-records
    param(
    [Parameter(Mandatory=$true)]
    [string]$title,
-   [string]$exclude="",
-   [string]$include="",
+   [string]$exclude=$null,
+   [string]$include=$null,
    [string]$comictitle=$title,
    [Boolean]$enabled=$true)
    
@@ -689,13 +609,18 @@ function closing-record
    Param(
    [Parameter(Mandatory=$true)]
    [string]$title,
+   [Parameter(Mandatory=$true)]
    [string]$Issue)
    
    update-recordset -title $title -Issue $Issue -sortby DateOfSale
 }
 
-function reduce($array, $size)
+function reduce
 {
+   param(
+   $array, 
+   $size)
+
    if ($array.count -gt $size)
    {
       $trimmedarray=new-object "$($array.GetType())" $size
@@ -714,30 +639,31 @@ function reduce($array, $size)
    }
 }
 
-function get-ebidrecords()
+function get-ebidrecords
 {
-   param(
-   [Parameter(Mandatory=$true)]
-   $title,
-   $include,
-   $exclude,
-   $comictitle=$title,
-   $category)
-   
-    <#
+   <#
       .SYNOPSIS 
        Rereiving and adding new records from ebid site
 	    
       .EXAMPLE
       C:\PS> get-ebidrecords -title "THE WALKING DEAD"
       This lists all the open records marked watch
-   #>
-
+   #> 
+   
+   param(
+   [Parameter(Mandatory=$true)]
+   [string]$title,
+   [string]$include=$null,
+   [string]$exclude=$null,
+   [string]$comictitle=$title,
+   [string]$category)
+     
    $title=$title.replace(" ","%20")
    
    [string]$stringexclude=$null
-
-   if ($exclude -ne $NULL)
+   [string]$stringinclude=$null
+   
+   if ($exclude)
    {
       $excludearray =$exclude.split(" ")
       $excludearray =$excludearray| Foreach-Object{ "%20-$_" }
@@ -747,18 +673,18 @@ function get-ebidrecords()
       }
    }
    
-   if ($include -ne $NULL)
+   if ($include)
+   {
+      $includearray =$include.split(" ")
+      $includearray =$includearray| Foreach-Object{ "%20$_" }
+      foreach ($item in $includearray)
       {
-         $includearray =$include.split(" ")
-         $includearray =$includearray| Foreach-Object{ "%20$_" }
-         foreach ($item in $includearray)
-         {
-            $stringinclude=$stringinclude+$item
-         }
+         $stringinclude=$stringinclude+$item
       }
-      else
-      {
-         $stringinclude=$NULL
+   }
+   else
+   {
+      $stringinclude=$NULL
    }  
    
    $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=$category&categoryid=$category&categoryonly=on&mo=search&type=keyword"
@@ -778,8 +704,17 @@ function get-ebidrecords()
    add-ebidarray -results $ebidresults -title $comictitle
 }
 
-function get-allrecords()
+function get-allrecords
 {
+   <#
+      .SYNOPSIS 
+       Retrieves records from ebay and ebid
+	    
+      .EXAMPLE
+      C:\PS> get-allrecords -title "THE WALKING DEAD" -exclude "Magazine"
+      
+   #>
+
    param(
    [Parameter(Mandatory=$true)]
    [string]$title,
@@ -788,49 +723,11 @@ function get-allrecords()
    [string]$comictitle=$title,
    [string]$category="8077")
    
+   Write-Host "`nFinding $($search.title)" -ForegroundColor cyan
+    
    get-ebidrecords -title "$title" -exclude "$exclude" -comictitle $comictitle -category $category
-   write-debug "get-records -title $title -include $include -exclude $exclude -comictitle $comictitle"
-   get-records -title "$title" -include $include -exclude "$exclude" -comictitle $comictitle
-}
-
-function update-number()
-{
-   Param(
-   [string]$Issue,
-   [string]$title)
-   
-   $test=read-db
-   $results=$test.root.comic| where-object {$_.title -eq $title -And $_.Issue -eq $Issue -And $_.EbayItem -ne $NULL}
-   $results=$results| where-object{$_.EbayItem -ne ""}
-   $count=1
-
-   if ($results -eq "" -or $results -eq $Null)
-   { 
-      return "None found."
-   }
-   else
-   {
-      if ($results.count)
-      {
-         $count=$results.count
-      }    
-   }
-      
-   try
-   {
-      $index=1
-      foreach($record in $results)
-      {
-         write-host "Record $index of $count"
-         update-record $record 
-         $index ++
-      }
-   }
-   catch
-   {
-    throw $_.Exception
-    exit 1
-   }
+   get-records -title "$title" -include "$include" -exclude "$exclude" -comictitle "$comictitle"
+   Write-debug "`r`nComplete."
 }
 
 new-alias gb get-bestbuy -force

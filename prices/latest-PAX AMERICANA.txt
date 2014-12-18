@@ -13,38 +13,38 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032859525)\/"
+        "Date":  "\/Date(1418637668034)\/"
     },
     {
         "Title":  "PAX AMERICANA",
         "Issue":  "1GLEASON",
         "Cover":  1,
-        "TotalCost":  "12.17",
-        "Mean":  12.165,
-        "AveragePrice":  8.995,
-        "CurrentPrice":  8.995,
-        "Minimum":  7.89,
+        "TotalCost":  "12.19",
+        "Mean":  12.190000000000001,
+        "AveragePrice":  9.02,
+        "CurrentPrice":  9.02,
+        "Minimum":  7.94,
         "Maximum":  10.1,
         "Count":  2,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032859555)\/"
+        "Date":  "\/Date(1418637668070)\/"
     },
     {
         "Title":  "PAX AMERICANA",
         "Issue":  "1JAELEE",
         "Cover":  1,
-        "TotalCost":  "7.50",
-        "Mean":  7.4966666666666661,
-        "AveragePrice":  7.4966666666666661,
-        "CurrentPrice":  7.4966666666666661,
+        "TotalCost":  "7.51",
+        "Mean":  7.5133333333333328,
+        "AveragePrice":  7.5133333333333328,
+        "CurrentPrice":  7.5133333333333328,
         "Minimum":  6.5,
         "Maximum":  8.1,
         "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032859595)\/"
+        "Date":  "\/Date(1418637668107)\/"
     }
 ]

@@ -13,7 +13,7 @@
         "AveragePaid":  2.1666666666666665,
         "AverageNetPaid":  2.1666666666666665,
         "Stock":  3,
-        "Date":  "\/Date(1418032856585)\/"
+        "Date":  "\/Date(1418637665068)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032856635)\/"
+        "Date":  "\/Date(1418637665115)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032856675)\/"
+        "Date":  "\/Date(1418637665157)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032856705)\/"
+        "Date":  "\/Date(1418637665190)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -77,23 +77,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032856745)\/"
+        "Date":  "\/Date(1418637665232)\/"
     },
     {
         "Title":  "NAILBITER",
         "Issue":  "1INFINITYCGC",
         "Cover":  1,
-        "TotalCost":  "43.87",
-        "Mean":  43.870000000000005,
-        "AveragePrice":  36.88,
-        "CurrentPrice":  36.88,
-        "Minimum":  36.88,
+        "TotalCost":  "37.43",
+        "Mean":  37.430000000000007,
+        "AveragePrice":  30.44,
+        "CurrentPrice":  30.44,
+        "Minimum":  24,
         "Maximum":  36.88,
-        "Count":  1,
+        "Count":  2,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032856785)\/"
+        "Date":  "\/Date(1418637665267)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032856825)\/"
+        "Date":  "\/Date(1418637665308)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -125,7 +125,7 @@
         "AveragePaid":  3.99,
         "AverageNetPaid":  3.99,
         "Stock":  2,
-        "Date":  "\/Date(1418032856875)\/"
+        "Date":  "\/Date(1418637665355)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -141,7 +141,7 @@
         "AveragePaid":  2.725,
         "AverageNetPaid":  2.725,
         "Stock":  2,
-        "Date":  "\/Date(1418032856955)\/"
+        "Date":  "\/Date(1418637665434)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -157,7 +157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032856995)\/"
+        "Date":  "\/Date(1418637665473)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -173,7 +173,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  2,
-        "Date":  "\/Date(1418032857045)\/"
+        "Date":  "\/Date(1418637665529)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -189,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032857085)\/"
+        "Date":  "\/Date(1418637665565)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -205,7 +205,7 @@
         "AveragePaid":  7.99,
         "AverageNetPaid":  7.99,
         "Stock":  1,
-        "Date":  "\/Date(1418032857115)\/"
+        "Date":  "\/Date(1418637665597)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -221,7 +221,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1418032857165)\/"
+        "Date":  "\/Date(1418637665649)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -237,7 +237,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  2,
-        "Date":  "\/Date(1418032857225)\/"
+        "Date":  "\/Date(1418637665703)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -253,7 +253,7 @@
         "AveragePaid":  2.165,
         "AverageNetPaid":  2.165,
         "Stock":  2,
-        "Date":  "\/Date(1418032857265)\/"
+        "Date":  "\/Date(1418637665743)\/"
     },
     {
         "Title":  "NAILBITER",
@@ -269,6 +269,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1418032857365)\/"
+        "Date":  "\/Date(1418637665841)\/"
     }
 ]
