@@ -344,7 +344,7 @@ function set-issue
       #has it split
       if ($tempstring -ne $null)
       {
-	      write-host "Before estimate tempstring $tempstring"
+	      write-debug "Before estimate tempstring $tempstring"
           $splitstring=($tempstring.Trim()).split(" ")
         
           if ($splitstring -is [system.array])

@@ -59,8 +59,6 @@ function add-searchdata
    [string]$category,
    [Boolean]$Enabled
    )
-   
-  
 
    $datafile="$root\search-data.json"
    $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
@@ -126,8 +124,18 @@ function set-searchdata
 
    if($exclude) 
    {
-     $searches[$index].Exclude=$($searches[$index].Exclude+" "+$exclude).trim()
+     $searches[$index].Exclude+=$exclude
    }
+
+   if($include) 
+   {
+     $searches[$index].Include+=$include
+   }
+
+   #$searches[$index].Exclude=($searches[$index].Exclude).split(" ")|sort -unique
+   $searches[$index].Exclude=$searches[$index].Exclude|sort -unique
+   #$searches[$index].Include=($searches[$index].Include).split(" ")|sort -unique
+   $searches[$index].Include=$searches[$index].Include|sort -unique
 
    write-debug "Index is $Index"
    $searches[$index]

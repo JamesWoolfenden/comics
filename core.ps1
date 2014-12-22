@@ -20,7 +20,7 @@ function scan
 
      if ($search.Enabled)
 	 { 
-	    get-allrecords -title "$($search.title)" -include "$($search.include)"  -exclude "$($search.exclude)" -comictitle "$($search.comictitle)" -category "$($search.category)"
+	    get-allrecords -search $search
 	 }
 	 Else
 	 {

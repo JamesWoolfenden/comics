@@ -96,6 +96,7 @@ function add-array
              else{
                 $CurrentPrice=0
              }
+
              add-record -title $title -issue $issue -price $CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
 	         -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
                  -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate -ImageSrc $set.ImageSrc -Link $set.Link
@@ -461,24 +462,33 @@ function get-records
 
    param(
    [Parameter(Mandatory=$true)]
-   [string]$title,
-   [string]$exclude=$null,
-   [string]$include=$null,
-   [string]$comictitle=$title,
-   [Boolean]$enabled=$true)
+   [PSCustomObject]$search)
    
-   if ($include -ne $NULL)
+   $include=$search.include -join ' '
+   $exclude=$search.exclude -join ' '
+
+   if ($search.comictitle)
    {
-     $keywords="$title"+" "+"$include"
+      $writetitle=$search.comictitle
    }
    else
    {
-      $keywords="$title"
+      $writetitle=$search.title
+   }
+
+   if ($search.include)
+   {
+      $keywords="$($search.title) $include"
+   }
+   else
+   {
+      $keywords=$search.title
    }
    
    #this is the sold items
    write-debug "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {`$_.BidCount -ne '0'}"
    $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold'|where {$_.BidCount -ne '0'}
+
    if ($soldresult)
    {
      $sold=1
@@ -488,7 +498,7 @@ function get-records
      }
      
      write-host "`n`tFound Sold $($sold)" -foregroundcolor cyan
-     add-array $soldresult -title "$comictitle" -issue 0 -Status Closed
+     add-array $soldresult -title $writetitle -issue 0 -Status Closed
    }
    
    # this is the closed results
@@ -497,11 +507,11 @@ function get-records
    if ($expiredresult)
    {
       write-host "`r`nExpired" -foregroundcolor cyan
-      add-array $expiredresult -title "$comictitle" -issue 0 -Status Expired
+      add-array $expiredresult -title $writetitle -issue 0 -Status Expired
    }
    
    #these 
-   if ($enabled)
+   if ($search.enabled)
    {
       $result=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'Open'
       $found=0
@@ -516,8 +526,9 @@ function get-records
          {
             $found=1
          }
+
          write-host "`n`tebay Found $($found)" -foregroundcolor cyan
-         add-array $result -title "$comictitle" -issue 0
+         add-array $result -title $writetitle -issue 0
       }
       else
       {
@@ -652,41 +663,27 @@ function get-ebidrecords
    
    param(
    [Parameter(Mandatory=$true)]
-   [string]$title,
-   [string]$include=$null,
-   [string]$exclude=$null,
-   [string]$comictitle=$title,
-   [string]$category)
+   [PSCustomObject]$search)
      
-   $title=$title.replace(" ","%20")
+   $title=$search.title.replace(" ","%20")
    
    [string]$stringexclude=$null
    [string]$stringinclude=$null
-   
-   if ($exclude)
+   [string]$category=$search.category
+
+   if ($search.exclude)
    {
-      $excludearray =$exclude.split(" ")
-      $excludearray =$excludearray| Foreach-Object{ "%20-$_" }
-      foreach ($item in $excludearray)
-      {
-         $stringexclude=$stringexclude+$item
-      }
+      $stringexclude =$search.exclude -join "%20-"
    }
    
-   if ($include)
+   if ($search.include)
    {
-      $includearray =$include.split(" ")
-      $includearray =$includearray| Foreach-Object{ "%20$_" }
-      foreach ($item in $includearray)
-      {
-         $stringinclude=$stringinclude+$item
-      }
+      $stringinclude =$search.include -join "%20-"
    }
-   else
-   {
-      $stringinclude=$NULL
-   }  
    
+   Write-debug "Exclude: $stringexclude"
+   Write-debug "Include: $stringinclude"
+
    $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=$category&categoryid=$category&categoryonly=on&mo=search&type=keyword"
 
    write-debug "Querying ebid $url"
@@ -701,7 +698,7 @@ function get-ebidrecords
       write-host "`tEbid found: 0"
    }
 
-   add-ebidarray -results $ebidresults -title $comictitle
+   add-ebidarray -results $ebidresults -title $search.title
 }
 
 function get-allrecords
@@ -717,16 +714,12 @@ function get-allrecords
 
    param(
    [Parameter(Mandatory=$true)]
-   [string]$title,
-   [string]$exclude,
-   [string]$include,
-   [string]$comictitle=$title,
-   [string]$category="8077")
+   [PSCustomObject]$search
+   )
    
-   Write-Host "`nFinding $($search.title)" -ForegroundColor cyan
-    
-   get-ebidrecords -title "$title" -exclude "$exclude" -comictitle $comictitle -category $category
-   get-records -title "$title" -include "$include" -exclude "$exclude" -comictitle "$comictitle"
+   Write-Host "`nFinding $($search.title)" -ForegroundColor cyan  
+   get-ebidrecords -search $search
+   get-records -search $search
    Write-debug "`r`nComplete."
 }
 
