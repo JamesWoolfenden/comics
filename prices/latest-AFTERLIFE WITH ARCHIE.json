@@ -1,0 +1,50 @@
+[
+    {
+        "Title":  "AFTERLIFE WITH ARCHIE",
+        "Issue":  "2A",
+        "Cover":  2,
+        "TotalCost":  "5.00",
+        "Mean":  5,
+        "AveragePrice":  3.4,
+        "CurrentPrice":  3.4,
+        "Minimum":  3.4,
+        "Maximum":  3.4,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1419242413974)\/"
+    },
+    {
+        "Title":  "AFTERLIFE WITH ARCHIE",
+        "Issue":  "6PEPOY",
+        "Cover":  6,
+        "TotalCost":  "9.40",
+        "Mean":  9.4,
+        "AveragePrice":  6.38,
+        "CurrentPrice":  6.38,
+        "Minimum":  6.38,
+        "Maximum":  6.38,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1419242414005)\/"
+    },
+    {
+        "Title":  "AFTERLIFE WITH ARCHIE",
+        "Issue":  "SET",
+        "Cover":  0,
+        "TotalCost":  "14.47",
+        "Mean":  14.473333333333334,
+        "AveragePrice":  12.573333333333332,
+        "CurrentPrice":  12.573333333333332,
+        "Minimum":  7.73,
+        "Maximum":  15,
+        "Count":  3,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1419242414052)\/"
+    }
+]

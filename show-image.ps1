@@ -49,7 +49,7 @@ function get-imagefilename
    $padtitle=$padtitle -replace(":","-")
    $cover= get-cover $issue
    $issue=$issue.Replace(":","")
-   $imageroot+"\"+$padtitle+"\"+$cover+"\"+$issue+".jpg"
+   ($imageroot+"\"+$padtitle+"\"+$cover+"\"+$issue+".jpg").ToUpper()
 }
 
 function set-imagefolder

@@ -8,7 +8,7 @@
         "variant":  "2 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:12 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "3 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:12 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "4 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:12 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,19 +44,19 @@
         "variant":  "1 2ND PTG (MR)",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:12 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/image-firsts-the-fade-out-1-mr-/prod_115851.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/image-firsts-the-fade-out-1-mr-/prod_115851.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/image-firsts-the-fade-out-1-mr-/prod_115851.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/other-publishers/image-firsts-the-fade-out-1-mr-/prod_115851.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/other-publishers/image-firsts-the-fade-out-1-mr-/prod_115851.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/other-publishers/image-firsts-the-fade-out-1-mr-/prod_115851.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "FADE OUT",
         "issue":  "1",
         "variant":  "1 (MR)",
         "price":  1.45,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:12 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "2 2ND PTG",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:12 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "5 (MR)",
         "price":  2.45,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:12 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "5 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:12 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "FADE OUT TP VOL 01 (MR)",
         "price":  9.89,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:12 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +116,31 @@
         "variant":  "FADE OUT TP VOL 01 (MR)",
         "price":  10.44,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:12 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/fade-out-6-mr-/prod_134113.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/fade-out-6-mr-/prod_134113.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/fade-out-6-mr-/prod_134113.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "6",
+        "variant":  "6 (MR)",
+        "price":  2.45,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:22:12 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-25/03/15/image/fade-out-6-mr-/prod_135004.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-25/03/15/image/fade-out-6-mr-/prod_135004.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-25/03/15/image/fade-out-6-mr-/prod_135004.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "6",
+        "variant":  "6 (MR)",
+        "price":  2.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:22:12 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,19 +152,7 @@
         "variant":  "5",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:29 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/oct140703.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140703.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140703.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FADE OUT",
-        "issue":  "IMAGE",
-        "variant":  "IMAGE FIRSTS THE 1",
-        "price":  0.75,
-        "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:17 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +164,7 @@
         "variant":  "4",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:17 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +176,7 @@
         "variant":  "3",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:17 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +188,7 @@
         "variant":  "2",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:17 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +200,7 @@
         "variant":  "1",
         "price":  3.94,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:17 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -199,18 +211,18 @@
         "issue":  "5",
         "variant":  "5",
         "price":  "2.40",
-        "rundate":  "Mon Dec 15 2014 10:24:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:22 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
         "link":  "https://forbiddenplanet.com/128893-image-firsts-the-fade-out-1/",
         "url":  "\u003ca href=\"https://forbiddenplanet.com/128893-image-firsts-the-fade-out-1/\"\u003ehttps://forbiddenplanet.com/128893-image-firsts-the-fade-out-1/\u003c/a\u003e",
-        "orderdate":  "17th December, 2014",
+        "orderdate":  "",
         "title":  "FADE OUT",
         "issue":  "1",
         "variant":  "1",
         "price":  "0.65",
-        "rundate":  "Mon Dec 15 2014 10:24:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:22 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -221,7 +233,7 @@
         "issue":  "3",
         "variant":  "3",
         "price":  "2.40",
-        "rundate":  "Mon Dec 15 2014 10:24:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:22 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -232,7 +244,7 @@
         "issue":  "2",
         "variant":  "2",
         "price":  "2.40",
-        "rundate":  "Mon Dec 15 2014 10:24:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:22 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -244,7 +256,7 @@
         "variant":  "1",
         "price":  3.99,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:36 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:28 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -256,7 +268,7 @@
         "variant":  "1 (MOVIE MAGAZINE VARIANT)",
         "price":  3.99,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:36 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:28 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -268,7 +280,7 @@
         "variant":  "2",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:36 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:28 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -280,7 +292,7 @@
         "variant":  "FADE OUT #STANDING ORDER",
         "price":  0.00,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:33 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -292,7 +304,7 @@
         "variant":  "DEC140731 FADE OUT #5 (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:33 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -304,7 +316,7 @@
         "variant":  "FADE OUT #1 (MR) [(W) Ed Brubaker (A/CA) Sean Phillips, Elizabeth Breitweiser]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:33 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -316,7 +328,7 @@
         "variant":  "FADE OUT #1 MOVIE MAGAZINE VAR (MR) [(W) Ed Brubaker (A/CA) Sean Phillips, Elizabeth Breitweiser]",
         "price":  4.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:33 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -328,7 +340,7 @@
         "variant":  "FADE OUT #2 2ND PTG [(W) Ed Brubaker (A/CA) Sean Phillips]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:33 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -340,7 +352,7 @@
         "variant":  "FADE OUT #3 (MR) [(W) Ed Brubaker (A/CA) Sean Phillips, Elizabeth Breitweiser]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:33 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -352,7 +364,7 @@
         "variant":  "IMAGE FIRSTS FADE OUT #1 (MR) [Ed Brubaker ans Sean Philips]",
         "price":  0.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:33 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -364,7 +376,7 @@
         "variant":  "OCT140703 IMAGE FIRSTS THE FADE OUT #1 (MR)",
         "price":  0.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:33 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -376,7 +388,7 @@
         "variant":  "SEP140717 FADE OUT #4 (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:24:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:22:33 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

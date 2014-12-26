@@ -8,7 +8,7 @@
         "variant":  "8 CVR A JENKINS (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:19:39 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "8 1:10 CVR B OEMING INCV (MR)",
         "price":  3.79,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:19:39 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "9 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:19:39 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "10 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:19:39 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "1 (MR)",
         "price":  1.45,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:19:39 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "11 CVR A FOWLER \u0026 UPCHURCH (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:19:39 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,8 +80,140 @@
         "variant":  "11 CVR B UPCHURCH (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:19:39 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov140672.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov140672.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov140672.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "11",
+        "variant":  "11 COVER A FOWLER \u0026 UPCHURCH",
+        "price":  2.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:19:48 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug140669.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140669.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140669.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "10",
+        "variant":  "10",
+        "price":  2.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:19:48 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul140569.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140569.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140569.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "9",
+        "variant":  "9",
+        "price":  2.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:19:48 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun140495.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140495.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140495.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "8",
+        "variant":  "8 COVER A JENKINS",
+        "price":  2.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:19:48 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/apr140585.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/apr140585.html\"\u003ehttp://www.closeencounters.co.uk/index.php/apr140585.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  4.94,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:19:48 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/mar140588.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/mar140588.html\"\u003ehttp://www.closeencounters.co.uk/index.php/mar140588.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "6",
+        "variant":  "6",
+        "price":  8.94,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:19:48 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov130516.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov130516.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov130516.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "5",
+        "variant":  "5 COVER A",
+        "price":  2.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:19:48 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov130517.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov130517.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov130517.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "5",
+        "variant":  "5 COVER B",
+        "price":  2.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:19:48 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct130615.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct130615.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct130615.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "4",
+        "variant":  "4 COVER B",
+        "price":  2.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:19:48 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug130708.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug130708.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug130708.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "2",
+        "variant":  "2 COVER B UPCHURCH",
+        "price":  2.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:19:48 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct130614.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct130614.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct130614.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "4",
+        "variant":  "4 COVER A FIRST PRINT",
+        "price":  3.99,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:19:48 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
     },
     {
         "link":  "https://forbiddenplanet.com/130635-rat-queens-11-cover-b-roc-upchurch/",
@@ -91,18 +223,7 @@
         "issue":  "11 ",
         "variant":  "Cover B Roc Upchurch",
         "price":  "2.40",
-        "rundate":  "Mon Dec 15 2014 10:21:26 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/130634-rat-queens-11-cover-a-tess-fowler-roc-upchurch/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/130634-rat-queens-11-cover-a-tess-fowler-roc-upchurch/\"\u003ehttps://forbiddenplanet.com/130634-rat-queens-11-cover-a-tess-fowler-roc-upchurch/\u003c/a\u003e",
-        "orderdate":  "14th January, 2015",
-        "title":  "RAT QUEENS",
-        "issue":  "11 ",
-        "variant":  "Cover A Tess Fowler \u0026 Roc Upchurch",
-        "price":  "2.40",
-        "rundate":  "Mon Dec 15 2014 10:21:26 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:19:52 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -114,7 +235,7 @@
         "variant":  "3 (COVER B)",
         "price":  3.99,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:19:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -126,7 +247,7 @@
         "variant":  "5",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:19:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -138,7 +259,7 @@
         "variant":  "6",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:19:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -150,7 +271,7 @@
         "variant":  "7",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:19:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -162,7 +283,7 @@
         "variant":  "8",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:19:56 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -174,7 +295,7 @@
         "variant":  "AUG140669 RAT QUEENS #10 (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:20:01 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -186,7 +307,7 @@
         "variant":  "BOOTY: PIRATE QUEENS",
         "price":  7.99,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:20:01 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -198,7 +319,7 @@
         "variant":  "NOV140672 RAT QUEENS #11 CVR A FOWLER \u0026 UPCHURCH (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:20:01 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -210,7 +331,7 @@
         "variant":  "NOV140673 RAT QUEENS #11 CVR B UPCHURCH (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:20:01 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -222,7 +343,7 @@
         "variant":  "OCT140719 IMAGE FIRSTS RAT QUEENS #1 (MR)",
         "price":  0.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:20:01 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -234,7 +355,7 @@
         "variant":  "RAT QUEENS #8 CVR A JENKINS (MR) [(W) Kurtis J. Wiebe (A) Roc Upchurch (CA) Tyler Jenkins]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:21:33 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:20:01 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

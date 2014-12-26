@@ -696,6 +696,22 @@ function update-issue
 
    $result = $cmd.ExecuteNonQuery()
    
+   $oldimage=get-imagefilename -title $title -issue $Oldissue
+   $newimage=get-imagefilename -title $title -issue $newissue
+
+   If(test-path $oldimage)
+   {
+      if(test-path $newimage)
+      {
+         ri $oldimage
+      }
+      else
+      {
+         move-item -Path "$oldimage" -Destination "$newimage"
+      }
+   }
+
+
    Write-Host "Updated $result records"
    $conn.Close()
 }

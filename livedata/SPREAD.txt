@@ -8,7 +8,7 @@
         "variant":  "3 (MR)",
         "price":  2.35,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:16 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "4 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:16 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "5 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:16 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "1 3RD PTG (MR)",
         "price":  2.30,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:16 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,19 +56,19 @@
         "variant":  "2 2ND PTG (MR)",
         "price":  2.35,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:16 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-24/12/14/image/spread-6-mr-/prod_115914.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-24/12/14/image/spread-6-mr-/prod_115914.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/december-2014/preorders-for-24/12/14/image/spread-6-mr-/prod_115914.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-07/01/15/image/spread-6-mr-/prod_115914.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-07/01/15/image/spread-6-mr-/prod_115914.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-07/01/15/image/spread-6-mr-/prod_115914.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SPREAD",
         "issue":  "6",
         "variant":  "6 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:16 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "7 CVR A STRAHM (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:16 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "7 CVR B COBB (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:16 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "7 CVR 1:10 ADAMS VARIANT",
         "price":  3.79,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:16 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +116,7 @@
         "variant":  "SPREAD TP VOL 01 NO HOPE (MR)",
         "price":  9.89,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:16 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,7 +128,31 @@
         "variant":  "SPREAD TP VOL 01 NO HOPE (MR)",
         "price":  10.44,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:40 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:16 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/spread-8-mr-/prod_134140.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/spread-8-mr-/prod_134140.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/spread-8-mr-/prod_134140.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SPREAD",
+        "issue":  "8",
+        "variant":  "8 (MR)",
+        "price":  2.45,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:18:16 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-11/03/15/image/spread-8-mr-/prod_135031.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-11/03/15/image/spread-8-mr-/prod_135031.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-11/03/15/image/spread-8-mr-/prod_135031.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SPREAD",
+        "issue":  "8",
+        "variant":  "8 (MR)",
+        "price":  2.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:18:16 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -140,7 +164,7 @@
         "variant":  "7 COVER A STRAHM",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:22 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +176,7 @@
         "variant":  "6",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:22 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +188,7 @@
         "variant":  "5",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:22 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +200,7 @@
         "variant":  "4",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:22 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +212,7 @@
         "variant":  "3",
         "price":  2.35,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:22 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -200,19 +224,7 @@
         "variant":  "2 SECOND PRINT",
         "price":  2.30,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:46 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/may140579-62451.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may140579-62451.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may140579-62451.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SPREAD",
-        "issue":  "1",
-        "variant":  "1 THIRD PRINT",
-        "price":  2.25,
-        "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:22 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -224,7 +236,19 @@
         "variant":  "2 FIRST PRINT",
         "price":  2.99,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:22 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/may140579-62451.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may140579-62451.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may140579-62451.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SPREAD",
+        "issue":  "1",
+        "variant":  "1 THIRD PRINT",
+        "price":  2.25,
+        "currency":  "£",
+        "rundate":  "Mon Dec 22 2014 10:18:22 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +260,7 @@
         "variant":  "1 SECOND PRINT",
         "price":  3.99,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:22 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -247,7 +271,7 @@
         "issue":  "7 ",
         "variant":  "Cover B Liam Cobb",
         "price":  "2.40",
-        "rundate":  "Mon Dec 15 2014 10:19:49 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:26 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -258,7 +282,7 @@
         "issue":  "7 ",
         "variant":  "Cover A Kyle Strahm",
         "price":  "2.40",
-        "rundate":  "Mon Dec 15 2014 10:19:49 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:26 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -269,7 +293,7 @@
         "issue":  "6",
         "variant":  "6",
         "price":  "2.40",
-        "rundate":  "Mon Dec 15 2014 10:19:49 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:26 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -280,7 +304,7 @@
         "issue":  "1 ",
         "variant":  "NYCC 2014 Signed Variant",
         "price":  "29.99",
-        "rundate":  "Mon Dec 15 2014 10:19:49 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:26 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -291,29 +315,7 @@
         "issue":  "4",
         "variant":  "4",
         "price":  "2.40",
-        "rundate":  "Mon Dec 15 2014 10:19:49 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/126389-spread-1-3rd-printing/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/126389-spread-1-3rd-printing/\"\u003ehttps://forbiddenplanet.com/126389-spread-1-3rd-printing/\u003c/a\u003e",
-        "orderdate":  "",
-        "title":  "SPREAD",
-        "issue":  "1 ",
-        "variant":  "3rd Printing",
-        "price":  "2.40",
-        "rundate":  "Mon Dec 15 2014 10:19:49 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/126390-spread-2-2nd-printing/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/126390-spread-2-2nd-printing/\"\u003ehttps://forbiddenplanet.com/126390-spread-2-2nd-printing/\u003c/a\u003e",
-        "orderdate":  "",
-        "title":  "SPREAD",
-        "issue":  "2 ",
-        "variant":  "2nd Printing",
-        "price":  "2.40",
-        "rundate":  "Mon Dec 15 2014 10:19:49 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:26 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -324,7 +326,29 @@
         "issue":  "3",
         "variant":  "3",
         "price":  "2.40",
-        "rundate":  "Mon Dec 15 2014 10:19:49 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:26 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/126389-spread-1-3rd-printing/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/126389-spread-1-3rd-printing/\"\u003ehttps://forbiddenplanet.com/126389-spread-1-3rd-printing/\u003c/a\u003e",
+        "orderdate":  "",
+        "title":  "SPREAD",
+        "issue":  "1 ",
+        "variant":  "3rd Printing",
+        "price":  "2.40",
+        "rundate":  "Mon Dec 22 2014 10:18:26 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/126390-spread-2-2nd-printing/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/126390-spread-2-2nd-printing/\"\u003ehttps://forbiddenplanet.com/126390-spread-2-2nd-printing/\u003c/a\u003e",
+        "orderdate":  "",
+        "title":  "SPREAD",
+        "issue":  "2 ",
+        "variant":  "2nd Printing",
+        "price":  "2.40",
+        "rundate":  "Mon Dec 22 2014 10:18:26 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -335,7 +359,7 @@
         "issue":  "1 ",
         "variant":  "2nd Printing",
         "price":  "2.40",
-        "rundate":  "Mon Dec 15 2014 10:19:49 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:26 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -347,7 +371,7 @@
         "variant":  "1 (2ND PRINTING)",
         "price":  4.99,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:31 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -359,7 +383,7 @@
         "variant":  "1 (3RD PRINTING)",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:31 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -371,7 +395,7 @@
         "variant":  "1 *HOT BOOK*",
         "price":  5.99,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:31 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -383,7 +407,7 @@
         "variant":  "2 (1ST PRINT)",
         "price":  4.99,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:31 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -395,7 +419,7 @@
         "variant":  "2 (2ND PRINT)",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:31 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -407,7 +431,7 @@
         "variant":  "3 (1ST PRINT)",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:31 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -419,7 +443,7 @@
         "variant":  "4",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:53 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:31 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -431,7 +455,7 @@
         "variant":  "SPREAD #STANDING ORDER",
         "price":  0.00,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -443,7 +467,7 @@
         "variant":  "NOV140686 SPREAD #7 CVR A STRAHM (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -455,7 +479,7 @@
         "variant":  "NOV140687 SPREAD #7 CVR B COBB (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -467,7 +491,7 @@
         "variant":  "OCT140766 SPREAD #6 (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -479,7 +503,7 @@
         "variant":  "SEP140756 SPREAD #5 (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -491,7 +515,7 @@
         "variant":  "SPREAD #1 (MR) [(W) Justin Jordan (A/CA) Kyle Strahm]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -503,7 +527,7 @@
         "variant":  "SPREAD #1 2ND PTG (MR) []",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -515,7 +539,7 @@
         "variant":  "SPREAD #1 3RD PTG (MR) [(W) Justin Jordan (A/CA) Kyle Strahm]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -527,7 +551,7 @@
         "variant":  "SPREAD #2 (MR) [(W) Justin Jordan (A/CA) Kyle Strahm]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -539,7 +563,7 @@
         "variant":  "SPREAD #3 (MR) [(W) Justin Jordan (A/CA) Kyle Strahm]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -551,7 +575,7 @@
         "variant":  "SPREAD #4 (MR) [(W) Justin Jordan (A/CA) Kyle Strahm]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 15 2014 10:19:57 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 22 2014 10:18:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]
