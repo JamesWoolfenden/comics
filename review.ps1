@@ -81,7 +81,7 @@ function update-record
       }
    }
    
-   $newtitle=set-title -rawtitle $($record.Title)
+   $newtitle=(set-title -rawtitle $($record.Title)).ToUpper()
 
    $color=found-image  -title $newtitle -issue $record.Issue
    

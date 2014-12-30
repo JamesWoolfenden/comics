@@ -686,6 +686,8 @@ function update-issue
    [Parameter(Mandatory=$true)]
    [string]$NewIssue)
    
+   $NewIssue=$NewIssue.ToUpper()
+
    write-Host "Modifying issue $OldIssue - $title to $NewIssue" -ForegroundColor  cyan 
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString = "Data Source=localhost\r2;Initial Catalog=comics;Integrated Security=SSPI;"

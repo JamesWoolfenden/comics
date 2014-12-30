@@ -8,7 +8,7 @@
         "variant":  "1 2ND PTG (MR)",
         "price":  2.15,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:47 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "5 (MR)",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:47 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "6 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:47 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,31 +44,31 @@
         "variant":  "3 2ND PTG (MR)",
         "price":  2.40,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:47 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/other-publishers/image-firsts-cowl-1-mr-/prod_115852.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/other-publishers/image-firsts-cowl-1-mr-/prod_115852.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/other-publishers/image-firsts-cowl-1-mr-/prod_115852.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/other-publishers/image-firsts-cowl-1-mr-/prod_115852.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/other-publishers/image-firsts-cowl-1-mr-/prod_115852.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/other-publishers/image-firsts-cowl-1-mr-/prod_115852.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "COWL",
         "issue":  "1",
         "variant":  "1 (MR)",
         "price":  1.45,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:47 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/image/cowl-7-mr-/prod_115880.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/image/cowl-7-mr-/prod_115880.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/image/cowl-7-mr-/prod_115880.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/image/cowl-7-mr-/prod_115880.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/image/cowl-7-mr-/prod_115880.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/image/cowl-7-mr-/prod_115880.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "COWL",
         "issue":  "7",
         "variant":  "7 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:47 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "8 (MR)",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:47 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "9 (MR)",
         "price":  2.70,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:47 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "9 (MR)",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:47 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +116,7 @@
         "variant":  "10 (MR)",
         "price":  2.70,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:47 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,8 +128,44 @@
         "variant":  "10 (MR)",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:12 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:47 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan150675.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan150675.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan150675.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "10",
+        "variant":  "10",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan150332.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan150332.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan150332.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "RED",
+        "variant":  "RED HOOD AND THE OUTLAWS 40",
+        "price":  2.10,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan150105.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan150105.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan150105.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "GOON",
+        "variant":  "GOON ONCE UPON A HARD TIME 2",
+        "price":  2.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
     },
     {
         "link":  "http://www.closeencounters.co.uk/index.php/dec140723.html",
@@ -140,7 +176,43 @@
         "variant":  "9",
         "price":  2.90,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec140752.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec140752.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec140752.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "PUNKS",
+        "variant":  "PUNKS THE COMIC 5",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec140355.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec140355.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec140355.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "RED",
+        "variant":  "RED HOOD AND THE OUTLAWS 39",
+        "price":  2.10,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec140051.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec140051.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec140051.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "GOON",
+        "variant":  "GOON ONCE UPON A HARD TIME 1",
+        "price":  2.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +224,31 @@
         "variant":  "8",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov140270.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov140270.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov140270.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "RED",
+        "variant":  "RED HOOD AND THE OUTLAWS 38",
+        "price":  2.10,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov140669.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov140669.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov140669.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "PUNKS",
+        "variant":  "PUNKS THE COMIC 4 COVER A CHAMBERLAIN",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +260,67 @@
         "variant":  "7",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct140328.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140328.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140328.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "RED",
+        "variant":  "RED HOOD AND THE OUTLAWS ANNUAL 2",
+        "price":  3.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct140327.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140327.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140327.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "RED",
+        "variant":  "RED HOOD AND THE OUTLAWS 37",
+        "price":  2.10,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct140704.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140704.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140704.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "IMAGE",
+        "variant":  "IMAGE FIRSTS 1",
+        "price":  0.75,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct140757.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140757.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140757.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "PUNKS",
+        "variant":  "PUNKS THE COMIC 3",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep141345.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep141345.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep141345.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "STEAMPUNK",
+        "variant":  "STEAMPUNK BSG 1880 4",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +332,91 @@
         "variant":  "6",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep140272.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep140272.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep140272.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "RED",
+        "variant":  "RED HOOD AND THE OUTLAWS 36",
+        "price":  2.10,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep141703.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep141703.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep141703.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "PUNK",
+        "variant":  "PUNK MAMBO 0 CVR A DAUTERMAN",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep140742.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep140742.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep140742.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "PUNKS",
+        "variant":  "PUNKS THE COMIC 2 CVR A CHAMBERLAIN",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug140113.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140113.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140113.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "GOON",
+        "variant":  "GOON OCCASION OF REVENGE 4",
+        "price":  2.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug140288.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140288.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140288.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "RED",
+        "variant":  "RED HOOD AND THE OUTLAWS 35",
+        "price":  2.10,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug141378.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug141378.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug141378.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "STEAMPUNK",
+        "variant":  "STEAMPUNK BSG 1880 3",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug140802.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140802.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140802.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "EDGE",
+        "variant":  "EDGE OF SPIDER-VERSE 4",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -188,43 +428,67 @@
         "variant":  "5",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
-        "link":  "http://www.closeencounters.co.uk/index.php/may140700.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may140700.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may140700.html\u003c/a\u003e",
+        "link":  "http://www.closeencounters.co.uk/index.php/jul140128.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140128.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140128.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "COWL",
-        "issue":  "3",
-        "variant":  "3",
+        "issue":  "GOON",
+        "variant":  "GOON OCCASION OF REVENGE 3",
         "price":  2.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
-        "link":  "http://www.closeencounters.co.uk/index.php/apr148351.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/apr148351.html\"\u003ehttp://www.closeencounters.co.uk/index.php/apr148351.html\u003c/a\u003e",
+        "link":  "http://www.closeencounters.co.uk/index.php/may140337.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may140337.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may140337.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "COWL",
-        "issue":  "1",
-        "variant":  "1 SECOND PRINT",
-        "price":  2.50,
-        "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:18 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/mar090134.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/mar090134.html\"\u003ehttp://www.closeencounters.co.uk/index.php/mar090134.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "COWL",
-        "issue":  "BATMAN",
-        "variant":  "BATMAN BATTLE FOR THE THE NETWORK #1",
+        "issue":  "RED",
+        "variant":  "RED HOOD AND THE OUTLAWS FUTURES END 1 STANDARD ED",
         "price":  2.10,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/may140336.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may140336.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may140336.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "RED",
+        "variant":  "RED HOOD AND THE OUTLAWS FUTURES END 1",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul141148.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul141148.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul141148.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "STEAMPUNK",
+        "variant":  "STEAMPUNK BSG 1880 2",
+        "price":  2.90,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun140019.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140019.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140019.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "GOON",
+        "variant":  "GOON OCCASION OF REVENGE 2",
+        "price":  2.50,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:16:54 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -235,7 +499,7 @@
         "issue":  "9",
         "variant":  "9",
         "price":  "2.65",
-        "rundate":  "Mon Dec 22 2014 10:17:21 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:58 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -246,18 +510,18 @@
         "issue":  "8",
         "variant":  "8",
         "price":  "2.40",
-        "rundate":  "Mon Dec 22 2014 10:17:21 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:58 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
         "link":  "https://forbiddenplanet.com/128902-cowl-7/",
         "url":  "\u003ca href=\"https://forbiddenplanet.com/128902-cowl-7/\"\u003ehttps://forbiddenplanet.com/128902-cowl-7/\u003c/a\u003e",
-        "orderdate":  "24th December, 2014",
+        "orderdate":  "",
         "title":  "COWL",
         "issue":  "7",
         "variant":  "7",
         "price":  "2.40",
-        "rundate":  "Mon Dec 22 2014 10:17:21 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:58 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -268,7 +532,7 @@
         "issue":  "5",
         "variant":  "5",
         "price":  "2.40",
-        "rundate":  "Mon Dec 22 2014 10:17:21 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:58 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -279,7 +543,7 @@
         "issue":  "4",
         "variant":  "4",
         "price":  "2.40",
-        "rundate":  "Mon Dec 22 2014 10:17:21 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:58 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -290,7 +554,7 @@
         "issue":  "3",
         "variant":  "3",
         "price":  "2.40",
-        "rundate":  "Mon Dec 22 2014 10:17:21 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:16:58 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -302,7 +566,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:26 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -314,7 +578,7 @@
         "variant":  "1 *HOT BOOK*",
         "price":  4.99,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:26 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -326,7 +590,7 @@
         "variant":  "2 *HOT BOOK*",
         "price":  4.99,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:26 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -338,7 +602,7 @@
         "variant":  "3",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:26 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -350,7 +614,7 @@
         "variant":  "4",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:26 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -362,7 +626,7 @@
         "variant":  "5",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:26 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -374,7 +638,19 @@
         "variant":  "6",
         "price":  2.75,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:26 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:03 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/cowl-7-p-64901.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/cowl-7-p-64901.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/cowl-7-p-64901.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "COWL",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  2.75,
+        "currency":  "£",
+        "rundate":  "Mon Dec 29 2014 10:17:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -386,7 +662,7 @@
         "variant":  "BATMAN: BATTLE FOR THE COWL",
         "price":  10.99,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -398,7 +674,7 @@
         "variant":  "BATMAN: BATTLE FOR THE COWL COMPANION",
         "price":  10.99,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -410,7 +686,7 @@
         "variant":  "BATMAN: UNDER THE COWL",
         "price":  13.50,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -422,7 +698,7 @@
         "variant":  "COWL #1 2ND PTG (MR) [(W) Kyle Higgins, Alec Siegel (A) Rod Reis (CA) Trevor McCarthy]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -434,7 +710,7 @@
         "variant":  "COWL #6 (MR) [(W) Kyle Higgins, Alec Siegel (A) Elsa Charretier (CA) Joe Bennett]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -446,7 +722,7 @@
         "variant":  "COWL #7 (MR) [(W) Kyle Higgins, Alec Siegel (A) Elsa Charretier (CA) Joe Bennett]",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -458,7 +734,7 @@
         "variant":  "DEC140723 COWL #9 (MR)",
         "price":  3.20,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -470,7 +746,7 @@
         "variant":  "NOV140645 COWL #8 (MR)",
         "price":  2.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -482,7 +758,7 @@
         "variant":  "OCT140704 IMAGE FIRSTS COWL #1 (MR)",
         "price":  0.80,
         "currency":  "£",
-        "rundate":  "Mon Dec 22 2014 10:17:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:17:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

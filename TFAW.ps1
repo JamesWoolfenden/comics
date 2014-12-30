@@ -2,20 +2,22 @@ $corescript=$myinvocation.mycommand.path
 $root=split-path -parent  -Path $corescript
 
 import-module "$root\core.ps1" -force
-function get-tfawdata()
+
+function get-tfawdata
 {
-   param ([string]$title="The Walking Dead")
+   param (
+      [Parameter(Mandatory=$true)]
+      [string]$title="Walking Dead")
+ 
+  <#
+   .SYNOPSIS 
+   Retrieves TFAW records for a title
+	    
+   .EXAMPLE
+    C:\PS> get-tfawdata -title "The Walking Dead" 
+    retieves and parses TFAW records
+ #>
 
-#URL Parameters
-
-#http://www.tfaw.com/ Search / _results_limit_search=30 / _results_order_search=title / _results_sstring_search=walking%2Bdead / _results_start_at_search=30 /
-#Parameter 	Default value 	Parameter to append
-#kimpath1 	Search 	&kimpath1=newvalue
-#kimpath2 	_results_limit_search=30 	&kimpath2=newvalue
-#kimpath3 	_results_order_search=title 	&kimpath3=newvalue
-#kimpath4 	_results_sstring_search=walking%2Bdead 	&kimpath4=newvalue
-#kimpath5 	_results_start_at_search=30 	&kimpath5=newvalue
-   
    $title=$title.ToUpper()
    $comic=$title.replace(" ","%2B")
    $kimpath2="_results_limit_search=100"
@@ -24,8 +26,8 @@ function get-tfawdata()
    $site="TFAW"
    $fullfilter=$search
    $url="https://www.kimonolabs.com/api/7fuasgeu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-debug "Accessing $url"
-   write-Host "Looking for $title @ `"$site`""
+   write-debug "$(Get-Date) Accessing $url"
+   write-debug "$(Get-Date) Looking for $title @ `"$site`""
   
 <# Postage
    1X  x x
@@ -101,6 +103,6 @@ function get-tfawdata()
       $counter++
    }
 
-   write-host "Record $counter"
+   write-debug "$(Get-Date) Record $counter"
    $tfaw 
 }

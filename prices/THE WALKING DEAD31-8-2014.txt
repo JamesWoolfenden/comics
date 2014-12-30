@@ -81,7 +81,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "100CHR:CGC",
+        "Issue":  "100CHRCGC",
         "Cover":  100,
         "TotalCost":  "36.99",
         "Mean":  36.99,
@@ -97,7 +97,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "100COMIXOLOGY:CGC",
+        "Issue":  "100COMIXOLOGYCGC",
         "Cover":  100,
         "TotalCost":  "390.00",
         "Mean":  390,
@@ -353,7 +353,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "100LUCILLE:CGC",
+        "Issue":  "100LUCILLECGC",
         "Cover":  100,
         "TotalCost":  "848.50",
         "Mean":  848.5,
@@ -1249,7 +1249,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "115M:CGC:SIGNED",
+        "Issue":  "115MCGCSIGNED",
         "Cover":  115,
         "TotalCost":  "140.00",
         "Mean":  140,
@@ -2369,7 +2369,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "19:Damaged",
+        "Issue":  "19Damaged",
         "Cover":  19,
         "TotalCost":  "50.50",
         "Mean":  50.5,

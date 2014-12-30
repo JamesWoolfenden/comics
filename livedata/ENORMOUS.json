@@ -8,7 +8,7 @@
         "variant":  "2 CVR A CHEGGOUR",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:23:56 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:41 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "4 CVR A CHEGGOUR",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:23:56 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:41 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "4 CVR B OEMING",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:23:56 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:41 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "5 CVR A CHEGGOUR",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:23:56 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:41 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "5 CVR B HUERTA",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:23:56 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:41 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "6 CVR A CHEGGOUR",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:23:56 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:41 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "6 CVR B LORIMER",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:23:56 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:41 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,8 +92,368 @@
         "variant":  "1 2ND PTG (PP ",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:23:56 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:41 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan151603.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan151603.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan151603.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "DOCTOR",
+        "variant":  "DOCTOR WHO 10TH 12 REG WADA",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec141670.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec141670.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec141670.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "DOCTOR",
+        "variant":  "DOCTOR WHO 10TH 11 REGULAR COVER AJ",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov141637.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov141637.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov141637.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "DOCTOR",
+        "variant":  "DOCTOR WHO 10TH 10 REG WILLIAMSON",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan150849.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan150849.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan150849.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "FANTASTIC",
+        "variant":  "FANTASTIC FOUR 644",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan151139.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan151139.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan151139.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "SUICIDE",
+        "variant":  "SUICIDE RISK 23",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan151176.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan151176.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan151176.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "UNCLE",
+        "variant":  "UNCLE GRANDPA 6",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec140865.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec140865.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec140865.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "FANTASTIC",
+        "variant":  "FANTASTIC FOUR 643",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec141244.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec141244.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec141244.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "UNCLE",
+        "variant":  "UNCLE GRANDPA 5",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec141194.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec141194.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec141194.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "SUICIDE",
+        "variant":  "SUICIDE RISK 22",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov140807.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov140807.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov140807.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "FANTASTIC",
+        "variant":  "FANTASTIC FOUR 642",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov141139.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov141139.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov141139.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "UNCLE",
+        "variant":  "UNCLE GRANDPA 4 MAIN COVERS",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov141084.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov141084.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov141084.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "SUICIDE",
+        "variant":  "SUICIDE RISK 21",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct140872.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140872.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140872.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "FANTASTIC",
+        "variant":  "FANTASTIC FOUR 14",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct141189.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct141189.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct141189.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "UNCLE",
+        "variant":  "UNCLE GRANDPA 3 MAIN COVERS",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct141132.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct141132.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct141132.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "SUICIDE",
+        "variant":  "SUICIDE RISK 20",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep140880.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep140880.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep140880.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "FANTASTIC",
+        "variant":  "FANTASTIC FOUR 13",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul141429.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul141429.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul141429.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "DOCTOR",
+        "variant":  "DOCTOR WHO 10TH 5 REG GLASS",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep141144.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep141144.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep141144.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "SUICIDE",
+        "variant":  "SUICIDE RISK 19",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep141169.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep141169.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep141169.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "UNCLE",
+        "variant":  "UNCLE GRANDPA 2 MAIN CVRS",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug140846.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140846.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140846.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "FANTASTIC",
+        "variant":  "FANTASTIC FOUR 12",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug140845.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140845.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140845.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "FANTASTIC",
+        "variant":  "FANTASTIC FOUR 11",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun141424.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun141424.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun141424.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "DOCTOR",
+        "variant":  "DOCTOR WHO 10TH 4 REG GLASS",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug141151.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug141151.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug141151.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "SUICIDE",
+        "variant":  "SUICIDE RISK 18",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun141422.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun141422.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun141422.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "DOCTOR",
+        "variant":  "DOCTOR WHO 10TH 3 SUBSCRIPTION PHOTO",
+        "price":  2.75,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul140647.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140647.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140647.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "FANTASTIC",
+        "variant":  "FANTASTIC FOUR ANNUAL #1",
+        "price":  3.50,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun141421.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun141421.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun141421.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "DOCTOR",
+        "variant":  "DOCTOR WHO 10TH 3 REG GLASS",
+        "price":  2.50,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul140646.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140646.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140646.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "FANTASTIC",
+        "variant":  "FANTASTIC FOUR 10",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul140979.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140979.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140979.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "SUICIDE",
+        "variant":  "SUICIDE RISK 17",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun140672.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140672.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140672.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "FANTASTIC",
+        "variant":  "FANTASTIC FOUR 9",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/may141598.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may141598.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may141598.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "DOCTOR",
+        "variant":  "DOCTOR WHO 10TH DOCTOR 2 INCENTIVE CASAGRANDE VARIANT 1:10",
+        "price":  3.94,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:23:47 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
     },
     {
         "link":  "https://forbiddenplanet.com/126002-enormous-5-cover-a-cheggour/",
@@ -103,7 +463,7 @@
         "issue":  "5 ",
         "variant":  "Cover A Cheggour",
         "price":  "2.65",
-        "rundate":  "Mon Dec 22 2014 10:24:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:56 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -114,7 +474,7 @@
         "issue":  "5 ",
         "variant":  "Cover B Huerta",
         "price":  "2.65",
-        "rundate":  "Mon Dec 22 2014 10:24:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:56 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -125,7 +485,7 @@
         "issue":  "4C ",
         "variant":  "ComicXposure Exclusive Variant",
         "price":  "19.99",
-        "rundate":  "Mon Dec 22 2014 10:24:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:56 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -136,7 +496,7 @@
         "issue":  "4D ",
         "variant":  "ComicXposure Exclusive Variant",
         "price":  "19.99",
-        "rundate":  "Mon Dec 22 2014 10:24:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:56 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -147,7 +507,7 @@
         "issue":  "4 ",
         "variant":  "Cover A Cheggour",
         "price":  "2.65",
-        "rundate":  "Mon Dec 22 2014 10:24:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:56 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -158,7 +518,7 @@
         "issue":  "4 ",
         "variant":  "Cover B Oeming",
         "price":  "2.65",
-        "rundate":  "Mon Dec 22 2014 10:24:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:56 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -169,7 +529,7 @@
         "issue":  "1 ",
         "variant":  "B\u0026W Phantom Variant Special Edition",
         "price":  "19.99",
-        "rundate":  "Mon Dec 22 2014 10:24:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:56 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -180,7 +540,7 @@
         "issue":  "1 ",
         "variant":  "Cover B Riley Rossmo",
         "price":  "40.00",
-        "rundate":  "Mon Dec 22 2014 10:24:16 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:23:56 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -192,7 +552,7 @@
         "variant":  "AUG141694 ENORMOUS #5 CVR B HUERTA",
         "price":  3.20,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:24:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:24:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -204,7 +564,7 @@
         "variant":  "ENORMOUS #4 CVR A CHEGGOUR [(W) Tim Daniel (A/CA) Mehdi Cheggour]",
         "price":  3.20,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:24:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:24:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -216,7 +576,7 @@
         "variant":  "ENORMOUS #5 CVR A CHEGGOUR [(W) Tim Daniel (A/CA) Mehdi Cheggour]",
         "price":  3.20,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:24:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:24:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -228,7 +588,7 @@
         "variant":  "SEP141663 ENORMOUS #6 CVR A CHEGGOUR",
         "price":  3.20,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:24:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:24:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -240,7 +600,7 @@
         "variant":  "SEP141664 ENORMOUS #6 CVR B LORIMER",
         "price":  3.20,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:24:29 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:24:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

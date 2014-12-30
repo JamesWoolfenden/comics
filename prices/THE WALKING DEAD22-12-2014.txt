@@ -1,22 +1,6 @@
 ﻿[
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "0",
-        "Cover":  0,
-        "TotalCost":  "29.93",
-        "Mean":  29.928611111111113,
-        "AveragePrice":  29.928611111111113,
-        "CurrentPrice":  14.7,
-        "Minimum":  0.99,
-        "Maximum":  590,
-        "Count":  36,
-        "AveragePaid":  null,
-        "AverageNetPaid":  null,
-        "Stock":  0,
-        "Date":  "\/Date(1419242586932)\/"
-    },
-    {
-        "Title":  "THE WALKING DEAD",
         "Issue":  "10",
         "Cover":  10,
         "TotalCost":  "30.66",
@@ -129,7 +113,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "100COMIXOLOGY:CGC",
+        "Issue":  "100COMIXOLOGYCGC",
         "Cover":  100,
         "TotalCost":  "390.00",
         "Mean":  390,
@@ -1105,22 +1089,6 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "113:SIGNED",
-        "Cover":  113,
-        "TotalCost":  "5.25",
-        "Mean":  5.25,
-        "AveragePrice":  3.75,
-        "CurrentPrice":  3.75,
-        "Minimum":  3.75,
-        "Maximum":  3.75,
-        "Count":  1,
-        "AveragePaid":  null,
-        "AverageNetPaid":  null,
-        "Stock":  0,
-        "Date":  "\/Date(1419242592267)\/"
-    },
-    {
-        "Title":  "THE WALKING DEAD",
         "Issue":  "113SIGNED",
         "Cover":  113,
         "TotalCost":  "5.00",
@@ -1729,7 +1697,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "118ASIGNED",
+        "Issue":  "118SIGNED",
         "Cover":  118,
         "TotalCost":  "4.69",
         "Mean":  4.6875,
@@ -2689,7 +2657,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "19:Damaged",
+        "Issue":  "19Damaged",
         "Cover":  19,
         "TotalCost":  "50.50",
         "Mean":  50.5,

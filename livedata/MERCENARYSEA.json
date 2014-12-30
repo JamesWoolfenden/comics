@@ -8,7 +8,7 @@
         "variant":  "4",
         "price":  2.15,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:10:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:10:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "5",
         "price":  2.15,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:10:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:10:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "6",
         "price":  2.00,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:10:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:10:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "1 2ND PTG DHC",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:10:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:10:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "2 DHC",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:10:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:10:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,19 +68,19 @@
         "variant":  "7",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:10:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:10:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/mercenary-sea-8/prod_115898.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/mercenary-sea-8/prod_115898.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/mercenary-sea-8/prod_115898.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/other-publishers/mercenary-sea-8/prod_115898.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/other-publishers/mercenary-sea-8/prod_115898.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/other-publishers/mercenary-sea-8/prod_115898.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "MERCENARY SEA",
         "issue":  "8",
         "variant":  "8",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:10:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:10:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "9",
         "price":  2.20,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:10:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:10:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,8 +104,116 @@
         "variant":  "9",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:10:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:10:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec140743.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec140743.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec140743.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "9",
+        "variant":  "9",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:10:59 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct140750.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140750.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140750.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "8",
+        "variant":  "8",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:10:59 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep140734.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep140734.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep140734.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:10:59 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/may140713.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may140713.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may140713.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "6",
+        "variant":  "6",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:10:59 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/apr140576.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/apr140576.html\"\u003ehttp://www.closeencounters.co.uk/index.php/apr140576.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "5",
+        "variant":  "5",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:10:59 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/mar140579.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/mar140579.html\"\u003ehttp://www.closeencounters.co.uk/index.php/mar140579.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "4",
+        "variant":  "4",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:10:59 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb140610.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb140610.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb140610.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "3",
+        "variant":  "3",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:10:59 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan140602.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan140602.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan140602.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "2",
+        "variant":  "2",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:10:59 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec130492.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec130492.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec130492.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "1",
+        "variant":  "1",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Dec 29 2014 10:10:59 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
     },
     {
         "link":  "https://forbiddenplanet.com/132404-mercenary-sea-9/",
@@ -115,18 +223,7 @@
         "issue":  "9",
         "variant":  "9",
         "price":  "1.95",
-        "rundate":  "Mon Dec 22 2014 10:11:05 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/128920-mercenary-sea-8/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/128920-mercenary-sea-8/\"\u003ehttps://forbiddenplanet.com/128920-mercenary-sea-8/\u003c/a\u003e",
-        "orderdate":  "24th December, 2014",
-        "title":  "MERCENARY SEA",
-        "issue":  "8",
-        "variant":  "8",
-        "price":  "1.95",
-        "rundate":  "Mon Dec 22 2014 10:11:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:11:03 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -138,7 +235,7 @@
         "variant":  "1 (1ST PRINT)",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:11:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:11:07 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -150,7 +247,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:11:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:11:07 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -162,7 +259,7 @@
         "variant":  "2",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:11:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:11:07 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -174,7 +271,7 @@
         "variant":  "3",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:11:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:11:07 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -186,7 +283,7 @@
         "variant":  "4",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:11:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:11:07 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -198,7 +295,7 @@
         "variant":  "5",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:11:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:11:07 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -210,7 +307,7 @@
         "variant":  "6",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:11:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:11:07 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -222,7 +319,7 @@
         "variant":  "7",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:11:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:11:07 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -234,7 +331,7 @@
         "variant":  "DEC140743 MERCENARY SEA #9",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:11:14 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:11:13 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -246,7 +343,7 @@
         "variant":  "MERCENARY SEA #3 [(W) Kel Symons (A/CA) Mathew Reynolds]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:11:14 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:11:13 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -258,7 +355,7 @@
         "variant":  "OCT140750 MERCENARY SEA #8",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:11:14 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:11:13 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -270,7 +367,7 @@
         "variant":  "SEP140734 MERCENARY SEA #7",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 22 2014 10:11:14 GMT+0000 (UTC)",
+        "rundate":  "Mon Dec 29 2014 10:11:13 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]
