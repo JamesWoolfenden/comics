@@ -73,7 +73,14 @@ function update-record
       $estimate=$record.postage
       if ($record.site -eq "ebid" -And $record.seller -eq "")
       {
-         $seller=($ie.Document.body.document.body.getElementsByTagName('a')| where{$_.innerHTML -eq "All about the seller"}).nameProp
+         try{
+             $seller=($ie.Document.body.document.body.getElementsByTagName('a')| where{$_.innerHTML -eq "All about the seller"}).nameProp
+         }
+         catch
+         {
+            Write-error "Page expired?"
+            $seller=$null
+         }
       }
       else
       {

@@ -1,4 +1,4 @@
-function get-midtowndata()
+function get-midtowndata
 {
    param ([string]$title="The Walking Dead")
 

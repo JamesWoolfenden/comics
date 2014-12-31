@@ -2,7 +2,7 @@ $corescript=$myinvocation.mycommand.path
 $root=split-path -parent  -Path $corescript
 
 import-module "$root\core.ps1" -force
-function get-gurudata()
+function get-gurudata
 {
    param (
    [string]$title="The Walking Dead",
