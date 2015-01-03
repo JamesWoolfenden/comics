@@ -487,7 +487,7 @@ function get-records
    
    #this is the sold items
    write-debug "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {`$_.BidCount -ne '0'}"
-   $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold'|where {$_.BidCount -ne '0'}
+   $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold' -categoryid $search.category |where {$_.BidCount -ne '0'}
 
    if ($soldresult)
    {
@@ -503,7 +503,7 @@ function get-records
    
    # this is the closed results
    write-debug "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {`$_.BidCount -ne '0'}"
-   $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed'|where {$_.BidCount -eq "0"}
+   $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed' -categoryid $search.category|where {$_.BidCount -eq "0"}
    if ($expiredresult)
    {
       write-host "`r`nExpired" -foregroundcolor cyan
@@ -513,7 +513,7 @@ function get-records
    #these 
    if ($search.enabled)
    {
-      $result=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'Open'
+      $result=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'Open' -categoryid $search.category
       $found=0
       if ($result)
       {

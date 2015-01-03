@@ -7,7 +7,7 @@ Function Build-Url
 		[string] $ExcludeWords,
 		[Parameter(Mandatory=$true)]
         [string]$state,
-        [int] $CategoryId=0
+        [int]$CategoryId=0
 	)
 	
 	$ExcludeWords.Split(' ') | % {
@@ -18,12 +18,16 @@ Function Build-Url
 	$Keywords = $Keywords.Replace("(", "%28")
 	$Keywords = $Keywords.Replace(")", "%29")
 	
-    If ($CategoryId="8077")
+    write-debug "$(Get-Date) CatID:$CategoryId"
+    If ($CategoryId -eq "8077")
     {
 	  $url= 'http://www.ebay.co.uk/sch/US-Comics-/64755/i.html?rt=nc&_nkw=${Keywords}&LH_PrefLoc=3'
+      #$url = 'http://www.ebay.co.uk/sch/Comics-/63/i.html?rt=nc&_nkw=${Keywords}&LH_PrefLoc=3' 
 	}
-    else{
-       $url = 'http://www.ebay.co.uk/sch/rss/?&_fls=1&LH_AvailTo=3&_trksid=m194&_sop=1&_dcat=77&_from=R40&_nkw=${keywords}&_geositeid=3&LH_PrefLoc=3'
+    else
+    {
+       $url = 'http://www.ebay.co.uk/sch/Comics-/63/i.html?rt=nc&_nkw=${Keywords}&LH_PrefLoc=3'
+       #$url = 'http://www.ebay.co.uk/sch/rss/?&_fls=1&LH_AvailTo=3&_trksid=m194&_sop=1&_dcat=77&_from=R40&_nkw=${keywords}&_geositeid=3&LH_PrefLoc=3'
     }
 
 	switch ($state)

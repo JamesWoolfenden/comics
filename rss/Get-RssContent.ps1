@@ -6,7 +6,7 @@ function Get-RssContent {
 		[string] $ExcludeWords,
 		[Parameter(Mandatory=$true)]
 		[string]$state,
-		[int] $CategoryId=0
+		[int]$CategoryId=0
 	)
 	
 	$url = Build-Url -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $CategoryId
