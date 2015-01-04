@@ -487,7 +487,7 @@ function get-records
    
    #this is the sold items
    write-debug "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {`$_.BidCount -ne '0'}"
-   $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold' -categoryid $search.category |where {$_.BidCount -ne '0'}
+   $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold' -categories $search.category |where {$_.BidCount -ne '0'}
 
    if ($soldresult)
    {
@@ -503,7 +503,7 @@ function get-records
    
    # this is the closed results
    write-debug "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {`$_.BidCount -ne '0'}"
-   $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed' -categoryid $search.category|where {$_.BidCount -eq "0"}
+   $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed' -categories $search.category|where {$_.BidCount -eq "0"}
    if ($expiredresult)
    {
       write-host "`r`nExpired" -foregroundcolor cyan
@@ -513,7 +513,7 @@ function get-records
    #these 
    if ($search.enabled)
    {
-      $result=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'Open' -categoryid $search.category
+      $result=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'Open' -categories $search.category
       $found=0
       if ($result)
       {
@@ -666,39 +666,42 @@ function get-ebidrecords
    [PSCustomObject]$search)
      
    $title=$search.title.replace(" ","%20")
-   
    [string]$stringexclude=$null
    [string]$stringinclude=$null
-   [string]$category=$search.category
 
    if ($search.exclude)
    {
-      $stringexclude =$search.exclude -join "%20-"
+      $stringexclude ="%20-"
+      $stringexclude +=$search.exclude -join "%20-"
    }
    
    if ($search.include)
    {
+      $stringinclude ="%20-"
       $stringinclude =$search.include -join "%20-"
    }
    
    Write-debug "Exclude: $stringexclude"
    Write-debug "Include: $stringinclude"
 
-   $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=$category&categoryid=$category&categoryonly=on&mo=search&type=keyword"
-
-   write-debug "Querying ebid $url"
-   $ebidresults=get-ebidresults -url "$url"
-
-   if ($ebidresults -is [system.array])
+   foreach($category in $search.category)
    {
-      write-host "`tEbid found: $($ebidresults.count)" -foregroundcolor green
-   }
-   else
-   {
-      write-host "`tEbid found: 0"
-   }
+      $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=$category&categoryid=$category&categoryonly=on&mo=search&type=keyword"
 
-   add-ebidarray -results $ebidresults -title $search.title
+      write-debug "Querying ebid $url"
+      $ebidresults=get-ebidresults -url "$url"
+
+      if ($ebidresults -is [system.array])
+      {
+         write-host "`tEbid found: $($ebidresults.count)" -foregroundcolor green
+      }
+      else
+      {
+         write-host "`tEbid found: 0"
+      }
+
+      add-ebidarray -results $ebidresults -title $search.title
+   }
 }
 
 function get-allrecords
@@ -723,6 +726,11 @@ function get-allrecords
    Write-debug "`r`nComplete."
 }
 
+function open-covers
+{
+   & explorer c:\comics\covers
+}
+
 new-alias gb get-bestbuy -force
 new-alias fr Finalize-Records -force
 new-alias ur update-recordset -force
@@ -733,3 +741,4 @@ new-alias ap get-allprices -force
 new-alias uo update-open -force
 new-alias bs get-selleritems -force
 new-alias byseller get-selleritems -force
+new-alias oc open-covers -force

@@ -23,7 +23,7 @@ function make-searchdata
    [string[]]$include=$null,
    [string[]]$exclude=$null,
    [string]$comictitle=$null,
-   [string]$category="8077",
+   [string[]]$category="8077",
    [Boolean]$Enabled=$true
    )
    

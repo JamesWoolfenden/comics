@@ -7,23 +7,29 @@ Function Get-EbayRssItems
 		[string]$ExcludeWords,
 		[Parameter(Mandatory=$true)]
 		[string]$state,
-		[int]$CategoryId
+		[int[]]$Categories
 	)
 
-	$items = @()
-	write-debug "Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $CategoryId"
-	$xml = Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $CategoryId
-	$xml.rss | % {$_.channel.item} | % {
-		$item = $_
-		try
-		{
-		   $items += Parse-ListingInfo $item
-		}
-		catch 
-		{
-           write-warning "`nFailed to parse item"
-		}
-	}
+    $results=@()
+    foreach($Category in $Categories)
+    {
+	   $items = @()
+	   write-debug "Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $Category"
+	   $xml = Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $Category
+	   $xml.rss | % {$_.channel.item} | % {
+		  $item = $_
+		  try
+		  {
+		     $items += Parse-ListingInfo $item
+		  }
+		  catch 
+		  {
+             write-warning "`nFailed to parse item"
+		  }
+	   }
+    }
 
-	return $items
+   $results+=$items
+
+	return $results
 }
