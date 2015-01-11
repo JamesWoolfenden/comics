@@ -265,18 +265,26 @@ function update-db
  
    $cmd.commandtext = "update Comics.dbo.Comics SET $updatestring where Ebayitem = '$ebayitem' and (status !='CLOSED' OR status !='expired')" 
    write-debug $cmd.commandtext
-   try
-   {   
-      $result=$cmd.executenonquery()
-   }
-   catch
+   
+   $transactionComplete=$NULL
+
+   do 
    {
-      write-error $_.exception
+      try
+      {   
+         $result=$cmd.executenonquery()
+         $transactionComplete = $true
+      }
+      catch
+      {
+         $transactionComplete = $false
+      }
+      
    }
-   finally
-   {
-      $conn.close()
-   }
+   until ($transactionComplete)
+
+
+   $conn.close()
 }
 
 function query-db

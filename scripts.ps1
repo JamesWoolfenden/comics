@@ -728,10 +728,12 @@ function get-allrecords
 
 function open-covers
 {
-   param([string]$title=$null)
+   param(
+   [string]$title=$null,
+   [string]$issue)
   
    $padtitle=$title -replace(" ","-")
-   $path= "c:\comics\covers\$padtitle\"
+   $path= "c:\comics\covers\$padtitle\$issue"
    Write-host "Opening $path"
    & explorer "`"$path`""  
 }
