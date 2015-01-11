@@ -27,6 +27,11 @@
     <Compile Include=".gitattributes" />
     <Compile Include=".gitignore" />
     <Compile Include="comicbiz.ps1" />
+    <Compile Include="covers\ADVENTURES-OF-SUPERMAN\14\14.JPG" />
+    <Compile Include="covers\DREDD\UNDERBELLYSIGNED.JPG" />
+    <Compile Include="covers\GRAYSON\1\1SIGNED.JPG" />
+    <Compile Include="covers\TALON\2\2.JPG" />
+    <Compile Include="covers\TALON\2\2SIGNED.JPG" />
     <Compile Include="DisposableHeroes.ps1" />
     <Compile Include="ebaydata.ps1" />
     <Compile Include="jqwidgets\demos\jqxgrid\comic-ratqueens.htm" />
@@ -52,6 +57,7 @@
     <Compile Include="search-data.json" />
     <Compile Include="search-data.ps1" />
     <Compile Include="show-image.ps1" />
+    <Compile Include="Slice.ps1" />
     <Compile Include="split-set.ps1" />
     <Compile Include="sql\ChangeIssue.sql" />
     <Compile Include="sql\math.sql" />
@@ -2573,8 +2579,6 @@
     <Content Include="covers\GREEN-WAKE\7\7.jpg" />
     <Content Include="covers\GUARDIANS-OF-THE-GALAXY-LEGACY\SET.JPG" />
     <Content Include="covers\Guardians-Of-The-Galaxy\0.1\0.1.JPG" />
-    <Content Include="covers\Guardians-Of-The-Galaxy\1\1THIRDEYE.jpg" />
-    <Content Include="covers\Guardians-Of-The-Galaxy\FCBD.JPG" />
     <Content Include="covers\HAPPY\SET.jpg" />
     <Content Include="covers\HARVEST\SET.jpg" />
     <Content Include="covers\HASTINGS\1\1HASTINGS.JPG" />
@@ -2635,11 +2639,8 @@
     <Content Include="covers\IRONMAN\THE INVINCIBLE IRON MAN DRAGON SEED SAGA.jpg" />
     <Content Include="covers\IRREDEEMABLE-ANT-MAN\10\10.jpg" />
     <Content Include="covers\IRREDEEMABLE-ANT-MAN\1\VOL1.jpg" />
-    <Content Include="covers\I\SET.JPG" />
     <Content Include="covers\JENNY-SPARKS\SET.jpg" />
     <Content Include="covers\JUDGE-ANDERSON\14\14.jpg" />
-    <Content Include="covers\JUDGE-DREDD--LEGENDS-OF-THE-LAW\10\10A.jpg" />
-    <Content Include="covers\JUDGE-DREDD--LEGENDS-OF-THE-LAW\4\4A.jpg" />
     <Content Include="covers\JUDGE-DREDD-CRIME-FILE\1\1.jpg" />
     <Content Include="covers\JUDGE-DREDD-CRIME-FILE\2\2.jpg" />
     <Content Include="covers\JUDGE-DREDD-CRIME-FILE\4\4.JPG" />
@@ -3267,7 +3268,6 @@
     <Content Include="covers\SCENE-OF-THE-CRIME\HARDBACK.jpg" />
     <Content Include="covers\SCENE-OF-THE-CRIME\SET.jpg" />
     <Content Include="covers\SCENE-OF-THE-CRIME\VOL.jpg" />
-    <Content Include="covers\SCRAP\1\1.jpg" />
     <Content Include="covers\SCREAM\1\1.jpg" />
     <Content Include="covers\SCREAM\7\7.jpg" />
     <Content Include="covers\SCREAM\8\8.jpg" />
@@ -5843,6 +5843,8 @@
     <Folder Include="covers\ACTION\1\" />
     <Folder Include="covers\ADVENTURE-COMICS\" />
     <Folder Include="covers\ADVENTURE-COMICS\385\" />
+    <Folder Include="covers\ADVENTURES-OF-SUPERMAN\" />
+    <Folder Include="covers\ADVENTURES-OF-SUPERMAN\14\" />
     <Folder Include="covers\AFTERLIFE-WITH-ARCHIE\" />
     <Folder Include="covers\AFTERLIFE-WITH-ARCHIE\1\" />
     <Folder Include="covers\AFTERLIFE-WITH-ARCHIE\2\" />
@@ -6242,6 +6244,7 @@
     <Folder Include="covers\DICEMAN\5\" />
     <Folder Include="covers\DREAM-MERCHANT\" />
     <Folder Include="covers\DREAM-MERCHANT\2\" />
+    <Folder Include="covers\DREDD\" />
     <Folder Include="covers\EAGLE\" />
     <Folder Include="covers\EAST-OF-WEST\" />
     <Folder Include="covers\EAST-OF-WEST\10\" />
@@ -6374,6 +6377,8 @@
     <Folder Include="covers\GODKILLER-WALK-AMONG-US\1\" />
     <Folder Include="covers\GODKILLER-WALK-AMONG-US\2\" />
     <Folder Include="covers\GODKILLER-WALK-AMONG-US\3\" />
+    <Folder Include="covers\GRAYSON\" />
+    <Folder Include="covers\GRAYSON\1\" />
     <Folder Include="covers\GREEN-GOBLIN\" />
     <Folder Include="covers\GREEN-LANTERN\" />
     <Folder Include="covers\GREEN-LANTERN\124\" />
@@ -6384,7 +6389,6 @@
     <Folder Include="covers\GUARDIANS-OF-THE-GALAXY-LEGACY\" />
     <Folder Include="covers\Guardians-Of-The-Galaxy\" />
     <Folder Include="covers\Guardians-Of-The-Galaxy\0.1\" />
-    <Folder Include="covers\Guardians-Of-The-Galaxy\1\" />
     <Folder Include="covers\HAPPY\" />
     <Folder Include="covers\HARVEST\" />
     <Folder Include="covers\HASTINGS\" />
@@ -6429,13 +6433,9 @@
     <Folder Include="covers\IRREDEEMABLE-ANT-MAN\" />
     <Folder Include="covers\IRREDEEMABLE-ANT-MAN\10\" />
     <Folder Include="covers\IRREDEEMABLE-ANT-MAN\1\" />
-    <Folder Include="covers\I\" />
     <Folder Include="covers\JENNY-SPARKS\" />
     <Folder Include="covers\JUDGE-ANDERSON\" />
     <Folder Include="covers\JUDGE-ANDERSON\14\" />
-    <Folder Include="covers\JUDGE-DREDD--LEGENDS-OF-THE-LAW\" />
-    <Folder Include="covers\JUDGE-DREDD--LEGENDS-OF-THE-LAW\10\" />
-    <Folder Include="covers\JUDGE-DREDD--LEGENDS-OF-THE-LAW\4\" />
     <Folder Include="covers\JUDGE-DREDD-CRIME-FILE\" />
     <Folder Include="covers\JUDGE-DREDD-CRIME-FILE\1\" />
     <Folder Include="covers\JUDGE-DREDD-CRIME-FILE\2\" />
@@ -6445,6 +6445,9 @@
     <Folder Include="covers\JUDGE-DREDD-JUDGE-CHILD-QUEST\1\" />
     <Folder Include="covers\JUDGE-DREDD-JUDGE-CHILD-QUEST\3\" />
     <Folder Include="covers\JUDGE-DREDD-JUDGE-CHILD-QUEST\4\" />
+    <Folder Include="covers\JUDGE-DREDD-LEGENDS-OF-THE-LAW\" />
+    <Folder Include="covers\JUDGE-DREDD-LEGENDS-OF-THE-LAW\10\" />
+    <Folder Include="covers\JUDGE-DREDD-LEGENDS-OF-THE-LAW\4\" />
     <Folder Include="covers\JUDGE-DREDD-THE-EARLY-CASES\" />
     <Folder Include="covers\JUDGE-DREDD-THE-EARLY-CASES\1\" />
     <Folder Include="covers\JUDGE-DREDD-THE-EARLY-CASES\2\" />
@@ -6830,8 +6833,6 @@
     <Folder Include="covers\SCENE-OF-THE-CRIME\2\" />
     <Folder Include="covers\SCENE-OF-THE-CRIME\3\" />
     <Folder Include="covers\SCENE-OF-THE-CRIME\4\" />
-    <Folder Include="covers\SCRAP\" />
-    <Folder Include="covers\SCRAP\1\" />
     <Folder Include="covers\SCREAM\" />
     <Folder Include="covers\SCREAM\1\" />
     <Folder Include="covers\SCREAM\7\" />
@@ -7006,6 +7007,8 @@
     <Folder Include="covers\SWAMP-THING\23\" />
     <Folder Include="covers\SWAMP-THING\2\" />
     <Folder Include="covers\SWAMP-THING\67\" />
+    <Folder Include="covers\TALON\" />
+    <Folder Include="covers\TALON\2\" />
     <Folder Include="covers\TECH-JACKET\" />
     <Folder Include="covers\TECH-JACKET\1\" />
     <Folder Include="covers\TECH-JACKET\3\" />
@@ -7412,6 +7415,7 @@
     <Folder Include="covers\WILDSTORM-COMIC-COUP-DETAT\2\" />
     <Folder Include="covers\WITCHBLADE\" />
     <Folder Include="covers\WITCHBLADE\54\" />
+    <Folder Include="covers\WIZARD\" />
     <Folder Include="covers\WOLVERINE\" />
     <Folder Include="covers\WOLVERINE\111\" />
     <Folder Include="covers\WONDER-WOMAN\" />

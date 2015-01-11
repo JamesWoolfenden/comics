@@ -123,7 +123,7 @@ function add-record
    )
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=localhost\r2;Initial Catalog=comics;Integrated Security=SSPI;"
+   $conn.ConnectionString = "Data Source=localhost\sql2014;Initial Catalog=comics;Integrated Security=SSPI;"
    $conn.open()
    
    $cmd = New-Object System.Data.SqlClient.SqlCommand
@@ -152,7 +152,7 @@ function get-db
    param([string]$ebayitem)
 
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=localhost\r2;Initial Catalog=comics;Integrated Security=SSPI;"
+   $conn.ConnectionString = "Data Source=localhost\sql2014;Initial Catalog=comics;Integrated Security=SSPI;"
    $conn.open()
    
    $cmd = New-Object System.Data.SqlClient.SqlCommand
@@ -189,7 +189,7 @@ function update-db
    )
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=localhost\r2;Initial Catalog=comics;Integrated Security=SSPI;"
+   $conn.ConnectionString = "Data Source=localhost\sql2014;Initial Catalog=comics;Integrated Security=SSPI;"
    $conn.open()
       
    $cmd = New-Object System.Data.SqlClient.SqlCommand
@@ -284,7 +284,7 @@ function query-db
    Param([string]$wherestring="where Title = '$title' And Issue = '$Issue'")
      
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=localhost\r2;Initial Catalog=comics;Integrated Security=SSPI;"
+   $conn.ConnectionString = "Data Source=localhost\sql2014;Initial Catalog=comics;Integrated Security=SSPI;"
    $conn.open()
    $cmd = New-Object System.Data.SqlClient.SqlCommand
    $cmd.connection = $conn
@@ -634,7 +634,7 @@ function get-currentprice
    [string]$wherestring="where Title = '$title' And Issue = '$Issue' and Status='CLOSED'"  
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=localhost\r2;Initial Catalog=comics;Integrated Security=SSPI;"
+   $conn.ConnectionString = "Data Source=localhost\sql2014;Initial Catalog=comics;Integrated Security=SSPI;"
    $conn.open()
    $cmd = New-Object System.Data.SqlClient.SqlCommand
    $cmd.connection = $conn
@@ -690,7 +690,7 @@ function update-issue
 
    write-Host "Modifying issue $OldIssue - $title to $NewIssue" -ForegroundColor  cyan 
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=localhost\r2;Initial Catalog=comics;Integrated Security=SSPI;"
+   $conn.ConnectionString = "Data Source=localhost\sql2014;Initial Catalog=comics;Integrated Security=SSPI;"
    $conn.open()
    $cmd = New-Object System.Data.SqlClient.SqlCommand
    $cmd.connection = $conn

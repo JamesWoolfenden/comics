@@ -728,7 +728,12 @@ function get-allrecords
 
 function open-covers
 {
-   & explorer c:\comics\covers
+   param([string]$title=$null)
+  
+   $padtitle=$title -replace(" ","-")
+   $path= "c:\comics\covers\$padtitle\"
+   Write-host "Opening $path"
+   & explorer "`"$path`""  
 }
 
 new-alias gb get-bestbuy -force

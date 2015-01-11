@@ -6,9 +6,9 @@
         "title":  "SHELTERED",
         "issue":  "11",
         "variant":  "11",
-        "price":  2.05,
+        "price":  1.54,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:47 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:49 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -18,9 +18,9 @@
         "title":  "SHELTERED",
         "issue":  "12",
         "variant":  "12 (MR)",
-        "price":  2.25,
+        "price":  1.54,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:47 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:49 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,19 +32,19 @@
         "variant":  "13 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:47 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:49 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-07/01/15/image/sheltered-14-mr-/prod_111561.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-07/01/15/image/sheltered-14-mr-/prod_111561.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-07/01/15/image/sheltered-14-mr-/prod_111561.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-21/01/15/image/sheltered-14-mr-/prod_111561.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-21/01/15/image/sheltered-14-mr-/prod_111561.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-21/01/15/image/sheltered-14-mr-/prod_111561.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
         "issue":  "14",
         "variant":  "14 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:47 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:49 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,79 @@
         "variant":  "15 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:47 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:49 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-03/prod_135922.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-03/prod_135922.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-03/prod_135922.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "SHELTERED",
+        "variant":  "SHELTERED TP VOL 03",
+        "price":  9.89,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:11:49 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-01-oct130500-/prod_135923.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-01-oct130500-/prod_135923.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-01-oct130500-/prod_135923.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "SHELTERED",
+        "variant":  "SHELTERED TP VOL 01 (OCT130500)",
+        "price":  6.75,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:11:49 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-02-may140643-/prod_135924.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-02-may140643-/prod_135924.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-02-may140643-/prod_135924.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "SHELTERED",
+        "variant":  "SHELTERED TP VOL 02 (MAY140643)",
+        "price":  9.89,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:11:49 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-11/02/15/graphic-novels-books/sheltered-tp-vol-02-may140643-/prod_136817.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-11/02/15/graphic-novels-books/sheltered-tp-vol-02-may140643-/prod_136817.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-11/02/15/graphic-novels-books/sheltered-tp-vol-02-may140643-/prod_136817.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "SHELTERED",
+        "variant":  "SHELTERED TP VOL 02 (MAY140643)",
+        "price":  10.44,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:11:49 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-18/02/15/graphic-novels-books/sheltered-tp-vol-01-oct130500-/prod_136949.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-18/02/15/graphic-novels-books/sheltered-tp-vol-01-oct130500-/prod_136949.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-18/02/15/graphic-novels-books/sheltered-tp-vol-01-oct130500-/prod_136949.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "SHELTERED",
+        "variant":  "SHELTERED TP VOL 01 (OCT130500)",
+        "price":  7.13,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:11:49 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-18/03/15/graphic-novels-books/sheltered-tp-vol-03/prod_137189.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-18/03/15/graphic-novels-books/sheltered-tp-vol-03/prod_137189.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-18/03/15/graphic-novels-books/sheltered-tp-vol-03/prod_137189.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "SHELTERED",
+        "variant":  "SHELTERED TP VOL 03",
+        "price":  10.44,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:11:49 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +140,7 @@
         "variant":  "15",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:55 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -80,7 +152,7 @@
         "variant":  "14",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:55 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -92,7 +164,7 @@
         "variant":  "13",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:55 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -104,7 +176,7 @@
         "variant":  "12",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:55 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -116,7 +188,7 @@
         "variant":  "11",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:55 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -128,7 +200,7 @@
         "variant":  "10",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:55 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -140,7 +212,7 @@
         "variant":  "9",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:55 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +224,7 @@
         "variant":  "8",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:55 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +236,7 @@
         "variant":  "7 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:55 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +248,7 @@
         "variant":  "6",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:55 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +260,7 @@
         "variant":  "5 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:55 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -200,19 +272,7 @@
         "variant":  "4 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:55 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/may130408.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may130408.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may130408.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "1",
-        "variant":  "1 FIRST PRINT",
-        "price":  7.99,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:11:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:11:55 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -223,18 +283,7 @@
         "issue":  "10",
         "variant":  "10",
         "price":  "1.95",
-        "rundate":  "Mon Dec 29 2014 10:12:04 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/119624-sheltered-6-yesteryear-variant/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/119624-sheltered-6-yesteryear-variant/\"\u003ehttps://forbiddenplanet.com/119624-sheltered-6-yesteryear-variant/\u003c/a\u003e",
-        "orderdate":  "",
-        "title":  "SHELTERED",
-        "issue":  "6 ",
-        "variant":  "Yesteryear Variant",
-        "price":  "9.99",
-        "rundate":  "Mon Dec 29 2014 10:12:04 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:12:04 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -246,7 +295,7 @@
         "variant":  "11",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:12:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:12:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -258,7 +307,7 @@
         "variant":  "12",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:12:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:12:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -270,7 +319,7 @@
         "variant":  "13",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:12:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:12:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -282,7 +331,7 @@
         "variant":  "4",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:12:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:12:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -294,7 +343,7 @@
         "variant":  "5",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:12:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:12:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -306,7 +355,7 @@
         "variant":  "7",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:12:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:12:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -318,7 +367,7 @@
         "variant":  "9",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:12:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:12:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -330,7 +379,7 @@
         "variant":  "AUG140678 SHELTERED #13 (MR)",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:12:14 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:12:15 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -342,7 +391,7 @@
         "variant":  "OCT140601 SHELTERED #15 (MR)",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:12:14 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:12:15 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -354,7 +403,7 @@
         "variant":  "SEP140751 SHELTERED #14 (MR)",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:12:14 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:12:15 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -366,7 +415,7 @@
         "variant":  "SHELTERED #11 [(W) Ed Brisson (A/CA) John Christmas]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:12:14 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:12:15 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -378,7 +427,7 @@
         "variant":  "SHELTERED #9 [(W) Ed Brisson (A/CA) John Christmas]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:12:14 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:12:15 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

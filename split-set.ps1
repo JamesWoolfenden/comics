@@ -107,7 +107,7 @@ function set-splitstate()
    )
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=localhost\r2;Initial Catalog=comics;Integrated Security=SSPI;"
+   $conn.ConnectionString = "Data Source=localhost\sql2014;Initial Catalog=comics;Integrated Security=SSPI;"
    $conn.open()
       
    $cmd = New-Object System.Data.SqlClient.SqlCommand

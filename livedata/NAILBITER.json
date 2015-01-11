@@ -6,9 +6,9 @@
         "title":  "NAILBITER",
         "issue":  "1",
         "variant":  "1 2ND PTG (MR)",
-        "price":  1.80,
+        "price":  1.35,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "5 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -30,9 +30,9 @@
         "title":  "NAILBITER",
         "issue":  "3",
         "variant":  "3 (MR)",
-        "price":  2.20,
+        "price":  1.65,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "6 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,19 +56,19 @@
         "variant":  "7 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/image/image-firsts-nailbiter-1-mr-/prod_115853.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/image/image-firsts-nailbiter-1-mr-/prod_115853.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/image/image-firsts-nailbiter-1-mr-/prod_115853.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/image/image-firsts-nailbiter-1-mr-/prod_115853.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/image/image-firsts-nailbiter-1-mr-/prod_115853.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/image/image-firsts-nailbiter-1-mr-/prod_115853.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "NAILBITER",
         "issue":  "1",
         "variant":  "1 (MR)",
         "price":  1.45,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "8 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,31 +92,19 @@
         "variant":  "3 SDCC VAR (NET)",
         "price":  9.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-07/01/15/image/nailbiter-9-mr-/prod_123372.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-07/01/15/image/nailbiter-9-mr-/prod_123372.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/january-2015/preorders-for-07/01/15/image/nailbiter-9-mr-/prod_123372.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/image/nailbiter-9-mr-/prod_123372.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/image/nailbiter-9-mr-/prod_123372.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/image/nailbiter-9-mr-/prod_123372.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "NAILBITER",
         "issue":  "9",
         "variant":  "9 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/nailbiter-10-mr-/prod_129782.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/nailbiter-10-mr-/prod_129782.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/nailbiter-10-mr-/prod_129782.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "10",
-        "variant":  "10 (MR)",
-        "price":  2.20,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,7 +116,7 @@
         "variant":  "10 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -140,7 +128,7 @@
         "variant":  "NAILBITER HACK SLASH HACK SLASH NAILBITER ONE SHOT (MR)",
         "price":  3.20,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -152,7 +140,7 @@
         "variant":  "1 (O/A) (MR)",
         "price":  1.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -164,7 +152,7 @@
         "variant":  "NAILBITER HACK SLASH HACK SLASH NAILBITER ONE SHOT (MR)",
         "price":  3.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -176,20 +164,56 @@
         "variant":  "1 (O/A) (MR)",
         "price":  1.45,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.closeencounters.co.uk/index.php/jan150593.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan150593.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan150593.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/nailbiter-tp-vol-02-bloody-hands-mr-/prod_135905.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/nailbiter-tp-vol-02-bloody-hands-mr-/prod_135905.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/nailbiter-tp-vol-02-bloody-hands-mr-/prod_135905.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "NAILBITER",
-        "issue":  "HACK",
-        "variant":  "HACK SLASH HACK SLASH ONE SHOT",
-        "price":  3.50,
+        "issue":  "NAILBITER",
+        "variant":  "NAILBITER TP VOL 02 BLOODY HANDS (MR)",
+        "price":  9.45,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:17 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/nailbiter-tp-vol-01-there-will-be-blood-aug140593-mr-/prod_135906.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/nailbiter-tp-vol-01-there-will-be-blood-aug140593-mr-/prod_135906.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/nailbiter-tp-vol-01-there-will-be-blood-aug140593-mr-/prod_135906.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "NAILBITER",
+        "issue":  "NAILBITER",
+        "variant":  "NAILBITER TP VOL 01 THERE WILL BE BLOOD (AUG140593) (MR)",
+        "price":  6.75,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-11/02/15/graphic-novels-books/nailbiter-tp-vol-01-there-will-be-blood-aug140593-mr-/prod_136784.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-11/02/15/graphic-novels-books/nailbiter-tp-vol-01-there-will-be-blood-aug140593-mr-/prod_136784.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-11/02/15/graphic-novels-books/nailbiter-tp-vol-01-there-will-be-blood-aug140593-mr-/prod_136784.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "NAILBITER",
+        "issue":  "NAILBITER",
+        "variant":  "NAILBITER TP VOL 01 THERE WILL BE BLOOD (AUG140593) (MR)",
+        "price":  7.13,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-04/03/15/graphic-novels-books/nailbiter-tp-vol-02-bloody-hands-mr-/prod_137111.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-04/03/15/graphic-novels-books/nailbiter-tp-vol-02-bloody-hands-mr-/prod_137111.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-04/03/15/graphic-novels-books/nailbiter-tp-vol-02-bloody-hands-mr-/prod_137111.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "NAILBITER",
+        "issue":  "NAILBITER",
+        "variant":  "NAILBITER TP VOL 02 BLOODY HANDS (MR)",
+        "price":  9.98,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:07:17 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
     },
     {
         "link":  "http://www.closeencounters.co.uk/index.php/dec140745.html",
@@ -200,7 +224,7 @@
         "variant":  "10",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:28 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -212,19 +236,7 @@
         "variant":  "9",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:17 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/oct140705.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140705.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140705.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "IMAGE",
-        "variant":  "IMAGE FIRSTS 1",
-        "price":  0.75,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:28 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +248,7 @@
         "variant":  "8",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:28 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +260,7 @@
         "variant":  "7",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:28 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -260,7 +272,7 @@
         "variant":  "6",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:28 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -272,7 +284,7 @@
         "variant":  "5",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:28 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -284,7 +296,7 @@
         "variant":  "4",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:28 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -296,7 +308,7 @@
         "variant":  "3",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:28 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -308,7 +320,7 @@
         "variant":  "1 SECOND PRINT",
         "price":  2.94,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:28 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -320,7 +332,7 @@
         "variant":  "1 FIRST PRINT",
         "price":  7.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:28 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -332,8 +344,19 @@
         "variant":  "2",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:17 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:28 GMT+0000 (UTC)",
         "site":  "Close Encounters"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/133977-nailbiterhackslash-hackslashnailbiter-one-shot/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/133977-nailbiterhackslash-hackslashnailbiter-one-shot/\"\u003ehttps://forbiddenplanet.com/133977-nailbiterhackslash-hackslashnailbiter-one-shot/\u003c/a\u003e",
+        "orderdate":  "4th March, 2015",
+        "title":  "NAILBITER",
+        "issue":  "Nailbiter/Hack/Slash: Hack/Slash/Nailbiter ",
+        "variant":  "One Shot",
+        "price":  "3.30",
+        "rundate":  "Mon Jan 05 2015 10:07:36 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
     },
     {
         "link":  "https://forbiddenplanet.com/132406-nailbiter-10/",
@@ -343,7 +366,7 @@
         "issue":  "10",
         "variant":  "10",
         "price":  "1.95",
-        "rundate":  "Mon Dec 29 2014 10:07:23 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:36 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -354,7 +377,7 @@
         "issue":  "9",
         "variant":  "9",
         "price":  "1.95",
-        "rundate":  "Mon Dec 29 2014 10:07:23 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:36 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -365,7 +388,7 @@
         "issue":  "3 ",
         "variant":  "CCI SDCC 2014 Variant",
         "price":  "4.99",
-        "rundate":  "Mon Dec 29 2014 10:07:23 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:36 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -376,7 +399,7 @@
         "issue":  "4",
         "variant":  "4",
         "price":  "1.95",
-        "rundate":  "Mon Dec 29 2014 10:07:23 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:36 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -388,7 +411,7 @@
         "variant":  "9 *HOT BOOK* (1ST APPEARANCE OF NAILBITER)",
         "price":  7.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -400,7 +423,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -412,7 +435,7 @@
         "variant":  "1 *HOT BOOK*",
         "price":  7.99,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -424,7 +447,7 @@
         "variant":  "2",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -436,7 +459,7 @@
         "variant":  "3",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -448,7 +471,7 @@
         "variant":  "4",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -460,7 +483,7 @@
         "variant":  "7",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -472,7 +495,7 @@
         "variant":  "8",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:41 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -484,7 +507,7 @@
         "variant":  "NAILBITER #STANDING ORDER",
         "price":  0.00,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:46 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -496,7 +519,7 @@
         "variant":  "DEC140745 NAILBITER #10 (MR)",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:46 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -508,7 +531,19 @@
         "variant":  "IMAGE FIRSTS NAILBITER #1 (MR) []",
         "price":  0.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:46 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=91024\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=91024\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=91024\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "NAILBITER",
+        "issue":  "NAILBITER HACK SLASH HACK SLASH NAILBITER ONE SHOT (MR)",
+        "variant":  "JAN150593 NAILBITER HACK SLASH HACK SLASH NAILBITER ONE SHOT (MR)",
+        "price":  4.00,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:07:46 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -520,7 +555,7 @@
         "variant":  "NAILBITER #2 (MR) [(W) Joshua Williamson (A/CA) Mike Henderson]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:46 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -532,7 +567,7 @@
         "variant":  "NAILBITER #3 (MR) [(W) Joshua Williamson (A/CA) Mike Henderson]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:46 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -544,7 +579,7 @@
         "variant":  "NAILBITER #4 (MR) [(W) Joshua Williamson (A/CA) Mike Henderson]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:46 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -556,7 +591,7 @@
         "variant":  "NAILBITER #5 (MR) [(W) Joshua Williamson (A/CA) Mike Henderson]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:46 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -568,7 +603,7 @@
         "variant":  "NAILBITER #6 (MR) [(W) Joshua Williamson (A/CA) Mike Henderson]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:46 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -580,19 +615,7 @@
         "variant":  "NAILBITER #7 (MR) [(W) Joshua Williamson (A/CA) Mike Henderson]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:34 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87377\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87377\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87377\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "8",
-        "variant":  "NAILBITER #8 (MR) [(W) Joshua Williamson (A/CA) Mike Henderson]",
-        "price":  2.40,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:46 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -601,10 +624,10 @@
         "orderdate":  null,
         "title":  "NAILBITER",
         "issue":  "9",
-        "variant":  "NOV140665 NAILBITER #9 (MR)",
+        "variant":  "NAILBITER #9 (MR) [(W) Joshua Williamson (A/CA) Mike Henderson]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:46 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -616,7 +639,7 @@
         "variant":  "OCT140705 IMAGE FIRSTS NAILBITER #1 (MR)",
         "price":  0.80,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:07:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:07:46 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

@@ -23,8 +23,8 @@ function write-prices
       $filetitle="$title"+$(datestring)
       $prices |ConvertTo-Json -depth 999 | Out-File "$root\prices\$($filetitle).json" -Encoding ascii
       cp $root\prices\$($filetitle).json "$root\prices\latest-$($title).json"
-      $prices |ConvertTo-Json -depth 999 | Out-File "$root\prices\$($filetitle).txt" -Encoding utf8
-      cp $root\prices\$($filetitle).txt "$root\prices\latest-$($title).txt"
+      #$prices |ConvertTo-Json -depth 999 | Out-File "$root\prices\$($filetitle).txt" -Encoding utf8
+      #cp $root\prices\$($filetitle).txt "$root\prices\latest-$($title).txt"
    }
    Else
    {

@@ -56,9 +56,7 @@ function get-market
    }
 
    $allrecords |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle).json" -Encoding ascii
-   $allrecords |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle).txt" -Encoding utf8
-
-   #$allrecords |ConvertTo-Json -depth 999 
+   #$allrecords |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle).txt" -Encoding utf8
 }
 
 get-market -title "ENORMOUS"
@@ -99,3 +97,5 @@ get-market -title "WYTCHES"
 get-market -title "BIRTHRIGHT"
 get-market -title "RASPUTIN"
 get-market -title "ENORMOUS"
+get-market -title "THE AUTUMNLANDS"
+

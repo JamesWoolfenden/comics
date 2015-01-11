@@ -6,9 +6,9 @@
         "title":  "IMPERIAL",
         "issue":  "1",
         "variant":  "1",
-        "price":  2.20,
+        "price":  1.65,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -18,9 +18,9 @@
         "title":  "IMPERIAL",
         "issue":  "2",
         "variant":  "2",
-        "price":  2.20,
+        "price":  1.65,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "MARVEL GN COLL VOL 34 NEW X-MEN VOL 2 IMPERIAL HC (C: 0 2013 DHC",
         "price":  9.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -42,9 +42,9 @@
         "title":  "IMPERIAL",
         "issue":  "3",
         "variant":  "3",
-        "price":  2.25,
+        "price":  1.61,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,199 +56,7 @@
         "variant":  "4",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-chewbacca-pack-c-0-1-2-/prod_132179.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-chewbacca-pack-c-0-1-2-/prod_132179.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-chewbacca-pack-c-0-1-2-/prod_132179.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT CHEWBACCA PACK (C: 0-1-2)",
-        "price":  9.41,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-dice-pack-c-0-1-2-/prod_132180.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-dice-pack-c-0-1-2-/prod_132180.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-dice-pack-c-0-1-2-/prod_132180.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT DICE PACK (C: 0-1-2)",
-        "price":  10.78,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-general-weiss-pack-c-0-1-2-/prod_132181.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-general-weiss-pack-c-0-1-2-/prod_132181.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-general-weiss-pack-c-0-1-2-/prod_132181.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT GENERAL WEISS PACK (C: 0-1-2)",
-        "price":  14.66,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-han-solo-pack-c-0-1-2-/prod_132182.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-han-solo-pack-c-0-1-2-/prod_132182.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-han-solo-pack-c-0-1-2-/prod_132182.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT HAN SOLO PACK (C: 0-1-2)",
-        "price":  9.41,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-ig-88-pack-c-0-1-2-/prod_132183.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-ig-88-pack-c-0-1-2-/prod_132183.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-ig-88-pack-c-0-1-2-/prod_132183.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT IG-88 PACK (C: 0-1-2)",
-        "price":  9.41,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-rebel-saboteurs-pack-c-0-1-2-/prod_132184.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-rebel-saboteurs-pack-c-0-1-2-/prod_132184.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-rebel-saboteurs-pack-c-0-1-2-/prod_132184.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT REBEL SABOTEURS PACK (C: 0-1-2)",
-        "price":  12.36,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-rebel-troopers-pack-c-0-1-2-/prod_132185.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-rebel-troopers-pack-c-0-1-2-/prod_132185.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-rebel-troopers-pack-c-0-1-2-/prod_132185.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT REBEL TROOPERS PACK (C: 0-1-2)",
-        "price":  12.36,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-royal-guard-champion-pack-c-0-1/prod_132186.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-royal-guard-champion-pack-c-0-1/prod_132186.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-imperial-assault-royal-guard-champion-pack-c-0-1/prod_132186.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT ROYAL GUARD CHAMPION PACK (C: 0-1",
-        "price":  9.41,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-chewbacca-pack-c-0-1-2-/prod_133362.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-chewbacca-pack-c-0-1-2-/prod_133362.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-chewbacca-pack-c-0-1-2-/prod_133362.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT CHEWBACCA PACK (C: 0-1-2)",
-        "price":  9.94,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-dice-pack-c-0-1-2-/prod_133363.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-dice-pack-c-0-1-2-/prod_133363.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-dice-pack-c-0-1-2-/prod_133363.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT DICE PACK (C: 0-1-2)",
-        "price":  11.42,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-general-weiss-pack-c-0-1-2-/prod_133364.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-general-weiss-pack-c-0-1-2-/prod_133364.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-general-weiss-pack-c-0-1-2-/prod_133364.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT GENERAL WEISS PACK (C: 0-1-2)",
-        "price":  15.64,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-han-solo-pack-c-0-1-2-/prod_133365.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-han-solo-pack-c-0-1-2-/prod_133365.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-han-solo-pack-c-0-1-2-/prod_133365.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT HAN SOLO PACK (C: 0-1-2)",
-        "price":  9.94,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-ig-88-pack-c-0-1-2-/prod_133366.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-ig-88-pack-c-0-1-2-/prod_133366.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-ig-88-pack-c-0-1-2-/prod_133366.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT IG-88 PACK (C: 0-1-2)",
-        "price":  9.94,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-rebel-saboteurs-pack-c-0-1-2-/prod_133367.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-rebel-saboteurs-pack-c-0-1-2-/prod_133367.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-rebel-saboteurs-pack-c-0-1-2-/prod_133367.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT REBEL SABOTEURS PACK (C: 0-1-2)",
-        "price":  13.14,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-rebel-troopers-pack-c-0-1-2-/prod_133368.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-rebel-troopers-pack-c-0-1-2-/prod_133368.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-rebel-troopers-pack-c-0-1-2-/prod_133368.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT REBEL TROOPERS PACK (C: 0-1-2)",
-        "price":  13.14,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-royal-guard-champion-pack-c-0-1/prod_133369.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-royal-guard-champion-pack-c-0-1/prod_133369.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-merchandise/star-wars-imperial-assault-royal-guard-champion-pack-c-0-1/prod_133369.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "STAR",
-        "variant":  "STAR WARS IMPERIAL ASSAULT ROYAL GUARD CHAMPION PACK (C: 0-1",
-        "price":  9.94,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -260,7 +68,7 @@
         "variant":  "1 ELITE IMPERIAL GOLD WAID SGN (C: 0-1-2)",
         "price":  58.50,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -272,7 +80,7 @@
         "variant":  "1 ELITE IMPERIAL GOLD DODSON SGN (C: 0-1-2",
         "price":  58.50,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -284,7 +92,7 @@
         "variant":  "1 ELITE IMPERIAL GOLD WAID SGN (C: 0-1-2)",
         "price":  61.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -296,20 +104,32 @@
         "variant":  "1 ELITE IMPERIAL GOLD DODSON SGN (C: 0-1-2",
         "price":  61.75,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:50 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:18 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.closeencounters.co.uk/index.php/jan150518.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan150518.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan150518.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-armada-imperial-fighter-squadrons-exp-c-0-1-2-/prod_136644.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-armada-imperial-fighter-squadrons-exp-c-0-1-2-/prod_136644.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-armada-imperial-fighter-squadrons-exp-c-0-1-2-/prod_136644.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "IMPERIAL",
-        "issue":  "GODZILLA",
-        "variant":  "GODZILLA RULERS OF THE EARTH 22",
-        "price":  2.90,
+        "issue":  "STAR",
+        "variant":  "STAR WARS ARMADA IMPERIAL FIGHTER SQUADRONS EXP (C: 0-1-2)",
+        "price":  15.38,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
+        "rundate":  "Mon Jan 05 2015 10:19:18 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-25/03/15/other-merchandise/star-wars-armada-imperial-fighter-squadrons-exp-c-0-1-2-/prod_137323.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-25/03/15/other-merchandise/star-wars-armada-imperial-fighter-squadrons-exp-c-0-1-2-/prod_137323.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-25/03/15/other-merchandise/star-wars-armada-imperial-fighter-squadrons-exp-c-0-1-2-/prod_137323.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS ARMADA IMPERIAL FIGHTER SQUADRONS EXP (C: 0-1-2)",
+        "price":  16.42,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:19:18 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
     },
     {
         "link":  "http://www.closeencounters.co.uk/index.php/jan150450.html",
@@ -320,7 +140,19 @@
         "variant":  "GI JOE A REAL AMERICAN HERO 212",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan150518.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan150518.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan150518.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "GODZILLA",
+        "variant":  "GODZILLA RULERS OF THE EARTH 22",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -332,7 +164,7 @@
         "variant":  "GODZILLA RULERS OF THE EARTH 21",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -344,7 +176,7 @@
         "variant":  "GI JOE A REAL AMERICAN HERO 211",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -356,7 +188,7 @@
         "variant":  "GODZILLA RULERS OF THE EARTH 20",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -368,7 +200,7 @@
         "variant":  "GI JOE A REAL AMERICAN HERO 210",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -380,7 +212,7 @@
         "variant":  "GI JOE A REAL AMERICAN HERO 209",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -392,19 +224,7 @@
         "variant":  "GODZILLA RULERS OF THE EARTH 19",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/sep140463.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep140463.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep140463.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "GI",
-        "variant":  "GI JOE A REAL AMERICAN HERO 208",
-        "price":  2.90,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -416,7 +236,19 @@
         "variant":  "GODZILLA RULERS OF THE EARTH 18",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep140463.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep140463.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep140463.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "GI",
+        "variant":  "GI JOE A REAL AMERICAN HERO 208",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -428,19 +260,7 @@
         "variant":  "4",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/aug140403.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140403.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140403.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "GODZILLA",
-        "variant":  "GODZILLA RULERS OF THE EARTH 17",
-        "price":  2.90,
-        "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -452,7 +272,19 @@
         "variant":  "GI JOE A REAL AMERICAN HERO 207",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug140403.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140403.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140403.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "GODZILLA",
+        "variant":  "GODZILLA RULERS OF THE EARTH 17",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -464,7 +296,7 @@
         "variant":  "3",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -476,7 +308,7 @@
         "variant":  "GODZILLA RULERS OF THE EARTH 16",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -488,7 +320,7 @@
         "variant":  "GI JOE A REAL AMERICAN HERO 206",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -500,7 +332,7 @@
         "variant":  "2",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -512,7 +344,7 @@
         "variant":  "GODZILLA RULERS OF THE EARTH 15",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -524,7 +356,7 @@
         "variant":  "GI JOE A REAL AMERICAN HERO 205",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -536,7 +368,7 @@
         "variant":  "1 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -548,7 +380,7 @@
         "variant":  "SOVEREIGN 5",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -560,7 +392,7 @@
         "variant":  "GODZILLA RULERS OF THE EARTH 14",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -572,7 +404,7 @@
         "variant":  "GI JOE A REAL AMERICAN HERO 204",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -584,7 +416,7 @@
         "variant":  "ROYALS MASTERS OF WAR 6",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -596,7 +428,7 @@
         "variant":  "GI JOE A REAL AMERICAN HERO 203",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -608,7 +440,7 @@
         "variant":  "GODZILLA RULERS OF THE EARTH 13",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -620,7 +452,7 @@
         "variant":  "SOVEREIGN 4",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -632,7 +464,7 @@
         "variant":  "ROYALS MASTERS OF WAR 5",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -644,7 +476,7 @@
         "variant":  "GODZILLA RULERS OF THE EARTH 12",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -656,7 +488,7 @@
         "variant":  "SOVEREIGN 3",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:18:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:27 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -667,7 +499,7 @@
         "issue":  "2",
         "variant":  "2",
         "price":  "1.95",
-        "rundate":  "Mon Dec 29 2014 10:19:07 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:36 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -679,7 +511,7 @@
         "variant":  "1",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:19:11 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -691,7 +523,7 @@
         "variant":  "2",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:19:11 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -703,7 +535,7 @@
         "variant":  "3",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:19:11 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -715,7 +547,7 @@
         "variant":  "4",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:19:11 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -727,7 +559,7 @@
         "variant":  "1",
         "price":  3.29,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:19:11 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -739,7 +571,7 @@
         "variant":  "3",
         "price":  3.29,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:19:11 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -751,7 +583,7 @@
         "variant":  "4",
         "price":  3.29,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:19:11 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -763,7 +595,7 @@
         "variant":  "5",
         "price":  3.29,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:19:11 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:40 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -775,7 +607,7 @@
         "variant":  "IMPERIAL #STANDING ORDER",
         "price":  0.00,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:19:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:47 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -787,7 +619,7 @@
         "variant":  "AUG140655 IMPERIAL #3",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:19:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:47 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -799,7 +631,31 @@
         "variant":  "IMPERIAL #1 [(W) Steven T. Seagle (A/CA) Marc Dos Santos]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:19:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:47 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=91393\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=91393\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=91393\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "1",
+        "variant":  "JAN151416 DF PRINCESS LEIA #1 ELITE IMPERIAL GOLD WAID SGN (C: 0-1-2)",
+        "price":  65.00,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:19:47 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=91396\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=91396\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=91396\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "1",
+        "variant":  "JAN151419 DF PRINCESS LEIA #1 ELITE IMPERIAL GOLD DODSON SGN (C: 0-1-2",
+        "price":  65.00,
+        "currency":  "?",
+        "rundate":  "Mon Jan 05 2015 10:19:47 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -811,7 +667,7 @@
         "variant":  "SEP140727 IMPERIAL #4",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Dec 29 2014 10:19:18 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 05 2015 10:19:47 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]
