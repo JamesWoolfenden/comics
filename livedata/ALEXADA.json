@@ -8,7 +8,7 @@
         "variant":  "ALEX + ADA 13",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "ALEX + ADA 12",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "ALEX + ADA 11",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "ALEX + ADA 10",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "ALEX + ADA 9",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "ALEX + ADA 8",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "ALEX + ADA 7",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "ALEX + ADA 6",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -104,19 +104,7 @@
         "variant":  "ALEX + ADA 5",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/dec130557.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec130557.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec130557.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  "ALEX",
-        "variant":  "ALEX + ADA 4 FIRST PRINT",
-        "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -128,19 +116,19 @@
         "variant":  "ALEX + ADA 4 SECOND PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
-        "link":  "http://www.closeencounters.co.uk/index.php/jan148303.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan148303.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan148303.html\u003c/a\u003e",
+        "link":  "http://www.closeencounters.co.uk/index.php/dec130557.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec130557.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec130557.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ALEX ADA",
         "issue":  "ALEX",
-        "variant":  "ALEX + ADA 3 SECOND PRINT",
+        "variant":  "ALEX + ADA 4 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +140,19 @@
         "variant":  "ALEX + ADA 3 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan148303.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan148303.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan148303.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "ALEX",
+        "variant":  "ALEX + ADA 3 SECOND PRINT",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,19 +164,7 @@
         "variant":  "ALEX + ADA 2 FIRST PRINT",
         "price":  7.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/sep130479.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep130479.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep130479.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  "ALEX",
-        "variant":  "ALEX + ADA 1 FIRST PRINT",
-        "price":  12.99,
-        "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +176,19 @@
         "variant":  "ALEX + ADA 1 SECOND PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep130479.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep130479.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep130479.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "ALEX",
+        "variant":  "ALEX + ADA 1 FIRST PRINT",
+        "price":  12.99,
+        "currency":  "?",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -200,7 +200,7 @@
         "variant":  "SECRET AVENGERS 26 AVX - AVENGERS VS X-MEN TIE IN -",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -212,7 +212,7 @@
         "variant":  "SECRET AVENGERS 25",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -224,7 +224,7 @@
         "variant":  "SECRET AVENGERS 22",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +236,7 @@
         "variant":  "SECRET AVENGERS 21",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +248,7 @@
         "variant":  "NEW MUTANTS 1 MCCLEOD VARIANT",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -259,7 +259,7 @@
         "issue":  "13",
         "variant":  "13",
         "price":  "1.95",
-        "rundate":  "Mon Jan 05 2015 10:20:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:25 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -270,7 +270,7 @@
         "issue":  "12",
         "variant":  "12",
         "price":  "1.95",
-        "rundate":  "Mon Jan 05 2015 10:20:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:25 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -282,7 +282,7 @@
         "variant":  "10",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -294,7 +294,7 @@
         "variant":  "11",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -306,7 +306,7 @@
         "variant":  "3",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -318,7 +318,7 @@
         "variant":  "4",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -330,7 +330,7 @@
         "variant":  "6",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -342,7 +342,7 @@
         "variant":  "7",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -354,7 +354,7 @@
         "variant":  "8",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -366,7 +366,7 @@
         "variant":  "9",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:51 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -378,7 +378,7 @@
         "variant":  "ALEX + ADA #STANDING ORDER",
         "price":  0.00,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -390,7 +390,7 @@
         "variant":  "IMAGE FIRSTS ALEX + ADA #STANDING ORDER",
         "price":  0.00,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -402,7 +402,7 @@
         "variant":  "ALEX + ADA #11 [(W) Jonathan Luna, Sarah Vaughn (A/CA) Jonathan Luna]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -414,7 +414,7 @@
         "variant":  "IMAGE FIRSTS ALEX + ADA #1 [(W) Jonathan Luna, Sarah Vaughn (A/CA) Jonathan Luna]",
         "price":  0.80,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -426,7 +426,7 @@
         "variant":  "JAN150668 ALEX + ADA #13",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -438,7 +438,7 @@
         "variant":  "NOV140641 ALEX + ADA #12",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -448,9 +448,9 @@
         "title":  "ALEX ADA",
         "issue":  "MOVIE ADAPTATION [Kris Oprisko (w); Alex Milne (a) ]",
         "variant":  "TRANSFORMERS MOVIE ADAPTATION [Kris Oprisko (w); Alex Milne (a) ]",
-        "price":  6.75,
+        "price":  13.50,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:20:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:22:35 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

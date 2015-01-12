@@ -1,17 +1,5 @@
 [
     {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/thief-of-thieves-24-mr-/prod_55651.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/thief-of-thieves-24-mr-/prod_55651.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/thief-of-thieves-24-mr-/prod_55651.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "24",
-        "variant":  "24 (MR)",
-        "price":  1.65,
-        "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:13 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
         "link":  "http://www.disposableheroes.co.uk/back-issues/image/thief-of-thieves-25-mr-/prod_61023.html",
         "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/thief-of-thieves-25-mr-/prod_61023.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/thief-of-thieves-25-mr-/prod_61023.html\u003c/a\u003e",
         "orderdate":  null,
@@ -20,7 +8,7 @@
         "variant":  "25 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:46 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +20,7 @@
         "variant":  "16 (MR)",
         "price":  1.35,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:46 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +32,7 @@
         "variant":  "17 (MR) 2013 DHC",
         "price":  1.43,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:46 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +44,7 @@
         "variant":  "19 (MR) DHC",
         "price":  1.46,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:46 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +56,7 @@
         "variant":  "26 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:46 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +68,7 @@
         "variant":  "27 (MR)",
         "price":  2.20,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:46 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +80,7 @@
         "variant":  "27 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:13 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:46 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +92,7 @@
         "variant":  "27",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -116,7 +104,7 @@
         "variant":  "26",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -128,7 +116,7 @@
         "variant":  "25",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -140,7 +128,7 @@
         "variant":  "24",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +140,7 @@
         "variant":  "23",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +152,7 @@
         "variant":  "22",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +164,7 @@
         "variant":  "DREAM THIEF ESCAPE 1 OF 4",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +176,7 @@
         "variant":  "21",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -200,7 +188,7 @@
         "variant":  "20",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -212,7 +200,7 @@
         "variant":  "19 FIRST PRINT IMAGE",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -224,7 +212,7 @@
         "variant":  "18 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +224,7 @@
         "variant":  "17",
         "price":  1.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +236,7 @@
         "variant":  "15",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -260,7 +248,7 @@
         "variant":  "14",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -272,7 +260,7 @@
         "variant":  "13",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -284,7 +272,7 @@
         "variant":  "12",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -296,7 +284,7 @@
         "variant":  "11",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -308,7 +296,7 @@
         "variant":  "10 FIRST PRINT",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -320,7 +308,7 @@
         "variant":  "10 SECOND PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -332,19 +320,7 @@
         "variant":  "9 FIRST PRINT",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jul120390.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul120390.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul120390.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "8",
-        "variant":  "8 FIRST PRINT",
-        "price":  5.94,
-        "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -356,7 +332,19 @@
         "variant":  "8 SECOND PRINT",
         "price":  2.94,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul120390.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul120390.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul120390.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "8",
+        "variant":  "8 FIRST PRINT",
+        "price":  5.94,
+        "currency":  "?",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -368,7 +356,7 @@
         "variant":  "7 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -380,7 +368,7 @@
         "variant":  "6 FIRST PRINT",
         "price":  4.94,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -392,7 +380,7 @@
         "variant":  "3 FOURTH PRINT",
         "price":  2.14,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -404,7 +392,7 @@
         "variant":  "4 FIRST PRINT",
         "price":  12.94,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -416,7 +404,7 @@
         "variant":  "3 FIRST PRINT",
         "price":  15.94,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -428,7 +416,7 @@
         "variant":  "2 FIRST PRINT",
         "price":  24.94,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -440,7 +428,7 @@
         "variant":  "1 FIRST PRINT",
         "price":  48.94,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:28 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:53 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -451,7 +439,7 @@
         "issue":  "27",
         "variant":  "27",
         "price":  "1.95",
-        "rundate":  "Mon Jan 05 2015 10:13:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:57 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -462,7 +450,7 @@
         "issue":  "26",
         "variant":  "26",
         "price":  "1.95",
-        "rundate":  "Mon Jan 05 2015 10:13:32 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:14:57 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -474,7 +462,7 @@
         "variant":  "1",
         "price":  1.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -486,7 +474,7 @@
         "variant":  "1 (3RD PRINT) *HOT BOOK*",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -498,7 +486,7 @@
         "variant":  "10 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -510,7 +498,7 @@
         "variant":  "13",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -522,7 +510,7 @@
         "variant":  "14",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -534,7 +522,7 @@
         "variant":  "17",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -546,7 +534,7 @@
         "variant":  "18",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -558,7 +546,7 @@
         "variant":  "19",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -570,7 +558,7 @@
         "variant":  "2 (2ND PRINT)",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -582,7 +570,7 @@
         "variant":  "20",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -594,7 +582,7 @@
         "variant":  "21",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -606,7 +594,7 @@
         "variant":  "22",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -618,7 +606,7 @@
         "variant":  "23",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -630,7 +618,7 @@
         "variant":  "24",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -642,7 +630,7 @@
         "variant":  "25",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -654,7 +642,7 @@
         "variant":  "5 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -666,7 +654,7 @@
         "variant":  "6 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -678,7 +666,7 @@
         "variant":  "8",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:37 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:02 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -690,7 +678,7 @@
         "variant":  "DEC140768 THIEF OF THIEVES #26 (MR)",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:07 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -702,7 +690,7 @@
         "variant":  "JAN150715 THIEF OF THIEVES #27 (MR)",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:13:42 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:15:07 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

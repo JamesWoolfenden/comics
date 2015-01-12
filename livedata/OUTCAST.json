@@ -8,7 +8,7 @@
         "variant":  "1",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "3 (MR)",
         "price":  1.69,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "1 CGC GRADED 9.8 (C: 0-1-2)",
         "price":  56.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "4 (MR)",
         "price":  1.35,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "2",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,43 +68,19 @@
         "variant":  "5 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/image/outcast-by-kirkman-azaceta-6-mr-/prod_111808.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/image/outcast-by-kirkman-azaceta-6-mr-/prod_111808.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/image/outcast-by-kirkman-azaceta-6-mr-/prod_111808.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/back-issues/image/outcast-by-kirkman-azaceta-6-mr-/prod_111808.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/outcast-by-kirkman-azaceta-6-mr-/prod_111808.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/outcast-by-kirkman-azaceta-6-mr-/prod_111808.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "OUTCAST",
         "issue":  "6",
         "variant":  "6 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/outcast-by-kirkman-azaceta-2-2nd-ptg-mr-/prod_111983.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/outcast-by-kirkman-azaceta-2-2nd-ptg-mr-/prod_111983.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/outcast-by-kirkman-azaceta-2-2nd-ptg-mr-/prod_111983.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "OUTCAST",
-        "issue":  "2",
-        "variant":  "2 2ND PTG (MR)",
-        "price":  2.15,
-        "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/outcast-by-kirkman-azaceta-1-4th-ptg-mr-/prod_112031.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/outcast-by-kirkman-azaceta-1-4th-ptg-mr-/prod_112031.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/outcast-by-kirkman-azaceta-1-4th-ptg-mr-/prod_112031.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "OUTCAST",
-        "issue":  "1",
-        "variant":  "1 4TH PTG (MR)",
-        "price":  1.58,
-        "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +92,7 @@
         "variant":  "1 (MR)",
         "price":  1.45,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,7 +104,7 @@
         "variant":  "3 2ND PTG (MR)",
         "price":  1.65,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -140,7 +116,7 @@
         "variant":  "1 5TH PTG (MR)",
         "price":  1.43,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -152,7 +128,7 @@
         "variant":  "4 2ND PTG (MR)",
         "price":  2.03,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -164,7 +140,7 @@
         "variant":  "1 (OF 5) OUTCAST",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -176,7 +152,7 @@
         "variant":  "2 3RD PTG (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -188,7 +164,7 @@
         "variant":  "5 2ND PTG (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -200,7 +176,7 @@
         "variant":  "7 (MR)",
         "price":  2.20,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -212,7 +188,7 @@
         "variant":  "7 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:15 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -224,7 +200,7 @@
         "variant":  "BY KIRKMAN \u0026 AZACETA 7",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +212,7 @@
         "variant":  "BY KIRKMAN \u0026 AZACETA 6",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +224,7 @@
         "variant":  "BY KIRKMAN \u0026 AZACETA 5",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -260,7 +236,7 @@
         "variant":  "BY KIRKMAN \u0026 AZACETA 4",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -272,19 +248,7 @@
         "variant":  "FAIRY QUEST OUTCASTS 2",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:22 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jun140931.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140931.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140931.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "OUTCAST",
-        "issue":  "FAIRY",
-        "variant":  "FAIRY QUEST OUTCASTS 1",
-        "price":  2.90,
-        "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -296,7 +260,19 @@
         "variant":  "3 KIRKMAN \u0026 AZACETTA",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:49 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun140931.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140931.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140931.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "OUTCAST",
+        "issue":  "FAIRY",
+        "variant":  "FAIRY QUEST OUTCASTS 1",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Jan 12 2015 10:17:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -308,7 +284,7 @@
         "variant":  "2 SECOND PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -320,7 +296,7 @@
         "variant":  "2 FIRST PRINT",
         "price":  2.45,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -332,7 +308,7 @@
         "variant":  "1 FIRST PRINT",
         "price":  5.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:22 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -343,7 +319,7 @@
         "issue":  "7",
         "variant":  "7",
         "price":  "1.95",
-        "rundate":  "Mon Jan 05 2015 10:16:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:53 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -354,7 +330,7 @@
         "issue":  "1 Outcast Part 1",
         "variant":  "1 Outcast Part 1",
         "price":  "2.40",
-        "rundate":  "Mon Jan 05 2015 10:16:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:53 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -365,7 +341,7 @@
         "issue":  "6",
         "variant":  "6",
         "price":  "1.95",
-        "rundate":  "Mon Jan 05 2015 10:16:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:53 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -376,7 +352,7 @@
         "issue":  "5",
         "variant":  "5",
         "price":  "1.95",
-        "rundate":  "Mon Jan 05 2015 10:16:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:53 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -387,7 +363,7 @@
         "issue":  "4",
         "variant":  "4",
         "price":  "1.95",
-        "rundate":  "Mon Jan 05 2015 10:16:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:53 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -398,7 +374,7 @@
         "issue":  "2 ",
         "variant":  "2nd Printing",
         "price":  "1.95",
-        "rundate":  "Mon Jan 05 2015 10:16:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:53 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -409,7 +385,7 @@
         "issue":  "3",
         "variant":  "3",
         "price":  "1.95",
-        "rundate":  "Mon Jan 05 2015 10:16:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:53 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -420,7 +396,7 @@
         "issue":  "2",
         "variant":  "2",
         "price":  "1.95",
-        "rundate":  "Mon Jan 05 2015 10:16:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:53 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -432,7 +408,7 @@
         "variant":  "1",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:57 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -444,7 +420,7 @@
         "variant":  "2",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:57 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -456,7 +432,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:57 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -468,7 +444,7 @@
         "variant":  "1 (5TH PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:57 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -480,7 +456,7 @@
         "variant":  "2 (1ST PRINT)",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:57 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -492,7 +468,7 @@
         "variant":  "2 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:57 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -504,7 +480,7 @@
         "variant":  "3 (1ST PRINT)",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:57 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -516,7 +492,7 @@
         "variant":  "4",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:57 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -528,7 +504,7 @@
         "variant":  "5",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:57 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -540,7 +516,7 @@
         "variant":  "6",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:46 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:17:57 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -552,7 +528,7 @@
         "variant":  "OUTCAST BY KIRKMAN \u0026 AZACETA #STANDING ORDER",
         "price":  0.00,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:18:05 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -564,7 +540,7 @@
         "variant":  "DEC140095 EI8HT #1 (OF 5) OUTCAST",
         "price":  2.80,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:18:05 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -576,7 +552,7 @@
         "variant":  "IMAGE FIRSTS OUTCAST #1 (MR) []",
         "price":  0.80,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:18:05 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -588,7 +564,7 @@
         "variant":  "JAN150696 OUTCAST BY KIRKMAN \u0026 AZACETA #7 (MR)",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:18:05 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -600,7 +576,7 @@
         "variant":  "OCT140699 IMAGE FIRSTS OUTCAST #1 (MR)",
         "price":  0.80,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:18:05 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -612,7 +588,7 @@
         "variant":  "OUTCAST BY KIRKMAN \u0026 AZACETA #1 (MR) [(W) Robert Kirkman (A) Paul Azaceta, Elizabeth Breitweiser (CA) Paul Azaceta]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:18:05 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -624,7 +600,7 @@
         "variant":  "OUTCAST BY KIRKMAN \u0026 AZACETA #1 (MR) [(W) Robert Kirkman (A) Paul Azaceta, Elizabeth Breitweiser (CA) Paul Azaceta]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:18:05 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -636,7 +612,7 @@
         "variant":  "OUTCAST BY KIRKMAN \u0026 AZACETA #1 3RD PT [(W) Robert Kirkman (A) Paul Azaceta, Elizabeth Breitweiser (CA) Paul Azaceta]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:18:05 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -648,7 +624,7 @@
         "variant":  "OUTCAST BY KIRKMAN \u0026 AZACETA #2 (MR) [(W) Robert Kirkman (A) Paul Azaceta, Elizabeth Breitweiser (CA) Paul Azaceta]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:18:05 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -660,7 +636,7 @@
         "variant":  "OUTCAST BY KIRKMAN \u0026 AZACETA #2 2ND PT [(W) Robert Kirkman (A) Paul Azaceta, Elizabeth Breitweiser (CA) Paul Azaceta]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:18:05 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -672,7 +648,7 @@
         "variant":  "OUTCAST BY KIRKMAN \u0026 AZACETA #3 (MR) [(W) Robert Kirkman (A) Paul Azaceta, Elizabeth Breitweiser (CA) Paul Azaceta]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:18:05 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -684,7 +660,7 @@
         "variant":  "OUTCAST BY KIRKMAN \u0026 AZACETA #4 (MR) [(W) Robert Kirkman (A/CA) Paul Azaceta, Elizabeth Breitweiser]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:18:05 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -696,7 +672,7 @@
         "variant":  "OUTCAST BY KIRKMAN \u0026 AZACETA #5 (MR) [(W) Robert Kirkman (A/CA) Paul Azaceta, Elizabeth Breitweiser]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:18:05 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -708,7 +684,7 @@
         "variant":  "OUTCAST BY KIRKMAN \u0026 AZACETA #6 (MR) [(W) Robert Kirkman (A/CA) Paul Azaceta, Elizabeth Breitweiser]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:16:55 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:18:05 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

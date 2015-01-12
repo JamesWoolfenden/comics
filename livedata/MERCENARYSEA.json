@@ -8,7 +8,7 @@
         "variant":  "4",
         "price":  1.61,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "5",
         "price":  1.61,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "6",
         "price":  1.50,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "1 2ND PTG DHC",
         "price":  1.69,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "2 DHC",
         "price":  1.69,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,19 +68,19 @@
         "variant":  "7",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/other-publishers/mercenary-sea-8/prod_115898.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/other-publishers/mercenary-sea-8/prod_115898.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/other-publishers/mercenary-sea-8/prod_115898.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/back-issues/other-publishers/mercenary-sea-8/prod_115898.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/other-publishers/mercenary-sea-8/prod_115898.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/other-publishers/mercenary-sea-8/prod_115898.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "MERCENARY SEA",
         "issue":  "8",
         "variant":  "8",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "9",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:39 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -103,7 +103,7 @@
         "issue":  "9",
         "variant":  "9",
         "price":  "1.95",
-        "rundate":  "Mon Jan 05 2015 10:10:54 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:12:06 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -115,7 +115,7 @@
         "variant":  "1 (1ST PRINT)",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -127,7 +127,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -139,7 +139,7 @@
         "variant":  "2",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -151,7 +151,7 @@
         "variant":  "3",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -163,7 +163,7 @@
         "variant":  "4",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -175,7 +175,7 @@
         "variant":  "5",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -187,7 +187,7 @@
         "variant":  "6",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -199,7 +199,7 @@
         "variant":  "7",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:10:58 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -211,7 +211,7 @@
         "variant":  "DEC140743 MERCENARY SEA #9",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:11:07 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:12:16 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -223,7 +223,7 @@
         "variant":  "MERCENARY SEA #3 [(W) Kel Symons (A/CA) Mathew Reynolds]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:11:07 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:12:16 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -235,7 +235,7 @@
         "variant":  "OCT140750 MERCENARY SEA #8",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:11:07 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:12:16 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -247,7 +247,7 @@
         "variant":  "SEP140734 MERCENARY SEA #7",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 05 2015 10:11:07 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 12 2015 10:12:16 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]
