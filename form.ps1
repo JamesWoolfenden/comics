@@ -94,7 +94,9 @@ function get-imagetitle
    $Form.FormBorderStyle = [System.Windows.Forms.FormBorderStyle]::Fixed3D
    $Form.Text           = "Cover Chooser"
    $Form.Font           = New-Object System.Drawing.Font("Verdana",10,[System.Drawing.FontStyle]::Bold)
-   $Form.maximumsize    = New-Object System.Drawing.Size($Form.width,250)
+   $Form.maximumsize    = New-Object System.Drawing.Size($Form.width,260)
+   $form.HorizontalScroll.Visible=$true
+   $form.AutoScroll = $True
 
    $Form.KeyPreview    = $True
    $Form.Add_KeyDown({if ($_.KeyCode -eq "Enter") {}})
