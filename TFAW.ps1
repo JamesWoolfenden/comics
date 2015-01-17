@@ -1,7 +1,4 @@
-$corescript=$myinvocation.mycommand.path
-$root=split-path -parent  -Path $corescript
-
-import-module "$root\core.ps1" -force
+import-module "$PSScriptRoot\core.ps1" -force
 
 function get-tfawdata
 {
@@ -18,17 +15,6 @@ function get-tfawdata
     retieves and parses TFAW records
  #>
 
-   $title=$title.ToUpper()
-   $comic=$title.replace(" ","%2B")
-   $kimpath2="_results_limit_search=100"
-   $kimpath4="_results_sstring_search=$comic"
-   $search="&kimpath2=$kimpath2&kimpath4=$kimpath4"
-   $site="TFAW"
-   $fullfilter=$search
-   $url="https://www.kimonolabs.com/api/7fuasgeu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-debug "$(Get-Date) Accessing $url"
-   write-debug "$(Get-Date) Looking for $title @ `"$site`""
-  
 <# Postage
    1X  x x
    2X  x x
@@ -42,16 +28,41 @@ function get-tfawdata
    10X x x
    11X x x
    50X x x
-#>
+#>   
+
+   $limit=100
+   $title=$title.ToUpper()
+   $comic=$title.replace(" ","%2B")
+   $kimpath2="_results_limit_search=$limit"
+   $kimpath4="_results_sstring_search=$comic"
+
+   $kimpath5=0
+   $results=@()
+do
+{
+   write-host "$(get-date) - Count $($kimpath5.ToString())"
+   $search="&kimpath2=$kimpath2&kimpath4=$kimpath4&kimpath5=_results_start_at_search=$($kimpath5.ToString())"
+   $site="TFAW"
+   $fullfilter=$search
+   $url="https://www.kimonolabs.com/api/7fuasgeu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+   write-host "$(Get-Date) Accessing $url"
+   write-host "$(Get-Date) Looking for $title @ `"$site`""
+  
    $tfawresults=Invoke-RestMethod -Uri $url
    if ($tfawresults.lastrunstatus -eq "failure")
    {
-     throw "No records found"
+     $tfawresults=$null
+     break
    }
    
-   $counter=0
-   $tfaw=@()
-   $results=$tfawresults.results.collection1|where {$_.title.text -like "*$title*"}
+   $results+=$tfawresults.results.collection1|where {$_.title.text -like "*$title*"}
+   $kimpath5+=$limit
+#-or $kimpath5 -lt 500
+}
+while($tfawresults.results.collection1.count -eq $limit)
+
+$tfaw=@()
+$counter=0
 
    switch ($results -is [system.array] )
    {

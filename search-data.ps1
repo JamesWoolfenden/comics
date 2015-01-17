@@ -60,7 +60,7 @@ function add-searchdata
    [Boolean]$Enabled
    )
 
-   $datafile="$root\search-data.json"
+   $datafile="$PSScriptRoot\search-data.json"
    $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
    $searches+=make-searchdata -title "$($title.ToUpper())" -exclude "$exclude" -include "$include" -comictitle $comictitle -category $category -Enabled $Enabled
    $searches|Sort-Object title| ConvertTo-Json -depth 999 | Out-File "$datafile"
@@ -102,7 +102,7 @@ function set-searchdata
    )
 
    $title=$title.ToUpper()
-   $datafile="$root\search-data.json"
+   $datafile="$PSScriptRoot\search-data.json"
    $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
 
    $index = [array]::IndexOf(($searches.title), $title)
@@ -132,9 +132,7 @@ function set-searchdata
      $searches[$index].Include+=$include
    }
 
-   #$searches[$index].Exclude=($searches[$index].Exclude).split(" ")|sort -unique
    $searches[$index].Exclude=$searches[$index].Exclude|sort -unique
-   #$searches[$index].Include=($searches[$index].Include).split(" ")|sort -unique
    $searches[$index].Include=$searches[$index].Include|sort -unique
 
    write-debug "Index is $Index"
@@ -159,7 +157,7 @@ function get-searchdata
    [string]$title)
 
    $title=$title.ToUpper()
-   $datafile="$root\search-data.json"
+   $datafile="$PSScriptRoot\search-data.json"
    $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
    $index = [array]::IndexOf(($searches.title), $title)
 

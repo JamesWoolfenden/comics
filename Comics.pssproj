@@ -38,6 +38,7 @@
     <Compile Include="jqwidgets\demos\jqxgrid\comic-Walkingdead.htm" />
     <Compile Include="livedata\*.json" />
     <Compile Include="livedata\*.txt" />
+    <Compile Include="moretodo.txt" />
     <Compile Include="prices\*.json" />
     <Compile Include="prices\*.txt" />
     <Compile Include="rss\EbayRssPowershellModule.psd1" />
