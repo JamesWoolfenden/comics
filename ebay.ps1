@@ -1,14 +1,5 @@
-$corescript=$myinvocation.mycommand.path
-if ($corescript -eq $null)
-{
-   $root=$root=(gl).Path
-}
-else
-{
-   $root=split-path -parent -Path $corescript
-}
 
-import-module "$root\core.ps1" -force
+import-module "$PSScriptRoot\core.ps1" -force
 
 function get-ebayitem()
 {

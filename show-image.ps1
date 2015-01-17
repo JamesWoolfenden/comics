@@ -1,4 +1,4 @@
-import-module "$root\database.ps1"
+import-module "$PSScriptRoot\database.ps1"
 
 function show-image
 {

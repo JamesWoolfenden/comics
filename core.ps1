@@ -9,7 +9,7 @@ function scan
       This loads the search json db and scan ebay and ebid.
    #>
 
-   $searches=(Get-Content "$root\search-data.json") -join "`n" |ConvertFrom-Json
+   $searches=(Get-Content "$PSScriptRoot\search-data.json") -join "`n" |ConvertFrom-Json
 
    foreach($search in $searches)
    {
@@ -118,7 +118,7 @@ function combine-data
    param([string]$title)
 
    $filetitle=$title.replace(" ","")
-   $files=gci "$root\livedata" -Filter "$filetitle*"
+   $files=gci "$PSScriptRoot\livedata" -Filter "$filetitle*"
    
    $data=@()
    foreach($file in $files)

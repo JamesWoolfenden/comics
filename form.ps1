@@ -33,7 +33,7 @@ function get-imagetitle
    [System.Reflection.Assembly]::LoadWithPartialName("System.Drawing") | Out-Null
    
    $script:Choice=$null
-   $imagepath="$root\covers\"
+   $imagepath="$PSScriptRoot\covers\"
    $padtitle=$title -replace(" ","-")
    $scanpath=$imagepath+$padtitle+"\$issue\"
    if (!(test-path $scanpath))

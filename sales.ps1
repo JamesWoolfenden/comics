@@ -1,9 +1,7 @@
-$corescript=$myinvocation.mycommand.path
-$root=split-path -parent  -Path $corescript
 
-import-module "$root\core.ps1" -force
+import-module "$PSScriptRoot\core.ps1" -force
 
-$sales=(Get-Content "$root\sales\2014\04.json") -join "`n" | ConvertFrom-Json
+$sales=(Get-Content "$PSScriptRoot\sales\2014\04.json") -join "`n" | ConvertFrom-Json
 
 $parseddata=@()
 
