@@ -1,8 +1,6 @@
-$corescript=$myinvocation.mycommand.path
-$root=split-path -parent  -Path $corescript
+import-module "$PSScriptRoot\core.ps1" -force
 
-import-module "$root\core.ps1" -force
-function get-comicbookshopdata()
+function get-comicbookshopdata
 {
    param ([string]$title="Walking Dead")
 

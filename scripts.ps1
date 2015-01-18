@@ -1,25 +1,14 @@
+$imageroot= "$PSScriptRoot\covers"
 
-$corescript=$myinvocation.mycommand.path
-if ($corescript -eq $null)
-{
-   $root=$root=(gl).Path
-}
-else
-{
-   $root=split-path -parent -Path $corescript
-}
-
-$imageroot= "$root\covers"
-
-import-module "$root\rss\EbayRssPowershellModule.psm1" -force
-import-module "$root\database.ps1"
-import-module "$root\split-set.ps1"
-import-module "$root\show-image.ps1"
-import-module "$root\form.ps1"
-import-module "$root\info.ps1"
-import-module "$root\core.ps1"
-import-module "$root\search-data.ps1"
-import-module "$root\review.ps1"
+import-module "$PSScriptRoot\rss\EbayRssPowershellModule.psm1" -force
+import-module "$PSScriptRoot\database.ps1"
+import-module "$PSScriptRoot\split-set.ps1"
+import-module "$PSScriptRoot\show-image.ps1"
+import-module "$PSScriptRoot\form.ps1"
+import-module "$PSScriptRoot\info.ps1"
+import-module "$PSScriptRoot\core.ps1"
+import-module "$PSScriptRoot\search-data.ps1"
+import-module "$PSScriptRoot\review.ps1"
 
 
 function waitforpageload {
@@ -686,6 +675,7 @@ function get-ebidrecords
 
    foreach($category in $search.category)
    {
+      Write-debug "$(Get-date) - category :$category"
       $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=$category&categoryid=$category&categoryonly=on&mo=search&type=keyword"
 
       write-debug "Querying ebid $url"

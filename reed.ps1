@@ -1,7 +1,5 @@
-$corescript=$myinvocation.mycommand.path
-$root=split-path -parent  -Path $corescript
+import-module "$PSScriptRoot\core.ps1" -force
 
-import-module "$root\core.ps1" -force
 function get-reeddata
 {
    param (
@@ -41,6 +39,7 @@ function get-reeddata
    {
       return $null
    }
+
    $counter=0
    $reed=@()
    $results=$reedresults.results.collection1| where {$_.title -ne ""}

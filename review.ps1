@@ -291,8 +291,8 @@ function set-title
 
    $newtitle=($rawtitle.ToUpper()).Split("#")
    $padtitle=$newtitle -replace(" ","-")
-   $found=test-Path "$root\covers\$padtitle"
-   write-debug "Title at $root\covers\$padtitle"
+   $found=test-Path "$PSScriptRoot\covers\$padtitle"
+   write-debug "Title at $PSScriptRoot\covers\$padtitle"
 
    if ($found)
    {
@@ -315,7 +315,7 @@ function set-title
    }
 
    $padtitle=$returntitle -replace(" ","-")
-   if (!(test-Path $root\covers\$padtitle))
+   if (!(test-Path $PSScriptRoot\covers\$padtitle))
    {
      write-Host "New title: $returntitle" -ForegroundColor cyan
    }
@@ -459,15 +459,15 @@ function set-issue
     }
 
     $padtitle=$title -replace(" ","-")
-    write-host "looking for $root\covers\$padtitle\$cover\$issue"
+    write-host "looking for $PSScriptRoot\covers\$padtitle\$cover\$issue"
 
-    if (test-path "$root\covers\$padtitle\$cover\$issue.jpg")
+    if (test-path "$PSScriptRoot\covers\$padtitle\$cover\$issue.jpg")
     {
        return $issue 
     }
     else
     {
-       if (test-path "$root\covers\$padtitle\$cover\$($issue)A.jpg")
+       if (test-path "$PSScriptRoot\covers\$padtitle\$cover\$($issue)A.jpg")
        {
           return "$($issue)A"
        }

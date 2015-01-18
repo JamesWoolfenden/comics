@@ -40,7 +40,7 @@ function get-tfawdata
    $results=@()
 do
 {
-   write-host "$(get-date) - Count $($kimpath5.ToString())"
+   write-debug "$(get-date) - Count $($kimpath5.ToString())"
    $search="&kimpath2=$kimpath2&kimpath4=$kimpath4&kimpath5=_results_start_at_search=$($kimpath5.ToString())"
    $site="TFAW"
    $fullfilter=$search
@@ -114,6 +114,6 @@ $counter=0
       $counter++
    }
 
-   write-debug "$(Get-Date) Record $counter"
+   write-host "$(Get-Date) Record $counter"
    $tfaw 
 }

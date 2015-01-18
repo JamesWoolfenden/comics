@@ -1,22 +1,13 @@
-$corescript=$myinvocation.mycommand.path
-if ($corescript -eq $null)
-{
-   $root=$root=(gl).Path
-}
-else
-{
-   $root=split-path -parent -Path $corescript
-}
 
-import-module "$root\closeencounters.ps1" -force
-import-module "$root\comicbookstore.ps1" -force
-import-module "$root\fp.ps1" -force
-import-module "$root\guru.ps1"  -force
-import-module "$root\reed.ps1" -force
-import-module "$root\comicbookshop.ps1" -force
-import-Module "$root\disposableheroes.ps1" -force
-import-Module "$root\comicbiz.ps1" -force
-import-Module "$root\tfaw.ps1" -force
+import-module "$PSScriptRoot\closeencounters.ps1" -force
+import-module "$PSScriptRoot\comicbookstore.ps1" -force
+import-module "$PSScriptRoot\fp.ps1" -force
+import-module "$PSScriptRoot\guru.ps1"  -force
+import-module "$PSScriptRoot\reed.ps1" -force
+import-module "$PSScriptRoot\comicbookshop.ps1" -force
+import-Module "$PSScriptRoot\disposableheroes.ps1" -force
+import-Module "$PSScriptRoot\comicbiz.ps1" -force
+import-Module "$PSScriptRoot\tfaw.ps1" -force
 
 function get-market
 {
@@ -48,6 +39,7 @@ function get-market
       write-Host "Using Original title $title"
       $allrecords+=get-comicbookshopdata  -title $title
       $allrecords+=get-comicbookstoredata -title  $title 
+      $allrecords+=get-tfawdata -title $title
    }
    
    If ($productcode -ne "")
@@ -55,8 +47,8 @@ function get-market
       $allrecords+=get-gurudata -title $title -productcode $productcode
    }
 
-   $allrecords |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle).json" -Encoding ascii
-   $allrecords |ConvertTo-Json -depth 999 | Out-File "$root\livedata\$($filetitle).txt" -Encoding utf8
+   $allrecords |ConvertTo-Json -depth 999 | Out-File "$PSScriptRoot\livedata\$($filetitle).json" -Encoding ascii
+   #$allrecords |ConvertTo-Json -depth 999 | Out-File "$PSScriptRoot\livedata\$($filetitle).txt" -Encoding utf8
 }
 
 get-market -title "ENORMOUS"
@@ -98,4 +90,5 @@ get-market -title "BIRTHRIGHT"
 get-market -title "RASPUTIN"
 get-market -title "ENORMOUS"
 get-market -title "THE AUTUMNLANDS"
+get-market -title "AFTERLIFE WITH ARCHIE"
 

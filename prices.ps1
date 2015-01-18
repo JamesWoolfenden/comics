@@ -1,14 +1,4 @@
-$corescript=$myinvocation.mycommand.path
-if ($corescript -eq $null)
-{
-   $root=$root=(gl).Path
-}
-else
-{
-   $root=split-path -parent -Path $corescript
-}
 
-import-module "$root\core.ps1" -force
 
 function write-prices
 {
@@ -21,10 +11,10 @@ function write-prices
    if ($prices -ne $null)
    {
       $filetitle="$title"+$(datestring)
-      $prices |ConvertTo-Json -depth 999 | Out-File "$root\prices\$($filetitle).json" -Encoding ascii
-      cp $root\prices\$($filetitle).json "$root\prices\latest-$($title).json"
-      $prices |ConvertTo-Json -depth 999 | Out-File "$root\prices\$($filetitle).txt" -Encoding utf8
-      cp $root\prices\$($filetitle).txt "$root\prices\latest-$($title).txt"
+      $prices |ConvertTo-Json -depth 999 | Out-File "$PSScriptRoot\prices\$($filetitle).json" -Encoding ascii
+      cp $PSScriptRoot\prices\$($filetitle).json "$PSScriptRoot\prices\latest-$($title).json"
+      #$prices |ConvertTo-Json -depth 999 | Out-File "$PSScriptRoot\prices\$($filetitle).txt" -Encoding utf8
+      #cp $PSScriptRoot\prices\$($filetitle).txt "$PSScriptRoot\prices\latest-$($title).txt"
    }
    Else
    {
@@ -32,7 +22,7 @@ function write-prices
    }
 }
 
-$searches=(Get-Content "$root\search-data.json") -join "`n" | ConvertFrom-Json
+$searches=(Get-Content "$PSScriptRoot\search-data.json") -join "`n" | ConvertFrom-Json
 
 foreach ($record in $searches)
 {
