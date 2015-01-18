@@ -39,6 +39,7 @@ function get-reeddata
    {
       return $null
    }
+
    $counter=0
    $reed=@()
    $results=$reedresults.results.collection1| where {$_.title -ne ""}

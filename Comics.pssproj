@@ -34,6 +34,7 @@
     <Compile Include="covers\TALON\2\2SIGNED.JPG" />
     <Compile Include="DisposableHeroes.ps1" />
     <Compile Include="ebaydata.ps1" />
+    <Compile Include="jqwidgets\demos\jqxgrid\comic-Afterlifewitharchie.htm" />
     <Compile Include="jqwidgets\demos\jqxgrid\comic-ratqueens.htm" />
     <Compile Include="jqwidgets\demos\jqxgrid\comic-Walkingdead.htm" />
     <Compile Include="livedata\*.json" />

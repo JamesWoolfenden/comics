@@ -132,6 +132,7 @@ function add-record
    
    $DateOfSale=$(Get-date).ToString()
    $saledate = Get-date
+   $title=$title.ToUpper()
    $Issue=$Issue.ToUpper()
    $Description=$Description.Replace("'","")
    
@@ -150,7 +151,9 @@ function add-record
 
 function get-db
 {
-   param([string]$ebayitem)
+   param(
+    [Parameter(Mandatory=$true)]
+    [string]$ebayitem)
 
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString = "Data Source=h6vxqj6255.database.windows.net;Initial Catalog=comics;User ID=comicsguru@h6vxqj6255;Password=Faithle55;Trusted_Connection=False;Encrypt=True;Connection Timeout=30"
@@ -290,7 +293,8 @@ function update-db
 
 function query-db
 {
-   Param([string]$wherestring="where Title = '$title' And Issue = '$Issue'")
+   Param(
+   [string]$wherestring="where Title = '$title' And Issue = '$Issue'")
      
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString = "Data Source=h6vxqj6255.database.windows.net;Initial Catalog=comics;User ID=comicsguru@h6vxqj6255;Password=Faithle55;Trusted_Connection=False;Encrypt=True;Connection Timeout=30"
@@ -485,7 +489,9 @@ function query-db
 function estimate-price
 {
    param(
+   [Parameter(Mandatory=$true)]
    [string]$title,
+   [Parameter(Mandatory=$true)]
    [string]$Issue)
    
    $results=query-db "where title='$title' and issue='$issue' and status='CLOSED'"

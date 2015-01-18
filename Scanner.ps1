@@ -39,6 +39,7 @@ function get-market
       write-Host "Using Original title $title"
       $allrecords+=get-comicbookshopdata  -title $title
       $allrecords+=get-comicbookstoredata -title  $title 
+      $allrecords+=get-tfawdata -title $title
    }
    
    If ($productcode -ne "")
@@ -89,4 +90,5 @@ get-market -title "BIRTHRIGHT"
 get-market -title "RASPUTIN"
 get-market -title "ENORMOUS"
 get-market -title "THE AUTUMNLANDS"
+get-market -title "AFTERLIFE WITH ARCHIE"
 
