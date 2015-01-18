@@ -8,6 +8,7 @@ import-module "$PSScriptRoot\comicbookshop.ps1" -force
 import-Module "$PSScriptRoot\disposableheroes.ps1" -force
 import-Module "$PSScriptRoot\comicbiz.ps1" -force
 import-Module "$PSScriptRoot\tfaw.ps1" -force
+import-Module "$PSScriptRoot\dcbs.ps1" -force
 
 function get-market
 {
@@ -18,28 +19,29 @@ function get-market
    
    $allrecords=@()
    $filetitle=$title.replace(" ","")
-   
+  
    $allrecords+=get-dhdata -title $title
    $allrecords+=get-closeencountersdata -title $title 
    $allrecords+=get-fpdata  -title $title  
    $allrecords+=get-reeddata -title $title 
    #$allrecords+=get-comicbizdata -title $title 
 
-   
    if ($alttitle -ne "")
    {
       write-Host "Using Alternative title $alttitle"
       $allrecords+=get-comicbookshopdata  -title $alttitle 
-      $allrecords+=get-comicbookstoredata -title $alttitle  
+      #$allrecords+=get-comicbookstoredata -title $alttitle  
       $allrecords+=get-tfawdata -title $alttitle  
       $allrecords+=get-comicbizdata -title $alttitle  
+      $allrecords+=get-dcbsdata -title $alttitle  
    }
    else
    {
       write-Host "Using Original title $title"
       $allrecords+=get-comicbookshopdata  -title $title
-      $allrecords+=get-comicbookstoredata -title  $title 
+      #$allrecords+=get-comicbookstoredata -title  $title 
       $allrecords+=get-tfawdata -title $title
+      $allrecords+=get-dcbsdata -title $title  
    }
    
    If ($productcode -ne "")
@@ -50,6 +52,9 @@ function get-market
    $allrecords |ConvertTo-Json -depth 999 | Out-File "$PSScriptRoot\livedata\$($filetitle).json" -Encoding ascii
    #$allrecords |ConvertTo-Json -depth 999 | Out-File "$PSScriptRoot\livedata\$($filetitle).txt" -Encoding utf8
 }
+
+#retrieve data
+get-dcbs
 
 get-market -title "ENORMOUS"
 get-market -title "THE WALKING DEAD" -productcode "2140" -alttitle "WALKING DEAD"
@@ -85,10 +90,10 @@ get-market -title "WICKED DIVINE"
 get-market -title "BIRTHRIGHT" 
 get-market -title "COPPERHEAD" 
 get-market -title "FADE OUT" 
-get-market -title "WYTCHES"
 get-market -title "BIRTHRIGHT"
-get-market -title "RASPUTIN"
+get-market -title "RASPUTIN" -productcode "17636"
 get-market -title "ENORMOUS"
-get-market -title "THE AUTUMNLANDS"
-get-market -title "AFTERLIFE WITH ARCHIE"
+get-market -title "THE AUTUMNLANDS" -productcode "17652"
+get-market -title "AFTERLIFE WITH ARCHIE" -productcode "16564"
+get-market -title "WYTCHES" -productcode "17555"
 

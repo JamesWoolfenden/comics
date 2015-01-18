@@ -32,6 +32,8 @@
     <Compile Include="covers\GRAYSON\1\1SIGNED.JPG" />
     <Compile Include="covers\TALON\2\2.JPG" />
     <Compile Include="covers\TALON\2\2SIGNED.JPG" />
+    <Compile Include="data\dcbs\18-1-2015.json" />
+    <Compile Include="data\dcbs\latest.json" />
     <Compile Include="DisposableHeroes.ps1" />
     <Compile Include="ebaydata.ps1" />
     <Compile Include="jqwidgets\demos\jqxgrid\comic-Afterlifewitharchie.htm" />
@@ -70,6 +72,7 @@
     <Content Include="altcategories.txt" />
     <Content Include="comicbookshop.ps1" />
     <Content Include="comicvine.txt" />
+    <Content Include="DCBS.ps1" />
     <Content Include="ebay.ps1" />
     <Content Include="history.ps1" />
     <Content Include="jqwidgets\demos\jqxgrid\prices-ratqueens.htm" />
@@ -7434,6 +7437,8 @@
     <Folder Include="covers\Y-THE-LAST-MAN\" />
     <Folder Include="covers\Y-THE-LAST-MAN\1\" />
     <Folder Include="covers\ZOMBIE-WORLD\" />
+    <Folder Include="data\" />
+    <Folder Include="data\dcbs\" />
     <Folder Include="Excel\" />
     <Folder Include="jqwidgets\" />
     <Folder Include="jqwidgets\demos\" />

@@ -37,16 +37,20 @@ function get-tfawdata
    $kimpath4="_results_sstring_search=$comic"
 
    $kimpath5=0
-   $results=@()
+   $results=@()  
+   
+   $site="TFAW"
+
+   write-host "$(Get-Date) Looking for $title @ `"$site`""
+
 do
 {
    write-debug "$(get-date) - Count $($kimpath5.ToString())"
    $search="&kimpath2=$kimpath2&kimpath4=$kimpath4&kimpath5=_results_start_at_search=$($kimpath5.ToString())"
-   $site="TFAW"
+
    $fullfilter=$search
    $url="https://www.kimonolabs.com/api/7fuasgeu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-host "$(Get-Date) Accessing $url"
-   write-host "$(Get-Date) Looking for $title @ `"$site`""
+   write-debug "$(Get-Date) Accessing $url"
   
    $tfawresults=Invoke-RestMethod -Uri $url
    if ($tfawresults.lastrunstatus -eq "failure")
@@ -57,7 +61,6 @@ do
    
    $results+=$tfawresults.results.collection1|where {$_.title.text -like "*$title*"}
    $kimpath5+=$limit
-#-or $kimpath5 -lt 500
 }
 while($tfawresults.results.collection1.count -eq $limit)
 

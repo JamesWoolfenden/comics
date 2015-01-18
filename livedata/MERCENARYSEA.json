@@ -8,7 +8,7 @@
         "variant":  "4",
         "price":  1.61,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "5",
         "price":  1.61,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "6",
         "price":  1.50,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "1 2ND PTG DHC",
         "price":  1.69,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "2 DHC",
         "price":  1.69,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "7",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "8",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "9",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:11:52 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -103,7 +103,7 @@
         "issue":  "9",
         "variant":  "9",
         "price":  "1.95",
-        "rundate":  "Mon Jan 12 2015 10:12:06 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:20 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -115,7 +115,7 @@
         "variant":  "1 (1ST PRINT)",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -127,7 +127,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -139,7 +139,7 @@
         "variant":  "2",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -151,7 +151,7 @@
         "variant":  "3",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -163,7 +163,7 @@
         "variant":  "4",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -175,7 +175,7 @@
         "variant":  "5",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -187,7 +187,7 @@
         "variant":  "6",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -199,55 +199,163 @@
         "variant":  "7",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:12:10 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=89912\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=89912\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=89912\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89912\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89912\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89912\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "MERCENARY SEA",
         "issue":  "9",
         "variant":  "DEC140743 MERCENARY SEA #9",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:12:16 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:30 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=76242\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=76242\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=76242\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=76242\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=76242\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=76242\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "MERCENARY SEA",
         "issue":  "3",
         "variant":  "MERCENARY SEA #3 [(W) Kel Symons (A/CA) Mathew Reynolds]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:12:16 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:30 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87376\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87376\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87376\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1839\u0026products_id=87376\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1839\u0026products_id=87376\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1839\u0026products_id=87376\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "MERCENARY SEA",
         "issue":  "8",
         "variant":  "OCT140750 MERCENARY SEA #8",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:12:16 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:30 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=85846\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=85846\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=85846\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1825\u0026products_id=85846\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1825\u0026products_id=85846\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1825\u0026products_id=85846\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "MERCENARY SEA",
         "issue":  "7",
         "variant":  "SEP140734 MERCENARY SEA #7",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:12:16 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:38:30 GMT+0000 (UTC)",
         "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Mercenary-Sea-1-%282nd-Printing%29___448437",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Mercenary-Sea-1-%282nd-Printing%29___448437\"\u003ehttp://www.tfaw.com/Profile/Mercenary-Sea-1-%282nd-Printing%29___448437\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "1",
+        "variant":  "1 (2ND PRINTING)",
+        "price":  2.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Mercenary-Sea-2___444777",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Mercenary-Sea-2___444777\"\u003ehttp://www.tfaw.com/Profile/Mercenary-Sea-2___444777\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "2",
+        "variant":  "2",
+        "price":  2.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Mercenary-Sea-3___446732",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Mercenary-Sea-3___446732\"\u003ehttp://www.tfaw.com/Profile/Mercenary-Sea-3___446732\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "3",
+        "variant":  "3",
+        "price":  1.79,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Mercenary-Sea-4___448949",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Mercenary-Sea-4___448949\"\u003ehttp://www.tfaw.com/Profile/Mercenary-Sea-4___448949\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "4",
+        "variant":  "4",
+        "price":  1.79,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Mercenary-Sea-5___450972",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Mercenary-Sea-5___450972\"\u003ehttp://www.tfaw.com/Profile/Mercenary-Sea-5___450972\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "5",
+        "variant":  "5",
+        "price":  1.79,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Mercenary-Sea-6___453146",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Mercenary-Sea-6___453146\"\u003ehttp://www.tfaw.com/Profile/Mercenary-Sea-6___453146\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "6",
+        "variant":  "6",
+        "price":  2.24,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Mercenary-Sea-7___462892",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Mercenary-Sea-7___462892\"\u003ehttp://www.tfaw.com/Profile/Mercenary-Sea-7___462892\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  2.69,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Mercenary-Sea-8___465047",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Mercenary-Sea-8___465047\"\u003ehttp://www.tfaw.com/Profile/Mercenary-Sea-8___465047\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "8",
+        "variant":  "8",
+        "price":  2.69,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Mercenary-Sea-TPB-Vol.-01___458227",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Mercenary-Sea-TPB-Vol.-01___458227\"\u003ehttp://www.tfaw.com/Profile/Mercenary-Sea-TPB-Vol.-01___458227\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 01",
+        "price":  8.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "site":  "TFAW"
     }
 ]

@@ -19,7 +19,7 @@ Function Build-Url
 	$Keywords = $Keywords.Replace(")", "%29")
 	
     write-debug "$(Get-Date) CatID:$CategoryId"
-    If ($CategoryId -eq "8077")
+    If (("8077","9027","645","9120") -contains $categoryId)
     {
 	  $url= 'http://www.ebay.co.uk/sch/US-Comics-/64755/i.html?rt=nc&_nkw=${Keywords}&LH_PrefLoc=3'
       #$url = 'http://www.ebay.co.uk/sch/Comics-/63/i.html?rt=nc&_nkw=${Keywords}&LH_PrefLoc=3' 

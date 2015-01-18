@@ -34,7 +34,7 @@ function get-gurudata
       return $null
    }
    
-   $results=$gururesults.results.collection1| where {$_.title -ne ""}
+   $results=$gururesults.results.collection1
    $counter=0
    $guru=@()
    

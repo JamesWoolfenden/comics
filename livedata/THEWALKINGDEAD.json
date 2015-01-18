@@ -8,7 +8,7 @@
         "variant":  "THE WALKING DEAD MONOPOLY 2013 DHC",
         "price":  30.88,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:04:44 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:23:43 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "117 THIRD PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:04:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:23:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "117 SECOND PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:04:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:23:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "125 \u0027ALL OUT WAR\u0027 PART 11 OF 12",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:04:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:23:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "120 \u0027ALL OUT WAR\u0027 6 OF 12 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:04:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:23:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "119 \u0027ALL OUT WAR\u0027 CHAPTER 5 OF 12 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:04:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:23:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "118 \u0027ALL OUT WAR\u0027 PART 4 OF 12 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:04:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:23:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "#117 \u0027ALL OUT WAR\u0027 PART 3 OF 12 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:04:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:23:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "116 FIRST PRINT \u0027ALL OUT WAR\u0027 PART 2 OF 12",
         "price":  4.50,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:04:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:23:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -116,8 +116,74 @@
         "variant":  "WALKING DEAD SEASON 2 DEPUTY RICK GRIMES BY MCFARLANE TOYS BNIB",
         "price":  76.73,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:04:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:23:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/133986-walking-dead-139/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/133986-walking-dead-139/\"\u003ehttps://forbiddenplanet.com/133986-walking-dead-139/\u003c/a\u003e",
+        "orderdate":  "25th March, 2015",
+        "title":  "THE WALKING DEAD",
+        "issue":  "139",
+        "variant":  "139",
+        "price":  "1.95",
+        "rundate":  "Sun Jan 18 2015 22:31:46 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/133985-walking-dead-138/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/133985-walking-dead-138/\"\u003ehttps://forbiddenplanet.com/133985-walking-dead-138/\u003c/a\u003e",
+        "orderdate":  "11th March, 2015",
+        "title":  "THE WALKING DEAD",
+        "issue":  "138",
+        "variant":  "138",
+        "price":  "1.95",
+        "rundate":  "Sun Jan 18 2015 22:31:46 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/132432-walking-dead-137/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/132432-walking-dead-137/\"\u003ehttps://forbiddenplanet.com/132432-walking-dead-137/\u003c/a\u003e",
+        "orderdate":  "1st February, 2015",
+        "title":  "THE WALKING DEAD",
+        "issue":  "137",
+        "variant":  "137",
+        "price":  "1.95",
+        "rundate":  "Sun Jan 18 2015 22:31:46 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/130658-walking-dead-136/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/130658-walking-dead-136/\"\u003ehttps://forbiddenplanet.com/130658-walking-dead-136/\u003c/a\u003e",
+        "orderdate":  "",
+        "title":  "THE WALKING DEAD",
+        "issue":  "136",
+        "variant":  "136",
+        "price":  "1.95",
+        "rundate":  "Sun Jan 18 2015 22:31:46 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/128944-walking-dead-135/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/128944-walking-dead-135/\"\u003ehttps://forbiddenplanet.com/128944-walking-dead-135/\u003c/a\u003e",
+        "orderdate":  "",
+        "title":  "THE WALKING DEAD",
+        "issue":  "135",
+        "variant":  "135",
+        "price":  "1.95",
+        "rundate":  "Sun Jan 18 2015 22:31:46 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/128018-manifest-destiny-8-walking-dead-129-cci-sdcc-2014-connect-pack-variant/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/128018-manifest-destiny-8-walking-dead-129-cci-sdcc-2014-connect-pack-variant/\"\u003ehttps://forbiddenplanet.com/128018-manifest-destiny-8-walking-dead-129-cci-sdcc-2014-connect-pack-variant/\u003c/a\u003e",
+        "orderdate":  "",
+        "title":  "THE WALKING DEAD",
+        "issue":  "8 \u0026 Walking Dead ",
+        "variant":  "8 \u0026 Walking Dead ",
+        "price":  "14.99",
+        "rundate":  "Sun Jan 18 2015 22:31:46 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
     },
     {
         "link":  "http://www.reedcomics.com/fcbd-edition-the-walking-dead-special-p-56294.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
@@ -128,7 +194,7 @@
         "variant":  "FCBD EDITION SPECIAL",
         "price":  0.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -140,7 +206,7 @@
         "variant":  "1",
         "price":  0.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -152,7 +218,7 @@
         "variant":  "1 10TH ANNIVERSARY EDITION",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -164,7 +230,7 @@
         "variant":  "100 (SDCC ESCAPE VARIANT CGC 9.8)",
         "price":  175.00,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -176,7 +242,7 @@
         "variant":  "102 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -188,7 +254,7 @@
         "variant":  "109 (BLANK COVER) *SIGNED BY CHARLIE ADLARD*",
         "price":  9.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -200,7 +266,7 @@
         "variant":  "109 *HOT BOOK*",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -212,7 +278,7 @@
         "variant":  "110",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -224,7 +290,7 @@
         "variant":  "111",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -236,7 +302,7 @@
         "variant":  "112",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -248,7 +314,7 @@
         "variant":  "113",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -260,7 +326,7 @@
         "variant":  "115 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -272,7 +338,7 @@
         "variant":  "115 (COVER A)",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -284,7 +350,7 @@
         "variant":  "115 (MIDNIGHT RELEASE VARIANT COVER)",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -296,7 +362,7 @@
         "variant":  "115 (SET OF 10 CONNECTING COVERS)",
         "price":  29.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -308,7 +374,7 @@
         "variant":  "116 (1ST PRINT)",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -320,7 +386,7 @@
         "variant":  "116 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -332,7 +398,7 @@
         "variant":  "117 (3RD PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -344,7 +410,7 @@
         "variant":  "118",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -356,7 +422,7 @@
         "variant":  "124",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -368,7 +434,7 @@
         "variant":  "125",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -380,7 +446,7 @@
         "variant":  "126",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -392,7 +458,7 @@
         "variant":  "127 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -404,7 +470,7 @@
         "variant":  "128",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -416,7 +482,7 @@
         "variant":  "129",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -428,7 +494,7 @@
         "variant":  "130",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -440,7 +506,7 @@
         "variant":  "131",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -452,7 +518,7 @@
         "variant":  "132",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -464,7 +530,7 @@
         "variant":  "133",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -476,7 +542,7 @@
         "variant":  "134",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -488,19 +554,19 @@
         "variant":  "135",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
-        "link":  "http://www.reedcomics.com/the-walking-dead-michonne-special-2nd-printing-p-55497.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/the-walking-dead-michonne-special-2nd-printing-p-55497.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/the-walking-dead-michonne-special-2nd-printing-p-55497.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "link":  "http://www.reedcomics.com/the-walking-dead-136-p-65116.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/the-walking-dead-136-p-65116.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/the-walking-dead-136-p-65116.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THE WALKING DEAD",
-        "issue":  "MICHONNE SPECIAL (2ND PRINTING)",
-        "variant":  "MICHONNE SPECIAL (2ND PRINTING)",
+        "issue":  "136",
+        "variant":  "136",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -512,7 +578,7 @@
         "variant":  "THE GOVERNOR SPECIAL",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -524,7 +590,7 @@
         "variant":  "5 *HOT BOOK*",
         "price":  7.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -536,8 +602,704 @@
         "variant":  "9 *HOT BOOK*",
         "price":  5.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:05:30 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:31:52 GMT+0000 (UTC)",
         "site":  "Reed"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=42752\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=42752\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=42752\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "STANDING",
+        "variant":  "WALKING DEAD #STANDING ORDER",
+        "price":  0.00,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89940\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89940\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89940\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "137",
+        "variant":  "DEC140771 WALKING DEAD #137 (MR)",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_48\u0026products_id=64986\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_48\u0026products_id=64986\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_48\u0026products_id=64986\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "1",
+        "variant":  "IMAGE FIRSTS WALKING DEAD CURR PTG #1 [(W) Robert Kirkman (A) Charlie Adlard, Cliff Rathburn (CA) Charlie Adlard]",
+        "price":  0.80,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91032\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91032\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91032\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "138",
+        "variant":  "JAN150614 WALKING DEAD #138 (MR)",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91033\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91033\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91033\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "139",
+        "variant":  "JAN150615 WALKING DEAD #139 (MR)",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91732\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91732\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91732\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "12",
+        "variant":  "JAN151884 WALKING DEAD MAGAZINE #12 NEWSSTAND ED (MR) (C: 0-1-1)",
+        "price":  7.50,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91733\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91733\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91733\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "12",
+        "variant":  "JAN151885 WALKING DEAD MAGAZINE #12 PX ED (MR) (C: 0-1-1)",
+        "price":  7.50,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88884\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88884\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88884\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "115",
+        "variant":  "NOV141418 DF WALKING DEAD #115 NYCC EXC GAUDIANO SGN (C: 0-1-2)",
+        "price":  30.00,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=89010\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=89010\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=89010\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "10",
+        "variant":  "NOV141895 WALKING DEAD MAGAZINE #10 NYCC EXCLUSIVE COVER (MR) (C: 0-1-",
+        "price":  7.50,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=89011\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=89011\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=89011\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "11",
+        "variant":  "NOV141896 WALKING DEAD MAGAZINE #11 NEWSSTAND ED (MR) (C: 0-1-1)",
+        "price":  7.50,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=89012\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=89012\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=89012\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "11",
+        "variant":  "NOV141897 WALKING DEAD MAGAZINE #11 PX ED (MR) (C: 0-1-1)",
+        "price":  7.50,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_5_6\u0026products_id=34462\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_5_6\u0026products_id=34462\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_5_6\u0026products_id=34462\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "BURNING LEAD FOR THE WALKING DEAD",
+        "variant":  "SPIDER: BURNING LEAD FOR THE WALKING DEAD",
+        "price":  5.99,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_8\u0026products_id=71684\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_8\u0026products_id=71684\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_8\u0026products_id=71684\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "115",
+        "variant":  "WALKING DEAD #115 - 10th Anniversary - set of Covers A-L plus Midnight Release variant - 13 comics [(W) Robert Kirkman (A) Charl",
+        "price":  31.99,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=71663\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=71663\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=71663\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "115",
+        "variant":  "WALKING DEAD #115 CVR M MIDNIGHT RELEASE VARIANT [(W) Robert Kirkman (A) Charlie Adlard, Cliff Rathburn]",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=72871\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=72871\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=72871\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "115",
+        "variant":  "WALKING DEAD #115 CVR O NYCC 2013 EXCLUSIVE VARIANT [(W) Robert Kirkman (A) Charlie Adlard, Cliff Rathburn]",
+        "price":  3.00,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=81959\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=81959\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=81959\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "127",
+        "variant":  "WALKING DEAD #127 2ND PTG (MR) [(W) Robert Kirkman (A) Charlie Adlard \u0026 Various (CA) Charlie Adlard, Dave Stewart]",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=78304\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=78304\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=78304\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "128",
+        "variant":  "WALKING DEAD #128 (MR) [(W) Robert Kirkman (A) Charlie Adlard \u0026 Various (CA) Charlie Adlard, Dave Stewart]",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=79767\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=79767\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=79767\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "129",
+        "variant":  "WALKING DEAD #129 (MR) [(W) Robert Kirkman (A) Charlie Adlard \u0026 Various (CA) Charlie Adlard, Dave Stewart]",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=80899\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=80899\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=80899\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "130",
+        "variant":  "WALKING DEAD #130 (MR) [(W) Robert Kirkman (A) Charlie Adlard \u0026 Various (CA) Charlie Adlard, Dave Stewart]",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=86763\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=86763\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=86763\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "131",
+        "variant":  "WALKING DEAD #131 (MR) [(W) Robert Kirkman (A/CA) Charlie Adlard \u0026 Various]",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=83383\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=83383\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=83383\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "132",
+        "variant":  "WALKING DEAD #132 (MR) [(W) Robert Kirkman (A) Charlie Adlard \u0026 Various (CA) Charlie Adlard, Dave Stewart]",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=83384\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=83384\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=83384\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "133",
+        "variant":  "WALKING DEAD #133 (MR) [(W) Robert Kirkman (A) Charlie Adlard \u0026 Various (CA) Charlie Adlard, Dave Stewart]",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=85874\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=85874\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=85874\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "134",
+        "variant":  "WALKING DEAD #134 (MR) [(W) Robert Kirkman (A) Charlie Adlard \u0026 Various (CA) Charlie Adlard, Dave Stewart]",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88566\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88566\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88566\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "136",
+        "variant":  "WALKING DEAD #136 (MR) [(W) Robert Kirkman (A) Charlie Adlard \u0026 Various (CA) Charlie Adlard, Dave Stewart]",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_10\u0026products_id=69322\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_10\u0026products_id=69322\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_10\u0026products_id=69322\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "DEAD 100 PROJECT LTD ED HC [(W) Robert Kirkman (A/CA) Charlie Adlard, Cliff Rathburn]",
+        "variant":  "WALKING DEAD 100 PROJECT LTD ED HC [(W) Robert Kirkman (A/CA) Charlie Adlard, Cliff Rathburn]",
+        "price":  18.99,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_10\u0026products_id=69321\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_10\u0026products_id=69321\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_10\u0026products_id=69321\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "DEAD 100 PROJECT [(W) Robert Kirkman (A/CA) Charlie Adlard, Cliff Rathburn]",
+        "variant":  "WALKING DEAD 100 PROJECT [(W) Robert Kirkman (A/CA) Charlie Adlard, Cliff Rathburn]",
+        "price":  9.99,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=42561\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=42561\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=42561\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "DEAD CHRONICLES",
+        "variant":  "WALKING DEAD CHRONICLES",
+        "price":  12.99,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=56435\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=56435\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_43\u0026products_id=56435\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "001",
+        "variant":  "Walking Dead Michonne Special (2012) #001 2nd printing",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sun Jan 18 2015 22:31:58 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Image-Firsts-Walking-Dead-1-%28Current-Printing%29___417978",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Image-Firsts-Walking-Dead-1-%28Current-Printing%29___417978\"\u003ehttp://www.tfaw.com/Profile/Image-Firsts-Walking-Dead-1-%28Current-Printing%29___417978\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "IMAGE",
+        "variant":  "IMAGE FIRSTS 1 (CURRENT PRINTING)",
+        "price":  0.80,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Bicycle-Girl-Zombie-Purple-Hair-Vinyl-Figure___439837",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Bicycle-Girl-Zombie-Purple-Hair-Vinyl-Figure___439837\"\u003ehttp://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Bicycle-Girl-Zombie-Purple-Hair-Vinyl-Figure___439837\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "POP",
+        "variant":  "POP TELEVISION BICYCLE GIRL ZOMBIE PURPLE HAIR VINYL FIGURE",
+        "price":  5.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Governor-Vinyl-Figure___425289",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Governor-Vinyl-Figure___425289\"\u003ehttp://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Governor-Vinyl-Figure___425289\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "POP",
+        "variant":  "POP TELEVISION GOVERNOR VINYL FIGURE",
+        "price":  6.59,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Merle-Vinyl-Figure___425292",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Merle-Vinyl-Figure___425292\"\u003ehttp://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Merle-Vinyl-Figure___425292\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "POP",
+        "variant":  "POP TELEVISION MERLE VINYL FIGURE",
+        "price":  6.59,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Michonne%27s-Pet-Walker-1-Vinyl-Figure___425226",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Michonne%27s-Pet-Walker-1-Vinyl-Figure___425226\"\u003ehttp://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Michonne%27s-Pet-Walker-1-Vinyl-Figure___425226\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "POP",
+        "variant":  "POP TELEVISION MICHONNE\u0027S PET WALKER 1 VINYL FIGURE",
+        "price":  9.89,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Penny-Zombie-Vinyl-Figure___466630",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Penny-Zombie-Vinyl-Figure___466630\"\u003ehttp://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Penny-Zombie-Vinyl-Figure___466630\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "POP",
+        "variant":  "POP TELEVISION PENNY ZOMBIE VINYL FIGURE",
+        "price":  6.59,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Woodbury-Walker-Zombie-Vinyl-Figure___466632",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Woodbury-Walker-Zombie-Vinyl-Figure___466632\"\u003ehttp://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Woodbury-Walker-Zombie-Vinyl-Figure___466632\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "POP",
+        "variant":  "POP TELEVISION WOODBURY WALKER ZOMBIE VINYL FIGURE",
+        "price":  6.59,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Prison-Yard-Rick-Grimes-Vinyl-Figure___425290",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Prison-Yard-Rick-Grimes-Vinyl-Figure___425290\"\u003ehttp://www.tfaw.com/Profile/Pop-Television-Walking-Dead-Prison-Yard-Rick-Grimes-Vinyl-Figure___425290\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "POP",
+        "variant":  "POP TELEVISION PRISON YARD RICK GRIMES VINYL FIGURE",
+        "price":  6.59,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Pop-Walking-Dead-Carol-Vinyl-Figure___464051",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Pop-Walking-Dead-Carol-Vinyl-Figure___464051\"\u003ehttp://www.tfaw.com/Profile/Pop-Walking-Dead-Carol-Vinyl-Figure___464051\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "POP",
+        "variant":  "POP CAROL VINYL FIGURE",
+        "price":  9.89,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Pop-Walking-Dead-Hershel-Vinyl-Figure___464046",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Pop-Walking-Dead-Hershel-Vinyl-Figure___464046\"\u003ehttp://www.tfaw.com/Profile/Pop-Walking-Dead-Hershel-Vinyl-Figure___464046\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "POP",
+        "variant":  "POP HERSHEL VINYL FIGURE",
+        "price":  9.89,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Pop-Walking-Dead-Prison-Glenn-Vinyl-Figure___464047",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Pop-Walking-Dead-Prison-Glenn-Vinyl-Figure___464047\"\u003ehttp://www.tfaw.com/Profile/Pop-Walking-Dead-Prison-Glenn-Vinyl-Figure___464047\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "POP",
+        "variant":  "POP PRISON GLENN VINYL FIGURE",
+        "price":  9.89,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Pop-Walking-Dead-Teddy-Bear-Girl-Vinyl-Figure___464048",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Pop-Walking-Dead-Teddy-Bear-Girl-Vinyl-Figure___464048\"\u003ehttp://www.tfaw.com/Profile/Pop-Walking-Dead-Teddy-Bear-Girl-Vinyl-Figure___464048\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "POP",
+        "variant":  "POP TEDDY BEAR GIRL VINYL FIGURE",
+        "price":  9.89,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Pop-Walking-Dead-Tyrese-Vinyl-Figure___464049",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Pop-Walking-Dead-Tyrese-Vinyl-Figure___464049\"\u003ehttp://www.tfaw.com/Profile/Pop-Walking-Dead-Tyrese-Vinyl-Figure___464049\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "POP",
+        "variant":  "POP TYRESE VINYL FIGURE",
+        "price":  8.24,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Pop-Walking-Dead-Well-Walker-Vinyl-Figure___464050",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Pop-Walking-Dead-Well-Walker-Vinyl-Figure___464050\"\u003ehttp://www.tfaw.com/Profile/Pop-Walking-Dead-Well-Walker-Vinyl-Figure___464050\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "POP",
+        "variant":  "POP WELL WALKER VINYL FIGURE",
+        "price":  9.89,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Triumph-Of-Walking-Dead-On-Page-%7Cand%7C-Screen-SC___393608",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Triumph-Of-Walking-Dead-On-Page-%7Cand%7C-Screen-SC___393608\"\u003ehttp://www.tfaw.com/Profile/Triumph-Of-Walking-Dead-On-Page-%7Cand%7C-Screen-SC___393608\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TRIUMPH",
+        "variant":  "TRIUMPH OF ON PAGE \u0026 SCREEN SC",
+        "price":  13.45,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-1-10th-Anniversary-Ed___433834",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-1-10th-Anniversary-Ed___433834\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-1-10th-Anniversary-Ed___433834\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "1",
+        "variant":  "1 10TH ANNIVERSARY ED",
+        "price":  4.79,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-100-Poster___405926",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-100-Poster___405926\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-100-Poster___405926\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "100",
+        "variant":  "100 POSTER",
+        "price":  7.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-102-%282nd-Printing%29___416074",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-102-%282nd-Printing%29___416074\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-102-%282nd-Printing%29___416074\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "102",
+        "variant":  "102 (2ND PRINTING)",
+        "price":  2.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-109___421730",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-109___421730\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-109___421730\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "109",
+        "variant":  "109",
+        "price":  2.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-115-%28Cover-B%29___433823",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-115-%28Cover-B%29___433823\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-115-%28Cover-B%29___433823\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "115",
+        "variant":  "115 (COVER B)",
+        "price":  2.69,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-115-%28Cover-K%29___433832",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-115-%28Cover-K%29___433832\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-115-%28Cover-K%29___433832\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "115",
+        "variant":  "115 (COVER K)",
+        "price":  2.69,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-116-%282nd-Printing%29___444158",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-116-%282nd-Printing%29___444158\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-116-%282nd-Printing%29___444158\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "116",
+        "variant":  "116 (2ND PRINTING)",
+        "price":  2.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-132___460452",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-132___460452\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-132___460452\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "132",
+        "variant":  "132",
+        "price":  2.69,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-133___460453",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-133___460453\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-133___460453\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "133",
+        "variant":  "133",
+        "price":  2.69,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-134___462920",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-134___462920\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-134___462920\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "134",
+        "variant":  "134",
+        "price":  2.69,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-135___465070",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-135___465070\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-135___465070\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "135",
+        "variant":  "135",
+        "price":  2.69,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-136___467313",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-136___467313\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-136___467313\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "136",
+        "variant":  "136",
+        "price":  2.69,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-137___469528",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-137___469528\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-137___469528\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "137",
+        "variant":  "137",
+        "price":  2.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-138___471544",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-138___471544\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-138___471544\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "138",
+        "variant":  "138",
+        "price":  2.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-139___471545",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-139___471545\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-139___471545\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "139",
+        "variant":  "139",
+        "price":  2.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
     },
     {
         "link":  "http://www.tfaw.com/Profile/Walking-Dead-100-Project-Ltd-Ed-HC___431762",
@@ -548,7 +1310,7 @@
         "variant":  "100 PROJECT LTD ED HC",
         "price":  22.49,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -560,7 +1322,7 @@
         "variant":  "100 PROJECT TPB",
         "price":  11.69,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -572,7 +1334,7 @@
         "variant":  "2012 CALENDAR",
         "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -584,7 +1346,7 @@
         "variant":  "2013 CALENDAR - NICK \u0026 DENT",
         "price":  7.49,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -596,7 +1358,7 @@
         "variant":  "2015 CALENDAR",
         "price":  13.49,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -608,7 +1370,7 @@
         "variant":  "ALL OUT WAR AP EDITION HC",
         "price":  26.24,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -620,7 +1382,7 @@
         "variant":  "AMC 2015 BOXED DAILY TRIVIA CALENDAR",
         "price":  11.24,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -632,7 +1394,7 @@
         "variant":  "ANDREA T-SHIRT MED MEN",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -644,7 +1406,7 @@
         "variant":  "ANDREA T-SHIRT MED WOMEN",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -656,7 +1418,7 @@
         "variant":  "ANDREA T-SHIRT SM MEN",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -668,7 +1430,7 @@
         "variant":  "ANDREA T-SHIRT SM WOMEN",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -680,7 +1442,7 @@
         "variant":  "ANDREA T-SHIRT XL MEN",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -692,7 +1454,7 @@
         "variant":  "ANDREA T-SHIRT XL WOMEN",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -704,7 +1466,19 @@
         "variant":  "ANDREA T-SHIRT XXL WOMEN",
         "price":  17.59,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Bang%21-Card-Game___457358",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Bang%21-Card-Game___457358\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Bang%21-Card-Game___457358\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "BANG!",
+        "variant":  "BANG! CARD GAME",
+        "price":  27.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -716,7 +1490,7 @@
         "variant":  "BD SEA 04",
         "price":  86.39,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -728,7 +1502,7 @@
         "variant":  "BD SEA 04 LTD ED",
         "price":  139.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -740,7 +1514,7 @@
         "variant":  "BLOATED WALKER MASK",
         "price":  16.79,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -752,7 +1526,7 @@
         "variant":  "BOARD GAME (COMIC SERIES)",
         "price":  31.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -764,7 +1538,7 @@
         "variant":  "BOARD GAME (TV SERIES)",
         "price":  31.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -776,7 +1550,7 @@
         "variant":  "BOARD GAME - THE BEST DEFENSE (TV SERIES) WOODBURY EXPANSION",
         "price":  10.36,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -788,7 +1562,7 @@
         "variant":  "BUST BANK ZOMBIE PET 2",
         "price":  20.69,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -800,7 +1574,7 @@
         "variant":  "CHRONICLES SC",
         "price":  15.96,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -812,7 +1586,7 @@
         "variant":  "COMIC SERIES 2 ACTION FIGURE ASSORTMENT",
         "price":  192.00,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -822,9 +1596,9 @@
         "title":  "WALKING DEAD",
         "issue":  "COMIC",
         "variant":  "COMIC SERIES 2 GLENN ACTION FIGURE",
-        "price":  17.99,
+        "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -836,7 +1610,7 @@
         "variant":  "COMIC SERIES 2 GOVERNOR ACTION FIGURE",
         "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -848,7 +1622,7 @@
         "variant":  "COMIC SERIES 2 MICHONNE PET ACTION FIGURE",
         "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -860,7 +1634,7 @@
         "variant":  "COMIC SERIES 2 PENNY ACTION FIGURE",
         "price":  17.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -872,7 +1646,7 @@
         "variant":  "COMIC SERIES 3 ANDREA ACTION FIGURE",
         "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -884,7 +1658,7 @@
         "variant":  "COMIC SERIES 3 DWIGHT ACTION FIGURE",
         "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -894,9 +1668,9 @@
         "title":  "WALKING DEAD",
         "issue":  "COMPENDIUM",
         "variant":  "COMPENDIUM TPB VOL. 01",
-        "price":  47.99,
+        "price":  53.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -906,9 +1680,9 @@
         "title":  "WALKING DEAD",
         "issue":  "COMPENDIUM",
         "variant":  "COMPENDIUM TPB VOL. 02",
-        "price":  47.99,
+        "price":  53.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -920,7 +1694,7 @@
         "variant":  "COMPENDIUM TPB VOL. 1 - NICK \u0026 DENT",
         "price":  29.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -932,7 +1706,7 @@
         "variant":  "COVERS HC",
         "price":  22.49,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -944,7 +1718,7 @@
         "variant":  "DARYL DIXON BEER MUG",
         "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -956,7 +1730,7 @@
         "variant":  "DARYL DIXON LADIES TRANSFER PRINT SOCKS",
         "price":  6.40,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -968,7 +1742,7 @@
         "variant":  "DARYL DIXON MESSENGER BAG",
         "price":  71.95,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -980,7 +1754,7 @@
         "variant":  "DARYL KEEP CALM DOG TAG",
         "price":  8.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -992,7 +1766,7 @@
         "variant":  "DARYL PONCHO MESSENGER BAG",
         "price":  71.95,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1004,7 +1778,19 @@
         "variant":  "DARYL TRANSFER PRINT SOCKS",
         "price":  8.00,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Daryl-Walker-Previews-Exclusive-Blk-T-Shirt-MED___447488",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Daryl-Walker-Previews-Exclusive-Blk-T-Shirt-MED___447488\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Daryl-Walker-Previews-Exclusive-Blk-T-Shirt-MED___447488\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "DARYL",
+        "variant":  "DARYL WALKER PREVIEWS EXCLUSIVE BLK T-SHIRT MED",
+        "price":  15.19,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1016,7 +1802,7 @@
         "variant":  "DARYL ZEN JRS TANK LG",
         "price":  13.19,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1028,7 +1814,7 @@
         "variant":  "DEER WALKER MASK",
         "price":  41.60,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1040,7 +1826,7 @@
         "variant":  "DIXON CLAIMED BLK WMNS T-SHIRT LG",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1052,7 +1838,7 @@
         "variant":  "DIXON CLAIMED BLK WMNS T-SHIRT MED",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1064,7 +1850,7 @@
         "variant":  "DIXON CLAIMED BLK WMNS T-SHIRT SM",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1076,7 +1862,7 @@
         "variant":  "DIXON CLAIMED BLK WMNS T-SHIRT XL",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1088,7 +1874,7 @@
         "variant":  "DVD SEA 04",
         "price":  75.19,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1100,7 +1886,19 @@
         "variant":  "FISH TANK LED PAPERWEIGHT",
         "price":  19.79,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-LG-Men___464998",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-LG-Men___464998\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-LG-Men___464998\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "FREE",
+        "variant":  "FREE NEGAN SHIRT LG MEN",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1112,7 +1910,19 @@
         "variant":  "FREE NEGAN SHIRT SM MEN",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-XL-Men___464999",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-XL-Men___464999\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Free-Negan-Shirt-XL-Men___464999\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "FREE",
+        "variant":  "FREE NEGAN SHIRT XL MEN",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1124,7 +1934,7 @@
         "variant":  "THE HC VOL. 01",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1136,7 +1946,7 @@
         "variant":  "HC VOL. 02",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1148,7 +1958,7 @@
         "variant":  "HC VOL. 03",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1160,7 +1970,7 @@
         "variant":  "HC VOL. 04",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1172,7 +1982,7 @@
         "variant":  "HC VOL. 05",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1184,7 +1994,7 @@
         "variant":  "HC VOL. 06",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1196,7 +2006,7 @@
         "variant":  "HC VOL. 07",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1208,7 +2018,7 @@
         "variant":  "HC VOL. 08",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1220,7 +2030,7 @@
         "variant":  "HC VOL. 09",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1232,7 +2042,7 @@
         "variant":  "HC VOL. 10",
         "price":  31.49,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1244,7 +2054,7 @@
         "variant":  "HC VOL. 11",
         "price":  27.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1256,7 +2066,7 @@
         "variant":  "HEAD STAB T-SHIRT MED",
         "price":  19.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1268,7 +2078,7 @@
         "variant":  "HILLTOP MENS T-SHIRT LG",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1280,7 +2090,7 @@
         "variant":  "HILLTOP MENS T-SHIRT XL",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1292,7 +2102,7 @@
         "variant":  "HILLTOP T-SHIRT MENS XXL",
         "price":  18.39,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1304,7 +2114,7 @@
         "variant":  "HILLTOP T-SHIRT WOMENS MED",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1316,7 +2126,7 @@
         "variant":  "HILLTOP T-SHIRT WOMENS XL",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1328,7 +2138,7 @@
         "variant":  "HILLTOP WOMENS T-SHIRT SM",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1340,7 +2150,7 @@
         "variant":  "HOLE IN HEAD BOTTLE OPENER",
         "price":  15.19,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1352,7 +2162,7 @@
         "variant":  "HORDE OF WALKER ENAMEL DOG TAG",
         "price":  6.59,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1364,7 +2174,7 @@
         "variant":  "I HEART T-SHIRT LG",
         "price":  19.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1376,7 +2186,7 @@
         "variant":  "I HEART T-SHIRT MED",
         "price":  19.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1388,7 +2198,7 @@
         "variant":  "I HEART T-SHIRT SM",
         "price":  19.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1400,7 +2210,7 @@
         "variant":  "I HEART T-SHIRT XL",
         "price":  19.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1412,7 +2222,7 @@
         "variant":  "I HEART T-SHIRT XXL",
         "price":  22.39,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1424,7 +2234,7 @@
         "variant":  "IN DARYL WE TRUST HAND BAG BLACK",
         "price":  47.96,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1436,7 +2246,7 @@
         "variant":  "IN DARYL WE TRUST HAND BAG BROWN",
         "price":  47.96,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1448,7 +2258,7 @@
         "variant":  "IN DARYL WE TRUST WOMENS WALLET BLACK",
         "price":  27.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1460,19 +2270,7 @@
         "variant":  "IN DARYL WE TRUST WOMENS WALLET BROWN",
         "price":  27.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
-        "site":  "TFAW"
-    },
-    {
-        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Kingdom-T-Shirt-Mens-LG___433866",
-        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Kingdom-T-Shirt-Mens-LG___433866\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Kingdom-T-Shirt-Mens-LG___433866\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "WALKING DEAD",
-        "issue":  "KINGDOM",
-        "variant":  "KINGDOM T-SHIRT MENS LG",
-        "price":  15.99,
-        "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1484,7 +2282,7 @@
         "variant":  "KINGDOM T-SHIRT MENS XL",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1496,7 +2294,7 @@
         "variant":  "KINGDOM T-SHIRT WOMENS LG",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1508,7 +2306,7 @@
         "variant":  "KINGDOM T-SHIRT WOMENS SM",
         "price":  15.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1520,7 +2318,7 @@
         "variant":  "LOGO T-SHIRT LG",
         "price":  19.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1532,7 +2330,7 @@
         "variant":  "LOGO T-SHIRT MED",
         "price":  19.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1544,7 +2342,7 @@
         "variant":  "LOGO T-SHIRT SM",
         "price":  19.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1556,7 +2354,7 @@
         "variant":  "LOGO T-SHIRT XXL",
         "price":  22.39,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1568,7 +2366,7 @@
         "variant":  "LOGO ZOMBIE SEATBELT BELT",
         "price":  16.20,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1580,7 +2378,7 @@
         "variant":  "LUNCHBOX",
         "price":  11.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1592,7 +2390,7 @@
         "variant":  "MAGAZINE 10 (NEWSSTAND EDITION)",
         "price":  8.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1604,7 +2402,7 @@
         "variant":  "MAGAZINE 10 (PREVIEWS EXCLUSIVE EDITION)",
         "price":  8.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1616,7 +2414,7 @@
         "variant":  "MAGAZINE 11 (NEWSSTAND EDTION)",
         "price":  7.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1628,7 +2426,7 @@
         "variant":  "MAGAZINE 11 (PREVIEWS EXCLUSIVE EDITION)",
         "price":  7.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1640,7 +2438,7 @@
         "variant":  "MAGAZINE 12 (NEWSSTAND EDITION)",
         "price":  7.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1652,7 +2450,7 @@
         "variant":  "MAGAZINE 12 (PREVIEWS EXCLUSIVE EDITION)",
         "price":  7.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1664,7 +2462,7 @@
         "variant":  "MAGAZINE 3 (PREVIEWS EXCLUSIVE EDITION)",
         "price":  5.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1676,7 +2474,7 @@
         "variant":  "MAGAZINE 4 (NEWSSTAND EDITION)",
         "price":  5.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1688,7 +2486,7 @@
         "variant":  "MAGAZINE 4 (PREVIEWS EXCLUSIVE EDITION)",
         "price":  5.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1700,7 +2498,7 @@
         "variant":  "MAGAZINE 6 (NEWSSTAND EDITION)",
         "price":  5.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1712,7 +2510,7 @@
         "variant":  "MAGAZINE 6 (PREVIEWS EXCLUSIVE EDITION)",
         "price":  5.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1724,7 +2522,7 @@
         "variant":  "MAGAZINE 8 (NEWSSTAND EDITION)",
         "price":  5.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1736,7 +2534,1891 @@
         "variant":  "MAGAZINE 9 (NEWSSTAND EDITION)",
         "price":  8.99,
         "currency":  "$",
-        "rundate":  "Mon Jan 12 2015 10:06:08 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Magazine-9-%28Previews-Exclusive-Edition%29___453936",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Magazine-9-%28Previews-Exclusive-Edition%29___453936\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Magazine-9-%28Previews-Exclusive-Edition%29___453936\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MAGAZINE",
+        "variant":  "MAGAZINE 9 (PREVIEWS EXCLUSIVE EDITION)",
+        "price":  5.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Magazine-9-Sdcc-Exclusive-Cover___456705",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Magazine-9-Sdcc-Exclusive-Cover___456705\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Magazine-9-Sdcc-Exclusive-Cover___456705\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MAGAZINE",
+        "variant":  "MAGAZINE 9 SDCC EXCLUSIVE COVER",
+        "price":  7.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Michonne-And-Carl-T-Shirt-Mens-MED___429645",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Michonne-And-Carl-T-Shirt-Mens-MED___429645\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Michonne-And-Carl-T-Shirt-Mens-MED___429645\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MICHONNE",
+        "variant":  "MICHONNE AND CARL T-SHIRT MENS MED",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Michonne-And-Carl-T-Shirt-Mens-XL___429647",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Michonne-And-Carl-T-Shirt-Mens-XL___429647\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Michonne-And-Carl-T-Shirt-Mens-XL___429647\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MICHONNE",
+        "variant":  "MICHONNE AND CARL T-SHIRT MENS XL",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Michonne-And-Carl-T-Shirt-Mens-XXL___429648",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Michonne-And-Carl-T-Shirt-Mens-XXL___429648\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Michonne-And-Carl-T-Shirt-Mens-XXL___429648\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MICHONNE",
+        "variant":  "MICHONNE AND CARL T-SHIRT MENS XXL",
+        "price":  18.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Michonne-Bust-Bank___457031",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Michonne-Bust-Bank___457031\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Michonne-Bust-Bank___457031\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MICHONNE",
+        "variant":  "MICHONNE BUST BANK",
+        "price":  20.69,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Michonne-Enamel-Dog-Tag___432993",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Michonne-Enamel-Dog-Tag___432993\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Michonne-Enamel-Dog-Tag___432993\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MICHONNE",
+        "variant":  "MICHONNE ENAMEL DOG TAG",
+        "price":  9.89,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Michonne-Keep-Calm-Dog-Tag___432997",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Michonne-Keep-Calm-Dog-Tag___432997\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Michonne-Keep-Calm-Dog-Tag___432997\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MICHONNE",
+        "variant":  "MICHONNE KEEP CALM DOG TAG",
+        "price":  5.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Michonne-Sling-Bag___472511",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Michonne-Sling-Bag___472511\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Michonne-Sling-Bag___472511\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MICHONNE",
+        "variant":  "MICHONNE SLING BAG",
+        "price":  47.96,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-2-Andrea-And-Stabbed-Zombie-2-Pack___421242",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-2-Andrea-And-Stabbed-Zombie-2-Pack___421242\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-2-Andrea-And-Stabbed-Zombie-2-Pack___421242\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 2 ANDREA AND STABBED ZOMBIE 2-PACK",
+        "price":  8.09,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-2-Michonne-And-One-Eyed-Zombie-2-Pack___421243",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-2-Michonne-And-One-Eyed-Zombie-2-Pack___421243\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-2-Michonne-And-One-Eyed-Zombie-2-Pack___421243\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 2 MICHONNE AND ONE-EYED ZOMBIE 2-PACK",
+        "price":  8.09,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-2-Sailor-Zombie-And-Leg-Bite-Zombie-2-Pack___421240",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-2-Sailor-Zombie-And-Leg-Bite-Zombie-2-Pack___421240\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-2-Sailor-Zombie-And-Leg-Bite-Zombie-2-Pack___421240\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 2 SAILOR ZOMBIE AND LEG BITE ZOMBIE 2-PACK",
+        "price":  5.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-3-Dexter-And-Dreadlock-Zombie___431351",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-3-Dexter-And-Dreadlock-Zombie___431351\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-3-Dexter-And-Dreadlock-Zombie___431351\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 3 DEXTER AND DREADLOCK ZOMBIE",
+        "price":  5.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-3-Prison-Hershel-And-Farmer-Zombie___431353",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-3-Prison-Hershel-And-Farmer-Zombie___431353\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-3-Prison-Hershel-And-Farmer-Zombie___431353\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 3 PRISON HERSHEL AND FARMER ZOMBIE",
+        "price":  8.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-3-Riot-Gear-Rick-And-Guard-Zombie___431352",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-3-Riot-Gear-Rick-And-Guard-Zombie___431352\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-3-Riot-Gear-Rick-And-Guard-Zombie___431352\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 3 RIOT GEAR RICK AND GUARD ZOMBIE",
+        "price":  8.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Assortment___445762",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Assortment___445762\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Assortment___445762\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 5 ASSORTMENT",
+        "price":  95.90,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Caesar-Martinez-And-Geek-Zombie___452521",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Caesar-Martinez-And-Geek-Zombie___452521\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Caesar-Martinez-And-Geek-Zombie___452521\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 5 CAESAR MARTINEZ AND GEEK ZOMBIE",
+        "price":  7.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Maggie-Greene-And-Riot-Gear-Glenn___452523",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Maggie-Greene-And-Riot-Gear-Glenn___452523\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Maggie-Greene-And-Riot-Gear-Glenn___452523\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 5 MAGGIE GREENE AND RIOT GEAR GLENN",
+        "price":  7.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Survivor-Morgan-And-Geek-Zombie___452520",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Survivor-Morgan-And-Geek-Zombie___452520\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Survivor-Morgan-And-Geek-Zombie___452520\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 5 SURVIVOR MORGAN AND GEEK ZOMBIE",
+        "price":  7.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Tyreese-And-Prison-Michonne___452522",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Tyreese-And-Prison-Michonne___452522\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-5-Tyreese-And-Prison-Michonne___452522\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 5 TYREESE AND PRISON MICHONNE",
+        "price":  7.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Assortment___454225",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Assortment___454225\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Assortment___454225\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 6 ASSORTMENT",
+        "price":  95.90,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Carl-Grimes-And-Burning-Zombie___468897",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Carl-Grimes-And-Burning-Zombie___468897\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Carl-Grimes-And-Burning-Zombie___468897\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 6 CARL GRIMES AND BURNING ZOMBIE",
+        "price":  8.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Constable-Rick-Grimes-And-Douglas-Monroe___468896",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Constable-Rick-Grimes-And-Douglas-Monroe___468896\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Constable-Rick-Grimes-And-Douglas-Monroe___468896\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 6 CONSTABLE RICK GRIMES AND DOUGLAS MONROE",
+        "price":  8.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Deputy-Michonne-And-Winter-Zombie___468895",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Deputy-Michonne-And-Winter-Zombie___468895\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Deputy-Michonne-And-Winter-Zombie___468895\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 6 DEPUTY MICHONNE AND WINTER ZOMBIE",
+        "price":  8.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Party-Michone-And-Winter-Zombie___468894",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Party-Michone-And-Winter-Zombie___468894\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Minimates-Series-6-Party-Michone-And-Winter-Zombie___468894\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MINIMATES",
+        "variant":  "MINIMATES SERIES 6 PARTY MICHONE AND WINTER ZOMBIE",
+        "price":  8.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-MMPB-Vol.-01-Rise-Of-Governor___432438",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-MMPB-Vol.-01-Rise-Of-Governor___432438\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-MMPB-Vol.-01-Rise-Of-Governor___432438\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MMPB",
+        "variant":  "MMPB VOL. 01 RISE OF GOVERNOR",
+        "price":  6.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-MMPB-Vol.-02-Road-To-Woodbury___447395",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-MMPB-Vol.-02-Road-To-Woodbury___447395\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-MMPB-Vol.-02-Road-To-Woodbury___447395\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MMPB",
+        "variant":  "MMPB VOL. 02 ROAD TO WOODBURY",
+        "price":  7.19,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-MMPB-Vol.-03-Fall-Of-Governor-Pt-1___459015",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-MMPB-Vol.-03-Fall-Of-Governor-Pt-1___459015\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-MMPB-Vol.-03-Fall-Of-Governor-Pt-1___459015\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MMPB",
+        "variant":  "MMPB VOL. 03 FALL OF GOVERNOR PT 1",
+        "price":  5.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-MMPB-Vol.-04-Fall-Of-Governor-Pt-2___472331",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-MMPB-Vol.-04-Fall-Of-Governor-Pt-2___472331\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-MMPB-Vol.-04-Fall-Of-Governor-Pt-2___472331\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "MMPB",
+        "variant":  "MMPB VOL. 04 FALL OF GOVERNOR PT 2",
+        "price":  6.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Deluxe-Slipcase-Ed___394612",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Deluxe-Slipcase-Ed___394612\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Deluxe-Slipcase-Ed___394612\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "NOVEL",
+        "variant":  "NOVEL HC DELUXE SLIPCASE ED",
+        "price":  59.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Vol.-01-Rise-Of-The-Governor___389808",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Vol.-01-Rise-Of-The-Governor___389808\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Vol.-01-Rise-Of-The-Governor___389808\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "NOVEL",
+        "variant":  "NOVEL HC VOL. 01 RISE OF THE GOVERNOR",
+        "price":  19.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Vol.-02-Road-To-Woodbury___410113",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Vol.-02-Road-To-Woodbury___410113\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Vol.-02-Road-To-Woodbury___410113\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "NOVEL",
+        "variant":  "NOVEL HC VOL. 02 ROAD TO WOODBURY",
+        "price":  22.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Vol.-03-Fall-Of-Governor-Part-1___432439",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Vol.-03-Fall-Of-Governor-Part-1___432439\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Vol.-03-Fall-Of-Governor-Part-1___432439\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "NOVEL",
+        "variant":  "NOVEL HC VOL. 03 FALL OF GOVERNOR PART 1",
+        "price":  19.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Vol.-05-Descent___461362",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Vol.-05-Descent___461362\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Novel-HC-Vol.-05-Descent___461362\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "NOVEL",
+        "variant":  "NOVEL HC VOL. 05 DESCENT",
+        "price":  23.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Novel-SC-Vol.-01-Rise-Of-Governor___403292",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Novel-SC-Vol.-01-Rise-Of-Governor___403292\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Novel-SC-Vol.-01-Rise-Of-Governor___403292\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "NOVEL",
+        "variant":  "NOVEL SC VOL. 01 RISE OF GOVERNOR",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Novel-SC-Vol.-02-Road-To-Woodbury___426342",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Novel-SC-Vol.-02-Road-To-Woodbury___426342\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Novel-SC-Vol.-02-Road-To-Woodbury___426342\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "NOVEL",
+        "variant":  "NOVEL SC VOL. 02 ROAD TO WOODBURY",
+        "price":  8.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Novel-SC-Vol.-03-Fall-Of-Governor-Pt-1___451613",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Novel-SC-Vol.-03-Fall-Of-Governor-Pt-1___451613\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Novel-SC-Vol.-03-Fall-Of-Governor-Pt-1___451613\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "NOVEL",
+        "variant":  "NOVEL SC VOL. 03 FALL OF GOVERNOR PT 1",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Novel-SC-Vol.-04-Fall-Of-Governor-Pt-2___461361",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Novel-SC-Vol.-04-Fall-Of-Governor-Pt-2___461361\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Novel-SC-Vol.-04-Fall-Of-Governor-Pt-2___461361\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "NOVEL",
+        "variant":  "NOVEL SC VOL. 04 FALL OF GOVERNOR PT 2",
+        "price":  11.24,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-01___204837",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-01___204837\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-01___204837\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "OMNIBUS",
+        "variant":  "OMNIBUS HC VOL. 01",
+        "price":  90.00,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-02___331167",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-02___331167\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-02___331167\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "OMNIBUS",
+        "variant":  "OMNIBUS HC VOL. 02",
+        "price":  80.00,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-03___374318",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-03___374318\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-03___374318\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "OMNIBUS",
+        "variant":  "OMNIBUS HC VOL. 03",
+        "price":  90.00,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-04___414908",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-04___414908\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-04___414908\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "OMNIBUS",
+        "variant":  "OMNIBUS HC VOL. 04",
+        "price":  80.00,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-05___462852",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-05___462852\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Omnibus-HC-Vol.-05___462852\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "OMNIBUS",
+        "variant":  "OMNIBUS HC VOL. 05",
+        "price":  90.00,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Pet-Zombie-Bottle-Opener___434957",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Pet-Zombie-Bottle-Opener___434957\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Pet-Zombie-Bottle-Opener___434957\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "PET",
+        "variant":  "PET ZOMBIE BOTTLE OPENER",
+        "price":  14.40,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Pet-Zombie-Bust-Bank___424439",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Pet-Zombie-Bust-Bank___424439\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Pet-Zombie-Bust-Bank___424439\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "PET",
+        "variant":  "PET ZOMBIE BUST BANK",
+        "price":  18.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Plug-N-Play-Tv-Game___408665",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Plug-N-Play-Tv-Game___408665\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Plug-N-Play-Tv-Game___408665\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "PLUG-N-PLAY",
+        "variant":  "PLUG-N-PLAY TV GAME",
+        "price":  71.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Plush-Sheriff-Rick-Grimes___416088",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Plush-Sheriff-Rick-Grimes___416088\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Plush-Sheriff-Rick-Grimes___416088\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "PLUSH",
+        "variant":  "PLUSH SHERIFF RICK GRIMES",
+        "price":  9.74,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Prison-Guard-Walker-7in-Vinyl-Figure___439545",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Prison-Guard-Walker-7in-Vinyl-Figure___439545\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Prison-Guard-Walker-7in-Vinyl-Figure___439545\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "PRISON",
+        "variant":  "PRISON GUARD WALKER 7IN VINYL FIGURE",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Rick-Grimes-Beer-Mug___464085",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Rick-Grimes-Beer-Mug___464085\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Rick-Grimes-Beer-Mug___464085\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "RICK",
+        "variant":  "RICK GRIMES BEER MUG",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Rick-Grimes-Resin-Statue___460553",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Rick-Grimes-Resin-Statue___460553\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Rick-Grimes-Resin-Statue___460553\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "RICK",
+        "variant":  "RICK GRIMES RESIN STATUE",
+        "price":  367.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Rick-Grimes-Sheriff-Dept-Duffle-Bag___470723",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Rick-Grimes-Sheriff-Dept-Duffle-Bag___470723\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Rick-Grimes-Sheriff-Dept-Duffle-Bag___470723\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "RICK",
+        "variant":  "RICK GRIMES SHERIFF DEPT DUFFLE BAG",
+        "price":  63.96,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-LG___472547",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-LG___472547\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-LG___472547\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "RICK",
+        "variant":  "RICK WRONG PEOPLE WHT T-SHIRT LG",
+        "price":  13.59,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-MED___472546",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-MED___472546\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-MED___472546\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "RICK",
+        "variant":  "RICK WRONG PEOPLE WHT T-SHIRT MED",
+        "price":  13.59,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-SM___472545",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-SM___472545\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-SM___472545\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "RICK",
+        "variant":  "RICK WRONG PEOPLE WHT T-SHIRT SM",
+        "price":  13.59,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-XL___472548",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-XL___472548\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-XL___472548\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "RICK",
+        "variant":  "RICK WRONG PEOPLE WHT T-SHIRT XL",
+        "price":  13.59,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-XXL___472549",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-XXL___472549\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Rick-Wrong-People-Wht-T-Shirt-XXL___472549\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "RICK",
+        "variant":  "RICK WRONG PEOPLE WHT T-SHIRT XXL",
+        "price":  15.19,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Run-TWD-LG-Men-T-Shirt___471548",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Run-TWD-LG-Men-T-Shirt___471548\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Run-TWD-LG-Men-T-Shirt___471548\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "RUN",
+        "variant":  "RUN TWD LG MEN T-SHIRT",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Run-TWD-MED-Men-T-Shirt___471547",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Run-TWD-MED-Men-T-Shirt___471547\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Run-TWD-MED-Men-T-Shirt___471547\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "RUN",
+        "variant":  "RUN TWD MED MEN T-SHIRT",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Run-TWD-Sm-Men-T-Shirt___471546",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Run-TWD-Sm-Men-T-Shirt___471546\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Run-TWD-Sm-Men-T-Shirt___471546\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "RUN",
+        "variant":  "RUN TWD SM MEN T-SHIRT",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Run-TWD-XL-Men-T-Shirt___471549",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Run-TWD-XL-Men-T-Shirt___471549\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Run-TWD-XL-Men-T-Shirt___471549\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "RUN",
+        "variant":  "RUN TWD XL MEN T-SHIRT",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Run-TWD-XXL-Men-T-Shirt___471550",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Run-TWD-XXL-Men-T-Shirt___471550\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Run-TWD-XXL-Men-T-Shirt___471550\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "RUN",
+        "variant":  "RUN TWD XXL MEN T-SHIRT",
+        "price":  17.59,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Rv-Walker-7in-Vinyl-Figure___439546",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Rv-Walker-7in-Vinyl-Figure___439546\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Rv-Walker-7in-Vinyl-Figure___439546\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "RV",
+        "variant":  "RV WALKER 7IN VINYL FIGURE",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Mens-XL___433858",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Mens-XL___433858\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Mens-XL___433858\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SAVIORS",
+        "variant":  "SAVIORS T-SHIRT MENS XL",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Mens-XXL___433859",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Mens-XXL___433859\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Mens-XXL___433859\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SAVIORS",
+        "variant":  "SAVIORS T-SHIRT MENS XXL",
+        "price":  18.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Womens-LG___433862",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Womens-LG___433862\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Womens-LG___433862\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SAVIORS",
+        "variant":  "SAVIORS T-SHIRT WOMENS LG",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Womens-SM___433860",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Womens-SM___433860\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Womens-SM___433860\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SAVIORS",
+        "variant":  "SAVIORS T-SHIRT WOMENS SM",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Womens-XL___433863",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Womens-XL___433863\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Saviors-T-Shirt-Womens-XL___433863\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SAVIORS",
+        "variant":  "SAVIORS T-SHIRT WOMENS XL",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Silicone-Tray-1___417353",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Silicone-Tray-1___417353\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Silicone-Tray-1___417353\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SILICONE",
+        "variant":  "SILICONE TRAY 1",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Silicone-Tray-2___445761",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Silicone-Tray-2___445761\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Silicone-Tray-2___445761\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SILICONE",
+        "variant":  "SILICONE TRAY 2",
+        "price":  8.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Spanish-Language-Ed-TPB-Vol.-01___431759",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Spanish-Language-Ed-TPB-Vol.-01___431759\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Spanish-Language-Ed-TPB-Vol.-01___431759\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SPANISH",
+        "variant":  "SPANISH LANGUAGE ED TPB VOL. 01",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Spanish-Language-Ed-TPB-Vol.-02___438279",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Spanish-Language-Ed-TPB-Vol.-02___438279\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Spanish-Language-Ed-TPB-Vol.-02___438279\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SPANISH",
+        "variant":  "SPANISH LANGUAGE ED TPB VOL. 02",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Spanish-Language-Ed-TPB-Vol.-03___444736",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Spanish-Language-Ed-TPB-Vol.-03___444736\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Spanish-Language-Ed-TPB-Vol.-03___444736\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SPANISH",
+        "variant":  "SPANISH LANGUAGE ED TPB VOL. 03",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Spanish-Language-Ed-TPB-Vol.-04___450948",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Spanish-Language-Ed-TPB-Vol.-04___450948\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Spanish-Language-Ed-TPB-Vol.-04___450948\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SPANISH",
+        "variant":  "SPANISH LANGUAGE ED TPB VOL. 04",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Survive-Transfer-Print-Socks___465963",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Survive-Transfer-Print-Socks___465963\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Survive-Transfer-Print-Socks___465963\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SURVIVE",
+        "variant":  "SURVIVE TRANSFER PRINT SOCKS",
+        "price":  8.00,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Survivors-Guide-TPB___391000",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Survivors-Guide-TPB___391000\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Survivors-Guide-TPB___391000\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SURVIVORS",
+        "variant":  "SURVIVORS GUIDE TPB",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Survivors-T-Shirt-Mens-LG___433839",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Survivors-T-Shirt-Mens-LG___433839\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Survivors-T-Shirt-Mens-LG___433839\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SURVIVORS",
+        "variant":  "SURVIVORS T-SHIRT MENS LG",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Survivors-T-Shirt-Mens-XL___433840",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Survivors-T-Shirt-Mens-XL___433840\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Survivors-T-Shirt-Mens-XL___433840\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SURVIVORS",
+        "variant":  "SURVIVORS T-SHIRT MENS XL",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Survivors-T-Shirt-Womens-LG___433844",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Survivors-T-Shirt-Womens-LG___433844\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Survivors-T-Shirt-Womens-LG___433844\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SURVIVORS",
+        "variant":  "SURVIVORS T-SHIRT WOMENS LG",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Survivors-T-Shirt-Womens-XL___433845",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Survivors-T-Shirt-Womens-XL___433845\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Survivors-T-Shirt-Womens-XL___433845\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "SURVIVORS",
+        "variant":  "SURVIVORS T-SHIRT WOMENS XL",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-T-Shirt-Rick-%7Cand%7C-Zombies-SM___391002",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-T-Shirt-Rick-%7Cand%7C-Zombies-SM___391002\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-T-Shirt-Rick-%7Cand%7C-Zombies-SM___391002\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "T-SHIRT",
+        "variant":  "T-SHIRT RICK \u0026 ZOMBIES SM",
+        "price":  19.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-T-Shirt-Rick-%7Cand%7C-Zombies-XXL___391006",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-T-Shirt-Rick-%7Cand%7C-Zombies-XXL___391006\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-T-Shirt-Rick-%7Cand%7C-Zombies-XXL___391006\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "T-SHIRT",
+        "variant":  "T-SHIRT RICK \u0026 ZOMBIES XXL",
+        "price":  22.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-T-Shirt-Rick-MED___379931",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-T-Shirt-Rick-MED___379931\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-T-Shirt-Rick-MED___379931\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "T-SHIRT",
+        "variant":  "T-SHIRT RICK MED",
+        "price":  19.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-T-Shirt-Rick-XXL___379934",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-T-Shirt-Rick-XXL___379934\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-T-Shirt-Rick-XXL___379934\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "T-SHIRT",
+        "variant":  "T-SHIRT RICK XXL",
+        "price":  22.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Tacdex___457359",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Tacdex___457359\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Tacdex___457359\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TACDEX",
+        "variant":  "TACDEX",
+        "price":  12.59,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-The-Governor-Special___420052",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-The-Governor-Special___420052\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-The-Governor-Special___420052\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "THE",
+        "variant":  "THE GOVERNOR SPECIAL",
+        "price":  2.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-02-Miles-Behind-Us-%28New-Printing%29___353925",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-02-Miles-Behind-Us-%28New-Printing%29___353925\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-02-Miles-Behind-Us-%28New-Printing%29___353925\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 02 MILES BEHIND US (NEW PRINTING)",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-03-Safety-Behind-Bars-%28New-Printing%29___335331",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-03-Safety-Behind-Bars-%28New-Printing%29___335331\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-03-Safety-Behind-Bars-%28New-Printing%29___335331\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 03 SAFETY BEHIND BARS (NEW PRINTING)",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-04-The-Heart%27s-Desire-%28New-Printing%29___353926",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-04-The-Heart%27s-Desire-%28New-Printing%29___353926\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-04-The-Heart%27s-Desire-%28New-Printing%29___353926\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 04 THE HEART\u0027S DESIRE (NEW PRINTING)",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-05-Best-Defense-%28New-Printing%29___352389",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-05-Best-Defense-%28New-Printing%29___352389\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-05-Best-Defense-%28New-Printing%29___352389\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 05 BEST DEFENSE (NEW PRINTING)",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-06-Sorrowful-Life-%28New-Printing%29___365774",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-06-Sorrowful-Life-%28New-Printing%29___365774\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-06-Sorrowful-Life-%28New-Printing%29___365774\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 06 SORROWFUL LIFE (NEW PRINTING)",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-07-The-Calm-Before___281461",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-07-The-Calm-Before___281461\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-07-The-Calm-Before___281461\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 07 THE CALM BEFORE",
+        "price":  11.69,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-08-Made-To-Suffer___315795",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-08-Made-To-Suffer___315795\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-08-Made-To-Suffer___315795\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 08 MADE TO SUFFER",
+        "price":  16.19,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-09-Here-We-Remain___335330",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-09-Here-We-Remain___335330\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-09-Here-We-Remain___335330\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 09 HERE WE REMAIN",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-10-What-We-Become___347922",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-10-What-We-Become___347922\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-10-What-We-Become___347922\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 10 WHAT WE BECOME",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-11-Fear-The-Hunters___354076",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-11-Fear-The-Hunters___354076\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-11-Fear-The-Hunters___354076\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 11 FEAR THE HUNTERS",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-12-TPB___362690",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-12-TPB___362690\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-12-TPB___362690\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 12 TPB",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-13-Too-Far-Gone___371283",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-13-Too-Far-Gone___371283\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-13-Too-Far-Gone___371283\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 13 TOO FAR GONE",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-14-No-Way-Out___383185",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-14-No-Way-Out___383185\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-14-No-Way-Out___383185\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 14 NO WAY OUT",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-15___394611",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-15___394611\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-15___394611\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 15",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-16-A-Larger-World___404326",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-16-A-Larger-World___404326\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-16-A-Larger-World___404326\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 16 A LARGER WORLD",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-17-Something-To-Fear___412962",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-17-Something-To-Fear___412962\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-17-Something-To-Fear___412962\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 17 SOMETHING TO FEAR",
+        "price":  8.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-17-Something-To-Fear---Nick-%7Cand%7C-Dent___433255",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-17-Something-To-Fear---Nick-%7Cand%7C-Dent___433255\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-17-Something-To-Fear---Nick-%7Cand%7C-Dent___433255\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 17 SOMETHING TO FEAR - NICK \u0026 DENT",
+        "price":  7.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-18-What-Comes-After___427404",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-18-What-Comes-After___427404\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-18-What-Comes-After___427404\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 18 WHAT COMES AFTER",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-19-March-To-War___436023",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-19-March-To-War___436023\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-19-March-To-War___436023\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 19 MARCH TO WAR",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-20-All-Out-War-Pt-1___444735",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-20-All-Out-War-Pt-1___444735\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-20-All-Out-War-Pt-1___444735\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 20 ALL OUT WAR PT 1",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-21-All-Out-War-Pt-2___453105",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-21-All-Out-War-Pt-2___453105\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-21-All-Out-War-Pt-2___453105\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 21 ALL OUT WAR PT 2",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-22-A-New-Beginning___462851",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-22-A-New-Beginning___462851\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TPB-Vol.-22-A-New-Beginning___462851\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TPB",
+        "variant":  "TPB VOL. 22 A NEW BEGINNING",
+        "price":  13.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-10-Inch-Rick-Grimes-Deluxe-Action-Figure___464545",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-10-Inch-Rick-Grimes-Deluxe-Action-Figure___464545\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-10-Inch-Rick-Grimes-Deluxe-Action-Figure___464545\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV 10-INCH RICK GRIMES DELUXE ACTION FIGURE",
+        "price":  40.49,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Tv-Card-Game___417590",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Tv-Card-Game___417590\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Tv-Card-Game___417590\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV CARD GAME",
+        "price":  12.00,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Carl-Grimes-Mini-Bust___441538",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Carl-Grimes-Mini-Bust___441538\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Carl-Grimes-Mini-Bust___441538\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV CARL GRIMES MINI-BUST",
+        "price":  60.00,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Tv-Daryl-%7Cand%7C-The-Wolves-1-8-Statue___466137",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Tv-Daryl-%7Cand%7C-The-Wolves-1-8-Statue___466137\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Tv-Daryl-%7Cand%7C-The-Wolves-1-8-Statue___466137\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV DARYL \u0026 THE WOLVES 1/8 STATUE",
+        "price":  191.20,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Daryl-Dixon-1-4-Scale-Statue___447913",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Daryl-Dixon-1-4-Scale-Statue___447913\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Daryl-Dixon-1-4-Scale-Statue___447913\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV DARYL DIXON 1/4 SCALE STATUE",
+        "price":  360.00,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Tv-Daryl-Dixon-2-Pint-Glass___464086",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Tv-Daryl-Dixon-2-Pint-Glass___464086\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Tv-Daryl-Dixon-2-Pint-Glass___464086\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV DARYL DIXON 2 PINT GLASS",
+        "price":  9.89,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Daryl-Dixon-Mini-Bust___428766",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Daryl-Dixon-Mini-Bust___428766\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Daryl-Dixon-Mini-Bust___428766\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV DARYL DIXON MINI-BUST",
+        "price":  67.50,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Daryl-Dixon-Walker-Ear-Prop___437083",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Daryl-Dixon-Walker-Ear-Prop___437083\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Daryl-Dixon-Walker-Ear-Prop___437083\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV DARYL DIXON WALKER EAR PROP",
+        "price":  79.20,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Governor-Mini-Bust___435050",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Governor-Mini-Bust___435050\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Governor-Mini-Bust___435050\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV GOVERNOR MINI-BUST",
+        "price":  48.00,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Tv-Maggie-Green-1-4-Scale-Statue___472647",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Tv-Maggie-Green-1-4-Scale-Statue___472647\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Tv-Maggie-Green-1-4-Scale-Statue___472647\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV MAGGIE GREEN 1/4 SCALE STATUE",
+        "price":  319.20,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Merle-Dixon-Walker-1-4-Scale-Statue___445837",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Merle-Dixon-Walker-1-4-Scale-Statue___445837\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Merle-Dixon-Walker-1-4-Scale-Statue___445837\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV MERLE DIXON WALKER 1/4 SCALE STATUE",
+        "price":  319.20,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Michonne%27s-Pet-1-Zombie-1-6-Scale-Figure-Green-Version___446312",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Michonne%27s-Pet-1-Zombie-1-6-Scale-Figure-Green-Version___446312\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Michonne%27s-Pet-1-Zombie-1-6-Scale-Figure-Green-Version___446312\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV MICHONNE\u0027S PET 1 ZOMBIE 1/6 SCALE FIGURE GREEN VERSION",
+        "price":  127.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Michonne%27s-Pet-2-Zombie-1-6-Scale-Figure-Red-Version___446311",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Michonne%27s-Pet-2-Zombie-1-6-Scale-Figure-Red-Version___446311\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Michonne%27s-Pet-2-Zombie-1-6-Scale-Figure-Red-Version___446311\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV MICHONNE\u0027S PET 2 ZOMBIE 1/6 SCALE FIGURE RED VERSION",
+        "price":  143.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Tv-Season-3-Pt-2-Trading-Card-Binder___447467",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Tv-Season-3-Pt-2-Trading-Card-Binder___447467\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Tv-Season-3-Pt-2-Trading-Card-Binder___447467\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SEASON 3 PT 2 TRADING CARD BINDER",
+        "price":  35.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Andrea-Action-Figure___427107",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Andrea-Action-Figure___427107\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Andrea-Action-Figure___427107\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 4 ANDREA ACTION FIGURE",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Carl-Grimes-Action-Figure___427109",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Carl-Grimes-Action-Figure___427109\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Carl-Grimes-Action-Figure___427109\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 4 CARL GRIMES ACTION FIGURE",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Gas-Mask-Zombie-Action-Figure___427111",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Gas-Mask-Zombie-Action-Figure___427111\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Gas-Mask-Zombie-Action-Figure___427111\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 4 GAS MASK ZOMBIE ACTION FIGURE",
+        "price":  17.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Governor-Action-Figure___427108",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Governor-Action-Figure___427108\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Governor-Action-Figure___427108\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 4 GOVERNOR ACTION FIGURE",
+        "price":  17.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Merle-And-Daryl-Dixon-Action-Figure-2-Pack___427112",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Merle-And-Daryl-Dixon-Action-Figure-2-Pack___427112\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Merle-And-Daryl-Dixon-Action-Figure-2-Pack___427112\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 4 MERLE AND DARYL DIXON ACTION FIGURE 2-PACK",
+        "price":  35.09,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Riot-Gear-Zombie-Action-Figure___427110",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Riot-Gear-Zombie-Action-Figure___427110\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-4-Riot-Gear-Zombie-Action-Figure___427110\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 4 RIOT GEAR ZOMBIE ACTION FIGURE",
+        "price":  17.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Charred-Walker-Action-Figure___437518",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Charred-Walker-Action-Figure___437518\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Charred-Walker-Action-Figure___437518\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 5 CHARRED WALKER ACTION FIGURE",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Glenn-Action-Figure___437515",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Glenn-Action-Figure___437515\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Glenn-Action-Figure___437515\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 5 GLENN ACTION FIGURE",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Maggie-Action-Figure___437517",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Maggie-Action-Figure___437517\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Maggie-Action-Figure___437517\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 5 MAGGIE ACTION FIGURE",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Merle-Walker-Action-Figure___437519",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Merle-Walker-Action-Figure___437519\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Merle-Walker-Action-Figure___437519\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 5 MERLE WALKER ACTION FIGURE",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Tyreese-Action-Figure___437516",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Tyreese-Action-Figure___437516\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-5-Tyreese-Action-Figure___437516\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 5 TYREESE ACTION FIGURE",
+        "price":  17.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Abraham-Ford-Action-Figure___455390",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Abraham-Ford-Action-Figure___455390\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Abraham-Ford-Action-Figure___455390\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 6 ABRAHAM FORD ACTION FIGURE",
+        "price":  17.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Bungee-Walker-Action-Figure___455391",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Bungee-Walker-Action-Figure___455391\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Bungee-Walker-Action-Figure___455391\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 6 BUNGEE WALKER ACTION FIGURE",
+        "price":  17.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Carol-Peletier-Action-Figure___455392",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Carol-Peletier-Action-Figure___455392\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Carol-Peletier-Action-Figure___455392\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 6 CAROL PELETIER ACTION FIGURE",
+        "price":  17.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Governor-With-Coat-Action-Figure___455393",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Governor-With-Coat-Action-Figure___455393\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Governor-With-Coat-Action-Figure___455393\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 6 GOVERNOR WITH COAT ACTION FIGURE",
+        "price":  17.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Hershel-Greene-Action-Figure___455394",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Hershel-Greene-Action-Figure___455394\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Hershel-Greene-Action-Figure___455394\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 6 HERSHEL GREENE ACTION FIGURE",
+        "price":  17.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Rick-Grimes-Action-Figure___455396",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Rick-Grimes-Action-Figure___455396\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-Rick-Grimes-Action-Figure___455396\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 6 RICK GRIMES ACTION FIGURE",
+        "price":  17.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-RV-Walker-Action-Figure___455397",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-RV-Walker-Action-Figure___455397\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-6-RV-Walker-Action-Figure___455397\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 6 RV WALKER ACTION FIGURE",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-7-Carl-Grimes-Action-Figure___471139",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-7-Carl-Grimes-Action-Figure___471139\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-7-Carl-Grimes-Action-Figure___471139\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 7 CARL GRIMES ACTION FIGURE",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-7-Gareth-Action-Figure___471141",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-7-Gareth-Action-Figure___471141\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-7-Gareth-Action-Figure___471141\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 7 GARETH ACTION FIGURE",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-7-Michonne-Action-Figure___471140",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-7-Michonne-Action-Figure___471140\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-7-Michonne-Action-Figure___471140\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 7 MICHONNE ACTION FIGURE",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-TV-Series-7-Mud-Walker-Action-Figure___471138",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-TV-Series-7-Mud-Walker-Action-Figure___471138\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-TV-Series-7-Mud-Walker-Action-Figure___471138\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TV",
+        "variant":  "TV SERIES 7 MUD WALKER ACTION FIGURE",
+        "price":  15.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Tyreese-Special___433835",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Tyreese-Special___433835\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Tyreese-Special___433835\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "TYREESE",
+        "variant":  "TYREESE SPECIAL",
+        "price":  2.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Walker-Drip-Transfer-Print-Socks___465964",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Walker-Drip-Transfer-Print-Socks___465964\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Walker-Drip-Transfer-Print-Socks___465964\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "WALKER",
+        "variant":  "WALKER DRIP TRANSFER PRINT SOCKS",
+        "price":  8.00,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Walker-Faces-T-Shirt-SM-Men___460482",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Walker-Faces-T-Shirt-SM-Men___460482\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Walker-Faces-T-Shirt-SM-Men___460482\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "WALKER",
+        "variant":  "WALKER FACES T-SHIRT SM MEN",
+        "price":  20.00,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Walker-Head-Night-Light___459680",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Walker-Head-Night-Light___459680\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Walker-Head-Night-Light___459680\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "WALKER",
+        "variant":  "WALKER HEAD NIGHT LIGHT",
+        "price":  17.09,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Walkers-Poly-Guitar-Strap___432989",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Walkers-Poly-Guitar-Strap___432989\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Walkers-Poly-Guitar-Strap___432989\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "WALKERS",
+        "variant":  "WALKERS POLY GUITAR STRAP",
+        "price":  19.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Well-Walker-Mask___459675",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Well-Walker-Mask___459675\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Well-Walker-Mask___459675\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "WELL",
+        "variant":  "WELL WALKER MASK",
+        "price":  43.20,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Yahtzee___450367",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Yahtzee___450367\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Yahtzee___450367\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "YAHTZEE",
+        "variant":  "YAHTZEE",
+        "price":  35.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Zombie-Army-Men-Series-2-Woodbury___445812",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Zombie-Army-Men-Series-2-Woodbury___445812\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Zombie-Army-Men-Series-2-Woodbury___445812\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "ZOMBIE",
+        "variant":  "ZOMBIE ARMY MEN SERIES 2 WOODBURY",
+        "price":  17.59,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Zombie-Army-Men-Series-3-Watchtower___449961",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Zombie-Army-Men-Series-3-Watchtower___449961\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Zombie-Army-Men-Series-3-Watchtower___449961\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "ZOMBIE",
+        "variant":  "ZOMBIE ARMY MEN SERIES 3 WATCHTOWER",
+        "price":  18.39,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Zombie-Eating-Bi-Fold-Wallet___428966",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Zombie-Eating-Bi-Fold-Wallet___428966\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Zombie-Eating-Bi-Fold-Wallet___428966\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "ZOMBIE",
+        "variant":  "ZOMBIE EATING BI-FOLD WALLET",
+        "price":  9.60,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Zombie-Gelatin-Mold___415645",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Zombie-Gelatin-Mold___415645\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Zombie-Gelatin-Mold___415645\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "ZOMBIE",
+        "variant":  "ZOMBIE GELATIN MOLD",
+        "price":  11.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Zombie-Horde-Ladies-Transfer-Print-Socks___439136",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Zombie-Horde-Ladies-Transfer-Print-Socks___439136\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Zombie-Horde-Ladies-Transfer-Print-Socks___439136\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "ZOMBIE",
+        "variant":  "ZOMBIE HORDE LADIES TRANSFER PRINT SOCKS",
+        "price":  7.20,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Zombie-Letter-Opener___459339",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Zombie-Letter-Opener___459339\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Zombie-Letter-Opener___459339\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "ZOMBIE",
+        "variant":  "ZOMBIE LETTER OPENER",
+        "price":  71.99,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
+        "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.tfaw.com/Profile/Walking-Dead-Zombie-Woman-Bi-Fold-Wallet___428967",
+        "url":  "\u003ca href=\"http://www.tfaw.com/Profile/Walking-Dead-Zombie-Woman-Bi-Fold-Wallet___428967\"\u003ehttp://www.tfaw.com/Profile/Walking-Dead-Zombie-Woman-Bi-Fold-Wallet___428967\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "ZOMBIE",
+        "variant":  "ZOMBIE WOMAN BI-FOLD WALLET",
+        "price":  9.60,
+        "currency":  "$",
+        "rundate":  "Sun Jan 18 2015 22:32:16 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1774,5 +4456,133 @@
         "currency":  "?",
         "rundate":  "Mon Dec 01 2014 10:07:11 GMT+0000 (UTC)",
         "site":  "The Comic Biz Store"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/jul138310/walking-dead-115-midnight-release-var-(mr)-clearance",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jul138310/walking-dead-115-midnight-release-var-(mr)-clearance\"\u003ehttps://www.dcbservice.com/product/jul138310/walking-dead-115-midnight-release-var-(mr)-clearance\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "115",
+        "variant":  "Walking Dead  Midnight Release Var (MR) *Clearance*",
+        "price":  "1.94",
+        "currency":  "dollars",
+        "rundate":  {
+                        "value":  "\/Date(1421620344763)\/",
+                        "DisplayHint":  2,
+                        "DateTime":  "18 January 2015 22:32:24"
+                    },
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/jan150614/walking-dead-138-(mr)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jan150614/walking-dead-138-(mr)\"\u003ehttps://www.dcbservice.com/product/jan150614/walking-dead-138-(mr)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "138",
+        "variant":  "Walking Dead  (MR)",
+        "price":  "1.79",
+        "currency":  "dollars",
+        "rundate":  {
+                        "value":  "\/Date(1421620344764)\/",
+                        "DisplayHint":  2,
+                        "DateTime":  "18 January 2015 22:32:24"
+                    },
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/jan150615/walking-dead-139-(mr)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jan150615/walking-dead-139-(mr)\"\u003ehttps://www.dcbservice.com/product/jan150615/walking-dead-139-(mr)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "139",
+        "variant":  "Walking Dead  (MR)",
+        "price":  "1.79",
+        "currency":  "dollars",
+        "rundate":  {
+                        "value":  "\/Date(1421620344765)\/",
+                        "DisplayHint":  2,
+                        "DateTime":  "18 January 2015 22:32:24"
+                    },
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/jan150618/walking-dead-run-twd-lg-men-ts-(c-0-0-1)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jan150618/walking-dead-run-twd-lg-men-ts-(c-0-0-1)\"\u003ehttps://www.dcbservice.com/product/jan150618/walking-dead-run-twd-lg-men-ts-(c-0-0-1)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "Walking Dead Run Twd Lg Men T/S (C: 0-0-1)",
+        "variant":  "Walking Dead Run Twd Lg Men T/S (C: 0-0-1)",
+        "price":  "11.99",
+        "currency":  "dollars",
+        "rundate":  {
+                        "value":  "\/Date(1421620344767)\/",
+                        "DisplayHint":  2,
+                        "DateTime":  "18 January 2015 22:32:24"
+                    },
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/jan150617/walking-dead-run-twd-med-men-ts-(c-0-0-1)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jan150617/walking-dead-run-twd-med-men-ts-(c-0-0-1)\"\u003ehttps://www.dcbservice.com/product/jan150617/walking-dead-run-twd-med-men-ts-(c-0-0-1)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "Walking Dead Run Twd Med Men T/S (C: 0-0-1)",
+        "variant":  "Walking Dead Run Twd Med Men T/S (C: 0-0-1)",
+        "price":  "11.99",
+        "currency":  "dollars",
+        "rundate":  {
+                        "value":  "\/Date(1421620344768)\/",
+                        "DisplayHint":  2,
+                        "DateTime":  "18 January 2015 22:32:24"
+                    },
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/jan150616/walking-dead-run-twd-sm-men-ts-(c-0-0-1)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jan150616/walking-dead-run-twd-sm-men-ts-(c-0-0-1)\"\u003ehttps://www.dcbservice.com/product/jan150616/walking-dead-run-twd-sm-men-ts-(c-0-0-1)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "Walking Dead Run Twd Sm Men T/S (C: 0-0-1)",
+        "variant":  "Walking Dead Run Twd Sm Men T/S (C: 0-0-1)",
+        "price":  "11.99",
+        "currency":  "dollars",
+        "rundate":  {
+                        "value":  "\/Date(1421620344770)\/",
+                        "DisplayHint":  2,
+                        "DateTime":  "18 January 2015 22:32:24"
+                    },
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/jan150619/walking-dead-run-twd-xl-men-ts-(c-0-0-1)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jan150619/walking-dead-run-twd-xl-men-ts-(c-0-0-1)\"\u003ehttps://www.dcbservice.com/product/jan150619/walking-dead-run-twd-xl-men-ts-(c-0-0-1)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "Walking Dead Run Twd Xl Men T/S (C: 0-0-1)",
+        "variant":  "Walking Dead Run Twd Xl Men T/S (C: 0-0-1)",
+        "price":  "11.99",
+        "currency":  "dollars",
+        "rundate":  {
+                        "value":  "\/Date(1421620344771)\/",
+                        "DisplayHint":  2,
+                        "DateTime":  "18 January 2015 22:32:24"
+                    },
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/jan150620/walking-dead-run-twd-xxl-men-ts-(c-0-0-1)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jan150620/walking-dead-run-twd-xxl-men-ts-(c-0-0-1)\"\u003ehttps://www.dcbservice.com/product/jan150620/walking-dead-run-twd-xxl-men-ts-(c-0-0-1)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "WALKING DEAD",
+        "issue":  "Walking Dead Run Twd Xxl Men T/S (C: 0-0-1)",
+        "variant":  "Walking Dead Run Twd Xxl Men T/S (C: 0-0-1)",
+        "price":  "13.19",
+        "currency":  "dollars",
+        "rundate":  {
+                        "value":  "\/Date(1421620344772)\/",
+                        "DisplayHint":  2,
+                        "DateTime":  "18 January 2015 22:32:24"
+                    },
+        "site":  "DCBS"
     }
 ]
