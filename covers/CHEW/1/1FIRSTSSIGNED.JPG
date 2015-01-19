@@ -1,0 +1,287 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head><base href="https://n57.network-auth.com/HOFSpot/hi/eYN04dPp/" />
+  <title>HOFSpot</title>
+
+  <style type="text/css" media="screen">
+    /* body: #f7f7f7 #676767 #1682B9
+   c1:   #fff    #858585 #FFFFFF
+   c2:   #f7f7f7 #DDDDDD #66bc29
+*/
+
+html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+form { margin: 0; }
+label { cursor: pointer; }
+button, input { font-size: 100%; margin: 0; vertical-align: baseline; *vertical-align: middle; line-height: normal; *overflow: visible; }
+button::-moz-focus-inner, input::-moz-focus-inner { border: 0; padding: 0; }
+
+a, a:visited, a:active {color: #0a0000; text-decoration: none;}
+a:hover {color: #444;}
+
+.hidden { display: none; }
+
+body {
+  margin: 0;
+  background: #050505;
+  color: #ef159c;
+  font-size: 14px;
+  line-height: 1.4em;
+  font-family: georgia, palatino, serif;
+}
+
+h1, h2 { font-family: helvetica, helvetica neue, verdana, tahoma, sans-serif; }
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #ef159c;
+  margin: 0;
+}
+h2 {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.header {
+  border-bottom: 1px solid #fab9e1;
+  padding: 0 0 .5em;
+  margin: 0 0 1em 0;
+}
+
+.header table { width: 100%; }
+#title_cell { vertical-align: bottom; }
+#icon_cell { text-align: right; }
+
+#container {
+  max-width: 900px;
+  min-width: 300px;
+  margin: 0 auto;
+  border-top: 12px solid #000000;
+  padding: 0.5em 30px;
+  background: #ffffff;
+  box-shadow:0px 0px 10px #BFBFBF
+}
+
+#left_col {
+  float: left;
+  width: 100%;
+}
+
+#right_col {
+  float: left;
+  width: 420px;
+  margin-left: -420px;
+}
+
+#left_col_inner {
+  margin-right: 420px;
+  padding-right: 30px;
+}
+
+#blocked_msg {
+  text-align: center;
+  padding: 15px 0;
+}
+
+.formarea {
+  background: #f7f7f7;
+  color: #5e5e5e;
+  padding: 15px;
+  border: 1px solid #cfcfcf;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.formarea ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.formarea li { margin-top: 22px; }
+.formarea li:first-child { margin-top: 10px; }
+.formarea br { display: none; }
+
+.formarea label {min-height: 30px; margin: 1em 0 14px; padding: 0 0 15px;}
+.formarea input {width: 95%;}
+/*.formarea input:hover, .formarea input:focus {border-color: #aaa; box-shadow: none;}*/
+.formarea input, .formarea textarea {
+  padding: 7px;
+  background: #ffffff;
+  color: #ef159c;
+  border: solid 1px #ccc;
+  font-size: 1em;
+}
+
+.formarea select, .formarea textarea {font-size: 1em;}
+.formarea .color_button { width: 50%; }
+
+.color_button {
+  padding: 0;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  font-style: normal;
+  font-weight: 600;
+  background: #000000;
+  white-space: nowrap;
+  display: inline-block;
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(120, 19, 68, 1) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0, 0, 0, 1)), color-stop(100%,rgba(120, 19, 68, 1)));
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(120, 19, 68, 1) 100%);
+  background: -o-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(120, 19, 68, 1) 100%);
+  background: -ms-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(120, 19, 68, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#791444',GradientType=0 );
+  background: linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(120, 19, 68, 1) 100%);
+}
+
+.color_button:hover, .color_button:focus {
+  background: #f12788;
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(241, 39, 136, 1) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0, 0, 0, 1)), color-stop(100%,rgba(241, 39, 136, 1)));
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(241, 39, 136, 1) 100%);
+  background: -o-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(241, 39, 136, 1) 100%);
+  background: -ms-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(241, 39, 136, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#f12788',GradientType=0 );
+  background: linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(241, 39, 136, 1) 100%);
+}
+
+.color_button.wider { padding: 12px 30px; }
+
+.color_button input, .color_button a {
+  padding: 12px 3px;
+  display: block;
+  border: none;
+  background: none;
+  width: 100%;
+  height: auto;
+  color: #ffffff;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  margin: -3px auto;
+  cursor: pointer;
+}
+
+.form_links {
+  float: right;
+  margin-top: -2em;
+  width: 45%;
+  text-align: center;
+}
+
+.footer {
+  clear: both;
+  border-top: 1px solid #fab9e1;
+  padding: 0.5em 0 0 3px;
+  margin: 1em 0 0 0;
+  color: #fab9e1;
+}
+
+.footer img {
+  margin-left: 5px;
+  vertical-align: top;
+}
+
+.error_outer {
+  margin: 0 auto 1em;
+  background: #ea4a52;
+  background: rgba(234, 74, 82, 0.5);
+  padding: 4px;
+  border-radius: 3px;
+}
+.error_inner {
+  background: #ea4a52;
+  color: #fff;
+  padding: 0.3em 20px;
+  text-align: center;
+}
+.error_inner p {font-family: Helvetica, Verdana, arial, sans-serif;}
+.error_inner p span {font-size: 1.5em; font-weight: bold; margin-right: .8em;}
+
+input:invalid, textarea:invalid { background-color: #f0dddd; }
+.formarea input:invalid, textarea:invalid { border-radius: 1px; -moz-box-shadow: 0px 0px 0px red; -webkit-box-shadow: 0px 0px 0px red; box-shadow: 0px 0px 0px red; }
+.formarea label.invalid {border: none; color: red; min-height: inherit; padding: 5px 0 0; margin: 0;}
+
+@media only screen and (max-width: 730px) {
+  #left_col_inner { margin: 0; padding: 0; }
+  #right_col {
+    float: none;
+    clear: both;
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  #container { padding: 0.5em 5px; }
+  #right_col { width: 100%; }
+}
+
+    #container { max-width: 700px; }
+  </style>
+  <meta name="viewport" content="width=device-width,initial-scale=1" >
+</head>
+
+<body>
+  <div id="container">
+
+    <div class="header">
+      <table><tr>
+        <td id="title_cell"><h1>HOFSpot</h1></td>
+        <td id="icon_cell"><img src='data:image/png;base64,/9j/4AAQSkZJRgABAQEAZABkAAD/2wBDAAQDAwQDAwQEBAQFBQQFBwsHBwYG
+Bw4KCggLEA4RERAOEA8SFBoWEhMYEw8QFh8XGBsbHR0dERYgIh8cIhocHRz/
+2wBDAQUFBQcGBw0HBw0cEhASHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwc
+HBwcHBwcHBwcHBwcHBwcHBwcHBwcHBz/wAARCABkAJYDAREAAhEBAxEB/8QA
+GQABAAMBAQAAAAAAAAAAAAAAAAIDBQQJ/8QAKBAAAgICAQQBBAMBAQAAAAAA
+AAECAwQRBRIhMUETFCJhcQYyUaGx/8QAGQEBAAMBAQAAAAAAAAAAAAAAAAEC
+AwUE/8QAKBEAAgIBBAICAgIDAQAAAAAAAAECEQMEEiExBUETIlFhMnEUUoGx
+/9oADAMBAAIRAxEAPwDz/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABbDGtsotvhBuq
+pxU5f5vev/GTTqzWGDJPHLLFfWNW/wAX1/4dVPC5185RhQ101xtlKUlGMYyW
+4tyb0t7JUJM9WPxmqyNqMOkpNtpJJ8pttpK/VshfxWZiu5W0Sj8MYzm+2lGT
+0mn7T35QcWuymbx+pwuSyQrak3/T4T/afpqydPC51+nGnUXCNnVOcYx6ZPUe
+7aXfQUJMvj8XqsnMY8UnbaSp8LltLn0uxLhsyOLPJlVFUxcouTsituL09Le3
+rfobHVh+N1KwvO41FWu164dK7dfqyGHxeVnwsnRWnXXpSnOcYRTfhdUmlv8A
+AUXLopptBn1ScsUeF220lz0rbSv9dltfA8hZdkVfTuM8dpWKycYKO/HdtLuS
+oS6NYeJ1c5zx7KcKu2lV9dtLn1+SnE43JzrrKaK1KdcXKf3pKKT03tvXshRb
+dIx0+izamcseJW4q3ykkl7tui+HA8hZC2cMfrVcpQfTOLbcUm0kn92k0+2yf
+jkbx8Rq5RlKMLptcNPlK3XPNJ3xZywwcieHZmRqk8auahKz0pPwiu11Z5Y6T
+NLBLUqP0i0m/Vvo6HwmclRuldV8oRhDrj1ty/r9u9rf5ROyR6H4rVLZ9eZtJ
+K1f264u1fq0icf4/yE7Z1Rpg5VxUpathpbel33re/Xkn45dF14fWSm4KKtU3
+9o1y6XN1bfrsz7ap0WzqthKFkG4yjJaaa8plGq4Zz8mOWKbxzVNcNfhkAUAA
+AAAAABr8XylfH8fyFbhXZbc6uiFtfXFpN78/tGkZbUzr+P18NLps0Gk5S20m
+rXDdmjl8tg8rRZjWXfS9UaLFONT6FOFXRKLiu6X+Nb/6WlNSVPjo6Op8hpdd
+jeCctlrG728XGG1ppc1/q0n745Iy5LAnQ+M+omqI4ypjlSrfeat+T+vlR7tL
+3716G6NbbKvW6SWP/C3vaoKKm17U9/Xe3lpe/dc0WV8rifUfDHLrWHVTVTKO
+RjucMjp3t6XeLTb14ffyhvV1fBpDyGn+T41kXxxjCP2g2p7bt0uU1b29OvaK
+c7P47I4d42NOFSrttlXXbS5WKLknFKfrsu4lKLjSMtXq9Hl0Xw4Wo7ZTaTi3
+KnJOKUvXHZx4t+JlcVHAyMl4s6bpXQm4OUJqSimml3TXT2/b8FU047XweLT5
+dPn0i0uaexxk5J02naSadc2q4dPtrg0Lv5Bi14uRRTCNyjVRRW8irfyKHVuT
+Xr+3b8FnkVNL9HRyeYwRwzxY1upQit0bvbut1674/C4MvhOQr45507IwnKzH
+dcIzh1RlJyi+6/SZSElGzl+L1sNI8sppNyg0k1abuL5X/GaXE85i42NVXbCE
+LndfNWxrbeO5Qioyit68p9v8Lwmkuf2dLx/lsGHFGE0lLdkd1/DdGKi4q67X
+Kp8dcksXl+Mp4+rjpwudc8ecbbU/tVk9S30a2+lxgt79MKcUtpODyWhx6aOj
+knThJSfrdLm9tW9rjFXa4XRZRy3HwfH35V8cjKpvokroUOFkIR11Kb8S7JJe
+X28kqceG/wBGmHyOki8OXPNTnGUHuUWpKMf5KXqXFJdvjtdEa+X4/EtznOGP
+l13/AAv4oUyrg1Ge5LXbT17/ACQpxV+ysPI6PBPK5KORS2cKLiuJW16p1765
+MHlb1k8ll3Rud0bLJSVko9Lkm/OvX6M5O22cDX5Vm1WTIpbk23dVfP49f0cZ
+U8gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//Z
+' /></td>
+      </tr></table>
+    </div>
+
+    <div>
+      <p></p>
+      <div class="color_button wider">
+        <a href="https://n57.network-auth.com/HOFSpot/hi/eYN04dPp/grant?continue_url=http%3A%2F%2Fwww.houseoffraser.co.uk" title="Continue to the Internet" id="continue_link">Continue to the Internet</a>
+      </div>
+    </div>
+
+    <div class="footer">
+      <img alt="Powered by Cisco Meraki" src="/images/powered-by-cisco-meraki-30x220.png" />
+    </div>
+  </div>
+
+</body>
+</html>
