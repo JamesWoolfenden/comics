@@ -183,7 +183,7 @@ function get-price
    $cost
 }
 
-function get-issue
+function rrget-issue
 {
    param( 
    [Parameter(Mandatory=$true)]

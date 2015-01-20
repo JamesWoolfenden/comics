@@ -1,4 +1,4 @@
-
+import-module "$PSScriptRoot\auction.ps1" -force
 import-module "$PSScriptRoot\closeencounters.ps1" -force
 import-module "$PSScriptRoot\comicbookstore.ps1" -force
 import-module "$PSScriptRoot\fp.ps1" -force
@@ -24,6 +24,7 @@ function get-market
    $allrecords+=get-closeencountersdata -title $title 
    $allrecords+=get-fpdata  -title $title  
    $allrecords+=get-reeddata -title $title 
+   $allrecords+=get-auctiondata -title $title
    #$allrecords+=get-comicbizdata -title $title 
 
    if ($alttitle -ne "")
@@ -56,9 +57,8 @@ function get-market
 #retrieve data
 get-dcbs
 
-get-market -title "ENORMOUS"
 get-market -title "THE WALKING DEAD" -productcode "2140" -alttitle "WALKING DEAD"
-get-market -title "MANIFEST DESTINY"
+get-market -title "MANIFEST DESTINY" -productcode "16670"
 get-market -title "SEX CRIMINALS" -productcode "16547"
 get-market -title "CHEW" -productcode "12622"
 get-market -title "NAILBITER" -productcode "17108"
@@ -78,22 +78,20 @@ get-market -title "FATALE" -productcode "14935"
 get-market -title "LAZARUS" -productcode "16313"
 get-market -title "REVIVAL" -productcode "15414"
 get-market -title "VELVET" -productcode "16617"
-get-market -title "OUTCAST" 
+get-market -title "OUTCAST" -productcode "17212"
 get-market -title "COWL"
 get-market -title "MPH" -productcode "17137"
-get-market -title "SPREAD" 
+get-market -title "SPREAD" -productcode "17248"
 get-market -title "FADE OUT"
 get-market -title "IMPERIAL"
 get-market -title "RAT QUEENS" -productcode "16545"
 get-market -title "ALEX ADA" 
 get-market -title "WICKED DIVINE" 
-get-market -title "BIRTHRIGHT" 
-get-market -title "COPPERHEAD" 
-get-market -title "FADE OUT" 
+get-market -title "BIRTHRIGHT" -productcode "17539"
+get-market -title "COPPERHEAD" -productcode "17435"
 get-market -title "BIRTHRIGHT"
 get-market -title "RASPUTIN" -productcode "17636"
 get-market -title "ENORMOUS"
 get-market -title "THE AUTUMNLANDS" -productcode "17652"
 get-market -title "AFTERLIFE WITH ARCHIE" -productcode "16564"
 get-market -title "WYTCHES" -productcode "17555"
-

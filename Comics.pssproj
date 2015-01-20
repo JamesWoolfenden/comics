@@ -73,7 +73,7 @@
     <Content Include="comicbookshop.ps1" />
     <Content Include="comicvine.txt" />
     <Content Include="DCBS.ps1" />
-    <Content Include="ebay.ps1" />
+    <Content Include="auction.ps1" />
     <Content Include="history.ps1" />
     <Content Include="jqwidgets\demos\jqxgrid\prices-ratqueens.htm" />
     <Content Include="livedata\*.json" />

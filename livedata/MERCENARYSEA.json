@@ -8,7 +8,7 @@
         "variant":  "4",
         "price":  1.61,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "5",
         "price":  1.61,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "6",
         "price":  1.50,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "1 2ND PTG DHC",
         "price":  1.69,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "2 DHC",
         "price":  1.69,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "7",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "8",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "9",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:06 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:31 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -103,7 +103,7 @@
         "issue":  "9",
         "variant":  "9",
         "price":  "1.95",
-        "rundate":  "Sun Jan 18 2015 22:38:20 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:45 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -115,7 +115,7 @@
         "variant":  "1 (1ST PRINT)",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:49 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -127,7 +127,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:49 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -139,7 +139,7 @@
         "variant":  "2",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:49 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -151,7 +151,7 @@
         "variant":  "3",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:49 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -163,7 +163,7 @@
         "variant":  "4",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:49 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -175,7 +175,7 @@
         "variant":  "5",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:49 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -187,7 +187,7 @@
         "variant":  "6",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:49 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -199,8 +199,698 @@
         "variant":  "7",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:24 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:49 GMT+0000 (UTC)",
         "site":  "Reed"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Mercenary-Sea-1-6-1st-prints-1-2nd-print-complete-first-arc-image-comics-/111561603264?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19f996f8c0",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Mercenary-Sea-1-6-1st-prints-1-2nd-print-complete-first-arc-image-comics-/111561603264?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19f996f8c0\"\u003ehttp://www.ebay.co.uk/itm/Mercenary-Sea-1-6-1st-prints-1-2nd-print-complete-first-arc-image-comics-/111561603264?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19f996f8c0\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "SET",
+                      "variant":  "SET"
+                  },
+        "variant":  "SET",
+        "price":  "23.99",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THE-MERCENARY-SEA-4-IMAGE-COMICS-MAY-2014-NM-MT-NEW-/111566716950?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19f9e50016",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-MERCENARY-SEA-4-IMAGE-COMICS-MAY-2014-NM-MT-NEW-/111566716950?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19f9e50016\"\u003ehttp://www.ebay.co.uk/itm/THE-MERCENARY-SEA-4-IMAGE-COMICS-MAY-2014-NM-MT-NEW-/111566716950?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19f9e50016\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "4",
+                      "variant":  "4"
+                  },
+        "variant":  "4",
+        "price":  "2.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THE-MERCENARY-SEA-1-IMAGE-COMICS-1ST-PRINT-FEB-2014-NM-MT-NEW-/111566744878?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19f9e56d2e",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-MERCENARY-SEA-1-IMAGE-COMICS-1ST-PRINT-FEB-2014-NM-MT-NEW-/111566744878?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19f9e56d2e\"\u003ehttp://www.ebay.co.uk/itm/THE-MERCENARY-SEA-1-IMAGE-COMICS-1ST-PRINT-FEB-2014-NM-MT-NEW-/111566744878?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19f9e56d2e\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "1A",
+                      "variant":  "1A"
+                  },
+        "variant":  "1A",
+        "price":  "4.99",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THE-MERCENARY-SEA-2-IMAGE-COMICS-1ST-PRINT-MAR-2014-NM-MT-NEW-/121536320108?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4c21126c",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-MERCENARY-SEA-2-IMAGE-COMICS-1ST-PRINT-MAR-2014-NM-MT-NEW-/121536320108?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4c21126c\"\u003ehttp://www.ebay.co.uk/itm/THE-MERCENARY-SEA-2-IMAGE-COMICS-1ST-PRINT-MAR-2014-NM-MT-NEW-/121536320108?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4c21126c\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "2",
+                      "variant":  "2"
+                  },
+        "variant":  "2",
+        "price":  "2.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THE-MERCENARY-SEA-5-IMAGE-COMICS-JUNE-2014-NM-MT-NEW-/121536334580?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4c214af4",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-MERCENARY-SEA-5-IMAGE-COMICS-JUNE-2014-NM-MT-NEW-/121536334580?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4c214af4\"\u003ehttp://www.ebay.co.uk/itm/THE-MERCENARY-SEA-5-IMAGE-COMICS-JUNE-2014-NM-MT-NEW-/121536334580?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4c214af4\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "5",
+                      "variant":  "5"
+                  },
+        "variant":  "5",
+        "price":  "2.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/the-mercenary-sea-3-between-the-devil-and-the-deep-blue-sea-image-131405721.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/the-mercenary-sea-3-between-the-devil-and-the-deep-blue-sea-image-131405721.htm\"\u003ehttp://uk.ebid.net/for-sale/the-mercenary-sea-3-between-the-devil-and-the-deep-blue-sea-image-131405721.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "3",
+                      "variant":  "3"
+                  },
+        "variant":  "3",
+        "price":  "1.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/the-mercenary-sea-4-mad-dogs-and-englishmen-image-comics-133487126.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/the-mercenary-sea-4-mad-dogs-and-englishmen-image-comics-133487126.htm\"\u003ehttp://uk.ebid.net/for-sale/the-mercenary-sea-4-mad-dogs-and-englishmen-image-comics-133487126.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "4",
+                      "variant":  "4"
+                  },
+        "variant":  "4",
+        "price":  "1.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-3-IMAGE-COMICS-VF-8-0-/141418865129?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item20ed38a1e9\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-3-IMAGE-COMICS-VF-8-0-/141418865129?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item20ed38a1e9\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-3-IMAGE-COMICS-VF-8-0-/141418865129?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item20ed38a1e9\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "3",
+                      "variant":  "3"
+                  },
+        "variant":  "3",
+        "price":  "2.15",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-7-/161518721136?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item259b441870",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-7-/161518721136?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item259b441870\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-7-/161518721136?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item259b441870\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "7",
+                      "variant":  "7"
+                  },
+        "variant":  "7",
+        "price":  "2.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-4-/171337930075?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27e489555b\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-4-/171337930075?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27e489555b\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-4-/171337930075?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27e489555b\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "4",
+                      "variant":  "4"
+                  },
+        "variant":  "4",
+        "price":  "2.15",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-1-2ND-PTG-DHC-/171382861378?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27e736ee42\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-1-2ND-PTG-DHC-/171382861378?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27e736ee42\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-1-2ND-PTG-DHC-/171382861378?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27e736ee42\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "1B",
+                      "variant":  "1B"
+                  },
+        "variant":  "1B",
+        "price":  "2.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-2-DHC-/171382861500?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27e736eebc\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-2-DHC-/171382861500?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27e736eebc\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-2-DHC-/171382861500?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27e736eebc\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "2A",
+                      "variant":  "2A"
+                  },
+        "variant":  "2A",
+        "price":  "2.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Mercenary-Sea-1-Symons-Reynolds-SOLD-OUT-Image-1st-Print-NM-/181376333679?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2a3adf376f\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Mercenary-Sea-1-Symons-Reynolds-SOLD-OUT-Image-1st-Print-NM-/181376333679?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2a3adf376f\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Mercenary-Sea-1-Symons-Reynolds-SOLD-OUT-Image-1st-Print-NM-/181376333679?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2a3adf376f\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "1A",
+                      "variant":  "1A"
+                  },
+        "variant":  "1A",
+        "price":  "9.99",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/The-Mercenary-Sea-1-1st-Print-now-out-of-print-by-Image-Comics-New-NM-/181639605825?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2a4a906e41",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Mercenary-Sea-1-1st-Print-now-out-of-print-by-Image-Comics-New-NM-/181639605825?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2a4a906e41\"\u003ehttp://www.ebay.co.uk/itm/The-Mercenary-Sea-1-1st-Print-now-out-of-print-by-Image-Comics-New-NM-/181639605825?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2a4a906e41\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "1A",
+                      "variant":  "1A"
+                  },
+        "variant":  "1A",
+        "price":  "4.5",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-3-New-Bagged-/191137387814?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c80ad1526\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-3-New-Bagged-/191137387814?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c80ad1526\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-3-New-Bagged-/191137387814?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c80ad1526\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "3",
+                      "variant":  "3"
+                  },
+        "variant":  "3",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-4-New-Bagged-/191184748464?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c837fbfb0\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-4-New-Bagged-/191184748464?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c837fbfb0\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-4-New-Bagged-/191184748464?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c837fbfb0\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "4",
+                      "variant":  "4"
+                  },
+        "variant":  "4",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THE-MERCENARY-SEA-1-AND-2-Image-NEW-unread-1-2-FIRST-PRINTS-/221644800331?hash=item339b0f414b",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-MERCENARY-SEA-1-AND-2-Image-NEW-unread-1-2-FIRST-PRINTS-/221644800331?hash=item339b0f414b\"\u003ehttp://www.ebay.co.uk/itm/THE-MERCENARY-SEA-1-AND-2-Image-NEW-unread-1-2-FIRST-PRINTS-/221644800331?hash=item339b0f414b\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "SET",
+                      "variant":  "SET"
+                  },
+        "variant":  "SET",
+        "price":  "8.99",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THE-MERCENARY-SEA-3-/221651094048?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4a20",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-MERCENARY-SEA-3-/221651094048?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4a20\"\u003ehttp://www.ebay.co.uk/itm/THE-MERCENARY-SEA-3-/221651094048?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4a20\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "3",
+                      "variant":  "3"
+                  },
+        "variant":  "3",
+        "price":  "2.75",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Mercenary-Sea-1-3-New-and-Unread-NM-1st-Prints-/231435097842?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e29b56f2",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Mercenary-Sea-1-3-New-and-Unread-NM-1st-Prints-/231435097842?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e29b56f2\"\u003ehttp://www.ebay.co.uk/itm/Mercenary-Sea-1-3-New-and-Unread-NM-1st-Prints-/231435097842?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e29b56f2\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "SET",
+                      "variant":  "SET"
+                  },
+        "variant":  "SET",
+        "price":  "10",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-1-VF-NM-1ST-PRINT-IMAGE-COMICS-SAGA-WALKING-DEAD-/261550722268?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3ce5a34cdc\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-1-VF-NM-1ST-PRINT-IMAGE-COMICS-SAGA-WALKING-DEAD-/261550722268?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3ce5a34cdc\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-1-VF-NM-1ST-PRINT-IMAGE-COMICS-SAGA-WALKING-DEAD-/261550722268?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3ce5a34cdc\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "1A",
+                      "variant":  "1A"
+                  },
+        "variant":  "1A",
+        "price":  "7.99",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-1-N-M-SOLD-OUT-FIRST-PRINT-/261713654056?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cef597128",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-1-N-M-SOLD-OUT-FIRST-PRINT-/261713654056?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cef597128\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-1-N-M-SOLD-OUT-FIRST-PRINT-/261713654056?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cef597128\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "1A",
+                      "variant":  "1A"
+                  },
+        "variant":  "1A",
+        "price":  "5.5",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/The-Mercenary-Sea-Issues-1-2-3-FIRST-PRINTS-Kel-Symons-Matthew-Reynolds-/291337858421?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d516ed75",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Mercenary-Sea-Issues-1-2-3-FIRST-PRINTS-Kel-Symons-Matthew-Reynolds-/291337858421?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d516ed75\"\u003ehttp://www.ebay.co.uk/itm/The-Mercenary-Sea-Issues-1-2-3-FIRST-PRINTS-Kel-Symons-Matthew-Reynolds-/291337858421?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d516ed75\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "SET",
+                      "variant":  "SET"
+                  },
+        "variant":  "SET",
+        "price":  "14.99",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-2-New-Bagged-/310913186776?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4863debbd8\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-2-New-Bagged-/310913186776?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4863debbd8\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-2-New-Bagged-/310913186776?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4863debbd8\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "2A",
+                      "variant":  "2A"
+                  },
+        "variant":  "2A",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-5-New-Bagged-/311001329250?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48691fae62\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-5-New-Bagged-/311001329250?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48691fae62\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-5-New-Bagged-/311001329250?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48691fae62\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "5",
+                      "variant":  "5"
+                  },
+        "variant":  "5",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-6-New-Bagged-/311150266247?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4872004787",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-6-New-Bagged-/311150266247?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4872004787\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-6-New-Bagged-/311150266247?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4872004787\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "6",
+                      "variant":  "6"
+                  },
+        "variant":  "6",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THE-MERCENARY-SEA-2-/321632067458?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3df82",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-MERCENARY-SEA-2-/321632067458?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3df82\"\u003ehttp://www.ebay.co.uk/itm/THE-MERCENARY-SEA-2-/321632067458?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3df82\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "2",
+                      "variant":  "2"
+                  },
+        "variant":  "2",
+        "price":  "2.75",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-2-SYMONS-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-/331151960017?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d1a31e7d1\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-2-SYMONS-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-/331151960017?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d1a31e7d1\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-2-SYMONS-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-/331151960017?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d1a31e7d1\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "2A",
+                      "variant":  "2A"
+                  },
+        "variant":  "2A",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-5-SYMONS-REYNOLDS-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-/331245192317?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d1fc0847d\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-5-SYMONS-REYNOLDS-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-/331245192317?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d1fc0847d\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-5-SYMONS-REYNOLDS-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-/331245192317?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d1fc0847d\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "5",
+                      "variant":  "5"
+                  },
+        "variant":  "5",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-NO1-1st-2nd-print-2-3-4-1st-print-/331440181611?hash=item4d2b5fd16b",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-NO1-1st-2nd-print-2-3-4-1st-print-/331440181611?hash=item4d2b5fd16b\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-NO1-1st-2nd-print-2-3-4-1st-print-/331440181611?hash=item4d2b5fd16b\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "SET",
+                      "variant":  "SET"
+                  },
+        "variant":  "SET",
+        "price":  "4.99",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-1-2-3-4-5-VF-NM-1ST-PRINTS-IMAGE-COMICS-SAGA-WALKING-DEAD-/351116492914?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item51c02c8072\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-1-2-3-4-5-VF-NM-1ST-PRINTS-IMAGE-COMICS-SAGA-WALKING-DEAD-/351116492914?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item51c02c8072\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-1-2-3-4-5-VF-NM-1ST-PRINTS-IMAGE-COMICS-SAGA-WALKING-DEAD-/351116492914?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item51c02c8072\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "SET",
+                      "variant":  "SET"
+                  },
+        "variant":  "SET",
+        "price":  "17.99",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-2-/360880090377?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5406212d09\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-2-/360880090377?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5406212d09\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-2-/360880090377?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5406212d09\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "2A",
+                      "variant":  "2A"
+                  },
+        "variant":  "2A",
+        "price":  "2.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-4-MAY-2014-1ST-PRINT-NM-/360942107572?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5409d37bb4\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-4-MAY-2014-1ST-PRINT-NM-/360942107572?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5409d37bb4\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-4-MAY-2014-1ST-PRINT-NM-/360942107572?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5409d37bb4\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "4",
+                      "variant":  "4"
+                  },
+        "variant":  "4",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-5-JUNE-2014-1ST-PRINT-NM-/360973815592?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item540bb74f28\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-5-JUNE-2014-1ST-PRINT-NM-/360973815592?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item540bb74f28\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-5-JUNE-2014-1ST-PRINT-NM-/360973815592?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item540bb74f28\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "5",
+                      "variant":  "5"
+                  },
+        "variant":  "5",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-6-JULY-2014-1ST-PRINT-NM-/361010472556?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item540de6a66c\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-6-JULY-2014-1ST-PRINT-NM-/361010472556?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item540de6a66c\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-6-JULY-2014-1ST-PRINT-NM-/361010472556?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item540de6a66c\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "6",
+                      "variant":  "6"
+                  },
+        "variant":  "6",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-4-IMAGE-COMICS-VF-8-0-/361062577116?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item541101b3dc\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-4-IMAGE-COMICS-VF-8-0-/361062577116?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item541101b3dc\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-4-IMAGE-COMICS-VF-8-0-/361062577116?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item541101b3dc\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "4",
+                      "variant":  "4"
+                  },
+        "variant":  "4",
+        "price":  "2.15",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-5-IMAGE-COMICS-NM-9-4-/361062577176?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item541101b418\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-5-IMAGE-COMICS-NM-9-4-/361062577176?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item541101b418\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-5-IMAGE-COMICS-NM-9-4-/361062577176?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item541101b418\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "5",
+                      "variant":  "5"
+                  },
+        "variant":  "5",
+        "price":  "2.24",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-3-SYMONS-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-/371045314473?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5664062fa9\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-3-SYMONS-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-/371045314473?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5664062fa9\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-3-SYMONS-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-/371045314473?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5664062fa9\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "3",
+                      "variant":  "3"
+                  },
+        "variant":  "3",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-7-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-LAST1-/371182107037?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566c2d799d\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-7-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-LAST1-/371182107037?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566c2d799d\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-7-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-LAST1-/371182107037?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566c2d799d\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "7",
+                      "variant":  "7"
+                  },
+        "variant":  "7",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Mercenary-Sea-3-Image-Comics-Apr-2014-/380937431000?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b1a3e7d8\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Mercenary-Sea-3-Image-Comics-Apr-2014-/380937431000?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b1a3e7d8\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Mercenary-Sea-3-Image-Comics-Apr-2014-/380937431000?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b1a3e7d8\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "3",
+                      "variant":  "3"
+                  },
+        "variant":  "3",
+        "price":  "2.1",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Mercenary-Sea-4-Image-Comics-May-2014-/380937431593?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b1a3ea29\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Mercenary-Sea-4-Image-Comics-May-2014-/380937431593?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b1a3ea29\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Mercenary-Sea-4-Image-Comics-May-2014-/380937431593?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b1a3ea29\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "4",
+                      "variant":  "4"
+                  },
+        "variant":  "4",
+        "price":  "2.1",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Mercenary-Sea-5-Image-Comics-Jun-2014-/380972026262?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b3b3c996\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Mercenary-Sea-5-Image-Comics-Jun-2014-/380972026262?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b3b3c996\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Mercenary-Sea-5-Image-Comics-Jun-2014-/380972026262?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b3b3c996\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "5",
+                      "variant":  "5"
+                  },
+        "variant":  "5",
+        "price":  "2.1",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Mercenary-Sea-7-Image-Comics-Nov-2014-/381112324621?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58bc10920d",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Mercenary-Sea-7-Image-Comics-Nov-2014-/381112324621?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58bc10920d\"\u003ehttp://www.ebay.co.uk/itm/Mercenary-Sea-7-Image-Comics-Nov-2014-/381112324621?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58bc10920d\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "7",
+                      "variant":  "7"
+                  },
+        "variant":  "7",
+        "price":  "2.1",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-4-SYMONS-REYNOLDS-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-/390848515533?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5b00630dcd\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-4-SYMONS-REYNOLDS-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-/390848515533?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5b00630dcd\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-4-SYMONS-REYNOLDS-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-/390848515533?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5b00630dcd\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "4",
+                      "variant":  "4"
+                  },
+        "variant":  "4",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-2-MARCH-2014-1ST-PRINT-NM-/400678224881?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d4a4883f1\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-2-MARCH-2014-1ST-PRINT-NM-/400678224881?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d4a4883f1\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-2-MARCH-2014-1ST-PRINT-NM-/400678224881?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d4a4883f1\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "2A",
+                      "variant":  "2A"
+                  },
+        "variant":  "2A",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-3-APRIL-2014-1ST-PRINT-NM-/400696380444?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d4b5d8c1c\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-3-APRIL-2014-1ST-PRINT-NM-/400696380444?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d4b5d8c1c\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-COMICS-MERCENARY-SEA-3-APRIL-2014-1ST-PRINT-NM-/400696380444?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d4b5d8c1c\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "3",
+                      "variant":  "3"
+                  },
+        "variant":  "3",
+        "price":  "3.25",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MERCENARY-SEA-5-/400732485770?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d4d84788a\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MERCENARY-SEA-5-/400732485770?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d4d84788a\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/MERCENARY-SEA-5-/400732485770?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d4d84788a\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  {
+                      "cover":  "5",
+                      "variant":  "5"
+                  },
+        "variant":  "5",
+        "price":  "2.15",
+        "currency":  "pounds",
+        "rundate":  "19-1-2015",
+        "site":  "Auction"
     },
     {
         "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89912\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
@@ -211,7 +901,7 @@
         "variant":  "DEC140743 MERCENARY SEA #9",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -223,7 +913,7 @@
         "variant":  "MERCENARY SEA #3 [(W) Kel Symons (A/CA) Mathew Reynolds]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -235,7 +925,7 @@
         "variant":  "OCT140750 MERCENARY SEA #8",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -247,7 +937,7 @@
         "variant":  "SEP140734 MERCENARY SEA #7",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Sun Jan 18 2015 22:38:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:55 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -259,7 +949,7 @@
         "variant":  "1 (2ND PRINTING)",
         "price":  2.39,
         "currency":  "$",
-        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:58 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -271,7 +961,7 @@
         "variant":  "2",
         "price":  2.39,
         "currency":  "$",
-        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:58 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -283,7 +973,7 @@
         "variant":  "3",
         "price":  1.79,
         "currency":  "$",
-        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:58 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -295,7 +985,7 @@
         "variant":  "4",
         "price":  1.79,
         "currency":  "$",
-        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:58 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -307,7 +997,7 @@
         "variant":  "5",
         "price":  1.79,
         "currency":  "$",
-        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:58 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -319,7 +1009,7 @@
         "variant":  "6",
         "price":  2.24,
         "currency":  "$",
-        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:58 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -331,7 +1021,7 @@
         "variant":  "7",
         "price":  2.69,
         "currency":  "$",
-        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:58 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -343,7 +1033,7 @@
         "variant":  "8",
         "price":  2.69,
         "currency":  "$",
-        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:58 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -355,7 +1045,29 @@
         "variant":  "TPB VOL. 01",
         "price":  8.99,
         "currency":  "$",
-        "rundate":  "Sun Jan 18 2015 22:38:34 GMT+0000 (UTC)",
+        "rundate":  "Mon Jan 19 2015 23:21:58 GMT+0000 (UTC)",
         "site":  "TFAW"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=16959\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=16959\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "2",
+        "variant":  "1",
+        "price":  "2.20",
+        "rundate":  "Mon Jan 19 2015 23:22:00 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=16959\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=16959\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "6",
+        "variant":  "1",
+        "price":  "2.00",
+        "rundate":  "Mon Jan 19 2015 23:22:00 GMT+0000 (UTC)",
+        "site":  "The Comic Guru"
     }
 ]
