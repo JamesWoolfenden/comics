@@ -71,7 +71,7 @@ filter_name 	walking%20dead 	&filter_name=newvalue
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
   
-      $issue=get-cover -rawissue $results[$counter].title.text     
+      $issue=get-coverdetails -rawissue $results[$counter].title.text     
       $price=get-price -price $results[$counter].price.split(" ")[0]
 
       $record| Add-Member -type NoteProperty -name issue -value $issue.cover
@@ -89,7 +89,7 @@ filter_name 	walking%20dead 	&filter_name=newvalue
    $comicbiz 
 }
 
-function get-cover()
+function get-coverdetails
 {
    param (
    [Parameter(Mandatory=$true)]

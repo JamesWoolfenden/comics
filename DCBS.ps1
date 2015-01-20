@@ -14,7 +14,7 @@ function get-dcbs
    $filename="$PSScriptRoot\data\dcbs\$(datestring).json"
    $dcbsresults.results.collection1|ConvertTo-Json -depth 999|Set-Content $filename
    cp $filename "$PSScriptRoot\data\dcbs\latest.json"
-   Write-Host "$(Get-date) - retrieved $($dcbsresults.count)"
+   Write-Host "$(Get-date) - retrieved $($dcbsresults.count) records from DCBS"
 }
 
 function get-dcbsdata
@@ -66,7 +66,7 @@ function get-dcbsdata
       $record| Add-Member -type NoteProperty -name issue    -value $issue
       $record| Add-Member -type NoteProperty -name variant  -value $variant
       $record| Add-Member -type NoteProperty -name price    -value $price
-      $record| Add-Member -type NoteProperty -name currency -value "dollars"
+      $record| Add-Member -type NoteProperty -name currency -value '$'
       $record| Add-Member -type NoteProperty -name rundate  -value $(datestring)
       $record| Add-Member -type NoteProperty -name site     -value "DCBS"
 

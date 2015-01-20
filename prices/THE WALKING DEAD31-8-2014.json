@@ -353,7 +353,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "100LUCILLE:CGC",
+        "Issue":  "100LUCILLECGC",
         "Cover":  100,
         "TotalCost":  "848.50",
         "Mean":  848.5,
@@ -2369,7 +2369,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "19:Damaged",
+        "Issue":  "19Damaged",
         "Cover":  19,
         "TotalCost":  "50.50",
         "Mean":  50.5,
@@ -2497,7 +2497,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "1B:CGC:SIGNED",
+        "Issue":  "1BCGCSIGNED",
         "Cover":  1,
         "TotalCost":  "36.00",
         "Mean":  36,
@@ -2545,7 +2545,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "1COLOR:CGC:SIGNED",
+        "Issue":  "1COLORCGCSIGNED",
         "Cover":  1,
         "TotalCost":  "150.00",
         "Mean":  150,
@@ -2561,7 +2561,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "1ECCCCOLOR",
+        "Issue":  "1ECCC",
         "Cover":  1,
         "TotalCost":  "15.66",
         "Mean":  15.663333333333332,
@@ -2689,7 +2689,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "1IMAGEEXPO:SIGNED",
+        "Issue":  "1IMAGEEXPOSIGNED",
         "Cover":  1,
         "TotalCost":  "18.00",
         "Mean":  18,
@@ -2753,7 +2753,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "1NASHVILLE:CGC",
+        "Issue":  "1NASHVILLECGC",
         "Cover":  1,
         "TotalCost":  "39.00",
         "Mean":  39,
@@ -2897,7 +2897,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "1STLOUIS:CGC",
+        "Issue":  "1STLOUISCGC",
         "Cover":  1,
         "TotalCost":  "58.00",
         "Mean":  58,
@@ -3409,7 +3409,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "4:SERBIA",
+        "Issue":  "4SERBIA",
         "Cover":  4,
         "TotalCost":  "5.30",
         "Mean":  5.3,
@@ -3841,7 +3841,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "56:CGC:SIGNED",
+        "Issue":  "56CGCSIGNED",
         "Cover":  56,
         "TotalCost":  "36.99",
         "Mean":  36.99,
@@ -5841,7 +5841,7 @@
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "MICHONNE SPECIAL:SIGNED",
+        "Issue":  "MICHONNE SPECIALSIGNED",
         "Cover":  0,
         "TotalCost":  "6.45",
         "Mean":  6.45,

@@ -30,6 +30,7 @@
     <Compile Include="covers\ADVENTURES-OF-SUPERMAN\14\14.JPG" />
     <Compile Include="covers\DREDD\UNDERBELLYSIGNED.JPG" />
     <Compile Include="covers\GRAYSON\1\1SIGNED.JPG" />
+    <Compile Include="covers\ST.-GEORGE\SET.JPG" />
     <Compile Include="covers\TALON\2\2.JPG" />
     <Compile Include="covers\TALON\2\2SIGNED.JPG" />
     <Compile Include="data\dcbs\18-1-2015.json" />
@@ -6949,6 +6950,7 @@
     <Folder Include="covers\SPREAD\3\" />
     <Folder Include="covers\SPREAD\4\" />
     <Folder Include="covers\SPREAD\6\" />
+    <Folder Include="covers\ST.-GEORGE\" />
     <Folder Include="covers\STAR-TREK\" />
     <Folder Include="covers\STAR-TREK\34\" />
     <Folder Include="covers\STAR-WARS\" />
