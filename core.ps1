@@ -160,13 +160,13 @@ function get-price
    if ($price.contains("`$"))
    {
       $price=$price.Replace("`$","")
-      $currency="`$"
+      $currency='`$'
    }
 
    if ($price.contains("€"))
    {
       $price=$price.Replace("€","")
-      $currency="€"
+      $currency='Euro'
    }
 
    $price=$price.split("")
@@ -183,7 +183,7 @@ function get-price
    $cost
 }
 
-function rrget-issue
+function get-issue
 {
    param( 
    [Parameter(Mandatory=$true)]

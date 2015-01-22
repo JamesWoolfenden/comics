@@ -8,7 +8,7 @@
         "variant":  "ALEX + ADA 13",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "ALEX + ADA 12",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "ALEX + ADA 11",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "ALEX + ADA 10",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "ALEX + ADA 9",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "ALEX + ADA 8",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "ALEX + ADA 7",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "ALEX + ADA 6",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -104,19 +104,7 @@
         "variant":  "ALEX + ADA 5",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jan148304.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan148304.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan148304.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  "ALEX",
-        "variant":  "ALEX + ADA 4 SECOND PRINT",
-        "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -128,19 +116,19 @@
         "variant":  "ALEX + ADA 4 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
-        "link":  "http://www.closeencounters.co.uk/index.php/nov130489.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov130489.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov130489.html\u003c/a\u003e",
+        "link":  "http://www.closeencounters.co.uk/index.php/jan148304.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan148304.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan148304.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ALEX ADA",
         "issue":  "ALEX",
-        "variant":  "ALEX + ADA 3 FIRST PRINT",
+        "variant":  "ALEX + ADA 4 SECOND PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +140,19 @@
         "variant":  "ALEX + ADA 3 SECOND PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov130489.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov130489.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov130489.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "ALEX",
+        "variant":  "ALEX + ADA 3 FIRST PRINT",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,19 +164,7 @@
         "variant":  "ALEX + ADA 2 FIRST PRINT",
         "price":  7.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/sep130479-55046.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep130479-55046.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep130479-55046.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  "ALEX",
-        "variant":  "ALEX + ADA 1 SECOND PRINT",
-        "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +176,19 @@
         "variant":  "ALEX + ADA 1 FIRST PRINT",
         "price":  12.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep130479-55046.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep130479-55046.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep130479-55046.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "ALEX",
+        "variant":  "ALEX + ADA 1 SECOND PRINT",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -200,7 +200,7 @@
         "variant":  "SECRET AVENGERS 26 AVX - AVENGERS VS X-MEN TIE IN -",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -212,7 +212,7 @@
         "variant":  "SECRET AVENGERS 25",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -224,7 +224,7 @@
         "variant":  "SECRET AVENGERS 22",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +236,7 @@
         "variant":  "SECRET AVENGERS 21",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +248,7 @@
         "variant":  "NEW MUTANTS 1 MCCLEOD VARIANT",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:21 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:49 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -259,7 +259,7 @@
         "issue":  "13",
         "variant":  "13",
         "price":  "1.95",
-        "rundate":  "Mon Jan 12 2015 10:22:25 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:58 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -270,7 +270,7 @@
         "issue":  "12",
         "variant":  "12",
         "price":  "1.95",
-        "rundate":  "Mon Jan 12 2015 10:22:25 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:04:58 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -282,7 +282,7 @@
         "variant":  "10",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -294,7 +294,7 @@
         "variant":  "11",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -306,7 +306,7 @@
         "variant":  "3",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -318,7 +318,7 @@
         "variant":  "4",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -330,7 +330,7 @@
         "variant":  "6",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -342,7 +342,7 @@
         "variant":  "7",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -354,7 +354,7 @@
         "variant":  "8",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -366,91 +366,523 @@
         "variant":  "9",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:29 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:08 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=81834\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=81834\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=81834\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/IMAGE-FIRSTS-ALEX-ADA-1-APR-2014-VF-NM-/111560956639?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19f98d1adf",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-FIRSTS-ALEX-ADA-1-APR-2014-VF-NM-/111560956639?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19f98d1adf\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-FIRSTS-ALEX-ADA-1-APR-2014-VF-NM-/111560956639?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19f98d1adf\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "1",
+        "variant":  "1FIRSTS",
+        "price":  "1.5",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Alex-Ada-1-2-N-M-1st-Prints-Image-comics-Luna-Vaughn-NICE-GRADES-/111576810190?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fa7f02ce",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Alex-Ada-1-2-N-M-1st-Prints-Image-comics-Luna-Vaughn-NICE-GRADES-/111576810190?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fa7f02ce\"\u003ehttp://www.ebay.co.uk/itm/Alex-Ada-1-2-N-M-1st-Prints-Image-comics-Luna-Vaughn-NICE-GRADES-/111576810190?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fa7f02ce\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  "15.99",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/709853015079-alex-ada-1-image-2013-1st-print-jonathan-luna-sarah-vaughn-vfn-nm-129770650.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/709853015079-alex-ada-1-image-2013-1st-print-jonathan-luna-sarah-vaughn-vfn-nm-129770650.htm\"\u003ehttp://uk.ebid.net/for-sale/709853015079-alex-ada-1-image-2013-1st-print-jonathan-luna-sarah-vaughn-vfn-nm-129770650.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "1",
+        "variant":  "1A",
+        "price":  "5.5",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/709853015079-alex-ada-2-image-2013-1st-print-jonathan-luna-sarah-vaughn-vfn-nm-129770665.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/709853015079-alex-ada-2-image-2013-1st-print-jonathan-luna-sarah-vaughn-vfn-nm-129770665.htm\"\u003ehttp://uk.ebid.net/for-sale/709853015079-alex-ada-2-image-2013-1st-print-jonathan-luna-sarah-vaughn-vfn-nm-129770665.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "2",
+        "variant":  "2A",
+        "price":  "5",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/709853015079-alex-ada-3-image-2014-1st-print-jonathan-luna-sarah-vaughn-vfn-nm-129770676.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/709853015079-alex-ada-3-image-2014-1st-print-jonathan-luna-sarah-vaughn-vfn-nm-129770676.htm\"\u003ehttp://uk.ebid.net/for-sale/709853015079-alex-ada-3-image-2014-1st-print-jonathan-luna-sarah-vaughn-vfn-nm-129770676.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "3",
+        "variant":  "3A",
+        "price":  "2",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/709853015079-alex-ada-4-image-2014-2nd-print-jonathan-luna-sarah-vaughn-vfn-nm-129770681.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/709853015079-alex-ada-4-image-2014-2nd-print-jonathan-luna-sarah-vaughn-vfn-nm-129770681.htm\"\u003ehttp://uk.ebid.net/for-sale/709853015079-alex-ada-4-image-2014-2nd-print-jonathan-luna-sarah-vaughn-vfn-nm-129770681.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "4",
+        "variant":  "4B",
+        "price":  "2",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/709853015079-alex-ada-5-image-2014-jonathan-luna-sarah-vaughn-vfn-nm-129770735.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/709853015079-alex-ada-5-image-2014-jonathan-luna-sarah-vaughn-vfn-nm-129770735.htm\"\u003ehttp://uk.ebid.net/for-sale/709853015079-alex-ada-5-image-2014-jonathan-luna-sarah-vaughn-vfn-nm-129770735.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "5",
+        "variant":  "5",
+        "price":  "2",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/709853015079-alex-ada-6-image-2014-jonathan-luna-sarah-vaughn-vfn-nm-129770739.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/709853015079-alex-ada-6-image-2014-jonathan-luna-sarah-vaughn-vfn-nm-129770739.htm\"\u003ehttp://uk.ebid.net/for-sale/709853015079-alex-ada-6-image-2014-jonathan-luna-sarah-vaughn-vfn-nm-129770739.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "6",
+        "variant":  "6",
+        "price":  "2",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ALEX-ADA-7-IMAGE-COMICS-NM-9-4-/131386320936?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item1e973c2828",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-ADA-7-IMAGE-COMICS-NM-9-4-/131386320936?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item1e973c2828\"\u003ehttp://www.ebay.co.uk/itm/ALEX-ADA-7-IMAGE-COMICS-NM-9-4-/131386320936?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item1e973c2828\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  "3.19",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/alex-ada-7-image-comics-jonathan-luna-131867060.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/alex-ada-7-image-comics-jonathan-luna-131867060.htm\"\u003ehttp://uk.ebid.net/for-sale/alex-ada-7-image-comics-jonathan-luna-131867060.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  "1.25",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/alex-ada-4-image-comics-jonathan-luna-132401463.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/alex-ada-4-image-comics-jonathan-luna-132401463.htm\"\u003ehttp://uk.ebid.net/for-sale/alex-ada-4-image-comics-jonathan-luna-132401463.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "4",
+        "variant":  "4B",
+        "price":  "1.25",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/alex-ada-8-image-comics-jonathan-luna-132410207.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/alex-ada-8-image-comics-jonathan-luna-132410207.htm\"\u003ehttp://uk.ebid.net/for-sale/alex-ada-8-image-comics-jonathan-luna-132410207.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "8",
+        "variant":  "8",
+        "price":  "1.25",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/alex-ada-5-nm-image-1st-print-2014-132435977.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/alex-ada-5-nm-image-1st-print-2014-132435977.htm\"\u003ehttp://uk.ebid.net/for-sale/alex-ada-5-nm-image-1st-print-2014-132435977.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "5",
+        "variant":  "5",
+        "price":  "0.75",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/alex-ada-5-nm-image-1st-print-2014-136313500.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/alex-ada-5-nm-image-1st-print-2014-136313500.htm\"\u003ehttp://uk.ebid.net/for-sale/alex-ada-5-nm-image-1st-print-2014-136313500.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "5",
+        "variant":  "5",
+        "price":  "0.75",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ALEX-ADA-3-2ND-PRINTING-/141243921649?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20e2cb34f1\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-ADA-3-2ND-PRINTING-/141243921649?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20e2cb34f1\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/ALEX-ADA-3-2ND-PRINTING-/141243921649?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20e2cb34f1\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "3",
+        "variant":  "3B",
+        "price":  "2.25",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ALEX-ADA-VOL-1-SOFTCOVER-GRAPHIC-NOVEL-RRP-9-99-/141349370195?pt=UK_Books_Comics_Magazines_Graphic_Novels_ET\u0026hash=item20e9143953\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-ADA-VOL-1-SOFTCOVER-GRAPHIC-NOVEL-RRP-9-99-/141349370195?pt=UK_Books_Comics_Magazines_Graphic_Novels_ET\u0026hash=item20e9143953\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/ALEX-ADA-VOL-1-SOFTCOVER-GRAPHIC-NOVEL-RRP-9-99-/141349370195?pt=UK_Books_Comics_Magazines_Graphic_Novels_ET\u0026hash=item20e9143953\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "1",
+        "variant":  "VOL1",
+        "price":  "6.99",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Alex-Ada-1-Luna-Jonathan-Vaughn-Sarah-/141506396906?pt=Non_Fiction\u0026hash=item20f27042ea",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Alex-Ada-1-Luna-Jonathan-Vaughn-Sarah-/141506396906?pt=Non_Fiction\u0026hash=item20f27042ea\"\u003ehttp://www.ebay.co.uk/itm/Alex-Ada-1-Luna-Jonathan-Vaughn-Sarah-/141506396906?pt=Non_Fiction\u0026hash=item20f27042ea\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "1",
+        "variant":  "VOL1",
+        "price":  "8.29",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Alex-Ada-Luna-Jonathan-9781632150066-/151468044044?pt=Fiction\u0026hash=item234432ef0c",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Alex-Ada-Luna-Jonathan-9781632150066-/151468044044?pt=Fiction\u0026hash=item234432ef0c\"\u003ehttp://www.ebay.co.uk/itm/Alex-Ada-Luna-Jonathan-9781632150066-/151468044044?pt=Fiction\u0026hash=item234432ef0c\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "1",
+        "variant":  "VOL1",
+        "price":  "8.39",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Alex-Ada-1-NM-1st-Print-Luna-Bros-Girls-Ultra-Whispers-Image-/151543803865?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2348b6efd9",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Alex-Ada-1-NM-1st-Print-Luna-Bros-Girls-Ultra-Whispers-Image-/151543803865?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2348b6efd9\"\u003ehttp://www.ebay.co.uk/itm/Alex-Ada-1-NM-1st-Print-Luna-Bros-Girls-Ultra-Whispers-Image-/151543803865?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2348b6efd9\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "1",
+        "variant":  "1A",
+        "price":  "10",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Alex-Ada-1-Second-Print-/161278568600?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item258cf3a898\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Alex-Ada-1-Second-Print-/161278568600?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item258cf3a898\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Alex-Ada-1-Second-Print-/161278568600?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item258cf3a898\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "1",
+        "variant":  "1B",
+        "price":  "3.15",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Alex-Ada-4-Second-Print-/161361236351?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2591e1117f\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Alex-Ada-4-Second-Print-/161361236351?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2591e1117f\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Alex-Ada-4-Second-Print-/161361236351?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2591e1117f\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "4",
+        "variant":  "4B",
+        "price":  "3.15",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Alex-Ada-3-First-Print-/161467094652?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item259830567c",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Alex-Ada-3-First-Print-/161467094652?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item259830567c\"\u003ehttp://www.ebay.co.uk/itm/Alex-Ada-3-First-Print-/161467094652?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item259830567c\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "3",
+        "variant":  "3A",
+        "price":  "3.15",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ALEX-AND-ADA-1-1st-Print-New-Bagged-/191117442850?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c7f7cbf22\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-AND-ADA-1-1st-Print-New-Bagged-/191117442850?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c7f7cbf22\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/ALEX-AND-ADA-1-1st-Print-New-Bagged-/191117442850?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c7f7cbf22\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "1",
+        "variant":  "1A",
+        "price":  "19.99",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ALEX-AND-ADA-11-New-Bagged-/191466925845?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c94516f15",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-AND-ADA-11-New-Bagged-/191466925845?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c94516f15\"\u003ehttp://www.ebay.co.uk/itm/ALEX-AND-ADA-11-New-Bagged-/191466925845?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c94516f15\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "11",
+        "variant":  "11",
+        "price":  "3.25",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ALEX-ADA-3-2nd-PRINT-IMAGE-COMICS-/221649349403?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b54ab1b",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-ADA-3-2nd-PRINT-IMAGE-COMICS-/221649349403?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b54ab1b\"\u003ehttp://www.ebay.co.uk/itm/ALEX-ADA-3-2nd-PRINT-IMAGE-COMICS-/221649349403?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b54ab1b\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "3",
+        "variant":  "3B",
+        "price":  "2.75",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ALEX-ADA-VOLUME-1-GRAPHIC-NOVEL-New-Paperback-Collects-Issues-1-2-3-4-5-/231287041698?pt=UK_Books_Comics_Magazines_Graphic_Novels_ET\u0026hash=item35d9c82ea2\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-ADA-VOLUME-1-GRAPHIC-NOVEL-New-Paperback-Collects-Issues-1-2-3-4-5-/231287041698?pt=UK_Books_Comics_Magazines_Graphic_Novels_ET\u0026hash=item35d9c82ea2\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/ALEX-ADA-VOLUME-1-GRAPHIC-NOVEL-New-Paperback-Collects-Issues-1-2-3-4-5-/231287041698?pt=UK_Books_Comics_Magazines_Graphic_Novels_ET\u0026hash=item35d9c82ea2\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "1",
+        "variant":  "VOL1",
+        "price":  "6.97",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Alex-Ada-1-First-print-J-Luna-S-Vaughn-/251774086336?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3a9ee7acc0",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Alex-Ada-1-First-print-J-Luna-S-Vaughn-/251774086336?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3a9ee7acc0\"\u003ehttp://www.ebay.co.uk/itm/Alex-Ada-1-First-print-J-Luna-S-Vaughn-/251774086336?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3a9ee7acc0\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "1",
+        "variant":  "1A",
+        "price":  "11.99",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Alex-Ada-Volume-1-Jonathan-Luna-Sarah-Vaughn-Image-Comics-/301346845123?hash=item4629abf1c3\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Alex-Ada-Volume-1-Jonathan-Luna-Sarah-Vaughn-Image-Comics-/301346845123?hash=item4629abf1c3\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Alex-Ada-Volume-1-Jonathan-Luna-Sarah-Vaughn-Image-Comics-/301346845123?hash=item4629abf1c3\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "1",
+        "variant":  "VOL1",
+        "price":  "7.67",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ALEX-ADA-3-New-Bagged-/310872124376?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48616c2bd8\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-ADA-3-New-Bagged-/310872124376?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48616c2bd8\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/ALEX-ADA-3-New-Bagged-/310872124376?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48616c2bd8\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "3",
+        "variant":  "3A",
+        "price":  "3.25",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Alex-Ada-3-Second-Print-/311007581712?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48697f1610\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Alex-Ada-3-Second-Print-/311007581712?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48697f1610\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Alex-Ada-3-Second-Print-/311007581712?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48697f1610\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "3",
+        "variant":  "3B",
+        "price":  "3.15",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ALEX-ADA-4-2nd-PRINT-IMAGE-COMICS-/321630489739?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2abcc8b",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-ADA-4-2nd-PRINT-IMAGE-COMICS-/321630489739?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2abcc8b\"\u003ehttp://www.ebay.co.uk/itm/ALEX-ADA-4-2nd-PRINT-IMAGE-COMICS-/321630489739?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2abcc8b\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "4",
+        "variant":  "4B",
+        "price":  "2.75",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Image-Comic-IMAGE-FIRSTS-ALEX-ADA-1-APRIL-2014-18B47-/351241428002?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item51c79edc22",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-Comic-IMAGE-FIRSTS-ALEX-ADA-1-APRIL-2014-18B47-/351241428002?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item51c79edc22\"\u003ehttp://www.ebay.co.uk/itm/Image-Comic-IMAGE-FIRSTS-ALEX-ADA-1-APRIL-2014-18B47-/351241428002?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item51c79edc22\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "1",
+        "variant":  "1FIRSTS",
+        "price":  "1.69",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ALEX-ADA-8-IMAGE-COMICS-/361070595929?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item54117c0f59\u0026ssPageName=RSS:B:SHOP:GB:101",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-ADA-8-IMAGE-COMICS-/361070595929?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item54117c0f59\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/ALEX-ADA-8-IMAGE-COMICS-/361070595929?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item54117c0f59\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "8",
+        "variant":  "8",
+        "price":  "2.2",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ALEX-ADA-9-IMAGE-COMICS-/361155961132?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item541692a12c",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-ADA-9-IMAGE-COMICS-/361155961132?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item541692a12c\"\u003ehttp://www.ebay.co.uk/itm/ALEX-ADA-9-IMAGE-COMICS-/361155961132?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item541692a12c\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "9",
+        "variant":  "9",
+        "price":  "2.2",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Alex-Ada-3-NM-14-Luna-Vaughn-2nd-Print-/371215219887?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566e26bcaf",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Alex-Ada-3-NM-14-Luna-Vaughn-2nd-Print-/371215219887?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566e26bcaf\"\u003ehttp://www.ebay.co.uk/itm/Alex-Ada-3-NM-14-Luna-Vaughn-2nd-Print-/371215219887?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566e26bcaf\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "3",
+        "variant":  "3B",
+        "price":  "3.25",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Image-Firsts-Alex-Ada-1-Image-/371226121417?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566ecd14c9",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-Firsts-Alex-Ada-1-Image-/371226121417?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566ecd14c9\"\u003ehttp://www.ebay.co.uk/itm/Image-Firsts-Alex-Ada-1-Image-/371226121417?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566ecd14c9\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "1",
+        "variant":  "1FIRSTS",
+        "price":  "2.5",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81834\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81834\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81834\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ALEX ADA",
         "issue":  "STANDING",
         "variant":  "ALEX + ADA #STANDING ORDER",
         "price":  0.00,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:35 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:17 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=89431\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=89431\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=89431\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=89431\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=89431\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=89431\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ALEX ADA",
         "issue":  "STANDING",
         "variant":  "IMAGE FIRSTS ALEX + ADA #STANDING ORDER",
         "price":  0.00,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:35 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:17 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87355\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87355\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87355\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_31\u0026products_id=87355\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_31\u0026products_id=87355\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_31\u0026products_id=87355\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ALEX ADA",
         "issue":  "11",
         "variant":  "ALEX + ADA #11 [(W) Jonathan Luna, Sarah Vaughn (A/CA) Jonathan Luna]",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:35 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:17 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87348\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87348\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=87348\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_48\u0026products_id=87348\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_48\u0026products_id=87348\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_48\u0026products_id=87348\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ALEX ADA",
         "issue":  "1",
         "variant":  "IMAGE FIRSTS ALEX + ADA #1 [(W) Jonathan Luna, Sarah Vaughn (A/CA) Jonathan Luna]",
         "price":  0.80,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:35 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:17 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=91035\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=91035\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=91035\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91035\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91035\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91035\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ALEX ADA",
         "issue":  "13",
         "variant":  "JAN150668 ALEX + ADA #13",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:35 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:17 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=88512\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=88512\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=88512\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88512\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88512\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88512\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ALEX ADA",
         "issue":  "12",
         "variant":  "NOV140641 ALEX + ADA #12",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:35 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:17 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=3318\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=3318\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=3318\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_2\u0026products_id=3318\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_2\u0026products_id=3318\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_2\u0026products_id=3318\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ALEX ADA",
         "issue":  "MOVIE ADAPTATION [Kris Oprisko (w); Alex Milne (a) ]",
         "variant":  "TRANSFORMERS MOVIE ADAPTATION [Kris Oprisko (w); Alex Milne (a) ]",
         "price":  13.50,
         "currency":  "?",
-        "rundate":  "Mon Jan 12 2015 10:22:35 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 20:05:17 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     }
 ]

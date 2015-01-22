@@ -8,7 +8,7 @@
         "variant":  "5 CVR A QUITELY (MR)",
         "price":  1.35,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:00 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:34 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "5 CVR B HITCH (MR)",
         "price":  1.61,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:00 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:34 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "5 CVR C FEGREDO (MR)",
         "price":  1.54,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:00 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:34 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "5 CVR A QUITELY (RES) (MR)",
         "price":  3.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:00 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:34 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "5 CVR B HITCH (RES) (MR)",
         "price":  3.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:00 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:34 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "5 CVR C FEGREDO (RES) (MR)",
         "price":  3.25,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:00 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:34 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "1 MIDTOWN EXC CVR ( 2013 DHC",
         "price":  15.96,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:00 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:34 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "3 (MR) 2013 DHC",
         "price":  1.35,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:00 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:34 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "3 CVR B HITCH (MR) 2013 DHC",
         "price":  1.35,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:00 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:34 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +116,7 @@
         "variant":  "4 CVR A QUIETLY (MR) DHC",
         "price":  1.69,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:00 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:34 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,7 +128,7 @@
         "variant":  "5 COVER A QUITELY",
         "price":  3.50,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:09 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:42 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -140,7 +140,7 @@
         "variant":  "5 COVER A QUITELY",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:09 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:42 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,19 +152,7 @@
         "variant":  "JUPITER\u0027S LEGACY 1 STUDIO EDITION",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:09 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/aug130699.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug130699.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug130699.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "JUPITERS LEGACY",
-        "issue":  "4",
-        "variant":  "4 COVER A QUIETLY FIRST PRINT",
-        "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:09 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:42 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +164,19 @@
         "variant":  "4 COVER B HITCH",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:09 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:42 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug130699.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug130699.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug130699.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "4",
+        "variant":  "4 COVER A QUIETLY FIRST PRINT",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Tue Jan 20 2015 19:01:42 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +188,7 @@
         "variant":  "3 SEAN PHILLIPS VARIANT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:09 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:42 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -200,31 +200,7 @@
         "variant":  "3 BRYAN HITCH VARIANT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:09 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/feb130382.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb130382.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb130382.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "JUPITERS LEGACY",
-        "issue":  "JUPITER\u0027S",
-        "variant":  "JUPITER\u0027S LEGACY 1 COVER D NOTO FIRST PRINT",
-        "price":  1.99,
-        "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:09 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/feb130380.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb130380.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb130380.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "JUPITERS LEGACY",
-        "issue":  "1",
-        "variant":  "1 COVER B HITCH",
-        "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:09 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:42 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +212,7 @@
         "variant":  "1 BLANK VARIANT",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:09 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:42 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +224,7 @@
         "variant":  "JUPITER\u0027S LEGACY 1 COVER C JOHNSON FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:09 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:42 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -260,7 +236,31 @@
         "variant":  "1 COVER A QUITELY FIRST PRINT",
         "price":  2.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:09 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:42 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb130382.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb130382.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb130382.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "JUPITER\u0027S",
+        "variant":  "JUPITER\u0027S LEGACY 1 COVER D NOTO FIRST PRINT",
+        "price":  1.99,
+        "currency":  "?",
+        "rundate":  "Tue Jan 20 2015 19:01:42 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb130380.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb130380.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb130380.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "JUPITERS LEGACY",
+        "issue":  "1",
+        "variant":  "1 COVER B HITCH",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Tue Jan 20 2015 19:01:42 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -272,7 +272,7 @@
         "variant":  "1 QUITELY SKETCH VARIANT 1:25",
         "price":  9.99,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:09 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:42 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -283,7 +283,7 @@
         "issue":  "5 ",
         "variant":  "Cover B Bryan Hitch",
         "price":  "1.95",
-        "rundate":  "Mon Jan 19 2015 23:20:20 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:52 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -294,7 +294,7 @@
         "issue":  "5 ",
         "variant":  "Cover A Frank Quitely",
         "price":  "1.95",
-        "rundate":  "Mon Jan 19 2015 23:20:20 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:52 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -305,7 +305,7 @@
         "issue":  "5 ",
         "variant":  "Cover C Duncan Fegredo",
         "price":  "1.95",
-        "rundate":  "Mon Jan 19 2015 23:20:20 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:52 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -316,7 +316,7 @@
         "issue":  "1",
         "variant":  "1",
         "price":  "2.65",
-        "rundate":  "Mon Jan 19 2015 23:20:20 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:01:52 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -328,7 +328,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:25 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -340,7 +340,7 @@
         "variant":  "1 (COVER A)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:25 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -352,7 +352,7 @@
         "variant":  "1 (COVER B)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:25 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -364,7 +364,7 @@
         "variant":  "1 (COVER C)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:25 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -376,7 +376,7 @@
         "variant":  "1 (COVER D)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:25 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -388,7 +388,7 @@
         "variant":  "2 (COVER A)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:25 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -400,7 +400,7 @@
         "variant":  "2 (COVER B)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:25 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -412,7 +412,7 @@
         "variant":  "2 (COVER C)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:25 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -424,7 +424,7 @@
         "variant":  "4 (COVER B)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:25 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -436,7 +436,7 @@
         "variant":  "5 (COVER A)",
         "price":  3.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:25 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -448,7 +448,7 @@
         "variant":  "5 (COVER B)",
         "price":  3.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:25 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -460,7 +460,7 @@
         "variant":  "5 (COVER C)",
         "price":  3.49,
         "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:25 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:03 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -468,14 +468,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/jupiter-s-legacy-1-image-111857655.htm\"\u003ehttp://uk.ebid.net/for-sale/jupiter-s-legacy-1-image-111857655.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1A",
-                      "variant":  "1A"
-                  },
+        "issue":  "1",
         "variant":  "1A",
         "price":  "2.25",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -483,14 +480,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/jupiter-s-legacy-2-cover-a-image-nm-111857772.htm\"\u003ehttp://uk.ebid.net/for-sale/jupiter-s-legacy-2-cover-a-image-nm-111857772.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "2A",
-                      "variant":  "2A"
-                  },
+        "issue":  "2",
         "variant":  "2A",
         "price":  "2.25",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -498,14 +492,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/jupiter-s-legacy-2-image-comics-mark-millar-frank-quitely-123314879.htm\"\u003ehttp://uk.ebid.net/for-sale/jupiter-s-legacy-2-image-comics-mark-millar-frank-quitely-123314879.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "2B",
-                      "variant":  "2B"
-                  },
+        "issue":  "2",
         "variant":  "2B",
         "price":  "1.2",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -513,14 +504,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/jupiter-s-legacy-1-image-comics-mark-millar-frank-quitely-124986731.htm\"\u003ehttp://uk.ebid.net/for-sale/jupiter-s-legacy-1-image-comics-mark-millar-frank-quitely-124986731.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1D",
-                      "variant":  "1D"
-                  },
+        "issue":  "1",
         "variant":  "1D",
         "price":  "0.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -528,14 +516,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/jupiter-s-legacy-3-image-comics-mark-millar-frank-quitely-125014479.htm\"\u003ehttp://uk.ebid.net/for-sale/jupiter-s-legacy-3-image-comics-mark-millar-frank-quitely-125014479.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "3A",
-                      "variant":  "3A"
-                  },
+        "issue":  "3",
         "variant":  "3A",
         "price":  "0.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -543,14 +528,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/jupiter-s-legacy-2-image-comics-mark-millar-frank-quitely-125044052.htm\"\u003ehttp://uk.ebid.net/for-sale/jupiter-s-legacy-2-image-comics-mark-millar-frank-quitely-125044052.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "2A",
-                      "variant":  "2A"
-                  },
+        "issue":  "2",
         "variant":  "2A",
         "price":  "0.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -558,14 +540,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/jupiter-s-legacy-2-image-comics-mark-millar-frank-quitely-jock-variant-125044169.htm\"\u003ehttp://uk.ebid.net/for-sale/jupiter-s-legacy-2-image-comics-mark-millar-frank-quitely-jock-variant-125044169.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "2C",
-                      "variant":  "2C"
-                  },
+        "issue":  "2",
         "variant":  "2C",
         "price":  "1.2",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -573,14 +552,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/jupiter-s-legacy-1-image-millar-quitely-studi-edition-4-99-125394930.htm\"\u003ehttp://uk.ebid.net/for-sale/jupiter-s-legacy-1-image-millar-quitely-studi-edition-4-99-125394930.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1K",
-                      "variant":  "1K"
-                  },
+        "issue":  "1",
         "variant":  "1K",
         "price":  "0.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -588,14 +564,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/jupiter-s-legacy-3-image-comics-mark-millar-frank-quitely-hitch-variant-128569768.htm\"\u003ehttp://uk.ebid.net/for-sale/jupiter-s-legacy-3-image-comics-mark-millar-frank-quitely-hitch-variant-128569768.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "3B",
-                      "variant":  "3B"
-                  },
+        "issue":  "3",
         "variant":  "3B",
         "price":  "1.25",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -603,14 +576,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/709853013501-jupiter-s-legacy-comic-1-image-2013-mark-millar-frank-quitely-128922192.htm\"\u003ehttp://uk.ebid.net/for-sale/709853013501-jupiter-s-legacy-comic-1-image-2013-mark-millar-frank-quitely-128922192.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1D",
-                      "variant":  "1D"
-                  },
+        "issue":  "1",
         "variant":  "1D",
         "price":  "0.95",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -618,14 +588,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/jupiter-s-legacy-1-cover-c-129721558.htm\"\u003ehttp://uk.ebid.net/for-sale/jupiter-s-legacy-1-cover-c-129721558.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1C",
-                      "variant":  "1C"
-                  },
+        "issue":  "1",
         "variant":  "1C",
         "price":  "1",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -633,14 +600,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/jupiter-s-legacy-1-cover-d-129721563.htm\"\u003ehttp://uk.ebid.net/for-sale/jupiter-s-legacy-1-cover-d-129721563.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1D",
-                      "variant":  "1D"
-                  },
+        "issue":  "1",
         "variant":  "1D",
         "price":  "1",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -648,14 +612,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-4-IMAGE-COMICS-NM-9-4-/131305784530?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item1e926f44d2\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-4-IMAGE-COMICS-NM-9-4-/131305784530?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item1e926f44d2\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "4A",
-                      "variant":  "4A"
-                  },
+        "issue":  "4",
         "variant":  "4A",
         "price":  "2.24",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -663,14 +624,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/image-jupiter-s-legacy-1-131405430.htm\"\u003ehttp://uk.ebid.net/for-sale/image-jupiter-s-legacy-1-131405430.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1A",
-                      "variant":  "1A"
-                  },
+        "issue":  "1",
         "variant":  "1A",
         "price":  "1",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -678,14 +636,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/image-jupiter-s-legacy-2-131405431.htm\"\u003ehttp://uk.ebid.net/for-sale/image-jupiter-s-legacy-2-131405431.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "2A",
-                      "variant":  "2A"
-                  },
+        "issue":  "2",
         "variant":  "2A",
         "price":  "1",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -693,14 +648,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/image-jupiter-s-legacy-1-133936671.htm\"\u003ehttp://uk.ebid.net/for-sale/image-jupiter-s-legacy-1-133936671.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1A",
-                      "variant":  "1A"
-                  },
+        "issue":  "1",
         "variant":  "1A",
         "price":  "1",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -708,14 +660,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/image-jupiter-s-legacy-2-133936672.htm\"\u003ehttp://uk.ebid.net/for-sale/image-jupiter-s-legacy-2-133936672.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "2A",
-                      "variant":  "2A"
-                  },
+        "issue":  "2",
         "variant":  "2A",
         "price":  "1",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -723,14 +672,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/jupiter-s-legacy-1-2nd-print-allred-cover-135322640.htm\"\u003ehttp://uk.ebid.net/for-sale/jupiter-s-legacy-1-2nd-print-allred-cover-135322640.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1G",
-                      "variant":  "1G"
-                  },
+        "issue":  "1",
         "variant":  "1G",
         "price":  "1.5",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -738,14 +684,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/jupiter-s-legacy-2-cover-c-135322641.htm\"\u003ehttp://uk.ebid.net/for-sale/jupiter-s-legacy-2-cover-c-135322641.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "2C",
-                      "variant":  "2C"
-                  },
+        "issue":  "2",
         "variant":  "2C",
         "price":  "1.5",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -753,14 +696,11 @@
         "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/jupiter-s-legacy-1-image-comic-mark-millar-frank-quitely-phantom-variant-136301640.htm\"\u003ehttp://uk.ebid.net/for-sale/jupiter-s-legacy-1-image-comic-mark-millar-frank-quitely-phantom-variant-136301640.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1PHANTOM",
-                      "variant":  "1PHANTOM"
-                  },
+        "issue":  "1",
         "variant":  "1PHANTOM",
         "price":  "1.75",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -768,14 +708,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-MILLAR-QUITELY-IMAGE-COMICS-2013-N-M-1ST-PRINT-/151178449685?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2332f01315\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-MILLAR-QUITELY-IMAGE-COMICS-2013-N-M-1ST-PRINT-/151178449685?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2332f01315\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1A",
-                      "variant":  "1A"
-                  },
+        "issue":  "1",
         "variant":  "1A",
         "price":  "4.95",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -783,14 +720,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-C-Johnson-/161013287656?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item257d23cae8\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-C-Johnson-/161013287656?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item257d23cae8\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1C",
-                      "variant":  "1C"
-                  },
+        "issue":  "1",
         "variant":  "1C",
         "price":  "3.1",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -798,14 +732,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-D-Noto-/161013310686?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item257d2424de\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-D-Noto-/161013310686?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item257d2424de\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1D",
-                      "variant":  "1D"
-                  },
+        "issue":  "1",
         "variant":  "1D",
         "price":  "3.04",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -813,14 +744,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-MOROCCO-OCTOBER-1932-COVER-C-MARK-MILLAR-IMAGE-COMICS-/161030004925?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item257e22e0bd\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-MOROCCO-OCTOBER-1932-COVER-C-MARK-MILLAR-IMAGE-COMICS-/161030004925?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item257e22e0bd\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1B",
-                      "variant":  "1B"
-                  },
+        "issue":  "1",
         "variant":  "1B",
         "price":  "3.49",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -828,14 +756,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Quitely-Sketch-Variant-1-25-/161053421889?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item257f883141\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Quitely-Sketch-Variant-1-25-/161053421889?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item257f883141\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1SKETCH",
-                      "variant":  "1SKETCH"
-                  },
+        "issue":  "1",
         "variant":  "1SKETCH",
         "price":  "13.04",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -843,14 +768,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-3-Sean-Phillips-Variant-/161229276828?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item258a03869c\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-3-Sean-Phillips-Variant-/161229276828?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item258a03869c\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "3C",
-                      "variant":  "3C"
-                  },
+        "issue":  "3",
         "variant":  "3C",
         "price":  "3.15",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -858,14 +780,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-3-Bryan-Hitch-Variant-/161229282856?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item258a039e28\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-3-Bryan-Hitch-Variant-/161229282856?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item258a039e28\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "3B",
-                      "variant":  "3B"
-                  },
+        "issue":  "3",
         "variant":  "3B",
         "price":  "3.15",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -873,14 +792,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-4-Cover-Quietly-First-Print-/161240548240?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item258aaf8390\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-4-Cover-Quietly-First-Print-/161240548240?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item258aaf8390\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "4",
-                      "variant":  "4"
-                  },
+        "issue":  "4",
         "variant":  "4",
         "price":  "3.15",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -888,14 +804,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/DF-JUPITERS-LEGACY-1-MIDTOWN-EXC-CVR-2013-DHC-/161362230612?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2591f03d54\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/DF-JUPITERS-LEGACY-1-MIDTOWN-EXC-CVR-2013-DHC-/161362230612?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2591f03d54\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1MIDTOWN",
-                      "variant":  "1MIDTOWN"
-                  },
+        "issue":  "1",
         "variant":  "1MIDTOWN",
         "price":  "21.28",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -903,14 +816,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-3-CVR-B-HITCH-MR-2013-DHC-/161362236527?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2591f0546f\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-3-CVR-B-HITCH-MR-2013-DHC-/161362236527?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2591f0546f\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "3B",
-                      "variant":  "3B"
-                  },
+        "issue":  "3",
         "variant":  "3B",
         "price":  "1.8",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -918,14 +828,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-MOROCCO-OCTOBER-1932-COVER-MARK-MILLAR-IMAGE-COMICS-/171044067250?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27d30557b2\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-MOROCCO-OCTOBER-1932-COVER-MARK-MILLAR-IMAGE-COMICS-/171044067250?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27d30557b2\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1A",
-                      "variant":  "1A"
-                  },
+        "issue":  "1",
         "variant":  "1A",
         "price":  "3.49",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -933,14 +840,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-MOROCCO-OCTOBER-1932-COVER-D-MARK-MILLAR-IMAGE-COMICS-/171044067346?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27d3055812\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-MOROCCO-OCTOBER-1932-COVER-D-MARK-MILLAR-IMAGE-COMICS-/171044067346?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27d3055812\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1D",
-                      "variant":  "1D"
-                  },
+        "issue":  "1",
         "variant":  "1D",
         "price":  "3.49",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -948,14 +852,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-3-MR-2013-DHC-/171382858230?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27e736e1f6\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-3-MR-2013-DHC-/171382858230?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27e736e1f6\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "3A",
-                      "variant":  "3A"
-                  },
+        "issue":  "3",
         "variant":  "3A",
         "price":  "1.8",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -963,14 +864,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-4-CVR-QUIETLY-MR-DHC-/171382858458?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27e736e2da\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-4-CVR-QUIETLY-MR-DHC-/171382858458?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item27e736e2da\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "4A",
-                      "variant":  "4A"
-                  },
+        "issue":  "4",
         "variant":  "4A",
         "price":  "2.25",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -978,14 +876,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-COVER-C-JOHNSON-NM-M-NEW-IMAGE-/190836989636?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c6ec55ec4\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-COVER-C-JOHNSON-NM-M-NEW-IMAGE-/190836989636?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c6ec55ec4\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1C",
-                      "variant":  "1C"
-                  },
+        "issue":  "1",
         "variant":  "1C",
         "price":  "1.5",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -993,14 +888,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-3-COVER-B-NM-M-IMAGE-/191086585829?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c7da5e7e5\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-3-COVER-B-NM-M-IMAGE-/191086585829?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c7da5e7e5\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "3B",
-                      "variant":  "3B"
-                  },
+        "issue":  "3",
         "variant":  "3B",
         "price":  "2.25",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1008,14 +900,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-3-COVER-C-NM-M-IMAGE-/191086585975?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c7da5e877\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-3-COVER-C-NM-M-IMAGE-/191086585975?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c7da5e877\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "3C",
-                      "variant":  "3C"
-                  },
+        "issue":  "3",
         "variant":  "3C",
         "price":  "2.25",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1023,29 +912,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-COVER-C-MARK-MILLAR-FRANK-QUITELY-IMAGE-COMICS-NM-2013-/191458103715?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c93cad1a3\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-COVER-C-MARK-MILLAR-FRANK-QUITELY-IMAGE-COMICS-NM-2013-/191458103715?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c93cad1a3\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1C",
-                      "variant":  "1C"
-                  },
+        "issue":  "1",
         "variant":  "1C",
         "price":  "4.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Jupiters-Legacy-1-2-3-4-5-Mark-Millar-/191486903898?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c9582465a",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-2-3-4-5-Mark-Millar-/191486903898?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c9582465a\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-2-3-4-5-Mark-Millar-/191486903898?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c9582465a\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "SET",
-                      "variant":  "SET"
-                  },
-        "variant":  "SET",
-        "price":  "2.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1053,14 +924,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-COVER-D-NOTO-NM-M-NEW-IMAGE-/200919008685?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2ec7b4c5ad\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-COVER-D-NOTO-NM-M-NEW-IMAGE-/200919008685?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2ec7b4c5ad\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1D",
-                      "variant":  "1D"
-                  },
+        "issue":  "1",
         "variant":  "1D",
         "price":  "2.5",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1068,14 +936,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-COVER-D-MARK-MILLAR-FRANK-QUITELY-IMAGE-COMICS-NM-2013-/201247932126?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2edb4fbede\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-COVER-D-MARK-MILLAR-FRANK-QUITELY-IMAGE-COMICS-NM-2013-/201247932126?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2edb4fbede\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1D",
-                      "variant":  "1D"
-                  },
+        "issue":  "1",
         "variant":  "1D",
         "price":  "4.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1083,14 +948,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-COVER-A-MARK-MILLAR-FRANK-QUITELY-IMAGE-COMICS-NM-2013-/201247932129?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2edb4fbee1\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-COVER-A-MARK-MILLAR-FRANK-QUITELY-IMAGE-COMICS-NM-2013-/201247932129?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2edb4fbee1\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1A",
-                      "variant":  "1A"
-                  },
+        "issue":  "1",
         "variant":  "1A",
         "price":  "3.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1098,14 +960,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-1st-Print-Comics-/201265408478?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2edc5a69de\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-1st-Print-Comics-/201265408478?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2edc5a69de\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1A",
-                      "variant":  "1A"
-                  },
+        "issue":  "1",
         "variant":  "1A",
         "price":  "1.9",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1113,14 +972,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Near-Mint-NM-1in25-VARIANT-MODERN-AGE-COMICS-/231023248435?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35ca0f0433\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Near-Mint-NM-1in25-VARIANT-MODERN-AGE-COMICS-/231023248435?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35ca0f0433\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1E",
-                      "variant":  "1E"
-                  },
+        "issue":  "1",
         "variant":  "1E",
         "price":  "21.94",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1128,14 +984,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-2-Near-Mint-NM-CvrC-MODERN-AGE-COMICS-/231067681203?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35ccb501b3\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-2-Near-Mint-NM-CvrC-MODERN-AGE-COMICS-/231067681203?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35ccb501b3\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "2C",
-                      "variant":  "2C"
-                  },
+        "issue":  "2",
         "variant":  "2C",
         "price":  "6.49",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1143,14 +996,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-3-Near-Mint-NM-CvrA-MODERN-AGE-COMICS-/231131666832?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35d0855990\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-3-Near-Mint-NM-CvrA-MODERN-AGE-COMICS-/231131666832?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35d0855990\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "3A",
-                      "variant":  "3A"
-                  },
+        "issue":  "3",
         "variant":  "3A",
         "price":  "5.98",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1158,14 +1008,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Near-Mint-NM-CvrA-MODERN-AGE-COMICS-/231143972587?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35d1411eeb\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Near-Mint-NM-CvrA-MODERN-AGE-COMICS-/231143972587?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35d1411eeb\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1A",
-                      "variant":  "1A"
-                  },
+        "issue":  "1",
         "variant":  "1A",
         "price":  "3.25",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1173,14 +1020,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Near-Mint-NM-CvrC-MODERN-AGE-COMICS-/231143972782?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35d1411fae\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Near-Mint-NM-CvrC-MODERN-AGE-COMICS-/231143972782?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35d1411fae\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1C",
-                      "variant":  "1C"
-                  },
+        "issue":  "1",
         "variant":  "1C",
         "price":  "3.25",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1188,14 +1032,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-D-2013-Series-Signed-by-Quitely-CGC-9-8-SS-/231428540536?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e2374878\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-D-2013-Series-Signed-by-Quitely-CGC-9-8-SS-/231428540536?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e2374878\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1DCGCSIGNED",
-                      "variant":  "1DCGCSIGNED"
-                  },
+        "issue":  "1",
         "variant":  "1DCGCSIGNED",
         "price":  "55",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1203,14 +1044,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Sketch-Variant-2013-Series-Signed-by-Quitely-CGC-9-8-SS-/231451166074?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e390857a\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Sketch-Variant-2013-Series-Signed-by-Quitely-CGC-9-8-SS-/231451166074?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e390857a\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1SKETCHCGCSIGNED",
-                      "variant":  "1SKETCHCGCSIGNED"
-                  },
+        "issue":  "1",
         "variant":  "1SKETCHCGCSIGNED",
         "price":  "85",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1218,14 +1056,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-A-B-C-D-1-25-Midtown-Forbidden-Planet-Variants-/251798479022?hash=item3aa05be0ae\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-A-B-C-D-1-25-Midtown-Forbidden-Planet-Variants-/251798479022?hash=item3aa05be0ae\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "SET",
-                      "variant":  "SET"
-                  },
+        "issue":  "",
         "variant":  "SET",
         "price":  "20",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1233,14 +1068,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-3-Rare-Bryan-Hitch-Variant-Cover-Mark-Millar-Frank-Quitely-/281178305219?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item41778872c3\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-3-Rare-Bryan-Hitch-Variant-Cover-Mark-Millar-Frank-Quitely-/281178305219?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item41778872c3\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "3B",
-                      "variant":  "3B"
-                  },
+        "issue":  "3",
         "variant":  "3B",
         "price":  "3.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1248,14 +1080,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-Iss-3-Image-Comics-Released-25-09-13-/281281663823?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item417db1934f\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-Iss-3-Image-Comics-Released-25-09-13-/281281663823?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item417db1934f\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "3A",
-                      "variant":  "3A"
-                  },
+        "issue":  "3",
         "variant":  "3A",
         "price":  "2.25",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1263,14 +1092,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-Iss-3-Image-Comics-Released-25-09-13-/281550063727?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item418db1086f\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-Iss-3-Image-Comics-Released-25-09-13-/281550063727?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item418db1086f\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "3A",
-                      "variant":  "3A"
-                  },
+        "issue":  "3",
         "variant":  "3A",
         "price":  "2.25",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1278,14 +1104,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/jupiters-legacy-comic-issue1-mark-millar-/281565856820?hash=item418ea20434\"\u003ehttp://www.ebay.co.uk/itm/jupiters-legacy-comic-issue1-mark-millar-/281565856820?hash=item418ea20434\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1C",
-                      "variant":  "1C"
-                  },
+        "issue":  "1",
         "variant":  "1C",
         "price":  "0.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1293,14 +1116,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-2-Near-Mint-NM-CvrB-MODERN-AGE-COMICS-/290990393685?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43c0610955\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-2-Near-Mint-NM-CvrB-MODERN-AGE-COMICS-/290990393685?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43c0610955\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "2B",
-                      "variant":  "2B"
-                  },
+        "issue":  "2",
         "variant":  "2B",
         "price":  "6.49",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1308,14 +1128,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Near-Mint-NM-CvrB-MODERN-AGE-COMICS-/291064675257?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43c4ce7bb9\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Near-Mint-NM-CvrB-MODERN-AGE-COMICS-/291064675257?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43c4ce7bb9\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1B",
-                      "variant":  "1B"
-                  },
+        "issue":  "1",
         "variant":  "1B",
         "price":  "3.25",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1323,14 +1140,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Near-Mint-NM-CvrD-MODERN-AGE-COMICS-/291064675429?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43c4ce7c65\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Near-Mint-NM-CvrD-MODERN-AGE-COMICS-/291064675429?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43c4ce7c65\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1D",
-                      "variant":  "1D"
-                  },
+        "issue":  "1",
         "variant":  "1D",
         "price":  "3.25",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1338,14 +1152,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-4-Near-Mint-NM-CvrA-MODERN-AGE-COMICS-/291148641582?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43c9cfb52e\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-4-Near-Mint-NM-CvrA-MODERN-AGE-COMICS-/291148641582?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43c9cfb52e\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "4A",
-                      "variant":  "4A"
-                  },
+        "issue":  "4",
         "variant":  "4A",
         "price":  "5.98",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1353,14 +1164,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-Johnson-VARIANT-Cover-/310657205487?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48549cc4ef\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-Johnson-VARIANT-Cover-/310657205487?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48549cc4ef\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1C",
-                      "variant":  "1C"
-                  },
+        "issue":  "1",
         "variant":  "1C",
         "price":  "4.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1368,14 +1176,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-2-Cover-B-New-Bagged-/310695815597?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4856e9e9ad\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-2-Cover-B-New-Bagged-/310695815597?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4856e9e9ad\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "2B",
-                      "variant":  "2B"
-                  },
+        "issue":  "2",
         "variant":  "2B",
         "price":  "3.2",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1383,14 +1188,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Blank-Variant-/310715275121?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item485812d771\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Blank-Variant-/310715275121?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item485812d771\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1F",
-                      "variant":  "1F"
-                  },
+        "issue":  "1",
         "variant":  "1F",
         "price":  "5.04",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1398,14 +1200,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-Studio-Edition-New-Bagged-/310812723473?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item485de1c911\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-Studio-Edition-New-Bagged-/310812723473?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item485de1c911\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1STUDIO",
-                      "variant":  "1STUDIO"
-                  },
+        "issue":  "1",
         "variant":  "1STUDIO",
         "price":  "4.2",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1413,14 +1212,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-Quitely-FIRST-PRINT-/310852327716?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48603e1924\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-Quitely-FIRST-PRINT-/310852327716?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48603e1924\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1A",
-                      "variant":  "1A"
-                  },
+        "issue":  "1",
         "variant":  "1A",
         "price":  "4.04",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1428,14 +1224,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-2nd-Print-New-Bagged-/310874158491?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48618b359b\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-2nd-Print-New-Bagged-/310874158491?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48618b359b\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1G",
-                      "variant":  "1G"
-                  },
+        "issue":  "1",
         "variant":  "1G",
         "price":  "3.2",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1443,14 +1236,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-B-Hitch-/310923462410?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48647b870a\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-B-Hitch-/310923462410?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48647b870a\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1B",
-                      "variant":  "1B"
-                  },
+        "issue":  "1",
         "variant":  "1B",
         "price":  "3.15",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1458,14 +1248,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-COVER-B-NM-M-IMAGE-/321338099924?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ad13e48d4\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-COVER-B-NM-M-IMAGE-/321338099924?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ad13e48d4\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1B",
-                      "variant":  "1B"
-                  },
+        "issue":  "1",
         "variant":  "1B",
         "price":  "2.5",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1473,14 +1260,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-QUITELY-COVER-MARK-MILLAR-IMAGE-COMICS-FREE-UK-P-P-NEW-/331091115255?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d16917cf7\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-QUITELY-COVER-MARK-MILLAR-IMAGE-COMICS-FREE-UK-P-P-NEW-/331091115255?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d16917cf7\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1A",
-                      "variant":  "1A"
-                  },
+        "issue":  "1",
         "variant":  "1A",
         "price":  "8.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1488,14 +1272,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-4-MILLAR-QUITELY-CVR-B-IMAGE-COMICS-BOARDED-FREE-UK-P-P-/331146625112?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d19e08058\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-4-MILLAR-QUITELY-CVR-B-IMAGE-COMICS-BOARDED-FREE-UK-P-P-/331146625112?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d19e08058\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "4B",
-                      "variant":  "4B"
-                  },
+        "issue":  "4",
         "variant":  "4B",
         "price":  "3.25",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1503,14 +1284,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-STUDIO-EDITION-IMAGE-COMICS-BOARDED-FREE-UK-P-P-LAST1-/331185659929?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d1c342019\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-STUDIO-EDITION-IMAGE-COMICS-BOARDED-FREE-UK-P-P-LAST1-/331185659929?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d1c342019\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1STUDIO",
-                      "variant":  "1STUDIO"
-                  },
+        "issue":  "1",
         "variant":  "1STUDIO",
         "price":  "4.75",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1518,14 +1296,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-A-2013-Series-Signed-by-Quitely-CGC-9-8-SS-/331421871547?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2a486dbb\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-A-2013-Series-Signed-by-Quitely-CGC-9-8-SS-/331421871547?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2a486dbb\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1ACGCSIGNED",
-                      "variant":  "1ACGCSIGNED"
-                  },
+        "issue":  "1",
         "variant":  "1ACGCSIGNED",
         "price":  "55",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1533,14 +1308,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-FP-Variant-2013-SERIES-Signed-by-Quitely-CGC-9-8-SS-/331421871551?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2a486dbf\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-FP-Variant-2013-SERIES-Signed-by-Quitely-CGC-9-8-SS-/331421871551?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2a486dbf\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1FPCGCSIGNED",
-                      "variant":  "1FPCGCSIGNED"
-                  },
+        "issue":  "1",
         "variant":  "1FPCGCSIGNED",
         "price":  "70",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1548,14 +1320,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-C-2013-Series-Signed-by-Quitely-CGC-9-8-SS-/331421871555?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2a486dc3\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-Cover-C-2013-Series-Signed-by-Quitely-CGC-9-8-SS-/331421871555?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2a486dc3\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1CCGCSIGNED",
-                      "variant":  "1CCGCSIGNED"
-                  },
+        "issue":  "1",
         "variant":  "1CCGCSIGNED",
         "price":  "55",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1563,14 +1332,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-2-3-4-5-Image-Comics-Millar-Quitely-/331450955170?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2c0435a2\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-2-3-4-5-Image-Comics-Millar-Quitely-/331450955170?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2c0435a2\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "SET",
-                      "variant":  "SET"
-                  },
+        "issue":  "",
         "variant":  "SET",
         "price":  "4.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1578,14 +1344,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-COMICS-JUPITERS-LEGACY-4-MARCH-2014-1ST-PRINT-NM-/360995473516?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item540d01c86c\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-COMICS-JUPITERS-LEGACY-4-MARCH-2014-1ST-PRINT-NM-/360995473516?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item540d01c86c\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "4A",
-                      "variant":  "4A"
-                  },
+        "issue":  "4",
         "variant":  "4A",
         "price":  "3.25",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1593,14 +1356,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-NM-9-4-IMAGE-COMICS-BLANK-COVER-/361062571627?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item5411019e6b\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-NM-9-4-IMAGE-COMICS-BLANK-COVER-/361062571627?pt=UK_Books_Comics_Magazines_Comic_Magazines_ET\u0026hash=item5411019e6b\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1F",
-                      "variant":  "1F"
-                  },
+        "issue":  "1",
         "variant":  "1F",
         "price":  "3.98",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1608,14 +1368,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-Rare-Dave-Johnson-Variant-Cover-Mark-Millar-Frank-Quitely-/370806658471?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5655cc95a7\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-Rare-Dave-Johnson-Variant-Cover-Mark-Millar-Frank-Quitely-/370806658471?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5655cc95a7\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1C",
-                      "variant":  "1C"
-                  },
+        "issue":  "1",
         "variant":  "1C",
         "price":  "3.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1623,14 +1380,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-Rare-Phil-Noto-Variant-Cover-Mark-Millar-Frank-Quitely-/370806659346?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5655cc9912\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-Rare-Phil-Noto-Variant-Cover-Mark-Millar-Frank-Quitely-/370806659346?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5655cc9912\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1D",
-                      "variant":  "1D"
-                  },
+        "issue":  "1",
         "variant":  "1D",
         "price":  "3.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1638,14 +1392,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-4-Image-Comics-Mar-2014-MARK-MILLAR-FRANK-QUITELY-/380937405138?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b1a382d2\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-4-Image-Comics-Mar-2014-MARK-MILLAR-FRANK-QUITELY-/380937405138?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b1a382d2\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "4B",
-                      "variant":  "4B"
-                  },
+        "issue":  "4",
         "variant":  "4B",
         "price":  "2.1",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1653,14 +1404,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CGC-SIGNATURE-SERIES-9-8-JUPITERS-LEGACY-1-SIGNED-BY-FRANK-QUITELY-/381078715390?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58ba0fbbfe\"\u003ehttp://www.ebay.co.uk/itm/CGC-SIGNATURE-SERIES-9-8-JUPITERS-LEGACY-1-SIGNED-BY-FRANK-QUITELY-/381078715390?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58ba0fbbfe\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1BCGCSIGNED",
-                      "variant":  "1BCGCSIGNED"
-                  },
+        "issue":  "1",
         "variant":  "1BCGCSIGNED",
         "price":  "40",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1668,14 +1416,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-Image-Comics-Second-Print-/390787664362?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5afcc289ea\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-1-Image-Comics-Second-Print-/390787664362?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5afcc289ea\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1G",
-                      "variant":  "1G"
-                  },
+        "issue":  "1",
         "variant":  "1G",
         "price":  "4.95",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1683,14 +1428,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-GIANT-SIZED-1-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-LAST-1-/390827971866?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5aff29951a\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-GIANT-SIZED-1-IMAGE-COMICS-BOARDED-FREE-UK-P-P-NEW-LAST-1-/390827971866?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5aff29951a\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1GIANT",
-                      "variant":  "1GIANT"
-                  },
+        "issue":  "1",
         "variant":  "1GIANT",
         "price":  "4.99",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1698,14 +1440,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Jupiters-Legacy-1-NM-13-Miller-Quitely-Studio-Edition-/390995759022?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5b0929cfae\"\u003ehttp://www.ebay.co.uk/itm/Jupiters-Legacy-1-NM-13-Miller-Quitely-Studio-Edition-/390995759022?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5b0929cfae\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "1STUDIO",
-                      "variant":  "1STUDIO"
-                  },
+        "issue":  "1",
         "variant":  "1STUDIO",
         "price":  "3.49",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1713,14 +1452,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/JUPITERS-LEGACY-2-NM-IMAGE-BY-MARK-MILLAR-AND-FRANK-QUITELY-/391032399059?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5b0b58e4d3\"\u003ehttp://www.ebay.co.uk/itm/JUPITERS-LEGACY-2-NM-IMAGE-BY-MARK-MILLAR-AND-FRANK-QUITELY-/391032399059?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5b0b58e4d3\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "2A",
-                      "variant":  "2A"
-                  },
+        "issue":  "2",
         "variant":  "2A",
         "price":  "1.49",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1728,14 +1464,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-COMICS-JUPITERS-LEGACY-5-JANUARY-2015-VARIANT-A-NM-/400844963753?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d5438bfa9\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-COMICS-JUPITERS-LEGACY-5-JANUARY-2015-VARIANT-A-NM-/400844963753?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d5438bfa9\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "5A",
-                      "variant":  "5A"
-                  },
+        "issue":  "5",
         "variant":  "5A",
         "price":  "4.95",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1743,14 +1476,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-COMICS-JUPITERS-LEGACY-5-JANUARY-2015-VARIANT-B-NM-/400844964045?hash=item5d5438c0cd\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-COMICS-JUPITERS-LEGACY-5-JANUARY-2015-VARIANT-B-NM-/400844964045?hash=item5d5438c0cd\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "5B",
-                      "variant":  "5B"
-                  },
+        "issue":  "5",
         "variant":  "5B",
         "price":  "4.95",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
     },
     {
@@ -1758,39 +1488,12 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-COMICS-JUPITERS-LEGACY-5-JANUARY-2015-VARIANT-C-NM-/400844964244?hash=item5d5438c194\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-COMICS-JUPITERS-LEGACY-5-JANUARY-2015-VARIANT-C-NM-/400844964244?hash=item5d5438c194\u003c/a\u003e",
         "orderdate":  null,
         "title":  "JUPITERS LEGACY",
-        "issue":  {
-                      "cover":  "5C",
-                      "variant":  "5C"
-                  },
+        "issue":  "5",
         "variant":  "5C",
         "price":  "4.95",
-        "currency":  "pounds",
-        "rundate":  "19-1-2015",
+        "currency":  "?",
+        "rundate":  "20-1-2015",
         "site":  "Auction"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=871_1906\u0026products_id=91844\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=871_1906\u0026products_id=91844\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=871_1906\u0026products_id=91844\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "JUPITERS LEGACY",
-        "issue":  "5",
-        "variant":  "JUPITERS LEGACY #5 CVR A QUITELY (RES) [(W) Mark Millar (A/CA) Frank Quitely]",
-        "price":  4.00,
-        "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:32 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=871_1906\u0026products_id=91845\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=871_1906\u0026products_id=91845\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=871_1906\u0026products_id=91845\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "JUPITERS LEGACY",
-        "issue":  "5",
-        "variant":  "JUPITERS LEGACY #5 CVR B HITCH (RES) ( [(W) Mark Millar (A) Frank Quitely (CA) Bryan Hitch]",
-        "price":  4.00,
-        "currency":  "?",
-        "rundate":  "Mon Jan 19 2015 23:20:32 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
     },
     {
         "link":  "http://www.tfaw.com/Profile/DF-Jupiters-Legacy-1-Midtown-Exc-Cover___426143",
@@ -1800,8 +1503,8 @@
         "issue":  "DF",
         "variant":  "DF 1 MIDTOWN EXC COVER",
         "price":  23.99,
-        "currency":  "$",
-        "rundate":  "Mon Jan 19 2015 23:20:36 GMT+0000 (UTC)",
+        "currency":  "`$",
+        "rundate":  "Tue Jan 20 2015 19:02:48 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1812,8 +1515,8 @@
         "issue":  "1",
         "variant":  "1 (COVER B - HITCH)",
         "price":  2.39,
-        "currency":  "$",
-        "rundate":  "Mon Jan 19 2015 23:20:36 GMT+0000 (UTC)",
+        "currency":  "`$",
+        "rundate":  "Tue Jan 20 2015 19:02:48 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1824,8 +1527,8 @@
         "issue":  "1",
         "variant":  "1 (COVER C - JOHNSON)",
         "price":  2.39,
-        "currency":  "$",
-        "rundate":  "Mon Jan 19 2015 23:20:36 GMT+0000 (UTC)",
+        "currency":  "`$",
+        "rundate":  "Tue Jan 20 2015 19:02:48 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1836,8 +1539,8 @@
         "issue":  "1",
         "variant":  "1 (COVER D - NOTO)",
         "price":  2.39,
-        "currency":  "$",
-        "rundate":  "Mon Jan 19 2015 23:20:36 GMT+0000 (UTC)",
+        "currency":  "`$",
+        "rundate":  "Tue Jan 20 2015 19:02:48 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1848,8 +1551,8 @@
         "issue":  "1",
         "variant":  "1 (RETAILER 25 COPY INCENTIVE VARIANT COVER EDITION)",
         "price":  11.99,
-        "currency":  "$",
-        "rundate":  "Mon Jan 19 2015 23:20:36 GMT+0000 (UTC)",
+        "currency":  "`$",
+        "rundate":  "Tue Jan 20 2015 19:02:48 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1860,8 +1563,8 @@
         "issue":  "4",
         "variant":  "4 (COVER B - HITCH)",
         "price":  1.79,
-        "currency":  "$",
-        "rundate":  "Mon Jan 19 2015 23:20:36 GMT+0000 (UTC)",
+        "currency":  "`$",
+        "rundate":  "Tue Jan 20 2015 19:02:48 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1872,8 +1575,8 @@
         "issue":  "4",
         "variant":  "4 (COVER C - MCQUE)",
         "price":  1.79,
-        "currency":  "$",
-        "rundate":  "Mon Jan 19 2015 23:20:36 GMT+0000 (UTC)",
+        "currency":  "`$",
+        "rundate":  "Tue Jan 20 2015 19:02:48 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1884,8 +1587,8 @@
         "issue":  "5",
         "variant":  "5 (COVER A - QUITELY)",
         "price":  4.49,
-        "currency":  "$",
-        "rundate":  "Mon Jan 19 2015 23:20:36 GMT+0000 (UTC)",
+        "currency":  "`$",
+        "rundate":  "Tue Jan 20 2015 19:02:48 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1896,8 +1599,8 @@
         "issue":  "5",
         "variant":  "5 (COVER B - HITCH)",
         "price":  4.49,
-        "currency":  "$",
-        "rundate":  "Mon Jan 19 2015 23:20:36 GMT+0000 (UTC)",
+        "currency":  "`$",
+        "rundate":  "Tue Jan 20 2015 19:02:48 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1908,8 +1611,8 @@
         "issue":  "5",
         "variant":  "5 (COVER C - FEGREDO)",
         "price":  4.49,
-        "currency":  "$",
-        "rundate":  "Mon Jan 19 2015 23:20:36 GMT+0000 (UTC)",
+        "currency":  "`$",
+        "rundate":  "Tue Jan 20 2015 19:02:48 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1920,8 +1623,8 @@
         "issue":  "STUDIO",
         "variant":  "STUDIO ED 1",
         "price":  3.99,
-        "currency":  "$",
-        "rundate":  "Mon Jan 19 2015 23:20:36 GMT+0000 (UTC)",
+        "currency":  "`$",
+        "rundate":  "Tue Jan 20 2015 19:02:48 GMT+0000 (UTC)",
         "site":  "TFAW"
     },
     {
@@ -1932,7 +1635,7 @@
         "issue":  "1",
         "variant":  "6",
         "price":  "5.00",
-        "rundate":  "Mon Jan 19 2015 23:20:40 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:54 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1943,7 +1646,7 @@
         "issue":  "1 25 Copy Black And White Incentive",
         "variant":  "1",
         "price":  "24.99",
-        "rundate":  "Mon Jan 19 2015 23:20:40 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:54 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1954,7 +1657,7 @@
         "issue":  "1 Studio Edition",
         "variant":  "1",
         "price":  "4.50",
-        "rundate":  "Mon Jan 19 2015 23:20:40 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:54 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1965,7 +1668,7 @@
         "issue":  "4",
         "variant":  "2",
         "price":  "2.20",
-        "rundate":  "Mon Jan 19 2015 23:20:40 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:54 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1976,7 +1679,7 @@
         "issue":  "5",
         "variant":  "3",
         "price":  "4.50",
-        "rundate":  "Mon Jan 19 2015 23:20:40 GMT+0000 (UTC)",
+        "rundate":  "Tue Jan 20 2015 19:02:54 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     }
 ]
