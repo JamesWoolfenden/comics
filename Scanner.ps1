@@ -57,6 +57,17 @@ function get-market
 #retrieve data
 get-dcbs
 
+#load all unique title objects from Json file
+$searches=(Get-Content "$PSScriptRoot\search-data.json") -join "`n" |ConvertFrom-Json
+$searches=$searches|Select-Object title -unique
+Write-Host "$(Get-Date) - Found $($searches.count)"
+
+foreach ($record in searches)
+{
+   
+   get-market -title "THE WALKING DEAD" -productcode "2140" -alttitle "WALKING DEAD"
+}
+
 get-market -title "THE WALKING DEAD" -productcode "2140" -alttitle "WALKING DEAD"
 get-market -title "MANIFEST DESTINY" -productcode "16670"
 get-market -title "SEX CRIMINALS" -productcode "16547"

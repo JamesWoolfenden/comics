@@ -1,4 +1,8 @@
-fix tfaw data
-merge both data sets, show verfied data from db
-add search terms - tfaw
+fix tfaw datasn add filters from jasondata file
 paging on other apis
+graphing for slice data
+pivots for graphs and grids
+
+better finding and processing of input data- reduce manual intervention
+add/create buying/sniping tool for ebay
+add predicted sale price for auctions when data input processed.

@@ -1,5 +1,5 @@
 
-function make-searchdata
+function Make-SearchData
 {<#
       .SYNOPSIS 
     Given some string properties this returns a search csutom object             
@@ -23,14 +23,15 @@ function make-searchdata
    [string[]]$include=$null,
    [string[]]$exclude=$null,
    [string]$comictitle=$null,
+   [string]$productcode=$null,
    [string[]]$category="8077",
    [Boolean]$Enabled=$true
    )
    
-   New-Object PSObject -Property @{title=$title;include=$include;exclude=$exclude;comictitle=$comictitle;category=$category;Enabled=$Enabled}
+   New-Object PSObject -Property @{title=$title;include=$include;exclude=$exclude;comictitle=$comictitle;productcode=$productcode;category=$category;Enabled=$Enabled}
 }
 
-function add-searchdata
+function Add-SearchData
 {<#
       .SYNOPSIS 
     Adds an item to the scan search db	       
@@ -56,17 +57,18 @@ function add-searchdata
    [string]$include,
    [string]$exclude,
    [string]$comictitle,
+   [string]$productcode,
    [string]$category,
    [Boolean]$Enabled
    )
 
    $datafile="$PSScriptRoot\search-data.json"
    $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
-   $searches+=make-searchdata -title "$($title.ToUpper())" -exclude "$exclude" -include "$include" -comictitle $comictitle -category $category -Enabled $Enabled
+   $searches+=make-searchdata -title "$($title.ToUpper())" -exclude "$exclude" -include "$include" -comictitle $comictitle -productcode $productcode -category $category -Enabled $Enabled
    $searches|Sort-Object title| ConvertTo-Json -depth 999 | Out-File "$datafile"
 }
 
-function set-searchdata
+function Set-SearchData
 {  
   <#
       .SYNOPSIS 
@@ -96,6 +98,7 @@ function set-searchdata
    [string]$include,
    [string]$exclude,
    [string]$comictitle,
+   [string]$productcode,
    [string]$category,
    [switch]$Enabled,
    [switch]$Disabled
@@ -115,6 +118,11 @@ function set-searchdata
    if ($Disabled)
    {
       $searches[$index].Enabled=$false
+   }
+   
+   if($productcode) 
+   {
+     $searches[$index].productcode+=$productcode
    }
 
    if ($category)
@@ -140,7 +148,7 @@ function set-searchdata
    $searches| ConvertTo-Json -depth 999 | Out-File "$datafile"
 }
 
-function get-searchdata
+function Get-SearchData
 {
    <#
       .SYNOPSIS 
@@ -163,3 +171,35 @@ function get-searchdata
 
    $searches[$index]
 }   
+
+function Remove-SearchData
+{
+   <#
+      .SYNOPSIS 
+       Removes a search object data when given its title
+	       
+      .PARAMETER title
+	Specifies the comic title.
+      .EXAMPLE
+      C:\PS> Remove-searchdata -title "The Walking Dead" 
+     
+   #>
+
+   throw "Function not implemented"
+}
+
+function Delete-SearchData
+{
+   <#
+      .SYNOPSIS 
+       Removes a complete search object when given its title
+	       
+      .PARAMETER title
+	Specifies the comic title.
+      .EXAMPLE
+      C:\PS> Delete-SearchData -title "The Walking Dead" 
+     
+   #>
+
+   throw "Function not implemented"
+}
