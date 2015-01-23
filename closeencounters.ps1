@@ -2,7 +2,9 @@ import-module "$PSScriptRoot\core.ps1" -force
 
 function get-closeencountersdata
 {
-   param ([string]$title="The Walking Dead")
+   param (
+   [Parameter(Mandatory=$true)]
+   [PSObject]$record)
 
 #Parameter 	Default value 	Parameter to append
 #kimpath1 	index.php 	&kimpath1=newvalue
@@ -10,14 +12,15 @@ function get-closeencountersdata
 #kimpath3 	result 	&kimpath3=newvalue
 #cat 	0 	&cat=newvalue
 #name 	manifest+destiny 	&name=newvalue
-   $title=$title.ToUpper()
+   $title=$record.title.ToUpper()
    $comic=$title.replace(" ","+")
    $search="&name=$comic"
    $site="Close Encounters"
    $fullfilter=$search+"&limit=30"
    $url="http://www.kimonolabs.com/api/9u9wvzya?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+
    write-debug "Accessing $url"
-   write-Host "Looking for $title @ `"$site`""
+   write-Host "$(Get-Date) - Looking for $($record.title) @ `"$site`""
 
 <# Postage
    1X  x x
@@ -115,6 +118,6 @@ function get-closeencountersdata
       $counter++
    }
    
-   write-host "Record $counter"
+   write-host "$(Get-Date) - Record $counter"
    $closeecounters 
 }

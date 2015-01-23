@@ -2,21 +2,26 @@ import-module "$PSScriptRoot\core.ps1" -force
 
 function get-comicbizdata
 {
-   param ([string]$title="The Walking Dead")
+   param (
+   [Parameter(Mandatory=$true)]
+   [PSObject]$record)
 
-<#Parameter 	Default value 	Parameter to append
-kimpath1 	index.php 	&kimpath1=newvalue
-route 	product/search 	&route=newvalue
-filter_name 	walking%20dead 	&filter_name=newvalue
-#>
-   $title=$title.ToUpper()
+   if ($record.comictitle)
+   {
+      $title=$record.comictitle.ToUpper()
+   }
+   else
+   {
+      $title=$record.title.ToUpper()
+   }
+   
    $comic=$title.replace(" ","%20")
    $search="&filter_name=$comic"
    $fullfilter=$search
    $site="The Comic Biz Store"
    $url="http://www.kimonolabs.com/api/b1efn3xu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-debug "Accessing $url"
-   write-Host "Looking for $title @ `"$site`""
+   write-Host "$(Get-Date) - Looking for $title @ `"$site`""
   
 <# Postage
    1X  x x

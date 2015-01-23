@@ -13,35 +13,21 @@ import-Module "$PSScriptRoot\dcbs.ps1" -force
 function get-market
 {
    param(
+   [Parameter(Mandatory=$true)]
    [Psobject]$record)
    
    $allrecords=@()
    $filetitle=$record.title.replace(" ","")
   
+   $allrecords+=get-dcbsdata -record $record
    $allrecords+=get-dhdata -title $record.title
-   $allrecords+=get-closeencountersdata -title $record.title 
+   $allrecords+=get-closeencountersdata -record $record 
    $allrecords+=get-fpdata  -title $record.title  
    $allrecords+=get-reeddata -title $record.title 
-   $allrecords+=get-auctiondata -title $record.title
-   #$allrecords+=get-comicbizdata -title $record.title 
-
-   if ($record.comictitle)
-   {
-      write-Host "Using Alternative title $($record.comictitle)"
-      $allrecords+=get-comicbookshopdata  -title $record.comictitle
-      #$allrecords+=get-comicbookstoredata -title $record.comictitle
-      $allrecords+=get-tfawdata -title $record.comictitle
-      $allrecords+=get-comicbizdata -title $record.comictitle 
-      $allrecords+=get-dcbsdata -title $record.comictitle
-   }
-   else
-   {
-      write-Host "Using Original title $($record.title)"
-      $allrecords+=get-comicbookshopdata  -title $record.title
-      #$allrecords+=get-comicbookstoredata -title  $record.title 
-      $allrecords+=get-tfawdata -title $record.title
-      $allrecords+=get-dcbsdata -title $record.title  
-   }
+   $allrecords+=get-auctiondata -record $record
+   $allrecords+=get-comicbizdata -record $record
+   $allrecords+=get-comicbookshopdata -record $record
+   $allrecords+=get-tfawdata -record $record
    
    If ($record.productcode -ne "")
    {

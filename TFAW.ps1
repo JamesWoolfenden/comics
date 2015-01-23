@@ -4,7 +4,7 @@ function get-tfawdata
 {
    param (
       [Parameter(Mandatory=$true)]
-      [string]$title="Walking Dead")
+      [PSObject]$record)
  
   <#
    .SYNOPSIS 
@@ -31,7 +31,16 @@ function get-tfawdata
 #>   
 
    $limit=100
-   $title=$title.ToUpper()
+   
+   if ($record.comictitle)
+   {
+      $title=$record.comictitle.ToUpper()
+   }
+   else
+   {
+      $title=$record.title.ToUpper()
+   }
+
    $comic=$title.replace(" ","%2B")
    $kimpath2="_results_limit_search=$limit"
    $kimpath4="_results_sstring_search=$comic"
@@ -41,31 +50,31 @@ function get-tfawdata
    
    $site="TFAW"
 
-   write-host "$(Get-Date) Looking for $title @ `"$site`""
+   write-host "$(Get-Date) - Looking for $title @ `"$site`""
 
-do
-{
-   write-debug "$(get-date) - Count $($kimpath5.ToString())"
-   $search="&kimpath2=$kimpath2&kimpath4=$kimpath4&kimpath5=_results_start_at_search=$($kimpath5.ToString())"
-
-   $fullfilter=$search
-   $url="https://www.kimonolabs.com/api/7fuasgeu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-debug "$(Get-Date) Accessing $url"
-  
-   $tfawresults=Invoke-RestMethod -Uri $url
-   if ($tfawresults.lastrunstatus -eq "failure")
+   do
    {
-     $tfawresults=$null
-     break
-   }
-   
-   $results+=$tfawresults.results.collection1|where {$_.title.text -like "*$title*"}
-   $kimpath5+=$limit
-}
-while($tfawresults.results.collection1.count -eq $limit)
+      write-debug "$(get-date) - Count $($kimpath5.ToString())"
+      $search="&kimpath2=$kimpath2&kimpath4=$kimpath4&kimpath5=_results_start_at_search=$($kimpath5.ToString())"
 
-$tfaw=@()
-$counter=0
+      $fullfilter=$search
+      $url="https://www.kimonolabs.com/api/7fuasgeu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+      write-debug "$(Get-Date) Accessing $url"
+  
+      $tfawresults=Invoke-RestMethod -Uri $url
+      if ($tfawresults.lastrunstatus -eq "failure")
+      {
+         $tfawresults=$null
+         break
+      }
+   
+      $results+=$tfawresults.results.collection1|where {$_.title.text -like "*$title*"}
+      $kimpath5+=$limit
+   }
+   while($tfawresults.results.collection1.count -eq $limit)
+
+   $tfaw=@()
+   $counter=0
 
    switch ($results -is [system.array] )
    {
