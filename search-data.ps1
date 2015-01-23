@@ -20,8 +20,8 @@ function Make-SearchData
    #>
    Param(
    [string]$title,
-   [string[]]$include=$null,
-   [string[]]$exclude=$null,
+   [string[]]$include=@(),
+   [string[]]$exclude=@(),
    [string]$comictitle=$null,
    [string]$productcode=$null,
    [string[]]$category="8077",
