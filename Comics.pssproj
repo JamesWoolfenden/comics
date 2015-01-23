@@ -62,7 +62,7 @@
     <Compile Include="search-data.json" />
     <Compile Include="search-data.ps1" />
     <Compile Include="show-image.ps1" />
-    <Compile Include="Slice.ps1" />
+    <Compile Include="slice.ps1" />
     <Compile Include="split-set.ps1" />
     <Compile Include="sql\ChangeIssue.sql" />
     <Compile Include="sql\math.sql" />

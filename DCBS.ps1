@@ -1,5 +1,7 @@
 
 import-module "$PSScriptRoot\core.ps1" -force
+import-module "$PSScriptRoot\xrates.ps1" -force
+
 
 function get-dcbs
 {
@@ -19,8 +21,13 @@ function get-dcbs
 
 function get-dcbsdata
 {
-   param([string]$title)
-
+   param(
+   [Parameter(Mandatory=$true)]
+   [PSObject]$Record)
+   
+   $title=$Record.title.ToUpper()
+   $dollarrate=get-gbpdollarrate
+   
    $dcbsdata=(Get-Content "$PSScriptRoot\data\dcbs\latest.json") -join "`n" | ConvertFrom-Json
    
    $results=$dcbsdata|where{$_.title.text -match "$title"}|select -uniq
@@ -61,12 +68,14 @@ function get-dcbsdata
       {
          $issue=$variant
       }
+       
+	  $price=[decimal]$price*$dollarrate
 
       $record| Add-Member -type NoteProperty -name title    -value $title
       $record| Add-Member -type NoteProperty -name issue    -value $issue
       $record| Add-Member -type NoteProperty -name variant  -value $variant
-      $record| Add-Member -type NoteProperty -name price    -value $price
-      $record| Add-Member -type NoteProperty -name currency -value '$'
+      $record| Add-Member -type NoteProperty -name price    -value ("{0:N2}" -f $price)
+      $record| Add-Member -type NoteProperty -name currency -value '£'
       $record| Add-Member -type NoteProperty -name rundate  -value $(datestring)
       $record| Add-Member -type NoteProperty -name site     -value "DCBS"
 
@@ -75,6 +84,6 @@ function get-dcbsdata
       $counter++
    }
   
-   write-host "Record $counter"
+   write-host "$(Get-Date) - Found $counter"
    $dcbs
 }

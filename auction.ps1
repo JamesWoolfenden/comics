@@ -5,10 +5,10 @@ function get-auctiondata
 {
    param(
    [Parameter(Mandatory=$true)]
-   [string]$title)
+   [PSObject]$record)
    
-   $results=query-db -wherestring "where title='$title' and status='verified'"
-   write-Host "Looking for $title @ Auctions"
+   $results=query-db -wherestring "where title='$($record.title)' and status='verified'"
+   write-Host "$(Get-Date) - Looking for $($record.title) @ Auctions"
 
    $counter=0
    $auction=@()

@@ -59,7 +59,7 @@ function Add-SearchData
    [string]$comictitle,
    [string]$productcode,
    [string]$category,
-   [Boolean]$Enabled
+   [switch]$Enabled
    )
 
    $datafile="$PSScriptRoot\search-data.json"

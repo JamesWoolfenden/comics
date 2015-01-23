@@ -2,16 +2,24 @@ import-module "$PSScriptRoot\core.ps1" -force
 
 function get-comicbookshopdata
 {
-   param ([string]$title="Walking Dead")
+   param ([PSObject]$record)
 
-   $title=$title.ToUpper()
+   if ($record.comictitle)
+   {
+      $title=$record.comictitle.ToUpper()
+   }
+   else
+   {
+      $title=$record.title.ToUpper()
+   }
+   
    $comic=$title.replace(" ","+")
    $search="&keyword=$comic"
    $site="Comic book shop"
    $fullfilter=$search
    $url="http://www.kimonolabs.com/api/azk3oj0y?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-debug "Accessing $url"
-   write-Host "Looking for $title @ `"$site`""
+   write-Host "$(Get-Date) - Looking for $title @ `"$site`""
   
 <# Postage
    1X  x x
@@ -106,6 +114,6 @@ function get-comicbookshopdata
       $counter++
    }
 
-   write-host "Record $counter" 
+   write-host "$(Get-Date) - Found $counter" 
    $comicbookshop
 }
