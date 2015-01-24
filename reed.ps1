@@ -2,8 +2,9 @@ import-module "$PSScriptRoot\core.ps1" -force
 
 function get-reeddata
 {
-   param (
-   [string]$title="The Walking Dead")
+   param (   
+   [Parameter(Mandatory=$true)]
+   [PSObject]$record)
 
    #Parameter 	Default value 	Parameter to append
    #kimpath1 	advanced_search_result.php 	&kimpath1=newvalue
@@ -11,14 +12,14 @@ function get-reeddata
    #sort 	2a 	&sort=newvalue
    #listing 	1000 	&listing=newvalue
    #osCsid 	pv7c5rk4j1u0p83fpanlr1oc63 	&osCsid=newvalue
-   $title=$title.ToUpper()
+   $title=$record.title.ToUpper()
    $comic=$title.replace(" ","%20")
    $search="&keywords=$comic"
    $site="Reed Comics"
    $fullfilter=$search
    $url="http://www.kimonolabs.com/api/b1awm6nu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-debug "Accessing $url"
-   write-Host "Looking for $title @ `"$site`""
+   write-Host "$(Get-Date) - Looking for $title @ `"$site`""
 
 <# Postage
    1X  x x
@@ -37,6 +38,7 @@ function get-reeddata
    $reedresults=Invoke-RestMethod -Uri $url
    if ($reedresults.lastrunstatus -eq "failure")
    {
+      write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
       return $null
    }
 
@@ -46,36 +48,16 @@ function get-reeddata
    $results=$results| where {$_.price -ne ""}
    $results=$results| where {$_.title.text -notmatch "novel"}
    $results=$results| where {$_.title.text -notmatch "Volume"}
-
-   switch ($results -is [system.array] )
-   {
-      $NULL 
-      {
-         return $NULL 
-      }
-      $true
-      {
-         #do nothing
-      }
-      $false 
-      {
-         $results = $results | Add-Member @{count="1"} -PassThru
-      }
-      default
-      {
-         return $NULL
-      }
-   }
    
-   While($counter -ne $results.count)
+   foreach ($result in $results)
    {
       $record= New-Object System.Object
-      $url="<a href=`"$($results[$counter].cover.href)`">$($results[$counter].cover.href)</a>"
+      $url="<a href=`"$($result.cover.href)`">$($result.cover.href)</a>"
   
-      $record| Add-Member -type NoteProperty -name link -value $results[$counter].cover.href
+      $record| Add-Member -type NoteProperty -name link -value $result.cover.href
       $record| Add-Member -type NoteProperty -name url -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
-      $temp=($results[$counter].cover.alt).ToUpper()
+      $temp=($result.cover.alt).ToUpper()
       $temp=$temp.split("#")
       if ($temp.count -eq 1)
       {
@@ -90,9 +72,8 @@ function get-reeddata
          $issue=$temp[1].split(" ")[0]
       }
       
-      $price=get-price -price $results[$counter].price
+      $price=get-price -price $result.price
 
-      
       $record| Add-Member -type NoteProperty -name title -value $newtitle
       $record| Add-Member -type NoteProperty -name issue -value $issue
       $record| Add-Member -type NoteProperty -name variant -value $variant
@@ -105,6 +86,6 @@ function get-reeddata
       $counter++
    }
    
-   write-host "Record $counter"
+   write-host "$(Get-Date) - Found $counter"
    $reed
 }

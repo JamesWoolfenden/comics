@@ -9,6 +9,7 @@ import-Module "$PSScriptRoot\disposableheroes.ps1" -force
 import-Module "$PSScriptRoot\comicbiz.ps1" -force
 import-Module "$PSScriptRoot\tfaw.ps1" -force
 import-Module "$PSScriptRoot\dcbs.ps1" -force
+import-Module "$PSScriptRoot\midtown.ps1" -force
 
 function get-market
 {
@@ -28,6 +29,7 @@ function get-market
    $allrecords+=get-comicbizdata -record $record
    $allrecords+=get-comicbookshopdata -record $record
    $allrecords+=get-tfawdata -record $record
+   $allrecords+=get-midtowndata -record $record
    
    If ($record.productcode -ne "")
    {
@@ -42,7 +44,7 @@ get-dcbs
 
 #load all unique title objects from Json file
 $searches=(Get-Content "$PSScriptRoot\search-data.json") -join "`n" |ConvertFrom-Json
-$searches=$searches|Select-Object title -unique
+#$searches=$searches|sort -Unique title
 Write-Host "$(Get-Date) - Found $($searches.count)"
 
 foreach ($record in $searches)
