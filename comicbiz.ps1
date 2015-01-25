@@ -40,6 +40,7 @@ function get-comicbizdata
    $cbsresults=Invoke-RestMethod -Uri $url
    if ($cbsresults.lastrunstatus -eq "failure")
    {
+      write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
       return $null
    }
    
@@ -90,7 +91,7 @@ function get-comicbizdata
       $counter++
    }
 
-   write-host "Record $counter"
+   write-host "$(Get-Date) - Record $counter"
    $comicbiz 
 }
 

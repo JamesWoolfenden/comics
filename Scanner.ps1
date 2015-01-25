@@ -10,6 +10,7 @@ import-Module "$PSScriptRoot\comicbiz.ps1" -force
 import-Module "$PSScriptRoot\tfaw.ps1" -force
 import-Module "$PSScriptRoot\dcbs.ps1" -force
 import-Module "$PSScriptRoot\midtown.ps1" -force
+import-Module "$PSScriptRoot\intercomics.ps1" -force
 
 function get-market
 {
@@ -21,16 +22,17 @@ function get-market
    $filetitle=$record.title.replace(" ","")
   
    $allrecords+=get-dcbsdata -record $record
-   $allrecords+=get-dhdata -title $record.title
+   $allrecords+=get-dhdata -record $record
    $allrecords+=get-closeencountersdata -record $record 
-   $allrecords+=get-fpdata  -title $record.title  
-   $allrecords+=get-reeddata -title $record.title 
+   $allrecords+=get-fpdata  -record $record  
+   $allrecords+=get-reeddata -record $record
    $allrecords+=get-auctiondata -record $record
    $allrecords+=get-comicbizdata -record $record
    $allrecords+=get-comicbookshopdata -record $record
    $allrecords+=get-tfawdata -record $record
    $allrecords+=get-midtowndata -record $record
-   
+   $allrecords+=get-intercomicsdata -record $record
+
    If ($record.productcode -ne "")
    {
       $allrecords+=get-gurudata -title $record.title -productcode $record.productcode

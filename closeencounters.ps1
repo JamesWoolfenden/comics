@@ -40,6 +40,7 @@ function get-closeencountersdata
    
    if ($ceresults.lastrunstatus -eq "failure")
    {
+      write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
       return $null
    }
 

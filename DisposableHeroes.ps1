@@ -4,7 +4,8 @@ import-module "$PSScriptRoot\core.ps1" -force
 function get-dhdata
 {
    param (
-   [string]$title="Walking Dead")
+   [Parameter(Mandatory=$true)]
+   [PSObject]$Record)
 
 #Parameter 	Default value 	Parameter to append
 #kimpath1 	index.php 	&kimpath1=newvalue
@@ -15,13 +16,13 @@ function get-dhdata
 #min_price 		&min_price=newvalue
 #max_price 		&max_price=newvalue
 #submit 	Search 	&submit=newvalue
-   $title=$title.ToUpper()
+   $title=$Record.title.ToUpper()
    $comic=$title.replace(" ","+")
    $fullfilter="&name=$comic"
    $site="Disposable Heroes"
    $url="http://www.kimonolabs.com/api/aaaaq44g?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-debug "Accessing $url"
-   write-Host "Looking for $title @ `"$site`""
+   write-Host "$(Get-Date) - Looking for $title @ `"$site`""
 
 <# Postage
    1X  £1.00  1.00
@@ -40,6 +41,7 @@ function get-dhdata
    $dhresults=Invoke-RestMethod -Uri $url
    if ($dhresults.lastrunstatus -eq "failure")
    {
+      write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
       return $null
    }
    
@@ -48,37 +50,17 @@ function get-dhdata
    $counter=0
    $dh=@()
 
-   switch ($results -is [system.array] )
-   {
-      $NULL 
-      {
-         return $NULL 
-      }
-      $true
-      {
-         #do nothing
-      }
-      $false 
-      {
-         $results = $results | Add-Member @{count="1"} -PassThru
-      }
-      default
-      {
-         return $NULL
-      }
-   }
-
-   While($counter -ne $results.count)
+   Foreach($result in $results)
    {
       $record= New-Object System.Object
-      $url="<a href=`"$($results[$counter].title.href)`">$($results[$counter].title.href)</a>"
-      $record| Add-Member -type NoteProperty -name link -value $results[$counter].title.href
+      $url="<a href=`"$($result.title.href)`">$($result.title.href)</a>"
+      $record| Add-Member -type NoteProperty -name link -value $result.title.href
       $record| Add-Member -type NoteProperty -name url -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $null
       $record| Add-Member -type NoteProperty -name title -value $title
 
-      $issue=get-issue -rawissue $results[$counter].title.text
-      $temp=$results[$counter].price
+      $issue=get-issue -rawissue $result.title.text
+      $temp=$result.price
 
       if ( ($temp.split("`n")).count -gt 1)
       {
@@ -86,7 +68,7 @@ function get-dhdata
       }
       else
       {
-         $price=get-price -price $results[$counter].price
+         $price=get-price -price $result.price
       }
        
       $record| Add-Member -type NoteProperty -name issue -value $issue.cover
@@ -100,6 +82,6 @@ function get-dhdata
       $counter++
    }
    
-   write-host "Record $counter"
+   write-host "$(Get-Date) - Found $counter"
    $dh
 }
