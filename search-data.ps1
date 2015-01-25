@@ -28,7 +28,7 @@ function Make-SearchData
    [Boolean]$Enabled=$true
    )
    
-   New-Object PSObject -Property @{title=$title;include=$include;exclude=$exclude;comictitle=$comictitle;productcode=$productcode;category=$category;Enabled=$Enabled}
+   New-Object PSObject -Property @{title=$title;include=[string[]]$include;exclude=[string[]]$exclude;comictitle=$comictitle;productcode=$productcode;category=[string[]]$category;Enabled=$Enabled}
 }
 
 function Add-SearchData
@@ -132,6 +132,10 @@ function Set-SearchData
 
    if($exclude) 
    {
+     if ($searches[$index].Exclude -is [string])
+     {
+        
+     }
      $searches[$index].Exclude+=$exclude
    }
 
