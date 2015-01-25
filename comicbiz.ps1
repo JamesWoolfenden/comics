@@ -91,7 +91,7 @@ function get-comicbizdata
       $counter++
    }
 
-   write-host "Record $counter"
+   write-host "$(Get-Date) - Record $counter"
    $comicbiz 
 }
 

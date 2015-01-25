@@ -57,24 +57,33 @@ q	walking+dead	&q=newvalue
    foreach($result in $results)
    {
       $record= New-Object System.Object
-  
-      $record| Add-Member -type NoteProperty -name url -value $result.title.href
+
+      $url="<a href=`"$($result.title.href)`">$($result.title.href)</a>"
+      $record| Add-Member -type NoteProperty -name link -value $result.title.href
+      $record| Add-Member -type NoteProperty -name url -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
       $rawissue=($result.title.text).ToUpper()
 
-      if($rawissue -contains ("#"))
+      if($rawissue.contains("#"))
       {
          $variant=($rawissue -split("#"))[1]
          $issue=($variant -split(" "))[0]
       }
       else{
          $variant=$rawissue
-         %issue=$rawissue
+         $issue=$rawissue
       }
    
       $strprice=($result.price -split("\n"))[0]
-      $price=($strprice.split('$'))[1]
+      if ($strprice.contain('$'))
+      {
+         $price=($strprice.split('$'))[1]
+      }
+      else{
+         $price=$strprice
+      }
+      
       $record| Add-Member -type NoteProperty -name issue -value $issue
       $record| Add-Member -type NoteProperty -name variant -value $variant
       $record| Add-Member -type NoteProperty -name price -value $price

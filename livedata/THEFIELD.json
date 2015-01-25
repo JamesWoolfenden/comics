@@ -1,17 +1,5 @@
 [
     {
-        "link":  "http://www.closeencounters.co.uk/index.php/jan150491.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan150491.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan150491.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  "SKYLANDERS",
-        "variant":  "SKYLANDERS 7 RETURN OF THE DRAGON KING",
-        "price":  2.90,
-        "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
         "link":  "http://www.closeencounters.co.uk/index.php/jan150693.html",
         "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan150693.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan150693.html\u003c/a\u003e",
         "orderdate":  null,
@@ -20,7 +8,19 @@
         "variant":  "MANIFEST DESTINY 15",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan150491.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan150491.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan150491.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THE FIELD",
+        "issue":  "SKYLANDERS",
+        "variant":  "SKYLANDERS 7 RETURN OF THE DRAGON KING",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "BORDERLANDS FALL OF FYRESTONE 8 TANNIS \u0026 THE VAULT PT 4 OF 4",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "MANIFEST DESTINY 14",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "MANIFEST DESTINY 13",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "BORDERLANDS FALL OF FYRESTONE 7 TANNIS \u0026 THE VAULT PT 3 OF 4",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "BORDERLANDS FALL OF FYRESTONE 6 TANNIS \u0026 THE VAULT PT 2 OF 4",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "MANIFEST DESTINY 12",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "BORDERLANDS FALL OF FYRESTONE 5 TANNIS \u0026 THE VAULT PT 1 OF 4",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -116,7 +116,7 @@
         "variant":  "TINY TITANS RETURN TO THE TREEHOUSE 6",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -128,7 +128,7 @@
         "variant":  "MANIFEST DESTINY 11",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -140,7 +140,7 @@
         "variant":  "TINY TITANS RETURN TO THE TREEHOUSE 5",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +152,7 @@
         "variant":  "MANIFEST DESTINY 10",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +164,7 @@
         "variant":  "TINY TITANS RETURN TO THE TREEHOUSE 4",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +176,7 @@
         "variant":  "ORIGINAL SIN THOR \u0026 LOKI: THE TENTH REALM #5.5",
         "price":  4.94,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +188,7 @@
         "variant":  "MANIFEST DESTINY 9",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -200,7 +200,7 @@
         "variant":  "ORIGINAL SIN 5.4 THOR \u0026 LOKI: THE TENTH REALM 4",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -212,7 +212,7 @@
         "variant":  "ORIGINAL SIN #5.3 THOR AND LOKI: THE TENTH REALM 3",
         "price":  3.90,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -224,7 +224,7 @@
         "variant":  "TINY TITANS RETURN TO THE TREEHOUSE 3",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +236,7 @@
         "variant":  "ORIGINAL SIN 5.2 THOR \u0026 LOKI: THE TENTH REALM 2",
         "price":  2.94,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +248,7 @@
         "variant":  "ORIGINAL SIN 5.2 THOR \u0026 LOKI: THE TENTH REALM 2 BIANCHI VARIANT 1:25",
         "price":  8.94,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -260,19 +260,7 @@
         "variant":  "MANIFEST DESTINY 8",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/may140772.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may140772.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may140772.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  "ORIGINAL",
-        "variant":  "ORIGINAL SIN 5.1 THOR \u0026 LOKI: THE TENTH REALM 1",
-        "price":  2.94,
-        "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -284,7 +272,19 @@
         "variant":  "ORIGINAL SIN 5.1 - THOR \u0026 LOKI: THE TENTH REALM - 1:25 BIANCHI VARIANT",
         "price":  10.94,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/may140772.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may140772.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may140772.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THE FIELD",
+        "issue":  "ORIGINAL",
+        "variant":  "ORIGINAL SIN 5.1 THOR \u0026 LOKI: THE TENTH REALM 1",
+        "price":  2.94,
+        "currency":  "?",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -296,7 +296,7 @@
         "variant":  "SHAHRAZAD 5 J SCOTT CAMPBELL SKETCH VARIANT",
         "price":  18.99,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -308,7 +308,7 @@
         "variant":  "MANIFEST DESTINY 7",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -320,7 +320,7 @@
         "variant":  "IRON FIST THE LIVING WEAPON 3 OPENA VARIANT 1:25",
         "price":  10.99,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -332,7 +332,7 @@
         "variant":  "TRINITY OF SIN THE PHANTOM STRANGER 20",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -344,7 +344,7 @@
         "variant":  "MANIFEST DESTINY 6 SECOND PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -356,7 +356,7 @@
         "variant":  "TRINITY OF SIN THE PHANTOM STRANGER 19",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:02:51 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:13 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -367,7 +367,7 @@
         "issue":  "3",
         "variant":  "3",
         "price":  "2.65",
-        "rundate":  "Sun Jan 25 2015 00:02:56 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:18 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -378,7 +378,7 @@
         "issue":  "2",
         "variant":  "2",
         "price":  "2.65",
-        "rundate":  "Sun Jan 25 2015 00:02:56 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:18 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -526,18 +526,6 @@
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/THE-FIELD-4-1st-Print-Image-Comics-/291336797613?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d506bdad",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-FIELD-4-1st-Print-Image-Comics-/291336797613?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d506bdad\"\u003ehttp://www.ebay.co.uk/itm/THE-FIELD-4-1st-Print-Image-Comics-/291336797613?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d506bdad\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  "4",
-        "variant":  "4",
-        "price":  "12.99",
-        "currency":  "?",
-        "rundate":  "25-1-2015",
-        "site":  "Auction"
-    },
-    {
         "link":  "http://www.ebay.co.uk/itm/THE-FIELD-2-rare-sold-out-1st-Print-Image-Comics-/291338159921?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d51b8731",
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-FIELD-2-rare-sold-out-1st-Print-Image-Comics-/291338159921?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d51b8731\"\u003ehttp://www.ebay.co.uk/itm/THE-FIELD-2-rare-sold-out-1st-Print-Image-Comics-/291338159921?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d51b8731\u003c/a\u003e",
         "orderdate":  null,
@@ -550,8 +538,8 @@
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/The-Field-1-/291357919190?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d64907d6",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Field-1-/291357919190?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d64907d6\"\u003ehttp://www.ebay.co.uk/itm/The-Field-1-/291357919190?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d64907d6\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/The-Field-1-/291363625511?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d6a01a27",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Field-1-/291363625511?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d6a01a27\"\u003ehttp://www.ebay.co.uk/itm/The-Field-1-/291363625511?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d6a01a27\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THE FIELD",
         "issue":  "1",
@@ -562,8 +550,8 @@
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/The-Field-2-/291357920326?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d6490c46",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Field-2-/291357920326?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d6490c46\"\u003ehttp://www.ebay.co.uk/itm/The-Field-2-/291357920326?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d6490c46\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/The-Field-2-/291363629740?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d6a02aac",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Field-2-/291363629740?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d6a02aac\"\u003ehttp://www.ebay.co.uk/itm/The-Field-2-/291363629740?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d6a02aac\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THE FIELD",
         "issue":  "2",
@@ -574,8 +562,8 @@
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/The-Field-3-/291357921498?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d64910da",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Field-3-/291357921498?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d64910da\"\u003ehttp://www.ebay.co.uk/itm/The-Field-3-/291357921498?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d64910da\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/The-Field-3-/291363629751?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d6a02ab7",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Field-3-/291363629751?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d6a02ab7\"\u003ehttp://www.ebay.co.uk/itm/The-Field-3-/291363629751?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d6a02ab7\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THE FIELD",
         "issue":  "3",
@@ -750,40 +738,43 @@
         "variant":  "CONAN: BORN ON THE BATTLEFIELD HC",
         "price":  18.99,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 00:03:16 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:42 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
-        "url":  "http://www.midtowncomics.com/store/dp.asp?PRID=Field+On+The+Edge+Of+The+_1038337",
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Field+On+The+Edge+Of+The+_1038337",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Field+On+The+Edge+Of+The+_1038337\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Field+On+The+Edge+Of+The+_1038337\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THE FIELD",
-        "issue":  "",
-        "variant":  null,
+        "issue":  "FIELD ON THE EDGE OF THE WOODS BOOK 1",
+        "variant":  "FIELD ON THE EDGE OF THE WOODS BOOK 1",
         "price":  "2.54",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 00:03:27 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:51 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
-        "url":  "http://www.midtowncomics.com/store/dp.asp?PRID=Surviving+The+Zombie+Outb_1155648",
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Surviving+The+Zombie+Outb_1155648",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Surviving+The+Zombie+Outb_1155648\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Surviving+The+Zombie+Outb_1155648\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THE FIELD",
-        "issue":  "",
-        "variant":  null,
+        "issue":  "SURVIVING THE ZOMBIE OUTBREAK THE OFFICIAL ZOMBIE SURVIVAL FIELD GUIDE SC",
+        "variant":  "SURVIVING THE ZOMBIE OUTBREAK THE OFFICIAL ZOMBIE SURVIVAL FIELD GUIDE SC",
         "price":  "12.70",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 00:03:27 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:51 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
-        "url":  "http://www.midtowncomics.com/store/dp.asp?PRID=Swamp+Thing+%28New+52%29+Vol+_1377118",
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Swamp+Thing+%28New+52%29+Vol+_1377118",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Swamp+Thing+%28New+52%29+Vol+_1377118\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Swamp+Thing+%28New+52%29+Vol+_1377118\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THE FIELD",
-        "issue":  "",
-        "variant":  null,
+        "issue":  "SWAMP THING (NEW 52) VOL 5 THE KILLING FIELD TP",
+        "variant":  "SWAMP THING (NEW 52) VOL 5 THE KILLING FIELD TP",
         "price":  "12.74",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 00:03:27 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:51 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -794,7 +785,7 @@
         "issue":  "1",
         "variant":  "1",
         "price":  "2.60",
-        "rundate":  "Sun Jan 25 2015 00:03:31 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:54 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -805,7 +796,7 @@
         "issue":  "2",
         "variant":  "2",
         "price":  "2.60",
-        "rundate":  "Sun Jan 25 2015 00:03:31 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:54 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -816,7 +807,7 @@
         "issue":  "3",
         "variant":  "1",
         "price":  "2.60",
-        "rundate":  "Sun Jan 25 2015 00:03:31 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:54 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -827,7 +818,7 @@
         "issue":  "4",
         "variant":  "1",
         "price":  "2.60",
-        "rundate":  "Sun Jan 25 2015 00:03:31 GMT+0000 (UTC)",
+        "rundate":  "Sun Jan 25 2015 12:42:54 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     }
 ]
