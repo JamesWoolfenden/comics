@@ -37,6 +37,6 @@ function get-auctiondata
 	  $counter++
    }
   
-   write-host "Record $counter"
+   write-host "$(Get-Date) - Found $counter"
    $auction
 }

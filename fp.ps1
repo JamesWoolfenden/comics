@@ -2,10 +2,11 @@ import-module "$PSScriptRoot\core.ps1" -force
 
 function get-fpdata
 {
-   param (
-   [string]$title="The Walking Dead")
+   param (  
+   [Parameter(Mandatory=$true)]
+   [PSObject]$record)
 
-   $title=$title.ToUpper()
+   $title=$record.title.ToUpper()
    $comic=$title.replace(" ","+")
    $search="&q=$comic+comics"
    $filter="&filter_instock=on"
@@ -14,7 +15,7 @@ function get-fpdata
    $site="Forbidden Planet"
    $url="http://www.kimonolabs.com/api/ca9vxpfa?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-debug "Accessing $url"
-   write-Host "Looking for $title @ `"$site`""
+   write-Host "$(Get-Date) - Looking for $title @ `"$site`""
 
 <# Postage
    1X  £1.00  1.00
@@ -40,61 +41,41 @@ function get-fpdata
    $counter=0
    $fp=@()
 
-   switch ($results -is [system.array] )
-   {
-      $NULL 
-      {
-         return $NULL 
-      }
-      $true
-      {
-         #do nothing
-      }
-      $false 
-      {
-         $results = $results | Add-Member @{count="1"} -PassThru
-      }
-      default
-      {
-         return $NULL
-      }
-   }
-
-   While($counter -ne $results.count)
+   foreach($result in $results)
    {
       $record= New-Object System.Object
       write-debug "Counter $counter"
-      if (($results[$counter].price[0] -eq "Pre-order") -or ($results[$counter].price[0] -eq "Web Price"))
+      if (($result.price[0] -eq "Pre-order") -or ($result.price[0] -eq "Web Price"))
       {
          $url=$null
-         $price=$results[$counter].price[1]
-         if ($results[$counter].title.Contains("#"))
+         $price=$result.price[1]
+         if ($result.title.Contains("#"))
          {
-            $rawissue=$results[$counter].title.split("#")[1]
+            $rawissue=$result.title.split("#")[1]
          }
          else
          {
-            $rawissue=$results[$counter].title
+            $rawissue=$result.title
          }
       }
       else
       {   
-         $url=$results[$counter].price.href[1] 
-         $price=$results[$counter].price.text[1] 
-         if ($results[$counter].title.text.Contains("#"))
+         $url=$result.price.href[1] 
+         $price=$result.price.text[1] 
+         if ($result.title.text.Contains("#"))
          {
-            $rawissue=$results[$counter].title.text.split("#")[1]
+            $rawissue=$result.title.text.split("#")[1]
          }
          else
          {
-            $rawissue=$results[$counter].title.text
+            $rawissue=$result.title.text
          }
       }
       
-      $url="<a href=`"$($results[$counter].title.href)`">$($results[$counter].title.href)</a>"
-      $record| Add-Member -type NoteProperty -name link -value $results[$counter].title.href
+      $url="<a href=`"$($result.title.href)`">$($result.title.href)</a>"
+      $record| Add-Member -type NoteProperty -name link -value $result.title.href
       $record| Add-Member -type NoteProperty -name url -value $url
-      $record| Add-Member -type NoteProperty -name orderdate -value $results[$counter].orderdate.replace("before ","")
+      $record| Add-Member -type NoteProperty -name orderdate -value $result.orderdate.replace("before ","")
       $record| Add-Member -type NoteProperty -name title -value $title
 
       if ($rawissue.Contains("("))
@@ -119,6 +100,6 @@ function get-fpdata
       $counter++
    }
    
-   write-host "Record $counter"
+   write-host "$(Get-Date) - Found $counter"
    $fp
 }

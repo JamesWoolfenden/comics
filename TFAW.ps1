@@ -76,44 +76,24 @@ function get-tfawdata
    $tfaw=@()
    $counter=0
 
-   switch ($results -is [system.array] )
-   {
-      $NULL 
-      {
-         return $NULL 
-      }
-      $true
-      {
-         #do nothing
-      }
-      $false 
-      {
-         $results = $results | Add-Member @{count="1"} -PassThru
-      }
-      default
-      {
-         return $NULL
-      }
-   }
-
-   While($counter -ne $results.count)
+   Foreach($result in $results)
    {
       $record= New-Object System.Object
-      $url="<a href=`"$($results[$counter].title.href)`">$($results[$counter].title.href)</a>"
+      $url="<a href=`"$($result.title.href)`">$($result.title.href)</a>"
       
-      $record| Add-Member -type NoteProperty -name link      -value $results[$counter].title.href
+      $record| Add-Member -type NoteProperty -name link      -value $result.title.href
       $record| Add-Member -type NoteProperty -name url       -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title     -value $title
 
-      write-debug "$($results[$counter].title.text)"
-      $issue=($results[$counter].title.text).ToUpper()
+      write-debug "$($result.title.text)"
+      $issue=($result.title.text).ToUpper()
       $issue=$issue -replace("$title ","")
       $issue=$issue -replace("#","")
       $variant=$issue
       $temp=$issue.split(" ")
       
-      $price=get-price -price  ($results[$counter].price).split(" ")[0]
+      $price=get-price -price  ($result.price).split(" ")[0]
 
       $record| Add-Member -type NoteProperty -name issue    -value $temp[0]
       $record| Add-Member -type NoteProperty -name variant  -value $variant
@@ -126,6 +106,6 @@ function get-tfawdata
       $counter++
    }
 
-   write-host "$(Get-Date) Record $counter"
+   write-host "$(Get-Date) - Found $counter"
    $tfaw 
 }

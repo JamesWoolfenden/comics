@@ -79,6 +79,7 @@
     <Content Include="jqwidgets\demos\jqxgrid\prices-ratqueens.htm" />
     <Content Include="livedata\*.json" />
     <Content Include="livedata\*.txt" />
+    <Content Include="intercomics.ps1" />
     <Content Include="prices\*.txt" />
     <Content Include="prices\*.json" />
     <Content Include="covers\2000AD-GOLD\1\1.jpg" />

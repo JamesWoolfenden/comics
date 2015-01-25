@@ -2,7 +2,9 @@ import-module "$PSScriptRoot\core.ps1" -force
 
 function get-comicbookstoredata()
 {
-   param ([string]$title="The Walking Dead")
+   param (
+   [Parameter(Mandatory=$true)]
+   [PSObject]$Record)
 
 #kimpath1 shop &kimpath1=newvalue 
 #kimpath2 index.php &kimpath2=newvalue 
@@ -11,14 +13,14 @@ function get-comicbookstoredata()
 #zenid p8upjit25hl85tj35nuu9l9u46 &zenid=newvalue 
 #keyword manifest+destiny &keyword=newvalue 
    
-   $title=$title.ToUpper()
+   $title=$Record.title.ToUpper()
    $comic=$title.replace(" ","+")
    $search="&q=$comic"
    $site="The Comic Book Store"
    $fullfilter=$search
    $url="http://www.kimonolabs.com/api/9n2moou6?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-debug "Accessing $url"
-   write-Host "Looking for $title @ `"$site`""
+   write-Host "$(Get-Date) - Looking for $title @ `"$site`""
 
 <# Postage
    1X  £1.23 1.23
@@ -37,6 +39,7 @@ function get-comicbookstoredata()
    $cbsresults=Invoke-RestMethod -Uri $url
    if ($cbsresults.lastrunstatus -eq "failure")
    {
+      write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
       return $null
    }
    
@@ -44,42 +47,22 @@ function get-comicbookstoredata()
    $comicbookstore=@()
    $results=$cbsresults.results.collection1|where {$_.title.text -like "*$title*"}
 
-   switch ($results -is [system.array] )
-   {
-      $NULL 
-      {
-         return $NULL 
-      }
-      $true
-      {
-         #do nothing
-      }
-      $false 
-      {
-         $results = $results | Add-Member @{count="1"} -PassThru
-      }
-      default
-      {
-         return $NULL
-      }
-   }
-
-   While($counter -ne $results.count)
+   foreach($result in $results)
    {
       $record= New-Object System.Object
-      $url="<a href=`"$($results[$counter].title.href)`">$($results[$counter].title.href)</a>"
+      $url="<a href=`"$($result.title.href)`">$($result.title.href)</a>"
       
-      $record| Add-Member -type NoteProperty -name link -value $results[$counter].title.href
+      $record| Add-Member -type NoteProperty -name link -value $result.title.href
       $record| Add-Member -type NoteProperty -name url -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
-      $issue=($results[$counter].title.text).ToUpper()
+      $issue=($result.title.text).ToUpper()
       $issue=$issue -replace("$title ","")
       $issue=$issue -replace("#","")
       $variant=$issue
       $temp=$issue.split(" ")
 
-      $price=get-price -price $results[$counter].price
+      $price=get-price -price $result.price
 
       $record| Add-Member -type NoteProperty -name issue -value $temp[0]
       $record| Add-Member -type NoteProperty -name variant -value $variant
@@ -92,6 +75,6 @@ function get-comicbookstoredata()
       $counter++
    }
 
-   write-host "Record $counter"
+   write-host "$(Get-Date) - Found $counter"
    $comicbookstore 
 }

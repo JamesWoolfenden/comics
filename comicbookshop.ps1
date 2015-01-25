@@ -2,7 +2,9 @@ import-module "$PSScriptRoot\core.ps1" -force
 
 function get-comicbookshopdata
 {
-   param ([PSObject]$record)
+   param (
+   [Parameter(Mandatory=$true)]
+   [PSObject]$Record)
 
    if ($record.comictitle)
    {
@@ -38,6 +40,7 @@ function get-comicbookshopdata
    $cbsresults=Invoke-RestMethod -Uri $url
    if ($cbsresults.lastrunstatus -eq "failure")
    {
+      write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
       return $null
    }
    

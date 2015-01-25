@@ -63,9 +63,16 @@ q	walking+dead	&q=newvalue
       $record| Add-Member -type NoteProperty -name title -value $title
       $rawissue=($result.title.text).ToUpper()
 
-      $variant=($rawissue -split("#"))[1]
-      $issue=($variant -split(" "))[0]
-
+      if($rawissue -contains ("#"))
+      {
+         $variant=($rawissue -split("#"))[1]
+         $issue=($variant -split(" "))[0]
+      }
+      else{
+         $variant=$rawissue
+         %issue=$rawissue
+      }
+   
       $strprice=($result.price -split("\n"))[0]
       $price=($strprice.split('$'))[1]
       $record| Add-Member -type NoteProperty -name issue -value $issue
