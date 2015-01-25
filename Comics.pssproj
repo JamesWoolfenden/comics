@@ -37,9 +37,11 @@
     <Compile Include="data\dcbs\latest.json" />
     <Compile Include="DisposableHeroes.ps1" />
     <Compile Include="ebaydata.ps1" />
+    <Compile Include="jqwidgets\demos\jqxchart\javascript_chart_bind_to_xml.htm" />
     <Compile Include="jqwidgets\demos\jqxgrid\comic-Afterlifewitharchie.htm" />
     <Compile Include="jqwidgets\demos\jqxgrid\comic-ratqueens.htm" />
     <Compile Include="jqwidgets\demos\jqxgrid\comic-Walkingdead.htm" />
+    <Compile Include="jqwidgets\demos\jqxgrid\prices-Wytches.htm" />
     <Compile Include="livedata\*.json" />
     <Compile Include="livedata\*.txt" />
     <Compile Include="moretodo.txt" />
@@ -7444,6 +7446,7 @@
     <Folder Include="Excel\" />
     <Folder Include="jqwidgets\" />
     <Folder Include="jqwidgets\demos\" />
+    <Folder Include="jqwidgets\demos\jqxchart\" />
     <Folder Include="jqwidgets\demos\jqxgrid\" />
     <Folder Include="livedata\" />
     <Folder Include="prices\" />

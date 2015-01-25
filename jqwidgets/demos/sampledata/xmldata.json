@@ -1,0 +1,28 @@
+﻿[
+
+    {
+        "date": "1/1/2011",
+        "quantity": 10,
+        "description": "Beverages"
+    },
+    {
+        "date": "2/2/2011",
+        "quantity": 15,
+        "description":"Condiments"
+    },
+    {
+        "date": "3/3/2011",
+        "quantity": 20,
+        "description":"Grains/Cereals"
+    },
+    {
+        "date>4/6/2011</date>
+        <quantity>30</quantity> <description>Beverages</description>
+        </order> <order>
+    },
+       <date>5/10/2011</date> <quantity>40</quantity>
+        <description>Beverages</description> </order>
+        <order> <date>5/12/2011</date>
+        <quantity>50</quantity> <description>Grains/Cereals</description>
+        </order> </orders>
+        ] 
