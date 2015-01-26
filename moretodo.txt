@@ -1,4 +1,4 @@
-fix tfaw datasn add filters from jasondata file
+fix tfaw datasn add filters from jsondata file
 paging on other apis
 graphing for slice data
 pivots for graphs and grids
@@ -8,3 +8,17 @@ add/create buying/sniping tool for ebay
 add predicted sale price for auctions when data input processed.
 
 divide set market price by number of items in set
+
+set watching
+search/list watching
+sale
+
+normal record plus
+need to remove one from stock count
+link to purchase
+
+slice/table historical prices
+pivot on grid - e.g. of prices
+
+conversion ratio no of items/number of sales (in the last six months)C6
+conversion ratio no of items/number of sales (in the last three months)C3

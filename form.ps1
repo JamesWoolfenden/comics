@@ -90,7 +90,7 @@ function get-imagetitle
    $Form.height         = $maxheight+45
    $Form.Top            = 1000
    $Form.Left           = 0
-   $Form.backcolor      = [System.Drawing.Color]::CornflowerBlue
+   $Form.backcolor      = [System.Drawing.Color]::Black
    $Form.FormBorderStyle = [System.Windows.Forms.FormBorderStyle]::Fixed3D
    $Form.Text           = "Cover Chooser"
    $Form.Font           = New-Object System.Drawing.Font("Verdana",10,[System.Drawing.FontStyle]::Bold)
