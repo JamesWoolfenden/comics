@@ -12,17 +12,19 @@
         $(document).ready(function () {
             // prepare the data
             var source = {
-                datafields: [{ name: 'date' }, { name: 'quantity' }, { name: 'description' }],
-                root: "orders",
+                datafields: [
+                    { name: 'date', type: 'datetime'},
+                    { name: 'quantity', type: 'int'},
+                    { name: 'description', type: 'string'}],
                 record: "order",
-                datatype: "xml",
-                url: '../sampledata/xmldata.xml'
+                datatype: "json",
+                url: '../sampledata/xmldata.json'
             }
             var dataAdapter = new $.jqx.dataAdapter(source);
 			
             // prepare jqxChart settings
             var settings = {
-                title: "Orders for January - May",
+                title: "Test Orders for January - May",
                 showLegend: true,
                 enableAnimations: true,
                 source: dataAdapter,
