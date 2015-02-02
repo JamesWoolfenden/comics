@@ -8,7 +8,7 @@
         "variant":  "5 CVR A CHEGGOUR",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:50 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,31 +20,31 @@
         "variant":  "5 CVR B HUERTA",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:50 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/preorders-for-04/02/15/other-publishers/enormous-6-cvr-a-cheggour/prod_111939.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-04/02/15/other-publishers/enormous-6-cvr-a-cheggour/prod_111939.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-04/02/15/other-publishers/enormous-6-cvr-a-cheggour/prod_111939.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/enormous-6-cvr-a-cheggour/prod_111939.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/enormous-6-cvr-a-cheggour/prod_111939.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/enormous-6-cvr-a-cheggour/prod_111939.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
         "issue":  "6",
         "variant":  "6 CVR A CHEGGOUR",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:50 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/preorders-for-04/02/15/other-publishers/enormous-6-cvr-b-lorimer/prod_111940.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-04/02/15/other-publishers/enormous-6-cvr-b-lorimer/prod_111940.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-04/02/15/other-publishers/enormous-6-cvr-b-lorimer/prod_111940.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/enormous-6-cvr-b-lorimer/prod_111940.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/enormous-6-cvr-b-lorimer/prod_111940.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/enormous-6-cvr-b-lorimer/prod_111940.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
         "issue":  "6",
         "variant":  "6 CVR B LORIMER",
         "price":  2.75,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:50 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "ENORMOUS TP VOL 01",
         "price":  6.75,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:50 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,8 +68,20 @@
         "variant":  "ENORMOUS TP VOL 01",
         "price":  7.13,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:00 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:50 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb151606.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb151606.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb151606.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "DOCTOR",
+        "variant":  "DOCTOR WHO 10TH 13 REG LACLAUSTRA",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
     },
     {
         "link":  "http://www.closeencounters.co.uk/index.php/jan151603.html",
@@ -80,7 +92,19 @@
         "variant":  "DOCTOR WHO 10TH 12 REG WADA",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb150796.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb150796.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb150796.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "FANTASTIC",
+        "variant":  "FANTASTIC FOUR 645",
+        "price":  4.30,
+        "currency":  "?",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -92,7 +116,19 @@
         "variant":  "DOCTOR WHO 10TH 11 REGULAR COVER AJ",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb151157.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb151157.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb151157.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "SUICIDE",
+        "variant":  "SUICIDE RISK 24",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -104,7 +140,7 @@
         "variant":  "DOCTOR WHO 10TH 10 REG WILLIAMSON",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -116,7 +152,7 @@
         "variant":  "FANTASTIC FOUR 644",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -128,7 +164,19 @@
         "variant":  "SUICIDE RISK 23",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan151176.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan151176.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan151176.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "UNCLE",
+        "variant":  "UNCLE GRANDPA 6",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -140,7 +188,7 @@
         "variant":  "FANTASTIC FOUR 643",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +200,19 @@
         "variant":  "SUICIDE RISK 22",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec141244.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec141244.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec141244.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "UNCLE",
+        "variant":  "UNCLE GRANDPA 5",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +224,7 @@
         "variant":  "FANTASTIC FOUR 642",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +236,19 @@
         "variant":  "SUICIDE RISK 21",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov141139.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov141139.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov141139.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "UNCLE",
+        "variant":  "UNCLE GRANDPA 4 MAIN COVERS",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +260,7 @@
         "variant":  "FANTASTIC FOUR 14",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -200,7 +272,19 @@
         "variant":  "SUICIDE RISK 20",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct141189.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct141189.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct141189.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "UNCLE",
+        "variant":  "UNCLE GRANDPA 3 MAIN COVERS",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -212,19 +296,19 @@
         "variant":  "FANTASTIC FOUR 13",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
-        "link":  "http://www.closeencounters.co.uk/index.php/jul141429.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul141429.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul141429.html\u003c/a\u003e",
+        "link":  "http://www.closeencounters.co.uk/index.php/sep141169.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep141169.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep141169.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
-        "issue":  "DOCTOR",
-        "variant":  "DOCTOR WHO 10TH 5 REG GLASS",
+        "issue":  "UNCLE",
+        "variant":  "UNCLE GRANDPA 2 MAIN CVRS",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +320,19 @@
         "variant":  "SUICIDE RISK 19",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul141429.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul141429.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul141429.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "DOCTOR",
+        "variant":  "DOCTOR WHO 10TH 5 REG GLASS",
+        "price":  2.90,
+        "currency":  "?",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +344,7 @@
         "variant":  "FANTASTIC FOUR 12",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -260,7 +356,7 @@
         "variant":  "FANTASTIC FOUR 11",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -272,7 +368,7 @@
         "variant":  "DOCTOR WHO 10TH 4 REG GLASS",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -284,19 +380,7 @@
         "variant":  "SUICIDE RISK 18",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jun141422.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun141422.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun141422.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "DOCTOR",
-        "variant":  "DOCTOR WHO 10TH 3 SUBSCRIPTION PHOTO",
-        "price":  2.75,
-        "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -308,7 +392,31 @@
         "variant":  "DOCTOR WHO 10TH 3 REG GLASS",
         "price":  2.50,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun141422.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun141422.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun141422.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "DOCTOR",
+        "variant":  "DOCTOR WHO 10TH 3 SUBSCRIPTION PHOTO",
+        "price":  2.75,
+        "currency":  "?",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul140647.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140647.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140647.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "FANTASTIC",
+        "variant":  "FANTASTIC FOUR ANNUAL #1",
+        "price":  3.50,
+        "currency":  "?",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -320,116 +428,19 @@
         "variant":  "FANTASTIC FOUR 10",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:31:57 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
-        "link":  "http://www.closeencounters.co.uk/index.php/jul140979.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140979.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140979.html\u003c/a\u003e",
-        "orderdate":  null,
+        "link":  "https://forbiddenplanet.com/135284-enormous-6-1-comicxposure-variant/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/135284-enormous-6-1-comicxposure-variant/\"\u003ehttps://forbiddenplanet.com/135284-enormous-6-1-comicxposure-variant/\u003c/a\u003e",
+        "orderdate":  "25th February, 2015",
         "title":  "ENORMOUS",
-        "issue":  "SUICIDE",
-        "variant":  "SUICIDE RISK 17",
-        "price":  2.90,
-        "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/may141597.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may141597.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may141597.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "DOCTOR",
-        "variant":  "DOCTOR WHO 10TH DOCTOR 2 SUBSCRIPTION PHOTO VARIANT",
-        "price":  2.90,
-        "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jun140672.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140672.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140672.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "FANTASTIC",
-        "variant":  "FANTASTIC FOUR 9",
-        "price":  2.90,
-        "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/may141598.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may141598.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may141598.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "DOCTOR",
-        "variant":  "DOCTOR WHO 10TH DOCTOR 2 INCENTIVE CASAGRANDE VARIANT 1:10",
-        "price":  3.94,
-        "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/may141596.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may141596.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may141596.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "DOCTOR",
-        "variant":  "DOCTOR WHO 10TH DOCTOR 2 ZHANG COVER",
-        "price":  2.90,
-        "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jun140616.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140616.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140616.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "FANTASTIC",
-        "variant":  "FANTASTIC FOUR 8",
-        "price":  2.90,
-        "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jun140965.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140965.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140965.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "SUICIDE",
-        "variant":  "SUICIDE RISK 16",
-        "price":  2.90,
-        "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/apr141374.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/apr141374.html\"\u003ehttp://www.closeencounters.co.uk/index.php/apr141374.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "DOCTOR",
-        "variant":  "DOCTOR WHO 10TH DOCTOR 1 RETAILER INCENTIVE PHOTO VARIANT",
-        "price":  3.94,
-        "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/may141599.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may141599.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may141599.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "DOCTOR",
-        "variant":  "DOCTOR WHO 10TH DOCTOR 2 CASAGRANDE BLACK AND WHITE VARIANT 1:25",
-        "price":  6.99,
-        "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:08 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
+        "issue":  "6 ",
+        "variant":  "6 ",
+        "price":  "9.99",
+        "rundate":  "Mon Feb 02 2015 10:32:01 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
     },
     {
         "link":  "https://forbiddenplanet.com/126003-enormous-5-cover-b-huerta/",
@@ -439,7 +450,7 @@
         "issue":  "5 ",
         "variant":  "Cover B Huerta",
         "price":  "2.65",
-        "rundate":  "Mon Jan 26 2015 10:31:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:32:01 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -450,7 +461,7 @@
         "issue":  "5 ",
         "variant":  "Cover A Cheggour",
         "price":  "2.65",
-        "rundate":  "Mon Jan 26 2015 10:31:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:32:01 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -460,8 +471,8 @@
         "title":  "ENORMOUS",
         "issue":  "4C ",
         "variant":  "ComicXposure Exclusive Variant",
-        "price":  "19.99",
-        "rundate":  "Mon Jan 26 2015 10:31:27 GMT+0000 (UTC)",
+        "price":  "15.99",
+        "rundate":  "Mon Feb 02 2015 10:32:01 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -472,7 +483,7 @@
         "issue":  "4D ",
         "variant":  "ComicXposure Exclusive Variant",
         "price":  "19.99",
-        "rundate":  "Mon Jan 26 2015 10:31:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:32:01 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -483,18 +494,7 @@
         "issue":  "4 ",
         "variant":  "Cover B Oeming",
         "price":  "2.65",
-        "rundate":  "Mon Jan 26 2015 10:31:27 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/124250-enormous-4-cover-a-cheggour/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/124250-enormous-4-cover-a-cheggour/\"\u003ehttps://forbiddenplanet.com/124250-enormous-4-cover-a-cheggour/\u003c/a\u003e",
-        "orderdate":  "",
-        "title":  "ENORMOUS",
-        "issue":  "4 ",
-        "variant":  "Cover A Cheggour",
-        "price":  "2.65",
-        "rundate":  "Mon Jan 26 2015 10:31:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:32:01 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -505,7 +505,18 @@
         "issue":  "1 ",
         "variant":  "B\u0026W Phantom Variant Special Edition",
         "price":  "19.99",
-        "rundate":  "Mon Jan 26 2015 10:31:27 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:32:01 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/119473-enormous-1-cover-b-riley-rossmo/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/119473-enormous-1-cover-b-riley-rossmo/\"\u003ehttps://forbiddenplanet.com/119473-enormous-1-cover-b-riley-rossmo/\u003c/a\u003e",
+        "orderdate":  "",
+        "title":  "ENORMOUS",
+        "issue":  "1 ",
+        "variant":  "Cover B Riley Rossmo",
+        "price":  "40.00",
+        "rundate":  "Mon Feb 02 2015 10:32:01 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -517,7 +528,7 @@
         "variant":  "1PHANTOMSE",
         "price":  "11.95",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -529,7 +540,7 @@
         "variant":  "1PHANTOM",
         "price":  "10.95",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -541,19 +552,31 @@
         "variant":  "4B",
         "price":  "1.25",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-ISSUE-3-CVR-B-/191294037892?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c8a035f84\u0026ssPageName=RSS:B:SHOP:GB:101",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-ISSUE-3-CVR-B-/191294037892?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c8a035f84\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-ISSUE-3-CVR-B-/191294037892?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c8a035f84\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
+        "link":  "http://uk.ebid.net/for-sale/enormous-4-215-ink-136831166.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/enormous-4-215-ink-136831166.htm\"\u003ehttp://uk.ebid.net/for-sale/enormous-4-215-ink-136831166.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
-        "issue":  "3",
-        "variant":  "3B",
-        "price":  "9.99",
+        "issue":  "4",
+        "variant":  "4B",
+        "price":  "1.25",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/enormous-5-215-ink-136850670.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/enormous-5-215-ink-136850670.htm\"\u003ehttp://uk.ebid.net/for-sale/enormous-5-215-ink-136850670.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "5",
+        "variant":  "5A",
+        "price":  "1.25",
+        "currency":  "?",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -565,7 +588,31 @@
         "variant":  "1C",
         "price":  "7.99",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-3-1st-PRINT-215-INK-COMICS-NM-NEW-UNREAD-/231467064884?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e4831e34",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-3-1st-PRINT-215-INK-COMICS-NM-NEW-UNREAD-/231467064884?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e4831e34\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-3-1st-PRINT-215-INK-COMICS-NM-NEW-UNREAD-/231467064884?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e4831e34\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "3",
+        "variant":  "3",
+        "price":  "9.99",
+        "currency":  "?",
+        "rundate":  "2-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-4-1st-PRINT-215-INK-COMICS-NM-NEW-UNREAD-/231467065910?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e4832236",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-4-1st-PRINT-215-INK-COMICS-NM-NEW-UNREAD-/231467065910?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e4832236\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-4-1st-PRINT-215-INK-COMICS-NM-NEW-UNREAD-/231467065910?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e4832236\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "4",
+        "variant":  "4A",
+        "price":  "3.99",
+        "currency":  "?",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -577,7 +624,7 @@
         "variant":  "SET",
         "price":  "14.95",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -589,7 +636,7 @@
         "variant":  "4A",
         "price":  "9.95",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -601,7 +648,7 @@
         "variant":  "2B",
         "price":  "10.9",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -613,7 +660,7 @@
         "variant":  "1C",
         "price":  "5.77",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -625,7 +672,7 @@
         "variant":  "2B",
         "price":  "11.05",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -637,7 +684,7 @@
         "variant":  "3A",
         "price":  "9.03",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -649,7 +696,7 @@
         "variant":  "1OVERSIZEVARIANT",
         "price":  "9.95",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -661,7 +708,7 @@
         "variant":  "2B",
         "price":  "11.05",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -673,7 +720,7 @@
         "variant":  "1C",
         "price":  "5.85",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -685,7 +732,7 @@
         "variant":  "3A",
         "price":  "9.03",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -697,7 +744,7 @@
         "variant":  "2B",
         "price":  "11.05",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -709,19 +756,7 @@
         "variant":  "1C",
         "price":  "5.85",
         "currency":  "?",
-        "rundate":  "26-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-5-cover-A-B-Tim-Daniels-Mehdi-Cheggour-215-Ink-1st-Print-NM-/261716772862?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cef8907fe",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-5-cover-A-B-Tim-Daniels-Mehdi-Cheggour-215-Ink-1st-Print-NM-/261716772862?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cef8907fe\"\u003ehttp://www.ebay.co.uk/itm/Enormous-5-cover-A-B-Tim-Daniels-Mehdi-Cheggour-215-Ink-1st-Print-NM-/261716772862?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cef8907fe\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  "14.95",
-        "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -733,7 +768,7 @@
         "variant":  "2B",
         "price":  "11.05",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -745,7 +780,7 @@
         "variant":  "1C",
         "price":  "5.85",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -757,7 +792,7 @@
         "variant":  "3A",
         "price":  "9.03",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -769,7 +804,7 @@
         "variant":  "4A",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -781,7 +816,7 @@
         "variant":  "2A",
         "price":  "9.99",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -793,7 +828,7 @@
         "variant":  "2A",
         "price":  "14.85",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -805,19 +840,7 @@
         "variant":  "4B",
         "price":  "4.9",
         "currency":  "?",
-        "rundate":  "26-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-2-A-1st-Print-215-Ink-Tim-Daniels-Mehdi-Cheggour-/321639419725?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae3340f4d",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-2-A-1st-Print-215-Ink-Tim-Daniels-Mehdi-Cheggour-/321639419725?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae3340f4d\"\u003ehttp://www.ebay.co.uk/itm/Enormous-2-A-1st-Print-215-Ink-Tim-Daniels-Mehdi-Cheggour-/321639419725?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae3340f4d\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "2",
-        "variant":  "2A",
-        "price":  "9.99",
-        "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -829,67 +852,43 @@
         "variant":  "4A",
         "price":  "5.99",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-4-215-RED-INK-/331428396645?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2aabfe65",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-4-215-RED-INK-/331428396645?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2aabfe65\"\u003ehttp://www.ebay.co.uk/itm/Enormous-4-215-RED-INK-/331428396645?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2aabfe65\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Enormous-4-215-RED-INK-/331461905142?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cab4af6",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-4-215-RED-INK-/331461905142?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cab4af6\"\u003ehttp://www.ebay.co.uk/itm/Enormous-4-215-RED-INK-/331461905142?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cab4af6\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
         "issue":  "4",
         "variant":  "4A",
         "price":  "3.99",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-4-CVR-A-AND-B-215-RED-INK-/331428402253?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2aac144d",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-4-CVR-A-AND-B-215-RED-INK-/331428402253?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2aac144d\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-4-CVR-A-AND-B-215-RED-INK-/331428402253?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2aac144d\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-4-CVR-A-AND-B-215-RED-INK-/331461912032?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cab65e0",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-4-CVR-A-AND-B-215-RED-INK-/331461912032?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cab65e0\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-4-CVR-A-AND-B-215-RED-INK-/331461912032?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cab65e0\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
         "issue":  "",
         "variant":  "SET",
         "price":  "7.99",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-1-2ND-PRINT-215-RED-INK-/331432997314?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2af231c2",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-1-2ND-PRINT-215-RED-INK-/331432997314?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2af231c2\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-1-2ND-PRINT-215-RED-INK-/331432997314?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2af231c2\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-1-2ND-PRINT-215-RED-INK-/331466835300?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cf68564",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-1-2ND-PRINT-215-RED-INK-/331466835300?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cf68564\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-1-2ND-PRINT-215-RED-INK-/331466835300?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cf68564\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
         "issue":  "1",
         "variant":  "1C",
         "price":  "4.99",
         "currency":  "?",
-        "rundate":  "26-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-5-cover-B-Huerta-Tim-Daniels-Mehdi-Cheggour-215-Ink-1st-Print-NM-/371224929635?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566ebae563",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-5-cover-B-Huerta-Tim-Daniels-Mehdi-Cheggour-215-Ink-1st-Print-NM-/371224929635?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566ebae563\"\u003ehttp://www.ebay.co.uk/itm/Enormous-5-cover-B-Huerta-Tim-Daniels-Mehdi-Cheggour-215-Ink-1st-Print-NM-/371224929635?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566ebae563\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "5",
-        "variant":  "5B",
-        "price":  "9.95",
-        "currency":  "?",
-        "rundate":  "26-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-5-cover-A-Tim-Daniels-Mehdi-Cheggour-215-Ink-1st-Print-NM-/371224929637?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566ebae565",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-5-cover-A-Tim-Daniels-Mehdi-Cheggour-215-Ink-1st-Print-NM-/371224929637?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566ebae565\"\u003ehttp://www.ebay.co.uk/itm/Enormous-5-cover-A-Tim-Daniels-Mehdi-Cheggour-215-Ink-1st-Print-NM-/371224929637?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566ebae565\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "5",
-        "variant":  "5A",
-        "price":  "9.95",
-        "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -901,7 +900,7 @@
         "variant":  "4B",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -913,19 +912,7 @@
         "variant":  "5A",
         "price":  "3.99",
         "currency":  "?",
-        "rundate":  "26-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-5-CVR-B-HUERTA-1st-Print-215Ink-/371241640837?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566fb9e385",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-5-CVR-B-HUERTA-1st-Print-215Ink-/371241640837?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566fb9e385\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-5-CVR-B-HUERTA-1st-Print-215Ink-/371241640837?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566fb9e385\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "5",
-        "variant":  "5B",
-        "price":  "3.99",
-        "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -937,7 +924,7 @@
         "variant":  "5B",
         "price":  "9.99",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -949,19 +936,7 @@
         "variant":  "SET",
         "price":  "14.99",
         "currency":  "?",
-        "rundate":  "26-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-1-Special-Kaiju-Phantom-Variant-/400846462752?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d544f9f20",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-1-Special-Kaiju-Phantom-Variant-/400846462752?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d544f9f20\"\u003ehttp://www.ebay.co.uk/itm/Enormous-1-Special-Kaiju-Phantom-Variant-/400846462752?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d544f9f20\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "1",
-        "variant":  "1PHANTOM",
-        "price":  "7.99",
-        "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -973,7 +948,19 @@
         "variant":  "5A",
         "price":  "3.4",
         "currency":  "?",
-        "rundate":  "26-1-2015",
+        "rundate":  "2-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Enormous-1-Special-Kaiju-Phantom-Variant-/400853020241?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d54b3ae51",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-1-Special-Kaiju-Phantom-Variant-/400853020241?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d54b3ae51\"\u003ehttp://www.ebay.co.uk/itm/Enormous-1-Special-Kaiju-Phantom-Variant-/400853020241?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d54b3ae51\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "1",
+        "variant":  "1PHANTOM",
+        "price":  "7.99",
+        "currency":  "?",
+        "rundate":  "2-2-2015",
         "site":  "Auction"
     },
     {
@@ -985,7 +972,7 @@
         "variant":  "ENORMOUS #4 CVR A CHEGGOUR [(W) Tim Daniel (A/CA) Mehdi Cheggour]",
         "price":  3.20,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:56 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:32:28 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -997,7 +984,7 @@
         "variant":  "ENORMOUS #5 CVR A CHEGGOUR [(W) Tim Daniel (A/CA) Mehdi Cheggour]",
         "price":  3.20,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:56 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:32:28 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -1006,10 +993,10 @@
         "orderdate":  null,
         "title":  "ENORMOUS",
         "issue":  "6",
-        "variant":  "SEP141663 ENORMOUS #6 CVR A CHEGGOUR",
+        "variant":  "ENORMOUS #6 CVR A CHEGGOUR [(W) Tim Daniel (A/CA) Mehdi Cheggour]",
         "price":  3.20,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:56 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:32:28 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -1021,20 +1008,8 @@
         "variant":  "SEP141664 ENORMOUS #6 CVR B LORIMER",
         "price":  3.20,
         "currency":  "?",
-        "rundate":  "Mon Jan 26 2015 10:31:56 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:32:28 GMT+0000 (UTC)",
         "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Enormous+Vol+1+TP_1406638",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Enormous+Vol+1+TP_1406638\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Enormous+Vol+1+TP_1406638\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "ENORMOUS VOL 1 TP",
-        "variant":  "ENORMOUS VOL 1 TP",
-        "price":  null,
-        "currency":  "$",
-        "rundate":  "Mon Jan 26 2015 10:32:05 GMT+0000 (UTC)",
-        "site":  "Midtown"
     },
     {
         "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Enormous+%235+Cover+A+Mehdi_1369159",
@@ -1043,9 +1018,9 @@
         "title":  "ENORMOUS",
         "issue":  "5",
         "variant":  "5 COVER A MEHDI CHEGGOUR",
-        "price":  null,
+        "price":  "3.99",
         "currency":  "$",
-        "rundate":  "Mon Jan 26 2015 10:32:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:32:37 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -1055,9 +1030,33 @@
         "title":  "ENORMOUS",
         "issue":  "5",
         "variant":  "5 COVER B ANDREW HUERTA",
-        "price":  null,
+        "price":  "3.99",
         "currency":  "$",
-        "rundate":  "Mon Jan 26 2015 10:32:05 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 02 2015 10:32:37 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Enormous+%236+Cover+A+Mehdi_1376758",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Enormous+%236+Cover+A+Mehdi_1376758\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Enormous+%236+Cover+A+Mehdi_1376758\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "6",
+        "variant":  "6 COVER A MEHDI CHEGGOUR",
+        "price":  "3.39",
+        "currency":  "$",
+        "rundate":  "Mon Feb 02 2015 10:32:37 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Enormous+%236+Cover+B+Colin_1376759",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Enormous+%236+Cover+B+Colin_1376759\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Enormous+%236+Cover+B+Colin_1376759\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "6",
+        "variant":  "6 COVER B COLIN LORIMER",
+        "price":  "3.39",
+        "currency":  "$",
+        "rundate":  "Mon Feb 02 2015 10:32:37 GMT+0000 (UTC)",
         "site":  "Midtown"
     }
 ]

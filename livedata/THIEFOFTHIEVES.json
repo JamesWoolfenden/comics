@@ -8,7 +8,7 @@
         "variant":  "Thief of Thieves  (MR)",
         "price":  "1.19",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "DCBS"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "25 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:41 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "16 (MR)",
         "price":  1.35,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:41 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "17 (MR) 2013 DHC",
         "price":  1.43,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:41 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "19 (MR) DHC",
         "price":  1.46,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:41 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "26 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:41 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "27 (MR)",
         "price":  2.20,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:41 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,31 @@
         "variant":  "27 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:41 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/thief-of-thieves-28-mr-/prod_139335.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/thief-of-thieves-28-mr-/prod_139335.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/thief-of-thieves-28-mr-/prod_139335.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "28",
+        "variant":  "28 (MR)",
+        "price":  2.20,
+        "currency":  "?",
+        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-22/04/15/image/thief-of-thieves-28-mr-/prod_140270.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-22/04/15/image/thief-of-thieves-28-mr-/prod_140270.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-22/04/15/image/thief-of-thieves-28-mr-/prod_140270.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "28",
+        "variant":  "28 (MR)",
+        "price":  2.25,
+        "currency":  "?",
+        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +128,7 @@
         "variant":  "27",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -116,7 +140,7 @@
         "variant":  "26",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -128,7 +152,7 @@
         "variant":  "25",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -140,7 +164,7 @@
         "variant":  "24",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +176,7 @@
         "variant":  "23",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +188,7 @@
         "variant":  "22",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +200,7 @@
         "variant":  "DREAM THIEF ESCAPE 1 OF 4",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +212,7 @@
         "variant":  "21",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -200,7 +224,7 @@
         "variant":  "20",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -212,7 +236,7 @@
         "variant":  "19 FIRST PRINT IMAGE",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -224,7 +248,7 @@
         "variant":  "18 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +260,7 @@
         "variant":  "17",
         "price":  1.99,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +272,7 @@
         "variant":  "15",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -260,7 +284,7 @@
         "variant":  "14",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -272,7 +296,7 @@
         "variant":  "13",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -284,7 +308,7 @@
         "variant":  "12",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -296,7 +320,7 @@
         "variant":  "11",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -308,7 +332,7 @@
         "variant":  "10 FIRST PRINT",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -320,7 +344,7 @@
         "variant":  "10 SECOND PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -332,7 +356,7 @@
         "variant":  "9 FIRST PRINT",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -344,7 +368,7 @@
         "variant":  "8 SECOND PRINT",
         "price":  2.94,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -356,7 +380,7 @@
         "variant":  "8 FIRST PRINT",
         "price":  5.94,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -368,7 +392,7 @@
         "variant":  "7 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -380,7 +404,7 @@
         "variant":  "6 FIRST PRINT",
         "price":  4.94,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -392,7 +416,7 @@
         "variant":  "3 FOURTH PRINT",
         "price":  2.14,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -404,7 +428,7 @@
         "variant":  "4 FIRST PRINT",
         "price":  12.94,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -416,7 +440,7 @@
         "variant":  "3 FIRST PRINT",
         "price":  15.94,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -428,7 +452,7 @@
         "variant":  "2 FIRST PRINT",
         "price":  24.94,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -440,8 +464,19 @@
         "variant":  "1 FIRST PRINT",
         "price":  48.94,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:48 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
         "site":  "Close Encounters"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/135745-thief-of-thieves-28/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/135745-thief-of-thieves-28/\"\u003ehttps://forbiddenplanet.com/135745-thief-of-thieves-28/\u003c/a\u003e",
+        "orderdate":  "22nd April, 2015",
+        "title":  "THIEF OF THIEVES",
+        "issue":  "28",
+        "variant":  "28",
+        "price":  "1.95",
+        "rundate":  "Sat Jan 31 2015 21:08:49 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
     },
     {
         "link":  "https://forbiddenplanet.com/134051-thief-of-thieves-27/",
@@ -451,7 +486,7 @@
         "issue":  "27",
         "variant":  "27",
         "price":  "1.95",
-        "rundate":  "Sun Jan 25 2015 12:55:52 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:49 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -462,7 +497,7 @@
         "issue":  "26",
         "variant":  "26",
         "price":  "1.95",
-        "rundate":  "Sun Jan 25 2015 12:55:52 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:49 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -474,7 +509,7 @@
         "variant":  "1",
         "price":  1.99,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -486,7 +521,7 @@
         "variant":  "1 (3RD PRINT) *HOT BOOK*",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -498,7 +533,7 @@
         "variant":  "10 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -510,7 +545,7 @@
         "variant":  "13",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -522,7 +557,7 @@
         "variant":  "14",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -534,7 +569,7 @@
         "variant":  "17",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -546,7 +581,7 @@
         "variant":  "18",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -558,7 +593,7 @@
         "variant":  "19",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -570,7 +605,7 @@
         "variant":  "2 (2ND PRINT)",
         "price":  4.99,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -582,7 +617,7 @@
         "variant":  "20",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -594,7 +629,7 @@
         "variant":  "21",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -606,7 +641,7 @@
         "variant":  "22",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -618,7 +653,7 @@
         "variant":  "23",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -630,7 +665,7 @@
         "variant":  "24",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -642,7 +677,7 @@
         "variant":  "25",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -654,7 +689,7 @@
         "variant":  "5 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -666,7 +701,7 @@
         "variant":  "6 (2ND PRINT)",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -678,7 +713,7 @@
         "variant":  "8",
         "price":  2.49,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:55:57 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -690,7 +725,7 @@
         "variant":  "SET",
         "price":  "50",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -702,7 +737,7 @@
         "variant":  "4C",
         "price":  "0.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -714,31 +749,7 @@
         "variant":  "6A",
         "price":  "0.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-19-IMAGE-COMICS-JAN-2014-NM-/121530191558?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4bc38ec6",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-19-IMAGE-COMICS-JAN-2014-NM-/121530191558?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4bc38ec6\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-19-IMAGE-COMICS-JAN-2014-NM-/121530191558?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4bc38ec6\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "19",
-        "variant":  "19",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "25-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-IMAGE-COMICS-OCT-2012-NM-/121531966392?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4bdea3b8",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-IMAGE-COMICS-OCT-2012-NM-/121531966392?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4bdea3b8\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-IMAGE-COMICS-OCT-2012-NM-/121531966392?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4bdea3b8\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "8",
-        "variant":  "8B",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -750,7 +761,19 @@
         "variant":  "23",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-IMAGE-COMICS-OCT-2012-NM-/121557013035?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d5cd22b",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-IMAGE-COMICS-OCT-2012-NM-/121557013035?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d5cd22b\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-IMAGE-COMICS-OCT-2012-NM-/121557013035?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d5cd22b\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "8",
+        "variant":  "8B",
+        "price":  "2.5",
+        "currency":  "?",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -762,7 +785,7 @@
         "variant":  "10B",
         "price":  "1.2",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -774,7 +797,7 @@
         "variant":  "8B",
         "price":  "1.2",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -786,7 +809,7 @@
         "variant":  "18",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -798,7 +821,7 @@
         "variant":  "17",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -810,7 +833,7 @@
         "variant":  "14",
         "price":  "1.2",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -822,7 +845,7 @@
         "variant":  "15",
         "price":  "1.2",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -834,7 +857,7 @@
         "variant":  "7A",
         "price":  "1.2",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -846,7 +869,7 @@
         "variant":  "9A",
         "price":  "1.2",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -858,7 +881,7 @@
         "variant":  "19",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -870,7 +893,7 @@
         "variant":  "20",
         "price":  "1",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -882,7 +905,7 @@
         "variant":  "21",
         "price":  "1",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -894,7 +917,7 @@
         "variant":  "22",
         "price":  "1.45",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -906,7 +929,7 @@
         "variant":  "23",
         "price":  "1.45",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -918,7 +941,7 @@
         "variant":  "18",
         "price":  "2",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -930,7 +953,7 @@
         "variant":  "16",
         "price":  "2",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -942,7 +965,7 @@
         "variant":  "11A",
         "price":  "2",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -954,7 +977,7 @@
         "variant":  "6A",
         "price":  "2",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -966,7 +989,7 @@
         "variant":  "5A",
         "price":  "2.2",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -978,7 +1001,7 @@
         "variant":  "8A",
         "price":  "1",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -990,7 +1013,7 @@
         "variant":  "4C",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1002,7 +1025,7 @@
         "variant":  "5B",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1014,7 +1037,7 @@
         "variant":  "6B",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1026,7 +1049,7 @@
         "variant":  "7A",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1038,7 +1061,7 @@
         "variant":  "7B",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1050,7 +1073,7 @@
         "variant":  "8B",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1062,7 +1085,7 @@
         "variant":  "9B",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1074,7 +1097,7 @@
         "variant":  "16",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1086,7 +1109,7 @@
         "variant":  "17",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1098,7 +1121,19 @@
         "variant":  "19",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/image-comics-thief-of-thieves-8-september-2012-136667145.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/image-comics-thief-of-thieves-8-september-2012-136667145.htm\"\u003ehttp://uk.ebid.net/for-sale/image-comics-thief-of-thieves-8-september-2012-136667145.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "8",
+        "variant":  "8A",
+        "price":  "1",
+        "currency":  "?",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1110,7 +1145,7 @@
         "variant":  "11A",
         "price":  "1.95",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1122,7 +1157,7 @@
         "variant":  "21",
         "price":  "2.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1134,7 +1169,7 @@
         "variant":  "24",
         "price":  "3",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1146,7 +1181,7 @@
         "variant":  "2A",
         "price":  "34.95",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1158,7 +1193,7 @@
         "variant":  "4A",
         "price":  "12.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1170,19 +1205,7 @@
         "variant":  "7A",
         "price":  "4.95",
         "currency":  "?",
-        "rundate":  "25-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-1-FIRST-PRINT-DECEMBER-2012-/151560198297?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2349b11899",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-1-FIRST-PRINT-DECEMBER-2012-/151560198297?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2349b11899\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-1-FIRST-PRINT-DECEMBER-2012-/151560198297?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2349b11899\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "1",
-        "variant":  "1FIRSTS",
-        "price":  "30",
-        "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1194,7 +1217,7 @@
         "variant":  "15",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1206,7 +1229,7 @@
         "variant":  "17",
         "price":  "3.04",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1218,7 +1241,7 @@
         "variant":  "5A",
         "price":  "8.95",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1230,7 +1253,7 @@
         "variant":  "6A",
         "price":  "4.95",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1242,7 +1265,7 @@
         "variant":  "8A",
         "price":  "6.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1254,7 +1277,7 @@
         "variant":  "22",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1266,7 +1289,7 @@
         "variant":  "8A",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1278,7 +1301,7 @@
         "variant":  "4A",
         "price":  "13.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1290,7 +1313,7 @@
         "variant":  "2A",
         "price":  "25.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1302,7 +1325,7 @@
         "variant":  "1A",
         "price":  "49.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1314,7 +1337,7 @@
         "variant":  "19",
         "price":  "1.95",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1326,7 +1349,7 @@
         "variant":  "23",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1338,7 +1361,7 @@
         "variant":  "3A",
         "price":  "17.95",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1350,7 +1373,7 @@
         "variant":  "15",
         "price":  "4.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1362,7 +1385,7 @@
         "variant":  "16",
         "price":  "4.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1374,7 +1397,7 @@
         "variant":  "7A",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1386,7 +1409,7 @@
         "variant":  "11A",
         "price":  "4.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1398,7 +1421,7 @@
         "variant":  "17",
         "price":  "1.9",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1410,7 +1433,7 @@
         "variant":  "VOL2",
         "price":  "19.74",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1422,7 +1445,7 @@
         "variant":  "6A",
         "price":  "5.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1434,7 +1457,7 @@
         "variant":  "5A",
         "price":  "6.74",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1446,7 +1469,7 @@
         "variant":  "4A",
         "price":  "19.95",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1458,7 +1481,7 @@
         "variant":  "5A",
         "price":  "14.95",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1470,7 +1493,7 @@
         "variant":  "2B",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1482,7 +1505,7 @@
         "variant":  "13",
         "price":  "4.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1494,7 +1517,7 @@
         "variant":  "14",
         "price":  "4.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1506,7 +1529,7 @@
         "variant":  "8A",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1518,7 +1541,7 @@
         "variant":  "10A",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1530,7 +1553,7 @@
         "variant":  "9A",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1542,7 +1565,7 @@
         "variant":  "VOL1",
         "price":  "19.78",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1554,7 +1577,7 @@
         "variant":  "16",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1566,7 +1589,7 @@
         "variant":  "16",
         "price":  "2.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1578,7 +1601,7 @@
         "variant":  "20",
         "price":  "2.65",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1590,7 +1613,7 @@
         "variant":  "22",
         "price":  "3",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1602,7 +1625,7 @@
         "variant":  "23",
         "price":  "3",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1614,7 +1637,7 @@
         "variant":  "24",
         "price":  "2.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1626,7 +1649,7 @@
         "variant":  "1FIRSTS",
         "price":  "3.1",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1638,7 +1661,7 @@
         "variant":  "19",
         "price":  "2.7",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1650,7 +1673,7 @@
         "variant":  "20",
         "price":  "1",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1662,7 +1685,7 @@
         "variant":  "3A",
         "price":  "14.95",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1674,19 +1697,7 @@
         "variant":  "SET",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-4-5-6-7-8-9-10-11-15-16-17-19-20-23-IMAGE-COMICS-2012-/201269297319?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2edc95c0a7",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-4-5-6-7-8-9-10-11-15-16-17-19-20-23-IMAGE-COMICS-2012-/201269297319?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2edc95c0a7\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-4-5-6-7-8-9-10-11-15-16-17-19-20-23-IMAGE-COMICS-2012-/201269297319?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2edc95c0a7\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  "0.99",
-        "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1698,7 +1709,7 @@
         "variant":  "2ACGCSIGNED",
         "price":  "120",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1710,7 +1721,7 @@
         "variant":  "1BCGC",
         "price":  "250",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1722,7 +1733,7 @@
         "variant":  "13",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1734,7 +1745,7 @@
         "variant":  "6B",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1746,7 +1757,7 @@
         "variant":  "16",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1758,7 +1769,7 @@
         "variant":  "2D",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1770,7 +1781,7 @@
         "variant":  "17",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1782,7 +1793,7 @@
         "variant":  "7B",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1794,7 +1805,7 @@
         "variant":  "19",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1806,7 +1817,7 @@
         "variant":  "7B",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1818,7 +1829,7 @@
         "variant":  "6B",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1830,7 +1841,7 @@
         "variant":  "19",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1842,7 +1853,7 @@
         "variant":  "20",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1854,7 +1865,7 @@
         "variant":  "21",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1866,7 +1877,7 @@
         "variant":  "9B",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1878,19 +1889,19 @@
         "variant":  "5B",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-7-ROBERT-KIRKMAN-IMAGE-COMICS-UNREAD-VF-NM-/221666208014?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339c55e90e",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-7-ROBERT-KIRKMAN-IMAGE-COMICS-UNREAD-VF-NM-/221666208014?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339c55e90e\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-7-ROBERT-KIRKMAN-IMAGE-COMICS-UNREAD-VF-NM-/221666208014?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339c55e90e\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-7-ROBERT-KIRKMAN-IMAGE-COMICS-UNREAD-VF-NM-/221672510670?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339cb614ce",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-7-ROBERT-KIRKMAN-IMAGE-COMICS-UNREAD-VF-NM-/221672510670?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339cb614ce\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-7-ROBERT-KIRKMAN-IMAGE-COMICS-UNREAD-VF-NM-/221672510670?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339cb614ce\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
         "issue":  "7",
         "variant":  "7A",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1902,7 +1913,7 @@
         "variant":  "VOL2",
         "price":  "9.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1914,7 +1925,7 @@
         "variant":  "14",
         "price":  "2.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1926,7 +1937,7 @@
         "variant":  "11A",
         "price":  "2.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1938,7 +1949,7 @@
         "variant":  "8B",
         "price":  "5.98",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1950,7 +1961,7 @@
         "variant":  "16",
         "price":  "4.19",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1962,7 +1973,7 @@
         "variant":  "17",
         "price":  "5.98",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1974,7 +1985,7 @@
         "variant":  "VOL3",
         "price":  "8.97",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1986,7 +1997,7 @@
         "variant":  "20",
         "price":  "5.98",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -1998,7 +2009,7 @@
         "variant":  "19",
         "price":  "5.98",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2010,7 +2021,7 @@
         "variant":  "17",
         "price":  "2.79",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2022,7 +2033,7 @@
         "variant":  "6A",
         "price":  "2.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2034,7 +2045,7 @@
         "variant":  "1FIRSTS",
         "price":  "1.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2046,7 +2057,7 @@
         "variant":  "2A",
         "price":  "44.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2058,19 +2069,7 @@
         "variant":  "19",
         "price":  "2.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-1-3rd-PRINT-IMAGE-NEAR-MINT-/251798479065?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa05be0d9",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-1-3rd-PRINT-IMAGE-NEAR-MINT-/251798479065?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa05be0d9\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-1-3rd-PRINT-IMAGE-NEAR-MINT-/251798479065?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa05be0d9\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "1",
-        "variant":  "1D",
-        "price":  "4.99",
-        "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2082,7 +2081,7 @@
         "variant":  "3A",
         "price":  "29.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2094,7 +2093,7 @@
         "variant":  "1D",
         "price":  "7.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2106,7 +2105,7 @@
         "variant":  "1D",
         "price":  "4.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2118,7 +2117,7 @@
         "variant":  "VOL1",
         "price":  "8.55",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2130,7 +2129,7 @@
         "variant":  "15",
         "price":  "2.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2142,7 +2141,7 @@
         "variant":  "9B",
         "price":  "5.98",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2154,7 +2153,7 @@
         "variant":  "18",
         "price":  "5.98",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2166,7 +2165,7 @@
         "variant":  "VOL1",
         "price":  "9.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2178,7 +2177,7 @@
         "variant":  "1A",
         "price":  "60",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2190,7 +2189,7 @@
         "variant":  "13",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2202,7 +2201,7 @@
         "variant":  "4A",
         "price":  "8",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2214,7 +2213,7 @@
         "variant":  "4B",
         "price":  "4",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2226,7 +2225,7 @@
         "variant":  "9A",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2238,7 +2237,7 @@
         "variant":  "11",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2250,7 +2249,7 @@
         "variant":  "VOL2",
         "price":  "8.55",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2262,7 +2261,7 @@
         "variant":  "COL3",
         "price":  "8.55",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2274,7 +2273,7 @@
         "variant":  "4C",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2286,7 +2285,7 @@
         "variant":  "6A",
         "price":  "5.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2298,7 +2297,7 @@
         "variant":  "10B",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2310,7 +2309,7 @@
         "variant":  "17",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2322,7 +2321,7 @@
         "variant":  "8B",
         "price":  "3.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2334,7 +2333,7 @@
         "variant":  "18",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2346,7 +2345,7 @@
         "variant":  "18",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2358,7 +2357,7 @@
         "variant":  "19",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2370,7 +2369,7 @@
         "variant":  "19",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2382,7 +2381,7 @@
         "variant":  "21",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2394,7 +2393,7 @@
         "variant":  "11A",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2406,7 +2405,7 @@
         "variant":  "10A",
         "price":  "5.04",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2418,7 +2417,7 @@
         "variant":  "3A",
         "price":  "16.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2430,7 +2429,7 @@
         "variant":  "7A",
         "price":  "3.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2442,7 +2441,7 @@
         "variant":  "24",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2454,7 +2453,7 @@
         "variant":  "18",
         "price":  "2.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2466,7 +2465,7 @@
         "variant":  "5B",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2478,7 +2477,7 @@
         "variant":  "7A",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2490,19 +2489,7 @@
         "variant":  "20",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Thief-Of-Thieves-1-4-5-6-7-8-9-10-11-12-Robert-Kirkman-Image-Comics-/321631842431?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c0707f",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Thief-Of-Thieves-1-4-5-6-7-8-9-10-11-12-Robert-Kirkman-Image-Comics-/321631842431?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c0707f\"\u003ehttp://www.ebay.co.uk/itm/Thief-Of-Thieves-1-4-5-6-7-8-9-10-11-12-Robert-Kirkman-Image-Comics-/321631842431?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c0707f\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  "25",
-        "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2514,7 +2501,7 @@
         "variant":  "4C",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2526,7 +2513,7 @@
         "variant":  "17",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2538,7 +2525,7 @@
         "variant":  "8B",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2550,7 +2537,7 @@
         "variant":  "16",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2562,7 +2549,7 @@
         "variant":  "7B",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2574,7 +2561,7 @@
         "variant":  "7A",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2586,7 +2573,7 @@
         "variant":  "17",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2598,7 +2585,7 @@
         "variant":  "24",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2610,7 +2597,7 @@
         "variant":  "19",
         "price":  "2",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2622,7 +2609,7 @@
         "variant":  "HARDCOVER3SDCC",
         "price":  "35.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2634,7 +2621,7 @@
         "variant":  "VOL2",
         "price":  "10.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2646,7 +2633,7 @@
         "variant":  "23",
         "price":  "2.2",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2658,7 +2645,7 @@
         "variant":  "15",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2670,7 +2657,7 @@
         "variant":  "13",
         "price":  "3.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2682,7 +2669,7 @@
         "variant":  "19",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2694,7 +2681,7 @@
         "variant":  "18",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2706,7 +2693,7 @@
         "variant":  "16",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2718,7 +2705,7 @@
         "variant":  "17",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2730,7 +2717,7 @@
         "variant":  "2A",
         "price":  "25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2742,7 +2729,7 @@
         "variant":  "7A",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2754,7 +2741,7 @@
         "variant":  "6A",
         "price":  "3",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2766,7 +2753,7 @@
         "variant":  "25",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2778,7 +2765,7 @@
         "variant":  "VOL1",
         "price":  "10.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2790,7 +2777,7 @@
         "variant":  "4C",
         "price":  "0.99",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2802,7 +2789,7 @@
         "variant":  "17",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2814,7 +2801,7 @@
         "variant":  "19",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2826,7 +2813,7 @@
         "variant":  "23",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2838,7 +2825,7 @@
         "variant":  "1C",
         "price":  "7",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2850,7 +2837,7 @@
         "variant":  "11A",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2862,7 +2849,7 @@
         "variant":  "14",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2874,19 +2861,7 @@
         "variant":  "16",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Thief-Thieves-2-2nd-Print-Variant-/390913831389?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5b0447b1dd\u0026ssPageName=RSS:B:SHOP:GB:101",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Thief-Thieves-2-2nd-Print-Variant-/390913831389?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5b0447b1dd\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Thief-Thieves-2-2nd-Print-Variant-/390913831389?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5b0447b1dd\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "2",
-        "variant":  "2B",
-        "price":  "4",
-        "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2898,7 +2873,7 @@
         "variant":  "5A",
         "price":  "6",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2910,7 +2885,7 @@
         "variant":  "6A",
         "price":  "6",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2922,7 +2897,7 @@
         "variant":  "8A",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2934,7 +2909,7 @@
         "variant":  "21",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2946,7 +2921,7 @@
         "variant":  "22",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2958,7 +2933,7 @@
         "variant":  "16",
         "price":  "2.9",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2970,7 +2945,7 @@
         "variant":  "19",
         "price":  "2.9",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2982,7 +2957,7 @@
         "variant":  "SET",
         "price":  "2.95",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -2994,7 +2969,7 @@
         "variant":  "16",
         "price":  "2.7",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -3006,7 +2981,19 @@
         "variant":  "26",
         "price":  "3.45",
         "currency":  "?",
-        "rundate":  "25-1-2015",
+        "rundate":  "31-1-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-Issue-23-1st-print-/400851893722?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d54a27dda",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-Issue-23-1st-print-/400851893722?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d54a27dda\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-Issue-23-1st-print-/400851893722?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d54a27dda\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "23",
+        "variant":  "23",
+        "price":  "2.95",
+        "currency":  "?",
+        "rundate":  "31-1-2015",
         "site":  "Auction"
     },
     {
@@ -3018,7 +3005,19 @@
         "variant":  "DEC140768 THIEF OF THIEVES #26 (MR)",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:56:16 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:15 GMT+0000 (UTC)",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92145\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92145\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92145\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "28",
+        "variant":  "FEB150641 THIEF OF THIEVES #28 (MR)",
+        "price":  2.40,
+        "currency":  "?",
+        "rundate":  "Sat Jan 31 2015 21:09:15 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -3030,7 +3029,7 @@
         "variant":  "JAN150715 THIEF OF THIEVES #27 (MR)",
         "price":  2.40,
         "currency":  "?",
-        "rundate":  "Sun Jan 25 2015 12:56:16 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:15 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -3042,7 +3041,7 @@
         "variant":  "THIEF OF THIEVES VOL 1 I QUIT TP",
         "price":  "12.74",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3054,7 +3053,7 @@
         "variant":  "THIEF OF THIEVES VOL 2 HELP ME TP",
         "price":  "12.74",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3066,7 +3065,7 @@
         "variant":  "1 COMICSPRO VARIANT SKETCH COVER",
         "price":  "225.00",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3078,7 +3077,7 @@
         "variant":  "10 2ND PTG",
         "price":  "2.99",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3090,7 +3089,7 @@
         "variant":  "14",
         "price":  "2.99",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3102,7 +3101,7 @@
         "variant":  "15",
         "price":  "2.99",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3114,7 +3113,7 @@
         "variant":  "16",
         "price":  "2.99",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3126,7 +3125,7 @@
         "variant":  "18",
         "price":  "2.99",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3138,7 +3137,7 @@
         "variant":  "19",
         "price":  "2.99",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3150,7 +3149,7 @@
         "variant":  "20",
         "price":  "2.99",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3162,7 +3161,7 @@
         "variant":  "21",
         "price":  "2.99",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3174,7 +3173,7 @@
         "variant":  "22",
         "price":  "2.99",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3186,7 +3185,7 @@
         "variant":  "23",
         "price":  "2.99",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3198,7 +3197,7 @@
         "variant":  "24",
         "price":  "2.99",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3210,19 +3209,7 @@
         "variant":  "25",
         "price":  "2.99",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2327_1405973",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2327_1405973\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2327_1405973\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "27",
-        "variant":  "27",
-        "price":  "1.94",
-        "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3234,7 +3221,7 @@
         "variant":  "28 (MR)",
         "price":  "1.94",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3246,7 +3233,7 @@
         "variant":  "THIEF OF THIEVES MINIMATE BOX SET",
         "price":  "19.99",
         "currency":  "$",
-        "rundate":  "Sun Jan 25 2015 12:56:31 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3257,7 +3244,7 @@
         "issue":  "5",
         "variant":  "2",
         "price":  "2.85",
-        "rundate":  "Sun Jan 25 2015 12:56:34 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3268,7 +3255,7 @@
         "issue":  "7",
         "variant":  "3",
         "price":  "2.85",
-        "rundate":  "Sun Jan 25 2015 12:56:34 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3279,7 +3266,7 @@
         "issue":  "8",
         "variant":  "1",
         "price":  "2.85",
-        "rundate":  "Sun Jan 25 2015 12:56:34 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3290,7 +3277,7 @@
         "issue":  "9",
         "variant":  "2",
         "price":  "2.85",
-        "rundate":  "Sun Jan 25 2015 12:56:34 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3301,7 +3288,7 @@
         "issue":  "10",
         "variant":  "2",
         "price":  "2.85",
-        "rundate":  "Sun Jan 25 2015 12:56:34 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3312,7 +3299,7 @@
         "issue":  "11",
         "variant":  "1",
         "price":  "2.85",
-        "rundate":  "Sun Jan 25 2015 12:56:34 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3323,7 +3310,7 @@
         "issue":  "12",
         "variant":  "1",
         "price":  "2.85",
-        "rundate":  "Sun Jan 25 2015 12:56:34 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3334,7 +3321,7 @@
         "issue":  "13",
         "variant":  "2",
         "price":  "2.85",
-        "rundate":  "Sun Jan 25 2015 12:56:34 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3345,7 +3332,7 @@
         "issue":  "14",
         "variant":  "2",
         "price":  "2.85",
-        "rundate":  "Sun Jan 25 2015 12:56:34 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3356,7 +3343,7 @@
         "issue":  "15",
         "variant":  "1",
         "price":  "2.85",
-        "rundate":  "Sun Jan 25 2015 12:56:34 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3367,7 +3354,7 @@
         "issue":  "16",
         "variant":  "2",
         "price":  "2.85",
-        "rundate":  "Sun Jan 25 2015 12:56:34 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3378,7 +3365,7 @@
         "issue":  "17",
         "variant":  "1",
         "price":  "2.85",
-        "rundate":  "Sun Jan 25 2015 12:56:34 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3389,7 +3376,7 @@
         "issue":  "18",
         "variant":  "1",
         "price":  "2.85",
-        "rundate":  "Sun Jan 25 2015 12:56:34 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3400,7 +3387,7 @@
         "issue":  "22",
         "variant":  "1",
         "price":  "2.60",
-        "rundate":  "Sun Jan 25 2015 12:56:34 GMT+0000 (UTC)",
+        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     }
 ]

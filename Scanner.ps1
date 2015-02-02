@@ -11,6 +11,8 @@ import-Module "$PSScriptRoot\tfaw.ps1" -force
 import-Module "$PSScriptRoot\dcbs.ps1" -force
 import-Module "$PSScriptRoot\midtown.ps1" -force
 import-Module "$PSScriptRoot\intercomics.ps1" -force
+import-Module "$PSScriptRoot\comicxposure.ps1" -force
+import-module "$PSScriptRoot\xrates.ps1" -force
 
 function get-market
 {
@@ -20,8 +22,11 @@ function get-market
    
    $allrecords=@()
    $filetitle=$record.title.replace(" ","")
-  
-   $allrecords+=get-dcbsdata -record $record
+
+   $dollarrate=get-gbpdollarrate
+
+   $allrecords+=get-dcbsdata -record $record  -dollarrate $dollarrate
+   $allrecords+=get-comicxposuredata -record $record -dollarrate $dollarrate
    $allrecords+=get-dhdata -record $record
    $allrecords+=get-closeencountersdata -record $record 
    $allrecords+=get-fpdata  -record $record  
@@ -43,6 +48,7 @@ function get-market
 
 #retrieve data
 get-dcbs
+get-comicxposure
 
 #load all unique title objects from Json file
 $searches=(Get-Content "$PSScriptRoot\search-data.json") -join "`n" |ConvertFrom-Json
