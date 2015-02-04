@@ -36,29 +36,19 @@ function get-dcbsdata
    $arraycount=0
    $dcbs=@()
    
-   if ($results -is [system.array])
-   {
-      $arraycount=$results.count
-   }
-   else
-   {
-      if ($results -ne $NULL)
-      { 
-         $arraycount=1
-      }
-   }
+   
 
-   While($counter -ne $arraycount)
+   foreach($result in $results)
    {
       $record= New-Object System.Object
           
-      $url="<a href=`"$($results[$counter].title.href)`">$($results[$counter].title.href)</a>"
-      $record| Add-Member -type NoteProperty -name link -value $results[$counter].title.href
+      $url="<a href=`"$($result.title.href)`">$($result.title.href)</a>"
+      $record| Add-Member -type NoteProperty -name link -value $result.title.href
       $record| Add-Member -type NoteProperty -name url -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       
-      $price=$results[$counter].price.split('$')[1]
-      $variant=($results[$counter].title.text.replace("$title","")).trim()
+      $price=$result.price.split('$')[1]
+      $variant=($result.title.text.replace("$title","")).trim()
       if ($variant.contains("#"))
       {
          $issue=($variant.split("#")[1]).split(" ")[0]

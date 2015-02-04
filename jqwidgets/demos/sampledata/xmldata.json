@@ -1,32 +1,32 @@
 [
     {
         "date": "1/1/2011",
-        "quantity": 10,
+        "quantity": "10",
         "description": "Beverages"
     },
     {
         "date": "2/2/2011",
-        "quantity": 15,
+        "quantity": "15",
         "description": "Condiments"
     },
     {
         "date": "3/3/2011",
-        "quantity": 20,
+        "quantity": "20",
         "description": "Grains/Cereals"
     },
     {
         "date": "4/6/2011",
-        "quantity":30,
+        "quantity":"30",
         "description":"Beverages"
     },
     {
         "date": "5/10/2011",
-        "quantity": 40,
+        "quantity": "40",
         "description":"Beverages"
     },
     {
         "date": "5/12/2011",
-        "quantity": 50,
+        "quantity": "50",
         "description": "Grains/Cereals</description"
     }
 ]

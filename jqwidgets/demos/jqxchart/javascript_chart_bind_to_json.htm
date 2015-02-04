@@ -13,10 +13,9 @@
             // prepare the data
             var source = {
                 datafields: [
-                    { name: 'date', type: 'datetime'},
-                    { name: 'quantity', type: 'int'},
+                    { name: 'date', type: 'string'},
+                    { name: 'quantity', type: 'string'},
                     { name: 'description', type: 'string'}],
-                record: "order",
                 datatype: "json",
                 url: '../sampledata/xmldata.json'
             }
@@ -24,16 +23,12 @@
 			
             // prepare jqxChart settings
             var settings = {
-                title: "Test Orders for January - May",
+                title: "Json Chart",
                 showLegend: true,
                 enableAnimations: true,
                 source: dataAdapter,
                 xAxis: {
                     dataField: 'date',
-                    formatFunction: function (value) {
-                        var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-                        return months[new Date(value).getMonth()];
-                    },
                     showGridLines: true
                 },
                 colorScheme: 'scheme04',

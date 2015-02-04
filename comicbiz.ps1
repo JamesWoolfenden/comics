@@ -48,37 +48,17 @@ function get-comicbizdata
    $comicbiz=@()
    $results=$cbsresults.results.collection1
 
-   switch ($results -is [system.array] )
-   {
-      $NULL 
-      {
-         return $NULL 
-      }
-      $true
-      {
-         #do nothing
-      }
-      $false 
-      {
-         $results = $results | Add-Member @{count="1"} -PassThru
-      }
-      default
-      {
-         return $NULL
-      }
-   }
-
-   While($counter -ne $results.count)
+   foreach($result in $results)
    {
       $record= New-Object System.Object
-      $url="<a href=`"$($results[$counter].title.href)`">$($results[$counter].title.href)</a>"
-      $record| Add-Member -type NoteProperty -name link -value $results[$counter].title.href
+      $url="<a href=`"$($result.title.href)`">$($result.title.href)</a>"
+      $record| Add-Member -type NoteProperty -name link -value $result.title.href
       $record| Add-Member -type NoteProperty -name url -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
   
-      $issue=get-coverdetails -rawissue $results[$counter].title.text     
-      $price=get-price -price $results[$counter].price.split(" ")[0]
+      $issue=get-coverdetails -rawissue $result.title.text     
+      $price=get-price -price $result.price.split(" ")[0]
 
       $record| Add-Member -type NoteProperty -name issue -value $issue.cover
       $record| Add-Member -type NoteProperty -name variant -value $issue.variant
