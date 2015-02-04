@@ -52,38 +52,18 @@ function get-comicbookshopdata
    $results=$results|where {$_.title.text -notmatch "T/S"}
    $results=$results|where {$_.title.text -notmatch "Novel"}
 
-   switch ($results -is [system.array] )
-   {
-      $NULL 
-      {
-         return $NULL 
-      }
-      $true
-      {
-         #do nothing
-      }
-      $false 
-      {
-         $results = $results | Add-Member @{count="1"} -PassThru
-      }
-      default
-      {
-         return $NULL
-      }
-   }
-
-   While($counter -ne $results.count)
+   foreach($result in $results)
    {
       $record= New-Object System.Object
-      $url="<a href=`"$($results[$counter].title.href)`">$($results[$counter].title.href)</a>"
+      $url="<a href=`"$($result.title.href)`">$($result.title.href)</a>"
   
-      $record| Add-Member -type NoteProperty -name link -value $results[$counter].title.href
+      $record| Add-Member -type NoteProperty -name link -value $result.title.href
       $record| Add-Member -type NoteProperty -name url -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       
       #some encoding to sort
-      $variant= ($results[$counter].title.text).replace("\u0026","&")
-      $temp=$results[$counter].title.text
+      $variant= ($result.title.text).replace("\u0026","&")
+      $temp=$result.title.text
       $id=$temp.split(" ")[0]
       $temp=$temp.Replace("$id ","")
 
@@ -98,7 +78,7 @@ function get-comicbookshopdata
 
       $record| Add-Member -type NoteProperty -name title -value $title
       
-      $rawprice=($results[$counter].price).Replace("Add:","")
+      $rawprice=($result.price).Replace("Add:","")
       if (!$rawprice)
       {
          $rawprice="£0.00"

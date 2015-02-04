@@ -38,38 +38,19 @@ function get-gurudata
    $counter=0
    $guru=@()
    
-   switch ($results -is [system.array] )
-   {
-      $NULL 
-      {
-         return $NULL 
-      }
-      $true
-      {
-         #do nothing
-      }
-      $false 
-      {
-         $results = $results | Add-Member @{count="1"} -PassThru
-      }
-      default
-      {
-         return $NULL
-      }
-   }
    
-   While($counter -ne $results.count)
+   foreach($result in $results)
    {
       $record= New-Object System.Object
       $record| Add-Member -type NoteProperty -name link -value "http://www.thecomicguru.co.uk"
       $record| Add-Member -type NoteProperty -name url -value "<a href=`"http://www.thecomicguru.co.uk/item.php?product=$productcode`">http://www.thecomicguru.co.uk/item.php?product=$productcode</>"
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
-      $temp=$results[$counter].issue -split("Stock:")
+      $temp=$result.issue -split("Stock:")
       $record| Add-Member -type NoteProperty -name issue -value $temp[0]
       [string]$variant=($temp[1]).trim()
       $record| Add-Member -type NoteProperty -name variant -value $variant
-      $record| Add-Member -type NoteProperty -name price -value $results[$counter].price.Replace("£","")
+      $record| Add-Member -type NoteProperty -name price -value $result.price.Replace("£","")
       $record| Add-Member -type NoteProperty -name rundate -value $gururesults.lastsuccess
       $record| Add-Member -type NoteProperty -name site -value $site
       

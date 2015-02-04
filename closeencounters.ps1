@@ -49,60 +49,39 @@ function get-closeencountersdata
    $results= $ceresults.results.collection1
    $results= $results| where {$_.title.text -ne ""}
    
-   switch ($results -is [system.array] )
+   foreach($result in $results)
    {
-      $NULL 
-      {
-         return $NULL 
-      }
-      $true
-      {
-         #do nothing
-      }
-      $false 
-      {
-         $results = $results | Add-Member @{count="1"} -PassThru
-      }
-      default
-      {
-         return $NULL
-      }
-   }
-
-   While($counter -ne $results.count)
-   {
-
       $record= New-Object System.Object
-      $url="<a href=`"$($results[$counter].title.href)`">$($results[$counter].title.href)</a>"
+      $url="<a href=`"$($result.title.href)`">$($result.title.href)</a>"
       
-      $record| Add-Member -type NoteProperty -name link -value $results[$counter].title.href
+      $record| Add-Member -type NoteProperty -name link -value $result.title.href
       $record| Add-Member -type NoteProperty -name url -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
 
-      $variant=(($results[$counter].title.text).ToUpper()).Replace("$title ","").replace("\u0026","&")
+      $variant=(($result.title.text).ToUpper()).Replace("$title ","").replace("\u0026","&")
       $temp=$variant.Split(" ")
 
-      if ($results[$counter].price -is [system.array])
+      if ($result.price -is [system.array])
       {
-         $price=get-price -price $results[$counter].price[1]
+         $price=get-price -price $result.price[1]
       }
       else
       {
-         if ($results[$counter].price.contains(" "))
+         if ($result.price.contains(" "))
          {
-            $tempprice=$results[$counter].price.Split(" ")
+            $tempprice=$result.price.Split(" ")
             $price=get-price -price $tempprice[1]
          }
          else
          {
             try
             {
-                $price=get-price -price $results[$counter].price
+                $price=get-price -price $result.price
             }     
             catch
             {
-                write-warning "Price fail on Count $counter : $results[$counter])"
+                write-warning "Price fail on Count $counter : $result)"
                 $price=$null
             }       
          }
