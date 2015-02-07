@@ -160,7 +160,7 @@ function get-price
    if ($price.contains("`$"))
    {
       $price=$price.Replace("`$","")
-      $currency='`$'
+      $currency='$'
    }
 
    if ($price.contains("€"))
@@ -270,4 +270,17 @@ function update-set
    {
       update-record $record 
    }
+}
+
+function get-numeric
+{
+   param([string]$string)
+   $found=$string -match '(\d+)'
+   if ($found)
+   {
+      $result=$matches[1]
+      return $result	
+   }
+   
+   $null
 }

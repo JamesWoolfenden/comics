@@ -45,7 +45,7 @@ function get-closeencountersdata
    }
 
    $counter=0
-   $closeecounters=@()
+   $closeencounters=@()
    $results= $ceresults.results.collection1
    $results= $results| where {$_.title.text -ne ""}
    
@@ -94,10 +94,10 @@ function get-closeencountersdata
       $record| Add-Member -type NoteProperty -name rundate -value $ceresults.lastsuccess
       $record| Add-Member -type NoteProperty -name site -value $site
 
-      $closeecounters+=$record
+      $closeencounters+=$record
       $counter++
    }
    
    write-host "$(Get-Date) - Record $counter"
-   $closeecounters 
+   $closeencounters 
 }

@@ -1,30 +1,90 @@
+import-module "$PSScriptRoot\core.ps1" -force
+import-module "$PSScriptRoot\xrates.ps1" -force
 
-hastings
+function get-hastingsdata
+{
+   param (
+   [Parameter(Mandatory=$true)]
+   [PSObject]$Record,
+   $dollarrate=(get-gbpdollarrate))
+   
+   $title=$record.title.ToUpper()
+   $comic=$title.replace(" ","+")
+   $keywords="&keywords=$comic"
+   $site="Hastings"
+   $url="https://www.kimonolabs.com/api/4frkfrdo?apikey=01f250503b7c40eb0ce695da7d74cbb1$keywords"
 
-http://www.gohastings.com/catalog/search_all.cmd?form_state=global-search-form-form&keywords=walking+dead&search-button.x=0&search-button.y=0&productType=0&query=&form_state=siteSearchForm&department=AllSearch&departmentName=AllSearch&dynamic=&search=true&source=global&condition=0
+   write-debug "Accessing $url"
+   write-Host "$(Get-Date) - Looking for $($record.title) @ `"$site`""
 
-curl --include --request GET "https://www.kimonolabs.com/api/4frkfrdo?apikey=01f250503b7c40eb0ce695da7d74cbb1"
-Please remember to include your API key with each call to your API.
+   $hastingsresults=invoke-restmethod -uri $url
 
-URL PARAMETERS 
+   if ($hastingresults.lastrunstatus -eq "failure")
+   {
+      write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
+      return $null
+   }
 
-When you use URL parameters, your API will disregard any crawling strategy and extract data at the time of your crawl (temporarily overriding any other settings previously set for this API).
+   $counter = 0
+   $hastings= @()
+   $results = $hastingsresults.results.collection1
+   $results = $results| where {$_.title.text -ne ""}
+   
+   foreach($result in $results)
+   {
+      $record= New-Object psobject
+      $record.psobject.TypeNames.Insert(0, "ComicSearchResult")
 
-http://www.gohastings.com/ catalog / search_all.cmd ? form_state=global-search-form-form & keywords=walking+dead & search-button.x=0 & search-button.y=0 & productType=0 & query= & form_state=siteSearchForm & department=AllSearch & departmentName=AllSearch & dynamic= & search=true & source=global & condition=0
+      $url="<a href=`"$($result.title.href)`">$($result.title.href)</a>"
+      
+      $record| Add-Member -type NoteProperty -name link -value $result.title.href
+      $record| Add-Member -type NoteProperty -name url -value $url
+      $record| Add-Member -type NoteProperty -name orderdate -value $NULL
+      $record| Add-Member -type NoteProperty -name title -value $title
 
-PARAMETER	DEFAULT VALUE	PARAMETER TO APPEND
-kimpath1	catalog	&kimpath1=newvalue
-kimpath2	search_all.cmd	&kimpath2=newvalue
-form_state	global-search-form-form	&form_state=newvalue
-keywords	walking+dead	&keywords=newvalue
-search-button.x	0	&search-button.x=newvalue
-search-button.y	0	&search-button.y=newvalue
-productType	0	&productType=newvalue
-query		&query=newvalue
-form_state	siteSearchForm	&form_state=newvalue
-department	AllSearch	&department=newvalue
-departmentName	AllSearch	&departmentName=newvalue
-dynamic		&dynamic=newvalue
-search	true	&search=newvalue
-source	global	&source=newvalue
-condition	0	&condition=newvalue
+      $variant=(($result.title.text).ToUpper()).Replace("$title ","").replace("\u0026","&")
+      
+      $temp=$variant.Split(" ")
+
+      if ($result.price -is [system.array])
+      {
+         $price=get-price -price $result.price[1]
+      }
+      else
+      {
+         if ($result.price.contains(" "))
+         {
+            $tempprice=$result.price.Split(" ")
+            $price=get-price -price $tempprice[1]
+         }
+         else
+         {
+            try
+            {
+                $price=get-price -price $result.price
+            }     
+            catch
+            {
+                write-warning "Price fail on Count $counter : $result)"
+                $price=$null
+            }       
+         }
+      }
+         
+	  $issue=get-numeric $temp[0]
+
+      $inpounds=[decimal]$price.amount*$dollarrate
+      $record| Add-Member -type NoteProperty -name issue   -value $issue 
+      $record| Add-Member -type NoteProperty -name variant -value $variant
+      $record| Add-Member -type NoteProperty -name price -value $inpounds
+      $record| Add-Member -type NoteProperty -name currency -value '£'
+      $record| Add-Member -type NoteProperty -name rundate -value $hastingsresults.lastsuccess
+      $record| Add-Member -type NoteProperty -name site -value $site
+
+      $hastings+=$record
+      $counter++
+   }
+   
+   write-host "$(Get-Date) - Record $counter"
+   $hastings
+}

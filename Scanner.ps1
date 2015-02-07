@@ -13,6 +13,7 @@ import-Module "$PSScriptRoot\midtown.ps1" -force
 import-Module "$PSScriptRoot\intercomics.ps1" -force
 import-Module "$PSScriptRoot\comicxposure.ps1" -force
 import-module "$PSScriptRoot\xrates.ps1" -force
+import-module "$PSScriptRoot\hastings.ps1" -force
 
 function get-market
 {
@@ -37,6 +38,7 @@ function get-market
    $allrecords+=get-tfawdata -record $record
    $allrecords+=get-midtowndata -record $record
    $allrecords+=get-intercomicsdata -record $record
+   $allrecords+=get-hastingsdata -record $record -dollarrate $dollarrate
 
    If ($record.productcode -ne "")
    {
