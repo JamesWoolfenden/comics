@@ -76,7 +76,7 @@ q	walking+dead	&q=newvalue
       }
    
       $strprice=($result.price -split("\n"))[0]
-      if ($strprice.contain('$'))
+      if ($strprice.contains('$'))
       {
          $price=($strprice.split('$'))[1]
       }

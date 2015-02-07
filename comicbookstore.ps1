@@ -1,6 +1,6 @@
 import-module "$PSScriptRoot\core.ps1" -force
 
-function get-comicbookstoredata()
+function get-comicbookstoredata
 {
    param (
    [Parameter(Mandatory=$true)]

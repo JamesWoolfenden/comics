@@ -37,7 +37,8 @@
     <Compile Include="data\dcbs\latest.json" />
     <Compile Include="DisposableHeroes.ps1" />
     <Compile Include="ebaydata.ps1" />
-    <Compile Include="jqwidgets\demos\jqxchart\javascript_chart_bind_to_xml.htm" />    
+    <Compile Include="javascript\Script1.js" />
+    <Compile Include="jqwidgets\demos\jqxchart\javascript_chart_bind_to_xml.htm" />
     <Compile Include="jqwidgets\demos\jqxchart\javascript_chart_bind_to_json.htm" />
     <Compile Include="jqwidgets\demos\jqxgrid\comic-Afterlifewitharchie.htm" />
     <Compile Include="jqwidgets\demos\jqxgrid\comic-ratqueens.htm" />
@@ -113,8 +114,10 @@
     <Content Include="altcategories.txt" />
     <Content Include="comicbookshop.ps1" />
     <Content Include="comicvine.txt" />
+    <Content Include="comicxposure.ps1" />
     <Content Include="DCBS.ps1" />
     <Content Include="auction.ps1" />
+    <Content Include="hastings.ps1" />
     <Content Include="history.ps1" />
     <Content Include="jqwidgets\demos\jqxgrid\prices-ratqueens.htm" />
     <Content Include="livedata\*.json" />
@@ -7489,6 +7492,7 @@
     <Folder Include="jqwidgets\demos\jqxgrid\" />
     <Folder Include="jqwidgets\demos\sampledata\" />
     <Folder Include="livedata\" />
+    <Folder Include="javascript\" />
     <Folder Include="prices\" />
     <Folder Include="rss\" />
     <Folder Include="sales\" />

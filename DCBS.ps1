@@ -23,20 +23,20 @@ function get-dcbsdata
 {
    param(
    [Parameter(Mandatory=$true)]
-   [PSObject]$Record)
+   [PSObject]$Record,
+   $dollarrate=(get-gbpdollarrate))
    
    $title=$Record.title.ToUpper()
-   $dollarrate=get-gbpdollarrate
-   
+   write-Host "$(Get-Date) - Looking for $title @ `"DCBS`""
    $dcbsdata=(Get-Content "$PSScriptRoot\data\dcbs\latest.json") -join "`n" | ConvertFrom-Json
    
-   $results=$dcbsdata|where{$_.title.text -match "$title"}|select -uniq
+   #$results=$dcbsdata|where{$_.title.text -match "$title"}|select -uniq
 
    $counter=0
    $arraycount=0
    $dcbs=@()
    
-   
+  
 
    foreach($result in $results)
    {
@@ -59,7 +59,7 @@ function get-dcbsdata
          $issue=$variant
       }
        
-	  $price=[decimal]$price*$dollarrate
+      $price=[decimal]$price*$dollarrate
 
       $record| Add-Member -type NoteProperty -name title    -value $title
       $record| Add-Member -type NoteProperty -name issue    -value $issue
