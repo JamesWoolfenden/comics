@@ -37,7 +37,15 @@ function get-comicbizdata
    11X x x
    50X x x
 #>
-   $cbsresults=Invoke-RestMethod -Uri $url
+   try
+   {
+      $cbsresults=Invoke-RestMethod -Uri $url
+   }
+   catch
+   {
+      Write-Warning "$(Get-Date) No data returned from $url"
+      return $null
+   }
    if ($cbsresults.lastrunstatus -eq "failure")
    {
       write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
@@ -50,7 +58,8 @@ function get-comicbizdata
 
    foreach($result in $results)
    {
-      $record= New-Object System.Object
+      $record= New-Object psobject
+      $record.psobject.TypeNames.Insert(0, "ComicSearchResult")
       $url="<a href=`"$($result.title.href)`">$($result.title.href)</a>"
       $record| Add-Member -type NoteProperty -name link -value $result.title.href
       $record| Add-Member -type NoteProperty -name url -value $url

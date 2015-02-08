@@ -6,9 +6,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "27",
         "variant":  "Thief of Thieves  (MR)",
-        "price":  "1.19",
+        "price":  "1.17",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "DCBS"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "25 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "16 (MR)",
         "price":  1.35,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "17 (MR) 2013 DHC",
         "price":  1.43,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "19 (MR) DHC",
         "price":  1.46,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "26 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "27 (MR)",
         "price":  2.20,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "27 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "28 (MR)",
         "price":  2.20,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,8 +116,20 @@
         "variant":  "28 (MR)",
         "price":  2.25,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:38 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:03 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb150641.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb150641.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb150641.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "28",
+        "variant":  "28",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
     },
     {
         "link":  "http://www.closeencounters.co.uk/index.php/jan150715.html",
@@ -128,7 +140,7 @@
         "variant":  "27",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -140,7 +152,7 @@
         "variant":  "26",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -152,7 +164,7 @@
         "variant":  "25",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +176,7 @@
         "variant":  "24",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -176,19 +188,7 @@
         "variant":  "23",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/apr140610.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/apr140610.html\"\u003ehttp://www.closeencounters.co.uk/index.php/apr140610.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "22",
-        "variant":  "22",
-        "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -200,7 +200,19 @@
         "variant":  "DREAM THIEF ESCAPE 1 OF 4",
         "price":  2.90,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/apr140610.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/apr140610.html\"\u003ehttp://www.closeencounters.co.uk/index.php/apr140610.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "22",
+        "variant":  "22",
+        "price":  2.10,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -212,7 +224,7 @@
         "variant":  "21",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -224,7 +236,7 @@
         "variant":  "20",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +248,7 @@
         "variant":  "19 FIRST PRINT IMAGE",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +260,7 @@
         "variant":  "18 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -260,7 +272,7 @@
         "variant":  "17",
         "price":  1.99,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -272,7 +284,7 @@
         "variant":  "15",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -284,7 +296,7 @@
         "variant":  "14",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -296,7 +308,7 @@
         "variant":  "13",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -308,7 +320,7 @@
         "variant":  "12",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -320,19 +332,7 @@
         "variant":  "11",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/sep120522.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep120522.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep120522.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "10",
-        "variant":  "10 FIRST PRINT",
-        "price":  3.99,
-        "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -344,7 +344,19 @@
         "variant":  "10 SECOND PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep120522.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep120522.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep120522.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "10",
+        "variant":  "10 FIRST PRINT",
+        "price":  3.99,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -356,7 +368,7 @@
         "variant":  "9 FIRST PRINT",
         "price":  3.99,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -368,7 +380,7 @@
         "variant":  "8 SECOND PRINT",
         "price":  2.94,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -380,7 +392,7 @@
         "variant":  "8 FIRST PRINT",
         "price":  5.94,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -392,7 +404,7 @@
         "variant":  "7 FIRST PRINT",
         "price":  2.10,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -404,7 +416,7 @@
         "variant":  "6 FIRST PRINT",
         "price":  4.94,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -416,7 +428,7 @@
         "variant":  "3 FOURTH PRINT",
         "price":  2.14,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -428,7 +440,7 @@
         "variant":  "4 FIRST PRINT",
         "price":  12.94,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -440,7 +452,7 @@
         "variant":  "3 FIRST PRINT",
         "price":  15.94,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -452,7 +464,7 @@
         "variant":  "2 FIRST PRINT",
         "price":  24.94,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -464,7 +476,7 @@
         "variant":  "1 FIRST PRINT",
         "price":  48.94,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:45 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:10 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -475,7 +487,7 @@
         "issue":  "28",
         "variant":  "28",
         "price":  "1.95",
-        "rundate":  "Sat Jan 31 2015 21:08:49 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -486,7 +498,7 @@
         "issue":  "27",
         "variant":  "27",
         "price":  "1.95",
-        "rundate":  "Sat Jan 31 2015 21:08:49 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -497,7 +509,7 @@
         "issue":  "26",
         "variant":  "26",
         "price":  "1.95",
-        "rundate":  "Sat Jan 31 2015 21:08:49 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:14 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -507,9 +519,9 @@
         "title":  "IMAGE FIRSTS THIEF OF THIEVES",
         "issue":  "1",
         "variant":  "1",
-        "price":  1.99,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -519,9 +531,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "1",
         "variant":  "1 (3RD PRINT) *HOT BOOK*",
-        "price":  4.99,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -531,9 +543,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "10",
         "variant":  "10 (2ND PRINT)",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -543,9 +555,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "13",
         "variant":  "13",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -555,9 +567,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "14",
         "variant":  "14",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -567,9 +579,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "17",
         "variant":  "17",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -579,9 +591,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "18",
         "variant":  "18",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -591,9 +603,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "19",
         "variant":  "19",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -603,9 +615,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "2",
         "variant":  "2 (2ND PRINT)",
-        "price":  4.99,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -615,9 +627,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "20",
         "variant":  "20",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -627,9 +639,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "21",
         "variant":  "21",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -639,9 +651,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "22",
         "variant":  "22",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -651,9 +663,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "23",
         "variant":  "23",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -663,9 +675,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "24",
         "variant":  "24",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -675,9 +687,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "25",
         "variant":  "25",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -687,9 +699,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "5",
         "variant":  "5 (2ND PRINT)",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -699,9 +711,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "6",
         "variant":  "6 (2ND PRINT)",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -711,9 +723,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "8",
         "variant":  "8",
-        "price":  2.49,
+        "price":  null,
         "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:08:54 GMT+0000 (UTC)",
+        "rundate":  "Sun Feb 08 2015 11:30:20 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -725,7 +737,19 @@
         "variant":  "SET",
         "price":  "50",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-22-IMAGE-COMICS-JULY-2014-NM-/111588065834?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb2ac22a",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-22-IMAGE-COMICS-JULY-2014-NM-/111588065834?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb2ac22a\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-22-IMAGE-COMICS-JULY-2014-NM-/111588065834?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb2ac22a\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "22",
+        "variant":  "22",
+        "price":  "2.95",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -737,7 +761,7 @@
         "variant":  "4C",
         "price":  "0.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -749,7 +773,7 @@
         "variant":  "6A",
         "price":  "0.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -759,9 +783,21 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "23",
         "variant":  "23",
+        "price":  "2.95",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-20-IMAGE-COMICS-APR-2014-NM-/121541052213?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4c694735",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-20-IMAGE-COMICS-APR-2014-NM-/121541052213?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4c694735\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-20-IMAGE-COMICS-APR-2014-NM-/121541052213?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4c694735\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "20",
+        "variant":  "20",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -773,7 +809,7 @@
         "variant":  "8B",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -785,7 +821,7 @@
         "variant":  "10B",
         "price":  "1.2",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -797,7 +833,7 @@
         "variant":  "8B",
         "price":  "1.2",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -809,7 +845,7 @@
         "variant":  "18",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -821,7 +857,7 @@
         "variant":  "17",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -833,7 +869,7 @@
         "variant":  "14",
         "price":  "1.2",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -845,7 +881,7 @@
         "variant":  "15",
         "price":  "1.2",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -857,7 +893,7 @@
         "variant":  "7A",
         "price":  "1.2",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -869,7 +905,7 @@
         "variant":  "9A",
         "price":  "1.2",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -881,7 +917,7 @@
         "variant":  "19",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -893,7 +929,7 @@
         "variant":  "20",
         "price":  "1",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -905,7 +941,7 @@
         "variant":  "21",
         "price":  "1",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -917,7 +953,7 @@
         "variant":  "22",
         "price":  "1.45",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -929,7 +965,7 @@
         "variant":  "23",
         "price":  "1.45",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -941,7 +977,7 @@
         "variant":  "18",
         "price":  "2",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -953,7 +989,7 @@
         "variant":  "16",
         "price":  "2",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -965,7 +1001,7 @@
         "variant":  "11A",
         "price":  "2",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -977,7 +1013,7 @@
         "variant":  "6A",
         "price":  "2",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -989,7 +1025,7 @@
         "variant":  "5A",
         "price":  "2.2",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1001,7 +1037,7 @@
         "variant":  "8A",
         "price":  "1",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1013,7 +1049,7 @@
         "variant":  "4C",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1025,7 +1061,7 @@
         "variant":  "5B",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1037,7 +1073,7 @@
         "variant":  "6B",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1049,7 +1085,7 @@
         "variant":  "7A",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1061,7 +1097,7 @@
         "variant":  "7B",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1073,7 +1109,7 @@
         "variant":  "8B",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1085,7 +1121,7 @@
         "variant":  "9B",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1097,7 +1133,7 @@
         "variant":  "16",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1109,7 +1145,7 @@
         "variant":  "17",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1121,7 +1157,7 @@
         "variant":  "19",
         "price":  "1.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1133,7 +1169,7 @@
         "variant":  "8A",
         "price":  "1",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1145,7 +1181,7 @@
         "variant":  "11A",
         "price":  "1.95",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1157,7 +1193,7 @@
         "variant":  "21",
         "price":  "2.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1169,7 +1205,7 @@
         "variant":  "24",
         "price":  "3",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1181,7 +1217,7 @@
         "variant":  "2A",
         "price":  "34.95",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1193,7 +1229,7 @@
         "variant":  "4A",
         "price":  "12.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1205,7 +1241,19 @@
         "variant":  "7A",
         "price":  "4.95",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-1-FIRST-PRINT-DECEMBER-2012-/151574054682?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item234a84871a",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-1-FIRST-PRINT-DECEMBER-2012-/151574054682?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item234a84871a\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-1-FIRST-PRINT-DECEMBER-2012-/151574054682?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item234a84871a\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "1",
+        "variant":  "1FIRSTS",
+        "price":  "30",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1217,7 +1265,7 @@
         "variant":  "15",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1229,7 +1277,7 @@
         "variant":  "17",
         "price":  "3.04",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1241,7 +1289,7 @@
         "variant":  "5A",
         "price":  "8.95",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1253,7 +1301,7 @@
         "variant":  "6A",
         "price":  "4.95",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1265,7 +1313,7 @@
         "variant":  "8A",
         "price":  "6.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1277,7 +1325,7 @@
         "variant":  "22",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1289,7 +1337,7 @@
         "variant":  "8A",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1301,7 +1349,7 @@
         "variant":  "4A",
         "price":  "13.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1313,7 +1361,7 @@
         "variant":  "2A",
         "price":  "25.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1325,7 +1373,7 @@
         "variant":  "1A",
         "price":  "49.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1337,7 +1385,7 @@
         "variant":  "19",
         "price":  "1.95",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1349,7 +1397,7 @@
         "variant":  "23",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1361,7 +1409,7 @@
         "variant":  "3A",
         "price":  "17.95",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1373,7 +1421,7 @@
         "variant":  "15",
         "price":  "4.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1385,7 +1433,7 @@
         "variant":  "16",
         "price":  "4.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1397,7 +1445,7 @@
         "variant":  "7A",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1409,7 +1457,7 @@
         "variant":  "11A",
         "price":  "4.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1421,7 +1469,7 @@
         "variant":  "17",
         "price":  "1.9",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1429,11 +1477,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Thief-Thieves-2-Shawn-Martinbrough-Image-Comics-/181186314716?pt=FR_JG_Livres_Bd_BD\u0026hash=item2a2f8bc1dc\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Thief-Thieves-2-Shawn-Martinbrough-Image-Comics-/181186314716?pt=FR_JG_Livres_Bd_BD\u0026hash=item2a2f8bc1dc\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
-        "issue":  "2",
-        "variant":  "VOL2",
+        "issue":  "",
+        "variant":  "BOOK",
         "price":  "19.74",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1445,7 +1493,7 @@
         "variant":  "6A",
         "price":  "5.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1457,7 +1505,7 @@
         "variant":  "5A",
         "price":  "6.74",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1469,7 +1517,7 @@
         "variant":  "4A",
         "price":  "19.95",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1481,7 +1529,7 @@
         "variant":  "5A",
         "price":  "14.95",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1493,7 +1541,7 @@
         "variant":  "2B",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1505,7 +1553,7 @@
         "variant":  "13",
         "price":  "4.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1517,7 +1565,7 @@
         "variant":  "14",
         "price":  "4.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1529,7 +1577,7 @@
         "variant":  "8A",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1541,7 +1589,7 @@
         "variant":  "10A",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1553,7 +1601,7 @@
         "variant":  "9A",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1561,11 +1609,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Thief-Thieves-1-quot-I-Quit-quot-Nick-Spencer-Image-Comics-/190888786738?pt=FR_JG_Livres_Bd_BD\u0026hash=item2c71dbbb32\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Thief-Thieves-1-quot-I-Quit-quot-Nick-Spencer-Image-Comics-/190888786738?pt=FR_JG_Livres_Bd_BD\u0026hash=item2c71dbbb32\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
-        "issue":  "1",
-        "variant":  "VOL1",
+        "issue":  "",
+        "variant":  "BOOK",
         "price":  "19.78",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1577,7 +1625,7 @@
         "variant":  "16",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1589,7 +1637,7 @@
         "variant":  "16",
         "price":  "2.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1601,7 +1649,7 @@
         "variant":  "20",
         "price":  "2.65",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1613,7 +1661,7 @@
         "variant":  "22",
         "price":  "3",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1625,7 +1673,7 @@
         "variant":  "23",
         "price":  "3",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1637,7 +1685,7 @@
         "variant":  "24",
         "price":  "2.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1649,19 +1697,7 @@
         "variant":  "1FIRSTS",
         "price":  "3.1",
         "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-Issue-19-1st-print-/191475252414?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c94d07cbe",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-Issue-19-1st-print-/191475252414?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c94d07cbe\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-Issue-19-1st-print-/191475252414?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c94d07cbe\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "19",
-        "variant":  "19",
-        "price":  "2.7",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1673,7 +1709,19 @@
         "variant":  "20",
         "price":  "1",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Thief-of-Thieves-no-3-NM-unread-bagged-and-boarded-Kirkman-Image-Serrano-/191499981167?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c9649d16f",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Thief-of-Thieves-no-3-NM-unread-bagged-and-boarded-Kirkman-Image-Serrano-/191499981167?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c9649d16f\"\u003ehttp://www.ebay.co.uk/itm/Thief-of-Thieves-no-3-NM-unread-bagged-and-boarded-Kirkman-Image-Serrano-/191499981167?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c9649d16f\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "3",
+        "variant":  "3",
+        "price":  "9.95",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1685,7 +1733,7 @@
         "variant":  "3A",
         "price":  "14.95",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1697,7 +1745,19 @@
         "variant":  "SET",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-6-2012-IMAGE-COMICS-FIRST-PRINT-NM-MINT-/201278101164?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2edd1c16ac",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-6-2012-IMAGE-COMICS-FIRST-PRINT-NM-MINT-/201278101164?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2edd1c16ac\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-6-2012-IMAGE-COMICS-FIRST-PRINT-NM-MINT-/201278101164?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2edd1c16ac\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "6",
+        "variant":  "6A",
+        "price":  "1.99",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1709,7 +1769,7 @@
         "variant":  "2ACGCSIGNED",
         "price":  "120",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1721,7 +1781,7 @@
         "variant":  "1BCGC",
         "price":  "250",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1733,7 +1793,7 @@
         "variant":  "13",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1745,7 +1805,7 @@
         "variant":  "6B",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1757,7 +1817,7 @@
         "variant":  "16",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1769,7 +1829,7 @@
         "variant":  "2D",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1781,7 +1841,7 @@
         "variant":  "17",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1793,7 +1853,7 @@
         "variant":  "7B",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1805,7 +1865,7 @@
         "variant":  "19",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1817,91 +1877,55 @@
         "variant":  "7B",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-6-2nd-PRINT-/221651092744?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4508",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-6-2nd-PRINT-/221651092744?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4508\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-6-2nd-PRINT-/221651092744?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4508\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "6",
-        "variant":  "6B",
-        "price":  "2.75",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-19-/221651092751?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f450f",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-19-/221651092751?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f450f\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-19-/221651092751?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f450f\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "19",
-        "variant":  "19",
-        "price":  "2.75",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-20-/221651092760?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4518",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-20-/221651092760?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4518\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-20-/221651092760?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4518\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "20",
-        "variant":  "20",
-        "price":  "2.75",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-21-/221651092763?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f451b",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-21-/221651092763?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f451b\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-21-/221651092763?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f451b\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "21",
-        "variant":  "21",
-        "price":  "2.75",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-9-2nd-PRINT-/221651094039?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4a17",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-9-2nd-PRINT-/221651094039?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4a17\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-9-2nd-PRINT-/221651094039?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4a17\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "9",
-        "variant":  "9B",
-        "price":  "2.75",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-5-2nd-PRINT-/221651094043?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4a1b",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-5-2nd-PRINT-/221651094043?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4a1b\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-5-2nd-PRINT-/221651094043?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339b6f4a1b\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-5-2nd-PRINT-/221679175719?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bc827",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-5-2nd-PRINT-/221679175719?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bc827\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-5-2nd-PRINT-/221679175719?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bc827\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
         "issue":  "5",
         "variant":  "5B",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-7-ROBERT-KIRKMAN-IMAGE-COMICS-UNREAD-VF-NM-/221672510670?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339cb614ce",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-7-ROBERT-KIRKMAN-IMAGE-COMICS-UNREAD-VF-NM-/221672510670?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339cb614ce\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-ISSUE-7-ROBERT-KIRKMAN-IMAGE-COMICS-UNREAD-VF-NM-/221672510670?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339cb614ce\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-19-/221679175723?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bc82b",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-19-/221679175723?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bc82b\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-19-/221679175723?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bc82b\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
-        "issue":  "7",
-        "variant":  "7A",
+        "issue":  "19",
+        "variant":  "19",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-21-/221679175724?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bc82c",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-21-/221679175724?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bc82c\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-21-/221679175724?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bc82c\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "21",
+        "variant":  "21",
+        "price":  "2.75",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-17-/221679175728?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bc830",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-17-/221679175728?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bc830\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-17-/221679175728?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bc830\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "17",
+        "variant":  "17",
+        "price":  "2.75",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1909,11 +1933,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-THIEVES-VOLUME-2-GRAPHIC-NOVEL-Robert-Kirkman-rrp-14-99-IMAGE-8-13-/230978356207?pt=UK_Books_Comics_Magazines_Graphic_Novels_ET\u0026hash=item35c76203ef\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/THIEF-THIEVES-VOLUME-2-GRAPHIC-NOVEL-Robert-Kirkman-rrp-14-99-IMAGE-8-13-/230978356207?pt=UK_Books_Comics_Magazines_Graphic_Novels_ET\u0026hash=item35c76203ef\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
-        "issue":  "2",
-        "variant":  "VOL2",
+        "issue":  "",
+        "variant":  "BOOK",
         "price":  "9.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1925,7 +1949,7 @@
         "variant":  "14",
         "price":  "2.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1937,7 +1961,7 @@
         "variant":  "11A",
         "price":  "2.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1949,7 +1973,7 @@
         "variant":  "8B",
         "price":  "5.98",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1961,7 +1985,7 @@
         "variant":  "16",
         "price":  "4.19",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1973,7 +1997,7 @@
         "variant":  "17",
         "price":  "5.98",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1981,11 +2005,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-THIEVES-VOLUME-3-GRAPHIC-NOVEL-Robert-Kirkman-rrp-14-99-IMAGE-14-19-/231169766330?pt=UK_Books_Comics_Magazines_Graphic_Novels_ET\u0026hash=item35d2cab3ba\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/THIEF-THIEVES-VOLUME-3-GRAPHIC-NOVEL-Robert-Kirkman-rrp-14-99-IMAGE-14-19-/231169766330?pt=UK_Books_Comics_Magazines_Graphic_Novels_ET\u0026hash=item35d2cab3ba\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
-        "issue":  "3",
-        "variant":  "VOL3",
+        "issue":  "",
+        "variant":  "BOOK",
         "price":  "8.97",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -1997,7 +2021,7 @@
         "variant":  "20",
         "price":  "5.98",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2009,7 +2033,7 @@
         "variant":  "19",
         "price":  "5.98",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2021,7 +2045,7 @@
         "variant":  "17",
         "price":  "2.79",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2033,19 +2057,7 @@
         "variant":  "6A",
         "price":  "2.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Thief-of-Thieves-1-/231439716264?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e2e1cfa8",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Thief-of-Thieves-1-/231439716264?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e2e1cfa8\"\u003ehttp://www.ebay.co.uk/itm/Thief-of-Thieves-1-/231439716264?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e2e1cfa8\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "1",
-        "variant":  "1FIRSTS",
-        "price":  "1.99",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2057,7 +2069,7 @@
         "variant":  "2A",
         "price":  "44.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2069,7 +2081,19 @@
         "variant":  "19",
         "price":  "2.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-1-3rd-PRINT-IMAGE-NEAR-MINT-/251819827465?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa1a1a109",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-1-3rd-PRINT-IMAGE-NEAR-MINT-/251819827465?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa1a1a109\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-1-3rd-PRINT-IMAGE-NEAR-MINT-/251819827465?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa1a1a109\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "1",
+        "variant":  "1D",
+        "price":  "4.99",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2081,7 +2105,31 @@
         "variant":  "3A",
         "price":  "29.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-NICK-SPENCER-SHAWN-MARTIN-BROUGH-IMAGE-2ND-PRINT-VFN-/261756616259?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cf1e8fe43",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-NICK-SPENCER-SHAWN-MARTIN-BROUGH-IMAGE-2ND-PRINT-VFN-/261756616259?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cf1e8fe43\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-NICK-SPENCER-SHAWN-MARTIN-BROUGH-IMAGE-2ND-PRINT-VFN-/261756616259?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cf1e8fe43\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "8",
+        "variant":  "8B",
+        "price":  "3.99",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-5-NICK-SPENCER-SHAWN-MARTIN-BROUGH-IMAGE-2ND-PRINT-VFN-/261756617373?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cf1e9029d",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-5-NICK-SPENCER-SHAWN-MARTIN-BROUGH-IMAGE-2ND-PRINT-VFN-/261756617373?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cf1e9029d\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-5-NICK-SPENCER-SHAWN-MARTIN-BROUGH-IMAGE-2ND-PRINT-VFN-/261756617373?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cf1e9029d\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "5",
+        "variant":  "5B",
+        "price":  "3.99",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2093,19 +2141,7 @@
         "variant":  "1D",
         "price":  "7.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/MRJ-THIEF-OF-THIEVES-1-3rd-PRINTING-KIRKMAN-SPENCER-2012-NM-/271728030686?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3f4440b3de",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MRJ-THIEF-OF-THIEVES-1-3rd-PRINTING-KIRKMAN-SPENCER-2012-NM-/271728030686?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3f4440b3de\"\u003ehttp://www.ebay.co.uk/itm/MRJ-THIEF-OF-THIEVES-1-3rd-PRINTING-KIRKMAN-SPENCER-2012-NM-/271728030686?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3f4440b3de\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "1",
-        "variant":  "1D",
-        "price":  "4.99",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2113,11 +2149,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Thief-Thieves-Volume-1-Nick-Spencer-Robert-Kirkman-Image-Comics-/281299025440?pt=IT_Libri_Romanzi_Narrativa\u0026hash=item417eba7e20\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Thief-Thieves-Volume-1-Nick-Spencer-Robert-Kirkman-Image-Comics-/281299025440?pt=IT_Libri_Romanzi_Narrativa\u0026hash=item417eba7e20\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
-        "issue":  "1",
-        "variant":  "VOL1",
+        "issue":  "",
+        "variant":  "BOOK",
         "price":  "8.55",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2129,7 +2165,7 @@
         "variant":  "15",
         "price":  "2.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2141,7 +2177,7 @@
         "variant":  "9B",
         "price":  "5.98",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2153,7 +2189,7 @@
         "variant":  "18",
         "price":  "5.98",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2161,11 +2197,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-THIEVES-VOLUME-1-GRAPHIC-NOVEL-Robert-Kirkman-rrp-14-99-IMAGE-1-7-/291087392742?pt=UK_Books_Comics_Magazines_Graphic_Novels_ET\u0026hash=item43c6291fe6\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/THIEF-THIEVES-VOLUME-1-GRAPHIC-NOVEL-Robert-Kirkman-rrp-14-99-IMAGE-1-7-/291087392742?pt=UK_Books_Comics_Magazines_Graphic_Novels_ET\u0026hash=item43c6291fe6\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
-        "issue":  "1",
-        "variant":  "VOL1",
+        "issue":  "",
+        "variant":  "BOOK",
         "price":  "9.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2177,7 +2213,7 @@
         "variant":  "1A",
         "price":  "60",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2189,7 +2225,7 @@
         "variant":  "13",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2201,7 +2237,7 @@
         "variant":  "4A",
         "price":  "8",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2213,7 +2249,7 @@
         "variant":  "4B",
         "price":  "4",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2225,7 +2261,7 @@
         "variant":  "9A",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2235,9 +2271,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "11",
         "variant":  "11",
-        "price":  "1.5",
+        "price":  "1.75",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2245,11 +2281,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Thief-Thieves-Volume-2-Robert-Kirkman-James-Asmus-Image-Comics-/301254025420?pt=IT_Libri_Romanzi_Narrativa\u0026hash=item462423a0cc\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Thief-Thieves-Volume-2-Robert-Kirkman-James-Asmus-Image-Comics-/301254025420?pt=IT_Libri_Romanzi_Narrativa\u0026hash=item462423a0cc\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
-        "issue":  "2",
-        "variant":  "VOL2",
+        "issue":  "",
+        "variant":  "BOOK",
         "price":  "8.55",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2261,7 +2297,7 @@
         "variant":  "COL3",
         "price":  "8.55",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2273,7 +2309,7 @@
         "variant":  "4C",
         "price":  "6.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2285,7 +2321,7 @@
         "variant":  "6A",
         "price":  "5.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2297,7 +2333,7 @@
         "variant":  "10B",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2309,7 +2345,7 @@
         "variant":  "17",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2321,7 +2357,7 @@
         "variant":  "8B",
         "price":  "3.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2333,7 +2369,7 @@
         "variant":  "18",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2345,7 +2381,7 @@
         "variant":  "18",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2357,7 +2393,7 @@
         "variant":  "19",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2369,7 +2405,7 @@
         "variant":  "19",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2381,7 +2417,7 @@
         "variant":  "21",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2393,7 +2429,7 @@
         "variant":  "11A",
         "price":  "3.15",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2405,7 +2441,7 @@
         "variant":  "10A",
         "price":  "5.04",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2417,7 +2453,7 @@
         "variant":  "3A",
         "price":  "16.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2429,31 +2465,19 @@
         "variant":  "7A",
         "price":  "3.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Thief-Of-Thieves-24-/311206571396?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48755b6d84",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Thief-Of-Thieves-24-/311206571396?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48755b6d84\"\u003ehttp://www.ebay.co.uk/itm/Thief-Of-Thieves-24-/311206571396?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item48755b6d84\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-6-NICK-SPENCER-SHAWN-MARTIN-BROUGH-IMAGE-2ND-PRINT-VFN-/311279197563?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4879af9d7b",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-6-NICK-SPENCER-SHAWN-MARTIN-BROUGH-IMAGE-2ND-PRINT-VFN-/311279197563?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4879af9d7b\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-6-NICK-SPENCER-SHAWN-MARTIN-BROUGH-IMAGE-2ND-PRINT-VFN-/311279197563?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4879af9d7b\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
-        "issue":  "24",
-        "variant":  "24",
-        "price":  "3.15",
+        "issue":  "6",
+        "variant":  "6B",
+        "price":  "3.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-THIEVES-18-NM-M-NEW-IMAGE-/321261224514?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4acca94242\u0026ssPageName=RSS:B:SHOP:GB:101",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-THIEVES-18-NM-M-NEW-IMAGE-/321261224514?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4acca94242\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/THIEF-THIEVES-18-NM-M-NEW-IMAGE-/321261224514?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4acca94242\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "18",
-        "variant":  "18",
-        "price":  "2.25",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2465,7 +2489,7 @@
         "variant":  "5B",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2477,7 +2501,7 @@
         "variant":  "7A",
         "price":  "2.5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2489,79 +2513,103 @@
         "variant":  "20",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-4-3rd-PRINT-/321632064419?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3a3",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-4-3rd-PRINT-/321632064419?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3a3\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-4-3rd-PRINT-/321632064419?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3a3\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "4",
-        "variant":  "4C",
-        "price":  "2.75",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-17-/321632064420?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3a4",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-17-/321632064420?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3a4\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-17-/321632064420?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3a4\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "17",
-        "variant":  "17",
-        "price":  "2.75",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-2nd-PRINT-/321632064421?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3a5",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-2nd-PRINT-/321632064421?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3a5\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-2nd-PRINT-/321632064421?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3a5\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "8",
-        "variant":  "8B",
-        "price":  "2.75",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-16-/321632064425?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3a9",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-16-/321632064425?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3a9\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-16-/321632064425?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3a9\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "16",
-        "variant":  "16",
-        "price":  "2.75",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-7-2nd-PRINT-/321632064429?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3ad",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-7-2nd-PRINT-/321632064429?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3ad\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-7-2nd-PRINT-/321632064429?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d3ad\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-7-2nd-PRINT-/321657512856?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4482398",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-7-2nd-PRINT-/321657512856?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4482398\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-7-2nd-PRINT-/321657512856?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4482398\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
         "issue":  "7",
         "variant":  "7B",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-7-1st-PRINT-/321632065607?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d847",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-7-1st-PRINT-/321632065607?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d847\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-7-1st-PRINT-/321632065607?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae2c3d847\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-9-2nd-PRINT-/321657512861?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae448239d",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-9-2nd-PRINT-/321657512861?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae448239d\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-9-2nd-PRINT-/321657512861?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae448239d\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "9",
+        "variant":  "9B",
+        "price":  "2.75",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-16-/321657512866?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a2",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-16-/321657512866?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a2\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-16-/321657512866?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a2\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "16",
+        "variant":  "16",
+        "price":  "2.75",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-6-2nd-PRINT-/321657512869?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a5",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-6-2nd-PRINT-/321657512869?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a5\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-6-2nd-PRINT-/321657512869?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a5\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "6",
+        "variant":  "6B",
+        "price":  "2.75",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-2nd-PRINT-/321657512870?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a6",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-2nd-PRINT-/321657512870?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a6\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-8-2nd-PRINT-/321657512870?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a6\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "8",
+        "variant":  "8B",
+        "price":  "2.75",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-4-3rd-PRINT-/321657512871?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a7",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-4-3rd-PRINT-/321657512871?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a7\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-4-3rd-PRINT-/321657512871?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a7\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "4",
+        "variant":  "4C",
+        "price":  "2.75",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-7-1st-PRINT-/321657512872?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a8",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-7-1st-PRINT-/321657512872?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a8\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-7-1st-PRINT-/321657512872?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823a8\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
         "issue":  "7",
         "variant":  "7A",
         "price":  "2.75",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-20-/321657512878?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823ae",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-20-/321657512878?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823ae\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-20-/321657512878?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44823ae\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "20",
+        "variant":  "20",
+        "price":  "2.75",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2573,7 +2621,7 @@
         "variant":  "17",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2585,7 +2633,19 @@
         "variant":  "24",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Thief-of-Thieves-1-/331466105240?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2ceb6198",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Thief-of-Thieves-1-/331466105240?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2ceb6198\"\u003ehttp://www.ebay.co.uk/itm/Thief-of-Thieves-1-/331466105240?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2ceb6198\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "1",
+        "variant":  "1FIRSTS",
+        "price":  "1.99",
+        "currency":  "?",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2597,7 +2657,7 @@
         "variant":  "19",
         "price":  "2",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2609,7 +2669,7 @@
         "variant":  "HARDCOVER3SDCC",
         "price":  "35.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2617,11 +2677,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-THIEVES-VOLUME-2-IMAGE-GRAPHIC-NOVEL-/361027093737?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item540ee444e9\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/THIEF-THIEVES-VOLUME-2-IMAGE-GRAPHIC-NOVEL-/361027093737?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item540ee444e9\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
-        "issue":  "2",
-        "variant":  "VOL2",
+        "issue":  "",
+        "variant":  "BOOK",
         "price":  "10.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2633,7 +2693,7 @@
         "variant":  "23",
         "price":  "2.2",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2645,19 +2705,7 @@
         "variant":  "15",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Thief-Thieves-13-NM-13-Kirkman-Asmus-Martinbrough-1st-Print-/370928357528?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item565d0d9098\u0026ssPageName=RSS:B:SHOP:GB:101",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Thief-Thieves-13-NM-13-Kirkman-Asmus-Martinbrough-1st-Print-/370928357528?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item565d0d9098\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Thief-Thieves-13-NM-13-Kirkman-Asmus-Martinbrough-1st-Print-/370928357528?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item565d0d9098\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "13",
-        "variant":  "13",
-        "price":  "3.99",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2669,7 +2717,7 @@
         "variant":  "19",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2681,7 +2729,7 @@
         "variant":  "18",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2693,7 +2741,7 @@
         "variant":  "16",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2705,7 +2753,7 @@
         "variant":  "17",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2717,7 +2765,7 @@
         "variant":  "2A",
         "price":  "25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2729,7 +2777,7 @@
         "variant":  "7A",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2741,7 +2789,7 @@
         "variant":  "6A",
         "price":  "3",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2753,7 +2801,7 @@
         "variant":  "25",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2761,23 +2809,11 @@
         "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-THIEVES-VOLUME-1-IMAGE-GRAPHIC-NOVEL-/380533543626?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58999112ca\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/THIEF-THIEVES-VOLUME-1-IMAGE-GRAPHIC-NOVEL-/380533543626?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58999112ca\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THIEF OF THIEVES",
-        "issue":  "1",
-        "variant":  "VOL1",
+        "issue":  "",
+        "variant":  "BOOK",
         "price":  "10.99",
         "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/IMAGE-THIEF-THIEVES-NO-4-2012-NM-/380931054477?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b1429b8d\u0026ssPageName=RSS:B:SHOP:GB:101",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-THIEF-THIEVES-NO-4-2012-NM-/380931054477?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b1429b8d\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-THIEF-THIEVES-NO-4-2012-NM-/380931054477?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b1429b8d\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "4",
-        "variant":  "4C",
-        "price":  "0.99",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2789,7 +2825,7 @@
         "variant":  "17",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2801,7 +2837,7 @@
         "variant":  "19",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2813,7 +2849,7 @@
         "variant":  "23",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2825,7 +2861,7 @@
         "variant":  "1C",
         "price":  "7",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2837,7 +2873,7 @@
         "variant":  "11A",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2849,7 +2885,7 @@
         "variant":  "14",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2861,7 +2897,7 @@
         "variant":  "16",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2873,7 +2909,7 @@
         "variant":  "5A",
         "price":  "6",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2885,7 +2921,7 @@
         "variant":  "6A",
         "price":  "6",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2897,7 +2933,7 @@
         "variant":  "8A",
         "price":  "5",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2909,7 +2945,7 @@
         "variant":  "21",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2921,7 +2957,7 @@
         "variant":  "22",
         "price":  "3.25",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2933,7 +2969,7 @@
         "variant":  "16",
         "price":  "2.9",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2945,7 +2981,7 @@
         "variant":  "19",
         "price":  "2.9",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2957,19 +2993,7 @@
         "variant":  "SET",
         "price":  "2.95",
         "currency":  "?",
-        "rundate":  "31-1-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-Issue-16-1st-print-/400839238294?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d53e16296",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-Issue-16-1st-print-/400839238294?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d53e16296\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-Issue-16-1st-print-/400839238294?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item5d53e16296\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "16",
-        "variant":  "16",
-        "price":  "2.7",
-        "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2981,7 +3005,7 @@
         "variant":  "26",
         "price":  "3.45",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
     },
     {
@@ -2993,44 +3017,8 @@
         "variant":  "23",
         "price":  "2.95",
         "currency":  "?",
-        "rundate":  "31-1-2015",
+        "rundate":  "8-2-2015",
         "site":  "Auction"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89937\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89937\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89937\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "26",
-        "variant":  "DEC140768 THIEF OF THIEVES #26 (MR)",
-        "price":  2.40,
-        "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:09:15 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92145\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92145\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92145\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "28",
-        "variant":  "FEB150641 THIEF OF THIEVES #28 (MR)",
-        "price":  2.40,
-        "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:09:15 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91082\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91082\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91082\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "27",
-        "variant":  "JAN150715 THIEF OF THIEVES #27 (MR)",
-        "price":  2.40,
-        "currency":  "?",
-        "rundate":  "Sat Jan 31 2015 21:09:15 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
     },
     {
         "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+Vol+1+I+_1216455",
@@ -3039,9 +3027,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "THIEF OF THIEVES VOL 1 I QUIT TP",
         "variant":  "THIEF OF THIEVES VOL 1 I QUIT TP",
-        "price":  "12.74",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
+        "price":  8.3557455799999997452,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3051,9 +3039,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "THIEF OF THIEVES VOL 2 HELP ME TP",
         "variant":  "THIEF OF THIEVES VOL 2 HELP ME TP",
-        "price":  "12.74",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
+        "price":  8.3557455799999997452,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3063,9 +3051,129 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "1",
         "variant":  "1 COMICSPRO VARIANT SKETCH COVER",
-        "price":  "225.00",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
+        "price":  147.5700749999999955000,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%232+4th+P_1214982",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%232+4th+P_1214982\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%232+4th+P_1214982\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "2",
+        "variant":  "2 4TH PTG",
+        "price":  1.7052541999999999480,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%233+3rd+P_1211320",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%233+3rd+P_1211320\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%233+3rd+P_1211320\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "3",
+        "variant":  "3 3RD PTG",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%234+3rd+P_1214984",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%234+3rd+P_1214984\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%234+3rd+P_1214984\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "4",
+        "variant":  "4 3RD PTG",
+        "price":  1.7052541999999999480,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%234+2nd+P_1211321",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%234+2nd+P_1211321\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%234+2nd+P_1211321\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "4",
+        "variant":  "4 2ND PTG",
+        "price":  1.2330299599999999624,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%235+1st+P_1200306",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%235+1st+P_1200306\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%235+1st+P_1200306\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "5",
+        "variant":  "5 1ST PTG",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%236+2nd+P_1223621",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%236+2nd+P_1223621\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%236+2nd+P_1223621\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "6",
+        "variant":  "6 2ND PTG",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%237+1st+P_1211553",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%237+1st+P_1211553\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%237+1st+P_1211553\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "7",
+        "variant":  "7 1ST PTG",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%238+1st+P_1216004",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%238+1st+P_1216004\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%238+1st+P_1216004\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "8",
+        "variant":  "8 1ST PTG",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%239+1st+P_1220803",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%239+1st+P_1220803\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%239+1st+P_1220803\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "9",
+        "variant":  "9 1ST PTG",
+        "price":  1.7052541999999999480,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2310+1st+_1226998",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2310+1st+_1226998\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2310+1st+_1226998\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "10",
+        "variant":  "10 1ST PTG",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3075,9 +3183,45 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "10",
         "variant":  "10 2ND PTG",
-        "price":  "2.99",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2311_1232087",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2311_1232087\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2311_1232087\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "11",
+        "variant":  "11",
+        "price":  1.2330299599999999624,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2312_1236689",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2312_1236689\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2312_1236689\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "12",
+        "variant":  "12",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2313_1241527",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2313_1241527\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2313_1241527\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "13",
+        "variant":  "13",
+        "price":  1.2330299599999999624,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3087,9 +3231,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "14",
         "variant":  "14",
-        "price":  "2.99",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3099,9 +3243,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "15",
         "variant":  "15",
-        "price":  "2.99",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3111,9 +3255,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "16",
         "variant":  "16",
-        "price":  "2.99",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3123,9 +3267,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "18",
         "variant":  "18",
-        "price":  "2.99",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3135,9 +3279,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "19",
         "variant":  "19",
-        "price":  "2.99",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3147,9 +3291,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "20",
         "variant":  "20",
-        "price":  "2.99",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3159,9 +3303,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "21",
         "variant":  "21",
-        "price":  "2.99",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3171,69 +3315,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "22",
         "variant":  "22",
-        "price":  "2.99",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2323_1346949",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2323_1346949\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2323_1346949\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "23",
-        "variant":  "23",
-        "price":  "2.99",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2324_1353822",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2324_1353822\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2324_1353822\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "24",
-        "variant":  "24",
-        "price":  "2.99",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2325_1362693",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2325_1362693\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+%2325_1362693\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "25",
-        "variant":  "25",
-        "price":  "2.99",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=THIEF+OF+THIEVES+%2328+%28MR%29_1413913",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=THIEF+OF+THIEVES+%2328+%28MR%29_1413913\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=THIEF+OF+THIEVES+%2328+%28MR%29_1413913\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "28",
-        "variant":  "28 (MR)",
-        "price":  "1.94",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+Minimate_1281883",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+Minimate_1281883\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Thief+Of+Thieves+Minimate_1281883\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THIEF OF THIEVES",
-        "issue":  "THIEF OF THIEVES MINIMATE BOX SET",
-        "variant":  "THIEF OF THIEVES MINIMATE BOX SET",
-        "price":  "19.99",
-        "currency":  "$",
-        "rundate":  "Sat Jan 31 2015 21:09:29 GMT+0000 (UTC)",
+        "price":  1.9610423299999999402,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:16 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -3243,8 +3327,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "5",
         "variant":  "2",
-        "price":  "2.85",
-        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
+        "price":  2.85,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:51 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3254,8 +3339,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "7",
         "variant":  "3",
-        "price":  "2.85",
-        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
+        "price":  2.85,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:51 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3265,8 +3351,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "8",
         "variant":  "1",
-        "price":  "2.85",
-        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
+        "price":  2.85,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:51 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3276,8 +3363,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "9",
         "variant":  "2",
-        "price":  "2.85",
-        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
+        "price":  2.85,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:51 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3287,8 +3375,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "10",
         "variant":  "2",
-        "price":  "2.85",
-        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
+        "price":  2.85,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:51 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3298,8 +3387,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "11",
         "variant":  "1",
-        "price":  "2.85",
-        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
+        "price":  2.85,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:51 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3309,8 +3399,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "12",
         "variant":  "1",
-        "price":  "2.85",
-        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
+        "price":  2.85,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:51 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3320,8 +3411,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "13",
         "variant":  "2",
-        "price":  "2.85",
-        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
+        "price":  2.85,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:51 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3331,8 +3423,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "14",
         "variant":  "2",
-        "price":  "2.85",
-        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
+        "price":  2.85,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:51 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3342,8 +3435,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "15",
         "variant":  "1",
-        "price":  "2.85",
-        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
+        "price":  2.85,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:51 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3353,8 +3447,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "16",
         "variant":  "2",
-        "price":  "2.85",
-        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
+        "price":  2.85,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:51 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3364,8 +3459,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "17",
         "variant":  "1",
-        "price":  "2.85",
-        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
+        "price":  2.85,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:51 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3375,8 +3471,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "18",
         "variant":  "1",
-        "price":  "2.85",
-        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
+        "price":  2.85,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:51 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -3386,8 +3483,9 @@
         "title":  "THIEF OF THIEVES",
         "issue":  "22",
         "variant":  "1",
-        "price":  "2.60",
-        "rundate":  "Sat Jan 31 2015 21:09:33 GMT+0000 (UTC)",
+        "price":  2.60,
+        "currency":  "?",
+        "rundate":  "Sun Feb 08 2015 11:31:51 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     }
 ]

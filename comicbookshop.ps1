@@ -64,7 +64,8 @@ function get-comicbookshopdata
 
    foreach($result in $results)
    {
-      $record= New-Object System.Object
+      $record= New-Object psobject
+      $record.psobject.TypeNames.Insert(0, "ComicSearchResult")
       $url="<a href=`"$($result.title.href)`">$($result.title.href)</a>"
   
       $record| Add-Member -type NoteProperty -name link -value $result.title.href

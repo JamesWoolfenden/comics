@@ -36,7 +36,15 @@ function get-closeencountersdata
    11X x x
    50X x x
 #>
-   $ceresults=Invoke-RestMethod -Uri $url
+   try
+   {
+      $ceresults=Invoke-RestMethod -Uri $url
+   }
+   catch
+   {
+      Write-Warning "$(Get-Date) No data returned from $url"
+      return $null
+   }
    
    if ($ceresults.lastrunstatus -eq "failure")
    {
@@ -47,11 +55,18 @@ function get-closeencountersdata
    $counter=0
    $closeencounters=@()
    $results= $ceresults.results.collection1
-   $results= $results| where {$_.title.text -ne ""}
+   $arraytitle=$title.split(" ")
+
+   foreach($part in $arraytitle)
+   {
+      $results = $results| where {$_.title.text -match $part}
+   }
    
    foreach($result in $results)
    {
-      $record= New-Object System.Object
+      $record= New-Object psobject
+      $record.psobject.TypeNames.Insert(0, "ComicSearchResult")
+
       $url="<a href=`"$($result.title.href)`">$($result.title.href)</a>"
       
       $record| Add-Member -type NoteProperty -name link -value $result.title.href
@@ -60,6 +75,7 @@ function get-closeencountersdata
       $record| Add-Member -type NoteProperty -name title -value $title
 
       $variant=(($result.title.text).ToUpper()).Replace("$title ","").replace("\u0026","&")
+      
       $temp=$variant.Split(" ")
 
       if ($result.price -is [system.array])
@@ -98,6 +114,6 @@ function get-closeencountersdata
       $counter++
    }
    
-   write-host "$(Get-Date) - Record $counter"
+   write-host "$(Get-Date) - Found $counter"
    $closeencounters 
 }
