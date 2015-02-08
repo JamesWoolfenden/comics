@@ -4,7 +4,8 @@ function get-tfawdata
 {
    param (
       [Parameter(Mandatory=$true)]
-      [PSObject]$record)
+      [PSObject]$record,
+      $dollarrate=(get-gbpdollarrate))
  
   <#
    .SYNOPSIS 
@@ -94,11 +95,12 @@ function get-tfawdata
       $temp=$issue.split(" ")
       
       $price=get-price -price  ($result.price).split(" ")[0]
+      $price=[decimal]$price.Amount*$dollarrate
 
       $record| Add-Member -type NoteProperty -name issue    -value $temp[0]
       $record| Add-Member -type NoteProperty -name variant  -value $variant
-      $record| Add-Member -type NoteProperty -name price    -value $price.Amount
-      $record| Add-Member -type NoteProperty -name currency -value $price.Currency
+      $record| Add-Member -type NoteProperty -name price    -value $price
+      $record| Add-Member -type NoteProperty -name currency -value "&pound;"
       $record| Add-Member -type NoteProperty -name rundate  -value $tfawresults.lastsuccess
       $record| Add-Member -type NoteProperty -name site     -value $site
 

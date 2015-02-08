@@ -35,7 +35,16 @@ function get-reeddata
    11X x x
    50X x x
 #>
-   $reedresults=Invoke-RestMethod -Uri $url
+   try
+   {
+      $reedresults=Invoke-RestMethod -Uri $url
+   }
+   catch
+   {
+      Write-Warning "$(Get-Date) No data returned from $url"
+      return $null
+   }
+   
    if ($reedresults.lastrunstatus -eq "failure")
    {
       write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
@@ -72,13 +81,13 @@ function get-reeddata
          $issue=$temp[1].split(" ")[0]
       }
       
-      $price=get-price -price $result.price
+      $price=(get-price -price $result.price) -as [decimal]
 
       $record| Add-Member -type NoteProperty -name title -value $newtitle
       $record| Add-Member -type NoteProperty -name issue -value $issue
       $record| Add-Member -type NoteProperty -name variant -value $variant
-      $record| Add-Member -type NoteProperty -name price -value $price.Amount
-      $record| Add-Member -type NoteProperty -name currency -value $price.Currency
+      $record| Add-Member -type NoteProperty -name price -value $price
+      $record| Add-Member -type NoteProperty -name currency -value "&pound;"
       $record| Add-Member -type NoteProperty -name rundate -value $reedresults.lastsuccess
       $record| Add-Member -type NoteProperty -name site -value "Reed"
 

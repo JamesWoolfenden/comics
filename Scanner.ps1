@@ -19,12 +19,11 @@ function get-market
 {
    param(
    [Parameter(Mandatory=$true)]
-   [Psobject]$record)
+   [Psobject]$record,
+   [decimal]$dollarrate=(get-gbpdollarrate))
    
    $allrecords=@()
    $filetitle=$record.title.replace(" ","")
-
-   $dollarrate=get-gbpdollarrate
 
    $allrecords+=get-dcbsdata -record $record  -dollarrate $dollarrate
    $allrecords+=get-comicxposuredata -record $record -dollarrate $dollarrate
@@ -35,9 +34,9 @@ function get-market
    $allrecords+=get-auctiondata -record $record
    $allrecords+=get-comicbizdata -record $record
    $allrecords+=get-comicbookshopdata -record $record
-   $allrecords+=get-tfawdata -record $record
-   $allrecords+=get-midtowndata -record $record
-   $allrecords+=get-intercomicsdata -record $record
+   $allrecords+=get-tfawdata -record $record -dollarrate $dollarrate
+   $allrecords+=get-midtowndata -record $record -dollarrate $dollarrate
+   $allrecords+=get-intercomicsdata -record $record 
    $allrecords+=get-hastingsdata -record $record -dollarrate $dollarrate
 
    If ($record.productcode -ne "")
@@ -56,6 +55,7 @@ get-comicxposure
 $searches=(Get-Content "$PSScriptRoot\search-data.json") -join "`n" |ConvertFrom-Json
 #$searches=$searches|sort -Unique title
 Write-Host "$(Get-Date) - Found $($searches.count)"
+[decimal]$dollarrate=get-gbpdollarrate
 
 foreach ($record in $searches)
 {
@@ -64,6 +64,6 @@ foreach ($record in $searches)
       $record.comictitle="WALKING DEAD"      
    }
 
-   get-market $record
+   get-market -record $record -dollarrate $dollarrate
 }
 

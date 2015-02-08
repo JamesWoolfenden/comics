@@ -24,11 +24,12 @@ function get-auctiondata
       $record| Add-Member -type NoteProperty -name title    -value $result.title
 
 	  $cover=get-cover $results[$counter].issue
+      $price=($result.price) -as [decimal]
 
       $record| Add-Member -type NoteProperty -name issue    -value $cover
       $record| Add-Member -type NoteProperty -name variant  -value $result.issue
-      $record| Add-Member -type NoteProperty -name price    -value $result.price
-      $record| Add-Member -type NoteProperty -name currency -value '£'
+      $record| Add-Member -type NoteProperty -name price    -value $price
+      $record| Add-Member -type NoteProperty -name currency -value "&pound;"
       $record| Add-Member -type NoteProperty -name rundate  -value $(datestring)
       $record| Add-Member -type NoteProperty -name site     -value "Auction"
       #$record| Add-Member -type NoteProperty -name postage  -value $result.postage

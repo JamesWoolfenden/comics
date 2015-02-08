@@ -28,7 +28,16 @@ function get-intercomicsdata
    11X x x
    50X x x
 #>
-   $intercomicsresults=Invoke-RestMethod -Uri $url
+   try
+   {
+      $intercomicsresults=Invoke-RestMethod -Uri $url
+   }
+   catch
+   {
+      Write-Warning "$(Get-Date) No data returned from $url"
+      return $null
+   }
+
    if ($intercomicsresults.lastrunstatus -eq "failure")
    {
       write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
@@ -64,7 +73,7 @@ function get-intercomicsdata
       $record| Add-Member -type NoteProperty -name issue -value $issue
       $record| Add-Member -type NoteProperty -name variant -value $variant
       $record| Add-Member -type NoteProperty -name price -value $price
-      $record| Add-Member -type NoteProperty -name currency -value '£'
+      $record| Add-Member -type NoteProperty -name currency -value "&pound;"
       $record| Add-Member -type NoteProperty -name rundate -value $intercomicsresults.lastsuccess
       $record| Add-Member -type NoteProperty -name site -value "Intercomics"
 

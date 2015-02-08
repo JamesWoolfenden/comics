@@ -31,9 +31,19 @@ function get-fpdata
    11X $5.50  0.55 
    50X $5.50  0.11
 #>
-   $fpresults=Invoke-RestMethod -Uri $url
+   try
+   {
+      $fpresults=Invoke-RestMethod -Uri $url
+   }
+   catch
+   {
+      Write-Warning "$(Get-Date) No data returned from $url"
+      return $null
+   }
+
    if ($fpresults.lastrunstatus -eq "failure")
    {
+      write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
       return $null
    }
    
@@ -48,7 +58,8 @@ function get-fpdata
       if (($result.price[0] -eq "Pre-order") -or ($result.price[0] -eq "Web Price"))
       {
          $url=$null
-         $price=$result.price[1]
+         $price=($result.price[1]) -as [decimal]
+
          if ($result.title.Contains("#"))
          {
             $rawissue=$result.title.split("#")[1]
@@ -61,7 +72,7 @@ function get-fpdata
       else
       {   
          $url=$result.price.href[1] 
-         $price=$result.price.text[1] 
+         $price=($result.price.text[1]) -as [decimal] 
          if ($result.title.text.Contains("#"))
          {
             $rawissue=$result.title.text.split("#")[1]

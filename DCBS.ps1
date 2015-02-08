@@ -28,15 +28,18 @@ function get-dcbsdata
    
    $title=$Record.title.ToUpper()
    write-Host "$(Get-Date) - Looking for $title @ `"DCBS`""
-   $dcbsdata=(Get-Content "$PSScriptRoot\data\dcbs\latest.json") -join "`n" | ConvertFrom-Json
+   $results=(Get-Content "$PSScriptRoot\data\dcbs\latest.json") -join "`n" | ConvertFrom-Json
    
-   #$results=$dcbsdata|where{$_.title.text -match "$title"}|select -uniq
+   $arraytitle=$title.split(" ")
+
+   foreach($part in $arraytitle)
+   {
+      $results = $results| where {$_.title.text -match $part}
+   }
 
    $counter=0
    $arraycount=0
    $dcbs=@()
-   
-  
 
    foreach($result in $results)
    {
@@ -65,7 +68,7 @@ function get-dcbsdata
       $record| Add-Member -type NoteProperty -name issue    -value $issue
       $record| Add-Member -type NoteProperty -name variant  -value $variant
       $record| Add-Member -type NoteProperty -name price    -value ("{0:N2}" -f $price)
-      $record| Add-Member -type NoteProperty -name currency -value '£'
+      $record| Add-Member -type NoteProperty -name currency -value "&pound;"
       $record| Add-Member -type NoteProperty -name rundate  -value $(datestring)
       $record| Add-Member -type NoteProperty -name site     -value "DCBS"
 

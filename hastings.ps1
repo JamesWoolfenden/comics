@@ -16,10 +16,18 @@ function get-hastingsdata
 
    write-debug "Accessing $url"
    write-Host "$(Get-Date) - Looking for $($record.title) @ `"$site`""
+   
+   try
+   {
+      $hastingsresults=invoke-restmethod -uri $url
+   }
+   catch
+   {
+      Write-Warning "$(Get-Date) No data returned from $url"
+      return $null
+   }
 
-   $hastingsresults=invoke-restmethod -uri $url
-
-   if ($hastingresults.lastrunstatus -eq "failure")
+   if ($hastingsresults.lastrunstatus -eq "failure")
    {
       write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
       return $null
@@ -28,7 +36,12 @@ function get-hastingsdata
    $counter = 0
    $hastings= @()
    $results = $hastingsresults.results.collection1
-   $results = $results| where {$_.title.text -ne ""}
+   $arraytitle=$title.split(" ")
+
+   foreach($part in $arraytitle)
+   {
+      $results = $results| where {$_.title.text -match $part}
+   }
    
    foreach($result in $results)
    {
@@ -72,12 +85,20 @@ function get-hastingsdata
       }
          
 	  $issue=get-numeric $temp[0]
+      $inpounds=0
 
-      $inpounds=[decimal]$price.amount*$dollarrate
+      try{
+         $inpounds=[decimal]$price.amount*$dollarrate
+      }
+      catch
+      {
+         $inpounds=$null
+      }
+      
       $record| Add-Member -type NoteProperty -name issue   -value $issue 
       $record| Add-Member -type NoteProperty -name variant -value $variant
       $record| Add-Member -type NoteProperty -name price -value $inpounds
-      $record| Add-Member -type NoteProperty -name currency -value '£'
+      $record| Add-Member -type NoteProperty -name currency -value "&pound;"
       $record| Add-Member -type NoteProperty -name rundate -value $hastingsresults.lastsuccess
       $record| Add-Member -type NoteProperty -name site -value $site
 

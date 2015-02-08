@@ -37,7 +37,17 @@ function get-comicbookshopdata
    11X x x
    50X x x
 #>
-   $cbsresults=Invoke-RestMethod -Uri $url
+   try
+   {
+      $cbsresults=Invoke-RestMethod -Uri $url
+   }
+   catch
+   {
+      Write-Warning "$(Get-Date) No data returned from $url"
+      return $null
+   }
+
+
    if ($cbsresults.lastrunstatus -eq "failure")
    {
       write-host "$(Get-Date) - Run Failed" -ForegroundColor Red

@@ -11,8 +11,8 @@ function get-gurudata
    $fullfilter="&product=$productcode"
    $site="The Comic Guru"
    $url="http://www.kimonolabs.com/api/2gr32l5y?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-debug "Accessing $url"
-   write-Host "Looking for $title @ `"$site`""
+   write-debug "$(Get-Date) - Accessing $url"
+   write-Host "$(Get-Date) - Looking for $title @ `"$site`""
   
 <# Postage
    1X  £3.50  3.50
@@ -28,7 +28,16 @@ function get-gurudata
    11X $5.00  0.45 
    50X $11.00  0.22
 #>
-   $gururesults=Invoke-RestMethod -Uri $url
+   try
+   {
+      $gururesults=Invoke-RestMethod -Uri $url
+   }
+   catch
+   {
+      Write-Warning "$(Get-Date) No data returned from $url"
+      return $null
+   }
+   
    if ($gururesults.lastrunstatus -eq "failure")
    {
       return $null
@@ -50,7 +59,10 @@ function get-gurudata
       $record| Add-Member -type NoteProperty -name issue -value $temp[0]
       [string]$variant=($temp[1]).trim()
       $record| Add-Member -type NoteProperty -name variant -value $variant
-      $record| Add-Member -type NoteProperty -name price -value $result.price.Replace("£","")
+
+      $price=($result.price.Replace("£","")) -as [decimal]
+      $record| Add-Member -type NoteProperty -name price -value $price
+      $record| Add-Member -type NoteProperty -name currency -value "&pound;"
       $record| Add-Member -type NoteProperty -name rundate -value $gururesults.lastsuccess
       $record| Add-Member -type NoteProperty -name site -value $site
       
@@ -58,6 +70,6 @@ function get-gurudata
       $counter++
    }
    
-   write-host "Record $counter"
+   write-host "$(Get-Date) - Found $counter"
    $guru
 }

@@ -154,7 +154,7 @@ function get-price
    if ($price.contains("£"))
    {
       $price=$price.Replace("£","")
-      $currency="£"
+      $currency="&pound;"
    }
 
    if ($price.contains("`$"))
