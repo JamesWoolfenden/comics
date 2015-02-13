@@ -1,3 +1,6 @@
+$connection= "Data Source=redwolfone.cloudapp.net;Initial Catalog=comics;User ID=comicsguru;Password=Faithle55;Trusted_Connection=False;Persist Security Info=False;"
+#$connection= "Data Source=redwolfone.cloudapp.net;Initial Catalog=comics;User ID=comicsguru;Password=Faithle55;Trusted_Connection=False;Encrypt=True;Connection Timeout=30"
+
 function get-pounds
 {   <#
       .SYNOPSIS 
@@ -119,11 +122,11 @@ function add-record
    [string]$remaining="",
    [string]$seller="",
    [string]$Parentid=$NULL,
-   [boolean]$split=0
-   )
+   [boolean]$split=0)
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=h6vxqj6255.database.windows.net;Initial Catalog=comics;User ID=comicsguru@h6vxqj6255;Password=Faithle55;Trusted_Connection=False;Encrypt=True;Connection Timeout=30"
+   $conn.ConnectionString = "Data Source=redwolfone.cloudapp.net;Initial Catalog=comics;User ID=comicsguru;Password=Faithle55;Trusted_Connection=False;Persist Security Info=False;"
+   #$conn.ConnectionString = "Data Source=h6vxqj6255.database.windows.net;Initial Catalog=comics;User ID=comicsguru@h6vxqj6255;Password=Faithle55;Trusted_Connection=False;Encrypt=True;Connection Timeout=30"
    
    $conn.open()
    
@@ -156,7 +159,7 @@ function get-db
     [string]$ebayitem)
 
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=h6vxqj6255.database.windows.net;Initial Catalog=comics;User ID=comicsguru@h6vxqj6255;Password=Faithle55;Trusted_Connection=False;Encrypt=True;Connection Timeout=30"
+   $conn.ConnectionString = $connection
    $conn.open()
    
    $cmd = New-Object System.Data.SqlClient.SqlCommand
@@ -193,7 +196,7 @@ function update-db
    )
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=h6vxqj6255.database.windows.net;Initial Catalog=comics;User ID=comicsguru@h6vxqj6255;Password=Faithle55;Trusted_Connection=False;Encrypt=True;Connection Timeout=30"
+   $conn.ConnectionString = $connection
    $conn.open()
       
    $cmd = New-Object System.Data.SqlClient.SqlCommand
@@ -297,7 +300,7 @@ function query-db
    [string]$wherestring="where Title = '$title' And Issue = '$Issue'")
      
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=h6vxqj6255.database.windows.net;Initial Catalog=comics;User ID=comicsguru@h6vxqj6255;Password=Faithle55;Trusted_Connection=False;Encrypt=True;Connection Timeout=30"
+   $conn.ConnectionString =$connection
    
    $conn.open()
    $cmd = New-Object System.Data.SqlClient.SqlCommand
@@ -650,7 +653,7 @@ function get-currentprice
    [string]$wherestring="where Title = '$title' And Issue = '$Issue' and Status='CLOSED'"  
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=h6vxqj6255.database.windows.net;Initial Catalog=comics;User ID=comicsguru@h6vxqj6255;Password=Faithle55;Trusted_Connection=False;Encrypt=True;Connection Timeout=30"
+   $conn.ConnectionString =$connection
    
    $conn.open()
    $cmd = New-Object System.Data.SqlClient.SqlCommand
@@ -707,7 +710,7 @@ function update-issue
 
    write-Host "Modifying issue $OldIssue - $title to $NewIssue" -ForegroundColor  cyan 
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=h6vxqj6255.database.windows.net;Initial Catalog=comics;User ID=comicsguru@h6vxqj6255;Password=Faithle55;Trusted_Connection=False;Encrypt=True;Connection Timeout=30"
+   $conn.ConnectionString = $connection
 
    $conn.open()
    $cmd = New-Object System.Data.SqlClient.SqlCommand

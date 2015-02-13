@@ -678,7 +678,7 @@ function get-ebidrecords
       Write-debug "$(Get-date) - category :$category"
       $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=$category&categoryid=$category&categoryonly=on&mo=search&type=keyword"
 
-      write-debug "Querying ebid $url"
+      write-host "Querying ebid $url"
       $ebidresults=get-ebidresults -url "$url"
 
       if ($ebidresults -is [system.array])

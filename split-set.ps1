@@ -107,7 +107,7 @@ function set-splitstate()
    )
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=h6vxqj6255.database.windows.net;Initial Catalog=comics;User ID=comicsguru@h6vxqj6255;Password=Faithle55;Trusted_Connection=False;Encrypt=True;Connection Timeout=30"
+   $conn.ConnectionString = "Data Source=redwolfone.cloudapp.net;Initial Catalog=comics;User ID=comicsguru;Password=Faithle55;Trusted_Connection=False;Persist Security Info=False;"
   
    $conn.open()
       

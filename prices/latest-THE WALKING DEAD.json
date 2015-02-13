@@ -1,6 +1,22 @@
 [
     {
         "Title":  "THE WALKING DEAD",
+        "Issue":  "0",
+        "Cover":  0,
+        "TotalCost":  "10.00",
+        "Mean":  10,
+        "AveragePrice":  10,
+        "CurrentPrice":  10,
+        "Minimum":  10,
+        "Maximum":  10,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1423478690894)\/"
+    },
+    {
+        "Title":  "THE WALKING DEAD",
         "Issue":  "10",
         "Cover":  10,
         "TotalCost":  "31.50",
@@ -13,7 +29,7 @@
         "AveragePaid":  9.25,
         "AverageNetPaid":  9.25,
         "Stock":  1,
-        "Date":  "\/Date(1422871754937)\/"
+        "Date":  "\/Date(1423478692193)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -29,7 +45,7 @@
         "AveragePaid":  3.64,
         "AverageNetPaid":  3.64,
         "Stock":  2,
-        "Date":  "\/Date(1422871755164)\/"
+        "Date":  "\/Date(1423478693475)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -45,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871755316)\/"
+        "Date":  "\/Date(1423478694724)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -61,7 +77,7 @@
         "AveragePaid":  3,
         "AverageNetPaid":  3,
         "Stock":  2,
-        "Date":  "\/Date(1422871755512)\/"
+        "Date":  "\/Date(1423478695948)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -77,23 +93,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871755666)\/"
+        "Date":  "\/Date(1423478697310)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "100C",
         "Cover":  100,
-        "TotalCost":  "4.39",
-        "Mean":  4.386,
-        "AveragePrice":  3.3836666666666662,
-        "CurrentPrice":  3.3340000000000005,
+        "TotalCost":  "4.47",
+        "Mean":  4.4700000000000006,
+        "AveragePrice":  3.468064516129032,
+        "CurrentPrice":  3.936,
         "Minimum":  0.99,
         "Maximum":  7.99,
-        "Count":  30,
+        "Count":  31,
         "AveragePaid":  2.33,
         "AverageNetPaid":  2.2425,
         "Stock":  4,
-        "Date":  "\/Date(1422871755884)\/"
+        "Date":  "\/Date(1423478698553)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -109,7 +125,7 @@
         "AveragePaid":  7.49,
         "AverageNetPaid":  7.49,
         "Stock":  1,
-        "Date":  "\/Date(1422871756111)\/"
+        "Date":  "\/Date(1423478699794)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -125,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871756671)\/"
+        "Date":  "\/Date(1423478700985)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -141,23 +157,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871756831)\/"
+        "Date":  "\/Date(1423478702262)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "100CSIGNED",
         "Cover":  100,
-        "TotalCost":  "17.60",
-        "Mean":  17.6,
-        "AveragePrice":  17.6,
-        "CurrentPrice":  17.6,
-        "Minimum":  17.6,
+        "TotalCost":  "12.55",
+        "Mean":  12.55,
+        "AveragePrice":  11.3,
+        "CurrentPrice":  11.3,
+        "Minimum":  5,
         "Maximum":  17.6,
-        "Count":  1,
+        "Count":  2,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871756990)\/"
+        "Date":  "\/Date(1423478703482)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -173,7 +189,7 @@
         "AveragePaid":  2.49,
         "AverageNetPaid":  2.49,
         "Stock":  3,
-        "Date":  "\/Date(1422871757255)\/"
+        "Date":  "\/Date(1423478704761)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -189,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871757423)\/"
+        "Date":  "\/Date(1423478705981)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -205,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871757581)\/"
+        "Date":  "\/Date(1423478707292)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -221,7 +237,7 @@
         "AveragePaid":  2.49,
         "AverageNetPaid":  2.49,
         "Stock":  5,
-        "Date":  "\/Date(1422871758009)\/"
+        "Date":  "\/Date(1423478708522)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -237,7 +253,7 @@
         "AveragePaid":  35.98,
         "AverageNetPaid":  35.98,
         "Stock":  1,
-        "Date":  "\/Date(1422871758247)\/"
+        "Date":  "\/Date(1423478709753)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -253,7 +269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871758407)\/"
+        "Date":  "\/Date(1423478711004)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -269,7 +285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871758569)\/"
+        "Date":  "\/Date(1423478712228)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -285,23 +301,23 @@
         "AveragePaid":  2.49,
         "AverageNetPaid":  2.49,
         "Stock":  6,
-        "Date":  "\/Date(1422871758799)\/"
+        "Date":  "\/Date(1423478713457)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "100G",
         "Cover":  100,
-        "TotalCost":  "4.75",
-        "Mean":  4.745,
-        "AveragePrice":  3.6590909090909092,
-        "CurrentPrice":  3.0780000000000003,
+        "TotalCost":  "4.80",
+        "Mean":  4.7995652173913044,
+        "AveragePrice":  3.6304347826086958,
+        "CurrentPrice":  3.038,
         "Minimum":  1.04,
         "Maximum":  10.99,
-        "Count":  22,
+        "Count":  23,
         "AveragePaid":  2.49,
         "AverageNetPaid":  2.49,
         "Stock":  3,
-        "Date":  "\/Date(1422871758995)\/"
+        "Date":  "\/Date(1423478714808)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -317,7 +333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871759161)\/"
+        "Date":  "\/Date(1423478716040)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -333,7 +349,7 @@
         "AveragePaid":  2.532,
         "AverageNetPaid":  2.2920000000000003,
         "Stock":  5,
-        "Date":  "\/Date(1422871759611)\/"
+        "Date":  "\/Date(1423478717347)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -349,7 +365,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871761536)\/"
+        "Date":  "\/Date(1423478718539)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -365,7 +381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871761907)\/"
+        "Date":  "\/Date(1423478719825)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -381,7 +397,7 @@
         "AveragePaid":  2.49,
         "AverageNetPaid":  2.49,
         "Stock":  3,
-        "Date":  "\/Date(1422871762197)\/"
+        "Date":  "\/Date(1423478721025)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -397,7 +413,7 @@
         "AveragePaid":  2.49,
         "AverageNetPaid":  2.49,
         "Stock":  2,
-        "Date":  "\/Date(1422871762399)\/"
+        "Date":  "\/Date(1423478722624)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -413,7 +429,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871762564)\/"
+        "Date":  "\/Date(1423478723616)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -429,7 +445,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871762728)\/"
+        "Date":  "\/Date(1423478724807)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -445,7 +461,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871762905)\/"
+        "Date":  "\/Date(1423478726158)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -461,7 +477,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871763110)\/"
+        "Date":  "\/Date(1423478727285)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -477,7 +493,7 @@
         "AveragePaid":  5,
         "AverageNetPaid":  5,
         "Stock":  2,
-        "Date":  "\/Date(1422871763425)\/"
+        "Date":  "\/Date(1423478728563)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -493,7 +509,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.6,
         "Stock":  2,
-        "Date":  "\/Date(1422871763721)\/"
+        "Date":  "\/Date(1423478729839)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -509,7 +525,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1422871763921)\/"
+        "Date":  "\/Date(1423478731093)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -525,7 +541,7 @@
         "AveragePaid":  5,
         "AverageNetPaid":  5,
         "Stock":  1,
-        "Date":  "\/Date(1422871764223)\/"
+        "Date":  "\/Date(1423478732286)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -541,7 +557,7 @@
         "AveragePaid":  3.0333333333333332,
         "AverageNetPaid":  3.0333333333333332,
         "Stock":  3,
-        "Date":  "\/Date(1422871764551)\/"
+        "Date":  "\/Date(1423478733511)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -557,7 +573,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871764747)\/"
+        "Date":  "\/Date(1423478734827)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -573,23 +589,23 @@
         "AveragePaid":  3,
         "AverageNetPaid":  3,
         "Stock":  1,
-        "Date":  "\/Date(1422871764939)\/"
+        "Date":  "\/Date(1423478736050)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "103A",
         "Cover":  103,
-        "TotalCost":  "5.35",
-        "Mean":  5.3501041666666671,
-        "AveragePrice":  4.2908733974358961,
-        "CurrentPrice":  6.7499999999999947,
+        "TotalCost":  "5.33",
+        "Mean":  5.3277751572327041,
+        "AveragePrice":  4.2885298742138351,
+        "CurrentPrice":  6.5833333333333286,
         "Minimum":  1.2,
         "Maximum":  13.3333333333333,
-        "Count":  52,
+        "Count":  53,
         "AveragePaid":  3.1666666666666665,
         "AverageNetPaid":  3.1666666666666665,
         "Stock":  3,
-        "Date":  "\/Date(1422871765491)\/"
+        "Date":  "\/Date(1423478737272)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -605,23 +621,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871765686)\/"
+        "Date":  "\/Date(1423478738574)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "103B",
         "Cover":  103,
-        "TotalCost":  "7.14",
-        "Mean":  7.1382758620689666,
-        "AveragePrice":  5.0727586206896538,
-        "CurrentPrice":  5.76,
+        "TotalCost":  "7.16",
+        "Mean":  7.157,
+        "AveragePrice":  5.0603333333333325,
+        "CurrentPrice":  5.9999999999999991,
         "Minimum":  0.99,
         "Maximum":  12.99,
-        "Count":  29,
+        "Count":  30,
         "AveragePaid":  5.3000000000000007,
         "AverageNetPaid":  5.3000000000000007,
         "Stock":  2,
-        "Date":  "\/Date(1422871765956)\/"
+        "Date":  "\/Date(1423478739773)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -637,39 +653,55 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871766158)\/"
+        "Date":  "\/Date(1423478741039)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "104",
         "Cover":  104,
-        "TotalCost":  "5.23",
-        "Mean":  5.2291753472222213,
-        "AveragePrice":  4.1452170138888862,
-        "CurrentPrice":  6.2419999999999947,
+        "TotalCost":  "5.21",
+        "Mean":  5.2074914965986387,
+        "AveragePrice":  4.1456547619047592,
+        "CurrentPrice":  6.4333333333333282,
         "Minimum":  0.99,
         "Maximum":  13.3333333333333,
-        "Count":  48,
+        "Count":  49,
         "AveragePaid":  3.0949999999999998,
         "AverageNetPaid":  3.0949999999999998,
         "Stock":  2,
-        "Date":  "\/Date(1422871766533)\/"
+        "Date":  "\/Date(1423478742209)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "105",
         "Cover":  105,
-        "TotalCost":  "5.54",
-        "Mean":  5.5388020833333336,
-        "AveragePrice":  4.5673437499999991,
-        "CurrentPrice":  7.2499999999999947,
+        "TotalCost":  "5.51",
+        "Mean":  5.5107993197278917,
+        "AveragePrice":  4.5591666666666661,
+        "CurrentPrice":  7.0833333333333286,
         "Minimum":  0.99,
         "Maximum":  13.3333333333333,
-        "Count":  48,
+        "Count":  49,
         "AveragePaid":  2.545,
         "AverageNetPaid":  2.545,
         "Stock":  4,
-        "Date":  "\/Date(1422871766867)\/"
+        "Date":  "\/Date(1423478743451)\/"
+    },
+    {
+        "Title":  "THE WALKING DEAD",
+        "Issue":  "106",
+        "Cover":  106,
+        "TotalCost":  "4.17",
+        "Mean":  4.16666666666667,
+        "AveragePrice":  4.16666666666667,
+        "CurrentPrice":  4.16666666666667,
+        "Minimum":  4.16666666666667,
+        "Maximum":  4.16666666666667,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1423478744641)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -685,23 +717,23 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1422871767293)\/"
+        "Date":  "\/Date(1423478745838)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "106ASIGNED",
         "Cover":  106,
-        "TotalCost":  "6.45",
-        "Mean":  6.45,
-        "AveragePrice":  4.95,
-        "CurrentPrice":  4.95,
+        "TotalCost":  "7.22",
+        "Mean":  7.2200000000000006,
+        "AveragePrice":  5.975,
+        "CurrentPrice":  5.975,
         "Minimum":  4.95,
-        "Maximum":  4.95,
-        "Count":  1,
+        "Maximum":  7,
+        "Count":  2,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871767513)\/"
+        "Date":  "\/Date(1423478747075)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -717,7 +749,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  4,
-        "Date":  "\/Date(1422871767727)\/"
+        "Date":  "\/Date(1423478748361)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -733,7 +765,7 @@
         "AveragePaid":  12,
         "AverageNetPaid":  12,
         "Stock":  1,
-        "Date":  "\/Date(1422871767969)\/"
+        "Date":  "\/Date(1423478749560)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -749,23 +781,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871768155)\/"
+        "Date":  "\/Date(1423478750843)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "107",
         "Cover":  107,
-        "TotalCost":  "4.72",
-        "Mean":  4.724875,
-        "AveragePrice":  3.7062083333333322,
-        "CurrentPrice":  6.7899999999999947,
+        "TotalCost":  "4.68",
+        "Mean":  4.6838575268817211,
+        "AveragePrice":  3.6698252688172035,
+        "CurrentPrice":  6.2813333333333272,
         "Minimum":  0.92,
         "Maximum":  13.3333333333333,
-        "Count":  60,
+        "Count":  62,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  6,
-        "Date":  "\/Date(1422871768477)\/"
+        "Date":  "\/Date(1423478752071)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -781,23 +813,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871768704)\/"
+        "Date":  "\/Date(1423478753351)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "108",
         "Cover":  108,
-        "TotalCost":  "8.41",
-        "Mean":  8.4108670033670041,
-        "AveragePrice":  7.1949074074074089,
-        "CurrentPrice":  7.7999999999999945,
+        "TotalCost":  "8.37",
+        "Mean":  8.368425,
+        "AveragePrice":  7.1646250000000018,
+        "CurrentPrice":  7.4333333333333282,
         "Minimum":  1.2,
         "Maximum":  30,
-        "Count":  99,
+        "Count":  100,
         "AveragePaid":  2.3125,
         "AverageNetPaid":  2.0125,
         "Stock":  8,
-        "Date":  "\/Date(1422871769295)\/"
+        "Date":  "\/Date(1423478754647)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -813,7 +845,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871769754)\/"
+        "Date":  "\/Date(1423478755895)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -829,7 +861,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871769949)\/"
+        "Date":  "\/Date(1423478757058)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -845,23 +877,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871770481)\/"
+        "Date":  "\/Date(1423478758346)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "109A",
         "Cover":  109,
-        "TotalCost":  "3.76",
-        "Mean":  3.7550647451963242,
-        "AveragePrice":  2.8527840434419387,
-        "CurrentPrice":  3.4685714285714284,
+        "TotalCost":  "3.73",
+        "Mean":  3.7319889162561579,
+        "AveragePrice":  2.8452647783251241,
+        "CurrentPrice":  3.2099047619047623,
         "Minimum":  0.99,
         "Maximum":  9.99,
-        "Count":  57,
+        "Count":  58,
         "AveragePaid":  2.12375,
         "AverageNetPaid":  1.83625,
         "Stock":  8,
-        "Date":  "\/Date(1422871771069)\/"
+        "Date":  "\/Date(1423478759545)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -877,7 +909,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871771234)\/"
+        "Date":  "\/Date(1423478760803)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -893,7 +925,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871771425)\/"
+        "Date":  "\/Date(1423478762041)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -909,7 +941,7 @@
         "AveragePaid":  3.99,
         "AverageNetPaid":  3.99,
         "Stock":  1,
-        "Date":  "\/Date(1422871771834)\/"
+        "Date":  "\/Date(1423478763292)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -925,7 +957,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871772025)\/"
+        "Date":  "\/Date(1423478764501)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -941,7 +973,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871772183)\/"
+        "Date":  "\/Date(1423478765684)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -957,23 +989,23 @@
         "AveragePaid":  9.125,
         "AverageNetPaid":  9.125,
         "Stock":  2,
-        "Date":  "\/Date(1422871772691)\/"
+        "Date":  "\/Date(1423478766900)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "110",
         "Cover":  110,
-        "TotalCost":  "2.85",
-        "Mean":  2.8536669799498755,
-        "AveragePrice":  2.1059038220551383,
-        "CurrentPrice":  2.7365714285714278,
+        "TotalCost":  "2.84",
+        "Mean":  2.8428891941391949,
+        "AveragePrice":  2.0989148351648357,
+        "CurrentPrice":  2.4719047619047623,
         "Minimum":  0.49,
         "Maximum":  4.5,
-        "Count":  76,
-        "AveragePaid":  2.0133333333333332,
-        "AverageNetPaid":  1.7300000000000002,
-        "Stock":  6,
-        "Date":  "\/Date(1422871773138)\/"
+        "Count":  78,
+        "AveragePaid":  2.0757142857142861,
+        "AverageNetPaid":  1.6614285714285715,
+        "Stock":  7,
+        "Date":  "\/Date(1423478768163)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -989,23 +1021,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871773313)\/"
+        "Date":  "\/Date(1423478769333)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "111",
         "Cover":  111,
-        "TotalCost":  "3.14",
-        "Mean":  3.1384939759036157,
-        "AveragePrice":  2.2742771084337359,
-        "CurrentPrice":  3.3200000000000003,
+        "TotalCost":  "3.12",
+        "Mean":  3.1219019607843146,
+        "AveragePrice":  2.263901960784314,
+        "CurrentPrice":  2.8533333333333339,
         "Minimum":  0.49,
         "Maximum":  6.99,
-        "Count":  83,
-        "AveragePaid":  2.0833333333333335,
-        "AverageNetPaid":  1.8666666666666663,
-        "Stock":  6,
-        "Date":  "\/Date(1422871773692)\/"
+        "Count":  85,
+        "AveragePaid":  2.1357142857142857,
+        "AverageNetPaid":  1.7785714285714282,
+        "Stock":  7,
+        "Date":  "\/Date(1423478770595)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1021,23 +1053,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871773857)\/"
+        "Date":  "\/Date(1423478771826)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "112",
         "Cover":  112,
-        "TotalCost":  "3.00",
-        "Mean":  2.9969557823129249,
-        "AveragePrice":  2.2377721088435365,
-        "CurrentPrice":  1.9879999999999995,
+        "TotalCost":  "2.98",
+        "Mean":  2.9809134615384618,
+        "AveragePrice":  2.2039903846153837,
+        "CurrentPrice":  2.0513333333333343,
         "Minimum":  0.495,
         "Maximum":  4.13,
-        "Count":  49,
-        "AveragePaid":  2.1999999999999997,
-        "AverageNetPaid":  2.1999999999999997,
-        "Stock":  4,
-        "Date":  "\/Date(1422871774130)\/"
+        "Count":  52,
+        "AveragePaid":  2.3,
+        "AverageNetPaid":  2.0599999999999996,
+        "Stock":  5,
+        "Date":  "\/Date(1423478773008)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1053,7 +1085,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871774658)\/"
+        "Date":  "\/Date(1423478774281)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1069,7 +1101,7 @@
         "AveragePaid":  16,
         "AverageNetPaid":  16,
         "Stock":  1,
-        "Date":  "\/Date(1422871774905)\/"
+        "Date":  "\/Date(1423478775528)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1085,23 +1117,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871775094)\/"
+        "Date":  "\/Date(1423478776722)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "113",
         "Cover":  113,
-        "TotalCost":  "2.91",
-        "Mean":  2.9086284722222229,
-        "AveragePrice":  2.4944618055555559,
-        "CurrentPrice":  2.6740000000000004,
+        "TotalCost":  "2.90",
+        "Mean":  2.8974673202614381,
+        "AveragePrice":  2.4449183006535948,
+        "CurrentPrice":  2.2213333333333343,
         "Minimum":  0.495,
         "Maximum":  4,
-        "Count":  48,
-        "AveragePaid":  1.9725000000000001,
-        "AverageNetPaid":  1.6725,
-        "Stock":  4,
-        "Date":  "\/Date(1422871775411)\/"
+        "Count":  51,
+        "AveragePaid":  2.1180000000000003,
+        "AverageNetPaid":  1.638,
+        "Stock":  5,
+        "Date":  "\/Date(1423478778003)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1117,23 +1149,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871775585)\/"
+        "Date":  "\/Date(1423478779247)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "114",
         "Cover":  114,
-        "TotalCost":  "2.93",
-        "Mean":  2.9333157276995308,
-        "AveragePrice":  2.3207805164319244,
-        "CurrentPrice":  2.286,
+        "TotalCost":  "2.97",
+        "Mean":  2.9700281531531534,
+        "AveragePrice":  2.3471903153153151,
+        "CurrentPrice":  2.7413333333333343,
         "Minimum":  0.49,
-        "Maximum":  4,
-        "Count":  71,
-        "AveragePaid":  2.0416666666666665,
-        "AverageNetPaid":  2.0416666666666665,
-        "Stock":  6,
-        "Date":  "\/Date(1422871775928)\/"
+        "Maximum":  5,
+        "Count":  74,
+        "AveragePaid":  2.1357142857142857,
+        "AverageNetPaid":  1.9642857142857142,
+        "Stock":  7,
+        "Date":  "\/Date(1423478780581)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1149,23 +1181,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871776106)\/"
+        "Date":  "\/Date(1423478781884)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "115A",
         "Cover":  115,
-        "TotalCost":  "2.63",
-        "Mean":  2.62813596491228,
-        "AveragePrice":  2.1623464912280697,
-        "CurrentPrice":  2.3665,
+        "TotalCost":  "2.61",
+        "Mean":  2.6115589080459771,
+        "AveragePrice":  2.1538002873563213,
+        "CurrentPrice":  2.4,
         "Minimum":  0.69,
         "Maximum":  5.75,
-        "Count":  57,
+        "Count":  58,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1422871776644)\/"
+        "Date":  "\/Date(1423478783148)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1181,7 +1213,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871776875)\/"
+        "Date":  "\/Date(1423478784448)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1197,7 +1229,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871777245)\/"
+        "Date":  "\/Date(1423478785796)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1213,7 +1245,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871777456)\/"
+        "Date":  "\/Date(1423478787068)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1229,7 +1261,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871777689)\/"
+        "Date":  "\/Date(1423478788380)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1245,7 +1277,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871777905)\/"
+        "Date":  "\/Date(1423478789644)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1261,7 +1293,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871778131)\/"
+        "Date":  "\/Date(1423478790896)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1277,7 +1309,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871778354)\/"
+        "Date":  "\/Date(1423478792081)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1293,7 +1325,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871778556)\/"
+        "Date":  "\/Date(1423478793334)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1309,7 +1341,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871778788)\/"
+        "Date":  "\/Date(1423478795014)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1325,7 +1357,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871779167)\/"
+        "Date":  "\/Date(1423478795822)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1341,7 +1373,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1422871779481)\/"
+        "Date":  "\/Date(1423478797062)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1357,7 +1389,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871779675)\/"
+        "Date":  "\/Date(1423478798352)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1373,23 +1405,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871779837)\/"
+        "Date":  "\/Date(1423478799640)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "115M",
         "Cover":  115,
-        "TotalCost":  "2.76",
-        "Mean":  2.7624000000000009,
-        "AveragePrice":  1.8396000000000001,
-        "CurrentPrice":  1.9380000000000002,
+        "TotalCost":  "3.04",
+        "Mean":  3.0361538461538466,
+        "AveragePrice":  2.052692307692308,
+        "CurrentPrice":  3.214,
         "Minimum":  0.49,
-        "Maximum":  4.95,
-        "Count":  25,
+        "Maximum":  7.38,
+        "Count":  26,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1422871780145)\/"
+        "Date":  "\/Date(1423478800899)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1405,7 +1437,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871780866)\/"
+        "Date":  "\/Date(1423478802061)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1421,7 +1453,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871782260)\/"
+        "Date":  "\/Date(1423478803259)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1437,7 +1469,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871782420)\/"
+        "Date":  "\/Date(1423478804451)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1453,7 +1485,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871782632)\/"
+        "Date":  "\/Date(1423478805705)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1469,23 +1501,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871782872)\/"
+        "Date":  "\/Date(1423478806927)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "115O",
         "Cover":  115,
-        "TotalCost":  "3.27",
-        "Mean":  3.2742307692307695,
-        "AveragePrice":  2.1769230769230759,
-        "CurrentPrice":  2.926,
+        "TotalCost":  "3.44",
+        "Mean":  3.4366037735849067,
+        "AveragePrice":  2.3128301886792442,
+        "CurrentPrice":  3.804,
         "Minimum":  0.49,
-        "Maximum":  6.99,
-        "Count":  52,
+        "Maximum":  9.38,
+        "Count":  53,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1422871783180)\/"
+        "Date":  "\/Date(1423478808384)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1501,7 +1533,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871783349)\/"
+        "Date":  "\/Date(1423478809582)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1517,23 +1549,23 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871783545)\/"
+        "Date":  "\/Date(1423478810815)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "116A",
         "Cover":  116,
-        "TotalCost":  "2.90",
-        "Mean":  2.90092672413793,
-        "AveragePrice":  2.41592672413793,
-        "CurrentPrice":  1.965666666666666,
+        "TotalCost":  "2.87",
+        "Mean":  2.8728402777777768,
+        "AveragePrice":  2.3840069444444443,
+        "CurrentPrice":  1.95,
         "Minimum":  0.99,
         "Maximum":  4.99,
-        "Count":  58,
-        "AveragePaid":  2.1500000000000004,
-        "AverageNetPaid":  2.1500000000000004,
-        "Stock":  4,
-        "Date":  "\/Date(1422871783841)\/"
+        "Count":  60,
+        "AveragePaid":  2.21,
+        "AverageNetPaid":  1.9700000000000002,
+        "Stock":  5,
+        "Date":  "\/Date(1423478812309)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1549,7 +1581,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871784080)\/"
+        "Date":  "\/Date(1423478813555)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1565,7 +1597,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871784277)\/"
+        "Date":  "\/Date(1423478814804)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1581,7 +1613,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871784840)\/"
+        "Date":  "\/Date(1423478816026)\/"
+    },
+    {
+        "Title":  "THE WALKING DEAD",
+        "Issue":  "117",
+        "Cover":  117,
+        "TotalCost":  "1.67",
+        "Mean":  1.66666666666667,
+        "AveragePrice":  1.66666666666667,
+        "CurrentPrice":  1.66666666666667,
+        "Minimum":  1.66666666666667,
+        "Maximum":  1.66666666666667,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1423478817270)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1597,7 +1645,7 @@
         "AveragePaid":  2.166666666666667,
         "AverageNetPaid":  2.166666666666667,
         "Stock":  3,
-        "Date":  "\/Date(1422871785147)\/"
+        "Date":  "\/Date(1423478818543)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1613,7 +1661,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871785444)\/"
+        "Date":  "\/Date(1423478819787)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1629,7 +1677,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1422871785793)\/"
+        "Date":  "\/Date(1423478821069)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1645,7 +1693,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871785972)\/"
+        "Date":  "\/Date(1423478822254)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1661,7 +1709,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871786209)\/"
+        "Date":  "\/Date(1423478823490)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1677,23 +1725,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871786384)\/"
+        "Date":  "\/Date(1423478824702)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "118",
         "Cover":  118,
-        "TotalCost":  "2.77",
-        "Mean":  2.7663183760683747,
-        "AveragePrice":  2.3573952991452987,
-        "CurrentPrice":  2.1108888888888879,
+        "TotalCost":  "2.75",
+        "Mean":  2.7496569865319853,
+        "AveragePrice":  2.3469297138047138,
+        "CurrentPrice":  2.144222222222222,
         "Minimum":  0.99,
         "Maximum":  4.2,
-        "Count":  65,
+        "Count":  66,
         "AveragePaid":  2.35,
         "AverageNetPaid":  2.35,
         "Stock":  3,
-        "Date":  "\/Date(1422871786719)\/"
+        "Date":  "\/Date(1423478825949)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1709,23 +1757,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871786937)\/"
+        "Date":  "\/Date(1423478827169)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "119",
         "Cover":  119,
-        "TotalCost":  "2.98",
-        "Mean":  2.9789375901875883,
-        "AveragePrice":  2.5765999278499265,
-        "CurrentPrice":  2.1108888888888879,
+        "TotalCost":  "2.96",
+        "Mean":  2.9621136039886018,
+        "AveragePrice":  2.5649341168091158,
+        "CurrentPrice":  2.144222222222222,
         "Minimum":  0.99,
         "Maximum":  5.98,
-        "Count":  77,
+        "Count":  78,
         "AveragePaid":  2.225,
         "AverageNetPaid":  2.225,
         "Stock":  4,
-        "Date":  "\/Date(1422871787369)\/"
+        "Date":  "\/Date(1423478828532)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1741,7 +1789,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871787537)\/"
+        "Date":  "\/Date(1423478829746)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1757,7 +1805,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871787792)\/"
+        "Date":  "\/Date(1423478831051)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1773,23 +1821,23 @@
         "AveragePaid":  9.25,
         "AverageNetPaid":  9.25,
         "Stock":  1,
-        "Date":  "\/Date(1422871788063)\/"
+        "Date":  "\/Date(1423478832293)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "120",
         "Cover":  120,
-        "TotalCost":  "2.82",
-        "Mean":  2.8152061631944436,
-        "AveragePrice":  2.4472374131944448,
-        "CurrentPrice":  2.3458888888888878,
+        "TotalCost":  "2.80",
+        "Mean":  2.7975363247863236,
+        "AveragePrice":  2.435228632478633,
+        "CurrentPrice":  2.3792222222222223,
         "Minimum":  0.9,
         "Maximum":  5,
-        "Count":  64,
+        "Count":  65,
         "AveragePaid":  2.3049999999999997,
         "AverageNetPaid":  2.1375,
         "Stock":  4,
-        "Date":  "\/Date(1422871788381)\/"
+        "Date":  "\/Date(1423478833531)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1805,23 +1853,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871788564)\/"
+        "Date":  "\/Date(1423478834786)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "121",
         "Cover":  121,
-        "TotalCost":  "3.00",
-        "Mean":  2.9953949652777778,
-        "AveragePrice":  2.7555512152777779,
-        "CurrentPrice":  2.3790555555555564,
+        "TotalCost":  "2.96",
+        "Mean":  2.9620929533429532,
+        "AveragePrice":  2.7113353775853777,
+        "CurrentPrice":  2.2977936507936496,
         "Minimum":  0.99,
         "Maximum":  6.5,
-        "Count":  64,
-        "AveragePaid":  2.2733333333333334,
-        "AverageNetPaid":  2.0500000000000003,
-        "Stock":  3,
-        "Date":  "\/Date(1422871788896)\/"
+        "Count":  66,
+        "AveragePaid":  2.3675,
+        "AverageNetPaid":  1.9000000000000001,
+        "Stock":  4,
+        "Date":  "\/Date(1423478836157)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1837,23 +1885,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871789065)\/"
+        "Date":  "\/Date(1423478837372)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "122",
         "Cover":  122,
-        "TotalCost":  "3.11",
-        "Mean":  3.1059483024691357,
-        "AveragePrice":  2.8524760802469142,
-        "CurrentPrice":  1.793655555555556,
+        "TotalCost":  "3.08",
+        "Mean":  3.0790566427484234,
+        "AveragePrice":  2.8290566427484238,
+        "CurrentPrice":  1.72239365079365,
         "Minimum":  0.99,
         "Maximum":  6.99,
-        "Count":  72,
+        "Count":  73,
         "AveragePaid":  2.255,
         "AverageNetPaid":  2.0875000000000004,
         "Stock":  4,
-        "Date":  "\/Date(1422871789403)\/"
+        "Date":  "\/Date(1423478838665)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1869,23 +1917,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871789572)\/"
+        "Date":  "\/Date(1423478839888)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "123",
         "Cover":  123,
-        "TotalCost":  "2.74",
-        "Mean":  2.7405571586701778,
-        "AveragePrice":  2.4714022290927136,
-        "CurrentPrice":  1.793655555555556,
+        "TotalCost":  "2.72",
+        "Mean":  2.7183668806727743,
+        "AveragePrice":  2.4529502140061084,
+        "CurrentPrice":  1.72239365079365,
         "Minimum":  0.148780487804878,
         "Maximum":  4.5,
-        "Count":  71,
+        "Count":  72,
         "AveragePaid":  2.29,
         "AverageNetPaid":  1.9000000000000001,
         "Stock":  3,
-        "Date":  "\/Date(1422871789911)\/"
+        "Date":  "\/Date(1423478841178)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1901,23 +1949,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871790099)\/"
+        "Date":  "\/Date(1423478842402)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "124",
         "Cover":  124,
-        "TotalCost":  "2.78",
-        "Mean":  2.7756573285009964,
-        "AveragePrice":  2.5232476899467797,
-        "CurrentPrice":  1.7438222222222222,
+        "TotalCost":  "2.76",
+        "Mean":  2.7562192310528553,
+        "AveragePrice":  2.5068144691480931,
+        "CurrentPrice":  1.67239365079365,
         "Minimum":  0.148780487804878,
         "Maximum":  4.99,
-        "Count":  83,
+        "Count":  84,
         "AveragePaid":  2.29,
         "AverageNetPaid":  1.9000000000000001,
         "Stock":  3,
-        "Date":  "\/Date(1422871790486)\/"
+        "Date":  "\/Date(1423478843592)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1933,23 +1981,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871790671)\/"
+        "Date":  "\/Date(1423478844840)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "125",
         "Cover":  125,
-        "TotalCost":  "2.63",
-        "Mean":  2.6342357312967066,
-        "AveragePrice":  2.5088569434179191,
-        "CurrentPrice":  1.7438222222222222,
+        "TotalCost":  "2.61",
+        "Mean":  2.6119763493796984,
+        "AveragePrice":  2.488468886693131,
+        "CurrentPrice":  1.67239365079365,
         "Minimum":  0.148780487804878,
         "Maximum":  5.98,
-        "Count":  66,
+        "Count":  67,
         "AveragePaid":  2.2483333333333335,
         "AverageNetPaid":  1.9000000000000001,
         "Stock":  3,
-        "Date":  "\/Date(1422871790996)\/"
+        "Date":  "\/Date(1423478846114)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1965,23 +2013,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871791174)\/"
+        "Date":  "\/Date(1423478847325)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "126",
         "Cover":  126,
-        "TotalCost":  "2.73",
-        "Mean":  2.731281842818428,
-        "AveragePrice":  2.5665716978908919,
-        "CurrentPrice":  2.4495999999999998,
+        "TotalCost":  "2.71",
+        "Mean":  2.7085900613904097,
+        "AveragePrice":  2.5462329185332666,
+        "CurrentPrice":  2.3781714285714277,
         "Minimum":  0.148780487804878,
         "Maximum":  5.75,
-        "Count":  69,
+        "Count":  70,
         "AveragePaid":  2.1812500000000004,
         "AverageNetPaid":  2.0875000000000004,
         "Stock":  4,
-        "Date":  "\/Date(1422871791493)\/"
+        "Date":  "\/Date(1423478848610)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -1997,23 +2045,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871791673)\/"
+        "Date":  "\/Date(1423478849852)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "127A",
         "Cover":  127,
-        "TotalCost":  "6.07",
-        "Mean":  6.0701533437694648,
-        "AveragePrice":  5.3718200104361316,
-        "CurrentPrice":  2.694476190476192,
+        "TotalCost":  "6.09",
+        "Mean":  6.0865330598594767,
+        "AveragePrice":  5.3725614286538033,
+        "CurrentPrice":  4.034,
         "Minimum":  0.148780487804878,
         "Maximum":  19.8,
-        "Count":  138,
+        "Count":  141,
         "AveragePaid":  2.45,
         "AverageNetPaid":  2.45,
         "Stock":  4,
-        "Date":  "\/Date(1422871792273)\/"
+        "Date":  "\/Date(1423478851114)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2029,7 +2077,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871792484)\/"
+        "Date":  "\/Date(1423478852643)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2045,7 +2093,7 @@
         "AveragePaid":  1.5,
         "AverageNetPaid":  1.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871792704)\/"
+        "Date":  "\/Date(1423478854226)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2061,7 +2109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871792873)\/"
+        "Date":  "\/Date(1423478855801)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2077,11 +2125,11 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871793034)\/"
+        "Date":  "\/Date(1423478857138)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "127DIAMOND",
+        "Issue":  "127D",
         "Cover":  127,
         "TotalCost":  "62.43",
         "Mean":  62.425000000000004,
@@ -2093,23 +2141,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871793249)\/"
+        "Date":  "\/Date(1423478858401)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "128",
         "Cover":  128,
-        "TotalCost":  "2.75",
-        "Mean":  2.7540232288037161,
-        "AveragePrice":  2.5502232288037168,
-        "CurrentPrice":  2.0644761904761917,
+        "TotalCost":  "2.72",
+        "Mean":  2.7245325772585454,
+        "AveragePrice":  2.5247286556899184,
+        "CurrentPrice":  2.1444761904761918,
         "Minimum":  0.148780487804878,
         "Maximum":  3.49,
-        "Count":  50,
+        "Count":  51,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871793523)\/"
+        "Date":  "\/Date(1423478859664)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2125,23 +2173,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871793695)\/"
+        "Date":  "\/Date(1423478861006)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "129",
         "Cover":  129,
-        "TotalCost":  "2.87",
-        "Mean":  2.8742765567765574,
-        "AveragePrice":  2.742930402930404,
-        "CurrentPrice":  2.654476190476192,
+        "TotalCost":  "2.84",
+        "Mean":  2.8436298292902071,
+        "AveragePrice":  2.7147619047619056,
+        "CurrentPrice":  2.4544761904761918,
         "Minimum":  1,
         "Maximum":  3.5,
-        "Count":  52,
+        "Count":  53,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871793983)\/"
+        "Date":  "\/Date(1423478862222)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2157,7 +2205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871794152)\/"
+        "Date":  "\/Date(1423478863431)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2173,7 +2221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871794312)\/"
+        "Date":  "\/Date(1423478864602)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2189,7 +2237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871794481)\/"
+        "Date":  "\/Date(1423478866332)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2205,7 +2253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871794641)\/"
+        "Date":  "\/Date(1423478867515)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2221,7 +2269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871794803)\/"
+        "Date":  "\/Date(1423478868802)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2237,7 +2285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871794963)\/"
+        "Date":  "\/Date(1423478870072)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2253,23 +2301,23 @@
         "AveragePaid":  14.125,
         "AverageNetPaid":  14.125,
         "Stock":  2,
-        "Date":  "\/Date(1422871795182)\/"
+        "Date":  "\/Date(1423478871518)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "130",
         "Cover":  130,
-        "TotalCost":  "2.99",
-        "Mean":  2.9857400257400264,
-        "AveragePrice":  2.9051994851994856,
-        "CurrentPrice":  2.8544761904761922,
+        "TotalCost":  "2.94",
+        "Mean":  2.9400626566416044,
+        "AveragePrice":  2.8616416040100257,
+        "CurrentPrice":  2.5333333333333341,
         "Minimum":  1,
         "Maximum":  5,
-        "Count":  37,
+        "Count":  38,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871795408)\/"
+        "Date":  "\/Date(1423478872776)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2285,23 +2333,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871795567)\/"
+        "Date":  "\/Date(1423478874081)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "131",
         "Cover":  131,
-        "TotalCost":  "2.84",
-        "Mean":  2.8385744047619053,
-        "AveragePrice":  2.7229494047619052,
-        "CurrentPrice":  2.5037333333333338,
+        "TotalCost":  "2.79",
+        "Mean":  2.7904357864357867,
+        "AveragePrice":  2.6783145743145749,
+        "CurrentPrice":  2.1037333333333339,
         "Minimum":  0.89,
         "Maximum":  3.44,
-        "Count":  32,
+        "Count":  33,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871795779)\/"
+        "Date":  "\/Date(1423478875387)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2317,39 +2365,39 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871795967)\/"
+        "Date":  "\/Date(1423478876615)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "132",
         "Cover":  132,
-        "TotalCost":  "2.91",
-        "Mean":  2.9142889983579647,
-        "AveragePrice":  2.7435993431855503,
-        "CurrentPrice":  2.0437333333333343,
+        "TotalCost":  "2.86",
+        "Mean":  2.8588126984126987,
+        "AveragePrice":  2.6938126984126987,
+        "CurrentPrice":  1.8937333333333342,
         "Minimum":  1.102,
         "Maximum":  3.45,
-        "Count":  29,
+        "Count":  30,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871796206)\/"
+        "Date":  "\/Date(1423478877940)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "132LOOTCRATE",
         "Cover":  132,
-        "TotalCost":  "8.17",
-        "Mean":  8.16727272727273,
-        "AveragePrice":  7.54011363636364,
-        "CurrentPrice":  5.976,
+        "TotalCost":  "8.13",
+        "Mean":  8.13224719101124,
+        "AveragePrice":  7.49359550561798,
+        "CurrentPrice":  6.484,
         "Minimum":  0.99,
         "Maximum":  19.99,
-        "Count":  88,
+        "Count":  89,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871796588)\/"
+        "Date":  "\/Date(1423478879313)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2365,7 +2413,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871796754)\/"
+        "Date":  "\/Date(1423478880651)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2381,7 +2429,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871797055)\/"
+        "Date":  "\/Date(1423478881906)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2397,7 +2445,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871797228)\/"
+        "Date":  "\/Date(1423478883206)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2413,7 +2461,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871797404)\/"
+        "Date":  "\/Date(1423478884546)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2429,7 +2477,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871797564)\/"
+        "Date":  "\/Date(1423478885750)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2445,7 +2493,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871797772)\/"
+        "Date":  "\/Date(1423478887018)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2461,7 +2509,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871798148)\/"
+        "Date":  "\/Date(1423478888289)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2477,7 +2525,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871798354)\/"
+        "Date":  "\/Date(1423478889552)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2493,7 +2541,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871798547)\/"
+        "Date":  "\/Date(1423478890781)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2509,23 +2557,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871798728)\/"
+        "Date":  "\/Date(1423478892011)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "14",
         "Cover":  14,
-        "TotalCost":  "18.26",
-        "Mean":  18.258611111111112,
-        "AveragePrice":  16.014861111111109,
-        "CurrentPrice":  16.744,
+        "TotalCost":  "18.19",
+        "Mean":  18.191571815718156,
+        "AveragePrice":  15.929376693766937,
+        "CurrentPrice":  13.045999999999998,
         "Minimum":  4.2,
         "Maximum":  31,
-        "Count":  40,
+        "Count":  41,
         "AveragePaid":  10.205,
         "AverageNetPaid":  10.205,
         "Stock":  2,
-        "Date":  "\/Date(1422871798989)\/"
+        "Date":  "\/Date(1423478893259)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2541,7 +2589,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871799170)\/"
+        "Date":  "\/Date(1423478894481)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2557,7 +2605,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871799336)\/"
+        "Date":  "\/Date(1423478895683)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2573,7 +2621,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871799500)\/"
+        "Date":  "\/Date(1423478896916)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2589,7 +2637,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871799661)\/"
+        "Date":  "\/Date(1423478898185)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2605,7 +2653,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871799834)\/"
+        "Date":  "\/Date(1423478899501)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2621,7 +2669,7 @@
         "AveragePaid":  13.46,
         "AverageNetPaid":  13.46,
         "Stock":  2,
-        "Date":  "\/Date(1422871800104)\/"
+        "Date":  "\/Date(1423478900778)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2637,7 +2685,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871800269)\/"
+        "Date":  "\/Date(1423478902008)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2653,7 +2701,7 @@
         "AveragePaid":  9.5,
         "AverageNetPaid":  9.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871800512)\/"
+        "Date":  "\/Date(1423478903278)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2669,7 +2717,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871800673)\/"
+        "Date":  "\/Date(1423478904524)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2685,7 +2733,7 @@
         "AveragePaid":  9.55,
         "AverageNetPaid":  9.55,
         "Stock":  1,
-        "Date":  "\/Date(1422871800946)\/"
+        "Date":  "\/Date(1423478905772)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2701,39 +2749,39 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871801116)\/"
+        "Date":  "\/Date(1423478907011)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "18",
         "Cover":  18,
-        "TotalCost":  "14.89",
-        "Mean":  14.888062678062678,
-        "AveragePrice":  12.934216524216522,
-        "CurrentPrice":  13.418000000000001,
+        "TotalCost":  "14.99",
+        "Mean":  14.99086111111111,
+        "AveragePrice":  13.010861111111108,
+        "CurrentPrice":  12.618,
         "Minimum":  2.84,
         "Maximum":  29.4444444444444,
-        "Count":  39,
+        "Count":  40,
         "AveragePaid":  9.17,
         "AverageNetPaid":  9.17,
         "Stock":  1,
-        "Date":  "\/Date(1422871801384)\/"
+        "Date":  "\/Date(1423478908306)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "19",
         "Cover":  19,
-        "TotalCost":  "98.18",
-        "Mean":  98.17851010101009,
-        "AveragePrice":  95.003964646464638,
-        "CurrentPrice":  81.724,
+        "TotalCost":  "97.37",
+        "Mean":  97.374543209876535,
+        "AveragePrice":  94.11498765432097,
+        "CurrentPrice":  74.324,
         "Minimum":  29.4444444444444,
         "Maximum":  150,
-        "Count":  44,
+        "Count":  45,
         "AveragePaid":  99.51,
         "AverageNetPaid":  99.51,
         "Stock":  1,
-        "Date":  "\/Date(1422871801648)\/"
+        "Date":  "\/Date(1423478909631)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2749,7 +2797,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871801811)\/"
+        "Date":  "\/Date(1423478910844)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2765,7 +2813,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871801977)\/"
+        "Date":  "\/Date(1423478912061)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2781,23 +2829,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871802182)\/"
+        "Date":  "\/Date(1423478913472)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "1ACGC",
         "Cover":  1,
-        "TotalCost":  "856.87",
-        "Mean":  856.86666666666667,
-        "AveragePrice":  856.86666666666667,
-        "CurrentPrice":  856.86666666666667,
+        "TotalCost":  "886.96",
+        "Mean":  886.95499999999993,
+        "AveragePrice":  884.15,
+        "CurrentPrice":  884.15,
         "Minimum":  370.6,
         "Maximum":  1575,
-        "Count":  3,
+        "Count":  4,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871802385)\/"
+        "Date":  "\/Date(1423478914681)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2813,7 +2861,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871802563)\/"
+        "Date":  "\/Date(1423478915968)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2829,7 +2877,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871802734)\/"
+        "Date":  "\/Date(1423478917177)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2845,7 +2893,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871802905)\/"
+        "Date":  "\/Date(1423478918416)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2861,7 +2909,7 @@
         "AveragePaid":  21,
         "AverageNetPaid":  21,
         "Stock":  1,
-        "Date":  "\/Date(1422871803114)\/"
+        "Date":  "\/Date(1423478919777)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2877,7 +2925,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871803291)\/"
+        "Date":  "\/Date(1423478921019)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2893,7 +2941,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871803469)\/"
+        "Date":  "\/Date(1423478922255)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2909,23 +2957,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871803657)\/"
+        "Date":  "\/Date(1423478923511)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "1COLOR",
         "Cover":  1,
-        "TotalCost":  "8.39",
-        "Mean":  8.3851923076923143,
-        "AveragePrice":  7.1189423076923122,
-        "CurrentPrice":  10.324,
+        "TotalCost":  "8.33",
+        "Mean":  8.3315887850467369,
+        "AveragePrice":  7.0419626168224339,
+        "CurrentPrice":  8.8240000000000016,
         "Minimum":  0.99,
         "Maximum":  24.1,
-        "Count":  104,
+        "Count":  107,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1422871804097)\/"
+        "Date":  "\/Date(1423478924792)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2941,7 +2989,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871804264)\/"
+        "Date":  "\/Date(1423478926036)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2957,7 +3005,7 @@
         "AveragePaid":  14,
         "AverageNetPaid":  14,
         "Stock":  1,
-        "Date":  "\/Date(1422871804506)\/"
+        "Date":  "\/Date(1423478927292)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2973,7 +3021,7 @@
         "AveragePaid":  11.51,
         "AverageNetPaid":  8.51,
         "Stock":  1,
-        "Date":  "\/Date(1422871804701)\/"
+        "Date":  "\/Date(1423478928571)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -2989,7 +3037,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871804905)\/"
+        "Date":  "\/Date(1423478929916)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3005,7 +3053,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871805068)\/"
+        "Date":  "\/Date(1423478931161)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3021,23 +3069,23 @@
         "AveragePaid":  26.5,
         "AverageNetPaid":  26.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871805250)\/"
+        "Date":  "\/Date(1423478932396)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "1FIRSTS",
         "Cover":  1,
-        "TotalCost":  "7.55",
-        "Mean":  7.549857142857153,
-        "AveragePrice":  6.1317857142857157,
-        "CurrentPrice":  4.2799999999999994,
+        "TotalCost":  "7.51",
+        "Mean":  7.51174825174826,
+        "AveragePrice":  6.0905594405594421,
+        "CurrentPrice":  3.84,
         "Minimum":  0.75,
         "Maximum":  41,
-        "Count":  140,
+        "Count":  143,
         "AveragePaid":  0.84600000000000009,
         "AverageNetPaid":  0.84600000000000009,
         "Stock":  5,
-        "Date":  "\/Date(1422871805786)\/"
+        "Date":  "\/Date(1423478933623)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3053,7 +3101,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871805957)\/"
+        "Date":  "\/Date(1423478934923)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3069,7 +3117,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871806137)\/"
+        "Date":  "\/Date(1423478936184)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3085,7 +3133,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871806309)\/"
+        "Date":  "\/Date(1423478937398)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3101,7 +3149,7 @@
         "AveragePaid":  19,
         "AverageNetPaid":  19,
         "Stock":  1,
-        "Date":  "\/Date(1422871806481)\/"
+        "Date":  "\/Date(1423478938640)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3117,7 +3165,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871806646)\/"
+        "Date":  "\/Date(1423478940079)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3133,7 +3181,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871806838)\/"
+        "Date":  "\/Date(1423478941343)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3149,7 +3197,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871807109)\/"
+        "Date":  "\/Date(1423478942616)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3165,7 +3213,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871807270)\/"
+        "Date":  "\/Date(1423478943885)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3181,7 +3229,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871807485)\/"
+        "Date":  "\/Date(1423478945146)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3197,7 +3245,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871807647)\/"
+        "Date":  "\/Date(1423478946382)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3213,23 +3261,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871807812)\/"
+        "Date":  "\/Date(1423478947665)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "1NASHVILLESKETCH",
         "Cover":  1,
-        "TotalCost":  "36.00",
-        "Mean":  36,
-        "AveragePrice":  33,
-        "CurrentPrice":  33,
+        "TotalCost":  "35.00",
+        "Mean":  35,
+        "AveragePrice":  32,
+        "CurrentPrice":  32,
         "Minimum":  30,
         "Maximum":  36,
-        "Count":  2,
+        "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871807986)\/"
+        "Date":  "\/Date(1423478948915)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3245,7 +3293,7 @@
         "AveragePaid":  14.99,
         "AverageNetPaid":  14.99,
         "Stock":  1,
-        "Date":  "\/Date(1422871808152)\/"
+        "Date":  "\/Date(1423478950270)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3261,7 +3309,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871808333)\/"
+        "Date":  "\/Date(1423478951545)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3277,7 +3325,7 @@
         "AveragePaid":  14.99,
         "AverageNetPaid":  14.99,
         "Stock":  1,
-        "Date":  "\/Date(1422871808578)\/"
+        "Date":  "\/Date(1423478952848)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3293,7 +3341,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871808764)\/"
+        "Date":  "\/Date(1423478954113)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3309,7 +3357,7 @@
         "AveragePaid":  24,
         "AverageNetPaid":  24,
         "Stock":  1,
-        "Date":  "\/Date(1422871808935)\/"
+        "Date":  "\/Date(1423478955398)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3325,7 +3373,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871809095)\/"
+        "Date":  "\/Date(1423478956677)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3341,7 +3389,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871809264)\/"
+        "Date":  "\/Date(1423478957905)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3357,7 +3405,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871809425)\/"
+        "Date":  "\/Date(1423478959180)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3373,7 +3421,7 @@
         "AveragePaid":  17,
         "AverageNetPaid":  14,
         "Stock":  1,
-        "Date":  "\/Date(1422871809666)\/"
+        "Date":  "\/Date(1423478960536)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3389,7 +3437,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871811342)\/"
+        "Date":  "\/Date(1423478961872)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3405,7 +3453,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871811510)\/"
+        "Date":  "\/Date(1423478963092)\/"
+    },
+    {
+        "Title":  "THE WALKING DEAD",
+        "Issue":  "1PORTLANDSKETCH",
+        "Cover":  1,
+        "TotalCost":  "36.00",
+        "Mean":  36,
+        "AveragePrice":  33,
+        "CurrentPrice":  33,
+        "Minimum":  33,
+        "Maximum":  33,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1423478964327)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3421,7 +3485,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871812000)\/"
+        "Date":  "\/Date(1423478965650)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3437,7 +3501,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871812169)\/"
+        "Date":  "\/Date(1423478966942)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3453,23 +3517,23 @@
         "AveragePaid":  13.01,
         "AverageNetPaid":  13.01,
         "Stock":  1,
-        "Date":  "\/Date(1422871812425)\/"
+        "Date":  "\/Date(1423478968221)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "21",
         "Cover":  21,
-        "TotalCost":  "11.99",
-        "Mean":  11.99225,
-        "AveragePrice":  9.86075,
-        "CurrentPrice":  11.4,
+        "TotalCost":  "12.13",
+        "Mean":  12.126585365853659,
+        "AveragePrice":  9.9739024390243891,
+        "CurrentPrice":  12.3,
         "Minimum":  4.99,
         "Maximum":  16.5,
-        "Count":  40,
+        "Count":  41,
         "AveragePaid":  10.02,
         "AverageNetPaid":  10.02,
         "Stock":  2,
-        "Date":  "\/Date(1422871812947)\/"
+        "Date":  "\/Date(1423478969500)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3485,7 +3549,7 @@
         "AveragePaid":  12.5,
         "AverageNetPaid":  12.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871813194)\/"
+        "Date":  "\/Date(1423478970781)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3501,7 +3565,7 @@
         "AveragePaid":  10.17,
         "AverageNetPaid":  10.17,
         "Stock":  1,
-        "Date":  "\/Date(1422871813599)\/"
+        "Date":  "\/Date(1423478972021)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3517,7 +3581,7 @@
         "AveragePaid":  6.5,
         "AverageNetPaid":  6.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871813955)\/"
+        "Date":  "\/Date(1423478973342)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3533,7 +3597,7 @@
         "AveragePaid":  11.95,
         "AverageNetPaid":  11.95,
         "Stock":  1,
-        "Date":  "\/Date(1422871814290)\/"
+        "Date":  "\/Date(1423478974620)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3549,23 +3613,23 @@
         "AveragePaid":  6.01,
         "AverageNetPaid":  6.01,
         "Stock":  1,
-        "Date":  "\/Date(1422871814666)\/"
+        "Date":  "\/Date(1423478976296)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "27",
         "Cover":  27,
-        "TotalCost":  "61.98",
-        "Mean":  61.9846,
-        "AveragePrice":  58.8728,
-        "CurrentPrice":  66.4,
+        "TotalCost":  "62.24",
+        "Mean":  62.23980392156863,
+        "AveragePrice":  59.051764705882348,
+        "CurrentPrice":  64.4,
         "Minimum":  12.35,
         "Maximum":  94.99,
-        "Count":  50,
+        "Count":  51,
         "AveragePaid":  75,
         "AverageNetPaid":  75,
         "Stock":  1,
-        "Date":  "\/Date(1422871814961)\/"
+        "Date":  "\/Date(1423478977338)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3581,7 +3645,7 @@
         "AveragePaid":  2.9000000000000004,
         "AverageNetPaid":  2.6500000000000004,
         "Stock":  4,
-        "Date":  "\/Date(1422871815269)\/"
+        "Date":  "\/Date(1423478978625)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3597,7 +3661,7 @@
         "AveragePaid":  3.5700000000000003,
         "AverageNetPaid":  3.2366666666666668,
         "Stock":  3,
-        "Date":  "\/Date(1422871815551)\/"
+        "Date":  "\/Date(1423478979846)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3613,23 +3677,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871815735)\/"
+        "Date":  "\/Date(1423478981128)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "2A",
         "Cover":  2,
-        "TotalCost":  "236.35",
-        "Mean":  236.35473684210524,
-        "AveragePrice":  232.81789473684211,
-        "CurrentPrice":  168,
+        "TotalCost":  "237.44",
+        "Mean":  237.43699999999998,
+        "AveragePrice":  233.927,
+        "CurrentPrice":  193,
         "Minimum":  110,
         "Maximum":  880,
-        "Count":  19,
+        "Count":  20,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871816026)\/"
+        "Date":  "\/Date(1423478982349)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3645,7 +3709,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871816212)\/"
+        "Date":  "\/Date(1423478983564)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3661,23 +3725,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871816542)\/"
+        "Date":  "\/Date(1423478984803)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "3",
         "Cover":  3,
-        "TotalCost":  "132.49",
-        "Mean":  132.48894736842104,
-        "AveragePrice":  129.15947368421052,
-        "CurrentPrice":  154.904,
+        "TotalCost":  "132.56",
+        "Mean":  132.5645,
+        "AveragePrice":  129.25150000000002,
+        "CurrentPrice":  117.6,
         "Minimum":  57,
         "Maximum":  317.52,
-        "Count":  19,
+        "Count":  20,
         "AveragePaid":  61.95,
         "AverageNetPaid":  57,
         "Stock":  1,
-        "Date":  "\/Date(1422871816757)\/"
+        "Date":  "\/Date(1423478986063)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3693,7 +3757,7 @@
         "AveragePaid":  5.7,
         "AverageNetPaid":  5.7,
         "Stock":  1,
-        "Date":  "\/Date(1422871817103)\/"
+        "Date":  "\/Date(1423478987279)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3709,23 +3773,23 @@
         "AveragePaid":  5.9,
         "AverageNetPaid":  5.9,
         "Stock":  1,
-        "Date":  "\/Date(1422871817390)\/"
+        "Date":  "\/Date(1423478988494)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "32",
         "Cover":  32,
-        "TotalCost":  "10.66",
-        "Mean":  10.660285714285713,
-        "AveragePrice":  8.4157619047619061,
-        "CurrentPrice":  7.35,
+        "TotalCost":  "10.73",
+        "Mean":  10.726325581395349,
+        "AveragePrice":  8.4642325581395355,
+        "CurrentPrice":  8.3499999999999979,
         "Minimum":  1.69,
         "Maximum":  28,
-        "Count":  42,
+        "Count":  43,
         "AveragePaid":  6.7,
         "AverageNetPaid":  6.7,
         "Stock":  1,
-        "Date":  "\/Date(1422871817661)\/"
+        "Date":  "\/Date(1423478989720)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3741,7 +3805,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871817830)\/"
+        "Date":  "\/Date(1423478991032)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3757,7 +3821,7 @@
         "AveragePaid":  5.8,
         "AverageNetPaid":  5.8,
         "Stock":  1,
-        "Date":  "\/Date(1422871818079)\/"
+        "Date":  "\/Date(1423478992267)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3773,7 +3837,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871818319)\/"
+        "Date":  "\/Date(1423478993499)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3789,7 +3853,7 @@
         "AveragePaid":  5.1,
         "AverageNetPaid":  5.1,
         "Stock":  1,
-        "Date":  "\/Date(1422871818578)\/"
+        "Date":  "\/Date(1423478994725)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3805,23 +3869,23 @@
         "AveragePaid":  15,
         "AverageNetPaid":  15,
         "Stock":  2,
-        "Date":  "\/Date(1422871818770)\/"
+        "Date":  "\/Date(1423478996020)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "35",
         "Cover":  35,
         "TotalCost":  "10.94",
-        "Mean":  10.943142857142856,
-        "AveragePrice":  9.1579047619047618,
-        "CurrentPrice":  8.044,
+        "Mean":  10.944465116279069,
+        "AveragePrice":  9.2007441860465118,
+        "CurrentPrice":  8.542,
         "Minimum":  3.99,
         "Maximum":  24.45,
-        "Count":  42,
+        "Count":  43,
         "AveragePaid":  9,
         "AverageNetPaid":  9,
         "Stock":  2,
-        "Date":  "\/Date(1422871819040)\/"
+        "Date":  "\/Date(1423478997309)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3837,7 +3901,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871819227)\/"
+        "Date":  "\/Date(1423478998515)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3853,7 +3917,7 @@
         "AveragePaid":  5.8,
         "AverageNetPaid":  5.8,
         "Stock":  1,
-        "Date":  "\/Date(1422871819519)\/"
+        "Date":  "\/Date(1423478999750)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3869,39 +3933,39 @@
         "AveragePaid":  4.925,
         "AverageNetPaid":  4.925,
         "Stock":  2,
-        "Date":  "\/Date(1422871819905)\/"
+        "Date":  "\/Date(1423479001039)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "38",
         "Cover":  38,
-        "TotalCost":  "9.57",
-        "Mean":  9.56951754385965,
-        "AveragePrice":  7.6460964912280707,
-        "CurrentPrice":  5.9403333333333341,
+        "TotalCost":  "9.62",
+        "Mean":  9.6192735042735045,
+        "AveragePrice":  7.719786324786325,
+        "CurrentPrice":  7.0043333333333333,
         "Minimum":  4.7,
         "Maximum":  15,
-        "Count":  38,
+        "Count":  39,
         "AveragePaid":  5.35,
         "AverageNetPaid":  5.35,
         "Stock":  1,
-        "Date":  "\/Date(1422871820357)\/"
+        "Date":  "\/Date(1423479002272)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "39",
         "Cover":  39,
         "TotalCost":  "9.96",
-        "Mean":  9.9602916666666665,
-        "AveragePrice":  7.901041666666667,
-        "CurrentPrice":  6.1623333333333346,
+        "Mean":  9.9622357723577224,
+        "AveragePrice":  7.9290650406504071,
+        "CurrentPrice":  7.2323333333333339,
         "Minimum":  2.4,
         "Maximum":  34,
-        "Count":  40,
+        "Count":  41,
         "AveragePaid":  4.5,
         "AverageNetPaid":  4.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871820680)\/"
+        "Date":  "\/Date(1423479003516)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3917,7 +3981,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871820849)\/"
+        "Date":  "\/Date(1423479004710)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3933,7 +3997,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871821014)\/"
+        "Date":  "\/Date(1423479005916)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3949,39 +4013,39 @@
         "AveragePaid":  52.61,
         "AverageNetPaid":  52.61,
         "Stock":  1,
-        "Date":  "\/Date(1422871821226)\/"
+        "Date":  "\/Date(1423479007164)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "40",
         "Cover":  40,
-        "TotalCost":  "9.13",
-        "Mean":  9.134166666666669,
-        "AveragePrice":  6.8574166666666674,
-        "CurrentPrice":  4.9443333333333346,
+        "TotalCost":  "9.24",
+        "Mean":  9.2406504065040664,
+        "AveragePrice":  6.946260162601626,
+        "CurrentPrice":  6.4983333333333331,
         "Minimum":  0.525,
         "Maximum":  12.99,
-        "Count":  40,
+        "Count":  41,
         "AveragePaid":  8.99,
         "AverageNetPaid":  8.99,
         "Stock":  1,
-        "Date":  "\/Date(1422871821491)\/"
+        "Date":  "\/Date(1423479008359)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "41",
         "Cover":  41,
-        "TotalCost":  "10.16",
-        "Mean":  10.163015873015873,
-        "AveragePrice":  7.9899206349206358,
-        "CurrentPrice":  6.9583333333333339,
+        "TotalCost":  "10.20",
+        "Mean":  10.201287878787879,
+        "AveragePrice":  8.03628787878788,
+        "CurrentPrice":  8.9643333333333342,
         "Minimum":  0.525,
         "Maximum":  15,
-        "Count":  42,
+        "Count":  44,
         "AveragePaid":  7.92,
         "AverageNetPaid":  7.92,
         "Stock":  1,
-        "Date":  "\/Date(1422871821783)\/"
+        "Date":  "\/Date(1423479009618)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -3997,7 +4061,7 @@
         "AveragePaid":  8.5,
         "AverageNetPaid":  8.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871822063)\/"
+        "Date":  "\/Date(1423479010854)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4013,7 +4077,7 @@
         "AveragePaid":  14.49,
         "AverageNetPaid":  14.49,
         "Stock":  1,
-        "Date":  "\/Date(1422871822479)\/"
+        "Date":  "\/Date(1423479012166)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4029,23 +4093,23 @@
         "AveragePaid":  9.85,
         "AverageNetPaid":  9.85,
         "Stock":  1,
-        "Date":  "\/Date(1422871822782)\/"
+        "Date":  "\/Date(1423479013396)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "45",
         "Cover":  45,
-        "TotalCost":  "11.02",
-        "Mean":  11.023900709219856,
-        "AveragePrice":  8.8266666666666662,
-        "CurrentPrice":  8.902,
+        "TotalCost":  "11.07",
+        "Mean":  11.065069444444445,
+        "AveragePrice":  8.8511111111111109,
+        "CurrentPrice":  7.6019999999999994,
         "Minimum":  2.6,
         "Maximum":  16.5,
-        "Count":  47,
+        "Count":  48,
         "AveragePaid":  11.5,
         "AverageNetPaid":  11.5,
         "Stock":  2,
-        "Date":  "\/Date(1422871823079)\/"
+        "Date":  "\/Date(1423479014598)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4061,23 +4125,23 @@
         "AveragePaid":  11,
         "AverageNetPaid":  11,
         "Stock":  1,
-        "Date":  "\/Date(1422871823352)\/"
+        "Date":  "\/Date(1423479015919)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "47",
         "Cover":  47,
-        "TotalCost":  "11.74",
-        "Mean":  11.743076923076924,
-        "AveragePrice":  9.6089743589743613,
-        "CurrentPrice":  7.7520000000000007,
+        "TotalCost":  "11.79",
+        "Mean":  11.787,
+        "AveragePrice":  9.6312500000000014,
+        "CurrentPrice":  8.5520000000000014,
         "Minimum":  3.1,
         "Maximum":  20,
-        "Count":  39,
+        "Count":  40,
         "AveragePaid":  6.24,
         "AverageNetPaid":  6.24,
         "Stock":  1,
-        "Date":  "\/Date(1422871823620)\/"
+        "Date":  "\/Date(1423479017129)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4093,7 +4157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871823874)\/"
+        "Date":  "\/Date(1423479018377)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4109,7 +4173,7 @@
         "AveragePaid":  37,
         "AverageNetPaid":  37,
         "Stock":  1,
-        "Date":  "\/Date(1422871824058)\/"
+        "Date":  "\/Date(1423479019587)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4125,7 +4189,7 @@
         "AveragePaid":  10.09,
         "AverageNetPaid":  10.09,
         "Stock":  1,
-        "Date":  "\/Date(1422871824318)\/"
+        "Date":  "\/Date(1423479020839)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4141,7 +4205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871824482)\/"
+        "Date":  "\/Date(1423479022082)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4157,7 +4221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871824669)\/"
+        "Date":  "\/Date(1423479023331)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4173,23 +4237,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871824834)\/"
+        "Date":  "\/Date(1423479024609)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "5",
         "Cover":  5,
-        "TotalCost":  "59.49",
-        "Mean":  59.487222222222215,
-        "AveragePrice":  57.356388888888887,
-        "CurrentPrice":  77.690000000000012,
+        "TotalCost":  "60.71",
+        "Mean":  60.707733333333323,
+        "AveragePrice":  58.542133333333332,
+        "CurrentPrice":  79.490000000000009,
         "Minimum":  0.99,
         "Maximum":  99,
-        "Count":  24,
+        "Count":  25,
         "AveragePaid":  48,
         "AverageNetPaid":  48,
         "Stock":  1,
-        "Date":  "\/Date(1422871825042)\/"
+        "Date":  "\/Date(1423479025885)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4205,7 +4269,7 @@
         "AveragePaid":  5.88,
         "AverageNetPaid":  5.88,
         "Stock":  1,
-        "Date":  "\/Date(1422871825341)\/"
+        "Date":  "\/Date(1423479027110)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4221,23 +4285,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871825510)\/"
+        "Date":  "\/Date(1423479028335)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "50B",
         "Cover":  50,
-        "TotalCost":  "53.05",
-        "Mean":  53.049,
-        "AveragePrice":  51.674,
-        "CurrentPrice":  61.25,
+        "TotalCost":  "55.02",
+        "Mean":  55.01583333333334,
+        "AveragePrice":  52.785833333333336,
+        "CurrentPrice":  80.838,
         "Minimum":  6,
         "Maximum":  140,
-        "Count":  10,
+        "Count":  12,
         "AveragePaid":  7.49,
         "AverageNetPaid":  7.49,
         "Stock":  1,
-        "Date":  "\/Date(1422871825876)\/"
+        "Date":  "\/Date(1423479029576)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4253,7 +4317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871826066)\/"
+        "Date":  "\/Date(1423479030837)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4269,7 +4333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871826228)\/"
+        "Date":  "\/Date(1423479032133)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4285,7 +4349,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1422871826484)\/"
+        "Date":  "\/Date(1423479033409)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4301,23 +4365,23 @@
         "AveragePaid":  4.665,
         "AverageNetPaid":  4.665,
         "Stock":  2,
-        "Date":  "\/Date(1422871826769)\/"
+        "Date":  "\/Date(1423479034894)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "53",
         "Cover":  53,
-        "TotalCost":  "33.17",
-        "Mean":  33.168723404255317,
-        "AveragePrice":  30.755319148936167,
-        "CurrentPrice":  36.2,
+        "TotalCost":  "33.74",
+        "Mean":  33.737959183673468,
+        "AveragePrice":  31.218979591836732,
+        "CurrentPrice":  38.846,
         "Minimum":  5.88,
         "Maximum":  75,
-        "Count":  47,
+        "Count":  49,
         "AveragePaid":  5.88,
         "AverageNetPaid":  5.88,
         "Stock":  1,
-        "Date":  "\/Date(1422871827056)\/"
+        "Date":  "\/Date(1423479035989)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4333,7 +4397,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871827402)\/"
+        "Date":  "\/Date(1423479037369)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4349,7 +4413,7 @@
         "AveragePaid":  5.88,
         "AverageNetPaid":  5.88,
         "Stock":  1,
-        "Date":  "\/Date(1422871827689)\/"
+        "Date":  "\/Date(1423479038572)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4365,7 +4429,7 @@
         "AveragePaid":  5.88,
         "AverageNetPaid":  5.88,
         "Stock":  1,
-        "Date":  "\/Date(1422871828114)\/"
+        "Date":  "\/Date(1423479039830)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4381,7 +4445,7 @@
         "AveragePaid":  5.88,
         "AverageNetPaid":  5.88,
         "Stock":  1,
-        "Date":  "\/Date(1422871828372)\/"
+        "Date":  "\/Date(1423479041108)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4397,7 +4461,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871828533)\/"
+        "Date":  "\/Date(1423479042368)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4413,7 +4477,7 @@
         "AveragePaid":  5.88,
         "AverageNetPaid":  5.88,
         "Stock":  1,
-        "Date":  "\/Date(1422871828780)\/"
+        "Date":  "\/Date(1423479043596)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4429,7 +4493,7 @@
         "AveragePaid":  6.24,
         "AverageNetPaid":  6.24,
         "Stock":  1,
-        "Date":  "\/Date(1422871829023)\/"
+        "Date":  "\/Date(1423479044868)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4445,7 +4509,7 @@
         "AveragePaid":  8.02,
         "AverageNetPaid":  8.02,
         "Stock":  1,
-        "Date":  "\/Date(1422871829276)\/"
+        "Date":  "\/Date(1423479046074)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4461,7 +4525,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871829468)\/"
+        "Date":  "\/Date(1423479047318)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4477,7 +4541,7 @@
         "AveragePaid":  40.51,
         "AverageNetPaid":  40.51,
         "Stock":  2,
-        "Date":  "\/Date(1422871829734)\/"
+        "Date":  "\/Date(1423479048609)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4493,7 +4557,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871829909)\/"
+        "Date":  "\/Date(1423479049826)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4509,23 +4573,23 @@
         "AveragePaid":  9.65,
         "AverageNetPaid":  9.65,
         "Stock":  1,
-        "Date":  "\/Date(1422871830197)\/"
+        "Date":  "\/Date(1423479051064)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "61",
         "Cover":  61,
-        "TotalCost":  "29.00",
-        "Mean":  29.003118279569893,
-        "AveragePrice":  27.172473118279569,
-        "CurrentPrice":  28.633333333333336,
+        "TotalCost":  "30.44",
+        "Mean":  30.440520833333334,
+        "AveragePrice":  28.573333333333331,
+        "CurrentPrice":  33.035333333333334,
         "Minimum":  2.2,
-        "Maximum":  60,
-        "Count":  31,
+        "Maximum":  72,
+        "Count":  32,
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1422871830442)\/"
+        "Date":  "\/Date(1423479052348)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4541,7 +4605,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871830674)\/"
+        "Date":  "\/Date(1423479053563)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4557,7 +4621,7 @@
         "AveragePaid":  9.85,
         "AverageNetPaid":  9.85,
         "Stock":  2,
-        "Date":  "\/Date(1422871830949)\/"
+        "Date":  "\/Date(1423479054839)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4573,7 +4637,7 @@
         "AveragePaid":  8.2,
         "AverageNetPaid":  8.2,
         "Stock":  1,
-        "Date":  "\/Date(1422871831167)\/"
+        "Date":  "\/Date(1423479056124)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4589,7 +4653,7 @@
         "AveragePaid":  8.6,
         "AverageNetPaid":  8.6,
         "Stock":  2,
-        "Date":  "\/Date(1422871831417)\/"
+        "Date":  "\/Date(1423479057370)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4605,7 +4669,7 @@
         "AveragePaid":  9.85,
         "AverageNetPaid":  9.85,
         "Stock":  2,
-        "Date":  "\/Date(1422871831648)\/"
+        "Date":  "\/Date(1423479058621)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4621,7 +4685,7 @@
         "AveragePaid":  11.055,
         "AverageNetPaid":  11.055,
         "Stock":  2,
-        "Date":  "\/Date(1422871831894)\/"
+        "Date":  "\/Date(1423479059918)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4637,23 +4701,23 @@
         "AveragePaid":  6.85,
         "AverageNetPaid":  6.85,
         "Stock":  1,
-        "Date":  "\/Date(1422871832125)\/"
+        "Date":  "\/Date(1423479061192)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "68",
         "Cover":  68,
-        "TotalCost":  "8.60",
-        "Mean":  8.6023931623931578,
-        "AveragePrice":  6.7331623931623907,
+        "TotalCost":  "8.71",
+        "Mean":  8.71233333333333,
+        "AveragePrice":  6.8148333333333309,
         "CurrentPrice":  9.28066666666666,
         "Minimum":  0.99,
         "Maximum":  15.3333333333333,
-        "Count":  39,
+        "Count":  40,
         "AveragePaid":  6.9350000000000005,
         "AverageNetPaid":  5.9350000000000005,
         "Stock":  2,
-        "Date":  "\/Date(1422871832365)\/"
+        "Date":  "\/Date(1423479062538)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4669,7 +4733,7 @@
         "AveragePaid":  10.01,
         "AverageNetPaid":  10.01,
         "Stock":  1,
-        "Date":  "\/Date(1422871832590)\/"
+        "Date":  "\/Date(1423479063907)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4685,7 +4749,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871832776)\/"
+        "Date":  "\/Date(1423479065184)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4701,7 +4765,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871832982)\/"
+        "Date":  "\/Date(1423479066564)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4717,7 +4781,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871833221)\/"
+        "Date":  "\/Date(1423479067865)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4733,7 +4797,7 @@
         "AveragePaid":  12.05,
         "AverageNetPaid":  12.05,
         "Stock":  1,
-        "Date":  "\/Date(1422871833430)\/"
+        "Date":  "\/Date(1423479069146)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4749,7 +4813,7 @@
         "AveragePaid":  7.5,
         "AverageNetPaid":  7.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871833672)\/"
+        "Date":  "\/Date(1423479070433)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4765,7 +4829,7 @@
         "AveragePaid":  7.36,
         "AverageNetPaid":  7.36,
         "Stock":  1,
-        "Date":  "\/Date(1422871833902)\/"
+        "Date":  "\/Date(1423479071754)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4781,7 +4845,7 @@
         "AveragePaid":  6.99,
         "AverageNetPaid":  6.99,
         "Stock":  1,
-        "Date":  "\/Date(1422871834131)\/"
+        "Date":  "\/Date(1423479073061)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4797,7 +4861,7 @@
         "AveragePaid":  6.85,
         "AverageNetPaid":  6.85,
         "Stock":  1,
-        "Date":  "\/Date(1422871834365)\/"
+        "Date":  "\/Date(1423479074270)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4813,7 +4877,7 @@
         "AveragePaid":  6.95,
         "AverageNetPaid":  6.95,
         "Stock":  1,
-        "Date":  "\/Date(1422871834611)\/"
+        "Date":  "\/Date(1423479075597)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4829,7 +4893,7 @@
         "AveragePaid":  25.48,
         "AverageNetPaid":  25.48,
         "Stock":  1,
-        "Date":  "\/Date(1422871834879)\/"
+        "Date":  "\/Date(1423479076854)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4845,7 +4909,7 @@
         "AveragePaid":  12.5,
         "AverageNetPaid":  12.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871835072)\/"
+        "Date":  "\/Date(1423479078255)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4861,7 +4925,7 @@
         "AveragePaid":  12.5,
         "AverageNetPaid":  12.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871835398)\/"
+        "Date":  "\/Date(1423479079509)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4877,7 +4941,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871835584)\/"
+        "Date":  "\/Date(1423479080818)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4893,7 +4957,7 @@
         "AveragePaid":  15.5,
         "AverageNetPaid":  15.5,
         "Stock":  2,
-        "Date":  "\/Date(1422871835810)\/"
+        "Date":  "\/Date(1423479082107)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4909,7 +4973,7 @@
         "AveragePaid":  9.995000000000001,
         "AverageNetPaid":  9.995000000000001,
         "Stock":  2,
-        "Date":  "\/Date(1422871836050)\/"
+        "Date":  "\/Date(1423479083492)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4925,7 +4989,7 @@
         "AveragePaid":  6.95,
         "AverageNetPaid":  6.95,
         "Stock":  1,
-        "Date":  "\/Date(1422871836300)\/"
+        "Date":  "\/Date(1423479084653)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4941,7 +5005,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871836462)\/"
+        "Date":  "\/Date(1423479085879)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4957,7 +5021,7 @@
         "AveragePaid":  4.03,
         "AverageNetPaid":  4.03,
         "Stock":  2,
-        "Date":  "\/Date(1422871836702)\/"
+        "Date":  "\/Date(1423479087199)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4973,7 +5037,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871836908)\/"
+        "Date":  "\/Date(1423479088949)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -4989,7 +5053,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871837077)\/"
+        "Date":  "\/Date(1423479090200)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5005,23 +5069,23 @@
         "AveragePaid":  31,
         "AverageNetPaid":  31,
         "Stock":  1,
-        "Date":  "\/Date(1422871837243)\/"
+        "Date":  "\/Date(1423479091450)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "7B",
         "Cover":  7,
-        "TotalCost":  "39.50",
-        "Mean":  39.503333333333337,
-        "AveragePrice":  37.336666666666666,
-        "CurrentPrice":  37.336666666666666,
+        "TotalCost":  "39.38",
+        "Mean":  39.377500000000005,
+        "AveragePrice":  37.752500000000005,
+        "CurrentPrice":  37.752500000000005,
         "Minimum":  12,
         "Maximum":  50.02,
-        "Count":  3,
+        "Count":  4,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871837411)\/"
+        "Date":  "\/Date(1423479092695)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5037,7 +5101,7 @@
         "AveragePaid":  5.6,
         "AverageNetPaid":  5.6,
         "Stock":  2,
-        "Date":  "\/Date(1422871837650)\/"
+        "Date":  "\/Date(1423479093980)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5053,7 +5117,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871837823)\/"
+        "Date":  "\/Date(1423479095289)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5069,7 +5133,7 @@
         "AveragePaid":  21.91,
         "AverageNetPaid":  21.91,
         "Stock":  1,
-        "Date":  "\/Date(1422871838001)\/"
+        "Date":  "\/Date(1423479096569)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5085,7 +5149,7 @@
         "AveragePaid":  47,
         "AverageNetPaid":  40,
         "Stock":  1,
-        "Date":  "\/Date(1422871838162)\/"
+        "Date":  "\/Date(1423479097928)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5101,7 +5165,7 @@
         "AveragePaid":  4.5100000000000007,
         "AverageNetPaid":  4.5100000000000007,
         "Stock":  3,
-        "Date":  "\/Date(1422871838438)\/"
+        "Date":  "\/Date(1423479099168)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5117,23 +5181,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871838645)\/"
+        "Date":  "\/Date(1423479100481)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "82",
         "Cover":  82,
-        "TotalCost":  "7.49",
-        "Mean":  7.4897185672514608,
-        "AveragePrice":  5.9412975146198832,
-        "CurrentPrice":  6.8277777777777784,
+        "TotalCost":  "7.63",
+        "Mean":  7.6310078347578321,
+        "AveragePrice":  6.04536680911681,
+        "CurrentPrice":  8.0833333333333339,
         "Minimum":  1.7,
         "Maximum":  15,
-        "Count":  38,
+        "Count":  39,
         "AveragePaid":  5.08,
         "AverageNetPaid":  5.08,
         "Stock":  4,
-        "Date":  "\/Date(1422871838933)\/"
+        "Date":  "\/Date(1423479101785)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5149,7 +5213,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871839139)\/"
+        "Date":  "\/Date(1423479103140)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5165,7 +5229,7 @@
         "AveragePaid":  4.7,
         "AverageNetPaid":  4.7,
         "Stock":  3,
-        "Date":  "\/Date(1422871839444)\/"
+        "Date":  "\/Date(1423479104591)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5181,39 +5245,39 @@
         "AveragePaid":  3.79,
         "AverageNetPaid":  3.79,
         "Stock":  2,
-        "Date":  "\/Date(1422871839684)\/"
+        "Date":  "\/Date(1423479105886)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "85A",
         "Cover":  85,
         "TotalCost":  "7.65",
-        "Mean":  7.6508881578947365,
-        "AveragePrice":  6.3050986842105265,
-        "CurrentPrice":  7.6433333333333335,
+        "Mean":  7.6508653846153836,
+        "AveragePrice":  6.2639423076923073,
+        "CurrentPrice":  6.9833333333333325,
         "Minimum":  2.3,
         "Maximum":  13.99,
-        "Count":  38,
+        "Count":  39,
         "AveragePaid":  5.23,
         "AverageNetPaid":  5.23,
         "Stock":  3,
-        "Date":  "\/Date(1422871839990)\/"
+        "Date":  "\/Date(1423479107143)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "85B",
         "Cover":  85,
-        "TotalCost":  "12.30",
-        "Mean":  12.295111111111112,
-        "AveragePrice":  10.702444444444446,
-        "CurrentPrice":  10.398,
+        "TotalCost":  "12.20",
+        "Mean":  12.197916666666668,
+        "AveragePrice":  10.642916666666666,
+        "CurrentPrice":  9.15,
         "Minimum":  6.49,
         "Maximum":  17.06,
-        "Count":  15,
+        "Count":  16,
         "AveragePaid":  14.2,
         "AverageNetPaid":  14.2,
         "Stock":  1,
-        "Date":  "\/Date(1422871840190)\/"
+        "Date":  "\/Date(1423479108399)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5229,7 +5293,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871840494)\/"
+        "Date":  "\/Date(1423479109666)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5245,23 +5309,23 @@
         "AveragePaid":  12,
         "AverageNetPaid":  12,
         "Stock":  1,
-        "Date":  "\/Date(1422871840691)\/"
+        "Date":  "\/Date(1423479111346)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "86",
         "Cover":  86,
-        "TotalCost":  "7.82",
-        "Mean":  7.8239760981912152,
-        "AveragePrice":  6.4802551679586573,
-        "CurrentPrice":  6.7877777777777784,
+        "TotalCost":  "7.81",
+        "Mean":  7.8088857323232332,
+        "AveragePrice":  6.42865845959596,
+        "CurrentPrice":  6.2697777777777786,
         "Minimum":  2.5,
         "Maximum":  15.99,
-        "Count":  43,
+        "Count":  44,
         "AveragePaid":  4.3450000000000006,
         "AverageNetPaid":  4.3450000000000006,
         "Stock":  2,
-        "Date":  "\/Date(1422871841082)\/"
+        "Date":  "\/Date(1423479112301)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5277,23 +5341,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871841245)\/"
+        "Date":  "\/Date(1423479113562)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "87A",
         "Cover":  87,
-        "TotalCost":  "8.53",
-        "Mean":  8.5318135683760676,
-        "AveragePrice":  6.9739289529914519,
-        "CurrentPrice":  8.3273333333333337,
+        "TotalCost":  "8.52",
+        "Mean":  8.5155529350104811,
+        "AveragePrice":  6.9314019916142549,
+        "CurrentPrice":  8.5213333333333345,
         "Minimum":  0.99,
         "Maximum":  19.95,
-        "Count":  52,
+        "Count":  53,
         "AveragePaid":  4.68,
         "AverageNetPaid":  4.68,
         "Stock":  1,
-        "Date":  "\/Date(1422871841543)\/"
+        "Date":  "\/Date(1423479114815)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5309,7 +5373,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871841746)\/"
+        "Date":  "\/Date(1423479116081)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5325,23 +5389,23 @@
         "AveragePaid":  5.74,
         "AverageNetPaid":  5.74,
         "Stock":  1,
-        "Date":  "\/Date(1422871841949)\/"
+        "Date":  "\/Date(1423479117363)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "88A",
         "Cover":  88,
         "TotalCost":  "7.70",
-        "Mean":  7.6966478978978987,
-        "AveragePrice":  6.0793506006006011,
-        "CurrentPrice":  6.7877777777777784,
+        "Mean":  7.7012097953216383,
+        "AveragePrice":  6.0488413742690055,
+        "CurrentPrice":  6.4117777777777789,
         "Minimum":  1.24,
         "Maximum":  13.5,
-        "Count":  37,
+        "Count":  38,
         "AveragePaid":  5.38,
         "AverageNetPaid":  5.38,
         "Stock":  1,
-        "Date":  "\/Date(1422871842224)\/"
+        "Date":  "\/Date(1423479118612)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5357,39 +5421,39 @@
         "AveragePaid":  18.88,
         "AverageNetPaid":  18.88,
         "Stock":  1,
-        "Date":  "\/Date(1422871842399)\/"
+        "Date":  "\/Date(1423479119943)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "89",
         "Cover":  89,
-        "TotalCost":  "6.72",
-        "Mean":  6.7151357323232332,
-        "AveragePrice":  5.3769539141414144,
-        "CurrentPrice":  6.7877777777777784,
+        "TotalCost":  "6.73",
+        "Mean":  6.7321327160493825,
+        "AveragePrice":  5.3581327160493828,
+        "CurrentPrice":  6.3337777777777786,
         "Minimum":  1.71,
         "Maximum":  13.5,
-        "Count":  44,
+        "Count":  45,
         "AveragePaid":  4.246666666666667,
         "AverageNetPaid":  4.246666666666667,
         "Stock":  3,
-        "Date":  "\/Date(1422871842690)\/"
+        "Date":  "\/Date(1423479121326)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "8A",
         "Cover":  8,
-        "TotalCost":  "39.90",
-        "Mean":  39.899111111111111,
-        "AveragePrice":  37.239111111111107,
-        "CurrentPrice":  43.032,
+        "TotalCost":  "40.58",
+        "Mean":  40.579784946236558,
+        "AveragePrice":  37.902365591397846,
+        "CurrentPrice":  44.278000000000006,
         "Minimum":  21,
-        "Maximum":  51.57,
-        "Count":  30,
+        "Maximum":  57.8,
+        "Count":  31,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871842922)\/"
+        "Date":  "\/Date(1423479122681)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5405,7 +5469,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871843111)\/"
+        "Date":  "\/Date(1423479124006)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5421,7 +5485,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871843347)\/"
+        "Date":  "\/Date(1423479125350)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5437,7 +5501,7 @@
         "AveragePaid":  37,
         "AverageNetPaid":  37,
         "Stock":  1,
-        "Date":  "\/Date(1422871843509)\/"
+        "Date":  "\/Date(1423479126632)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5453,7 +5517,7 @@
         "AveragePaid":  11.52,
         "AverageNetPaid":  11.52,
         "Stock":  2,
-        "Date":  "\/Date(1422871843751)\/"
+        "Date":  "\/Date(1423479127932)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5469,55 +5533,55 @@
         "AveragePaid":  30,
         "AverageNetPaid":  30,
         "Stock":  1,
-        "Date":  "\/Date(1422871844061)\/"
+        "Date":  "\/Date(1423479129216)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "90",
         "Cover":  90,
-        "TotalCost":  "8.25",
-        "Mean":  8.2457916666666691,
-        "AveragePrice":  6.5200416666666685,
-        "CurrentPrice":  8.1833333333333336,
+        "TotalCost":  "8.24",
+        "Mean":  8.2397967479674818,
+        "AveragePrice":  6.4841869918699189,
+        "CurrentPrice":  7.8933333333333335,
         "Minimum":  1.44,
         "Maximum":  15,
-        "Count":  40,
+        "Count":  41,
         "AveragePaid":  2.745,
         "AverageNetPaid":  2.745,
         "Stock":  2,
-        "Date":  "\/Date(1422871844341)\/"
+        "Date":  "\/Date(1423479130479)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "91",
         "Cover":  91,
-        "TotalCost":  "9.54",
-        "Mean":  9.5351547619047619,
-        "AveragePrice":  8.0557261904761912,
-        "CurrentPrice":  6.9700000000000006,
+        "TotalCost":  "9.83",
+        "Mean":  9.8289301801801816,
+        "AveragePrice":  8.26865990990991,
+        "CurrentPrice":  8.168000000000001,
         "Minimum":  2.2,
         "Maximum":  20,
-        "Count":  35,
+        "Count":  37,
         "AveragePaid":  3.6550000000000002,
         "AverageNetPaid":  3.6550000000000002,
         "Stock":  2,
-        "Date":  "\/Date(1422871844586)\/"
+        "Date":  "\/Date(1423479131937)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "92",
         "Cover":  92,
-        "TotalCost":  "21.65",
-        "Mean":  21.649895833333336,
-        "AveragePrice":  19.770804924242427,
+        "TotalCost":  "21.70",
+        "Mean":  21.701009259259258,
+        "AveragePrice":  19.79812037037037,
         "CurrentPrice":  14,
         "Minimum":  2.79541666666667,
         "Maximum":  35.87,
-        "Count":  44,
+        "Count":  45,
         "AveragePaid":  20.85,
         "AverageNetPaid":  20.85,
         "Stock":  1,
-        "Date":  "\/Date(1422871844855)\/"
+        "Date":  "\/Date(1423479133285)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5533,7 +5597,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871845018)\/"
+        "Date":  "\/Date(1423479134482)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5549,7 +5613,7 @@
         "AveragePaid":  17,
         "AverageNetPaid":  17,
         "Stock":  1,
-        "Date":  "\/Date(1422871845212)\/"
+        "Date":  "\/Date(1423479135758)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5565,7 +5629,7 @@
         "AveragePaid":  17.5,
         "AverageNetPaid":  17.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871845454)\/"
+        "Date":  "\/Date(1423479136994)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5581,7 +5645,7 @@
         "AveragePaid":  9.37,
         "AverageNetPaid":  9.37,
         "Stock":  1,
-        "Date":  "\/Date(1422871845689)\/"
+        "Date":  "\/Date(1423479138250)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5597,7 +5661,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871845855)\/"
+        "Date":  "\/Date(1423479139489)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5613,7 +5677,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871846068)\/"
+        "Date":  "\/Date(1423479140724)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5629,7 +5693,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871846245)\/"
+        "Date":  "\/Date(1423479141907)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5645,39 +5709,39 @@
         "AveragePaid":  7.99,
         "AverageNetPaid":  7.99,
         "Stock":  1,
-        "Date":  "\/Date(1422871846503)\/"
+        "Date":  "\/Date(1423479143227)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "96",
         "Cover":  96,
-        "TotalCost":  "4.84",
-        "Mean":  4.84183743169399,
-        "AveragePrice":  3.5644603825136607,
-        "CurrentPrice":  2.8455000000000004,
+        "TotalCost":  "4.94",
+        "Mean":  4.9389219576719574,
+        "AveragePrice":  3.6322552910052908,
+        "CurrentPrice":  4.3294999999999995,
         "Minimum":  0.99,
         "Maximum":  9.26,
-        "Count":  61,
+        "Count":  63,
         "AveragePaid":  3,
         "AverageNetPaid":  3,
         "Stock":  2,
-        "Date":  "\/Date(1422871846799)\/"
+        "Date":  "\/Date(1423479144480)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "97A",
         "Cover":  97,
-        "TotalCost":  "5.83",
-        "Mean":  5.8343494152046782,
-        "AveragePrice":  4.4759283625730975,
+        "TotalCost":  "5.88",
+        "Mean":  5.8794468390804582,
+        "AveragePrice":  4.493584770114941,
         "CurrentPrice":  5.4066666666666654,
         "Minimum":  0.99,
         "Maximum":  20,
-        "Count":  57,
+        "Count":  58,
         "AveragePaid":  3.875,
         "AverageNetPaid":  3.875,
         "Stock":  6,
-        "Date":  "\/Date(1422871847083)\/"
+        "Date":  "\/Date(1423479145750)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5693,7 +5757,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1422871847272)\/"
+        "Date":  "\/Date(1423479147005)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5709,23 +5773,23 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1422871847431)\/"
+        "Date":  "\/Date(1423479148271)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "98A",
         "Cover":  98,
-        "TotalCost":  "5.42",
-        "Mean":  5.4195138888888881,
-        "AveragePrice":  4.1978472222222223,
-        "CurrentPrice":  7.3166666666666655,
+        "TotalCost":  "5.46",
+        "Mean":  5.4647450248756213,
+        "AveragePrice":  4.2172823383084586,
+        "CurrentPrice":  7.0166666666666657,
         "Minimum":  0.99,
         "Maximum":  13.5,
-        "Count":  66,
+        "Count":  67,
         "AveragePaid":  4.525,
         "AverageNetPaid":  4.525,
         "Stock":  4,
-        "Date":  "\/Date(1422871847738)\/"
+        "Date":  "\/Date(1423479149506)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5741,7 +5805,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871847940)\/"
+        "Date":  "\/Date(1423479150784)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5757,23 +5821,23 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1422871848105)\/"
+        "Date":  "\/Date(1423479151992)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "99A",
         "Cover":  99,
-        "TotalCost":  "5.51",
-        "Mean":  5.5064053672316389,
-        "AveragePrice":  4.2891172316384178,
-        "CurrentPrice":  7.3166666666666655,
+        "TotalCost":  "5.56",
+        "Mean":  5.5554652777777784,
+        "AveragePrice":  4.309298611111112,
+        "CurrentPrice":  7.0166666666666657,
         "Minimum":  0.99,
         "Maximum":  13.5,
-        "Count":  59,
+        "Count":  60,
         "AveragePaid":  4.35,
         "AverageNetPaid":  4.35,
         "Stock":  3,
-        "Date":  "\/Date(1422871848416)\/"
+        "Date":  "\/Date(1423479153288)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5789,7 +5853,7 @@
         "AveragePaid":  3.95,
         "AverageNetPaid":  3.95,
         "Stock":  1,
-        "Date":  "\/Date(1422871848613)\/"
+        "Date":  "\/Date(1423479154565)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5805,7 +5869,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1422871848793)\/"
+        "Date":  "\/Date(1423479156012)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5821,7 +5885,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871848969)\/"
+        "Date":  "\/Date(1423479158361)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5837,7 +5901,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871849136)\/"
+        "Date":  "\/Date(1423479159622)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5853,7 +5917,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871849314)\/"
+        "Date":  "\/Date(1423479160919)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5869,7 +5933,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871849476)\/"
+        "Date":  "\/Date(1423479162190)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5885,7 +5949,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871849646)\/"
+        "Date":  "\/Date(1423479163485)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5901,7 +5965,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871850100)\/"
+        "Date":  "\/Date(1423479164755)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5917,7 +5981,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871850261)\/"
+        "Date":  "\/Date(1423479165990)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5933,7 +5997,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871850431)\/"
+        "Date":  "\/Date(1423479167227)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5949,7 +6013,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871850594)\/"
+        "Date":  "\/Date(1423479168454)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5965,7 +6029,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871850780)\/"
+        "Date":  "\/Date(1423479169693)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5981,7 +6045,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871850950)\/"
+        "Date":  "\/Date(1423479170938)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -5997,7 +6061,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871851128)\/"
+        "Date":  "\/Date(1423479172174)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6013,7 +6077,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871851342)\/"
+        "Date":  "\/Date(1423479173456)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6029,23 +6093,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871851546)\/"
+        "Date":  "\/Date(1423479174695)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "FCBD",
         "Cover":  0,
-        "TotalCost":  "3.05",
-        "Mean":  3.0505345911949684,
-        "AveragePrice":  2.0494025157232696,
-        "CurrentPrice":  2.3259999999999996,
+        "TotalCost":  "3.04",
+        "Mean":  3.040154320987654,
+        "AveragePrice":  2.0297839506172832,
+        "CurrentPrice":  1.934,
         "Minimum":  0.01,
         "Maximum":  5,
-        "Count":  53,
+        "Count":  54,
         "AveragePaid":  0.9900000000000001,
         "AverageNetPaid":  0.9900000000000001,
         "Stock":  6,
-        "Date":  "\/Date(1422871851926)\/"
+        "Date":  "\/Date(1423479175971)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6061,7 +6125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871852109)\/"
+        "Date":  "\/Date(1423479177216)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6077,7 +6141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871852272)\/"
+        "Date":  "\/Date(1423479178512)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6093,7 +6157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871852444)\/"
+        "Date":  "\/Date(1423479179759)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6109,23 +6173,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871852631)\/"
+        "Date":  "\/Date(1423479181093)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "MICHONNE SPECIAL",
         "Cover":  0,
-        "TotalCost":  "6.90",
-        "Mean":  6.8959883720930231,
-        "AveragePrice":  5.7773837209302323,
-        "CurrentPrice":  7.736,
+        "TotalCost":  "6.89",
+        "Mean":  6.8886111111111115,
+        "AveragePrice":  5.7650555555555556,
+        "CurrentPrice":  7.936,
         "Minimum":  0.99,
         "Maximum":  21,
-        "Count":  43,
+        "Count":  45,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1422871852893)\/"
+        "Date":  "\/Date(1423479182362)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6141,7 +6205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871853092)\/"
+        "Date":  "\/Date(1423479183631)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6157,7 +6221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871853262)\/"
+        "Date":  "\/Date(1423479184904)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6173,7 +6237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871853433)\/"
+        "Date":  "\/Date(1423479186088)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6189,7 +6253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871853603)\/"
+        "Date":  "\/Date(1423479187302)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6205,7 +6269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871853789)\/"
+        "Date":  "\/Date(1423479188532)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6221,7 +6285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871854123)\/"
+        "Date":  "\/Date(1423479189714)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6237,7 +6301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871854332)\/"
+        "Date":  "\/Date(1423479190971)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6253,7 +6317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871854494)\/"
+        "Date":  "\/Date(1423479192271)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6269,7 +6333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871854740)\/"
+        "Date":  "\/Date(1423479193500)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6285,23 +6349,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871854957)\/"
+        "Date":  "\/Date(1423479194724)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "61.43",
-        "Mean":  61.426176470588288,
-        "AveragePrice":  58.622616099071294,
-        "CurrentPrice":  54.8,
+        "TotalCost":  "60.82",
+        "Mean":  60.816334841629008,
+        "AveragePrice":  58.008944193061929,
+        "CurrentPrice":  13,
         "Minimum":  0.79,
         "Maximum":  3150,
-        "Count":  646,
+        "Count":  663,
         "AveragePaid":  12.5,
         "AverageNetPaid":  12.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871856936)\/"
+        "Date":  "\/Date(1423479196998)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6317,7 +6381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871857094)\/"
+        "Date":  "\/Date(1423479198244)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6333,7 +6397,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871857330)\/"
+        "Date":  "\/Date(1423479199480)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6349,7 +6413,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871857605)\/"
+        "Date":  "\/Date(1423479200739)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6365,7 +6429,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871857790)\/"
+        "Date":  "\/Date(1423479201967)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6381,7 +6445,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871857992)\/"
+        "Date":  "\/Date(1423479203191)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6397,23 +6461,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871858182)\/"
+        "Date":  "\/Date(1423479204428)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "THE GOVERNOR SPECIAL",
         "Cover":  0,
-        "TotalCost":  "4.40",
-        "Mean":  4.3981693989071022,
-        "AveragePrice":  3.4876775956284147,
-        "CurrentPrice":  3.618,
+        "TotalCost":  "4.39",
+        "Mean":  4.3914247311827959,
+        "AveragePrice":  3.479650537634408,
+        "CurrentPrice":  3.626,
         "Minimum":  0.99,
         "Maximum":  11.5,
-        "Count":  61,
+        "Count":  62,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1422871858685)\/"
+        "Date":  "\/Date(1423479205660)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6429,7 +6493,7 @@
         "AveragePaid":  8,
         "AverageNetPaid":  8,
         "Stock":  1,
-        "Date":  "\/Date(1422871858903)\/"
+        "Date":  "\/Date(1423479206982)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6445,7 +6509,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871859073)\/"
+        "Date":  "\/Date(1423479208337)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6461,7 +6525,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871859270)\/"
+        "Date":  "\/Date(1423479209561)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6477,23 +6541,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871859473)\/"
+        "Date":  "\/Date(1423479210838)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
         "Issue":  "TYREESE",
         "Cover":  0,
-        "TotalCost":  "3.30",
-        "Mean":  3.3016126543209889,
-        "AveragePrice":  2.705501543209877,
-        "CurrentPrice":  3.012,
+        "TotalCost":  "3.31",
+        "Mean":  3.3052196969696985,
+        "AveragePrice":  2.71994696969697,
+        "CurrentPrice":  3.062,
         "Minimum":  0.49,
         "Maximum":  7,
-        "Count":  54,
+        "Count":  55,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871859774)\/"
+        "Date":  "\/Date(1423479212145)\/"
     },
     {
         "Title":  "THE WALKING DEAD",
@@ -6509,6 +6573,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871859940)\/"
+        "Date":  "\/Date(1423479213462)\/"
     }
 ]
