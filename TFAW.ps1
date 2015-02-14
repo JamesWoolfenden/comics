@@ -60,9 +60,17 @@ function get-tfawdata
 
       $fullfilter=$search
       $url="https://www.kimonolabs.com/api/7fuasgeu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-      write-debug "$(Get-Date) Accessing $url"
+      write-debug "$(Get-Date) - Accessing $url"
   
-      $tfawresults=Invoke-RestMethod -Uri $url
+      try{
+         $tfawresults=Invoke-RestMethod -Uri $url
+	  }
+      catch
+      {
+         Write-Warning "$(Get-Date) No data returned from $url"
+         return $null
+      }
+
       if ($tfawresults.lastrunstatus -eq "failure")
       {
          $tfawresults=$null

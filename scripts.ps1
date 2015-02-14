@@ -164,6 +164,25 @@ function view-url
    $IE
 }
 
+function view-market
+{
+   param(
+   [Parameter(Mandatory=$true)]
+   [string]$title)
+   $title=$title.replace(" ","")
+
+   $browser=new-object -com internetexplorer.application
+ 
+   $browser.Top   =10
+   $browser.Left  =10
+   $browser.Height=600
+   $browser.Width =800
+
+   $url="redwolfthree/jqwidgets/demos/jqxgrid/comic-$title.htm"
+   $browser.navigate2("$url")
+   $browser.visible=$true
+   #$browser
+}
 function update-recordset
 {
   <#
@@ -739,3 +758,4 @@ new-alias uo update-open -force
 new-alias bs get-selleritems -force
 new-alias byseller get-selleritems -force
 new-alias oc open-covers -force
+new-alias vm view-market -force
