@@ -23,8 +23,8 @@ function update-record
          }
          default
          {
-	        $ie=view $($record.ebayitem)
-	     }
+            $ie=view $($record.ebayitem)
+         }
       }
    }
    else 
@@ -340,18 +340,18 @@ function set-issue
 
       #are we lucky to have an issue no?
       if ($rawtitle.Contains("#"))
-	  {
-	     $tempstring=$rawtitle.Split("#")[1]
+      {
+         $tempstring=$rawtitle.Split("#")[1]
       }
-	  elseif (($rawtitle.ToUpper()).Contains("PROG"))
-	  {
-	     $tempstring=($rawtitle.ToUpper() -split("PROG"))[1]	     
-	  }
+      elseif (($rawtitle.ToUpper()).Contains("PROG"))
+      {
+         $tempstring=($rawtitle.ToUpper() -split("PROG"))[1]	     
+      }
 
       #has it split
       if ($tempstring -ne $null)
       {
-	      write-debug "Before estimate tempstring $tempstring"
+          write-debug "Before estimate tempstring $tempstring"
           $splitstring=($tempstring.Trim()).split(" ")
         
           if ($splitstring -is [system.array])
@@ -376,25 +376,25 @@ function set-issue
       }
       else
       {
-	     $tempstring=@()
+         $tempstring=@()
          write-debug "No split # $($rawtitle -split('No'))"
          #maybe used no to indicate version
          
-		 if ($rawtitle -Contains("No"))
+         if ($rawtitle -Contains("No"))
          {
-		    $tempstring=$rawtitle -split("No")
-		    write-debug "Split on No $tempstring"
+            $tempstring=$rawtitle -split("No")
+            write-debug "Split on No $tempstring"
             
-			$splitspaces=($tempstring[1].Trim()).split(" ")
+            $splitspaces=($tempstring[1].Trim()).split(" ")
         
             if ($splitspaces -is [system.array])
             {
                $estimateIssue =$splitspaces[0]
             }
-			else
-			{
-			   $estimateIssue=$tempstring 
-			}
+            else
+            {
+               $estimateIssue=$tempstring 
+            }
            
             write-host "Before estimate estimateIssue $estimateIssue"
             $estimateIssue=guess-title -title $title -issue "$estimateIssue"
