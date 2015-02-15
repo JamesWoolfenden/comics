@@ -22,6 +22,10 @@ function get-market
    [Psobject]$record,
    [decimal]$dollarrate=(get-gbpdollarrate))
    
+   $start=get-date
+   $elapsed =new-timespan -seconds 60 
+   $endtime=$start+$elapsed
+
    $allrecords=@()
    $filetitle=$record.title.replace(" ","")
 
@@ -45,6 +49,13 @@ function get-market
    }
 
    $allrecords |ConvertTo-Json -depth 999 | Out-File "$PSScriptRoot\livedata\$($filetitle).json" -Encoding ascii
+   
+   #might need to sleep
+   while ((get-date) -le $endtime)
+   {
+      Write-Host "$(Get-date) -  sleeping for kimonolabs limit"
+      sleep 1
+   }
 }
 
 #retrieve data

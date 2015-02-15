@@ -6,8 +6,8 @@
         "title":  "THE FIELD",
         "issue":  "4",
         "variant":  "4",
-        "price":  "2.65",
-        "rundate":  "Sun Feb 08 2015 11:03:49 GMT+0000 (UTC)",
+        "price":  2.65,
+        "rundate":  "Sat Feb 14 2015 19:08:23 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -17,8 +17,19 @@
         "title":  "THE FIELD",
         "issue":  "3",
         "variant":  "3",
-        "price":  "2.65",
-        "rundate":  "Sun Feb 08 2015 11:03:49 GMT+0000 (UTC)",
+        "price":  2.65,
+        "rundate":  "Sat Feb 14 2015 19:08:23 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/136833-burning-fields-1-2nd-printing/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/136833-burning-fields-1-2nd-printing/\"\u003ehttps://forbiddenplanet.com/136833-burning-fields-1-2nd-printing/\u003c/a\u003e",
+        "orderdate":  "25th February, 2015",
+        "title":  "THE FIELD",
+        "issue":  "1 ",
+        "variant":  "2nd Printing",
+        "price":  2.65,
+        "rundate":  "Sat Feb 14 2015 19:08:23 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -28,8 +39,8 @@
         "title":  "THE FIELD",
         "issue":  "2",
         "variant":  "2",
-        "price":  "2.65",
-        "rundate":  "Sun Feb 08 2015 11:03:49 GMT+0000 (UTC)",
+        "price":  2.65,
+        "rundate":  "Sat Feb 14 2015 19:08:23 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -39,21 +50,9 @@
         "title":  "THE FIELD",
         "issue":  "",
         "variant":  "SET",
-        "price":  "8.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/The-Field-1-4-1st-prints-complete-mini-series-as-new-unread-image-comics-/111593168599?pt=LH_DefaultDomain_3\u0026hash=item19fb789ed7",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Field-1-4-1st-prints-complete-mini-series-as-new-unread-image-comics-/111593168599?pt=LH_DefaultDomain_3\u0026hash=item19fb789ed7\"\u003ehttp://www.ebay.co.uk/itm/The-Field-1-4-1st-prints-complete-mini-series-as-new-unread-image-comics-/111593168599?pt=LH_DefaultDomain_3\u0026hash=item19fb789ed7\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  "8.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  8.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -63,9 +62,9 @@
         "title":  "THE FIELD",
         "issue":  "4",
         "variant":  "4",
-        "price":  "2.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -75,9 +74,9 @@
         "title":  "THE FIELD",
         "issue":  "1",
         "variant":  "1A",
-        "price":  "1.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -87,9 +86,9 @@
         "title":  "THE FIELD",
         "issue":  "2",
         "variant":  "2",
-        "price":  "1.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -99,9 +98,9 @@
         "title":  "THE FIELD",
         "issue":  "",
         "variant":  "SET",
-        "price":  "12",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  11,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -111,9 +110,9 @@
         "title":  "THE FIELD",
         "issue":  "3",
         "variant":  "3",
-        "price":  "2",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -123,21 +122,9 @@
         "title":  "THE FIELD",
         "issue":  "3",
         "variant":  "3",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/The-Field-1-1st-Print-now-sold-out-out-of-print-by-Image-Comics-New-NM-/181657215516?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2a4b9d221c",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Field-1-1st-Print-now-sold-out-out-of-print-by-Image-Comics-New-NM-/181657215516?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2a4b9d221c\"\u003ehttp://www.ebay.co.uk/itm/The-Field-1-1st-Print-now-sold-out-out-of-print-by-Image-Comics-New-NM-/181657215516?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2a4b9d221c\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  "1",
-        "variant":  "1A",
-        "price":  "3.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -147,9 +134,9 @@
         "title":  "THE FIELD",
         "issue":  "",
         "variant":  "SET",
-        "price":  "16.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  16.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -159,21 +146,9 @@
         "title":  "THE FIELD",
         "issue":  "1",
         "variant":  "VOL1",
-        "price":  "8.86",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/The-Field-1-NM-/281587750870?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item418ff017d6",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Field-1-NM-/281587750870?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item418ff017d6\"\u003ehttp://www.ebay.co.uk/itm/The-Field-1-NM-/281587750870?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item418ff017d6\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  "1",
-        "variant":  "1",
-        "price":  "0.49",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  8.86,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -183,9 +158,9 @@
         "title":  "THE FIELD",
         "issue":  "1",
         "variant":  "VOL1",
-        "price":  "8.47",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  8.47,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -195,9 +170,9 @@
         "title":  "THE FIELD",
         "issue":  "1",
         "variant":  "1A",
-        "price":  "3.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -207,9 +182,9 @@
         "title":  "THE FIELD",
         "issue":  "1",
         "variant":  "1EH!",
-        "price":  "20",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  20,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -219,21 +194,9 @@
         "title":  "THE FIELD",
         "issue":  "",
         "variant":  "SET",
-        "price":  "10.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Image-Comics-The-Field-1-4-/331472603414?pt=LH_DefaultDomain_3\u0026hash=item4d2d4e8916",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-Comics-The-Field-1-4-/331472603414?pt=LH_DefaultDomain_3\u0026hash=item4d2d4e8916\"\u003ehttp://www.ebay.co.uk/itm/Image-Comics-The-Field-1-4-/331472603414?pt=LH_DefaultDomain_3\u0026hash=item4d2d4e8916\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  10.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -243,9 +206,9 @@
         "title":  "THE FIELD",
         "issue":  "4",
         "variant":  "4",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -255,9 +218,9 @@
         "title":  "THE FIELD",
         "issue":  "3",
         "variant":  "3",
-        "price":  "3",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -267,9 +230,9 @@
         "title":  "THE FIELD",
         "issue":  "1",
         "variant":  "1A",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -279,9 +242,9 @@
         "title":  "THE FIELD",
         "issue":  "1",
         "variant":  "1A",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -291,9 +254,9 @@
         "title":  "THE FIELD",
         "issue":  "1",
         "variant":  "1A",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -303,9 +266,9 @@
         "title":  "THE FIELD",
         "issue":  "1",
         "variant":  "1A",
-        "price":  "2.4",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.4,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -315,9 +278,9 @@
         "title":  "THE FIELD",
         "issue":  "1",
         "variant":  "1A",
-        "price":  "3.6",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.6,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -327,9 +290,9 @@
         "title":  "THE FIELD",
         "issue":  "3",
         "variant":  "3",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -339,9 +302,9 @@
         "title":  "THE FIELD",
         "issue":  "3",
         "variant":  "3",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -351,9 +314,9 @@
         "title":  "THE FIELD",
         "issue":  "4",
         "variant":  "4",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -364,8 +327,8 @@
         "issue":  "BORN ON THE BATTLEFIELD HC",
         "variant":  "CONAN: BORN ON THE BATTLEFIELD HC",
         "price":  18.99,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:15 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 19:08:47 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -375,9 +338,9 @@
         "title":  "THE FIELD",
         "issue":  "FIELD ON THE EDGE OF THE WOODS BOOK 1",
         "variant":  "FIELD ON THE EDGE OF THE WOODS BOOK 1",
-        "price":  1.6659021799999999492,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:24 GMT+0000 (UTC)",
+        "price":  1.6496182400000000762,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 19:08:57 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -387,9 +350,9 @@
         "title":  "THE FIELD",
         "issue":  "SURVIVING THE ZOMBIE OUTBREAK THE OFFICIAL ZOMBIE SURVIVAL FIELD GUIDE SC",
         "variant":  "SURVIVING THE ZOMBIE OUTBREAK THE OFFICIAL ZOMBIE SURVIVAL FIELD GUIDE SC",
-        "price":  8.3295108999999997460,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:24 GMT+0000 (UTC)",
+        "price":  8.2480912000000003810,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 19:08:57 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -399,201 +362,9 @@
         "title":  "THE FIELD",
         "issue":  "SWAMP THING (NEW 52) VOL 5 THE KILLING FIELD TP",
         "variant":  "SWAMP THING (NEW 52) VOL 5 THE KILLING FIELD TP",
-        "price":  8.3557455799999997452,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:24 GMT+0000 (UTC)",
+        "price":  8.2740694400000003822,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 19:08:57 GMT+0000 (UTC)",
         "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Field/sku/294584471.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Field/sku/294584471.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Field/sku/294584471.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  null,
-        "variant":  "THE FIELD",
-        "price":  6.3159992099999998074,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:33 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Field/sku/294322036.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Field/sku/294322036.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Field/sku/294322036.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  null,
-        "variant":  "THE FIELD",
-        "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:33 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/MOVIE/The-Field/sku/215964061.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/MOVIE/The-Field/sku/215964061.uts\"\u003ehttp://www.gohastings.com/product/MOVIE/The-Field/sku/215964061.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  null,
-        "variant":  "THE FIELD",
-        "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:33 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/MOVIE/The-Field/sku/137169430.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/MOVIE/The-Field/sku/137169430.uts\"\u003ehttp://www.gohastings.com/product/MOVIE/The-Field/sku/137169430.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  null,
-        "variant":  "THE FIELD",
-        "price":  7.8572866599999997604,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:33 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/MOVIE/The-Field/sku/235255954.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/MOVIE/The-Field/sku/235255954.uts\"\u003ehttp://www.gohastings.com/product/MOVIE/The-Field/sku/235255954.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  null,
-        "variant":  "THE FIELD",
-        "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:33 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Field/sku/294817691.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Field/sku/294817691.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Field/sku/294817691.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  null,
-        "variant":  "THE FIELD",
-        "price":  1.3051753299999999602,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:33 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Field/sku/294218989.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Field/sku/294218989.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Field/sku/294218989.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  null,
-        "variant":  "THE FIELD",
-        "price":  5.2403773299999998402,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:33 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Field/sku/294213809.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Field/sku/294213809.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Field/sku/294213809.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  null,
-        "variant":  "THE FIELD",
-        "price":  5.2403773299999998402,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:33 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Field/sku/286413521.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Field/sku/286413521.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Field/sku/286413521.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  null,
-        "variant":  "THE FIELD",
-        "price":  6.7488714299999997942,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:33 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Field-Book-of-Country-Queries/sku/289671700.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Field-Book-of-Country-Queries/sku/289671700.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Field-Book-of-Country-Queries/sku/289671700.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  null,
-        "variant":  "BOOK OF COUNTRY QUERIES",
-        "price":  19.1316403899999994166,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:33 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Spiderwick-Chronicles-Set-The-Field-Guide-The-Seeing-Stone-Lucindas-Secret-The-Ironwood-Tree-The-Wrath-of-Mulgrath/sku/289921194.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Spiderwick-Chronicles-Set-The-Field-Guide-The-Seeing-Stone-Lucindas-Secret-The-Ironwood-Tree-The-Wrath-of-Mulgrath/sku/289921194.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Spiderwick-Chronicles-Set-The-Field-Guide-The-Seeing-Stone-Lucindas-Secret-The-Ironwood-Tree-The-Wrath-of-Mulgrath/sku/289921194.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  null,
-        "variant":  "THE SPIDERWICK CHRONICLES SET : GUIDE - THE SEEING STONE - LUCINDAS SECRET - THE IRONWOOD TREE - THE WRATH OF MULGRATH",
-        "price":  15.5768412499999995250,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:33 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Field-Guide/sku/289918456.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Field-Guide/sku/289918456.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Field-Guide/sku/289918456.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  null,
-        "variant":  "GUIDE",
-        "price":  3.1088095799999999052,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:33 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.thecomicguru.co.uk",
-        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=17015\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=17015\u003c/\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  "1",
-        "variant":  "1",
-        "price":  2.60,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:37 GMT+0000 (UTC)",
-        "site":  "The Comic Guru"
-    },
-    {
-        "link":  "http://www.thecomicguru.co.uk",
-        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=17015\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=17015\u003c/\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  "2",
-        "variant":  "2",
-        "price":  2.60,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:37 GMT+0000 (UTC)",
-        "site":  "The Comic Guru"
-    },
-    {
-        "link":  "http://www.thecomicguru.co.uk",
-        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=17015\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=17015\u003c/\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  "3",
-        "variant":  "1",
-        "price":  2.60,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:37 GMT+0000 (UTC)",
-        "site":  "The Comic Guru"
-    },
-    {
-        "link":  "http://www.thecomicguru.co.uk",
-        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=17015\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=17015\u003c/\u003e",
-        "orderdate":  null,
-        "title":  "THE FIELD",
-        "issue":  "4",
-        "variant":  "1",
-        "price":  2.60,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 11:04:37 GMT+0000 (UTC)",
-        "site":  "The Comic Guru"
     }
 ]

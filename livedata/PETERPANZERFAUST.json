@@ -7,8 +7,8 @@
         "issue":  "11",
         "variant":  "Peter Panzerfaust  *Clearance*",
         "price":  "0.23",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "DCBS"
     },
     {
@@ -18,9 +18,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "21",
         "variant":  "Peter Panzerfaust  Cover A Regular Roc Upchurch Cover",
-        "price":  "1.96",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  "6.49",
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "comicxposure"
     },
     {
@@ -31,8 +31,8 @@
         "issue":  "19",
         "variant":  "19",
         "price":  1.73,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -43,8 +43,8 @@
         "issue":  "20",
         "variant":  "20",
         "price":  1.73,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -55,8 +55,8 @@
         "issue":  "21",
         "variant":  "21 CVR A UPCHURCH",
         "price":  1.76,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -67,8 +67,8 @@
         "issue":  "22",
         "variant":  "22",
         "price":  2.50,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -79,8 +79,8 @@
         "issue":  "11",
         "variant":  "11 2013",
         "price":  1.35,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -91,8 +91,8 @@
         "issue":  "12",
         "variant":  "12",
         "price":  1.54,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -103,8 +103,8 @@
         "issue":  "13",
         "variant":  "13",
         "price":  1.39,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -115,8 +115,8 @@
         "issue":  "10",
         "variant":  "10 1ST PRINT 2013 DHC",
         "price":  2.54,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -127,8 +127,8 @@
         "issue":  "14",
         "variant":  "14 2013 DHC",
         "price":  1.50,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -139,8 +139,8 @@
         "issue":  "15",
         "variant":  "15 2013 DHC",
         "price":  1.43,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -151,8 +151,8 @@
         "issue":  "17",
         "variant":  "17 DHC",
         "price":  1.84,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -163,20 +163,20 @@
         "issue":  "18",
         "variant":  "18 DHC",
         "price":  1.65,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-18/02/15/image/peter-panzerfaust-23/prod_73394.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-18/02/15/image/peter-panzerfaust-23/prod_73394.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-18/02/15/image/peter-panzerfaust-23/prod_73394.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/image/peter-panzerfaust-23/prod_73394.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/image/peter-panzerfaust-23/prod_73394.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/image/peter-panzerfaust-23/prod_73394.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "PETER PANZERFAUST",
         "issue":  "23",
         "variant":  "23",
         "price":  2.50,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -187,8 +187,8 @@
         "issue":  "1",
         "variant":  "1 (MR)",
         "price":  1.45,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -199,8 +199,8 @@
         "issue":  "24",
         "variant":  "24",
         "price":  2.50,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:11:02 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:31:55 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -210,9 +210,141 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "24",
         "variant":  "24",
-        "price":  "2.40",
-        "rundate":  "Sun Feb 08 2015 10:11:16 GMT+0000 (UTC)",
+        "price":  2.40,
+        "rundate":  "Sat Feb 14 2015 18:32:09 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "http://www.reedcomics.com/peter-panzerfaust-12-p-57152.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/peter-panzerfaust-12-p-57152.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/peter-panzerfaust-12-p-57152.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "12",
+        "variant":  "12",
+        "price":  null,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:15 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/peter-panzerfaust-13-p-57578.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/peter-panzerfaust-13-p-57578.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/peter-panzerfaust-13-p-57578.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "13",
+        "variant":  "13",
+        "price":  null,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:15 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/peter-panzerfaust-14-p-58056.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/peter-panzerfaust-14-p-58056.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/peter-panzerfaust-14-p-58056.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "14",
+        "variant":  "14",
+        "price":  null,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:15 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/peter-panzerfaust-15-p-58358.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/peter-panzerfaust-15-p-58358.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/peter-panzerfaust-15-p-58358.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "15",
+        "variant":  "15",
+        "price":  null,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:15 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/peter-panzerfaust-16-p-59622.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/peter-panzerfaust-16-p-59622.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/peter-panzerfaust-16-p-59622.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "16",
+        "variant":  "16",
+        "price":  null,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:15 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/peter-panzerfaust-17-p-60134.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/peter-panzerfaust-17-p-60134.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/peter-panzerfaust-17-p-60134.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "17",
+        "variant":  "17",
+        "price":  null,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:15 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/peter-panzerfaust-18-p-60873.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/peter-panzerfaust-18-p-60873.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/peter-panzerfaust-18-p-60873.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "18",
+        "variant":  "18",
+        "price":  null,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:15 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/peter-panzerfaust-19-p-62002.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/peter-panzerfaust-19-p-62002.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/peter-panzerfaust-19-p-62002.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "19",
+        "variant":  "19",
+        "price":  null,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:15 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/peter-panzerfaust-20-p-62838.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/peter-panzerfaust-20-p-62838.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/peter-panzerfaust-20-p-62838.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "20",
+        "variant":  "20",
+        "price":  null,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:15 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/peter-panzerfaust-21-p-63499.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/peter-panzerfaust-21-p-63499.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/peter-panzerfaust-21-p-63499.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "21",
+        "variant":  "21",
+        "price":  null,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:15 GMT+0000 (UTC)",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/peter-panzerfaust-22-p-64710.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/peter-panzerfaust-22-p-64710.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/peter-panzerfaust-22-p-64710.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "22",
+        "variant":  "22",
+        "price":  null,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:15 GMT+0000 (UTC)",
+        "site":  "Reed"
     },
     {
         "link":  "http://www.ebay.co.uk/itm/Peter-Panzerfaust-10-2nd-print-NM-/111451211903?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19f302887f\u0026ssPageName=RSS:B:SHOP:GB:101",
@@ -221,9 +353,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "10",
         "variant":  "10B",
-        "price":  "3",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -233,9 +365,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "10",
         "variant":  "10A",
-        "price":  "3.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -245,9 +377,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "7",
         "variant":  "7B",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -257,9 +389,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "2",
         "variant":  "2B",
-        "price":  "10",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  10,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -269,9 +401,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "2",
         "variant":  "2B",
-        "price":  "10",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  10,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -281,9 +413,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "2",
         "variant":  "2A",
-        "price":  "50",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  50,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -293,9 +425,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "22",
         "variant":  "22",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -305,9 +437,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "12",
         "variant":  "12",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -317,9 +449,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "20",
         "variant":  "20",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -329,9 +461,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "17",
         "variant":  "17",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -341,9 +473,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -353,21 +485,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "18",
         "variant":  "18",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Peter-Panzerfaust-11-N-M-1st-Print-image-comics-NEW-UNREAD-/111589234328?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb3c9698",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Peter-Panzerfaust-11-N-M-1st-Print-image-comics-NEW-UNREAD-/111589234328?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb3c9698\"\u003ehttp://www.ebay.co.uk/itm/Peter-Panzerfaust-11-N-M-1st-Print-image-comics-NEW-UNREAD-/111589234328?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb3c9698\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "PETER PANZERFAUST",
-        "issue":  "11",
-        "variant":  "11A",
-        "price":  "1",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -377,9 +497,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "1",
         "variant":  "1FIRSTS",
-        "price":  "1.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -389,9 +509,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "9",
         "variant":  "9A",
-        "price":  "13.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  13.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -401,9 +521,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "19",
         "variant":  "19",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -413,9 +533,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "21",
         "variant":  "21",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -425,21 +545,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Peter-Panzerfaust-Lot-8-Comics-11-12-13-14-15-16-18-19-All-NM-Kurtis-Weibe-/121560901589?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d9827d5",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Peter-Panzerfaust-Lot-8-Comics-11-12-13-14-15-16-18-19-All-NM-Kurtis-Weibe-/121560901589?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d9827d5\"\u003ehttp://www.ebay.co.uk/itm/Peter-Panzerfaust-Lot-8-Comics-11-12-13-14-15-16-18-19-All-NM-Kurtis-Weibe-/121560901589?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d9827d5\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "PETER PANZERFAUST",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  "4.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -449,9 +557,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -461,9 +569,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "1",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -473,9 +581,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "12",
         "variant":  "12",
-        "price":  "1",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -485,9 +593,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "14",
         "variant":  "14",
-        "price":  "1",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -497,9 +605,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16",
-        "price":  "1",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -509,9 +617,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "17",
         "variant":  "17",
-        "price":  "1",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -521,9 +629,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "17",
         "variant":  "17",
-        "price":  "1.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -533,9 +641,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -545,9 +653,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "12",
         "variant":  "12",
-        "price":  "0.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -557,9 +665,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "13",
         "variant":  "13",
-        "price":  "1.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -569,9 +677,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "19",
         "variant":  "19",
-        "price":  "2.2",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.2,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -581,9 +689,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16A",
-        "price":  "2.2",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.2,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -593,9 +701,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "19",
         "variant":  "19",
-        "price":  "2",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -605,9 +713,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "19",
         "variant":  "19",
-        "price":  "1.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -617,9 +725,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -629,9 +737,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -641,9 +749,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "15",
         "variant":  "15C",
-        "price":  "1.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -653,9 +761,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -665,9 +773,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "15",
         "variant":  "15B",
-        "price":  "3.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -677,9 +785,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -689,9 +797,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -701,9 +809,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -713,9 +821,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -725,9 +833,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -737,9 +845,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -749,9 +857,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "9",
         "variant":  "9A",
-        "price":  "14.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  14.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -761,9 +869,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -773,9 +881,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "10",
         "variant":  "10B",
-        "price":  "1.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -785,9 +893,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "13",
         "variant":  "13",
-        "price":  "1.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -797,9 +905,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "18",
         "variant":  "18",
-        "price":  "1.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -809,9 +917,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -821,9 +929,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "20",
         "variant":  "20",
-        "price":  "1.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -833,9 +941,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -845,9 +953,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -857,9 +965,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "",
         "variant":  "SET",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -869,9 +977,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "21",
         "variant":  "21",
-        "price":  "1.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -881,9 +989,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -893,9 +1001,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "",
         "variant":  "SET",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -905,9 +1013,45 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "",
         "variant":  "SET",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/peter-panzerfaust-19-nm-image-1st-print-2014-137000523.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/peter-panzerfaust-19-nm-image-1st-print-2014-137000523.htm\"\u003ehttp://uk.ebid.net/for-sale/peter-panzerfaust-19-nm-image-1st-print-2014-137000523.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "19",
+        "variant":  "19",
+        "price":  1.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/peter-panzerfaust-16-nm-image-1st-print-2014-137000526.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/peter-panzerfaust-16-nm-image-1st-print-2014-137000526.htm\"\u003ehttp://uk.ebid.net/for-sale/peter-panzerfaust-16-nm-image-1st-print-2014-137000526.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "16",
+        "variant":  "16",
+        "price":  1.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://uk.ebid.net/for-sale/peter-panzerfaust-no-11-2013-137089417.htm",
+        "url":  "\u003ca href=\"http://uk.ebid.net/for-sale/peter-panzerfaust-no-11-2013-137089417.htm\"\u003ehttp://uk.ebid.net/for-sale/peter-panzerfaust-no-11-2013-137089417.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "11",
+        "variant":  "11A",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -917,9 +1061,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "9",
         "variant":  "9A",
-        "price":  "14.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  14.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -929,9 +1073,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "17",
         "variant":  "17",
-        "price":  "3",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -941,9 +1085,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "18",
         "variant":  "18",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -953,9 +1097,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "18",
         "variant":  "18",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -965,9 +1109,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "19",
         "variant":  "19",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -977,33 +1121,33 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Peter-Panzerfaust-14-Sep13-Image-1st-Print-Kurtis-J-Wiebe-/141563961289?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5de9fc9",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Peter-Panzerfaust-14-Sep13-Image-1st-Print-Kurtis-J-Wiebe-/141563961289?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5de9fc9\"\u003ehttp://www.ebay.co.uk/itm/Peter-Panzerfaust-14-Sep13-Image-1st-Print-Kurtis-J-Wiebe-/141563961289?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5de9fc9\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Peter-Panzerfaust-14-Sep13-Image-1st-Print-Kurtis-J-Wiebe-/141571411557?pt=LH_DefaultDomain_3\u0026hash=item20f6504e65",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Peter-Panzerfaust-14-Sep13-Image-1st-Print-Kurtis-J-Wiebe-/141571411557?pt=LH_DefaultDomain_3\u0026hash=item20f6504e65\"\u003ehttp://www.ebay.co.uk/itm/Peter-Panzerfaust-14-Sep13-Image-1st-Print-Kurtis-J-Wiebe-/141571411557?pt=LH_DefaultDomain_3\u0026hash=item20f6504e65\u003c/a\u003e",
         "orderdate":  null,
         "title":  "PETER PANZERFAUST",
         "issue":  "14",
         "variant":  "14",
-        "price":  "2.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Peter-Panzerfaust-11-Jun13-Image-1st-Print-Kurtis-J-Wiebe-/141563962424?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5dea438",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Peter-Panzerfaust-11-Jun13-Image-1st-Print-Kurtis-J-Wiebe-/141563962424?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5dea438\"\u003ehttp://www.ebay.co.uk/itm/Peter-Panzerfaust-11-Jun13-Image-1st-Print-Kurtis-J-Wiebe-/141563962424?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5dea438\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Peter-Panzerfaust-11-Jun13-Image-1st-Print-Kurtis-J-Wiebe-/141571412836?pt=LH_DefaultDomain_3\u0026hash=item20f6505364",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Peter-Panzerfaust-11-Jun13-Image-1st-Print-Kurtis-J-Wiebe-/141571412836?pt=LH_DefaultDomain_3\u0026hash=item20f6505364\"\u003ehttp://www.ebay.co.uk/itm/Peter-Panzerfaust-11-Jun13-Image-1st-Print-Kurtis-J-Wiebe-/141571412836?pt=LH_DefaultDomain_3\u0026hash=item20f6505364\u003c/a\u003e",
         "orderdate":  null,
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "2.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1013,9 +1157,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "5",
         "variant":  "5",
-        "price":  "16.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  16.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1025,9 +1169,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "12",
         "variant":  "12",
-        "price":  "2.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1037,9 +1181,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "14",
         "variant":  "14",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1049,9 +1193,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "15",
         "variant":  "15A",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1061,9 +1205,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16A",
-        "price":  "2.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1073,9 +1217,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "17",
         "variant":  "17",
-        "price":  "2.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1085,9 +1229,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "17",
         "variant":  "17",
-        "price":  "2.4",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.4,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1097,9 +1241,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "18",
         "variant":  "18",
-        "price":  "2.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1109,9 +1253,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "19",
         "variant":  "19",
-        "price":  "2.3",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.3,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1121,9 +1265,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "18",
         "variant":  "18",
-        "price":  "2.4",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.4,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1133,9 +1277,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "14",
         "variant":  "14",
-        "price":  "2",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1145,9 +1289,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "19",
         "variant":  "19",
-        "price":  "2.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1157,21 +1301,21 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "9",
         "variant":  "9A",
-        "price":  "16.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  16.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Peter-Panzerfaust-1-2nd-print-Kurtis-J-Wiebe-image-comics-/161584760327?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item259f33c607",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Peter-Panzerfaust-1-2nd-print-Kurtis-J-Wiebe-image-comics-/161584760327?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item259f33c607\"\u003ehttp://www.ebay.co.uk/itm/Peter-Panzerfaust-1-2nd-print-Kurtis-J-Wiebe-image-comics-/161584760327?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item259f33c607\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-22-IMAGE-COMICS-FIRST-PRINT-/161601068626?pt=LH_DefaultDomain_3\u0026hash=item25a02c9e52",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-22-IMAGE-COMICS-FIRST-PRINT-/161601068626?pt=LH_DefaultDomain_3\u0026hash=item25a02c9e52\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-22-IMAGE-COMICS-FIRST-PRINT-/161601068626?pt=LH_DefaultDomain_3\u0026hash=item25a02c9e52\u003c/a\u003e",
         "orderdate":  null,
         "title":  "PETER PANZERFAUST",
-        "issue":  "1",
-        "variant":  "1B",
-        "price":  "0.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "issue":  "22",
+        "variant":  "22",
+        "price":  2.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1181,9 +1325,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "13",
         "variant":  "13",
-        "price":  "2.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1193,9 +1337,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "14",
         "variant":  "14",
-        "price":  "2.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1205,9 +1349,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "15",
         "variant":  "15A",
-        "price":  "3.69",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.69,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1217,9 +1361,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "10",
         "variant":  "10A",
-        "price":  "3.39",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.39,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1229,9 +1373,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "18",
         "variant":  "18",
-        "price":  "2.2",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.2,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1241,9 +1385,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "",
         "variant":  "HARDBACK",
-        "price":  "27.48",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  27.48,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1253,9 +1397,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "7",
         "variant":  "7A",
-        "price":  "9.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  9.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1265,9 +1409,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "20",
         "variant":  "20",
-        "price":  "2.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1277,9 +1421,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "10",
         "variant":  "10A",
-        "price":  "9.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  9.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1289,9 +1433,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "9",
         "variant":  "9B",
-        "price":  "9.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  9.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1301,9 +1445,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "",
         "variant":  "SET",
-        "price":  "9.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  9.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1313,9 +1457,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "2.45",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.45,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1325,9 +1469,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "20",
         "variant":  "20",
-        "price":  "2.45",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.45,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1337,9 +1481,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "17",
         "variant":  "17",
-        "price":  "2.4",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.4,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1349,9 +1493,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16A",
-        "price":  "2.45",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.45,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1361,9 +1505,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "10",
         "variant":  "10A",
-        "price":  "3.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1373,21 +1517,21 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "7",
         "variant":  "7A",
-        "price":  "6.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  6.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-8-Bagged-Boarded-VF-IMAGE-/181659540087?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2a4bc09a77",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-8-Bagged-Boarded-VF-IMAGE-/181659540087?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2a4bc09a77\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-8-Bagged-Boarded-VF-IMAGE-/181659540087?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2a4bc09a77\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-8-Bagged-Boarded-VF-IMAGE-/181667037134?pt=LH_DefaultDomain_3\u0026hash=item2a4c32ffce",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-8-Bagged-Boarded-VF-IMAGE-/181667037134?pt=LH_DefaultDomain_3\u0026hash=item2a4c32ffce\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-8-Bagged-Boarded-VF-IMAGE-/181667037134?pt=LH_DefaultDomain_3\u0026hash=item2a4c32ffce\u003c/a\u003e",
         "orderdate":  null,
         "title":  "PETER PANZERFAUST",
         "issue":  "8",
         "variant":  "8",
-        "price":  "10",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  8.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1397,9 +1541,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "8",
         "variant":  "8A",
-        "price":  "29.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  29.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1409,9 +1553,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "14",
         "variant":  "14",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1421,9 +1565,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1433,21 +1577,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16A",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-17-NM-M-NEW-IMAGE-/191074819150?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c7cf25c4e\u0026ssPageName=RSS:B:SHOP:GB:101",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-17-NM-M-NEW-IMAGE-/191074819150?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c7cf25c4e\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-17-NM-M-NEW-IMAGE-/191074819150?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c7cf25c4e\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "PETER PANZERFAUST",
-        "issue":  "17",
-        "variant":  "17",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1457,9 +1589,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "17",
         "variant":  "17",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1469,9 +1601,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "18",
         "variant":  "18",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1481,9 +1613,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "20",
         "variant":  "20",
-        "price":  "3",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1493,9 +1625,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "20",
         "variant":  "20",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1505,9 +1637,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "20",
         "variant":  "20",
-        "price":  "2.75",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.75,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1517,9 +1649,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "15",
         "variant":  "15A",
-        "price":  "2.9",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.9,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1529,9 +1661,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "12",
         "variant":  "12",
-        "price":  "2.9",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.9,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1541,9 +1673,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "2",
         "variant":  "2A",
-        "price":  "60",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  60,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1553,9 +1685,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16A",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1565,9 +1697,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "19",
         "variant":  "19",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1577,9 +1709,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "15",
         "variant":  "15",
-        "price":  "2.7",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.7,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1589,9 +1721,45 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "22",
         "variant":  "22",
-        "price":  "2.4",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.4,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-Issue-11-1st-print-/191506394594?pt=LH_DefaultDomain_3\u0026hash=item2c96abade2",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-Issue-11-1st-print-/191506394594?pt=LH_DefaultDomain_3\u0026hash=item2c96abade2\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-Issue-11-1st-print-/191506394594?pt=LH_DefaultDomain_3\u0026hash=item2c96abade2\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "11",
+        "variant":  "11A",
+        "price":  2.7,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-Issue-12-1st-print-/191506396059?pt=LH_DefaultDomain_3\u0026hash=item2c96abb39b",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-Issue-12-1st-print-/191506396059?pt=LH_DefaultDomain_3\u0026hash=item2c96abb39b\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-Issue-12-1st-print-/191506396059?pt=LH_DefaultDomain_3\u0026hash=item2c96abb39b\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "12",
+        "variant":  "12",
+        "price":  2.7,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-Issue-13-1st-print-/191506396062?pt=LH_DefaultDomain_3\u0026hash=item2c96abb39e",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-Issue-13-1st-print-/191506396062?pt=LH_DefaultDomain_3\u0026hash=item2c96abb39e\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-Issue-13-1st-print-/191506396062?pt=LH_DefaultDomain_3\u0026hash=item2c96abb39e\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "13",
+        "variant":  "13",
+        "price":  2.7,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1601,9 +1769,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "19",
         "variant":  "19",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1613,9 +1781,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11BCGC",
-        "price":  "120",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  120,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1625,81 +1793,69 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "2",
         "variant":  "2ACGC",
-        "price":  "85",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  85,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-12-/221679165190?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f06",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-12-/221679165190?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f06\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-12-/221679165190?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f06\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-10-2nd-PRINT-/221689023019?pt=LH_DefaultDomain_3\u0026hash=item339db20a2b",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-10-2nd-PRINT-/221689023019?pt=LH_DefaultDomain_3\u0026hash=item339db20a2b\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-10-2nd-PRINT-/221689023019?pt=LH_DefaultDomain_3\u0026hash=item339db20a2b\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "10",
+        "variant":  "10B",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-13-/221689023028?pt=LH_DefaultDomain_3\u0026hash=item339db20a34",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-13-/221689023028?pt=LH_DefaultDomain_3\u0026hash=item339db20a34\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-13-/221689023028?pt=LH_DefaultDomain_3\u0026hash=item339db20a34\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "13",
+        "variant":  "13",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-20-/221689023038?pt=LH_DefaultDomain_3\u0026hash=item339db20a3e",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-20-/221689023038?pt=LH_DefaultDomain_3\u0026hash=item339db20a3e\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-20-/221689023038?pt=LH_DefaultDomain_3\u0026hash=item339db20a3e\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "20",
+        "variant":  "20",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-12-/221689023039?pt=LH_DefaultDomain_3\u0026hash=item339db20a3f",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-12-/221689023039?pt=LH_DefaultDomain_3\u0026hash=item339db20a3f\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-12-/221689023039?pt=LH_DefaultDomain_3\u0026hash=item339db20a3f\u003c/a\u003e",
         "orderdate":  null,
         "title":  "PETER PANZERFAUST",
         "issue":  "12",
         "variant":  "12",
-        "price":  "2.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-18-/221679165192?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f08",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-18-/221679165192?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f08\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-18-/221679165192?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f08\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "PETER PANZERFAUST",
-        "issue":  "18",
-        "variant":  "18",
-        "price":  "2.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-16-/221679165194?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f0a",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-16-/221679165194?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f0a\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-16-/221679165194?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f0a\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "PETER PANZERFAUST",
-        "issue":  "16",
-        "variant":  "16",
-        "price":  "2.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-11-/221679165195?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f0b",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-11-/221679165195?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f0b\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-11-/221679165195?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f0b\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "PETER PANZERFAUST",
-        "issue":  "11",
-        "variant":  "11A",
-        "price":  "2.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-17-/221679165198?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f0e",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-17-/221679165198?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f0e\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-17-/221679165198?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f0e\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-17-/221689023042?pt=LH_DefaultDomain_3\u0026hash=item339db20a42",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-17-/221689023042?pt=LH_DefaultDomain_3\u0026hash=item339db20a42\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-17-/221689023042?pt=LH_DefaultDomain_3\u0026hash=item339db20a42\u003c/a\u003e",
         "orderdate":  null,
         "title":  "PETER PANZERFAUST",
         "issue":  "17",
         "variant":  "17",
-        "price":  "2.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-14-/221679165199?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f0f",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-14-/221679165199?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f0f\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-14-/221679165199?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1b9f0f\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "PETER PANZERFAUST",
-        "issue":  "14",
-        "variant":  "14",
-        "price":  "2.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1709,33 +1865,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "18",
         "variant":  "18",
-        "price":  "2",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Peter-Panzerfaust-3-1st-print-Kurtis-J-Wiebe-/251788271132?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3a9fc01e1c",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Peter-Panzerfaust-3-1st-print-Kurtis-J-Wiebe-/251788271132?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3a9fc01e1c\"\u003ehttp://www.ebay.co.uk/itm/Peter-Panzerfaust-3-1st-print-Kurtis-J-Wiebe-/251788271132?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3a9fc01e1c\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "PETER PANZERFAUST",
-        "issue":  "3",
-        "variant":  "3A",
-        "price":  "17.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Peter-Panzerfaust-1-2nd-print-Kurtis-J-Wiebe-/251788272108?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3a9fc021ec",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Peter-Panzerfaust-1-2nd-print-Kurtis-J-Wiebe-/251788272108?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3a9fc021ec\"\u003ehttp://www.ebay.co.uk/itm/Peter-Panzerfaust-1-2nd-print-Kurtis-J-Wiebe-/251788272108?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3a9fc021ec\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "PETER PANZERFAUST",
-        "issue":  "1",
-        "variant":  "1B",
-        "price":  "17.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1745,69 +1877,69 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "1",
         "variant":  "1A",
-        "price":  "69.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  69.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-11-NM-FIRST-PRINT-/251818391177?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bb689",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-11-NM-FIRST-PRINT-/251818391177?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bb689\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-11-NM-FIRST-PRINT-/251818391177?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bb689\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "PETER PANZERFAUST",
-        "issue":  "11",
-        "variant":  "11A",
-        "price":  "0.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-12-NM-FIRST-PRINT-/251818394375?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bc307",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-12-NM-FIRST-PRINT-/251818394375?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bc307\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-12-NM-FIRST-PRINT-/251818394375?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bc307\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "PETER PANZERFAUST",
-        "issue":  "12",
-        "variant":  "12",
-        "price":  "0.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-13-NM-FIRST-PRINT-/251818394547?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bc3b3",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-13-NM-FIRST-PRINT-/251818394547?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bc3b3\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-13-NM-FIRST-PRINT-/251818394547?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bc3b3\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-13-NM-FIRST-PRINT-/251831976227?pt=LH_DefaultDomain_3\u0026hash=item3aa25b0123",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-13-NM-FIRST-PRINT-/251831976227?pt=LH_DefaultDomain_3\u0026hash=item3aa25b0123\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-13-NM-FIRST-PRINT-/251831976227?pt=LH_DefaultDomain_3\u0026hash=item3aa25b0123\u003c/a\u003e",
         "orderdate":  null,
         "title":  "PETER PANZERFAUST",
         "issue":  "13",
         "variant":  "13",
-        "price":  "0.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-14-NM-FIRST-PRINT-/251818397985?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bd121",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-14-NM-FIRST-PRINT-/251818397985?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bd121\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-14-NM-FIRST-PRINT-/251818397985?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bd121\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-12-NM-FIRST-PRINT-/251831976229?pt=LH_DefaultDomain_3\u0026hash=item3aa25b0125",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-12-NM-FIRST-PRINT-/251831976229?pt=LH_DefaultDomain_3\u0026hash=item3aa25b0125\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-12-NM-FIRST-PRINT-/251831976229?pt=LH_DefaultDomain_3\u0026hash=item3aa25b0125\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "12",
+        "variant":  "12",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-14-NM-FIRST-PRINT-/251831976230?pt=LH_DefaultDomain_3\u0026hash=item3aa25b0126",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-14-NM-FIRST-PRINT-/251831976230?pt=LH_DefaultDomain_3\u0026hash=item3aa25b0126\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-14-NM-FIRST-PRINT-/251831976230?pt=LH_DefaultDomain_3\u0026hash=item3aa25b0126\u003c/a\u003e",
         "orderdate":  null,
         "title":  "PETER PANZERFAUST",
         "issue":  "14",
         "variant":  "14",
-        "price":  "0.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-16-NM-FIRST-PRINT-/251818399650?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bd7a2",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-16-NM-FIRST-PRINT-/251818399650?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bd7a2\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-16-NM-FIRST-PRINT-/251818399650?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa18bd7a2\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-16-NM-FIRST-PRINT-/251831976232?pt=LH_DefaultDomain_3\u0026hash=item3aa25b0128",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-16-NM-FIRST-PRINT-/251831976232?pt=LH_DefaultDomain_3\u0026hash=item3aa25b0128\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-16-NM-FIRST-PRINT-/251831976232?pt=LH_DefaultDomain_3\u0026hash=item3aa25b0128\u003c/a\u003e",
         "orderdate":  null,
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16",
-        "price":  "0.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-11-NM-FIRST-PRINT-/251831976235?pt=LH_DefaultDomain_3\u0026hash=item3aa25b012b",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-11-NM-FIRST-PRINT-/251831976235?pt=LH_DefaultDomain_3\u0026hash=item3aa25b012b\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-11-NM-FIRST-PRINT-/251831976235?pt=LH_DefaultDomain_3\u0026hash=item3aa25b012b\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "11",
+        "variant":  "11A",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1817,9 +1949,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "9",
         "variant":  "9B",
-        "price":  "7.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  7.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1829,21 +1961,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "9",
         "variant":  "9A",
-        "price":  "26.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Peter-Panzerfaust-9-1st-Print-Image-Comics-1st-FULL-Appearance-of-HOOK-bbc-/261763760481?pt=LH_DefaultDomain_3\u0026hash=item3cf2560161",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Peter-Panzerfaust-9-1st-Print-Image-Comics-1st-FULL-Appearance-of-HOOK-bbc-/261763760481?pt=LH_DefaultDomain_3\u0026hash=item3cf2560161\"\u003ehttp://www.ebay.co.uk/itm/Peter-Panzerfaust-9-1st-Print-Image-Comics-1st-FULL-Appearance-of-HOOK-bbc-/261763760481?pt=LH_DefaultDomain_3\u0026hash=item3cf2560161\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "PETER PANZERFAUST",
-        "issue":  "9",
-        "variant":  "9A",
-        "price":  "6.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  26.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1853,9 +1973,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "1",
         "variant":  "VOL1",
-        "price":  "23.14",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  23.14,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1865,9 +1985,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "12",
         "variant":  "12",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1877,9 +1997,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "13",
         "variant":  "13",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1889,9 +2009,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16A",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1901,9 +2021,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "10",
         "variant":  "10B",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1913,9 +2033,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "15",
         "variant":  "15A",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1925,9 +2045,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "21",
         "variant":  "21A",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1937,9 +2057,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "3",
         "variant":  "3:CGC",
-        "price":  "75",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  75,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1949,9 +2069,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16A",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1961,9 +2081,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "14",
         "variant":  "14",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1973,45 +2093,69 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "10",
         "variant":  "10B",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-10-2nd-PRINT-/321657503847?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4480067",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-10-2nd-PRINT-/321657503847?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4480067\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-10-2nd-PRINT-/321657503847?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4480067\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-11-/321667546697?pt=LH_DefaultDomain_3\u0026hash=item4ae4e13e49",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-11-/321667546697?pt=LH_DefaultDomain_3\u0026hash=item4ae4e13e49\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-11-/321667546697?pt=LH_DefaultDomain_3\u0026hash=item4ae4e13e49\u003c/a\u003e",
         "orderdate":  null,
         "title":  "PETER PANZERFAUST",
-        "issue":  "10",
-        "variant":  "10B",
-        "price":  "2.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "issue":  "11",
+        "variant":  "11A",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-20-/321657503848?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4480068",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-20-/321657503848?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4480068\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-20-/321657503848?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4480068\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-18-/321667546700?pt=LH_DefaultDomain_3\u0026hash=item4ae4e13e4c",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-18-/321667546700?pt=LH_DefaultDomain_3\u0026hash=item4ae4e13e4c\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-18-/321667546700?pt=LH_DefaultDomain_3\u0026hash=item4ae4e13e4c\u003c/a\u003e",
         "orderdate":  null,
         "title":  "PETER PANZERFAUST",
-        "issue":  "20",
-        "variant":  "20",
-        "price":  "2.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "issue":  "18",
+        "variant":  "18",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-13-/321657503849?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4480069",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-13-/321657503849?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4480069\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-13-/321657503849?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4480069\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-16-/321667546703?pt=LH_DefaultDomain_3\u0026hash=item4ae4e13e4f",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-16-/321667546703?pt=LH_DefaultDomain_3\u0026hash=item4ae4e13e4f\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-16-/321667546703?pt=LH_DefaultDomain_3\u0026hash=item4ae4e13e4f\u003c/a\u003e",
         "orderdate":  null,
         "title":  "PETER PANZERFAUST",
-        "issue":  "13",
-        "variant":  "13",
-        "price":  "2.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "issue":  "16",
+        "variant":  "16",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-14-/321667546704?pt=LH_DefaultDomain_3\u0026hash=item4ae4e13e50",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-14-/321667546704?pt=LH_DefaultDomain_3\u0026hash=item4ae4e13e50\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-14-/321667546704?pt=LH_DefaultDomain_3\u0026hash=item4ae4e13e50\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "14",
+        "variant":  "14",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Peter-Panzerfaust-7-/321667682903?pt=LH_DefaultDomain_3\u0026hash=item4ae4e35257",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Peter-Panzerfaust-7-/321667682903?pt=LH_DefaultDomain_3\u0026hash=item4ae4e35257\"\u003ehttp://www.ebay.co.uk/itm/Peter-Panzerfaust-7-/321667682903?pt=LH_DefaultDomain_3\u0026hash=item4ae4e35257\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "7",
+        "variant":  "7A",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2021,9 +2165,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "17",
         "variant":  "17",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2033,9 +2177,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "18",
         "variant":  "18",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2045,9 +2189,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "21",
         "variant":  "21",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2057,9 +2201,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "1",
         "variant":  "1ACGC",
-        "price":  "499.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  499.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2069,9 +2213,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "13",
         "variant":  "13",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2081,9 +2225,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "17",
         "variant":  "17",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2093,9 +2237,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "18",
         "variant":  "18",
-        "price":  "3.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2105,9 +2249,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "19",
         "variant":  "19",
-        "price":  "3.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2117,9 +2261,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11A",
-        "price":  "3.98",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.98,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2129,9 +2273,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "",
         "variant":  "SET",
-        "price":  "5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2141,9 +2285,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "1",
         "variant":  "1FIRSTS",
-        "price":  "1.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2153,9 +2297,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "1",
         "variant":  "BOOK1",
-        "price":  "20.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  20.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2165,9 +2309,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "20",
         "variant":  "20A",
-        "price":  "2.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2177,9 +2321,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "19",
         "variant":  "19",
-        "price":  "2.4",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.4,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2189,9 +2333,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "20",
         "variant":  "20",
-        "price":  "2.4",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.4,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2201,9 +2345,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "12",
         "variant":  "12",
-        "price":  "3.49",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.49,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2213,9 +2357,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "13",
         "variant":  "13",
-        "price":  "3.59",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.59,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2225,9 +2369,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "14",
         "variant":  "14",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2237,9 +2381,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "19",
         "variant":  "19",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2249,9 +2393,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16",
-        "price":  "3.75",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.75,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2261,9 +2405,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "20",
         "variant":  "20",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2273,9 +2417,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "22",
         "variant":  "22",
-        "price":  "3.55",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2285,9 +2429,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "14",
         "variant":  "14",
-        "price":  "3.75",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.75,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2297,9 +2441,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "17",
         "variant":  "17",
-        "price":  "3.75",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.75,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2309,9 +2453,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16",
-        "price":  "3.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2321,9 +2465,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "15",
         "variant":  "15A",
-        "price":  "1.9",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.9,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2333,9 +2477,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "17",
         "variant":  "17",
-        "price":  "2.45",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.45,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2345,9 +2489,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "20",
         "variant":  "20",
-        "price":  "3.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2357,9 +2501,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "10",
         "variant":  "10B",
-        "price":  "2.9",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.9,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2369,9 +2513,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16A",
-        "price":  "2.9",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.9,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2381,9 +2525,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "13",
         "variant":  "13",
-        "price":  "2.9",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.9,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2393,9 +2537,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "21",
         "variant":  "21",
-        "price":  "3.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2405,9 +2549,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "10",
         "variant":  "10B",
-        "price":  "2.7",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.7,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2417,9 +2561,21 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "24",
         "variant":  "24",
-        "price":  "3.65",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.65,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/PETER-PANZERFAUST-Issue-16-1st-print-/400860021642?pt=LH_DefaultDomain_3\u0026hash=item5d551e838a",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/PETER-PANZERFAUST-Issue-16-1st-print-/400860021642?pt=LH_DefaultDomain_3\u0026hash=item5d551e838a\"\u003ehttp://www.ebay.co.uk/itm/PETER-PANZERFAUST-Issue-16-1st-print-/400860021642?pt=LH_DefaultDomain_3\u0026hash=item5d551e838a\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  2.7,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -2430,8 +2586,8 @@
         "issue":  "24",
         "variant":  "DEC140750 PETER PANZERFAUST #24",
         "price":  2.80,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:05 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:39 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -2442,8 +2598,8 @@
         "issue":  "1",
         "variant":  "OCT140717 IMAGE FIRSTS PETER PANZERFAUST CURR PTG #1 (MR)",
         "price":  0.80,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:05 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:39 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -2454,8 +2610,8 @@
         "issue":  "1",
         "variant":  "1 CURRENT PRINTING",
         "price":  0,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2465,9 +2621,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "PETER PANZERFAUST VOL 1 THE GREAT ESCAPE TP",
         "variant":  "PETER PANZERFAUST VOL 1 THE GREAT ESCAPE TP",
-        "price":  8.3557455799999997452,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  8.2740694400000003822,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2477,9 +2633,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "PETER PANZERFAUST VOL 2 HOOKED TP",
         "variant":  "PETER PANZERFAUST VOL 2 HOOKED TP",
-        "price":  8.3557455799999997452,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  8.2740694400000003822,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2489,9 +2645,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "PETER PANZERFAUST VOL 3 CRY OF THE WOLF TP",
         "variant":  "PETER PANZERFAUST VOL 3 CRY OF THE WOLF TP",
-        "price":  8.3557455799999997452,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  8.2740694400000003822,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2501,9 +2657,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "PETER PANZERFAUST VOL 4 THE HUNT TP",
         "variant":  "PETER PANZERFAUST VOL 4 THE HUNT TP",
-        "price":  8.3557455799999997452,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  8.2740694400000003822,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2513,9 +2669,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "7",
         "variant":  "7 2ND PTG",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2525,21 +2681,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "9",
         "variant":  "9 2ND PTG",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Peter+Panzerfaust+%2310+2nd_1267727",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Peter+Panzerfaust+%2310+2nd_1267727\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Peter+Panzerfaust+%2310+2nd_1267727\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "PETER PANZERFAUST",
-        "issue":  "10",
-        "variant":  "10 2ND PTG",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2549,9 +2693,21 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "10",
         "variant":  "10 1ST PTG SIGNED BY KURTIS WIEBE \u0026 TYLER JENKINS CGC 9.8",
-        "price":  66.8984339999999979600,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  66.2445120000000030600,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Peter+Panzerfaust+%2310+2nd_1267727",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Peter+Panzerfaust+%2310+2nd_1267727\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Peter+Panzerfaust+%2310+2nd_1267727\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "10",
+        "variant":  "10 2ND PTG",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2561,9 +2717,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "11 COVER A REGULAR TYLER JENKINS COVER",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2573,9 +2729,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "12",
         "variant":  "12",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2585,9 +2741,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "13",
         "variant":  "13",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2597,9 +2753,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "15",
         "variant":  "15 COVER B 2ND PTG",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2609,9 +2765,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "15",
         "variant":  "15 COVER A 1ST PTG",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2621,9 +2777,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "16",
         "variant":  "16",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2633,9 +2789,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "17",
         "variant":  "17",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2645,9 +2801,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "18",
         "variant":  "18",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2657,9 +2813,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "19",
         "variant":  "19",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2669,9 +2825,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "20",
         "variant":  "20 COVER A REGULAR TYLER JENKINS COVER",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2681,9 +2837,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "21",
         "variant":  "21 COVER A REGULAR ROC UPCHURCH COVER",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2693,9 +2849,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "21",
         "variant":  "21 COVER B INCENTIVE MICHAEL AVON OEMING VARIANT COVER",
-        "price":  3.2793349999999999000,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  3.2472800000000001500,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2705,9 +2861,21 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "22",
         "variant":  "22",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Peter+Panzerfaust+%2323_1368903",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Peter+Panzerfaust+%2323_1368903\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Peter+Panzerfaust+%2323_1368903\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "23",
+        "variant":  "23",
+        "price":  1.9288843200000000891,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -2717,10 +2885,22 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "PETER PANZERFAUST DELUXE EDITION VOL 1 HC",
         "variant":  "PETER PANZERFAUST DELUXE EDITION VOL 1 HC",
-        "price":  22.2929193299999993202,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:41 GMT+0000 (UTC)",
+        "price":  22.0750094400000010197,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:49 GMT+0000 (UTC)",
         "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/BOOK/PETER-PANZERFAUST-21-CVR-A-UP/sku/294638425.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/PETER-PANZERFAUST-21-CVR-A-UP/sku/294638425.uts\"\u003ehttp://www.gohastings.com/product/BOOK/PETER-PANZERFAUST-21-CVR-A-UP/sku/294638425.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  "21",
+        "variant":  "#21 CVR A UP",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:55 GMT+0000 (UTC)",
+        "site":  "Hastings"
     },
     {
         "link":  "http://www.gohastings.com/product/BOOK/PETER-PANZERFAUST-No14/sku/291420083.uts",
@@ -2729,9 +2909,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "14",
         "variant":  "NO.14",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:47 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:55 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -2741,9 +2921,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "NO.11",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:47 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:55 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -2753,9 +2933,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "15",
         "variant":  "NO.15",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:47 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:55 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -2765,21 +2945,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "12",
         "variant":  "NO.12",
-        "price":  2.2955344999999999300,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:47 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Volume-3-Cry-of-the-Wolf-TP-Cry-of-the-Wolf-TP/sku/294325210.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Volume-3-Cry-of-the-Wolf-TP-Cry-of-the-Wolf-TP/sku/294325210.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Volume-3-Cry-of-the-Wolf-TP-Cry-of-the-Wolf-TP/sku/294325210.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "PETER PANZERFAUST",
-        "issue":  null,
-        "variant":  "VOLUME 3: CRY OF THE WOLF TP : CRY OF THE WOLF TP",
-        "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:47 GMT+0000 (UTC)",
+        "price":  2.2730960000000001050,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:55 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -2789,21 +2957,33 @@
         "title":  "PETER PANZERFAUST",
         "issue":  "11",
         "variant":  "NO.11 20 COPY GUILLORY INCV",
-        "price":  6.5521113299999998002,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:47 GMT+0000 (UTC)",
+        "price":  6.4880654400000002997,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:55 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
-        "link":  "http://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Deluxe-Edition-Volume-1-HC/sku/291884025.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Deluxe-Edition-Volume-1-HC/sku/291884025.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Deluxe-Edition-Volume-1-HC/sku/291884025.uts\u003c/a\u003e",
+        "link":  "http://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Volume-3-Cry-of-the-Wolf-TP-Cry-of-the-Wolf-TP/sku/294325210.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Volume-3-Cry-of-the-Wolf-TP-Cry-of-the-Wolf-TP/sku/294325210.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Volume-3-Cry-of-the-Wolf-TP-Cry-of-the-Wolf-TP/sku/294325210.uts\u003c/a\u003e",
         "orderdate":  null,
         "title":  "PETER PANZERFAUST",
         "issue":  null,
-        "variant":  "DELUXE EDITION VOLUME 1 HC",
-        "price":  26.2281213299999992002,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:47 GMT+0000 (UTC)",
+        "variant":  "VOLUME 3: CRY OF THE WOLF TP : CRY OF THE WOLF TP",
+        "price":  0,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:55 GMT+0000 (UTC)",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Volume-3-Cry-of-the-Wolf-TP-Cry-of-the-Wolf-TP/sku/293264738.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Volume-3-Cry-of-the-Wolf-TP-Cry-of-the-Wolf-TP/sku/293264738.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Volume-3-Cry-of-the-Wolf-TP-Cry-of-the-Wolf-TP/sku/293264738.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  null,
+        "variant":  "VOLUME 3: CRY OF THE WOLF TP : CRY OF THE WOLF TP",
+        "price":  6.2542612800000002889,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:55 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -2813,9 +2993,21 @@
         "title":  "PETER PANZERFAUST",
         "issue":  null,
         "variant":  "VOLUME 2: HOOKED TP : HOOKED TP",
-        "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:47 GMT+0000 (UTC)",
+        "price":  0,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:55 GMT+0000 (UTC)",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Deluxe-Edition-Volume-1-HC/sku/291884025.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Deluxe-Edition-Volume-1-HC/sku/291884025.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Peter-Panzerfaust-Deluxe-Edition-Volume-1-HC/sku/291884025.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "PETER PANZERFAUST",
+        "issue":  null,
+        "variant":  "DELUXE EDITION VOLUME 1 HC",
+        "price":  25.9717454400000011997,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:55 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -2825,9 +3017,9 @@
         "title":  "PETER PANZERFAUST",
         "issue":  null,
         "variant":  "VOLUME 2: HOOKED TP : HOOKED TP",
-        "price":  9.8314463299999997002,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:47 GMT+0000 (UTC)",
+        "price":  9.7353454400000004497,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:55 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -2838,8 +3030,8 @@
         "issue":  "10",
         "variant":  "1",
         "price":  9.99,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:57 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -2850,8 +3042,8 @@
         "issue":  "11",
         "variant":  "19",
         "price":  2.85,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:57 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -2862,8 +3054,8 @@
         "issue":  "12",
         "variant":  "9",
         "price":  2.85,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:57 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -2874,8 +3066,8 @@
         "issue":  "13",
         "variant":  "4",
         "price":  2.85,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:57 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -2886,8 +3078,8 @@
         "issue":  "14",
         "variant":  "8",
         "price":  2.85,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:57 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -2898,8 +3090,8 @@
         "issue":  "15",
         "variant":  "9",
         "price":  2.85,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:57 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -2910,8 +3102,8 @@
         "issue":  "16",
         "variant":  "1",
         "price":  2.85,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:57 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -2922,8 +3114,8 @@
         "issue":  "17",
         "variant":  "1",
         "price":  2.85,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:57 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -2934,8 +3126,8 @@
         "issue":  "18",
         "variant":  "1",
         "price":  2.60,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:57 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -2946,8 +3138,8 @@
         "issue":  "19",
         "variant":  "2",
         "price":  2.60,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:57 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -2958,8 +3150,8 @@
         "issue":  "20",
         "variant":  "1",
         "price":  2.60,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:57 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -2970,8 +3162,8 @@
         "issue":  "21",
         "variant":  "1",
         "price":  2.60,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:12:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:32:57 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     }
 ]

@@ -44,7 +44,15 @@ q	walking+dead	&q=newvalue
    11X x x
    50X x x
 #>
-   $midtownresults=Invoke-RestMethod -Uri $url
+   try{
+      $midtownresults=Invoke-RestMethod -Uri $url
+   }
+   catch
+   {
+      Write-Warning "$(Get-Date) No data returned from $url"
+      return $null
+   }
+   
    if ($midtownresults.lastrunstatus -eq "failure")
    {
       write-host "$(Get-Date) - Run Failed" -ForegroundColor Red

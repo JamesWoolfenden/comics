@@ -1,38 +1,26 @@
 [
     {
-        "link":  "https://www.dcbservice.com/product/jan150659/sheltered-tp-vol-01-(oct130500)",
-        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jan150659/sheltered-tp-vol-01-(oct130500)\"\u003ehttps://www.dcbservice.com/product/jan150659/sheltered-tp-vol-01-(oct130500)\u003c/a\u003e",
+        "link":  "https://www.dcbservice.com/product/aug140678/sheltered-13-(mr)-clearance",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/aug140678/sheltered-13-(mr)-clearance\"\u003ehttps://www.dcbservice.com/product/aug140678/sheltered-13-(mr)-clearance\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "13",
+        "variant":  "Sheltered  (MR) *Clearance*",
+        "price":  "0.45",
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/feb150486/sheltered-tp-vol-01-(oct130500)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/feb150486/sheltered-tp-vol-01-(oct130500)\"\u003ehttps://www.dcbservice.com/product/feb150486/sheltered-tp-vol-01-(oct130500)\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
         "issue":  "Sheltered TP Vol 01 (Oct130500)",
         "variant":  "Sheltered TP Vol 01 (Oct130500)",
-        "price":  "3.93",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "DCBS"
-    },
-    {
-        "link":  "https://www.dcbservice.com/product/jan150660/sheltered-tp-vol-02-(may140643)",
-        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jan150660/sheltered-tp-vol-02-(may140643)\"\u003ehttps://www.dcbservice.com/product/jan150660/sheltered-tp-vol-02-(may140643)\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "Sheltered TP Vol 02 (May140643)",
-        "variant":  "Sheltered TP Vol 02 (May140643)",
-        "price":  "5.90",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "DCBS"
-    },
-    {
-        "link":  "https://www.dcbservice.com/product/jan150658/sheltered-tp-vol-03",
-        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jan150658/sheltered-tp-vol-03\"\u003ehttps://www.dcbservice.com/product/jan150658/sheltered-tp-vol-03\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "Sheltered TP Vol 03",
-        "variant":  "Sheltered TP Vol 03",
-        "price":  "5.90",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  "3.89",
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "DCBS"
     },
     {
@@ -43,8 +31,8 @@
         "issue":  "11",
         "variant":  "11",
         "price":  1.54,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:40 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -55,8 +43,8 @@
         "issue":  "12",
         "variant":  "12 (MR)",
         "price":  1.54,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:40 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -67,20 +55,20 @@
         "issue":  "13",
         "variant":  "13 (MR)",
         "price":  2.25,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:40 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/image/sheltered-14-mr-/prod_111561.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/image/sheltered-14-mr-/prod_111561.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/image/sheltered-14-mr-/prod_111561.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/image/sheltered-14-mr-/prod_111561.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/image/sheltered-14-mr-/prod_111561.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/image/sheltered-14-mr-/prod_111561.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
         "issue":  "14",
         "variant":  "14 (MR)",
         "price":  2.25,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:40 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -91,8 +79,8 @@
         "issue":  "15",
         "variant":  "15 (MR)",
         "price":  2.25,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:40 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -103,8 +91,8 @@
         "issue":  "SHELTERED",
         "variant":  "SHELTERED TP VOL 03",
         "price":  9.89,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:40 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -115,8 +103,8 @@
         "issue":  "SHELTERED",
         "variant":  "SHELTERED TP VOL 01 (OCT130500)",
         "price":  6.75,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:40 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -127,32 +115,32 @@
         "issue":  "SHELTERED",
         "variant":  "SHELTERED TP VOL 02 (MAY140643)",
         "price":  9.89,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:40 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/graphic-novels-books/sheltered-tp-vol-02-may140643-/prod_136817.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/graphic-novels-books/sheltered-tp-vol-02-may140643-/prod_136817.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/graphic-novels-books/sheltered-tp-vol-02-may140643-/prod_136817.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/graphic-novels-books/sheltered-tp-vol-02-may140643-/prod_136817.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/graphic-novels-books/sheltered-tp-vol-02-may140643-/prod_136817.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/graphic-novels-books/sheltered-tp-vol-02-may140643-/prod_136817.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
         "issue":  "SHELTERED",
         "variant":  "SHELTERED TP VOL 02 (MAY140643)",
         "price":  10.44,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:40 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-18/02/15/graphic-novels-books/sheltered-tp-vol-01-oct130500-/prod_136949.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-18/02/15/graphic-novels-books/sheltered-tp-vol-01-oct130500-/prod_136949.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-18/02/15/graphic-novels-books/sheltered-tp-vol-01-oct130500-/prod_136949.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/graphic-novels-books/sheltered-tp-vol-01-oct130500-/prod_136949.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/graphic-novels-books/sheltered-tp-vol-01-oct130500-/prod_136949.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/graphic-novels-books/sheltered-tp-vol-01-oct130500-/prod_136949.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
         "issue":  "SHELTERED",
         "variant":  "SHELTERED TP VOL 01 (OCT130500)",
         "price":  7.13,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:40 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -163,8 +151,32 @@
         "issue":  "SHELTERED",
         "variant":  "SHELTERED TP VOL 03",
         "price":  10.44,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:40 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-01/04/15/graphic-novels-books/sheltered-tp-01-oct130500-/prod_141074.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-01/04/15/graphic-novels-books/sheltered-tp-01-oct130500-/prod_141074.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-01/04/15/graphic-novels-books/sheltered-tp-01-oct130500-/prod_141074.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "SHELTERED",
+        "variant":  "SHELTERED TP 01 (OCT130500)",
+        "price":  7.13,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-01-oct130500-/prod_142204.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-01-oct130500-/prod_142204.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-01-oct130500-/prod_142204.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "SHELTERED",
+        "variant":  "SHELTERED TP 01 (OCT130500)",
+        "price":  6.75,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -175,8 +187,8 @@
         "issue":  "15",
         "variant":  "15",
         "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -187,8 +199,8 @@
         "issue":  "14",
         "variant":  "14",
         "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -199,8 +211,8 @@
         "issue":  "13",
         "variant":  "13",
         "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -211,8 +223,8 @@
         "issue":  "12",
         "variant":  "12",
         "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -223,8 +235,8 @@
         "issue":  "11",
         "variant":  "11",
         "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -235,8 +247,8 @@
         "issue":  "10",
         "variant":  "10",
         "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -247,8 +259,8 @@
         "issue":  "9",
         "variant":  "9",
         "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -259,8 +271,8 @@
         "issue":  "8",
         "variant":  "8",
         "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -271,8 +283,8 @@
         "issue":  "7",
         "variant":  "7 FIRST PRINT",
         "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -283,8 +295,8 @@
         "issue":  "6",
         "variant":  "6",
         "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -295,8 +307,8 @@
         "issue":  "5",
         "variant":  "5 FIRST PRINT",
         "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -307,8 +319,8 @@
         "issue":  "4",
         "variant":  "4 FIRST PRINT",
         "price":  2.10,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:41:49 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
         "site":  "Close Encounters"
     },
     {
@@ -318,8 +330,8 @@
         "title":  "SHELTERED",
         "issue":  "10",
         "variant":  "10",
-        "price":  "1.95",
-        "rundate":  "Sun Feb 08 2015 10:41:59 GMT+0000 (UTC)",
+        "price":  1.95,
+        "rundate":  "Sat Feb 14 2015 18:51:16 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -329,8 +341,8 @@
         "title":  "SHELTERED",
         "issue":  "6 ",
         "variant":  "Yesteryear Variant",
-        "price":  "6.99",
-        "rundate":  "Sun Feb 08 2015 10:41:59 GMT+0000 (UTC)",
+        "price":  6.99,
+        "rundate":  "Sat Feb 14 2015 18:51:16 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -341,8 +353,8 @@
         "issue":  "11",
         "variant":  "11",
         "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:05 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -353,8 +365,8 @@
         "issue":  "12",
         "variant":  "12",
         "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:05 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -365,8 +377,8 @@
         "issue":  "13",
         "variant":  "13",
         "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:05 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -377,8 +389,8 @@
         "issue":  "14",
         "variant":  "14",
         "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:05 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -389,8 +401,8 @@
         "issue":  "4",
         "variant":  "4",
         "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:05 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -401,8 +413,8 @@
         "issue":  "5",
         "variant":  "5",
         "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:05 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -413,8 +425,8 @@
         "issue":  "7",
         "variant":  "7",
         "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:05 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
         "site":  "Reed"
     },
     {
@@ -425,21 +437,9 @@
         "issue":  "9",
         "variant":  "9",
         "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:05 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
         "site":  "Reed"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Selection-of-first-issue-image-comics-sheltered-southern-bastards-etc-/111592354721?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb6c33a1",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Selection-of-first-issue-image-comics-sheltered-southern-bastards-etc-/111592354721?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb6c33a1\"\u003ehttp://www.ebay.co.uk/itm/Selection-of-first-issue-image-comics-sheltered-southern-bastards-etc-/111592354721?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb6c33a1\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  "1.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
     },
     {
         "link":  "http://uk.ebid.net/for-sale/sheltered-4-image-comics-brisson-christmas-chankhamna-125549291.htm",
@@ -448,9 +448,9 @@
         "title":  "SHELTERED",
         "issue":  "4",
         "variant":  "4",
-        "price":  "0.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -460,9 +460,9 @@
         "title":  "SHELTERED",
         "issue":  "10",
         "variant":  "10",
-        "price":  "1.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -472,9 +472,9 @@
         "title":  "SHELTERED",
         "issue":  "9",
         "variant":  "9",
-        "price":  "1.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -484,9 +484,9 @@
         "title":  "SHELTERED",
         "issue":  "5",
         "variant":  "5",
-        "price":  "1.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -496,9 +496,9 @@
         "title":  "SHELTERED",
         "issue":  "7",
         "variant":  "7",
-        "price":  "1.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -508,9 +508,9 @@
         "title":  "SHELTERED",
         "issue":  "12",
         "variant":  "12",
-        "price":  "1.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -520,9 +520,9 @@
         "title":  "SHELTERED",
         "issue":  "11",
         "variant":  "11",
-        "price":  "1.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -532,9 +532,9 @@
         "title":  "SHELTERED",
         "issue":  "4",
         "variant":  "4",
-        "price":  "2.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -544,93 +544,45 @@
         "title":  "SHELTERED",
         "issue":  "8",
         "variant":  "8",
-        "price":  "2.7",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1.7,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Image-Comics-Sheltered-4-5-First-Print-/141563344721?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5d53751",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-Comics-Sheltered-4-5-First-Print-/141563344721?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5d53751\"\u003ehttp://www.ebay.co.uk/itm/Image-Comics-Sheltered-4-5-First-Print-/141563344721?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5d53751\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Image-Comics-Sheltered-4-5-First-Print-/141574194167?pt=LH_DefaultDomain_3\u0026hash=item20f67ac3f7",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-Comics-Sheltered-4-5-First-Print-/141574194167?pt=LH_DefaultDomain_3\u0026hash=item20f67ac3f7\"\u003ehttp://www.ebay.co.uk/itm/Image-Comics-Sheltered-4-5-First-Print-/141574194167?pt=LH_DefaultDomain_3\u0026hash=item20f67ac3f7\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
         "issue":  "",
         "variant":  "SET",
-        "price":  "5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Sheltered-1-Jul13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141563457690?hash=item20f5d6f09a",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-1-Jul13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141563457690?hash=item20f5d6f09a\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-1-Jul13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141563457690?hash=item20f5d6f09a\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Sheltered-No-8-2014-/151584786615?pt=LH_DefaultDomain_3\u0026hash=item234b2848b7",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-No-8-2014-/151584786615?pt=LH_DefaultDomain_3\u0026hash=item234b2848b7\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-No-8-2014-/151584786615?pt=LH_DefaultDomain_3\u0026hash=item234b2848b7\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
-        "issue":  "1",
-        "variant":  "1A",
-        "price":  "7.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "issue":  "8",
+        "variant":  "8",
+        "price":  0.9,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Sheltered-4-Nov13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141563457890?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5d6f162",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-4-Nov13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141563457890?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5d6f162\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-4-Nov13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141563457890?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5d6f162\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "4",
-        "variant":  "4",
-        "price":  "4.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Sheltered-3-Sep13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141563457971?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5d6f1b3",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-3-Sep13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141563457971?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5d6f1b3\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-3-Sep13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141563457971?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item20f5d6f1b3\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "3",
-        "variant":  "3",
-        "price":  "5.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Sheltered-No-7-2014-/151576588670?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item234aab317e",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-No-7-2014-/151576588670?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item234aab317e\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-No-7-2014-/151576588670?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item234aab317e\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Sheltered-No-7-2014-/151584787157?pt=LH_DefaultDomain_3\u0026hash=item234b284ad5",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-No-7-2014-/151584787157?pt=LH_DefaultDomain_3\u0026hash=item234b284ad5\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-No-7-2014-/151584787157?pt=LH_DefaultDomain_3\u0026hash=item234b284ad5\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
         "issue":  "7",
         "variant":  "7",
-        "price":  "0.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Sheltered-No-8-2014-/151576593296?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item234aab4390",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-No-8-2014-/151576593296?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item234aab4390\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-No-8-2014-/151576593296?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item234aab4390\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "8",
-        "variant":  "8",
-        "price":  "0.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Sheltered-No-8-2014-/151576649129?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item234aac1da9",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-No-8-2014-/151576649129?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item234aac1da9\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-No-8-2014-/151576649129?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item234aac1da9\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "8",
-        "variant":  "8",
-        "price":  "0.9",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -640,9 +592,9 @@
         "title":  "SHELTERED",
         "issue":  "1",
         "variant":  "1A",
-        "price":  "9.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  9.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -652,9 +604,9 @@
         "title":  "SHELTERED",
         "issue":  "11",
         "variant":  "11",
-        "price":  "2.05",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.05,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -664,9 +616,45 @@
         "title":  "SHELTERED",
         "issue":  "11",
         "variant":  "11",
-        "price":  "2.1",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.1,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Sheltered-1-VF-NM-1st-Print-Free-UK-P-P-Image-Comics-/171678477316?pt=LH_DefaultDomain_3\u0026hash=item27f8d5ac04",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-1-VF-NM-1st-Print-Free-UK-P-P-Image-Comics-/171678477316?pt=LH_DefaultDomain_3\u0026hash=item27f8d5ac04\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-1-VF-NM-1st-Print-Free-UK-P-P-Image-Comics-/171678477316?pt=LH_DefaultDomain_3\u0026hash=item27f8d5ac04\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "1",
+        "variant":  "1A",
+        "price":  4.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Sheltered-4-NM-1st-Print-Free-UK-P-P-Image-Comics-/171678479288?pt=LH_DefaultDomain_3\u0026hash=item27f8d5b3b8",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-4-NM-1st-Print-Free-UK-P-P-Image-Comics-/171678479288?pt=LH_DefaultDomain_3\u0026hash=item27f8d5b3b8\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-4-NM-1st-Print-Free-UK-P-P-Image-Comics-/171678479288?pt=LH_DefaultDomain_3\u0026hash=item27f8d5b3b8\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "4",
+        "variant":  "4",
+        "price":  3.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Sheltered-5-NM-1st-Print-Free-UK-P-P-Image-Comics-/171678480209?pt=LH_DefaultDomain_3\u0026hash=item27f8d5b751",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-5-NM-1st-Print-Free-UK-P-P-Image-Comics-/171678480209?pt=LH_DefaultDomain_3\u0026hash=item27f8d5b751\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-5-NM-1st-Print-Free-UK-P-P-Image-Comics-/171678480209?pt=LH_DefaultDomain_3\u0026hash=item27f8d5b751\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "5",
+        "variant":  "5",
+        "price":  2,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -676,9 +664,21 @@
         "title":  "SHELTERED",
         "issue":  "12",
         "variant":  "12",
-        "price":  "2.2",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.2,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Sheltered-2-NM-1st-Print-Free-UK-P-P-Image-Comics-/181665687438?pt=LH_DefaultDomain_3\u0026hash=item2a4c1e678e",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-2-NM-1st-Print-Free-UK-P-P-Image-Comics-/181665687438?pt=LH_DefaultDomain_3\u0026hash=item2a4c1e678e\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-2-NM-1st-Print-Free-UK-P-P-Image-Comics-/181665687438?pt=LH_DefaultDomain_3\u0026hash=item2a4c1e678e\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "2",
+        "variant":  "2",
+        "price":  3.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -688,9 +688,9 @@
         "title":  "SHELTERED",
         "issue":  "9",
         "variant":  "9",
-        "price":  "2.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -700,9 +700,9 @@
         "title":  "SHELTERED",
         "issue":  "11",
         "variant":  "11",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -712,9 +712,9 @@
         "title":  "SHELTERED",
         "issue":  "9",
         "variant":  "9",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -724,21 +724,33 @@
         "title":  "SHELTERED",
         "issue":  "10",
         "variant":  "10",
-        "price":  "2.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/SHELTERED-7-/221679172796?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bbcbc",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SHELTERED-7-/221679172796?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bbcbc\"\u003ehttp://www.ebay.co.uk/itm/SHELTERED-7-/221679172796?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339d1bbcbc\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/SHELTERED-7-/221689025279?pt=LH_DefaultDomain_3\u0026hash=item339db212ff",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SHELTERED-7-/221689025279?pt=LH_DefaultDomain_3\u0026hash=item339db212ff\"\u003ehttp://www.ebay.co.uk/itm/SHELTERED-7-/221689025279?pt=LH_DefaultDomain_3\u0026hash=item339db212ff\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
         "issue":  "7",
         "variant":  "7",
-        "price":  "2.75",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.75,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/SHELTERED-5-/221689025297?pt=LH_DefaultDomain_3\u0026hash=item339db21311",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SHELTERED-5-/221689025297?pt=LH_DefaultDomain_3\u0026hash=item339db21311\"\u003ehttp://www.ebay.co.uk/itm/SHELTERED-5-/221689025297?pt=LH_DefaultDomain_3\u0026hash=item339db21311\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "5",
+        "variant":  "5",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -748,9 +760,21 @@
         "title":  "SHELTERED",
         "issue":  "",
         "variant":  "SET",
-        "price":  "25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Sheltered-1-CGC-SS-9-8-Signed-by-Ed-Brisson-and-Johnnie-Christmas-/231478647318?pt=LH_DefaultDomain_3\u0026hash=item35e533da16",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-1-CGC-SS-9-8-Signed-by-Ed-Brisson-and-Johnnie-Christmas-/231478647318?pt=LH_DefaultDomain_3\u0026hash=item35e533da16\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-1-CGC-SS-9-8-Signed-by-Ed-Brisson-and-Johnnie-Christmas-/231478647318?pt=LH_DefaultDomain_3\u0026hash=item35e533da16\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "1",
+        "variant":  "1ACGC",
+        "price":  185,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -760,9 +784,9 @@
         "title":  "SHELTERED",
         "issue":  "1",
         "variant":  "1IMAGEEXPO",
-        "price":  "21.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  21.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -772,45 +796,45 @@
         "title":  "SHELTERED",
         "issue":  "1",
         "variant":  "1A",
-        "price":  "18.85",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  18.85,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Sheltered-Issue-4-A-Pre-Apocalyptic-Tale-Image-Comics-Horror-/261755883297?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cf1ddcf21",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-Issue-4-A-Pre-Apocalyptic-Tale-Image-Comics-Horror-/261755883297?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cf1ddcf21\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-Issue-4-A-Pre-Apocalyptic-Tale-Image-Comics-Horror-/261755883297?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cf1ddcf21\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Sheltered-Issue-4-A-Pre-Apocalyptic-Tale-Image-Comics-Horror-/261773743835?pt=LH_DefaultDomain_3\u0026hash=item3cf2ee56db",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-Issue-4-A-Pre-Apocalyptic-Tale-Image-Comics-Horror-/261773743835?pt=LH_DefaultDomain_3\u0026hash=item3cf2ee56db\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-Issue-4-A-Pre-Apocalyptic-Tale-Image-Comics-Horror-/261773743835?pt=LH_DefaultDomain_3\u0026hash=item3cf2ee56db\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
         "issue":  "4",
         "variant":  "4",
-        "price":  "1",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  1,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Sheltered-2014-9-NM-/281587746963?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item418ff00893",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-2014-9-NM-/281587746963?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item418ff00893\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-2014-9-NM-/281587746963?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item418ff00893\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "9",
-        "variant":  "9",
-        "price":  "0.49",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Sheltered-1-Image-comics-/291372408363?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d7261e2b",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-1-Image-comics-/291372408363?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d7261e2b\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-1-Image-comics-/291372408363?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item43d7261e2b\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/SHELTERED-1-IMAGE-COMIC-FIRST-PRINT-LOW-RUN-TV-SHOW-COMING-VF-/281594114404?pt=LH_DefaultDomain_3\u0026hash=item4190513164",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SHELTERED-1-IMAGE-COMIC-FIRST-PRINT-LOW-RUN-TV-SHOW-COMING-VF-/281594114404?pt=LH_DefaultDomain_3\u0026hash=item4190513164\"\u003ehttp://www.ebay.co.uk/itm/SHELTERED-1-IMAGE-COMIC-FIRST-PRINT-LOW-RUN-TV-SHOW-COMING-VF-/281594114404?pt=LH_DefaultDomain_3\u0026hash=item4190513164\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
         "issue":  "1",
         "variant":  "1A",
-        "price":  "0.5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  9.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Sheltered-1-Image-comics-/291381007552?pt=LH_DefaultDomain_3\u0026hash=item43d7a954c0",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-1-Image-comics-/291381007552?pt=LH_DefaultDomain_3\u0026hash=item43d7a954c0\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-1-Image-comics-/291381007552?pt=LH_DefaultDomain_3\u0026hash=item43d7a954c0\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "1",
+        "variant":  "1A",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -820,9 +844,9 @@
         "title":  "SHELTERED",
         "issue":  "4",
         "variant":  "4",
-        "price":  "3.15",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.15,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -832,9 +856,9 @@
         "title":  "SHELTERED",
         "issue":  "4",
         "variant":  "4",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -844,9 +868,9 @@
         "title":  "SHELTERED",
         "issue":  "7",
         "variant":  "7",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -856,9 +880,9 @@
         "title":  "SHELTERED",
         "issue":  "9",
         "variant":  "9",
-        "price":  "3.15",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.15,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -868,9 +892,9 @@
         "title":  "SHELTERED",
         "issue":  "11",
         "variant":  "11",
-        "price":  "3.15",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.15,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -880,9 +904,9 @@
         "title":  "SHELTERED",
         "issue":  "12",
         "variant":  "12",
-        "price":  "3.15",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.15,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -892,9 +916,9 @@
         "title":  "SHELTERED",
         "issue":  "14",
         "variant":  "14",
-        "price":  "3.15",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.15,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -904,9 +928,9 @@
         "title":  "SHELTERED",
         "issue":  "10",
         "variant":  "10",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -916,21 +940,21 @@
         "title":  "SHELTERED",
         "issue":  "8",
         "variant":  "8",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/SHELTERED-5-/321657510327?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44819b7",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SHELTERED-5-/321657510327?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44819b7\"\u003ehttp://www.ebay.co.uk/itm/SHELTERED-5-/321657510327?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae44819b7\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/SHELTERED-11-1st-Print-Image-/321659686686?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4694f1e",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SHELTERED-11-1st-Print-Image-/321659686686?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4694f1e\"\u003ehttp://www.ebay.co.uk/itm/SHELTERED-11-1st-Print-Image-/321659686686?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4ae4694f1e\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
-        "issue":  "5",
-        "variant":  "5",
-        "price":  "2.95",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "issue":  "11",
+        "variant":  "11",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -940,9 +964,9 @@
         "title":  "SHELTERED",
         "issue":  "10",
         "variant":  "10",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -952,9 +976,9 @@
         "title":  "SHELTERED",
         "issue":  "12",
         "variant":  "12",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -964,21 +988,9 @@
         "title":  "SHELTERED",
         "issue":  "14",
         "variant":  "14",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Sheltered-1-5-Image-Comics-by-Ed-Brisson-/351302684467?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item51cb458f33",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-1-5-Image-Comics-by-Ed-Brisson-/351302684467?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item51cb458f33\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-1-5-Image-Comics-by-Ed-Brisson-/351302684467?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item51cb458f33\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  "5",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -988,9 +1000,9 @@
         "title":  "SHELTERED",
         "issue":  "10",
         "variant":  "10",
-        "price":  "2.2",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.2,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1000,9 +1012,9 @@
         "title":  "SHELTERED",
         "issue":  "11",
         "variant":  "11",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1012,9 +1024,9 @@
         "title":  "SHELTERED",
         "issue":  "8",
         "variant":  "8",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1024,9 +1036,9 @@
         "title":  "SHELTERED",
         "issue":  "12",
         "variant":  "12",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1036,9 +1048,9 @@
         "title":  "SHELTERED",
         "issue":  "1",
         "variant":  "1A",
-        "price":  "8.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  8.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1048,9 +1060,9 @@
         "title":  "SHELTERED",
         "issue":  "2",
         "variant":  "2",
-        "price":  "10.99",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  10.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1060,9 +1072,9 @@
         "title":  "SHELTERED",
         "issue":  "7",
         "variant":  "7",
-        "price":  "2.1",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.1,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1072,9 +1084,9 @@
         "title":  "SHELTERED",
         "issue":  "8",
         "variant":  "8",
-        "price":  "2.1",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.1,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1084,9 +1096,9 @@
         "title":  "SHELTERED",
         "issue":  "10",
         "variant":  "10",
-        "price":  "2.1",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  2.1,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1096,9 +1108,9 @@
         "title":  "SHELTERED",
         "issue":  "9",
         "variant":  "9",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1108,9 +1120,9 @@
         "title":  "SHELTERED",
         "issue":  "7",
         "variant":  "7",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1120,9 +1132,9 @@
         "title":  "SHELTERED",
         "issue":  "13",
         "variant":  "13",
-        "price":  "3.25",
-        "currency":  "?",
-        "rundate":  "8-2-2015",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "14-2-2015",
         "site":  "Auction"
     },
     {
@@ -1133,8 +1145,8 @@
         "issue":  "15",
         "variant":  "OCT140601 SHELTERED #15 (MR)",
         "price":  2.40,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:25 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:42 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -1145,8 +1157,8 @@
         "issue":  "14",
         "variant":  "SEP140751 SHELTERED #14 (MR)",
         "price":  2.40,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:25 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:42 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -1157,8 +1169,8 @@
         "issue":  "11",
         "variant":  "SHELTERED #11 [(W) Ed Brisson (A/CA) John Christmas]",
         "price":  2.40,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:25 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:42 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -1169,21 +1181,9 @@
         "issue":  "9",
         "variant":  "SHELTERED #9 [(W) Ed Brisson (A/CA) John Christmas]",
         "price":  2.40,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:25 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:42 GMT+0000 (UTC)",
         "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Sheltered+Vol+1+TP_1299259",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Sheltered+Vol+1+TP_1299259\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Sheltered+Vol+1+TP_1299259\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "SHELTERED VOL 1 TP",
-        "variant":  "SHELTERED VOL 1 TP",
-        "price":  5.5683108299999998302,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:43 GMT+0000 (UTC)",
-        "site":  "Midtown"
     },
     {
         "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Sheltered+%231_1268000",
@@ -1193,8 +1193,8 @@
         "issue":  "1",
         "variant":  "1",
         "price":  0,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:43 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -1204,9 +1204,9 @@
         "title":  "SHELTERED",
         "issue":  "3",
         "variant":  "3",
-        "price":  1.2330299599999999624,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:43 GMT+0000 (UTC)",
+        "price":  1.2209772800000000564,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -1216,9 +1216,9 @@
         "title":  "SHELTERED",
         "issue":  "4",
         "variant":  "4",
-        "price":  1.9610423299999999402,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:43 GMT+0000 (UTC)",
+        "price":  1.9418734400000000897,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -1228,9 +1228,9 @@
         "title":  "SHELTERED",
         "issue":  "5",
         "variant":  "5",
-        "price":  1.2330299599999999624,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:43 GMT+0000 (UTC)",
+        "price":  1.2209772800000000564,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -1240,9 +1240,9 @@
         "title":  "SHELTERED",
         "issue":  "8",
         "variant":  "8",
-        "price":  1.9610423299999999402,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:43 GMT+0000 (UTC)",
+        "price":  1.9418734400000000897,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -1252,9 +1252,9 @@
         "title":  "SHELTERED",
         "issue":  "9",
         "variant":  "9",
-        "price":  1.9610423299999999402,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:43 GMT+0000 (UTC)",
+        "price":  1.9418734400000000897,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -1264,9 +1264,9 @@
         "title":  "SHELTERED",
         "issue":  "10",
         "variant":  "10",
-        "price":  1.9610423299999999402,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:43 GMT+0000 (UTC)",
+        "price":  1.9418734400000000897,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -1276,9 +1276,9 @@
         "title":  "SHELTERED",
         "issue":  "11",
         "variant":  "11",
-        "price":  1.9610423299999999402,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:43 GMT+0000 (UTC)",
+        "price":  1.9418734400000000897,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -1288,9 +1288,9 @@
         "title":  "SHELTERED",
         "issue":  "12",
         "variant":  "12",
-        "price":  1.9610423299999999402,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:43 GMT+0000 (UTC)",
+        "price":  1.9418734400000000897,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -1300,9 +1300,9 @@
         "title":  "SHELTERED",
         "issue":  "13",
         "variant":  "13",
-        "price":  1.9610423299999999402,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:43 GMT+0000 (UTC)",
+        "price":  1.9418734400000000897,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -1312,10 +1312,118 @@
         "title":  "SHELTERED",
         "issue":  "14",
         "variant":  "14",
-        "price":  1.6659021799999999492,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:42:43 GMT+0000 (UTC)",
+        "price":  1.6496182400000000762,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
         "site":  "Midtown"
+    },
+    {
+        "link":  "https://www.inter-comics.com/shop/sheltered-4",
+        "url":  "\u003ca href=\"https://www.inter-comics.com/shop/sheltered-4\"\u003ehttps://www.inter-comics.com/shop/sheltered-4\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "4",
+        "variant":  "4",
+        "price":  "2.50",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "site":  "Intercomics"
+    },
+    {
+        "link":  "https://www.inter-comics.com/shop/sheltered-07",
+        "url":  "\u003ca href=\"https://www.inter-comics.com/shop/sheltered-07\"\u003ehttps://www.inter-comics.com/shop/sheltered-07\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  "2.50",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "site":  "Intercomics"
+    },
+    {
+        "link":  "https://www.inter-comics.com/shop/sheltered-08",
+        "url":  "\u003ca href=\"https://www.inter-comics.com/shop/sheltered-08\"\u003ehttps://www.inter-comics.com/shop/sheltered-08\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "8",
+        "variant":  "8",
+        "price":  "2.50",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "site":  "Intercomics"
+    },
+    {
+        "link":  "https://www.inter-comics.com/shop/sheltered-09",
+        "url":  "\u003ca href=\"https://www.inter-comics.com/shop/sheltered-09\"\u003ehttps://www.inter-comics.com/shop/sheltered-09\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "9",
+        "variant":  "9",
+        "price":  "2.50",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "site":  "Intercomics"
+    },
+    {
+        "link":  "https://www.inter-comics.com/shop/sheltered-10",
+        "url":  "\u003ca href=\"https://www.inter-comics.com/shop/sheltered-10\"\u003ehttps://www.inter-comics.com/shop/sheltered-10\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "10",
+        "variant":  "10",
+        "price":  "2.50",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "site":  "Intercomics"
+    },
+    {
+        "link":  "https://www.inter-comics.com/shop/sheltered-12",
+        "url":  "\u003ca href=\"https://www.inter-comics.com/shop/sheltered-12\"\u003ehttps://www.inter-comics.com/shop/sheltered-12\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "12",
+        "variant":  "12",
+        "price":  "2.50",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "site":  "Intercomics"
+    },
+    {
+        "link":  "https://www.inter-comics.com/shop/sheltered-13",
+        "url":  "\u003ca href=\"https://www.inter-comics.com/shop/sheltered-13\"\u003ehttps://www.inter-comics.com/shop/sheltered-13\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "13",
+        "variant":  "13",
+        "price":  "2.25",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "site":  "Intercomics"
+    },
+    {
+        "link":  "https://www.inter-comics.com/shop/sheltered-14",
+        "url":  "\u003ca href=\"https://www.inter-comics.com/shop/sheltered-14\"\u003ehttps://www.inter-comics.com/shop/sheltered-14\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "14",
+        "variant":  "14",
+        "price":  "1.95",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "site":  "Intercomics"
+    },
+    {
+        "link":  "https://www.inter-comics.com/shop/sheltered-15",
+        "url":  "\u003ca href=\"https://www.inter-comics.com/shop/sheltered-15\"\u003ehttps://www.inter-comics.com/shop/sheltered-15\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "15",
+        "variant":  "15",
+        "price":  "1.95",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "site":  "Intercomics"
     },
     {
         "link":  "http://www.gohastings.com/product/BOOK/SHELTERED-No3/sku/291420157.uts",
@@ -1324,9 +1432,9 @@
         "title":  "SHELTERED",
         "issue":  "3",
         "variant":  "NO.3",
-        "price":  1.9610423299999999402,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  1.9418734400000000897,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -1336,9 +1444,9 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "SHELTERED",
-        "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  0,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -1348,33 +1456,9 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "SHELTERED",
-        "price":  4.9190024999999998500,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Earth-Sheltered-Houses-How-to-Build-an-Affordable-Underground-Home/sku/188570896.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Earth-Sheltered-Houses-How-to-Build-an-Affordable-Underground-Home/sku/188570896.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Earth-Sheltered-Houses-How-to-Build-an-Affordable-Underground-Home/sku/188570896.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  null,
-        "variant":  "EARTH-HOUSES : HOW TO BUILD AN AFFORDABLE UNDERGROUND HOME",
-        "price":  12.9271385699999996058,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/294727733.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/294727733.uts\"\u003ehttp://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/294727733.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  null,
-        "variant":  "STEPHEN KING\u0027S STORM OF THE CENTURY/THE SHADOWS/SHELTERED",
-        "price":  4.7550357499999998550,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  4.8709200000000002250,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -1384,9 +1468,9 @@
         "title":  "SHELTERED",
         "issue":  "14",
         "variant":  "#14 (MR)",
-        "price":  1.9610423299999999402,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  1.9418734400000000897,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -1396,9 +1480,9 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "BY THE WARRIOR",
-        "price":  3.5351231299999998922,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  3.5005678400000001617,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -1408,33 +1492,9 @@
         "title":  "SHELTERED",
         "issue":  "13",
         "variant":  "#13 (MR)",
-        "price":  1.9610423299999999402,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/A-Sheltered-Life-Take-It-to-the-Streets/sku/293461676.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/A-Sheltered-Life-Take-It-to-the-Streets/sku/293461676.uts\"\u003ehttp://www.gohastings.com/product/BOOK/A-Sheltered-Life-Take-It-to-the-Streets/sku/293461676.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  null,
-        "variant":  "A LIFE : TAKE IT TO THE STREETS",
-        "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/295083371.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/295083371.uts\"\u003ehttp://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/295083371.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  null,
-        "variant":  "STEPHEN KING\u0027S STORM OF THE CENTURY/THE SHADOWS/SHELTERED",
-        "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  1.9418734400000000897,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -1444,9 +1504,33 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "BY THE MILLIONAIRE",
-        "price":  3.1022509099999999054,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  3.0719268800000001419,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/294727733.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/294727733.uts\"\u003ehttp://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/294727733.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  null,
+        "variant":  "STEPHEN KING\u0027S STORM OF THE CENTURY/THE SHADOWS/SHELTERED",
+        "price":  4.7085560000000002175,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/BOOK/A-Sheltered-Life-Take-It-to-the-Streets/sku/293461676.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/A-Sheltered-Life-Take-It-to-the-Streets/sku/293461676.uts\"\u003ehttp://www.gohastings.com/product/BOOK/A-Sheltered-Life-Take-It-to-the-Streets/sku/293461676.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  null,
+        "variant":  "A LIFE : TAKE IT TO THE STREETS",
+        "price":  0,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -1456,33 +1540,21 @@
         "title":  "SHELTERED",
         "issue":  "12",
         "variant":  "#12 (MR)",
-        "price":  1.9610423299999999402,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  1.9418734400000000897,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
-        "link":  "http://www.gohastings.com/product/BOOK/A-Land-of-Sheltered-Promise/sku/201306324.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/A-Land-of-Sheltered-Promise/sku/201306324.uts\"\u003ehttp://www.gohastings.com/product/BOOK/A-Land-of-Sheltered-Promise/sku/201306324.uts\u003c/a\u003e",
+        "link":  "http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/295083371.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/295083371.uts\"\u003ehttp://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/295083371.uts\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
         "issue":  null,
-        "variant":  "A LAND OF PROMISE",
-        "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Sheltered-Content-Instruction-Teaching-English-Language-Learners-with-Diverse-Abilities/sku/215965051.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Sheltered-Content-Instruction-Teaching-English-Language-Learners-with-Diverse-Abilities/sku/215965051.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Sheltered-Content-Instruction-Teaching-English-Language-Learners-with-Diverse-Abilities/sku/215965051.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  null,
-        "variant":  "CONTENT INSTRUCTION : TEACHING ENGLISH-LANGUAGE LEARNERS WITH DIVERSE ABILITIES",
-        "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "variant":  "STEPHEN KING\u0027S STORM OF THE CENTURY/THE SHADOWS/SHELTERED",
+        "price":  0,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -1492,9 +1564,33 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "VOLUME 1 TP",
-        "price":  4.2106661399999998716,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  4.1695075200000001926,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/BOOK/A-Land-of-Sheltered-Promise/sku/201306324.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/A-Land-of-Sheltered-Promise/sku/201306324.uts\"\u003ehttp://www.gohastings.com/product/BOOK/A-Land-of-Sheltered-Promise/sku/201306324.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  null,
+        "variant":  "A LAND OF PROMISE",
+        "price":  0,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/BOOK/Sheltered-Content-Instruction-Teaching-English-Language-Learners-with-Diverse-Abilities/sku/215965051.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Sheltered-Content-Instruction-Teaching-English-Language-Learners-with-Diverse-Abilities/sku/215965051.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Sheltered-Content-Instruction-Teaching-English-Language-Learners-with-Diverse-Abilities/sku/215965051.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  null,
+        "variant":  "CONTENT INSTRUCTION : TEACHING ENGLISH-LANGUAGE LEARNERS WITH DIVERSE ABILITIES",
+        "price":  0,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -1504,9 +1600,9 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "THE EARTH-HOUSE : AN ARCHITECTS SKETCHBOOK",
-        "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  0,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -1516,9 +1612,21 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "FROM THE SWASTIKA : MEMOIR OF A JEWISH BOYS SURVIVAL AMID HORROR IN WORLD WAR II",
-        "price":  20.6598104999999993700,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  20.4578640000000009450,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/BOOK/Earth-Sheltered-Houses-How-to-Build-an-Affordable-Underground-Home/sku/188570896.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Earth-Sheltered-Houses-How-to-Build-an-Affordable-Underground-Home/sku/188570896.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Earth-Sheltered-Houses-How-to-Build-an-Affordable-Underground-Home/sku/188570896.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  null,
+        "variant":  "EARTH-HOUSES : HOW TO BUILD AN AFFORDABLE UNDERGROUND HOME",
+        "price":  12.8007777600000005913,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -1528,9 +1636,9 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "CONTENT INSTRUCTION : TEACHING ENGLISH LANGUAGE LEARNERS WITH DIVERSE ABILITIES",
-        "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  0,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -1540,9 +1648,9 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "VOLUME 1 TP",
-        "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  0,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -1552,21 +1660,21 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "FOULEST SEMEN OF A ELITE",
-        "price":  9.2870767199999997168,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  9.1962969600000004248,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
-        "link":  "http://www.gohastings.com/product/BOOK/Sheltered-Content-Instruction-Teaching-English-Language-Learners-with-Diverse-Abilities/sku/282428414.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Sheltered-Content-Instruction-Teaching-English-Language-Learners-with-Diverse-Abilities/sku/282428414.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Sheltered-Content-Instruction-Teaching-English-Language-Learners-with-Diverse-Abilities/sku/282428414.uts\u003c/a\u003e",
+        "link":  "http://www.gohastings.com/product/BOOK/Sheltered-Content-Instruction-Teaching-English-Language-Learners-with-Diverse-Abilities/sku/279515472.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Sheltered-Content-Instruction-Teaching-English-Language-Learners-with-Diverse-Abilities/sku/279515472.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Sheltered-Content-Instruction-Teaching-English-Language-Learners-with-Diverse-Abilities/sku/279515472.uts\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "CONTENT INSTRUCTION : TEACHING ENGLISH LANGUAGE LEARNERS WITH DIVERSE ABILITIES",
-        "price":  null,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:20 GMT+0000 (UTC)",
+        "price":  25.9717454400000011997,
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
         "site":  "Hastings"
     },
     {
@@ -1577,8 +1685,8 @@
         "issue":  "3",
         "variant":  "1",
         "price":  2.20,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:25 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1589,8 +1697,8 @@
         "issue":  "4",
         "variant":  "1",
         "price":  2.20,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:25 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1601,8 +1709,8 @@
         "issue":  "5",
         "variant":  "1",
         "price":  2.20,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:25 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1613,8 +1721,8 @@
         "issue":  "7",
         "variant":  "1",
         "price":  2.20,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:25 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1625,8 +1733,8 @@
         "issue":  "8",
         "variant":  "1",
         "price":  2.00,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:25 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1637,8 +1745,8 @@
         "issue":  "9",
         "variant":  "1",
         "price":  2.00,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:25 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1649,8 +1757,8 @@
         "issue":  "11",
         "variant":  "1",
         "price":  2.00,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:25 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     },
     {
@@ -1661,8 +1769,8 @@
         "issue":  "14",
         "variant":  "1",
         "price":  2.00,
-        "currency":  "?",
-        "rundate":  "Sun Feb 08 2015 10:43:25 GMT+0000 (UTC)",
+        "currency":  "\u0026pound;",
+        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
         "site":  "The Comic Guru"
     }
 ]
