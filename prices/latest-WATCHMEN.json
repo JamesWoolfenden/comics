@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1423479247017)\/"
+        "Date":  "\/Date(1424081374098)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -29,23 +29,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479248142)\/"
+        "Date":  "\/Date(1424081374252)\/"
     },
     {
         "Title":  "WATCHMEN",
         "Issue":  "11",
         "Cover":  11,
-        "TotalCost":  "3.93",
-        "Mean":  3.9258069828721998,
-        "AveragePrice":  3.5605895915678518,
-        "CurrentPrice":  3.3068787878787882,
+        "TotalCost":  "3.97",
+        "Mean":  3.9701483585858579,
+        "AveragePrice":  3.6201483585858578,
+        "CurrentPrice":  3.246545454545454,
         "Minimum":  0.2475,
         "Maximum":  7.99,
-        "Count":  23,
+        "Count":  24,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1423479249272)\/"
+        "Date":  "\/Date(1424081374458)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479250410)\/"
+        "Date":  "\/Date(1424081374649)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -77,7 +77,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1423479251548)\/"
+        "Date":  "\/Date(1424081374861)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479252633)\/"
+        "Date":  "\/Date(1424081375061)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -109,7 +109,7 @@
         "AveragePaid":  4.25,
         "AverageNetPaid":  4.25,
         "Stock":  2,
-        "Date":  "\/Date(1423479253760)\/"
+        "Date":  "\/Date(1424081375320)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479254973)\/"
+        "Date":  "\/Date(1424081375471)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479256138)\/"
+        "Date":  "\/Date(1424081375625)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423479257289)\/"
+        "Date":  "\/Date(1424081375782)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479258417)\/"
+        "Date":  "\/Date(1424081375936)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -189,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479259502)\/"
+        "Date":  "\/Date(1424081376084)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -205,7 +205,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423479260679)\/"
+        "Date":  "\/Date(1424081376260)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -221,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479261811)\/"
+        "Date":  "\/Date(1424081376453)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -237,7 +237,7 @@
         "AveragePaid":  3.045,
         "AverageNetPaid":  2.045,
         "Stock":  2,
-        "Date":  "\/Date(1423479262937)\/"
+        "Date":  "\/Date(1424081376665)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -253,7 +253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479264068)\/"
+        "Date":  "\/Date(1424081376816)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -269,23 +269,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479265263)\/"
+        "Date":  "\/Date(1424081377002)\/"
     },
     {
         "Title":  "WATCHMEN",
         "Issue":  "4",
         "Cover":  4,
-        "TotalCost":  "4.96",
-        "Mean":  4.9590792540792545,
-        "AveragePrice":  4.3994638694638688,
-        "CurrentPrice":  4.3400000000000007,
-        "Minimum":  2.1,
+        "TotalCost":  "4.89",
+        "Mean":  4.8861503928170595,
+        "AveragePrice":  4.2731874298540955,
+        "CurrentPrice":  3.34,
+        "Minimum":  0.99,
         "Maximum":  7.99,
-        "Count":  26,
+        "Count":  27,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1423479266368)\/"
+        "Date":  "\/Date(1424081377224)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -301,7 +301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479267506)\/"
+        "Date":  "\/Date(1424081377388)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -317,7 +317,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1423479268623)\/"
+        "Date":  "\/Date(1424081377607)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -333,7 +333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479269841)\/"
+        "Date":  "\/Date(1424081377776)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -349,7 +349,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423479270979)\/"
+        "Date":  "\/Date(1424081377998)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -365,7 +365,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479272134)\/"
+        "Date":  "\/Date(1424081378164)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -381,7 +381,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1423479273280)\/"
+        "Date":  "\/Date(1424081378365)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -397,7 +397,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479274552)\/"
+        "Date":  "\/Date(1424081378549)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -413,7 +413,7 @@
         "AveragePaid":  4.15,
         "AverageNetPaid":  3.1500000000000004,
         "Stock":  2,
-        "Date":  "\/Date(1423479275718)\/"
+        "Date":  "\/Date(1424081378759)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -429,7 +429,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479276902)\/"
+        "Date":  "\/Date(1424081378925)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -445,7 +445,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1423479278080)\/"
+        "Date":  "\/Date(1424081379155)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -461,7 +461,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479279224)\/"
+        "Date":  "\/Date(1424081379347)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -477,7 +477,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479280431)\/"
+        "Date":  "\/Date(1424081379502)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -493,7 +493,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479281553)\/"
+        "Date":  "\/Date(1424081379659)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -509,7 +509,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479282716)\/"
+        "Date":  "\/Date(1424081379846)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -525,7 +525,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479283858)\/"
+        "Date":  "\/Date(1424081380000)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -541,7 +541,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479285004)\/"
+        "Date":  "\/Date(1424081380152)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -557,7 +557,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479286151)\/"
+        "Date":  "\/Date(1424081380309)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -573,7 +573,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479287281)\/"
+        "Date":  "\/Date(1424081380461)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -589,7 +589,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479288387)\/"
+        "Date":  "\/Date(1424081380628)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -605,7 +605,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479289510)\/"
+        "Date":  "\/Date(1424081380789)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -621,7 +621,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479290722)\/"
+        "Date":  "\/Date(1424081380947)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -637,7 +637,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479291949)\/"
+        "Date":  "\/Date(1424081381100)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -653,7 +653,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479293107)\/"
+        "Date":  "\/Date(1424081381283)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -669,7 +669,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479294483)\/"
+        "Date":  "\/Date(1424081381450)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -685,7 +685,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479295660)\/"
+        "Date":  "\/Date(1424081381691)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -694,14 +694,14 @@
         "TotalCost":  "13.41",
         "Mean":  13.412631578947369,
         "AveragePrice":  11.242631578947371,
-        "CurrentPrice":  3.232,
+        "CurrentPrice":  3.474,
         "Minimum":  0.99,
         "Maximum":  59.05,
         "Count":  19,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479296770)\/"
+        "Date":  "\/Date(1424081381905)\/"
     },
     {
         "Title":  "WATCHMEN",
@@ -717,6 +717,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479297920)\/"
+        "Date":  "\/Date(1424081382058)\/"
     }
 ]

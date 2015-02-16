@@ -1,6 +1,22 @@
 [
     {
         "Title":  "AFTERLIFE WITH ARCHIE",
+        "Issue":  "1A",
+        "Cover":  1,
+        "TotalCost":  "4.45",
+        "Mean":  4.45,
+        "AveragePrice":  2.7,
+        "CurrentPrice":  2.7,
+        "Minimum":  2.7,
+        "Maximum":  2.7,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1424080838949)\/"
+    },
+    {
+        "Title":  "AFTERLIFE WITH ARCHIE",
         "Issue":  "1E",
         "Cover":  1,
         "TotalCost":  "2.19",
@@ -13,7 +29,7 @@
         "AveragePaid":  2.19,
         "AverageNetPaid":  0.99,
         "Stock":  1,
-        "Date":  "\/Date(1423476116163)\/"
+        "Date":  "\/Date(1424080839198)\/"
     },
     {
         "Title":  "AFTERLIFE WITH ARCHIE",
@@ -29,7 +45,7 @@
         "AveragePaid":  1.2,
         "AverageNetPaid":  1.2,
         "Stock":  1,
-        "Date":  "\/Date(1423476122606)\/"
+        "Date":  "\/Date(1424080839348)\/"
     },
     {
         "Title":  "AFTERLIFE WITH ARCHIE",
@@ -45,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476123760)\/"
+        "Date":  "\/Date(1424080839497)\/"
     },
     {
         "Title":  "AFTERLIFE WITH ARCHIE",
@@ -61,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476125013)\/"
+        "Date":  "\/Date(1424080839650)\/"
     },
     {
         "Title":  "AFTERLIFE WITH ARCHIE",
@@ -77,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476126235)\/"
+        "Date":  "\/Date(1424080839797)\/"
     },
     {
         "Title":  "afterlife with archie",
@@ -93,7 +109,7 @@
         "AveragePaid":  3.25,
         "AverageNetPaid":  3.25,
         "Stock":  1,
-        "Date":  "\/Date(1423476127469)\/"
+        "Date":  "\/Date(1424080839942)\/"
     },
     {
         "Title":  "afterlife with archie",
@@ -109,7 +125,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423476128702)\/"
+        "Date":  "\/Date(1424080840099)\/"
     },
     {
         "Title":  "AFTERLIFE WITH ARCHIE",
@@ -125,7 +141,7 @@
         "AveragePaid":  1.46,
         "AverageNetPaid":  1.46,
         "Stock":  1,
-        "Date":  "\/Date(1423476129950)\/"
+        "Date":  "\/Date(1424080840248)\/"
     },
     {
         "Title":  "AFTERLIFE WITH ARCHIE",
@@ -141,7 +157,7 @@
         "AveragePaid":  1.35,
         "AverageNetPaid":  1.35,
         "Stock":  1,
-        "Date":  "\/Date(1423476131230)\/"
+        "Date":  "\/Date(1424080840398)\/"
     },
     {
         "Title":  "AFTERLIFE WITH ARCHIE",
@@ -157,7 +173,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423476132570)\/"
+        "Date":  "\/Date(1424080840549)\/"
     },
     {
         "Title":  "AFTERLIFE WITH ARCHIE",
@@ -173,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476133796)\/"
+        "Date":  "\/Date(1424080840706)\/"
     },
     {
         "Title":  "AFTERLIFE WITH ARCHIE",
@@ -189,7 +205,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423476135025)\/"
+        "Date":  "\/Date(1424080840866)\/"
     },
     {
         "Title":  "AFTERLIFE WITH ARCHIE",
@@ -205,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476136165)\/"
+        "Date":  "\/Date(1424080841022)\/"
     },
     {
         "Title":  "AFTERLIFE WITH ARCHIE",
@@ -221,6 +237,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476137351)\/"
+        "Date":  "\/Date(1424080841216)\/"
     }
 ]

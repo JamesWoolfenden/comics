@@ -13,7 +13,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  2,
-        "Date":  "\/Date(1423477700322)\/"
+        "Date":  "\/Date(1424081074361)\/"
     },
     {
         "Title":  "THE FIELD",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1423477701487)\/"
+        "Date":  "\/Date(1424081074552)\/"
     },
     {
         "Title":  "THE FIELD",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477702665)\/"
+        "Date":  "\/Date(1424081074705)\/"
     },
     {
         "Title":  "THE FIELD",
@@ -61,22 +61,22 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477703906)\/"
+        "Date":  "\/Date(1424081074851)\/"
     },
     {
         "Title":  "THE FIELD",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "6.02",
-        "Mean":  6.02,
-        "AveragePrice":  4.62,
-        "CurrentPrice":  4.62,
+        "TotalCost":  "5.62",
+        "Mean":  5.616,
+        "AveragePrice":  4.196,
+        "CurrentPrice":  4.196,
         "Minimum":  0.99,
         "Maximum":  7.99,
-        "Count":  4,
+        "Count":  5,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477705150)\/"
+        "Date":  "\/Date(1424081075018)\/"
     }
 ]

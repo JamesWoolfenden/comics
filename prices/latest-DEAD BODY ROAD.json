@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1423476417339)\/"
+        "Date":  "\/Date(1424080881933)\/"
     },
     {
         "Title":  "DEAD BODY ROAD",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476418540)\/"
+        "Date":  "\/Date(1424080882089)\/"
     },
     {
         "Title":  "DEAD BODY ROAD",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423476419668)\/"
+        "Date":  "\/Date(1424080882245)\/"
     },
     {
         "Title":  "DEAD BODY ROAD",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1423476420862)\/"
+        "Date":  "\/Date(1424080882411)\/"
     },
     {
         "Title":  "DEAD BODY ROAD",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476422052)\/"
+        "Date":  "\/Date(1424080882557)\/"
     },
     {
         "Title":  "DEAD BODY ROAD",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476423223)\/"
+        "Date":  "\/Date(1424080882714)\/"
     },
     {
         "Title":  "DEAD BODY ROAD",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476424392)\/"
+        "Date":  "\/Date(1424080882868)\/"
     },
     {
         "Title":  "DEAD BODY ROAD",
@@ -125,23 +125,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476425529)\/"
+        "Date":  "\/Date(1424080883016)\/"
     },
     {
         "Title":  "DEAD BODY ROAD",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "6.52",
-        "Mean":  6.5187500000000007,
-        "AveragePrice":  4.1687499999999993,
-        "CurrentPrice":  4.7739999999999991,
+        "TotalCost":  "7.26",
+        "Mean":  7.26111111111111,
+        "AveragePrice":  4.8166666666666664,
+        "CurrentPrice":  5.6739999999999995,
         "Minimum":  0.99,
-        "Maximum":  7,
-        "Count":  8,
+        "Maximum":  10,
+        "Count":  9,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476426941)\/"
+        "Date":  "\/Date(1424080883189)\/"
     },
     {
         "Title":  "DEAD BODY ROAD",
@@ -157,6 +157,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476428047)\/"
+        "Date":  "\/Date(1424080883336)\/"
     }
 ]

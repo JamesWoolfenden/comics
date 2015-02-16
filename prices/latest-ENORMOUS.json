@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476493525)\/"
+        "Date":  "\/Date(1424080894073)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423476494697)\/"
+        "Date":  "\/Date(1424080894265)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476495944)\/"
+        "Date":  "\/Date(1424080894421)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476497193)\/"
+        "Date":  "\/Date(1424080894566)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476498341)\/"
+        "Date":  "\/Date(1424080894711)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476499483)\/"
+        "Date":  "\/Date(1424080894862)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476500661)\/"
+        "Date":  "\/Date(1424080895050)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476501822)\/"
+        "Date":  "\/Date(1424080895260)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476502961)\/"
+        "Date":  "\/Date(1424080895420)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423476504175)\/"
+        "Date":  "\/Date(1424080895616)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476505312)\/"
+        "Date":  "\/Date(1424080895802)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -189,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476506475)\/"
+        "Date":  "\/Date(1424080895965)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476507712)\/"
+        "Date":  "\/Date(1424080896154)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -221,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476508873)\/"
+        "Date":  "\/Date(1424080896323)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -237,23 +237,23 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423476510261)\/"
+        "Date":  "\/Date(1424080896484)\/"
     },
     {
         "Title":  "ENORMOUS",
         "Issue":  "4B",
         "Cover":  4,
-        "TotalCost":  "4.58",
-        "Mean":  4.58,
-        "AveragePrice":  4.14,
-        "CurrentPrice":  4.14,
-        "Minimum":  2.1,
+        "TotalCost":  "4.23",
+        "Mean":  4.2250000000000005,
+        "AveragePrice":  3.6583333333333332,
+        "CurrentPrice":  3.6100000000000003,
+        "Minimum":  1.25,
         "Maximum":  7,
-        "Count":  5,
-        "AveragePaid":  2.1,
-        "AverageNetPaid":  2.1,
-        "Stock":  1,
-        "Date":  "\/Date(1423476511452)\/"
+        "Count":  6,
+        "AveragePaid":  2.2750000000000004,
+        "AverageNetPaid":  1.675,
+        "Stock":  2,
+        "Date":  "\/Date(1424080896647)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -269,7 +269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476512614)\/"
+        "Date":  "\/Date(1424080896796)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -285,23 +285,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476513847)\/"
+        "Date":  "\/Date(1424080896945)\/"
     },
     {
         "Title":  "ENORMOUS",
         "Issue":  "5A",
         "Cover":  5,
-        "TotalCost":  "6.23",
-        "Mean":  6.2266666666666666,
-        "AveragePrice":  5.5633333333333335,
-        "CurrentPrice":  5.5633333333333335,
-        "Minimum":  2.75,
+        "TotalCost":  "5.28",
+        "Mean":  5.2825,
+        "AveragePrice":  4.485,
+        "CurrentPrice":  4.485,
+        "Minimum":  1.25,
         "Maximum":  9.99,
-        "Count":  3,
-        "AveragePaid":  2.75,
-        "AverageNetPaid":  2.75,
-        "Stock":  1,
-        "Date":  "\/Date(1423476515025)\/"
+        "Count":  4,
+        "AveragePaid":  2.6,
+        "AverageNetPaid":  2,
+        "Stock":  2,
+        "Date":  "\/Date(1424080897119)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -317,7 +317,7 @@
         "AveragePaid":  2.75,
         "AverageNetPaid":  2.75,
         "Stock":  1,
-        "Date":  "\/Date(1423476516220)\/"
+        "Date":  "\/Date(1424080897279)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -333,7 +333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476518716)\/"
+        "Date":  "\/Date(1424080897431)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -349,7 +349,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476520980)\/"
+        "Date":  "\/Date(1424080897591)\/"
     },
     {
         "Title":  "ENORMOUS",
@@ -358,13 +358,13 @@
         "TotalCost":  "19.45",
         "Mean":  19.453076923076921,
         "AveragePrice":  17.516153846153848,
-        "CurrentPrice":  14.780000000000001,
+        "CurrentPrice":  14.170000000000002,
         "Minimum":  8,
         "Maximum":  34.99,
         "Count":  13,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476522674)\/"
+        "Date":  "\/Date(1424080897814)\/"
     }
 ]

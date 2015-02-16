@@ -13,7 +13,7 @@
         "AveragePaid":  2.4875000000000003,
         "AverageNetPaid":  1.4625,
         "Stock":  4,
-        "Date":  "\/Date(1423477582474)\/"
+        "Date":  "\/Date(1424081058715)\/"
     },
     {
         "Title":  "SPREAD",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477584103)\/"
+        "Date":  "\/Date(1424081058920)\/"
     },
     {
         "Title":  "SPREAD",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477585622)\/"
+        "Date":  "\/Date(1424081059064)\/"
     },
     {
         "Title":  "SPREAD",
@@ -61,7 +61,7 @@
         "AveragePaid":  5.56,
         "AverageNetPaid":  4.76,
         "Stock":  1,
-        "Date":  "\/Date(1423477587049)\/"
+        "Date":  "\/Date(1424081059257)\/"
     },
     {
         "Title":  "SPREAD",
@@ -77,7 +77,7 @@
         "AveragePaid":  4.49,
         "AverageNetPaid":  3.99,
         "Stock":  1,
-        "Date":  "\/Date(1423477588327)\/"
+        "Date":  "\/Date(1424081059450)\/"
     },
     {
         "Title":  "SPREAD",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477589556)\/"
+        "Date":  "\/Date(1424081059601)\/"
     },
     {
         "Title":  "SPREAD",
@@ -109,7 +109,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477590898)\/"
+        "Date":  "\/Date(1424081059811)\/"
     },
     {
         "Title":  "SPREAD",
@@ -125,7 +125,7 @@
         "AveragePaid":  2.45,
         "AverageNetPaid":  1.25,
         "Stock":  1,
-        "Date":  "\/Date(1423477592167)\/"
+        "Date":  "\/Date(1424081059965)\/"
     },
     {
         "Title":  "SPREAD",
@@ -141,7 +141,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477593320)\/"
+        "Date":  "\/Date(1424081060158)\/"
     },
     {
         "Title":  "SPREAD",
@@ -157,22 +157,22 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1423477594539)\/"
+        "Date":  "\/Date(1424081060356)\/"
     },
     {
         "Title":  "SPREAD",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "8.56",
-        "Mean":  8.55642857142857,
-        "AveragePrice":  7.020714285714285,
-        "CurrentPrice":  5.1739999999999995,
-        "Minimum":  2.2,
+        "TotalCost":  "8.23",
+        "Mean":  8.2346666666666657,
+        "AveragePrice":  6.668,
+        "CurrentPrice":  3.7400000000000007,
+        "Minimum":  1.73,
         "Maximum":  14.99,
-        "Count":  14,
+        "Count":  15,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477595818)\/"
+        "Date":  "\/Date(1424081060565)\/"
     }
 ]

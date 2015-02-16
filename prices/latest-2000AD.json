@@ -13,7 +13,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871210304)\/"
+        "Date":  "\/Date(1424080805133)\/"
     },
     {
         "Title":  "2000AD",
@@ -29,7 +29,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871210802)\/"
+        "Date":  "\/Date(1424080805440)\/"
     },
     {
         "Title":  "2000AD",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871211286)\/"
+        "Date":  "\/Date(1424080805699)\/"
     },
     {
         "Title":  "2000AD",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871211806)\/"
+        "Date":  "\/Date(1424080805975)\/"
     },
     {
         "Title":  "2000AD",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871212267)\/"
+        "Date":  "\/Date(1424080806131)\/"
     },
     {
         "Title":  "2000AD",
@@ -93,7 +93,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871212860)\/"
+        "Date":  "\/Date(1424080806284)\/"
     },
     {
         "Title":  "2000AD",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871213019)\/"
+        "Date":  "\/Date(1424080806437)\/"
     },
     {
         "Title":  "2000AD",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871213212)\/"
+        "Date":  "\/Date(1424080806691)\/"
     },
     {
         "Title":  "2000AD",
@@ -141,7 +141,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871213369)\/"
+        "Date":  "\/Date(1424080806970)\/"
+    },
+    {
+        "Title":  "2000AD",
+        "Issue":  "115",
+        "Cover":  115,
+        "TotalCost":  "2.99",
+        "Mean":  2.99,
+        "AveragePrice":  0.99,
+        "CurrentPrice":  0.99,
+        "Minimum":  0.99,
+        "Maximum":  0.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1424080807124)\/"
     },
     {
         "Title":  "2000AD",
@@ -157,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871213623)\/"
+        "Date":  "\/Date(1424080807277)\/"
     },
     {
         "Title":  "2000AD",
@@ -173,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871214031)\/"
+        "Date":  "\/Date(1424080807429)\/"
     },
     {
         "Title":  "2000AD",
@@ -189,7 +205,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871214485)\/"
+        "Date":  "\/Date(1424080807586)\/"
     },
     {
         "Title":  "2000AD",
@@ -205,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871214688)\/"
+        "Date":  "\/Date(1424080807785)\/"
     },
     {
         "Title":  "2000AD",
@@ -221,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871214910)\/"
+        "Date":  "\/Date(1424080807957)\/"
     },
     {
         "Title":  "2000AD",
@@ -237,7 +253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871215118)\/"
+        "Date":  "\/Date(1424080808117)\/"
     },
     {
         "Title":  "2000AD",
@@ -253,7 +269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871215311)\/"
+        "Date":  "\/Date(1424080808276)\/"
     },
     {
         "Title":  "2000AD",
@@ -269,7 +285,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871215478)\/"
+        "Date":  "\/Date(1424080808444)\/"
     },
     {
         "Title":  "2000AD",
@@ -285,7 +301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871215646)\/"
+        "Date":  "\/Date(1424080808604)\/"
     },
     {
         "Title":  "2000AD",
@@ -301,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871215803)\/"
+        "Date":  "\/Date(1424080808764)\/"
     },
     {
         "Title":  "2000AD",
@@ -317,7 +333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871216001)\/"
+        "Date":  "\/Date(1424080808921)\/"
     },
     {
         "Title":  "2000AD",
@@ -333,7 +349,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871216269)\/"
+        "Date":  "\/Date(1424080809082)\/"
     },
     {
         "Title":  "2000AD",
@@ -349,7 +365,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871216453)\/"
+        "Date":  "\/Date(1424080809244)\/"
     },
     {
         "Title":  "2000AD",
@@ -365,7 +381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871216684)\/"
+        "Date":  "\/Date(1424080809407)\/"
     },
     {
         "Title":  "2000AD",
@@ -381,7 +397,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  2,
-        "Date":  "\/Date(1422871216864)\/"
+        "Date":  "\/Date(1424080809600)\/"
     },
     {
         "Title":  "2000AD",
@@ -397,7 +413,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871217029)\/"
+        "Date":  "\/Date(1424080809754)\/"
     },
     {
         "Title":  "2000AD",
@@ -413,7 +429,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871217258)\/"
+        "Date":  "\/Date(1424080809909)\/"
     },
     {
         "Title":  "2000AD",
@@ -429,7 +445,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871217446)\/"
+        "Date":  "\/Date(1424080810071)\/"
     },
     {
         "Title":  "2000AD",
@@ -445,7 +461,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871217612)\/"
+        "Date":  "\/Date(1424080810232)\/"
     },
     {
         "Title":  "2000AD",
@@ -461,7 +477,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871217794)\/"
+        "Date":  "\/Date(1424080810386)\/"
     },
     {
         "Title":  "2000AD",
@@ -477,7 +493,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871217964)\/"
+        "Date":  "\/Date(1424080810544)\/"
     },
     {
         "Title":  "2000AD",
@@ -493,7 +509,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871218128)\/"
+        "Date":  "\/Date(1424080810700)\/"
     },
     {
         "Title":  "2000AD",
@@ -509,7 +525,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871218291)\/"
+        "Date":  "\/Date(1424080810857)\/"
     },
     {
         "Title":  "2000AD",
@@ -525,7 +541,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871218495)\/"
+        "Date":  "\/Date(1424080811015)\/"
     },
     {
         "Title":  "2000AD",
@@ -541,7 +557,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871218657)\/"
+        "Date":  "\/Date(1424080811171)\/"
     },
     {
         "Title":  "2000AD",
@@ -557,7 +573,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871218826)\/"
+        "Date":  "\/Date(1424080811329)\/"
     },
     {
         "Title":  "2000AD",
@@ -573,7 +589,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871218990)\/"
+        "Date":  "\/Date(1424080811486)\/"
     },
     {
         "Title":  "2000AD",
@@ -589,7 +605,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871219150)\/"
+        "Date":  "\/Date(1424080811645)\/"
     },
     {
         "Title":  "2000AD",
@@ -605,7 +621,7 @@
         "AveragePaid":  4,
         "AverageNetPaid":  4,
         "Stock":  1,
-        "Date":  "\/Date(1422871219319)\/"
+        "Date":  "\/Date(1424080811805)\/"
     },
     {
         "Title":  "2000AD",
@@ -621,7 +637,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871219491)\/"
+        "Date":  "\/Date(1424080811959)\/"
     },
     {
         "Title":  "2000AD",
@@ -637,7 +653,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871219653)\/"
+        "Date":  "\/Date(1424080812117)\/"
     },
     {
         "Title":  "2000AD",
@@ -653,7 +669,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871219815)\/"
+        "Date":  "\/Date(1424080812272)\/"
     },
     {
         "Title":  "2000AD",
@@ -669,7 +685,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871219983)\/"
+        "Date":  "\/Date(1424080812429)\/"
     },
     {
         "Title":  "2000AD",
@@ -685,7 +701,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871220149)\/"
+        "Date":  "\/Date(1424080812583)\/"
     },
     {
         "Title":  "2000AD",
@@ -701,7 +717,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871220305)\/"
+        "Date":  "\/Date(1424080812741)\/"
     },
     {
         "Title":  "2000AD",
@@ -717,7 +733,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871220584)\/"
+        "Date":  "\/Date(1424080812899)\/"
     },
     {
         "Title":  "2000AD",
@@ -733,7 +749,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871220761)\/"
+        "Date":  "\/Date(1424080813060)\/"
     },
     {
         "Title":  "2000AD",
@@ -749,7 +765,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871220925)\/"
+        "Date":  "\/Date(1424080813214)\/"
     },
     {
         "Title":  "2000AD",
@@ -765,7 +781,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871221100)\/"
+        "Date":  "\/Date(1424080813382)\/"
     },
     {
         "Title":  "2000AD",
@@ -781,7 +797,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871221286)\/"
+        "Date":  "\/Date(1424080813567)\/"
     },
     {
         "Title":  "2000AD",
@@ -797,7 +813,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871221461)\/"
+        "Date":  "\/Date(1424080813728)\/"
     },
     {
         "Title":  "2000AD",
@@ -813,7 +829,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871221684)\/"
+        "Date":  "\/Date(1424080813914)\/"
     },
     {
         "Title":  "2000AD",
@@ -829,7 +845,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871221859)\/"
+        "Date":  "\/Date(1424080814097)\/"
     },
     {
         "Title":  "2000AD",
@@ -845,7 +861,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871222446)\/"
+        "Date":  "\/Date(1424080814297)\/"
     },
     {
         "Title":  "2000AD",
@@ -861,7 +877,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871222620)\/"
+        "Date":  "\/Date(1424080814468)\/"
     },
     {
         "Title":  "2000AD",
@@ -877,7 +893,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871222885)\/"
+        "Date":  "\/Date(1424080814651)\/"
     },
     {
         "Title":  "2000AD",
@@ -893,7 +909,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871223049)\/"
+        "Date":  "\/Date(1424080814813)\/"
     },
     {
         "Title":  "2000AD",
@@ -909,7 +925,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871223239)\/"
+        "Date":  "\/Date(1424080815005)\/"
     },
     {
         "Title":  "2000AD",
@@ -925,7 +941,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871223424)\/"
+        "Date":  "\/Date(1424080815171)\/"
     },
     {
         "Title":  "2000AD",
@@ -941,7 +957,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871223620)\/"
+        "Date":  "\/Date(1424080815356)\/"
     },
     {
         "Title":  "2000AD",
@@ -957,7 +973,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871223943)\/"
+        "Date":  "\/Date(1424080815531)\/"
     },
     {
         "Title":  "2000AD",
@@ -973,7 +989,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871224126)\/"
+        "Date":  "\/Date(1424080815709)\/"
     },
     {
         "Title":  "2000AD",
@@ -989,7 +1005,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871224296)\/"
+        "Date":  "\/Date(1424080815894)\/"
     },
     {
         "Title":  "2000AD",
@@ -1005,7 +1021,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871224467)\/"
+        "Date":  "\/Date(1424080816069)\/"
     },
     {
         "Title":  "2000AD",
@@ -1021,7 +1037,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871224641)\/"
+        "Date":  "\/Date(1424080816244)\/"
     },
     {
         "Title":  "2000AD",
@@ -1037,7 +1053,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871224875)\/"
+        "Date":  "\/Date(1424080816406)\/"
     },
     {
         "Title":  "2000AD",
@@ -1053,7 +1069,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871225050)\/"
+        "Date":  "\/Date(1424080816598)\/"
     },
     {
         "Title":  "2000AD",
@@ -1069,7 +1085,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871225211)\/"
+        "Date":  "\/Date(1424080816760)\/"
     },
     {
         "Title":  "2000AD",
@@ -1085,7 +1101,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871225394)\/"
+        "Date":  "\/Date(1424080816942)\/"
     },
     {
         "Title":  "2000AD",
@@ -1101,7 +1117,7 @@
         "AveragePaid":  6.99,
         "AverageNetPaid":  6.99,
         "Stock":  1,
-        "Date":  "\/Date(1422871225566)\/"
+        "Date":  "\/Date(1424080817102)\/"
     },
     {
         "Title":  "2000AD",
@@ -1117,7 +1133,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871225776)\/"
+        "Date":  "\/Date(1424080817265)\/"
     },
     {
         "Title":  "2000AD",
@@ -1133,7 +1149,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871225963)\/"
+        "Date":  "\/Date(1424080817420)\/"
     },
     {
         "Title":  "2000AD",
@@ -1149,7 +1165,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871226136)\/"
+        "Date":  "\/Date(1424080817573)\/"
     },
     {
         "Title":  "2000AD",
@@ -1165,7 +1181,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871226393)\/"
+        "Date":  "\/Date(1424080817737)\/"
     },
     {
         "Title":  "2000AD",
@@ -1181,7 +1197,7 @@
         "AveragePaid":  6.75,
         "AverageNetPaid":  6.75,
         "Stock":  1,
-        "Date":  "\/Date(1422871226569)\/"
+        "Date":  "\/Date(1424080817897)\/"
     },
     {
         "Title":  "2000AD",
@@ -1197,7 +1213,7 @@
         "AveragePaid":  2.65,
         "AverageNetPaid":  2.65,
         "Stock":  1,
-        "Date":  "\/Date(1422871226747)\/"
+        "Date":  "\/Date(1424080818056)\/"
     },
     {
         "Title":  "2000AD",
@@ -1213,7 +1229,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871226933)\/"
+        "Date":  "\/Date(1424080818240)\/"
     },
     {
         "Title":  "2000AD",
@@ -1229,7 +1245,7 @@
         "AveragePaid":  2.65,
         "AverageNetPaid":  2.65,
         "Stock":  1,
-        "Date":  "\/Date(1422871227101)\/"
+        "Date":  "\/Date(1424080818404)\/"
     },
     {
         "Title":  "2000AD",
@@ -1245,7 +1261,7 @@
         "AveragePaid":  4.95,
         "AverageNetPaid":  4.95,
         "Stock":  1,
-        "Date":  "\/Date(1422871227419)\/"
+        "Date":  "\/Date(1424080818569)\/"
     },
     {
         "Title":  "2000AD",
@@ -1261,7 +1277,7 @@
         "AveragePaid":  3.95,
         "AverageNetPaid":  3.95,
         "Stock":  1,
-        "Date":  "\/Date(1422871227585)\/"
+        "Date":  "\/Date(1424080818732)\/"
     },
     {
         "Title":  "2000AD",
@@ -1277,7 +1293,7 @@
         "AveragePaid":  4,
         "AverageNetPaid":  4,
         "Stock":  1,
-        "Date":  "\/Date(1422871227764)\/"
+        "Date":  "\/Date(1424080818935)\/"
     },
     {
         "Title":  "2000AD",
@@ -1293,7 +1309,7 @@
         "AveragePaid":  1.99,
         "AverageNetPaid":  1.99,
         "Stock":  1,
-        "Date":  "\/Date(1422871227991)\/"
+        "Date":  "\/Date(1424080819091)\/"
     },
     {
         "Title":  "2000AD",
@@ -1309,7 +1325,7 @@
         "AveragePaid":  1.64,
         "AverageNetPaid":  1.64,
         "Stock":  1,
-        "Date":  "\/Date(1422871228191)\/"
+        "Date":  "\/Date(1424080819247)\/"
     },
     {
         "Title":  "2000AD",
@@ -1325,7 +1341,7 @@
         "AveragePaid":  3.61,
         "AverageNetPaid":  3.61,
         "Stock":  1,
-        "Date":  "\/Date(1422871228353)\/"
+        "Date":  "\/Date(1424080819409)\/"
     },
     {
         "Title":  "2000AD",
@@ -1341,7 +1357,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871228513)\/"
+        "Date":  "\/Date(1424080819564)\/"
     },
     {
         "Title":  "2000AD",
@@ -1357,7 +1373,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871228702)\/"
+        "Date":  "\/Date(1424080819767)\/"
     },
     {
         "Title":  "2000AD",
@@ -1373,7 +1389,7 @@
         "AveragePaid":  3.2,
         "AverageNetPaid":  3.2,
         "Stock":  1,
-        "Date":  "\/Date(1422871228874)\/"
+        "Date":  "\/Date(1424080819930)\/"
     },
     {
         "Title":  "2000AD",
@@ -1389,7 +1405,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871229036)\/"
+        "Date":  "\/Date(1424080820086)\/"
     },
     {
         "Title":  "2000AD",
@@ -1405,7 +1421,7 @@
         "AveragePaid":  2,
         "AverageNetPaid":  2,
         "Stock":  1,
-        "Date":  "\/Date(1422871229269)\/"
+        "Date":  "\/Date(1424080820248)\/"
     },
     {
         "Title":  "2000AD",
@@ -1421,7 +1437,7 @@
         "AveragePaid":  2,
         "AverageNetPaid":  2,
         "Stock":  2,
-        "Date":  "\/Date(1422871229520)\/"
+        "Date":  "\/Date(1424080820415)\/"
     },
     {
         "Title":  "2000AD",
@@ -1437,7 +1453,7 @@
         "AveragePaid":  2,
         "AverageNetPaid":  2,
         "Stock":  1,
-        "Date":  "\/Date(1422871229709)\/"
+        "Date":  "\/Date(1424080820575)\/"
     },
     {
         "Title":  "2000AD",
@@ -1453,7 +1469,7 @@
         "AveragePaid":  2,
         "AverageNetPaid":  2,
         "Stock":  1,
-        "Date":  "\/Date(1422871229872)\/"
+        "Date":  "\/Date(1424080820739)\/"
     },
     {
         "Title":  "2000AD",
@@ -1469,7 +1485,7 @@
         "AveragePaid":  2,
         "AverageNetPaid":  2,
         "Stock":  1,
-        "Date":  "\/Date(1422871230052)\/"
+        "Date":  "\/Date(1424080820911)\/"
     },
     {
         "Title":  "2000AD",
@@ -1485,7 +1501,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1422871230546)\/"
+        "Date":  "\/Date(1424080821078)\/"
     },
     {
         "Title":  "2000AD",
@@ -1501,7 +1517,7 @@
         "AveragePaid":  2.65,
         "AverageNetPaid":  2.65,
         "Stock":  2,
-        "Date":  "\/Date(1422871230718)\/"
+        "Date":  "\/Date(1424080821248)\/"
     },
     {
         "Title":  "2000AD",
@@ -1517,7 +1533,7 @@
         "AveragePaid":  1.87,
         "AverageNetPaid":  1.87,
         "Stock":  2,
-        "Date":  "\/Date(1422871230928)\/"
+        "Date":  "\/Date(1424080821429)\/"
     },
     {
         "Title":  "2000AD",
@@ -1533,7 +1549,7 @@
         "AveragePaid":  4,
         "AverageNetPaid":  4,
         "Stock":  1,
-        "Date":  "\/Date(1422871231098)\/"
+        "Date":  "\/Date(1424080821594)\/"
     },
     {
         "Title":  "2000AD",
@@ -1549,7 +1565,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871231286)\/"
+        "Date":  "\/Date(1424080821797)\/"
     },
     {
         "Title":  "2000AD",
@@ -1565,7 +1581,7 @@
         "AveragePaid":  2,
         "AverageNetPaid":  2,
         "Stock":  1,
-        "Date":  "\/Date(1422871231443)\/"
+        "Date":  "\/Date(1424080821953)\/"
     },
     {
         "Title":  "2000AD",
@@ -1581,7 +1597,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871231613)\/"
+        "Date":  "\/Date(1424080822112)\/"
     },
     {
         "Title":  "2000AD",
@@ -1597,7 +1613,7 @@
         "AveragePaid":  2,
         "AverageNetPaid":  2,
         "Stock":  1,
-        "Date":  "\/Date(1422871231824)\/"
+        "Date":  "\/Date(1424080822275)\/"
     },
     {
         "Title":  "2000AD",
@@ -1613,7 +1629,7 @@
         "AveragePaid":  4.3,
         "AverageNetPaid":  4.3,
         "Stock":  1,
-        "Date":  "\/Date(1422871232004)\/"
+        "Date":  "\/Date(1424080822457)\/"
     },
     {
         "Title":  "2000AD",
@@ -1629,7 +1645,7 @@
         "AveragePaid":  4.3,
         "AverageNetPaid":  4.3,
         "Stock":  2,
-        "Date":  "\/Date(1422871232208)\/"
+        "Date":  "\/Date(1424080822627)\/"
     },
     {
         "Title":  "2000AD",
@@ -1645,7 +1661,7 @@
         "AveragePaid":  4.3,
         "AverageNetPaid":  4.3,
         "Stock":  1,
-        "Date":  "\/Date(1422871232378)\/"
+        "Date":  "\/Date(1424080822796)\/"
     },
     {
         "Title":  "2000AD",
@@ -1661,7 +1677,7 @@
         "AveragePaid":  4.3,
         "AverageNetPaid":  4.3,
         "Stock":  2,
-        "Date":  "\/Date(1422871232655)\/"
+        "Date":  "\/Date(1424080822965)\/"
     },
     {
         "Title":  "2000AD",
@@ -1677,7 +1693,7 @@
         "AveragePaid":  4.5,
         "AverageNetPaid":  4.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871232838)\/"
+        "Date":  "\/Date(1424080823130)\/"
     },
     {
         "Title":  "2000AD",
@@ -1693,7 +1709,7 @@
         "AveragePaid":  4.5,
         "AverageNetPaid":  4.5,
         "Stock":  2,
-        "Date":  "\/Date(1422871233026)\/"
+        "Date":  "\/Date(1424080823304)\/"
     },
     {
         "Title":  "2000AD",
@@ -1709,7 +1725,7 @@
         "AveragePaid":  4.5,
         "AverageNetPaid":  4.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871233197)\/"
+        "Date":  "\/Date(1424080823464)\/"
     },
     {
         "Title":  "2000AD",
@@ -1725,7 +1741,7 @@
         "AveragePaid":  4.5,
         "AverageNetPaid":  4.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871233362)\/"
+        "Date":  "\/Date(1424080823621)\/"
     },
     {
         "Title":  "2000AD",
@@ -1741,7 +1757,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871233524)\/"
+        "Date":  "\/Date(1424080823791)\/"
     },
     {
         "Title":  "2000AD",
@@ -1757,7 +1773,7 @@
         "AveragePaid":  4.5,
         "AverageNetPaid":  4.5,
         "Stock":  1,
-        "Date":  "\/Date(1422871233673)\/"
+        "Date":  "\/Date(1424080823949)\/"
     },
     {
         "Title":  "2000AD",
@@ -1773,7 +1789,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.6,
         "Stock":  2,
-        "Date":  "\/Date(1422871233862)\/"
+        "Date":  "\/Date(1424080824150)\/"
     },
     {
         "Title":  "2000AD",
@@ -1789,7 +1805,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.6,
         "Stock":  2,
-        "Date":  "\/Date(1422871234094)\/"
+        "Date":  "\/Date(1424080824317)\/"
     },
     {
         "Title":  "2000AD",
@@ -1805,7 +1821,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.6,
         "Stock":  2,
-        "Date":  "\/Date(1422871234255)\/"
+        "Date":  "\/Date(1424080824477)\/"
     },
     {
         "Title":  "2000AD",
@@ -1821,7 +1837,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.6,
         "Stock":  2,
-        "Date":  "\/Date(1422871234462)\/"
+        "Date":  "\/Date(1424080824643)\/"
     },
     {
         "Title":  "2000AD",
@@ -1837,7 +1853,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.6,
         "Stock":  2,
-        "Date":  "\/Date(1422871234645)\/"
+        "Date":  "\/Date(1424080824814)\/"
     },
     {
         "Title":  "2000AD",
@@ -1853,7 +1869,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.6,
         "Stock":  2,
-        "Date":  "\/Date(1422871234814)\/"
+        "Date":  "\/Date(1424080824981)\/"
     },
     {
         "Title":  "2000AD",
@@ -1869,7 +1885,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.6,
         "Stock":  2,
-        "Date":  "\/Date(1422871234981)\/"
+        "Date":  "\/Date(1424080825152)\/"
     },
     {
         "Title":  "2000AD",
@@ -1885,7 +1901,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.6,
         "Stock":  2,
-        "Date":  "\/Date(1422871235150)\/"
+        "Date":  "\/Date(1424080825344)\/"
     },
     {
         "Title":  "2000AD",
@@ -1901,7 +1917,7 @@
         "AveragePaid":  3.55,
         "AverageNetPaid":  3.55,
         "Stock":  2,
-        "Date":  "\/Date(1422871235311)\/"
+        "Date":  "\/Date(1424080825508)\/"
     },
     {
         "Title":  "2000AD",
@@ -1917,7 +1933,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871235474)\/"
+        "Date":  "\/Date(1424080825694)\/"
     },
     {
         "Title":  "2000AD",
@@ -1933,7 +1949,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.6,
         "Stock":  1,
-        "Date":  "\/Date(1422871235654)\/"
+        "Date":  "\/Date(1424080825860)\/"
     },
     {
         "Title":  "2000AD",
@@ -1949,7 +1965,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.6,
         "Stock":  1,
-        "Date":  "\/Date(1422871235814)\/"
+        "Date":  "\/Date(1424080826022)\/"
     },
     {
         "Title":  "2000AD",
@@ -1965,7 +1981,7 @@
         "AveragePaid":  2.265,
         "AverageNetPaid":  2.265,
         "Stock":  2,
-        "Date":  "\/Date(1422871235986)\/"
+        "Date":  "\/Date(1424080826191)\/"
     },
     {
         "Title":  "2000AD",
@@ -1981,7 +1997,7 @@
         "AveragePaid":  2.49,
         "AverageNetPaid":  2.49,
         "Stock":  1,
-        "Date":  "\/Date(1422871236200)\/"
+        "Date":  "\/Date(1424080826371)\/"
     },
     {
         "Title":  "2000AD",
@@ -1997,7 +2013,7 @@
         "AveragePaid":  2.49,
         "AverageNetPaid":  2.49,
         "Stock":  1,
-        "Date":  "\/Date(1422871236365)\/"
+        "Date":  "\/Date(1424080826539)\/"
     },
     {
         "Title":  "2000AD",
@@ -2013,7 +2029,7 @@
         "AveragePaid":  2.49,
         "AverageNetPaid":  2.49,
         "Stock":  1,
-        "Date":  "\/Date(1422871236534)\/"
+        "Date":  "\/Date(1424080826700)\/"
     },
     {
         "Title":  "2000AD",
@@ -2029,7 +2045,7 @@
         "AveragePaid":  3.55,
         "AverageNetPaid":  3.55,
         "Stock":  1,
-        "Date":  "\/Date(1422871236706)\/"
+        "Date":  "\/Date(1424080826858)\/"
     },
     {
         "Title":  "2000AD",
@@ -2045,7 +2061,7 @@
         "AveragePaid":  2.49,
         "AverageNetPaid":  2.49,
         "Stock":  1,
-        "Date":  "\/Date(1422871236882)\/"
+        "Date":  "\/Date(1424080827021)\/"
     },
     {
         "Title":  "2000AD",
@@ -2061,7 +2077,7 @@
         "AveragePaid":  2.49,
         "AverageNetPaid":  2.49,
         "Stock":  1,
-        "Date":  "\/Date(1422871237051)\/"
+        "Date":  "\/Date(1424080827183)\/"
     },
     {
         "Title":  "2000AD",
@@ -2077,7 +2093,7 @@
         "AveragePaid":  4.99,
         "AverageNetPaid":  4.99,
         "Stock":  1,
-        "Date":  "\/Date(1422871237408)\/"
+        "Date":  "\/Date(1424080827339)\/"
     },
     {
         "Title":  "2000AD",
@@ -2093,7 +2109,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871237579)\/"
+        "Date":  "\/Date(1424080827508)\/"
     },
     {
         "Title":  "2000AD",
@@ -2109,7 +2125,7 @@
         "AveragePaid":  3.25,
         "AverageNetPaid":  3.25,
         "Stock":  1,
-        "Date":  "\/Date(1422871237833)\/"
+        "Date":  "\/Date(1424080827695)\/"
     },
     {
         "Title":  "2000AD",
@@ -2125,7 +2141,7 @@
         "AveragePaid":  12.01,
         "AverageNetPaid":  12.01,
         "Stock":  2,
-        "Date":  "\/Date(1422871238030)\/"
+        "Date":  "\/Date(1424080827894)\/"
     },
     {
         "Title":  "2000AD",
@@ -2141,7 +2157,7 @@
         "AveragePaid":  3.16,
         "AverageNetPaid":  3.16,
         "Stock":  1,
-        "Date":  "\/Date(1422871238256)\/"
+        "Date":  "\/Date(1424080828065)\/"
     },
     {
         "Title":  "2000AD",
@@ -2157,7 +2173,7 @@
         "AveragePaid":  4.1499999999999995,
         "AverageNetPaid":  4.1499999999999995,
         "Stock":  3,
-        "Date":  "\/Date(1422871238468)\/"
+        "Date":  "\/Date(1424080828235)\/"
     },
     {
         "Title":  "2000AD",
@@ -2173,7 +2189,7 @@
         "AveragePaid":  2.49,
         "AverageNetPaid":  2.49,
         "Stock":  1,
-        "Date":  "\/Date(1422871238637)\/"
+        "Date":  "\/Date(1424080828405)\/"
     },
     {
         "Title":  "2000AD",
@@ -2189,7 +2205,7 @@
         "AveragePaid":  3.16,
         "AverageNetPaid":  3.16,
         "Stock":  1,
-        "Date":  "\/Date(1422871238791)\/"
+        "Date":  "\/Date(1424080828562)\/"
     },
     {
         "Title":  "2000AD",
@@ -2205,7 +2221,7 @@
         "AveragePaid":  18.54,
         "AverageNetPaid":  18.54,
         "Stock":  1,
-        "Date":  "\/Date(1422871238943)\/"
+        "Date":  "\/Date(1424080828716)\/"
     },
     {
         "Title":  "2000AD",
@@ -2221,7 +2237,7 @@
         "AveragePaid":  21.86,
         "AverageNetPaid":  21.86,
         "Stock":  1,
-        "Date":  "\/Date(1422871239111)\/"
+        "Date":  "\/Date(1424080828890)\/"
     },
     {
         "Title":  "2000AD",
@@ -2237,7 +2253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871239285)\/"
+        "Date":  "\/Date(1424080829046)\/"
     },
     {
         "Title":  "2000AD",
@@ -2253,7 +2269,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  2,
-        "Date":  "\/Date(1422871239454)\/"
+        "Date":  "\/Date(1424080829244)\/"
     },
     {
         "Title":  "2000AD",
@@ -2269,7 +2285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871239615)\/"
+        "Date":  "\/Date(1424080829402)\/"
     },
     {
         "Title":  "2000AD",
@@ -2285,7 +2301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871239775)\/"
+        "Date":  "\/Date(1424080829558)\/"
     },
     {
         "Title":  "2000AD",
@@ -2301,7 +2317,7 @@
         "AveragePaid":  11.76,
         "AverageNetPaid":  11.76,
         "Stock":  1,
-        "Date":  "\/Date(1422871239942)\/"
+        "Date":  "\/Date(1424080829744)\/"
     },
     {
         "Title":  "2000AD",
@@ -2317,7 +2333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871240104)\/"
+        "Date":  "\/Date(1424080829899)\/"
     },
     {
         "Title":  "2000AD",
@@ -2333,7 +2349,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871240279)\/"
+        "Date":  "\/Date(1424080830060)\/"
     },
     {
         "Title":  "2000AD",
@@ -2349,7 +2365,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871240442)\/"
+        "Date":  "\/Date(1424080830217)\/"
     },
     {
         "Title":  "2000AD",
@@ -2365,7 +2381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871240606)\/"
+        "Date":  "\/Date(1424080830376)\/"
     },
     {
         "Title":  "2000AD",
@@ -2381,7 +2397,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871240785)\/"
+        "Date":  "\/Date(1424080830534)\/"
     },
     {
         "Title":  "2000AD",
@@ -2397,7 +2413,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871240992)\/"
+        "Date":  "\/Date(1424080830689)\/"
     },
     {
         "Title":  "2000AD",
@@ -2413,7 +2429,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871241165)\/"
+        "Date":  "\/Date(1424080830843)\/"
     },
     {
         "Title":  "2000AD",
@@ -2429,7 +2445,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871241360)\/"
+        "Date":  "\/Date(1424080830999)\/"
     },
     {
         "Title":  "2000AD",
@@ -2445,7 +2461,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871241527)\/"
+        "Date":  "\/Date(1424080831154)\/"
     },
     {
         "Title":  "2000AD",
@@ -2461,7 +2477,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871241682)\/"
+        "Date":  "\/Date(1424080831308)\/"
     },
     {
         "Title":  "2000AD",
@@ -2477,7 +2493,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871241978)\/"
+        "Date":  "\/Date(1424080831467)\/"
     },
     {
         "Title":  "2000AD",
@@ -2493,7 +2509,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871242165)\/"
+        "Date":  "\/Date(1424080831661)\/"
     },
     {
         "Title":  "2000AD",
@@ -2509,7 +2525,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871242337)\/"
+        "Date":  "\/Date(1424080831827)\/"
     },
     {
         "Title":  "2000AD",
@@ -2525,7 +2541,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871242489)\/"
+        "Date":  "\/Date(1424080831982)\/"
     },
     {
         "Title":  "2000AD",
@@ -2541,7 +2557,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871242651)\/"
+        "Date":  "\/Date(1424080832137)\/"
     },
     {
         "Title":  "2000AD",
@@ -2557,7 +2573,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871242805)\/"
+        "Date":  "\/Date(1424080832292)\/"
     },
     {
         "Title":  "2000AD",
@@ -2573,7 +2589,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871242962)\/"
+        "Date":  "\/Date(1424080832450)\/"
     },
     {
         "Title":  "2000AD",
@@ -2589,7 +2605,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871243130)\/"
+        "Date":  "\/Date(1424080832605)\/"
     },
     {
         "Title":  "2000AD",
@@ -2605,7 +2621,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871243287)\/"
+        "Date":  "\/Date(1424080832759)\/"
     },
     {
         "Title":  "2000AD",
@@ -2621,7 +2637,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871243446)\/"
+        "Date":  "\/Date(1424080832913)\/"
     },
     {
         "Title":  "2000AD",
@@ -2637,7 +2653,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871243652)\/"
+        "Date":  "\/Date(1424080833139)\/"
     },
     {
         "Title":  "2000AD",
@@ -2653,7 +2669,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871243807)\/"
+        "Date":  "\/Date(1424080833293)\/"
     },
     {
         "Title":  "2000AD",
@@ -2669,7 +2685,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871243965)\/"
+        "Date":  "\/Date(1424080833452)\/"
     },
     {
         "Title":  "2000AD",
@@ -2685,7 +2701,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871244237)\/"
+        "Date":  "\/Date(1424080833617)\/"
     },
     {
         "Title":  "2000AD",
@@ -2701,7 +2717,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871244400)\/"
+        "Date":  "\/Date(1424080833775)\/"
     },
     {
         "Title":  "2000AD",
@@ -2717,7 +2733,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871244553)\/"
+        "Date":  "\/Date(1424080833929)\/"
     },
     {
         "Title":  "2000AD",
@@ -2733,7 +2749,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871244717)\/"
+        "Date":  "\/Date(1424080834091)\/"
     },
     {
         "Title":  "2000AD",
@@ -2749,7 +2765,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871244871)\/"
+        "Date":  "\/Date(1424080834249)\/"
     },
     {
         "Title":  "2000AD",
@@ -2765,7 +2781,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871245037)\/"
+        "Date":  "\/Date(1424080834406)\/"
     },
     {
         "Title":  "2000AD",
@@ -2781,7 +2797,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871245204)\/"
+        "Date":  "\/Date(1424080834560)\/"
     },
     {
         "Title":  "2000AD",
@@ -2797,7 +2813,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871245390)\/"
+        "Date":  "\/Date(1424080834718)\/"
     },
     {
         "Title":  "2000AD",
@@ -2813,7 +2829,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871245546)\/"
+        "Date":  "\/Date(1424080834894)\/"
     },
     {
         "Title":  "2000AD",
@@ -2829,7 +2845,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871245707)\/"
+        "Date":  "\/Date(1424080835061)\/"
     },
     {
         "Title":  "2000AD",
@@ -2845,7 +2861,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871245875)\/"
+        "Date":  "\/Date(1424080835218)\/"
     },
     {
         "Title":  "2000AD",
@@ -2861,7 +2877,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871246272)\/"
+        "Date":  "\/Date(1424080835611)\/"
     },
     {
         "Title":  "2000AD",
@@ -2877,7 +2893,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871246436)\/"
+        "Date":  "\/Date(1424080835770)\/"
     },
     {
         "Title":  "2000AD",
@@ -2893,7 +2909,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871246596)\/"
+        "Date":  "\/Date(1424080835924)\/"
     },
     {
         "Title":  "2000AD",
@@ -2909,7 +2925,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871246765)\/"
+        "Date":  "\/Date(1424080836084)\/"
     },
     {
         "Title":  "2000AD",
@@ -2925,7 +2941,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871246930)\/"
+        "Date":  "\/Date(1424080836238)\/"
     },
     {
         "Title":  "2000AD",
@@ -2941,7 +2957,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871247089)\/"
+        "Date":  "\/Date(1424080836392)\/"
     },
     {
         "Title":  "2000AD",
@@ -2957,7 +2973,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871247257)\/"
+        "Date":  "\/Date(1424080836549)\/"
     },
     {
         "Title":  "2000AD",
@@ -2973,7 +2989,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871247490)\/"
+        "Date":  "\/Date(1424080836708)\/"
     },
     {
         "Title":  "2000AD",
@@ -2989,6 +3005,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1422871247664)\/"
+        "Date":  "\/Date(1424080836861)\/"
     }
 ]

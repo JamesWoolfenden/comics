@@ -4,16 +4,16 @@
         "Issue":  "1A",
         "Cover":  1,
         "TotalCost":  "7.50",
-        "Mean":  7.5007039800995017,
-        "AveragePrice":  6.8872711442786079,
-        "CurrentPrice":  4.198,
+        "Mean":  7.4958406862745095,
+        "AveragePrice":  6.8742230392156864,
+        "CurrentPrice":  3.6,
         "Minimum":  1.25,
         "Maximum":  15,
-        "Count":  67,
+        "Count":  68,
         "AveragePaid":  2.1,
         "AverageNetPaid":  1.85,
         "Stock":  2,
-        "Date":  "\/Date(1423477464664)\/"
+        "Date":  "\/Date(1424081040707)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477465930)\/"
+        "Date":  "\/Date(1424081040857)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477467327)\/"
+        "Date":  "\/Date(1424081041060)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.55,
         "AverageNetPaid":  2.3,
         "Stock":  2,
-        "Date":  "\/Date(1423477468896)\/"
+        "Date":  "\/Date(1424081041270)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -77,7 +77,7 @@
         "AveragePaid":  2.99,
         "AverageNetPaid":  0.99,
         "Stock":  1,
-        "Date":  "\/Date(1423477470496)\/"
+        "Date":  "\/Date(1424081041476)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -86,14 +86,14 @@
         "TotalCost":  "4.12",
         "Mean":  4.121666666666667,
         "AveragePrice":  3.7716666666666669,
-        "CurrentPrice":  4.086,
+        "CurrentPrice":  4.0260000000000007,
         "Minimum":  2.2,
         "Maximum":  7.85,
         "Count":  6,
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1423477472082)\/"
+        "Date":  "\/Date(1424081041665)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -109,7 +109,7 @@
         "AveragePaid":  8.1900000000000013,
         "AverageNetPaid":  5.19,
         "Stock":  1,
-        "Date":  "\/Date(1423477473624)\/"
+        "Date":  "\/Date(1424081041878)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477475007)\/"
+        "Date":  "\/Date(1424081042089)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477476245)\/"
+        "Date":  "\/Date(1424081042272)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -157,7 +157,7 @@
         "AveragePaid":  0.75,
         "AverageNetPaid":  0.75,
         "Stock":  6,
-        "Date":  "\/Date(1423477477440)\/"
+        "Date":  "\/Date(1424081042526)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -173,7 +173,7 @@
         "AveragePaid":  3.99,
         "AverageNetPaid":  3.99,
         "Stock":  2,
-        "Date":  "\/Date(1423477478940)\/"
+        "Date":  "\/Date(1424081042734)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -189,7 +189,7 @@
         "AveragePaid":  12.85,
         "AverageNetPaid":  10,
         "Stock":  1,
-        "Date":  "\/Date(1423477480575)\/"
+        "Date":  "\/Date(1424081042930)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477482246)\/"
+        "Date":  "\/Date(1424081043088)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -221,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477483461)\/"
+        "Date":  "\/Date(1424081043245)\/"
     },
     {
         "Title":  "Sex Criminals",
@@ -237,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477484653)\/"
+        "Date":  "\/Date(1424081043413)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -253,7 +253,7 @@
         "AveragePaid":  2.43,
         "AverageNetPaid":  1.5550000000000002,
         "Stock":  2,
-        "Date":  "\/Date(1423477485935)\/"
+        "Date":  "\/Date(1424081043680)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -269,7 +269,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1423477487420)\/"
+        "Date":  "\/Date(1424081043854)\/"
     },
     {
         "Title":  "Sex Criminals",
@@ -285,7 +285,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1423477488813)\/"
+        "Date":  "\/Date(1424081044064)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -301,7 +301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477490097)\/"
+        "Date":  "\/Date(1424081044224)\/"
     },
     {
         "Title":  "Sex Criminals",
@@ -317,7 +317,7 @@
         "AveragePaid":  3.6333333333333333,
         "AverageNetPaid":  2.7333333333333329,
         "Stock":  3,
-        "Date":  "\/Date(1423477491464)\/"
+        "Date":  "\/Date(1424081044456)\/"
     },
     {
         "Title":  "Sex Criminals",
@@ -333,7 +333,7 @@
         "AveragePaid":  3.5,
         "AverageNetPaid":  3.5,
         "Stock":  1,
-        "Date":  "\/Date(1423477492726)\/"
+        "Date":  "\/Date(1424081044696)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -349,7 +349,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477493918)\/"
+        "Date":  "\/Date(1424081044913)\/"
     },
     {
         "Title":  "Sex Criminals",
@@ -365,7 +365,7 @@
         "AveragePaid":  2.6700000000000004,
         "AverageNetPaid":  2.13,
         "Stock":  5,
-        "Date":  "\/Date(1423477495373)\/"
+        "Date":  "\/Date(1424081045170)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -381,7 +381,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477496591)\/"
+        "Date":  "\/Date(1424081045361)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -397,7 +397,7 @@
         "AveragePaid":  2.425,
         "AverageNetPaid":  2.3,
         "Stock":  4,
-        "Date":  "\/Date(1423477497810)\/"
+        "Date":  "\/Date(1424081045558)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -413,7 +413,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1423477498934)\/"
+        "Date":  "\/Date(1424081045750)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -429,7 +429,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477500264)\/"
+        "Date":  "\/Date(1424081045992)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -445,7 +445,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477501777)\/"
+        "Date":  "\/Date(1424081046147)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -461,23 +461,23 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477503280)\/"
+        "Date":  "\/Date(1424081046365)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
         "Issue":  "8",
         "Cover":  8,
-        "TotalCost":  "3.65",
-        "Mean":  3.6480000000000006,
-        "AveragePrice":  3.3880000000000003,
-        "CurrentPrice":  3.3880000000000003,
-        "Minimum":  2.1,
+        "TotalCost":  "3.62",
+        "Mean":  3.6233333333333331,
+        "AveragePrice":  3.1566666666666667,
+        "CurrentPrice":  3.068,
+        "Minimum":  2,
         "Maximum":  3.99,
-        "Count":  5,
+        "Count":  6,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477504737)\/"
+        "Date":  "\/Date(1424081046553)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -493,23 +493,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477506087)\/"
+        "Date":  "\/Date(1424081046704)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "20.64",
-        "Mean":  20.643466666666676,
-        "AveragePrice":  18.561466666666668,
-        "CurrentPrice":  18.9,
+        "TotalCost":  "20.84",
+        "Mean":  20.840263157894746,
+        "AveragePrice":  18.739605263157895,
+        "CurrentPrice":  20.419999999999998,
         "Minimum":  1.7,
         "Maximum":  60,
-        "Count":  75,
+        "Count":  76,
         "AveragePaid":  4,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1423477507375)\/"
+        "Date":  "\/Date(1424081047065)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -525,7 +525,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477508584)\/"
+        "Date":  "\/Date(1424081047261)\/"
     },
     {
         "Title":  "SEX CRIMINALS",
@@ -541,6 +541,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477509743)\/"
+        "Date":  "\/Date(1424081047417)\/"
     }
 ]

@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477597708)\/"
+        "Date":  "\/Date(1424081060916)\/"
     },
     {
         "Title":  "STARLORD",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477599001)\/"
+        "Date":  "\/Date(1424081061085)\/"
     },
     {
         "Title":  "STARLORD",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477600528)\/"
+        "Date":  "\/Date(1424081061236)\/"
     },
     {
         "Title":  "STARLORD",
@@ -61,23 +61,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477602250)\/"
+        "Date":  "\/Date(1424081061391)\/"
     },
     {
         "Title":  "STARLORD",
         "Issue":  "1981",
         "Cover":  1981,
-        "TotalCost":  "4.30",
-        "Mean":  4.3,
-        "AveragePrice":  1.5,
-        "CurrentPrice":  1.5,
-        "Minimum":  1.5,
+        "TotalCost":  "4.05",
+        "Mean":  4.045,
+        "AveragePrice":  1.245,
+        "CurrentPrice":  1.245,
+        "Minimum":  0.99,
         "Maximum":  1.5,
-        "Count":  1,
+        "Count":  2,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477603565)\/"
+        "Date":  "\/Date(1424081061542)\/"
     },
     {
         "Title":  "STARLORD",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477604877)\/"
+        "Date":  "\/Date(1424081061698)\/"
     },
     {
         "Title":  "STARLORD",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477605999)\/"
+        "Date":  "\/Date(1424081061853)\/"
     },
     {
         "Title":  "STARLORD",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477607138)\/"
+        "Date":  "\/Date(1424081062011)\/"
     },
     {
         "Title":  "STARLORD",
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477608332)\/"
+        "Date":  "\/Date(1424081062170)\/"
     },
     {
         "Title":  "STARLORD",
@@ -157,7 +157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477609525)\/"
+        "Date":  "\/Date(1424081062323)\/"
     },
     {
         "Title":  "STARLORD",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477610693)\/"
+        "Date":  "\/Date(1424081062557)\/"
     },
     {
         "Title":  "STARLORD",
@@ -189,6 +189,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477612314)\/"
+        "Date":  "\/Date(1424081062711)\/"
     }
 ]

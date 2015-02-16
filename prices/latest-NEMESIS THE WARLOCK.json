@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477093421)\/"
+        "Date":  "\/Date(1424080983938)\/"
     },
     {
         "Title":  "Nemesis the Warlock",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477094559)\/"
+        "Date":  "\/Date(1424080984085)\/"
     },
     {
         "Title":  "Nemesis the Warlock",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477095764)\/"
+        "Date":  "\/Date(1424080984229)\/"
     },
     {
         "Title":  "Nemesis the Warlock",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477096956)\/"
+        "Date":  "\/Date(1424080984380)\/"
     },
     {
         "Title":  "Nemesis the Warlock",
@@ -77,7 +77,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477098101)\/"
+        "Date":  "\/Date(1424080984526)\/"
     },
     {
         "Title":  "Nemesis the Warlock",
@@ -93,7 +93,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477099376)\/"
+        "Date":  "\/Date(1424080984673)\/"
     },
     {
         "Title":  "NEMESIS THE WARLOCK",
@@ -109,22 +109,22 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477100894)\/"
+        "Date":  "\/Date(1424080984829)\/"
     },
     {
         "Title":  "NEMESIS THE WARLOCK",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "10.99",
-        "Mean":  10.993333333333332,
-        "AveragePrice":  10.993333333333332,
-        "CurrentPrice":  10.993333333333332,
-        "Minimum":  3,
+        "TotalCost":  "8.87",
+        "Mean":  8.87,
+        "AveragePrice":  8.495,
+        "CurrentPrice":  8.495,
+        "Minimum":  1,
         "Maximum":  19.99,
-        "Count":  3,
+        "Count":  4,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477102423)\/"
+        "Date":  "\/Date(1424080984982)\/"
     }
 ]

@@ -1,6 +1,38 @@
 [
     {
         "Title":  "STRONTIUM DOG",
+        "Issue":  "1",
+        "Cover":  1,
+        "TotalCost":  "2.49",
+        "Mean":  2.49,
+        "AveragePrice":  0.99,
+        "CurrentPrice":  0.99,
+        "Minimum":  0.99,
+        "Maximum":  0.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1424081062994)\/"
+    },
+    {
+        "Title":  "STRONTIUM DOG",
+        "Issue":  "14",
+        "Cover":  14,
+        "TotalCost":  "2.94",
+        "Mean":  2.94,
+        "AveragePrice":  0.99,
+        "CurrentPrice":  0.99,
+        "Minimum":  0.99,
+        "Maximum":  0.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1424081063142)\/"
+    },
+    {
+        "Title":  "STRONTIUM DOG",
         "Issue":  "18",
         "Cover":  18,
         "TotalCost":  "1.99",
@@ -13,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477614796)\/"
+        "Date":  "\/Date(1424081063289)\/"
     },
     {
         "Title":  "STRONTIUM DOG",
@@ -29,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477616477)\/"
+        "Date":  "\/Date(1424081063437)\/"
     },
     {
         "Title":  "STRONTIUM DOG",
@@ -45,6 +77,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477617875)\/"
+        "Date":  "\/Date(1424081063589)\/"
     }
 ]

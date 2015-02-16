@@ -1,6 +1,22 @@
 [
     {
         "Title":  "PHONOGRAM",
+        "Issue":  "1",
+        "Cover":  1,
+        "TotalCost":  "2.79",
+        "Mean":  2.79,
+        "AveragePrice":  1.04,
+        "CurrentPrice":  1.04,
+        "Minimum":  1.04,
+        "Maximum":  1.04,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1424080998118)\/"
+    },
+    {
+        "Title":  "PHONOGRAM",
         "Issue":  "2",
         "Cover":  2,
         "TotalCost":  "3.86",
@@ -13,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477181035)\/"
+        "Date":  "\/Date(1424080998271)\/"
     },
     {
         "Title":  "PHONOGRAM",
@@ -29,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477182558)\/"
+        "Date":  "\/Date(1424080998421)\/"
     },
     {
         "Title":  "PHONOGRAM",
@@ -45,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477184054)\/"
+        "Date":  "\/Date(1424080998572)\/"
     },
     {
         "Title":  "PHONOGRAM",
@@ -61,6 +77,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477185476)\/"
+        "Date":  "\/Date(1424080998725)\/"
     }
 ]

@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476199684)\/"
+        "Date":  "\/Date(1424080847843)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476200927)\/"
+        "Date":  "\/Date(1424080848007)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -45,22 +45,22 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476202018)\/"
+        "Date":  "\/Date(1424080848165)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "6.62",
-        "Mean":  6.6225000000000005,
-        "AveragePrice":  4.1125000000000007,
-        "CurrentPrice":  4.1125,
+        "TotalCost":  "7.96",
+        "Mean":  7.9580000000000011,
+        "AveragePrice":  5.6,
+        "CurrentPrice":  5.6000000000000005,
         "Minimum":  2.2,
-        "Maximum":  7.1,
-        "Count":  4,
+        "Maximum":  11.55,
+        "Count":  5,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476203234)\/"
+        "Date":  "\/Date(1424080848371)\/"
     }
 ]

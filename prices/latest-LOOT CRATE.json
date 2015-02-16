@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476867915)\/"
+        "Date":  "\/Date(1424080948951)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476869091)\/"
+        "Date":  "\/Date(1424080949103)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476870251)\/"
+        "Date":  "\/Date(1424080949318)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476871447)\/"
+        "Date":  "\/Date(1424080949477)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476872852)\/"
+        "Date":  "\/Date(1424080949634)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476873984)\/"
+        "Date":  "\/Date(1424080949783)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476875250)\/"
+        "Date":  "\/Date(1424080949931)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476876624)\/"
+        "Date":  "\/Date(1424080950079)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -134,13 +134,13 @@
         "TotalCost":  "8.84",
         "Mean":  8.8352380952380969,
         "AveragePrice":  6.6821428571428578,
-        "CurrentPrice":  5.11,
+        "CurrentPrice":  5.1099999999999994,
         "Minimum":  0.99,
         "Maximum":  12,
         "Count":  42,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476877843)\/"
+        "Date":  "\/Date(1424080950317)\/"
     }
 ]

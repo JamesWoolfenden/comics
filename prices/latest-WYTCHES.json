@@ -13,7 +13,7 @@
         "AveragePaid":  2.62,
         "AverageNetPaid":  2.12,
         "Stock":  5,
-        "Date":  "\/Date(1423479310269)\/"
+        "Date":  "\/Date(1424081385117)\/"
     },
     {
         "Title":  "WYTCHES",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479311450)\/"
+        "Date":  "\/Date(1424081385264)\/"
     },
     {
         "Title":  "WYTCHES",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479312600)\/"
+        "Date":  "\/Date(1424081385427)\/"
     },
     {
         "Title":  "WYTCHES",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479313819)\/"
+        "Date":  "\/Date(1424081385576)\/"
     },
     {
         "Title":  "WYTCHES",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479314960)\/"
+        "Date":  "\/Date(1424081385723)\/"
     },
     {
         "Title":  "WYTCHES",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479316152)\/"
+        "Date":  "\/Date(1424081385889)\/"
     },
     {
         "Title":  "WYTCHES",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479317282)\/"
+        "Date":  "\/Date(1424081386041)\/"
     },
     {
         "Title":  "WYTCHES",
@@ -125,23 +125,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479318434)\/"
+        "Date":  "\/Date(1424081386229)\/"
     },
     {
         "Title":  "WYTCHES",
         "Issue":  "1NYCC",
         "Cover":  1,
-        "TotalCost":  "45.98",
-        "Mean":  45.975625,
-        "AveragePrice":  43.563125,
-        "CurrentPrice":  50.6,
+        "TotalCost":  "45.87",
+        "Mean":  45.871764705882356,
+        "AveragePrice":  43.412941176470589,
+        "CurrentPrice":  53.802,
         "Minimum":  11.99,
         "Maximum":  77,
-        "Count":  16,
+        "Count":  17,
         "AveragePaid":  12.49,
         "AverageNetPaid":  11.99,
         "Stock":  1,
-        "Date":  "\/Date(1423479319569)\/"
+        "Date":  "\/Date(1424081386439)\/"
     },
     {
         "Title":  "WYTCHES",
@@ -157,7 +157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479320756)\/"
+        "Date":  "\/Date(1424081386614)\/"
     },
     {
         "Title":  "WYTCHES",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479321938)\/"
+        "Date":  "\/Date(1424081386774)\/"
     },
     {
         "Title":  "WYTCHES",
@@ -189,7 +189,7 @@
         "AveragePaid":  3.99,
         "AverageNetPaid":  3.99,
         "Stock":  1,
-        "Date":  "\/Date(1423479323055)\/"
+        "Date":  "\/Date(1424081386935)\/"
     },
     {
         "Title":  "WYTCHES",
@@ -205,23 +205,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479324187)\/"
+        "Date":  "\/Date(1424081387096)\/"
     },
     {
         "Title":  "WYTCHES",
         "Issue":  "2PHANTOM",
         "Cover":  2,
-        "TotalCost":  "9.14",
-        "Mean":  9.1440000000000019,
-        "AveragePrice":  7.664,
-        "CurrentPrice":  7.664,
+        "TotalCost":  "9.12",
+        "Mean":  9.1183333333333341,
+        "AveragePrice":  7.8850000000000016,
+        "CurrentPrice":  6.2640000000000011,
         "Minimum":  2.62,
         "Maximum":  15.99,
-        "Count":  5,
+        "Count":  6,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479325321)\/"
+        "Date":  "\/Date(1424081387275)\/"
     },
     {
         "Title":  "WYTCHES",
@@ -237,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479326455)\/"
+        "Date":  "\/Date(1424081387466)\/"
     },
     {
         "Title":  "wytches",
@@ -253,23 +253,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479327600)\/"
+        "Date":  "\/Date(1424081387619)\/"
     },
     {
         "Title":  "WYTCHES",
         "Issue":  "2THOUGHTBUBBLE",
         "Cover":  2,
-        "TotalCost":  "31.50",
-        "Mean":  31.501818181818187,
-        "AveragePrice":  29.618181818181817,
-        "CurrentPrice":  15.762,
+        "TotalCost":  "31.10",
+        "Mean":  31.104705882352945,
+        "AveragePrice":  29.188235294117646,
+        "CurrentPrice":  15.362,
         "Minimum":  13.51,
         "Maximum":  79.95,
-        "Count":  33,
+        "Count":  34,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479328713)\/"
+        "Date":  "\/Date(1424081387883)\/"
     },
     {
         "Title":  "WYTCHES",
@@ -285,38 +285,38 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479329876)\/"
+        "Date":  "\/Date(1424081388050)\/"
     },
     {
         "Title":  "WYTCHES",
         "Issue":  "3",
         "Cover":  3,
-        "TotalCost":  "2.62",
-        "Mean":  2.62,
-        "AveragePrice":  1.3,
-        "CurrentPrice":  1.3,
+        "TotalCost":  "2.73",
+        "Mean":  2.7333333333333329,
+        "AveragePrice":  1.4366666666666668,
+        "CurrentPrice":  1.4366666666666668,
         "Minimum":  0.4,
         "Maximum":  2.2,
-        "Count":  2,
+        "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423479331041)\/"
+        "Date":  "\/Date(1424081388233)\/"
     },
     {
         "Title":  "WYTCHES",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "17.26",
-        "Mean":  17.255000000000003,
-        "AveragePrice":  14.7155,
-        "CurrentPrice":  14.530000000000001,
+        "TotalCost":  "17.07",
+        "Mean":  17.068260869565218,
+        "AveragePrice":  14.594782608695652,
+        "CurrentPrice":  13.053999999999998,
         "Minimum":  5,
         "Maximum":  39,
-        "Count":  20,
+        "Count":  23,
         "AveragePaid":  11.5,
         "AverageNetPaid":  8.3,
         "Stock":  1,
-        "Date":  "\/Date(1423479332185)\/"
+        "Date":  "\/Date(1424081388452)\/"
     }
 ]

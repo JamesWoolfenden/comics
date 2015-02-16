@@ -3,17 +3,17 @@
         "Title":  "TREES",
         "Issue":  "1",
         "Cover":  1,
-        "TotalCost":  "3.99",
-        "Mean":  3.98686274509804,
-        "AveragePrice":  3.3005882352941174,
-        "CurrentPrice":  1.3820000000000001,
+        "TotalCost":  "4.02",
+        "Mean":  4.0161538461538466,
+        "AveragePrice":  3.3007692307692307,
+        "CurrentPrice":  1.846,
         "Minimum":  0.99,
         "Maximum":  7.95,
-        "Count":  51,
+        "Count":  52,
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1423478610738)\/"
+        "Date":  "\/Date(1424081239445)\/"
     },
     {
         "Title":  "TREES",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423478611924)\/"
+        "Date":  "\/Date(1424081239592)\/"
     },
     {
         "Title":  "TREES",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423478613138)\/"
+        "Date":  "\/Date(1424081239793)\/"
     },
     {
         "Title":  "TREES",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423478614496)\/"
+        "Date":  "\/Date(1424081239981)\/"
     },
     {
         "Title":  "TREES",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423478615712)\/"
+        "Date":  "\/Date(1424081240174)\/"
     },
     {
         "Title":  "TREES",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423478616855)\/"
+        "Date":  "\/Date(1424081240341)\/"
     },
     {
         "Title":  "TREES",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423478618023)\/"
+        "Date":  "\/Date(1424081240494)\/"
     },
     {
         "Title":  "TREES",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423478619239)\/"
+        "Date":  "\/Date(1424081240649)\/"
     },
     {
         "Title":  "TREES",
@@ -134,13 +134,13 @@
         "TotalCost":  "8.14",
         "Mean":  8.1438888888888883,
         "AveragePrice":  6.4255555555555564,
-        "CurrentPrice":  8.098,
+        "CurrentPrice":  6.042,
         "Minimum":  0.99,
         "Maximum":  19.2,
         "Count":  36,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423478620424)\/"
+        "Date":  "\/Date(1424081240932)\/"
     }
 ]

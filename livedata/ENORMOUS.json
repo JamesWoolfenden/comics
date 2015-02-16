@@ -8,7 +8,7 @@
         "variant":  "5 CVR A CHEGGOUR",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:38:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:33:30 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "5 CVR B HUERTA",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:38:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:33:30 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "6 CVR A CHEGGOUR",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:38:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:33:30 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "6 CVR B LORIMER",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:38:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:33:30 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "ENORMOUS TP VOL 01",
         "price":  6.75,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:38:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:33:30 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "ENORMOUS TP VOL 01",
         "price":  7.13,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:38:30 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:33:30 GMT+0000 (UTC)",
         "site":  "Disposable Heroes"
     },
     {
@@ -79,7 +79,18 @@
         "issue":  "6 ",
         "variant":  "6 ",
         "price":  9.99,
-        "rundate":  "Sat Feb 14 2015 17:38:41 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:33:42 GMT+0000 (UTC)",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/127791-enormous-6-cover-a-cheggour/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/127791-enormous-6-cover-a-cheggour/\"\u003ehttps://forbiddenplanet.com/127791-enormous-6-cover-a-cheggour/\u003c/a\u003e",
+        "orderdate":  "",
+        "title":  "ENORMOUS",
+        "issue":  "6 ",
+        "variant":  "Cover A Cheggour",
+        "price":  2.65,
+        "rundate":  "Mon Feb 16 2015 10:33:42 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -90,7 +101,7 @@
         "issue":  "4C ",
         "variant":  "ComicXposure Exclusive Variant",
         "price":  15.99,
-        "rundate":  "Sat Feb 14 2015 17:38:41 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:33:42 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
@@ -101,19 +112,20 @@
         "issue":  "4D ",
         "variant":  "ComicXposure Exclusive Variant",
         "price":  19.99,
-        "rundate":  "Sat Feb 14 2015 17:38:41 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:33:42 GMT+0000 (UTC)",
         "site":  "Forbidden Planet"
     },
     {
-        "link":  "https://forbiddenplanet.com/124592-enormous-1-bw-phantom-variant-special-edition/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/124592-enormous-1-bw-phantom-variant-special-edition/\"\u003ehttps://forbiddenplanet.com/124592-enormous-1-bw-phantom-variant-special-edition/\u003c/a\u003e",
-        "orderdate":  "",
+        "link":  "http://www.ebay.co.uk/itm/Enormous-2-6-Mixture-of-covers-A-and-B-/111599274142?pt=LH_DefaultDomain_3\u0026hash=item19fbd5c89e",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-2-6-Mixture-of-covers-A-and-B-/111599274142?pt=LH_DefaultDomain_3\u0026hash=item19fbd5c89e\"\u003ehttp://www.ebay.co.uk/itm/Enormous-2-6-Mixture-of-covers-A-and-B-/111599274142?pt=LH_DefaultDomain_3\u0026hash=item19fbd5c89e\u003c/a\u003e",
+        "orderdate":  null,
         "title":  "ENORMOUS",
-        "issue":  "1 ",
-        "variant":  "B\u0026W Phantom Variant Special Edition",
-        "price":  19.99,
-        "rundate":  "Sat Feb 14 2015 17:38:41 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
+        "issue":  "",
+        "variant":  "SET",
+        "price":  75,
+        "currency":  "\u0026pound;",
+        "rundate":  "16-2-2015",
+        "site":  "Auction"
     },
     {
         "link":  "http://uk.ebid.net/for-sale/enormous-1-nm-image-215-ink-phantom-variant-scarce-2014-136313537.htm",
@@ -124,7 +136,7 @@
         "variant":  "1PHANTOM",
         "price":  10.95,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -136,43 +148,43 @@
         "variant":  "4B",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-1-2nd-Print-215-Ink-Tim-Daniel-Mehdi-Cheggour-NEW-1-Unread-/221672196059?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339cb147db",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-1-2nd-Print-215-Ink-Tim-Daniel-Mehdi-Cheggour-NEW-1-Unread-/221672196059?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339cb147db\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-1-2nd-Print-215-Ink-Tim-Daniel-Mehdi-Cheggour-NEW-1-Unread-/221672196059?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item339cb147db\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-1-RARE-PHANTOM-VARIANT-1st-PRINT-215-INK-20th-CENTURY-FOX-TV-/161602580297?pt=LH_DefaultDomain_3\u0026hash=item25a043af49",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-1-RARE-PHANTOM-VARIANT-1st-PRINT-215-INK-20th-CENTURY-FOX-TV-/161602580297?pt=LH_DefaultDomain_3\u0026hash=item25a043af49\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-1-RARE-PHANTOM-VARIANT-1st-PRINT-215-INK-20th-CENTURY-FOX-TV-/161602580297?pt=LH_DefaultDomain_3\u0026hash=item25a043af49\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
         "issue":  "1",
-        "variant":  "1C",
-        "price":  10.99,
+        "variant":  "1PHANTOM",
+        "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-3-1st-PRINT-215-INK-COMICS-NM-NEW-UNREAD-/231467064884?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e4831e34",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-3-1st-PRINT-215-INK-COMICS-NM-NEW-UNREAD-/231467064884?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e4831e34\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-3-1st-PRINT-215-INK-COMICS-NM-NEW-UNREAD-/231467064884?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e4831e34\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-2-REGULAR-COVER-1st-PRINT-215-INK-20th-CENTURY-FOX-TV-/161602590808?pt=LH_DefaultDomain_3\u0026hash=item25a043d858",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-2-REGULAR-COVER-1st-PRINT-215-INK-20th-CENTURY-FOX-TV-/161602590808?pt=LH_DefaultDomain_3\u0026hash=item25a043d858\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-2-REGULAR-COVER-1st-PRINT-215-INK-20th-CENTURY-FOX-TV-/161602590808?pt=LH_DefaultDomain_3\u0026hash=item25a043d858\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
-        "issue":  "3",
-        "variant":  "3",
+        "issue":  "2",
+        "variant":  "2A",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-4-1st-PRINT-215-INK-COMICS-NM-NEW-UNREAD-/231467065910?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e4832236",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-4-1st-PRINT-215-INK-COMICS-NM-NEW-UNREAD-/231467065910?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e4832236\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-4-1st-PRINT-215-INK-COMICS-NM-NEW-UNREAD-/231467065910?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item35e4832236\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-1-2014-X2-Variant-Covers-1st-Print-Comic-Book-NM-FREE-P-P-/181668252635?pt=LH_DefaultDomain_3\u0026hash=item2a4c458bdb",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-1-2014-X2-Variant-Covers-1st-Print-Comic-Book-NM-FREE-P-P-/181668252635?pt=LH_DefaultDomain_3\u0026hash=item2a4c458bdb\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-1-2014-X2-Variant-Covers-1st-Print-Comic-Book-NM-FREE-P-P-/181668252635?pt=LH_DefaultDomain_3\u0026hash=item2a4c458bdb\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
-        "issue":  "4",
-        "variant":  "4A",
-        "price":  3.99,
+        "issue":  "",
+        "variant":  "SET",
+        "price":  45,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -184,7 +196,7 @@
         "variant":  "SET",
         "price":  14.95,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -196,7 +208,7 @@
         "variant":  "4A",
         "price":  9.95,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -208,7 +220,7 @@
         "variant":  "1OVERSIZEVARIANT",
         "price":  29.95,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -220,7 +232,7 @@
         "variant":  "1PHANTOM",
         "price":  39.95,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -232,7 +244,7 @@
         "variant":  "4B",
         "price":  6.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -244,31 +256,7 @@
         "variant":  "4A",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-4-215-RED-INK-/331461905142?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cab4af6",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-4-215-RED-INK-/331461905142?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cab4af6\"\u003ehttp://www.ebay.co.uk/itm/Enormous-4-215-RED-INK-/331461905142?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cab4af6\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "4",
-        "variant":  "4A",
-        "price":  3.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-4-CVR-A-AND-B-215-RED-INK-/331461912032?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cab65e0",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-4-CVR-A-AND-B-215-RED-INK-/331461912032?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cab65e0\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-4-CVR-A-AND-B-215-RED-INK-/331461912032?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2cab65e0\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  7.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -280,7 +268,7 @@
         "variant":  "6A",
         "price":  3.75,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -292,7 +280,19 @@
         "variant":  "6B",
         "price":  3.75,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Enormous-4A-215-RED-INK-first-print-science-fiction-B-B-/331481081858?pt=LH_DefaultDomain_3\u0026hash=item4d2dcfe802",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-4A-215-RED-INK-first-print-science-fiction-B-B-/331481081858?pt=LH_DefaultDomain_3\u0026hash=item4d2dcfe802\"\u003ehttp://www.ebay.co.uk/itm/Enormous-4A-215-RED-INK-first-print-science-fiction-B-B-/331481081858?pt=LH_DefaultDomain_3\u0026hash=item4d2dcfe802\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "4",
+        "variant":  "4A",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -304,55 +304,7 @@
         "variant":  "1OVERSIZE",
         "price":  49.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-1-2-3-4-5-6-FIRST-PRINTS-COVER-A-SET-20TH-CENTURY-FOX-SERIES-/351314196595?pt=LH_DefaultDomain_3\u0026hash=item51cbf53873",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-1-2-3-4-5-6-FIRST-PRINTS-COVER-A-SET-20TH-CENTURY-FOX-SERIES-/351314196595?pt=LH_DefaultDomain_3\u0026hash=item51cbf53873\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-1-2-3-4-5-6-FIRST-PRINTS-COVER-A-SET-20TH-CENTURY-FOX-SERIES-/351314196595?pt=LH_DefaultDomain_3\u0026hash=item51cbf53873\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  99.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-1-2-3-4-5-6-FIRST-PRINTS-COVER-B-SET-20TH-CENTURY-FOX-SERIES-/351314200080?pt=LH_DefaultDomain_3\u0026hash=item51cbf54610",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-1-2-3-4-5-6-FIRST-PRINTS-COVER-B-SET-20TH-CENTURY-FOX-SERIES-/351314200080?pt=LH_DefaultDomain_3\u0026hash=item51cbf54610\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-1-2-3-4-5-6-FIRST-PRINTS-COVER-B-SET-20TH-CENTURY-FOX-SERIES-/351314200080?pt=LH_DefaultDomain_3\u0026hash=item51cbf54610\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  99.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-1-VF-NM-1ST-PRINT-215-INK-/351314798183?pt=LH_DefaultDomain_3\u0026hash=item51cbfe6667",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-1-VF-NM-1ST-PRINT-215-INK-/351314798183?pt=LH_DefaultDomain_3\u0026hash=item51cbfe6667\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-1-VF-NM-1ST-PRINT-215-INK-/351314798183?pt=LH_DefaultDomain_3\u0026hash=item51cbfe6667\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "1",
-        "variant":  "1B",
-        "price":  24.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-2-VF-NM-1ST-PRINT-215-INK-/351314799852?pt=LH_DefaultDomain_3\u0026hash=item51cbfe6cec",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-2-VF-NM-1ST-PRINT-215-INK-/351314799852?pt=LH_DefaultDomain_3\u0026hash=item51cbfe6cec\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-2-VF-NM-1ST-PRINT-215-INK-/351314799852?pt=LH_DefaultDomain_3\u0026hash=item51cbfe6cec\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "2",
-        "variant":  "2A",
-        "price":  19.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -364,7 +316,7 @@
         "variant":  "5A",
         "price":  3.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -376,7 +328,7 @@
         "variant":  "5B",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -388,7 +340,7 @@
         "variant":  "SET",
         "price":  14.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -400,7 +352,7 @@
         "variant":  "5A",
         "price":  3.4,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "16-2-2015",
         "site":  "Auction"
     },
     {
@@ -412,7 +364,7 @@
         "variant":  "ENORMOUS #4 CVR A CHEGGOUR [(W) Tim Daniel (A/CA) Mehdi Cheggour]",
         "price":  3.20,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:34:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -424,7 +376,7 @@
         "variant":  "ENORMOUS #5 CVR A CHEGGOUR [(W) Tim Daniel (A/CA) Mehdi Cheggour]",
         "price":  3.20,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:34:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -436,7 +388,7 @@
         "variant":  "ENORMOUS #6 CVR A CHEGGOUR [(W) Tim Daniel (A/CA) Mehdi Cheggour]",
         "price":  3.20,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:34:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -448,7 +400,7 @@
         "variant":  "SEP141664 ENORMOUS #6 CVR B LORIMER",
         "price":  3.20,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:09 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:34:09 GMT+0000 (UTC)",
         "site":  "Comic book shop"
     },
     {
@@ -458,9 +410,9 @@
         "title":  "ENORMOUS",
         "issue":  "5",
         "variant":  "5 COVER A MEHDI CHEGGOUR",
-        "price":  2.5913294400000001197,
+        "price":  2.5915847999999999601,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:34:18 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -470,9 +422,9 @@
         "title":  "ENORMOUS",
         "issue":  "5",
         "variant":  "5 COVER B ANDREW HUERTA",
-        "price":  2.5913294400000001197,
+        "price":  2.5915847999999999601,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:34:18 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -482,9 +434,9 @@
         "title":  "ENORMOUS",
         "issue":  "6",
         "variant":  "6 COVER B COLIN LORIMER",
-        "price":  2.2016558400000001017,
+        "price":  2.2018727999999999661,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:34:18 GMT+0000 (UTC)",
         "site":  "Midtown"
     },
     {
@@ -494,249 +446,9 @@
         "title":  "ENORMOUS",
         "issue":  "6",
         "variant":  "6 COVER A MEHDI CHEGGOUR",
-        "price":  2.2016558400000001017,
+        "price":  2.2018727999999999661,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:19 GMT+0000 (UTC)",
+        "rundate":  "Mon Feb 16 2015 10:34:18 GMT+0000 (UTC)",
         "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ENORMOUS-2-CVR-A-CHEGGOUR/sku/294464114.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ENORMOUS-2-CVR-A-CHEGGOUR/sku/294464114.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ENORMOUS-2-CVR-A-CHEGGOUR/sku/294464114.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "2",
-        "variant":  "#2 CVR A CHEGGOUR",
-        "price":  2.5913294400000001197,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ENORMOUS-3-CVR-A-CHEGGOUR/sku/294638378.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ENORMOUS-3-CVR-A-CHEGGOUR/sku/294638378.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ENORMOUS-3-CVR-A-CHEGGOUR/sku/294638378.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "3",
-        "variant":  "#3 CVR A CHEGGOUR",
-        "price":  2.5913294400000001197,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Exclusive-Hastings-Enormous-No1-Variant-Comic/sku/293964112.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Exclusive-Hastings-Enormous-No1-Variant-Comic/sku/293964112.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Exclusive-Hastings-Enormous-No1-Variant-Comic/sku/293964112.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  null,
-        "variant":  "EXCLUSIVE HASTINGS NO.1 VARIANT COMIC",
-        "price":  3.2407854400000001497,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ENORMOUS-1-CVR-A-CHEGGOUR/sku/294262390.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ENORMOUS-1-CVR-A-CHEGGOUR/sku/294262390.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ENORMOUS-1-CVR-A-CHEGGOUR/sku/294262390.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "1",
-        "variant":  "#1 CVR A CHEGGOUR",
-        "price":  2.5913294400000001197,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Enormous-Crocodile/sku/214755818.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Enormous-Crocodile/sku/214755818.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Enormous-Crocodile/sku/214755818.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  null,
-        "variant":  "THE CROCODILE",
-        "price":  0,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ENORMOUS-6-CVR-A-CHEGGOUR/sku/295001948.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ENORMOUS-6-CVR-A-CHEGGOUR/sku/295001948.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ENORMOUS-6-CVR-A-CHEGGOUR/sku/295001948.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "6",
-        "variant":  "#6 CVR A CHEGGOUR",
-        "price":  2.5913294400000001197,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Enormous-Crocodile/sku/281430673.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Enormous-Crocodile/sku/281430673.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Enormous-Crocodile/sku/281430673.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  null,
-        "variant":  "THE CROCODILE",
-        "price":  0,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ENORMOUS-5-CVR-A-CHEGGOUR/sku/294919222.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ENORMOUS-5-CVR-A-CHEGGOUR/sku/294919222.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ENORMOUS-5-CVR-A-CHEGGOUR/sku/294919222.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "5",
-        "variant":  "#5 CVR A CHEGGOUR",
-        "price":  2.5913294400000001197,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Mr-Wolf-and-the-Enormous-Turnip/sku/290498119.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Mr-Wolf-and-the-Enormous-Turnip/sku/290498119.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Mr-Wolf-and-the-Enormous-Turnip/sku/290498119.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  null,
-        "variant":  "MR WOLF AND THE TURNIP",
-        "price":  0,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Dr-Knowledge-Presents-Strange-and-Fascinating-Facts-about-the-PresidentsIncludes-George-Washingtons-Wooden-Teeth-William-Howard-Tafts-Enormous-Tub-and-the-Creepy-Commonalities-between-Lincoln-and-Kennedy/sku/209583160.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Dr-Knowledge-Presents-Strange-and-Fascinating-Facts-about-the-PresidentsIncludes-George-Washingtons-Wooden-Teeth-William-Howard-Tafts-Enormous-Tub-and-the-Creepy-Commonalities-between-Lincoln-and-Kennedy/sku/209583160.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Dr-Knowledge-Presents-Strange-and-Fascinating-Facts-about-the-PresidentsIncludes-George-Washingtons-Wooden-Teeth-William-Howard-Tafts-Enormous-Tub-and-the-Creepy-Commonalities-between-Lincoln-and-Kennedy/sku/209583160.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  null,
-        "variant":  "DR. KNOWLEDGE PRESENTS : STRANGE AND FASCINATING FACTS ABOUT THE PRESIDENTS:INCLUDES GEORGE WASHINGTONS WOODEN TEETH, WILLIAM HOWARD TAFTS TUB, AND THE CREEPY COMMONALITIES BETWEEN LINCOLN AND KENNEDY",
-        "price":  0,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ENORMOUS-4-CVR-A-CHEGGOUR/sku/294786996.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ENORMOUS-4-CVR-A-CHEGGOUR/sku/294786996.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ENORMOUS-4-CVR-A-CHEGGOUR/sku/294786996.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "4",
-        "variant":  "#4 CVR A CHEGGOUR",
-        "price":  2.5913294400000001197,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Enormous-Elephants/sku/294266025.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Enormous-Elephants/sku/294266025.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Enormous-Elephants/sku/294266025.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  null,
-        "variant":  "ELEPHANTS",
-        "price":  0,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Fantastic-Mr-Fox-and-Other-Animal-Stories-Includes-Esio-Trot-the-Enormous-Crocodile-and-the-Giraffe-and-the-Pelly-and-Me/sku/290821513.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Fantastic-Mr-Fox-and-Other-Animal-Stories-Includes-Esio-Trot-the-Enormous-Crocodile-and-the-Giraffe-and-the-Pelly-and-Me/sku/290821513.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Fantastic-Mr-Fox-and-Other-Animal-Stories-Includes-Esio-Trot-the-Enormous-Crocodile-and-the-Giraffe-and-the-Pelly-and-Me/sku/290821513.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  null,
-        "variant":  "FANTASTIC MR. FOX AND OTHER ANIMAL STORIES : INCLUDES ESIO TROT, THE CROCODILE AND THE GIRAFFE AND THE PELLY AND ME",
-        "price":  12.9566472000000005985,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Enormous-Crocodile/sku/281478459.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Enormous-Crocodile/sku/281478459.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Enormous-Crocodile/sku/281478459.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  null,
-        "variant":  "THE CROCODILE",
-        "price":  0,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ENORMOUS-5-CVR-B-HUERTA/sku/294919288.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ENORMOUS-5-CVR-B-HUERTA/sku/294919288.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ENORMOUS-5-CVR-B-HUERTA/sku/294919288.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "5",
-        "variant":  "#5 CVR B HUERTA",
-        "price":  2.5913294400000001197,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Enormous-Room/sku/276312194.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Enormous-Room/sku/276312194.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Enormous-Room/sku/276312194.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  null,
-        "variant":  "THE ROOM",
-        "price":  0,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Einsteins-Enormous-Error-A-Story-about-Forgiving-Others/sku/198464640.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Einsteins-Enormous-Error-A-Story-about-Forgiving-Others/sku/198464640.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Einsteins-Enormous-Error-A-Story-about-Forgiving-Others/sku/198464640.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  null,
-        "variant":  "EINSTEINS ERROR : A STORY ABOUT FORGIVING OTHERS",
-        "price":  0,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Enormous-Crocodile/sku/278374453.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Enormous-Crocodile/sku/278374453.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Enormous-Crocodile/sku/278374453.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  null,
-        "variant":  "THE CROCODILE",
-        "price":  4.6695886400000002157,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Enormous-Turnip/sku/293170814.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Enormous-Turnip/sku/293170814.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Enormous-Turnip/sku/293170814.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  null,
-        "variant":  "THE TURNIP",
-        "price":  0,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/The-Great-Big-Enormous-Book-of-Tashi/sku/287744664.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/The-Great-Big-Enormous-Book-of-Tashi/sku/287744664.uts\"\u003ehttp://www.gohastings.com/product/BOOK/The-Great-Big-Enormous-Book-of-Tashi/sku/287744664.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  null,
-        "variant":  "THE GREAT BIG BOOK OF TASHI",
-        "price":  14.6062654400000006747,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 17:39:25 GMT+0000 (UTC)",
-        "site":  "Hastings"
     }
 ]

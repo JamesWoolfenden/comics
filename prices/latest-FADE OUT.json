@@ -13,7 +13,7 @@
         "AveragePaid":  2.99,
         "AverageNetPaid":  2.99,
         "Stock":  1,
-        "Date":  "\/Date(1423476524845)\/"
+        "Date":  "\/Date(1424080898219)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -29,23 +29,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476527413)\/"
+        "Date":  "\/Date(1424080898366)\/"
     },
     {
         "Title":  "FADE OUT",
         "Issue":  "1DCBS",
         "Cover":  1,
-        "TotalCost":  "8.90",
-        "Mean":  8.8987500000000015,
-        "AveragePrice":  5.59875,
-        "CurrentPrice":  5.32,
-        "Minimum":  4.15,
+        "TotalCost":  "8.35",
+        "Mean":  8.3533333333333335,
+        "AveragePrice":  5.0866666666666669,
+        "CurrentPrice":  4.518,
+        "Minimum":  0.99,
         "Maximum":  7.99,
-        "Count":  8,
+        "Count":  9,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476528548)\/"
+        "Date":  "\/Date(1424080898531)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476529969)\/"
+        "Date":  "\/Date(1424080898704)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476531081)\/"
+        "Date":  "\/Date(1424080898857)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -93,22 +93,22 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476532237)\/"
+        "Date":  "\/Date(1424080899016)\/"
     },
     {
         "Title":  "FADE OUT",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "8.22",
-        "Mean":  8.2211111111111119,
-        "AveragePrice":  6.3455555555555563,
-        "CurrentPrice":  5.414,
+        "TotalCost":  "8.00",
+        "Mean":  7.99909090909091,
+        "AveragePrice":  6.01,
+        "CurrentPrice":  5.316,
         "Minimum":  2.07,
         "Maximum":  14.99,
-        "Count":  9,
+        "Count":  11,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423476533490)\/"
+        "Date":  "\/Date(1424080899201)\/"
     }
 ]

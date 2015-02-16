@@ -13,23 +13,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477657018)\/"
+        "Date":  "\/Date(1424081068662)\/"
     },
     {
         "Title":  "THE AGENTS",
         "Issue":  "1",
         "Cover":  1,
-        "TotalCost":  "11.93",
-        "Mean":  11.926,
-        "AveragePrice":  9.526,
-        "CurrentPrice":  9.526,
+        "TotalCost":  "11.90",
+        "Mean":  11.896666666666667,
+        "AveragePrice":  9.3966666666666665,
+        "CurrentPrice":  10.856,
         "Minimum":  2.1,
         "Maximum":  17.02,
-        "Count":  5,
+        "Count":  6,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477658204)\/"
+        "Date":  "\/Date(1424081068826)\/"
     },
     {
         "Title":  "The Agents",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477659374)\/"
+        "Date":  "\/Date(1424081068979)\/"
     },
     {
         "Title":  "The Agents",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477660834)\/"
+        "Date":  "\/Date(1424081069136)\/"
     },
     {
         "Title":  "The Agents",
@@ -77,7 +77,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477662141)\/"
+        "Date":  "\/Date(1424081069289)\/"
     },
     {
         "Title":  "The Agents",
@@ -93,7 +93,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477663537)\/"
+        "Date":  "\/Date(1424081069438)\/"
     },
     {
         "Title":  "the agents",
@@ -109,7 +109,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1423477664923)\/"
+        "Date":  "\/Date(1424081069592)\/"
     },
     {
         "Title":  "THE AGENTS",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477666286)\/"
+        "Date":  "\/Date(1424081069739)\/"
     },
     {
         "Title":  "THE AGENTS",
@@ -141,6 +141,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1423477667663)\/"
+        "Date":  "\/Date(1424081069893)\/"
     }
 ]
