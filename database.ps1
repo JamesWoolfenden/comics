@@ -1,5 +1,4 @@
 $connection= "Data Source=redwolfone.cloudapp.net;Initial Catalog=comics;User ID=comicsguru;Password=Faithle55;Trusted_Connection=False;Persist Security Info=False;"
-#$connection= "Data Source=redwolfone.cloudapp.net;Initial Catalog=comics;User ID=comicsguru;Password=Faithle55;Trusted_Connection=False;Encrypt=True;Connection Timeout=30"
 
 function get-pounds
 {   <#
@@ -89,9 +88,9 @@ function add-record
       .EXAMPLE
       C:\PS> add-record -title "The Walking Dead" -issue "1A" -price 12.5 -status CLOSED -bought $true -site FP -seller FP
       .EXAMPLE
-      C:\PS>add-record -title "The Walking Dead" -issue 122 -price 1.75 -status CLOSED -bought $true -site FP -seller FP -postage 0.67
+      C:\PS> add-record -title "The Walking Dead" -issue 122 -price 1.75 -status CLOSED -bought $true -site FP -seller FP -postage 0.67
       .EXAMPLE
-      C:\PS>add-record -title "The Walking Dead" -issue 123 -price 1.75 -status CLOSED -bought $true -site FP -seller FP -postage 0.67
+      C:\PS> add-record -title "The Walking Dead" -issue 123 -price 1.75 -status CLOSED -bought $true -site FP -seller FP -postage 0.67
       .EXAMPLE
       C:\PS> add-record -title "Manhattan Projects" -issue 18 -price 2.10 -status CLOSED -bought $true -site FP -seller FP -postage 0.67
         
@@ -126,8 +125,7 @@ function add-record
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString = "Data Source=redwolfone.cloudapp.net;Initial Catalog=comics;User ID=comicsguru;Password=Faithle55;Trusted_Connection=False;Persist Security Info=False;"
-   #$conn.ConnectionString = "Data Source=h6vxqj6255.database.windows.net;Initial Catalog=comics;User ID=comicsguru@h6vxqj6255;Password=Faithle55;Trusted_Connection=False;Encrypt=True;Connection Timeout=30"
-   
+ 
    $conn.open()
    
    $cmd = New-Object System.Data.SqlClient.SqlCommand
@@ -718,7 +716,8 @@ function update-issue
    $cmd.commandtext = "update comics set issue='$NewIssue' where title='$title' and issue='$OldIssue'"
 
    $result = $cmd.ExecuteNonQuery()
-   
+   $conn.Close()
+
    $oldimage=get-imagefilename -title $title -issue $Oldissue
    $newimage=get-imagefilename -title $title -issue $newissue
 
@@ -736,5 +735,4 @@ function update-issue
 
 
    Write-Host "Updated $result records"
-   $conn.Close()
 }
