@@ -59,7 +59,7 @@ function get-tfawdata
       $search="&kimpath2=$kimpath2&kimpath4=$kimpath4&kimpath5=_results_start_at_search=$($kimpath5.ToString())"
 
       $fullfilter=$search
-      $url="https://www.kimonolabs.com/api/7fuasgeu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+      $url="https://www.kimonolabs.com/api/ondemand/7fuasgeu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
       write-debug "$(Get-Date) - Accessing $url"
   
       try{
@@ -70,12 +70,6 @@ function get-tfawdata
          Write-Warning "$(Get-Date) No data returned from $url"
          return $null
       }
-
-      if ($tfawresults.lastrunstatus -eq "failure")
-      {
-         $tfawresults=$null
-         break
-      }
    
       $results+=$tfawresults.results.collection1|where {$_.title.text -like "*$title*"}
       $kimpath5+=$limit
@@ -84,6 +78,7 @@ function get-tfawdata
 
    $tfaw=@()
    $counter=0
+   $datetime=get-date
 
    Foreach($result in $results)
    {
@@ -109,7 +104,7 @@ function get-tfawdata
       $record| Add-Member -type NoteProperty -name variant  -value $variant
       $record| Add-Member -type NoteProperty -name price    -value $price
       $record| Add-Member -type NoteProperty -name currency -value "&pound;"
-      $record| Add-Member -type NoteProperty -name rundate  -value $tfawresults.lastsuccess
+      $record| Add-Member -type NoteProperty -name rundate  -value $datetime
       $record| Add-Member -type NoteProperty -name site     -value $site
 
       $tfaw+=$record

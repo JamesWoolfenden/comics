@@ -1,6 +1,5 @@
 import-module "$PSScriptRoot\auction.ps1" -force
 import-module "$PSScriptRoot\closeencounters.ps1" -force
-import-module "$PSScriptRoot\comicbookstore.ps1" -force
 import-module "$PSScriptRoot\fp.ps1" -force
 import-module "$PSScriptRoot\guru.ps1"  -force
 import-module "$PSScriptRoot\reed.ps1" -force

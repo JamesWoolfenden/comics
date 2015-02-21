@@ -37,7 +37,7 @@ function get-comicxposuredata
    $counter=0
    $arraycount=0
    $comicxposure=@()
-   
+   $datetime=get-date
    
    foreach($result in $results)
    {
@@ -67,7 +67,7 @@ function get-comicxposuredata
       $record| Add-Member -type NoteProperty -name variant  -value $variant
       $record| Add-Member -type NoteProperty -name price    -value ("{0:N2}" -f $price)
       $record| Add-Member -type NoteProperty -name currency -value "&pound;"
-      $record| Add-Member -type NoteProperty -name rundate  -value $(datestring)
+      $record| Add-Member -type NoteProperty -name rundate  -value $datetime
       $record| Add-Member -type NoteProperty -name site     -value "comicxposure"
 
       $comicxposure+=$record

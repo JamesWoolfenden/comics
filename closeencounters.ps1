@@ -17,7 +17,8 @@ function get-closeencountersdata
    $search="&name=$comic"
    $site="Close Encounters"
    $fullfilter=$search+"&limit=30"
-   $url="http://www.kimonolabs.com/api/9u9wvzya?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+   #$url="http://www.kimonolabs.com/api/9u9wvzya?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+   $url="https://www.kimonolabs.com/api/ondemand/9u9wvzya?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
 
    write-debug "Accessing $url"
    write-Host "$(Get-Date) - Looking for $($record.title) @ `"$site`""
@@ -36,27 +37,28 @@ function get-closeencountersdata
    11X x x
    50X x x
 #>
+   $counter=0
+   $closeencounters=@()
+   
    try
    {
       $ceresults=Invoke-RestMethod -Uri $url
+      $results= $ceresults.results.collection1
+      
+      if ($results -eq $null)
+      {
+         throw
+      }
    }
    catch
    {
       Write-Warning "$(Get-Date) No data returned from $url"
       return $null
    }
-   
-   if ($ceresults.lastrunstatus -eq "failure")
-   {
-      write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
-      return $null
-   }
 
-   $counter=0
-   $closeencounters=@()
-   $results= $ceresults.results.collection1
    $arraytitle=$title.split(" ")
 
+   $datetime=Get-Date
    foreach($part in $arraytitle)
    {
       $results = $results| where {$_.title.text -match $part}
@@ -107,7 +109,7 @@ function get-closeencountersdata
       $record| Add-Member -type NoteProperty -name variant -value $variant
       $record| Add-Member -type NoteProperty -name price -value $price.Amount
       $record| Add-Member -type NoteProperty -name currency -value $price.Currency
-      $record| Add-Member -type NoteProperty -name rundate -value $ceresults.lastsuccess
+      $record| Add-Member -type NoteProperty -name rundate -value $datetime
       $record| Add-Member -type NoteProperty -name site -value $site
 
       $closeencounters+=$record

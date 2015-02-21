@@ -62,6 +62,7 @@ q	walking+dead	&q=newvalue
    $counter=0
    $comicbooks=@()
    $results=$midtownresults.results.collection1
+   $datetime=get-date
 
    foreach($result in $results)
    {
@@ -99,7 +100,7 @@ q	walking+dead	&q=newvalue
       $record| Add-Member -type NoteProperty -name variant -value $variant
       $record| Add-Member -type NoteProperty -name price -value $price
       $record| Add-Member -type NoteProperty -name currency -value "&pound;"
-      $record| Add-Member -type NoteProperty -name rundate -value $midtownresults.lastsuccess
+      $record| Add-Member -type NoteProperty -name rundate -value $datetime
       $record| Add-Member -type NoteProperty -name site -value "Midtown"
 
       $comicbooks+=$record

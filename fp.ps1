@@ -13,7 +13,8 @@ function get-fpdata
    $size="&size=30"
    $fullfilter=$size+$filter+$search
    $site="Forbidden Planet"
-   $url="http://www.kimonolabs.com/api/ca9vxpfa?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+   #$url="https://www.kimonolabs.com/api/ca9vxpfa?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+   $url="https://www.kimonolabs.com/api/ondemand/ca9vxpfa?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-debug "Accessing $url"
    write-Host "$(Get-Date) - Looking for $title @ `"$site`""
 
@@ -33,23 +34,25 @@ function get-fpdata
 #>
    try
    {
-      $fpresults=Invoke-RestMethod -Uri $url
+      $fpresults=Invoke-RestMethod -Uri $url 
+      $results=$fpresults.results.collection1| where {$_.title -ne ""}
+      
+      if ($results -eq $null)
+      {
+         throw
+      }
    }
    catch
    {
       Write-Warning "$(Get-Date) No data returned from $url"
       return $null
    }
-
-   if ($fpresults.lastrunstatus -eq "failure")
-   {
-      write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
-      return $null
-   }
    
-   $results=$fpresults.results.collection1| where {$_.title -ne ""}
+  
    $counter=0
    $fp=@()
+
+   $datetime=Get-Date
 
    foreach($result in $results)
    {
@@ -104,7 +107,7 @@ function get-fpdata
       $record| Add-Member -type NoteProperty -name issue -value $issue
       $record| Add-Member -type NoteProperty -name variant -value $variant
       $record| Add-Member -type NoteProperty -name price -value $price
-      $record| Add-Member -type NoteProperty -name rundate -value $fpresults.lastsuccess
+      $record| Add-Member -type NoteProperty -name rundate -value $datetime
       $record| Add-Member -type NoteProperty -name site -value $site
       
       $fp+=$record

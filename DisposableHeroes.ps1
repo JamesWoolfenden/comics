@@ -20,7 +20,7 @@ function get-dhdata
    $comic=$title.replace(" ","+")
    $fullfilter="&name=$comic"
    $site="Disposable Heroes"
-   $url="http://www.kimonolabs.com/api/aaaaq44g?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+   $url="https://www.kimonolabs.com/api/ondemand/aaaaq44g?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-debug "Accessing $url"
    write-Host "$(Get-Date) - Looking for $title @ `"$site`""
 
@@ -38,17 +38,27 @@ function get-dhdata
    11X $5.50  0.55 
    50X $5.50  0.11
 #>
-   $dhresults=Invoke-RestMethod -Uri $url
-   if ($dhresults.lastrunstatus -eq "failure")
+   try
    {
-      write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
+      $dhresults=Invoke-RestMethod -Uri $url
+      $results=$dhresults.results.collection1| where {$_.title -ne ""}
+      If ($results -eq $null)
+      {
+         throw
+      }
+   }
+   catch
+   {
+      Write-Warning "$(Get-Date) No data returned from $url"
       return $null
    }
    
-   $results=$dhresults.results.collection1| where {$_.title -ne ""}
+   
    $results=$results|where {$_.title.text -match "$title"}
    $counter=0
    $dh=@()
+   $datetime=Get-date
+
 
    Foreach($result in $results)
    {
@@ -75,7 +85,7 @@ function get-dhdata
       $record| Add-Member -type NoteProperty -name variant -value $issue.variant
       $record| Add-Member -type NoteProperty -name price -value $price.Amount
       $record| Add-Member -type NoteProperty -name currency -value $price.Currency
-      $record| Add-Member -type NoteProperty -name rundate -value $dhresults.lastsuccess
+      $record| Add-Member -type NoteProperty -name rundate -value $datetime
       $record| Add-Member -type NoteProperty -name site -value $site
       
       $dh+=$record

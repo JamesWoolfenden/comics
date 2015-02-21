@@ -7,7 +7,7 @@
         "issue":  "4",
         "variant":  "4",
         "price":  2.65,
-        "rundate":  "Sat Feb 14 2015 19:08:23 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424512678154)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -18,7 +18,7 @@
         "issue":  "3",
         "variant":  "3",
         "price":  2.65,
-        "rundate":  "Sat Feb 14 2015 19:08:23 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424512678154)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -29,18 +29,7 @@
         "issue":  "1 ",
         "variant":  "2nd Printing",
         "price":  2.65,
-        "rundate":  "Sat Feb 14 2015 19:08:23 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/132768-burning-fields-2/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/132768-burning-fields-2/\"\u003ehttps://forbiddenplanet.com/132768-burning-fields-2/\u003c/a\u003e",
-        "orderdate":  "18th February, 2015",
-        "title":  "THE FIELD",
-        "issue":  "2",
-        "variant":  "2",
-        "price":  2.65,
-        "rundate":  "Sat Feb 14 2015 19:08:23 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424512678154)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -52,19 +41,19 @@
         "variant":  "SET",
         "price":  8.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/THE-FIELD-Issue-4-IMAGE-COMICS-First-Print-/121548204245?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4cd668d5",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-FIELD-Issue-4-IMAGE-COMICS-First-Print-/121548204245?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4cd668d5\"\u003ehttp://www.ebay.co.uk/itm/THE-FIELD-Issue-4-IMAGE-COMICS-First-Print-/121548204245?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4cd668d5\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/THE-FIELD-Issue-4-IMAGE-COMICS-First-Print-/121574232216?pt=LH_DefaultDomain_3\u0026hash=item1c4e639098",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-FIELD-Issue-4-IMAGE-COMICS-First-Print-/121574232216?pt=LH_DefaultDomain_3\u0026hash=item1c4e639098\"\u003ehttp://www.ebay.co.uk/itm/THE-FIELD-Issue-4-IMAGE-COMICS-First-Print-/121574232216?pt=LH_DefaultDomain_3\u0026hash=item1c4e639098\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THE FIELD",
         "issue":  "4",
         "variant":  "4",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -76,7 +65,7 @@
         "variant":  "1A",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -88,7 +77,7 @@
         "variant":  "2",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -100,7 +89,19 @@
         "variant":  "SET",
         "price":  11,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/The-Field-3-NM-/141579486325?pt=LH_DefaultDomain_3\u0026hash=item20f6cb8475",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Field-3-NM-/141579486325?pt=LH_DefaultDomain_3\u0026hash=item20f6cb8475\"\u003ehttp://www.ebay.co.uk/itm/The-Field-3-NM-/141579486325?pt=LH_DefaultDomain_3\u0026hash=item20f6cb8475\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THE FIELD",
+        "issue":  "3",
+        "variant":  "3",
+        "price":  0.49,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -112,7 +113,7 @@
         "variant":  "3",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -124,19 +125,19 @@
         "variant":  "3",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/THE-FIELD-1-2-3-4-IMAGE-COMICS-FIRST-PRINT-NEAR-MINT-UNREAD-NEW-SIMON-ROY-/251797220286?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa048abbe",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-FIELD-1-2-3-4-IMAGE-COMICS-FIRST-PRINT-NEAR-MINT-UNREAD-NEW-SIMON-ROY-/251797220286?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa048abbe\"\u003ehttp://www.ebay.co.uk/itm/THE-FIELD-1-2-3-4-IMAGE-COMICS-FIRST-PRINT-NEAR-MINT-UNREAD-NEW-SIMON-ROY-/251797220286?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3aa048abbe\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/THE-FIELD-1-2-3-4-IMAGE-COMICS-FIRST-PRINT-NEAR-MINT-UNREAD-NEW-SIMON-ROY-/261781842144?pt=LH_DefaultDomain_3\u0026hash=item3cf369e8e0",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-FIELD-1-2-3-4-IMAGE-COMICS-FIRST-PRINT-NEAR-MINT-UNREAD-NEW-SIMON-ROY-/261781842144?pt=LH_DefaultDomain_3\u0026hash=item3cf369e8e0\"\u003ehttp://www.ebay.co.uk/itm/THE-FIELD-1-2-3-4-IMAGE-COMICS-FIRST-PRINT-NEAR-MINT-UNREAD-NEW-SIMON-ROY-/261781842144?pt=LH_DefaultDomain_3\u0026hash=item3cf369e8e0\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THE FIELD",
         "issue":  "",
         "variant":  "SET",
         "price":  16.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -148,7 +149,7 @@
         "variant":  "VOL1",
         "price":  8.86,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -160,7 +161,19 @@
         "variant":  "VOL1",
         "price":  8.47,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THE-FIELD-2-rare-sold-out-1st-Print-Image-Comics-/291382517067?pt=LH_DefaultDomain_3\u0026hash=item43d7c05d4b",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-FIELD-2-rare-sold-out-1st-Print-Image-Comics-/291382517067?pt=LH_DefaultDomain_3\u0026hash=item43d7c05d4b\"\u003ehttp://www.ebay.co.uk/itm/THE-FIELD-2-rare-sold-out-1st-Print-Image-Comics-/291382517067?pt=LH_DefaultDomain_3\u0026hash=item43d7c05d4b\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THE FIELD",
+        "issue":  "2",
+        "variant":  "2",
+        "price":  5.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -172,7 +185,7 @@
         "variant":  "1A",
         "price":  3.5,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -184,7 +197,7 @@
         "variant":  "1EH!",
         "price":  20,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -196,7 +209,7 @@
         "variant":  "SET",
         "price":  10.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -208,7 +221,7 @@
         "variant":  "4",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -220,7 +233,7 @@
         "variant":  "3",
         "price":  3,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -232,7 +245,7 @@
         "variant":  "1A",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -244,7 +257,7 @@
         "variant":  "1A",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -256,7 +269,7 @@
         "variant":  "1A",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -268,7 +281,7 @@
         "variant":  "1A",
         "price":  2.4,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -280,7 +293,7 @@
         "variant":  "1A",
         "price":  3.6,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -292,7 +305,7 @@
         "variant":  "3",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -304,7 +317,7 @@
         "variant":  "3",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -316,20 +329,20 @@
         "variant":  "4",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_15\u0026products_id=5293\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_15\u0026products_id=5293\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_15\u0026products_id=5293\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/THE-FIELD-4-IMAGE-COMICS-/391056435808?pt=LH_DefaultDomain_3\u0026hash=item5b0cc7aa60",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-FIELD-4-IMAGE-COMICS-/391056435808?pt=LH_DefaultDomain_3\u0026hash=item5b0cc7aa60\"\u003ehttp://www.ebay.co.uk/itm/THE-FIELD-4-IMAGE-COMICS-/391056435808?pt=LH_DefaultDomain_3\u0026hash=item5b0cc7aa60\u003c/a\u003e",
         "orderdate":  null,
         "title":  "THE FIELD",
-        "issue":  "BORN ON THE BATTLEFIELD HC",
-        "variant":  "CONAN: BORN ON THE BATTLEFIELD HC",
-        "price":  18.99,
+        "issue":  "4",
+        "variant":  "4",
+        "price":  1.35,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 19:08:47 GMT+0000 (UTC)",
-        "site":  "Comic book shop"
+        "rundate":  "21-2-2015",
+        "site":  "Auction"
     },
     {
         "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Field+On+The+Edge+Of+The+_1038337",
@@ -340,7 +353,7 @@
         "variant":  "FIELD ON THE EDGE OF THE WOODS BOOK 1",
         "price":  1.6496182400000000762,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 19:08:57 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424512709557)\/",
         "site":  "Midtown"
     },
     {
@@ -352,7 +365,7 @@
         "variant":  "SURVIVING THE ZOMBIE OUTBREAK THE OFFICIAL ZOMBIE SURVIVAL FIELD GUIDE SC",
         "price":  8.2480912000000003810,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 19:08:57 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424512709557)\/",
         "site":  "Midtown"
     },
     {
@@ -364,7 +377,55 @@
         "variant":  "SWAMP THING (NEW 52) VOL 5 THE KILLING FIELD TP",
         "price":  8.2740694400000003822,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 19:08:57 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424512709557)\/",
         "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=17015\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=17015\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE FIELD",
+        "issue":  "1",
+        "variant":  "1",
+        "price":  2.60,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1424512733191)\/",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=17015\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=17015\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE FIELD",
+        "issue":  "2",
+        "variant":  "2",
+        "price":  2.60,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1424512733191)\/",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=17015\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=17015\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE FIELD",
+        "issue":  "3",
+        "variant":  "1",
+        "price":  2.60,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1424512733191)\/",
+        "site":  "The Comic Guru"
+    },
+    {
+        "link":  "http://www.thecomicguru.co.uk",
+        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=17015\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=17015\u003c/\u003e",
+        "orderdate":  null,
+        "title":  "THE FIELD",
+        "issue":  "4",
+        "variant":  "1",
+        "price":  2.60,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1424512733191)\/",
+        "site":  "The Comic Guru"
     }
 ]

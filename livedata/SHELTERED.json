@@ -8,7 +8,7 @@
         "variant":  "Sheltered  (MR) *Clearance*",
         "price":  "0.45",
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "DCBS"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "Sheltered TP Vol 01 (Oct130500)",
         "price":  "3.89",
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "DCBS"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "11",
         "price":  1.54,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511895933)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "12 (MR)",
         "price":  1.54,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511895933)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,103 +56,31 @@
         "variant":  "13 (MR)",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511895933)\/",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/image/sheltered-14-mr-/prod_111561.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/image/sheltered-14-mr-/prod_111561.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/image/sheltered-14-mr-/prod_111561.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/back-issues/image/sheltered-14-mr-/prod_111561.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/sheltered-14-mr-/prod_111561.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/sheltered-14-mr-/prod_111561.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
         "issue":  "14",
         "variant":  "14 (MR)",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511895933)\/",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-publishers/sheltered-15-mr-/prod_115839.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-publishers/sheltered-15-mr-/prod_115839.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/february-2015/preorders-for-25/02/15/other-publishers/sheltered-15-mr-/prod_115839.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/sheltered-15-mr-/prod_115839.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/sheltered-15-mr-/prod_115839.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/other-publishers/sheltered-15-mr-/prod_115839.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
         "issue":  "15",
         "variant":  "15 (MR)",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-03/prod_135922.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-03/prod_135922.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-03/prod_135922.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "SHELTERED",
-        "variant":  "SHELTERED TP VOL 03",
-        "price":  9.89,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-01-oct130500-/prod_135923.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-01-oct130500-/prod_135923.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-01-oct130500-/prod_135923.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "SHELTERED",
-        "variant":  "SHELTERED TP VOL 01 (OCT130500)",
-        "price":  6.75,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-02-may140643-/prod_135924.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-02-may140643-/prod_135924.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/sheltered-tp-vol-02-may140643-/prod_135924.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "SHELTERED",
-        "variant":  "SHELTERED TP VOL 02 (MAY140643)",
-        "price":  9.89,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/graphic-novels-books/sheltered-tp-vol-02-may140643-/prod_136817.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/graphic-novels-books/sheltered-tp-vol-02-may140643-/prod_136817.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/graphic-novels-books/sheltered-tp-vol-02-may140643-/prod_136817.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "SHELTERED",
-        "variant":  "SHELTERED TP VOL 02 (MAY140643)",
-        "price":  10.44,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/graphic-novels-books/sheltered-tp-vol-01-oct130500-/prod_136949.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/graphic-novels-books/sheltered-tp-vol-01-oct130500-/prod_136949.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/graphic-novels-books/sheltered-tp-vol-01-oct130500-/prod_136949.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "SHELTERED",
-        "variant":  "SHELTERED TP VOL 01 (OCT130500)",
-        "price":  7.13,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders-for-18/03/15/graphic-novels-books/sheltered-tp-vol-03/prod_137189.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-18/03/15/graphic-novels-books/sheltered-tp-vol-03/prod_137189.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-18/03/15/graphic-novels-books/sheltered-tp-vol-03/prod_137189.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "SHELTERED",
-        "variant":  "SHELTERED TP VOL 03",
-        "price":  10.44,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511895933)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -164,7 +92,7 @@
         "variant":  "SHELTERED TP 01 (OCT130500)",
         "price":  7.13,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511895933)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -176,7 +104,7 @@
         "variant":  "SHELTERED TP 01 (OCT130500)",
         "price":  6.75,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:50:56 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511895933)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -188,7 +116,7 @@
         "variant":  "15",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511904223)\/",
         "site":  "Close Encounters"
     },
     {
@@ -200,7 +128,7 @@
         "variant":  "14",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511904223)\/",
         "site":  "Close Encounters"
     },
     {
@@ -212,7 +140,7 @@
         "variant":  "13",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511904223)\/",
         "site":  "Close Encounters"
     },
     {
@@ -224,7 +152,7 @@
         "variant":  "12",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511904223)\/",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +164,7 @@
         "variant":  "11",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511904223)\/",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +176,7 @@
         "variant":  "10",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511904223)\/",
         "site":  "Close Encounters"
     },
     {
@@ -260,7 +188,7 @@
         "variant":  "9",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511904223)\/",
         "site":  "Close Encounters"
     },
     {
@@ -272,7 +200,7 @@
         "variant":  "8",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511904223)\/",
         "site":  "Close Encounters"
     },
     {
@@ -284,7 +212,7 @@
         "variant":  "7 FIRST PRINT",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511904223)\/",
         "site":  "Close Encounters"
     },
     {
@@ -296,7 +224,7 @@
         "variant":  "6",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511904223)\/",
         "site":  "Close Encounters"
     },
     {
@@ -308,7 +236,7 @@
         "variant":  "5 FIRST PRINT",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511904223)\/",
         "site":  "Close Encounters"
     },
     {
@@ -320,7 +248,7 @@
         "variant":  "4 FIRST PRINT",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:05 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511904223)\/",
         "site":  "Close Encounters"
     },
     {
@@ -331,18 +259,7 @@
         "issue":  "10",
         "variant":  "10",
         "price":  1.95,
-        "rundate":  "Sat Feb 14 2015 18:51:16 GMT+0000 (UTC)",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/119624-sheltered-6-yesteryear-variant/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/119624-sheltered-6-yesteryear-variant/\"\u003ehttps://forbiddenplanet.com/119624-sheltered-6-yesteryear-variant/\u003c/a\u003e",
-        "orderdate":  "",
-        "title":  "SHELTERED",
-        "issue":  "6 ",
-        "variant":  "Yesteryear Variant",
-        "price":  6.99,
-        "rundate":  "Sat Feb 14 2015 18:51:16 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511912923)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -354,7 +271,7 @@
         "variant":  "11",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511917015)\/",
         "site":  "Reed"
     },
     {
@@ -366,7 +283,7 @@
         "variant":  "12",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511917015)\/",
         "site":  "Reed"
     },
     {
@@ -378,7 +295,7 @@
         "variant":  "13",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511917015)\/",
         "site":  "Reed"
     },
     {
@@ -390,7 +307,7 @@
         "variant":  "14",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511917015)\/",
         "site":  "Reed"
     },
     {
@@ -402,7 +319,7 @@
         "variant":  "4",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511917015)\/",
         "site":  "Reed"
     },
     {
@@ -414,7 +331,7 @@
         "variant":  "5",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511917015)\/",
         "site":  "Reed"
     },
     {
@@ -426,7 +343,7 @@
         "variant":  "7",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511917015)\/",
         "site":  "Reed"
     },
     {
@@ -438,8 +355,20 @@
         "variant":  "9",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:21 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511917015)\/",
         "site":  "Reed"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Sheltered-2014-9-NM-/121573414455?pt=LH_DefaultDomain_3\u0026hash=item1c4e571637",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-2014-9-NM-/121573414455?pt=LH_DefaultDomain_3\u0026hash=item1c4e571637\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-2014-9-NM-/121573414455?pt=LH_DefaultDomain_3\u0026hash=item1c4e571637\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  0.49,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-2-2015",
+        "site":  "Auction"
     },
     {
         "link":  "http://uk.ebid.net/for-sale/sheltered-4-image-comics-brisson-christmas-chankhamna-125549291.htm",
@@ -450,7 +379,7 @@
         "variant":  "4",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -462,7 +391,7 @@
         "variant":  "10",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -474,7 +403,7 @@
         "variant":  "9",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -486,7 +415,7 @@
         "variant":  "5",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -498,7 +427,7 @@
         "variant":  "7",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -510,7 +439,7 @@
         "variant":  "12",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -522,7 +451,7 @@
         "variant":  "11",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -534,7 +463,7 @@
         "variant":  "4",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -546,7 +475,7 @@
         "variant":  "8",
         "price":  1.7,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -558,31 +487,31 @@
         "variant":  "SET",
         "price":  5,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Sheltered-No-8-2014-/151584786615?pt=LH_DefaultDomain_3\u0026hash=item234b2848b7",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-No-8-2014-/151584786615?pt=LH_DefaultDomain_3\u0026hash=item234b2848b7\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-No-8-2014-/151584786615?pt=LH_DefaultDomain_3\u0026hash=item234b2848b7\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Sheltered-4-Nov13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141582414073?pt=LH_DefaultDomain_3\u0026hash=item20f6f830f9",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-4-Nov13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141582414073?pt=LH_DefaultDomain_3\u0026hash=item20f6f830f9\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-4-Nov13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141582414073?pt=LH_DefaultDomain_3\u0026hash=item20f6f830f9\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
-        "issue":  "8",
-        "variant":  "8",
-        "price":  0.9,
+        "issue":  "4",
+        "variant":  "4",
+        "price":  4.95,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Sheltered-No-7-2014-/151584787157?pt=LH_DefaultDomain_3\u0026hash=item234b284ad5",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-No-7-2014-/151584787157?pt=LH_DefaultDomain_3\u0026hash=item234b284ad5\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-No-7-2014-/151584787157?pt=LH_DefaultDomain_3\u0026hash=item234b284ad5\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Sheltered-3-Sep13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141582414236?pt=LH_DefaultDomain_3\u0026hash=item20f6f8319c",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Sheltered-3-Sep13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141582414236?pt=LH_DefaultDomain_3\u0026hash=item20f6f8319c\"\u003ehttp://www.ebay.co.uk/itm/Sheltered-3-Sep13-Image-ED-BRISSON-PRE-APOCALYPTIC-TALE-OF-SURVIVAL-1st-Print-/141582414236?pt=LH_DefaultDomain_3\u0026hash=item20f6f8319c\u003c/a\u003e",
         "orderdate":  null,
         "title":  "SHELTERED",
-        "issue":  "7",
-        "variant":  "7",
-        "price":  0.99,
+        "issue":  "3",
+        "variant":  "3",
+        "price":  5.95,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -594,7 +523,7 @@
         "variant":  "1A",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -606,7 +535,7 @@
         "variant":  "11",
         "price":  2.05,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -618,7 +547,7 @@
         "variant":  "11",
         "price":  2.1,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -630,7 +559,7 @@
         "variant":  "1A",
         "price":  4.5,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -642,7 +571,7 @@
         "variant":  "4",
         "price":  3.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -654,7 +583,7 @@
         "variant":  "5",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -666,7 +595,7 @@
         "variant":  "12",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -678,7 +607,7 @@
         "variant":  "2",
         "price":  3.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -690,7 +619,7 @@
         "variant":  "9",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -702,7 +631,7 @@
         "variant":  "11",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -714,7 +643,7 @@
         "variant":  "9",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -726,7 +655,7 @@
         "variant":  "10",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -738,7 +667,7 @@
         "variant":  "7",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -750,7 +679,7 @@
         "variant":  "5",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -762,7 +691,7 @@
         "variant":  "SET",
         "price":  25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -774,7 +703,7 @@
         "variant":  "1ACGC",
         "price":  185,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -786,7 +715,7 @@
         "variant":  "1IMAGEEXPO",
         "price":  21.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -798,7 +727,7 @@
         "variant":  "1A",
         "price":  18.85,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -810,7 +739,7 @@
         "variant":  "4",
         "price":  1,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -822,7 +751,7 @@
         "variant":  "1A",
         "price":  9.95,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -834,7 +763,7 @@
         "variant":  "1A",
         "price":  0.5,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -846,7 +775,7 @@
         "variant":  "4",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -858,7 +787,7 @@
         "variant":  "4",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -870,7 +799,7 @@
         "variant":  "7",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -882,7 +811,7 @@
         "variant":  "9",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -894,7 +823,7 @@
         "variant":  "11",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -906,7 +835,7 @@
         "variant":  "12",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -918,7 +847,7 @@
         "variant":  "14",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -930,7 +859,7 @@
         "variant":  "10",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -942,7 +871,7 @@
         "variant":  "8",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -954,7 +883,7 @@
         "variant":  "11",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -966,7 +895,7 @@
         "variant":  "10",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -978,7 +907,7 @@
         "variant":  "12",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -990,7 +919,7 @@
         "variant":  "14",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -1002,7 +931,7 @@
         "variant":  "10",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -1014,7 +943,7 @@
         "variant":  "11",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -1026,19 +955,7 @@
         "variant":  "8",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/SHELTERED-12-1st-Print-Image-/371238587877?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566f8b4de5",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SHELTERED-12-1st-Print-Image-/371238587877?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566f8b4de5\"\u003ehttp://www.ebay.co.uk/itm/SHELTERED-12-1st-Print-Image-/371238587877?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item566f8b4de5\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "12",
-        "variant":  "12",
-        "price":  3.25,
-        "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -1050,7 +967,7 @@
         "variant":  "1A",
         "price":  8.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -1062,7 +979,19 @@
         "variant":  "2",
         "price":  10.99,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/SHELTERED-12-1st-Print-Image-/371261249611?pt=LH_DefaultDomain_3\u0026hash=item5670e5184b",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SHELTERED-12-1st-Print-Image-/371261249611?pt=LH_DefaultDomain_3\u0026hash=item5670e5184b\"\u003ehttp://www.ebay.co.uk/itm/SHELTERED-12-1st-Print-Image-/371261249611?pt=LH_DefaultDomain_3\u0026hash=item5670e5184b\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "12",
+        "variant":  "12",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -1074,7 +1003,7 @@
         "variant":  "7",
         "price":  2.1,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -1086,7 +1015,7 @@
         "variant":  "8",
         "price":  2.1,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -1098,7 +1027,7 @@
         "variant":  "10",
         "price":  2.1,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -1110,7 +1039,7 @@
         "variant":  "9",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -1122,7 +1051,7 @@
         "variant":  "7",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -1134,7 +1063,7 @@
         "variant":  "13",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "14-2-2015",
+        "rundate":  "21-2-2015",
         "site":  "Auction"
     },
     {
@@ -1146,7 +1075,7 @@
         "variant":  "OCT140601 SHELTERED #15 (MR)",
         "price":  2.40,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:42 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511934253)\/",
         "site":  "Comic book shop"
     },
     {
@@ -1158,7 +1087,7 @@
         "variant":  "SEP140751 SHELTERED #14 (MR)",
         "price":  2.40,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:42 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511934253)\/",
         "site":  "Comic book shop"
     },
     {
@@ -1170,7 +1099,7 @@
         "variant":  "SHELTERED #11 [(W) Ed Brisson (A/CA) John Christmas]",
         "price":  2.40,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:42 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511934253)\/",
         "site":  "Comic book shop"
     },
     {
@@ -1182,7 +1111,7 @@
         "variant":  "SHELTERED #9 [(W) Ed Brisson (A/CA) John Christmas]",
         "price":  2.40,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:42 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511934253)\/",
         "site":  "Comic book shop"
     },
     {
@@ -1194,7 +1123,7 @@
         "variant":  "1",
         "price":  0,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511942892)\/",
         "site":  "Midtown"
     },
     {
@@ -1206,7 +1135,7 @@
         "variant":  "3",
         "price":  1.2209772800000000564,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511942892)\/",
         "site":  "Midtown"
     },
     {
@@ -1218,7 +1147,7 @@
         "variant":  "4",
         "price":  1.9418734400000000897,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511942892)\/",
         "site":  "Midtown"
     },
     {
@@ -1230,7 +1159,7 @@
         "variant":  "5",
         "price":  1.2209772800000000564,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511942892)\/",
         "site":  "Midtown"
     },
     {
@@ -1242,7 +1171,7 @@
         "variant":  "8",
         "price":  1.9418734400000000897,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511942892)\/",
         "site":  "Midtown"
     },
     {
@@ -1254,7 +1183,7 @@
         "variant":  "9",
         "price":  1.9418734400000000897,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511942892)\/",
         "site":  "Midtown"
     },
     {
@@ -1266,7 +1195,7 @@
         "variant":  "10",
         "price":  1.9418734400000000897,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511942892)\/",
         "site":  "Midtown"
     },
     {
@@ -1278,7 +1207,7 @@
         "variant":  "11",
         "price":  1.9418734400000000897,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511942892)\/",
         "site":  "Midtown"
     },
     {
@@ -1290,7 +1219,7 @@
         "variant":  "12",
         "price":  1.9418734400000000897,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511942892)\/",
         "site":  "Midtown"
     },
     {
@@ -1302,7 +1231,7 @@
         "variant":  "13",
         "price":  1.9418734400000000897,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511942892)\/",
         "site":  "Midtown"
     },
     {
@@ -1314,7 +1243,7 @@
         "variant":  "14",
         "price":  1.6496182400000000762,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:51 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511942892)\/",
         "site":  "Midtown"
     },
     {
@@ -1326,7 +1255,7 @@
         "variant":  "4",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511948655)\/",
         "site":  "Intercomics"
     },
     {
@@ -1338,7 +1267,7 @@
         "variant":  "7",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511948655)\/",
         "site":  "Intercomics"
     },
     {
@@ -1350,7 +1279,7 @@
         "variant":  "8",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511948655)\/",
         "site":  "Intercomics"
     },
     {
@@ -1362,7 +1291,7 @@
         "variant":  "9",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511948655)\/",
         "site":  "Intercomics"
     },
     {
@@ -1374,7 +1303,7 @@
         "variant":  "10",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511948655)\/",
         "site":  "Intercomics"
     },
     {
@@ -1386,7 +1315,7 @@
         "variant":  "12",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511948655)\/",
         "site":  "Intercomics"
     },
     {
@@ -1398,7 +1327,7 @@
         "variant":  "13",
         "price":  "2.25",
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511948655)\/",
         "site":  "Intercomics"
     },
     {
@@ -1410,7 +1339,7 @@
         "variant":  "14",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511948655)\/",
         "site":  "Intercomics"
     },
     {
@@ -1422,7 +1351,7 @@
         "variant":  "15",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:51:58 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511948655)\/",
         "site":  "Intercomics"
     },
     {
@@ -1434,7 +1363,7 @@
         "variant":  "NO.3",
         "price":  1.9418734400000000897,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511955483)\/",
         "site":  "Hastings"
     },
     {
@@ -1444,9 +1373,9 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "SHELTERED",
-        "price":  0,
+        "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511955483)\/",
         "site":  "Hastings"
     },
     {
@@ -1458,103 +1387,7 @@
         "variant":  "SHELTERED",
         "price":  4.8709200000000002250,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/SHELTERED-14-MR/sku/295002011.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/SHELTERED-14-MR/sku/295002011.uts\"\u003ehttp://www.gohastings.com/product/BOOK/SHELTERED-14-MR/sku/295002011.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "14",
-        "variant":  "#14 (MR)",
-        "price":  1.9418734400000000897,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Sheltered-by-the-Warrior/sku/295056248.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Sheltered-by-the-Warrior/sku/295056248.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Sheltered-by-the-Warrior/sku/295056248.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  null,
-        "variant":  "BY THE WARRIOR",
-        "price":  3.5005678400000001617,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/SHELTERED-13-MR/sku/294919399.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/SHELTERED-13-MR/sku/294919399.uts\"\u003ehttp://www.gohastings.com/product/BOOK/SHELTERED-13-MR/sku/294919399.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "13",
-        "variant":  "#13 (MR)",
-        "price":  1.9418734400000000897,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Sheltered-by-the-Millionaire/sku/294602752.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Sheltered-by-the-Millionaire/sku/294602752.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Sheltered-by-the-Millionaire/sku/294602752.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  null,
-        "variant":  "BY THE MILLIONAIRE",
-        "price":  3.0719268800000001419,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/294727733.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/294727733.uts\"\u003ehttp://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/294727733.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  null,
-        "variant":  "STEPHEN KING\u0027S STORM OF THE CENTURY/THE SHADOWS/SHELTERED",
-        "price":  4.7085560000000002175,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/A-Sheltered-Life-Take-It-to-the-Streets/sku/293461676.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/A-Sheltered-Life-Take-It-to-the-Streets/sku/293461676.uts\"\u003ehttp://www.gohastings.com/product/BOOK/A-Sheltered-Life-Take-It-to-the-Streets/sku/293461676.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  null,
-        "variant":  "A LIFE : TAKE IT TO THE STREETS",
-        "price":  0,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/SHELTERED-12-MR/sku/294787408.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/SHELTERED-12-MR/sku/294787408.uts\"\u003ehttp://www.gohastings.com/product/BOOK/SHELTERED-12-MR/sku/294787408.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "12",
-        "variant":  "#12 (MR)",
-        "price":  1.9418734400000000897,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/295083371.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/295083371.uts\"\u003ehttp://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/295083371.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  null,
-        "variant":  "STEPHEN KING\u0027S STORM OF THE CENTURY/THE SHADOWS/SHELTERED",
-        "price":  0,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511955483)\/",
         "site":  "Hastings"
     },
     {
@@ -1566,7 +1399,103 @@
         "variant":  "VOLUME 1 TP",
         "price":  4.1695075200000001926,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511955483)\/",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/BOOK/SHELTERED-14-MR/sku/295002011.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/SHELTERED-14-MR/sku/295002011.uts\"\u003ehttp://www.gohastings.com/product/BOOK/SHELTERED-14-MR/sku/295002011.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "14",
+        "variant":  "#14 (MR)",
+        "price":  1.9418734400000000897,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1424511955483)\/",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/BOOK/Sheltered-by-the-Warrior/sku/295056248.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Sheltered-by-the-Warrior/sku/295056248.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Sheltered-by-the-Warrior/sku/295056248.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  null,
+        "variant":  "BY THE WARRIOR",
+        "price":  3.5005678400000001617,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1424511955483)\/",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/BOOK/SHELTERED-13-MR/sku/294919399.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/SHELTERED-13-MR/sku/294919399.uts\"\u003ehttp://www.gohastings.com/product/BOOK/SHELTERED-13-MR/sku/294919399.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "13",
+        "variant":  "#13 (MR)",
+        "price":  1.9418734400000000897,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1424511955483)\/",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/BOOK/A-Sheltered-Life-Take-It-to-the-Streets/sku/293461676.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/A-Sheltered-Life-Take-It-to-the-Streets/sku/293461676.uts\"\u003ehttp://www.gohastings.com/product/BOOK/A-Sheltered-Life-Take-It-to-the-Streets/sku/293461676.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  null,
+        "variant":  "A LIFE : TAKE IT TO THE STREETS",
+        "price":  null,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1424511955483)\/",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/BOOK/Sheltered-by-the-Millionaire/sku/294602752.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Sheltered-by-the-Millionaire/sku/294602752.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Sheltered-by-the-Millionaire/sku/294602752.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  null,
+        "variant":  "BY THE MILLIONAIRE",
+        "price":  3.0719268800000001419,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1424511955483)\/",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/294727733.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/294727733.uts\"\u003ehttp://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/294727733.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  null,
+        "variant":  "STEPHEN KING\u0027S STORM OF THE CENTURY/THE SHADOWS/SHELTERED",
+        "price":  4.7085560000000002175,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1424511955483)\/",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/295083371.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/295083371.uts\"\u003ehttp://www.gohastings.com/product/MOVIE/Stephen-Kings-Storm-of-the-CenturyThe-ShadowsSheltered/sku/295083371.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  null,
+        "variant":  "STEPHEN KING\u0027S STORM OF THE CENTURY/THE SHADOWS/SHELTERED",
+        "price":  null,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1424511955483)\/",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/BOOK/SHELTERED-12-MR/sku/294787408.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/SHELTERED-12-MR/sku/294787408.uts\"\u003ehttp://www.gohastings.com/product/BOOK/SHELTERED-12-MR/sku/294787408.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SHELTERED",
+        "issue":  "12",
+        "variant":  "#12 (MR)",
+        "price":  1.9418734400000000897,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1424511955483)\/",
         "site":  "Hastings"
     },
     {
@@ -1576,9 +1505,9 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "A LAND OF PROMISE",
-        "price":  0,
+        "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511955483)\/",
         "site":  "Hastings"
     },
     {
@@ -1588,9 +1517,9 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "CONTENT INSTRUCTION : TEACHING ENGLISH-LANGUAGE LEARNERS WITH DIVERSE ABILITIES",
-        "price":  0,
+        "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511955483)\/",
         "site":  "Hastings"
     },
     {
@@ -1600,9 +1529,9 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "THE EARTH-HOUSE : AN ARCHITECTS SKETCHBOOK",
-        "price":  0,
+        "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511955483)\/",
         "site":  "Hastings"
     },
     {
@@ -1614,7 +1543,7 @@
         "variant":  "FROM THE SWASTIKA : MEMOIR OF A JEWISH BOYS SURVIVAL AMID HORROR IN WORLD WAR II",
         "price":  20.4578640000000009450,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511955483)\/",
         "site":  "Hastings"
     },
     {
@@ -1626,7 +1555,7 @@
         "variant":  "EARTH-HOUSES : HOW TO BUILD AN AFFORDABLE UNDERGROUND HOME",
         "price":  12.8007777600000005913,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511955483)\/",
         "site":  "Hastings"
     },
     {
@@ -1636,9 +1565,9 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "CONTENT INSTRUCTION : TEACHING ENGLISH LANGUAGE LEARNERS WITH DIVERSE ABILITIES",
-        "price":  0,
+        "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511955483)\/",
         "site":  "Hastings"
     },
     {
@@ -1648,9 +1577,9 @@
         "title":  "SHELTERED",
         "issue":  null,
         "variant":  "VOLUME 1 TP",
-        "price":  0,
+        "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511955483)\/",
         "site":  "Hastings"
     },
     {
@@ -1662,7 +1591,7 @@
         "variant":  "FOULEST SEMEN OF A ELITE",
         "price":  9.1962969600000004248,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511955483)\/",
         "site":  "Hastings"
     },
     {
@@ -1674,7 +1603,7 @@
         "variant":  "CONTENT INSTRUCTION : TEACHING ENGLISH LANGUAGE LEARNERS WITH DIVERSE ABILITIES",
         "price":  25.9717454400000011997,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:04 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511955483)\/",
         "site":  "Hastings"
     },
     {
@@ -1686,7 +1615,7 @@
         "variant":  "1",
         "price":  2.20,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511957171)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -1698,7 +1627,7 @@
         "variant":  "1",
         "price":  2.20,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511957171)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -1710,7 +1639,7 @@
         "variant":  "1",
         "price":  2.20,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511957171)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -1722,7 +1651,7 @@
         "variant":  "1",
         "price":  2.20,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511957171)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -1734,7 +1663,7 @@
         "variant":  "1",
         "price":  2.00,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511957171)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -1746,7 +1675,7 @@
         "variant":  "1",
         "price":  2.00,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511957171)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -1758,19 +1687,7 @@
         "variant":  "1",
         "price":  2.00,
         "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
-        "site":  "The Comic Guru"
-    },
-    {
-        "link":  "http://www.thecomicguru.co.uk",
-        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=16349\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=16349\u003c/\u003e",
-        "orderdate":  null,
-        "title":  "SHELTERED",
-        "issue":  "14",
-        "variant":  "1",
-        "price":  2.00,
-        "currency":  "\u0026pound;",
-        "rundate":  "Sat Feb 14 2015 18:52:08 GMT+0000 (UTC)",
+        "rundate":  "\/Date(1424511957171)\/",
         "site":  "The Comic Guru"
     }
 ]

@@ -10,7 +10,9 @@ function get-gurudata
    $title=$title.ToUpper()
    $fullfilter="&product=$productcode"
    $site="The Comic Guru"
-   $url="http://www.kimonolabs.com/api/2gr32l5y?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+   #$url="http://www.kimonolabs.com/api/2gr32l5y?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+   $url="https://www.kimonolabs.com/api/ondemand/2gr32l5y?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+
    write-debug "$(Get-Date) - Accessing $url"
    write-Host "$(Get-Date) - Looking for $title @ `"$site`""
   
@@ -37,17 +39,13 @@ function get-gurudata
       Write-Warning "$(Get-Date) No data returned from $url"
       return $null
    }
-   
-   if ($gururesults.lastrunstatus -eq "failure")
-   {
-      return $null
-   }
-   
+      
    $results=$gururesults.results.collection1
    $counter=0
    $guru=@()
    
-   
+   $datetime=get-date
+
    foreach($result in $results)
    {
       $record= New-Object System.Object
@@ -63,7 +61,7 @@ function get-gurudata
       $price=($result.price.Replace("£","")) -as [decimal]
       $record| Add-Member -type NoteProperty -name price -value $price
       $record| Add-Member -type NoteProperty -name currency -value "&pound;"
-      $record| Add-Member -type NoteProperty -name rundate -value $gururesults.lastsuccess
+      $record| Add-Member -type NoteProperty -name rundate -value $datetime
       $record| Add-Member -type NoteProperty -name site -value $site
       
       $guru+=$record

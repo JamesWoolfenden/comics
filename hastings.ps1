@@ -43,6 +43,8 @@ function get-hastingsdata
       $results = $results| where {$_.title.text -match $part}
    }
    
+   $datetime=get-date
+
    foreach($result in $results)
    {
       $record= New-Object psobject
@@ -99,7 +101,7 @@ function get-hastingsdata
       $record| Add-Member -type NoteProperty -name variant -value $variant
       $record| Add-Member -type NoteProperty -name price -value $inpounds
       $record| Add-Member -type NoteProperty -name currency -value "&pound;"
-      $record| Add-Member -type NoteProperty -name rundate -value $hastingsresults.lastsuccess
+      $record| Add-Member -type NoteProperty -name rundate -value $datetime
       $record| Add-Member -type NoteProperty -name site -value $site
 
       $hastings+=$record

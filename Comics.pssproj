@@ -27,12 +27,32 @@
     <Compile Include=".gitattributes" />
     <Compile Include=".gitignore" />
     <Compile Include="comicbiz.ps1" />
+    <Compile Include="covers\2000AD-SHOWCASE\50\50.JPG" />
     <Compile Include="covers\ADVENTURES-OF-SUPERMAN\14\14.JPG" />
+    <Compile Include="covers\BITCH-PLANET\1\1.JPG" />
+    <Compile Include="covers\BITCH-PLANET\SET.JPG" />
+    <Compile Include="covers\BURNING-FIELDS\1\1.JPG" />
+    <Compile Include="covers\CROSSED\33\33.JPG" />
     <Compile Include="covers\DREDD\UNDERBELLYSIGNED.JPG" />
+    <Compile Include="covers\EGO\1\1.JPG" />
     <Compile Include="covers\GRAYSON\1\1SIGNED.JPG" />
+    <Compile Include="covers\HELLBOY-IN-HELL\SET.JPG" />
+    <Compile Include="covers\HOTSPUR\SET.JPG" />
+    <Compile Include="covers\NEW-GODS-THE-BLOODLINE\9\9.JPG" />
+    <Compile Include="covers\PAX-ROMANA\1\1.JPG" />
+    <Compile Include="covers\REYN\1\1.JPG" />
+    <Compile Include="covers\RUMBLE-GIRLS\1\1.JPG" />
+    <Compile Include="covers\RUMBLE-GIRLS\3\3.JPG" />
+    <Compile Include="covers\SECRET-IDENTITIES\1\1A.JPG" />
+    <Compile Include="covers\SECRET-IDENTITIES\1\1B.JPG" />
     <Compile Include="covers\ST.-GEORGE\SET.JPG" />
     <Compile Include="covers\TALON\2\2.JPG" />
     <Compile Include="covers\TALON\2\2SIGNED.JPG" />
+    <Compile Include="covers\THE-GONERS\1\1.JPG" />
+    <Compile Include="covers\THE-INVINCIBLE-IRON-MAN\123\123.JPG" />
+    <Compile Include="covers\THE-NEW-TEEN-TITANS\SET.JPG" />
+    <Compile Include="covers\THE-SAGA-OF-THE-ORIGINAL-HUMAN-TORCH\SET.JPG" />
+    <Compile Include="covers\THIRD-EYE\SET.JPG" />
     <Compile Include="data\dcbs\18-1-2015.json" />
     <Compile Include="data\dcbs\latest.json" />
     <Compile Include="DisposableHeroes.ps1" />
@@ -4201,7 +4221,6 @@
     <Content Include="TFAW.ps1" />
     <Content Include="ebayinfo.ps1" />
     <Content Include="reed.ps1" />
-    <Content Include="comicbookstore.ps1" />
     <Content Include="review.ps1" />
     <Content Include="samples.ps1" />
     <Content Include="scanner.ps1" />
@@ -4234,6 +4253,8 @@
     <Folder Include="covers\2000AD-PRESENTS\6\" />
     <Folder Include="covers\2000AD-PRESENTS\7\" />
     <Folder Include="covers\2000AD-PRESENTS\8\" />
+    <Folder Include="covers\2000AD-SHOWCASE\" />
+    <Folder Include="covers\2000AD-SHOWCASE\50\" />
     <Folder Include="covers\2000AD\" />
     <Folder Include="covers\2000AD\1000\" />
     <Folder Include="covers\2000AD\1002\" />
@@ -6069,6 +6090,8 @@
     <Folder Include="covers\BIRTHRIGHT\2\" />
     <Folder Include="covers\BIRTHRIGHT\3\" />
     <Folder Include="covers\BIRTHRIGHT\4\" />
+    <Folder Include="covers\BITCH-PLANET\" />
+    <Folder Include="covers\BITCH-PLANET\1\" />
     <Folder Include="covers\BLACK-SCIENCE\" />
     <Folder Include="covers\BLACK-SCIENCE\1\" />
     <Folder Include="covers\BLACKGAS\" />
@@ -6092,6 +6115,8 @@
     <Folder Include="covers\BURN-THE-ORPHANAGE\3\" />
     <Folder Include="covers\BURN-THE-ORPHANAGE\4\" />
     <Folder Include="covers\BURN-THE-ORPHANAGE\5\" />
+    <Folder Include="covers\BURNING-FIELDS\" />
+    <Folder Include="covers\BURNING-FIELDS\1\" />
     <Folder Include="covers\BUSHIDO\" />
     <Folder Include="covers\CAMELOT\" />
     <Folder Include="covers\CAMELOT\1\" />
@@ -6246,6 +6271,8 @@
     <Folder Include="covers\CRISIS\6\" />
     <Folder Include="covers\CRISIS\8\" />
     <Folder Include="covers\CRISIS\9\" />
+    <Folder Include="covers\CROSSED\" />
+    <Folder Include="covers\CROSSED\33\" />
     <Folder Include="covers\CSI\" />
     <Folder Include="covers\CSI\3\" />
     <Folder Include="covers\DAREDEVIL\" />
@@ -6312,6 +6339,8 @@
     <Folder Include="covers\EAST-OF-WEST\7\" />
     <Folder Include="covers\EAST-OF-WEST\8\" />
     <Folder Include="covers\EAST-OF-WEST\9\" />
+    <Folder Include="covers\EGO\" />
+    <Folder Include="covers\EGO\1\" />
     <Folder Include="covers\EIGHTBALL\" />
     <Folder Include="covers\EIGHTBALL\2\" />
     <Folder Include="covers\ELECKTRA\" />
@@ -6444,11 +6473,13 @@
     <Folder Include="covers\HASTINGS\1\" />
     <Folder Include="covers\HAWKEYE\" />
     <Folder Include="covers\HAWKEYE\1\" />
+    <Folder Include="covers\HELLBOY-IN-HELL\" />
     <Folder Include="covers\HERO-COMICS\" />
     <Folder Include="covers\HERO-COMICS\1\" />
     <Folder Include="covers\HIP-HOP-FAMILY-TREE\" />
     <Folder Include="covers\HOAX-HUNTERS\" />
     <Folder Include="covers\HOAX-HUNTERS\0.1\" />
+    <Folder Include="covers\HOTSPUR\" />
     <Folder Include="covers\HULK\" />
     <Folder Include="covers\HULK\271\" />
     <Folder Include="covers\I-IS-FOR-IMAGE\" />
@@ -6713,6 +6744,8 @@
     <Folder Include="covers\NEMESIS-THE-WARLOCK\4\" />
     <Folder Include="covers\NEMESIS-THE-WARLOCK\6\" />
     <Folder Include="covers\NEMESIS-THE-WARLOCK\7\" />
+    <Folder Include="covers\NEW-GODS-THE-BLOODLINE\" />
+    <Folder Include="covers\NEW-GODS-THE-BLOODLINE\9\" />
     <Folder Include="covers\NON-PLAYER\" />
     <Folder Include="covers\NON-PLAYER\1\" />
     <Folder Include="covers\NOWHERE-MEN\" />
@@ -6732,6 +6765,8 @@
     <Folder Include="covers\OUTCAST\6\" />
     <Folder Include="covers\PAX-AMERICANA\" />
     <Folder Include="covers\PAX-AMERICANA\1\" />
+    <Folder Include="covers\PAX-ROMANA\" />
+    <Folder Include="covers\PAX-ROMANA\1\" />
     <Folder Include="covers\PETER-PANZERFAUST\" />
     <Folder Include="covers\PETER-PANZERFAUST\11\" />
     <Folder Include="covers\PETER-PANZERFAUST\12\" />
@@ -6827,6 +6862,8 @@
     <Folder Include="covers\REVOLVER\5\" />
     <Folder Include="covers\REVOLVER\6\" />
     <Folder Include="covers\REVOLVER\7\" />
+    <Folder Include="covers\REYN\" />
+    <Folder Include="covers\REYN\1\" />
     <Folder Include="covers\ROBO-HUNTER\" />
     <Folder Include="covers\ROBO-HUNTER\1\" />
     <Folder Include="covers\ROBO-HUNTER\2\" />
@@ -6840,6 +6877,9 @@
     <Folder Include="covers\ROCKET-GIRL\" />
     <Folder Include="covers\ROCKET-RACOON\" />
     <Folder Include="covers\ROCKET-RACOON\1\" />
+    <Folder Include="covers\RUMBLE-GIRLS\" />
+    <Folder Include="covers\RUMBLE-GIRLS\1\" />
+    <Folder Include="covers\RUMBLE-GIRLS\3\" />
     <Folder Include="covers\RUMBLE\" />
     <Folder Include="covers\RUMBLE\1\" />
     <Folder Include="covers\SABRINA\" />
@@ -6892,6 +6932,8 @@
     <Folder Include="covers\SECRET-HEARTS\17\" />
     <Folder Include="covers\SECRET-HISTORY-OF-THE-AUTHORITY\" />
     <Folder Include="covers\SECRET-HISTORY-OF-THE-AUTHORITY\4\" />
+    <Folder Include="covers\SECRET-IDENTITIES\" />
+    <Folder Include="covers\SECRET-IDENTITIES\1\" />
     <Folder Include="covers\SECRET-INVASION\" />
     <Folder Include="covers\SECRET-MESSAGES\" />
     <Folder Include="covers\SECRET-ORIGINS\" />
@@ -7130,6 +7172,8 @@
     <Folder Include="covers\THE-FUSE\5\" />
     <Folder Include="covers\THE-FUSE\6\" />
     <Folder Include="covers\THE-FUSE\7\" />
+    <Folder Include="covers\THE-GONERS\" />
+    <Folder Include="covers\THE-GONERS\1\" />
     <Folder Include="covers\THE-HUMANS\" />
     <Folder Include="covers\THE-HUMANS\0\" />
     <Folder Include="covers\THE-HUMANS\1\" />
@@ -7137,6 +7181,8 @@
     <Folder Include="covers\THE-INFINITE\" />
     <Folder Include="covers\THE-INFINITE\1\" />
     <Folder Include="covers\THE-INHUMANS\" />
+    <Folder Include="covers\THE-INVINCIBLE-IRON-MAN\" />
+    <Folder Include="covers\THE-INVINCIBLE-IRON-MAN\123\" />
     <Folder Include="covers\THE-KENTS\" />
     <Folder Include="covers\THE-KENTS\1\" />
     <Folder Include="covers\THE-KENTS\2\" />
@@ -7144,6 +7190,7 @@
     <Folder Include="covers\THE-KENTS\4\" />
     <Folder Include="covers\The-Lil-Depressed-Boy\" />
     <Folder Include="covers\The-Lil-Depressed-Boy\15\" />
+    <Folder Include="covers\THE-NEW-TEEN-TITANS\" />
     <Folder Include="covers\THE-NIGHTLY-NEWS\" />
     <Folder Include="covers\THE-NIGHTLY-NEWS\1\" />
     <Folder Include="covers\THE-NIGHTLY-NEWS\4\" />
@@ -7156,6 +7203,7 @@
     <Folder Include="covers\THE-RED-WING\3\" />
     <Folder Include="covers\THE-RED-WING\4\" />
     <Folder Include="covers\THE-SAGA-OF-THE-HUMAN-TORCH\" />
+    <Folder Include="covers\THE-SAGA-OF-THE-ORIGINAL-HUMAN-TORCH\" />
     <Folder Include="covers\THE-SECRET-DEFENDERS\" />
     <Folder Include="covers\THE-SECRET-DEFENDERS\10\" />
     <Folder Include="covers\THE-SECRET-SOCIETY-OF-SUPER-VILLIANS\" />
@@ -7326,6 +7374,7 @@
     <Folder Include="covers\THINK-TANK\7\" />
     <Folder Include="covers\THINK-TANK\8\" />
     <Folder Include="covers\THINK-TANK\9\" />
+    <Folder Include="covers\THIRD-EYE\" />
     <Folder Include="covers\THIRD-WORLD-WAR\" />
     <Folder Include="covers\THIRD-WORLD-WAR\1\" />
     <Folder Include="covers\THIRD-WORLD-WAR\2\" />

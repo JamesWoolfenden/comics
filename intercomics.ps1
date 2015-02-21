@@ -10,7 +10,8 @@ function get-intercomicsdata
    $comic=$title.replace(" ","+")
    $fullfilter="&kimpath3=$comic"
 
-   $url="https://www.kimonolabs.com/api/aq2ee2f2?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+   #$url="https://www.kimonolabs.com/api/aq2ee2f2?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+   $url="https://www.kimonolabs.com/api/ondemand/aq2ee2f2?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-debug "$(Get-Date) - Accessing $url"
    write-Host "$(Get-Date) - Looking for $title @ `"Intercomics`""
   
@@ -30,23 +31,22 @@ function get-intercomicsdata
 #>
    try
    {
-      $intercomicsresults=Invoke-RestMethod -Uri $url
+      $intercomicsresults=Invoke-RestMethod -Uri $url 
+      $results=$intercomicsresults.results.collection1
+      if ($results -eq $null)
+      {
+         throw
+      }
    }
    catch
    {
       Write-Warning "$(Get-Date) No data returned from $url"
       return $null
    }
-
-   if ($intercomicsresults.lastrunstatus -eq "failure")
-   {
-      write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
-      return $null
-   }
    
    $counter=0
    $intercomics=@()
-   $results=$intercomicsresults.results.collection1
+   $datetime=get-date
 
    foreach($result in $results)
    {
@@ -74,7 +74,7 @@ function get-intercomicsdata
       $record| Add-Member -type NoteProperty -name variant -value $variant
       $record| Add-Member -type NoteProperty -name price -value $price
       $record| Add-Member -type NoteProperty -name currency -value "&pound;"
-      $record| Add-Member -type NoteProperty -name rundate -value $intercomicsresults.lastsuccess
+      $record| Add-Member -type NoteProperty -name rundate -value $datetime
       $record| Add-Member -type NoteProperty -name site -value "Intercomics"
 
       $intercomics+=$record
