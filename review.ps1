@@ -436,6 +436,18 @@ function set-issue
       $estimateIssue=$rawIssue
    }
 
+   #rawtitle contains CGC append it
+   if ($rawtitle -match "cgc")
+   {
+      $estimateIssue+="CGC"
+   }
+   
+   #if it contains signed append that
+   if($rawtitle -match "signed")
+   {
+      $estimateIssue+="SIGNED"
+   }
+   
    $estimateIssue
  }  
 

@@ -183,6 +183,7 @@ function view-market
    $browser.visible=$true
    #$browser
 }
+
 function update-recordset
 {
   <#

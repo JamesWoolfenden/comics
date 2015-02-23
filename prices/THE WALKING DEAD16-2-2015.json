@@ -1,22 +1,6 @@
 [
     {
         "Title":  "THE WALKING DEAD",
-        "Issue":  "0",
-        "Cover":  0,
-        "TotalCost":  "0.99",
-        "Mean":  0.99,
-        "AveragePrice":  0.99,
-        "CurrentPrice":  0.99,
-        "Minimum":  0.99,
-        "Maximum":  0.99,
-        "Count":  1,
-        "AveragePaid":  null,
-        "AverageNetPaid":  null,
-        "Stock":  0,
-        "Date":  "\/Date(1424081275677)\/"
-    },
-    {
-        "Title":  "THE WALKING DEAD",
         "Issue":  "10",
         "Cover":  10,
         "TotalCost":  "31.50",
