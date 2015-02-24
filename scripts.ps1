@@ -87,7 +87,7 @@ function add-array
              }
 
              add-record -title $title -issue $issue -price $CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
-	         -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
+             -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
                  -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate -ImageSrc $set.ImageSrc -Link $set.Link
                  
              $count++
@@ -169,6 +169,7 @@ function view-market
    param(
    [Parameter(Mandatory=$true)]
    [string]$title)
+
    $title=$title.replace(" ","")
 
    $browser=new-object -com internetexplorer.application
@@ -183,21 +184,22 @@ function view-market
    $browser.visible=$true
    #$browser
 }
+
 function update-recordset
 {
   <#
       .SYNOPSIS 
        For reviewing a set of comic records
-	       
+           
       .PARAMETER title
-	Specifies the comic.
+    Specifies the comic.
       .PARAMETER Issue
-	Specifies the comic issue.
+    Specifies the comic issue.
       .PARAMETER sortby
-	Specifies the order parameter.
+    Specifies the order parameter.
       .PARAMETER status
-	An override to see comics in a certain status e.g. CLOSED.
-	    
+    An override to see comics in a certain status e.g. CLOSED.
+        
       .EXAMPLE
       C:\PS> update-recordset -title "The Walking Dead" -issue "1A" 
       
@@ -462,7 +464,7 @@ function get-records
  <#
    .SYNOPSIS 
    Retrieves ebay records and adds them to the db
-	    
+        
    .EXAMPLE
    C:\PS> get-records -title "The Walking Dead" -exclude "Poster"   
     This loads the search json db and scan ebay and ebid.
@@ -526,11 +528,11 @@ function get-records
       if ($result)
       {
          write-debug "`r`nOpen" 
-	     if ($result -is [system.array])
-	     {
-	       $found=$($result.count)
-	     }
-	     else
+         if ($result -is [system.array])
+         {
+           $found=$($result.count)
+         }
+         else
          {
             $found=1
          }
@@ -554,10 +556,10 @@ function get-issues
  <#
       .SYNOPSIS 
     Retrieves sold issue records for a title.
-	       
+           
       .PARAMETER title
-	Specifies the comic.
-	    
+    Specifies the comic.
+        
     .EXAMPLE
     C:\PS> get-issues -title "The Walking Dead" 
           
@@ -592,10 +594,10 @@ function get-allprices
    <#
       .SYNOPSIS 
     Retrieves sold issue records for a title.
-	       
+           
       .PARAMETER title
-	Specifies the comic.
-	    
+    Specifies the comic.
+        
     .EXAMPLE
     C:\PS> get-issues -title "The Walking Dead"        
    #>
@@ -663,7 +665,7 @@ function get-ebidrecords
    <#
       .SYNOPSIS 
        Rereiving and adding new records from ebid site
-	    
+        
       .EXAMPLE
       C:\PS> get-ebidrecords -title "THE WALKING DEAD"
       This lists all the open records marked watch
@@ -718,7 +720,7 @@ function get-allrecords
    <#
       .SYNOPSIS 
        Retrieves records from ebay and ebid
-	    
+        
       .EXAMPLE
       C:\PS> get-allrecords -title "THE WALKING DEAD" -exclude "Magazine"
       

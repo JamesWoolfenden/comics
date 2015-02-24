@@ -23,7 +23,7 @@ function get-auctiondata
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title    -value $result.title
 
-	  $cover=get-cover $results[$counter].issue
+      $cover=get-cover $results[$counter].issue
       $price=($result.price) -as [decimal]
 
       $record| Add-Member -type NoteProperty -name issue    -value $cover
@@ -35,7 +35,7 @@ function get-auctiondata
       #$record| Add-Member -type NoteProperty -name postage  -value $result.postage
 
       $auction+=$record
-	  $counter++
+      $counter++
    }
   
    write-host "$(Get-Date) - Found $counter"

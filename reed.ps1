@@ -6,12 +6,6 @@ function get-reeddata
    [Parameter(Mandatory=$true)]
    [PSObject]$record)
 
-   #Parameter 	Default value 	Parameter to append
-   #kimpath1 	advanced_search_result.php 	&kimpath1=newvalue
-   #keywords 	manifest%20destiny 	&keywords=newvalue
-   #sort 	2a 	&sort=newvalue
-   #listing 	1000 	&listing=newvalue
-   #osCsid 	pv7c5rk4j1u0p83fpanlr1oc63 	&osCsid=newvalue
    $title=$record.title.ToUpper()
    $comic=$title.replace(" ","%20")
    $search="&keywords=$comic"
@@ -36,28 +30,12 @@ function get-reeddata
    11X x x
    50X x x
 #>
-   try
-   {
-      $reedresults=Invoke-RestMethod -Uri $url  
-      $results=$reedresults.results.collection1| where {$_.title -ne ""}
-      if ($results -eq $null)
-      {
-         throw
-      }
-   }
-   catch
-   {
-      Write-Warning "$(Get-Date) No data returned from $url"
-      return $null
-   }
-  
 
+   $results=get-urltocomicarray -url $url -title $title -filters $record.exclude
+  
    $counter=0
    $reed=@()
 
-   $results=$results| where {$_.price -ne ""}
-   $results=$results| where {$_.title.text -notmatch "novel"}
-   $results=$results| where {$_.title.text -notmatch "Volume"}
    $datetime=get-date
 
    foreach ($result in $results)
@@ -70,6 +48,7 @@ function get-reeddata
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $temp=($result.cover.alt).ToUpper()
       $temp=$temp.split("#")
+
       if ($temp.count -eq 1)
       {
          $newtitle=$title.trim()
@@ -99,4 +78,41 @@ function get-reeddata
    
    write-host "$(Get-Date) - Found $counter"
    $reed
+}
+
+
+function get-urltocomicarray
+{
+   param(
+   [string]$url,
+   [string]$title,
+   [string[]]$filters)
+
+   $result=$null
+
+   try
+   {
+      $rawresults=Invoke-RestMethod -Uri $url  
+      $results=$rawresults.results.collection1| where {$_.title -ne ""}
+      
+      #title filters
+      foreach($filter in $filters)
+      {
+         $results=$results| where {$_.title.text -notmatch "$filter"}
+      }
+
+      #pricefilters
+      $results=$results| where {$_.price -ne ""}
+
+      if ($results -eq $null)
+      {
+         throw
+      }
+   }
+   catch
+   {
+      Write-Warning "$(Get-Date) No data returned from $url"
+   }
+
+   $results
 }
