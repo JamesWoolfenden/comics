@@ -8,7 +8,7 @@
         "variant":  "Alex + Ada",
         "price":  "1.16",
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "DCBS"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "ALEX + ADA 14",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "ALEX + ADA 13",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "ALEX + ADA 12",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "ALEX + ADA 11",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "ALEX + ADA 10",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "ALEX + ADA 9",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "ALEX + ADA 8",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "ALEX + ADA 7",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -116,7 +116,7 @@
         "variant":  "ALEX + ADA 6",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -128,7 +128,7 @@
         "variant":  "ALEX + ADA 5",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -140,7 +140,7 @@
         "variant":  "ALEX + ADA 4 SECOND PRINT",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -152,19 +152,7 @@
         "variant":  "ALEX + ADA 4 FIRST PRINT",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/nov130489.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov130489.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov130489.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  "ALEX",
-        "variant":  "ALEX + ADA 3 FIRST PRINT",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +164,19 @@
         "variant":  "ALEX + ADA 3 SECOND PRINT",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov130489.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov130489.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov130489.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "ALEX",
+        "variant":  "ALEX + ADA 3 FIRST PRINT",
+        "price":  2.10,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +188,7 @@
         "variant":  "ALEX + ADA 2 FIRST PRINT",
         "price":  7.99,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -200,7 +200,7 @@
         "variant":  "ALEX + ADA 1 FIRST PRINT",
         "price":  12.99,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -212,7 +212,7 @@
         "variant":  "ALEX + ADA 1 SECOND PRINT",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507839052)\/",
+        "rundate":  "\/Date(1424686412473)\/",
         "site":  "Close Encounters"
     },
     {
@@ -223,7 +223,7 @@
         "issue":  "14",
         "variant":  "14",
         "price":  1.95,
-        "rundate":  "\/Date(1424507842919)\/",
+        "rundate":  "\/Date(1424686416628)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -234,7 +234,7 @@
         "issue":  "13",
         "variant":  "13",
         "price":  1.95,
-        "rundate":  "\/Date(1424507842919)\/",
+        "rundate":  "\/Date(1424686416628)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -245,7 +245,7 @@
         "issue":  "Alex + Ada: Volume 2",
         "variant":  "Alex + Ada: Volume 2",
         "price":  6.89,
-        "rundate":  "\/Date(1424507842919)\/",
+        "rundate":  "\/Date(1424686416628)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -257,7 +257,7 @@
         "variant":  "10",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507847126)\/",
+        "rundate":  "\/Date(1424686421473)\/",
         "site":  "Reed"
     },
     {
@@ -269,7 +269,7 @@
         "variant":  "11",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507847126)\/",
+        "rundate":  "\/Date(1424686421473)\/",
         "site":  "Reed"
     },
     {
@@ -281,7 +281,7 @@
         "variant":  "12",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507847126)\/",
+        "rundate":  "\/Date(1424686421473)\/",
         "site":  "Reed"
     },
     {
@@ -293,7 +293,7 @@
         "variant":  "3",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507847126)\/",
+        "rundate":  "\/Date(1424686421473)\/",
         "site":  "Reed"
     },
     {
@@ -305,7 +305,7 @@
         "variant":  "4",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507847126)\/",
+        "rundate":  "\/Date(1424686421473)\/",
         "site":  "Reed"
     },
     {
@@ -317,7 +317,7 @@
         "variant":  "6",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507847126)\/",
+        "rundate":  "\/Date(1424686421473)\/",
         "site":  "Reed"
     },
     {
@@ -329,7 +329,7 @@
         "variant":  "9",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507847126)\/",
+        "rundate":  "\/Date(1424686421473)\/",
         "site":  "Reed"
     },
     {
@@ -341,7 +341,7 @@
         "variant":  "1FIRSTS",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -353,7 +353,7 @@
         "variant":  "SET",
         "price":  15.99,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -365,7 +365,7 @@
         "variant":  "1A",
         "price":  12.99,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -377,7 +377,7 @@
         "variant":  "1A",
         "price":  5.5,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -389,7 +389,7 @@
         "variant":  "2A",
         "price":  5,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -401,7 +401,7 @@
         "variant":  "3A",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -413,7 +413,7 @@
         "variant":  "4B",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -425,7 +425,7 @@
         "variant":  "5",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -437,7 +437,7 @@
         "variant":  "6",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -449,7 +449,7 @@
         "variant":  "7",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -461,7 +461,7 @@
         "variant":  "4B",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -473,7 +473,7 @@
         "variant":  "8",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -485,7 +485,7 @@
         "variant":  "5",
         "price":  0.75,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -497,7 +497,7 @@
         "variant":  "5",
         "price":  0.75,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -509,7 +509,7 @@
         "variant":  "3B",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -521,7 +521,7 @@
         "variant":  "VOL1",
         "price":  6.99,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -533,7 +533,7 @@
         "variant":  "VOL1",
         "price":  8.29,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -545,7 +545,7 @@
         "variant":  "1A",
         "price":  9.95,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -557,7 +557,7 @@
         "variant":  "VOL1",
         "price":  8.39,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -569,7 +569,7 @@
         "variant":  "1B",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -581,7 +581,7 @@
         "variant":  "4B",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -593,7 +593,7 @@
         "variant":  "10",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -605,19 +605,7 @@
         "variant":  "11",
         "price":  3.34,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/ALEX-AND-ADA-1-1st-Print-New-Bagged-/191117442850?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c7f7cbf22\u0026ssPageName=RSS:B:SHOP:GB:101",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-AND-ADA-1-1st-Print-New-Bagged-/191117442850?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c7f7cbf22\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/ALEX-AND-ADA-1-1st-Print-New-Bagged-/191117442850?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c7f7cbf22\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  "1",
-        "variant":  "1A",
-        "price":  9.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -629,7 +617,7 @@
         "variant":  "3B",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -641,7 +629,7 @@
         "variant":  "4B",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -653,7 +641,7 @@
         "variant":  "VOL1",
         "price":  6.97,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -665,7 +653,7 @@
         "variant":  "1A",
         "price":  8.99,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -677,7 +665,7 @@
         "variant":  "VOL1",
         "price":  7.67,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -689,7 +677,7 @@
         "variant":  "3B",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -701,7 +689,7 @@
         "variant":  "12",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -713,7 +701,7 @@
         "variant":  "12",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -725,31 +713,7 @@
         "variant":  "1FIRSTS",
         "price":  1.99,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Alex-Ada-1-2-3-4-5-by-Jonathan-Luna-and-Sarah-Vaughn-Image-AI-/331480988455?pt=LH_DefaultDomain_3\u0026hash=item4d2dce7b27",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Alex-Ada-1-2-3-4-5-by-Jonathan-Luna-and-Sarah-Vaughn-Image-AI-/331480988455?pt=LH_DefaultDomain_3\u0026hash=item4d2dce7b27\"\u003ehttp://www.ebay.co.uk/itm/Alex-Ada-1-2-3-4-5-by-Jonathan-Luna-and-Sarah-Vaughn-Image-AI-/331480988455?pt=LH_DefaultDomain_3\u0026hash=item4d2dce7b27\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  7.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Alex-Ada-6-7-8-9-10-by-Jonathan-Luna-and-Sarah-Vaughn-Image-Comics-AI-/331480988882?pt=LH_DefaultDomain_3\u0026hash=item4d2dce7cd2",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Alex-Ada-6-7-8-9-10-by-Jonathan-Luna-and-Sarah-Vaughn-Image-Comics-AI-/331480988882?pt=LH_DefaultDomain_3\u0026hash=item4d2dce7cd2\"\u003ehttp://www.ebay.co.uk/itm/Alex-Ada-6-7-8-9-10-by-Jonathan-Luna-and-Sarah-Vaughn-Image-Comics-AI-/331480988882?pt=LH_DefaultDomain_3\u0026hash=item4d2dce7cd2\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  7.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -761,7 +725,7 @@
         "variant":  "1FIRSTS",
         "price":  1.69,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -773,7 +737,7 @@
         "variant":  "8",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -785,7 +749,7 @@
         "variant":  "9",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -797,7 +761,7 @@
         "variant":  "3B",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -809,7 +773,19 @@
         "variant":  "12",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "21-2-2015",
+        "rundate":  "23-2-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ALEX-ADA-12-/400868429798?pt=LH_DefaultDomain_3\u0026hash=item5d559ecfe6",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-ADA-12-/400868429798?pt=LH_DefaultDomain_3\u0026hash=item5d559ecfe6\"\u003ehttp://www.ebay.co.uk/itm/ALEX-ADA-12-/400868429798?pt=LH_DefaultDomain_3\u0026hash=item5d559ecfe6\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "12",
+        "variant":  "12",
+        "price":  2.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "23-2-2015",
         "site":  "Auction"
     },
     {
@@ -821,7 +797,7 @@
         "variant":  "ALEX + ADA #STANDING ORDER",
         "price":  0.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507865171)\/",
+        "rundate":  "\/Date(1424686438810)\/",
         "site":  "Comic book shop"
     },
     {
@@ -833,7 +809,7 @@
         "variant":  "IMAGE FIRSTS ALEX + ADA #STANDING ORDER",
         "price":  0.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507865171)\/",
+        "rundate":  "\/Date(1424686438810)\/",
         "site":  "Comic book shop"
     },
     {
@@ -845,7 +821,7 @@
         "variant":  "ALEX + ADA #11 [(W) Jonathan Luna, Sarah Vaughn (A/CA) Jonathan Luna]",
         "price":  2.40,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507865171)\/",
+        "rundate":  "\/Date(1424686438810)\/",
         "site":  "Comic book shop"
     },
     {
@@ -857,7 +833,7 @@
         "variant":  "ALEX + ADA #12 [(W) Jonathan Luna, Sarah Vaughn (A/CA) Jonathan Luna]",
         "price":  2.40,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507865171)\/",
+        "rundate":  "\/Date(1424686438810)\/",
         "site":  "Comic book shop"
     },
     {
@@ -869,7 +845,7 @@
         "variant":  "FEB150588 ALEX + ADA #14",
         "price":  2.40,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507865171)\/",
+        "rundate":  "\/Date(1424686438810)\/",
         "site":  "Comic book shop"
     },
     {
@@ -881,7 +857,7 @@
         "variant":  "IMAGE FIRSTS ALEX + ADA #1 [(W) Jonathan Luna, Sarah Vaughn (A/CA) Jonathan Luna]",
         "price":  0.80,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507865171)\/",
+        "rundate":  "\/Date(1424686438810)\/",
         "site":  "Comic book shop"
     },
     {
@@ -893,7 +869,7 @@
         "variant":  "JAN150668 ALEX + ADA #13",
         "price":  2.40,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507865171)\/",
+        "rundate":  "\/Date(1424686438810)\/",
         "site":  "Comic book shop"
     },
     {
@@ -905,7 +881,7 @@
         "variant":  "TRANSFORMERS MOVIE ADAPTATION [Kris Oprisko (w); Alex Milne (a) ]",
         "price":  13.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507865171)\/",
+        "rundate":  "\/Date(1424686438810)\/",
         "site":  "Comic book shop"
     },
     {
@@ -915,21 +891,9 @@
         "title":  "ALEX ADA",
         "issue":  "3",
         "variant":  "3 COVER B 2ND PTG",
-        "price":  1.9418734400000000897,
+        "price":  1.94518337,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507875323)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Alex+%2B+Ada+%234+Cover+A+1st_1312921",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Alex+%2B+Ada+%234+Cover+A+1st_1312921\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Alex+%2B+Ada+%234+Cover+A+1st_1312921\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  "4",
-        "variant":  "4 COVER A 1ST PTG",
-        "price":  1.9418734400000000897,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507875323)\/",
+        "rundate":  "\/Date(1424686450449)\/",
         "site":  "Midtown"
     },
     {
@@ -939,9 +903,21 @@
         "title":  "ALEX ADA",
         "issue":  "4",
         "variant":  "4 COVER B 2ND PTG",
-        "price":  1.9418734400000000897,
+        "price":  1.94518337,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507875323)\/",
+        "rundate":  "\/Date(1424686450449)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Alex+%2B+Ada+%234+Cover+A+1st_1312921",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Alex+%2B+Ada+%234+Cover+A+1st_1312921\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Alex+%2B+Ada+%234+Cover+A+1st_1312921\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "4",
+        "variant":  "4 COVER A 1ST PTG",
+        "price":  1.94518337,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1424686450449)\/",
         "site":  "Midtown"
     },
     {
@@ -951,9 +927,9 @@
         "title":  "ALEX ADA",
         "issue":  "5",
         "variant":  "5",
-        "price":  1.9418734400000000897,
+        "price":  1.94518337,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507875323)\/",
+        "rundate":  "\/Date(1424686450449)\/",
         "site":  "Midtown"
     },
     {
@@ -963,9 +939,9 @@
         "title":  "ALEX ADA",
         "issue":  "10",
         "variant":  "10",
-        "price":  1.9418734400000000897,
+        "price":  1.94518337,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507875323)\/",
+        "rundate":  "\/Date(1424686450449)\/",
         "site":  "Midtown"
     },
     {
@@ -975,9 +951,9 @@
         "title":  "ALEX ADA",
         "issue":  "11",
         "variant":  "11",
-        "price":  1.9418734400000000897,
+        "price":  1.94518337,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507875323)\/",
+        "rundate":  "\/Date(1424686450449)\/",
         "site":  "Midtown"
     },
     {
@@ -987,9 +963,9 @@
         "title":  "ALEX ADA",
         "issue":  "12",
         "variant":  "12",
-        "price":  1.6496182400000000762,
+        "price":  1.65243002,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507875323)\/",
+        "rundate":  "\/Date(1424686450449)\/",
         "site":  "Midtown"
     },
     {
@@ -999,9 +975,9 @@
         "title":  "ALEX ADA",
         "issue":  "14",
         "variant":  "14",
-        "price":  1.2599446400000000582,
+        "price":  1.26209222,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507875323)\/",
+        "rundate":  "\/Date(1424686450449)\/",
         "site":  "Midtown"
     },
     {
@@ -1011,129 +987,9 @@
         "title":  "ALEX ADA",
         "issue":  "1",
         "variant":  "1",
-        "price":  0,
+        "price":  0.000000,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507875323)\/",
+        "rundate":  "\/Date(1424686450449)\/",
         "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ALEX-ADA-No1/sku/291963540.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ALEX-ADA-No1/sku/291963540.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ALEX-ADA-No1/sku/291963540.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  null,
-        "variant":  "ALEX + ADA NO.1",
-        "price":  1.9418734400000000897,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507882308)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ALEX-ADA-7/sku/294262153.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ALEX-ADA-7/sku/294262153.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ALEX-ADA-7/sku/294262153.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  null,
-        "variant":  "ALEX + ADA #7",
-        "price":  1.9418734400000000897,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507882308)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ALEX-ADA-5/sku/293407373.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ALEX-ADA-5/sku/293407373.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ALEX-ADA-5/sku/293407373.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  null,
-        "variant":  "ALEX + ADA #5",
-        "price":  1.9418734400000000897,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507882308)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ALEX-ADA-No4/sku/293260424.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ALEX-ADA-No4/sku/293260424.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ALEX-ADA-No4/sku/293260424.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  null,
-        "variant":  "ALEX + ADA NO.4",
-        "price":  1.9418734400000000897,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507882308)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ALEX-ADA-No3/sku/293061735.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ALEX-ADA-No3/sku/293061735.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ALEX-ADA-No3/sku/293061735.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  null,
-        "variant":  "ALEX + ADA NO.3",
-        "price":  1.9418734400000000897,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507882308)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ALEX-ADA-NO2/sku/292763400.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ALEX-ADA-NO2/sku/292763400.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ALEX-ADA-NO2/sku/292763400.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  null,
-        "variant":  "ALEX + ADA NO.2",
-        "price":  1.9418734400000000897,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507882308)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ALEX-ADA-8/sku/294463581.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ALEX-ADA-8/sku/294463581.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ALEX-ADA-8/sku/294463581.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  null,
-        "variant":  "ALEX + ADA #8",
-        "price":  1.9418734400000000897,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507882308)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ALEX-ADA-6/sku/293961615.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ALEX-ADA-6/sku/293961615.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ALEX-ADA-6/sku/293961615.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  null,
-        "variant":  "ALEX + ADA #6",
-        "price":  1.9418734400000000897,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507882308)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ALEX-ADA-10/sku/295001394.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ALEX-ADA-10/sku/295001394.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ALEX-ADA-10/sku/295001394.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  null,
-        "variant":  "ALEX + ADA #10",
-        "price":  1.9418734400000000897,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507882308)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/ALEX-ADA-9/sku/294786641.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/ALEX-ADA-9/sku/294786641.uts\"\u003ehttp://www.gohastings.com/product/BOOK/ALEX-ADA-9/sku/294786641.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ALEX ADA",
-        "issue":  null,
-        "variant":  "ALEX + ADA #9",
-        "price":  1.9418734400000000897,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424507882308)\/",
-        "site":  "Hastings"
     }
 ]
