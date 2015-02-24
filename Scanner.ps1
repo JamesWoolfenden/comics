@@ -11,7 +11,7 @@ import-Module "$PSScriptRoot\dcbs.ps1" -force
 import-Module "$PSScriptRoot\midtown.ps1" -force
 import-Module "$PSScriptRoot\intercomics.ps1" -force
 import-Module "$PSScriptRoot\comicxposure.ps1" -force
-import-module "$PSScriptRoot\xrates.ps1" -force
+import-module "$PSScriptRoot\modules\xrates.psd1" -force
 import-module "$PSScriptRoot\hastings.ps1" -force
 
 function get-market

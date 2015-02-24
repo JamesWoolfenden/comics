@@ -1,7 +1,7 @@
 
 
 import-module "$PSScriptRoot\core.ps1" -force
-import-module "$PSScriptRoot\xrates.ps1" -force
+import-module "$PSScriptRoot\modules\xrates.psd1" -force
 
 
 #http://shop.comicxposure.com/Image-Comics_c27.htm

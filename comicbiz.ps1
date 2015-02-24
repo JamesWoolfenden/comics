@@ -1,4 +1,5 @@
 import-module "$PSScriptRoot\core.ps1" -force
+import-module "$PSScriptRoot\modules\url.psd1" -force
 
 function get-comicbizdata
 {
@@ -15,48 +16,18 @@ function get-comicbizdata
       $title=$record.title.ToUpper()
    }
    
-   $comic=$title.replace(" ","%20")
-   $search="&filter_name=$comic"
+   $comic     =$title.replace(" ","%20")
+   $search    ="&filter_name=$comic"
    $fullfilter=$search
-   $site="The Comic Biz Store"
-   $url="https://www.kimonolabs.com/api/ondemand/b1efn3xu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-debug "Accessing $url"
-   write-Host "$(Get-Date) - Looking for $title @ `"$site`""
-  
-<# Postage
-   1X  x x
-   2X  x x
-   3X  x x
-   4X  x x
-   5X  x x
-   6X  x x
-   7X  x x
-   8X  x x
-   9X  x x
-   10X x x
-   11X x x
-   50X x x
-#>
-   try
-   {
-      $cbsresults=Invoke-RestMethod -Uri $url 
-      $results=$cbsresults.results.collection1
-      if ($results -eq $null)
-      {
-         throw
-      }
-   }
-   catch
-   {
-      Write-Warning "$(Get-Date) No data returned from $url"
-      return $null
-   }
-   
-   $counter=0
-   $comicbiz=@()
+   $site      ="The Comic Biz Store"
+   $url       ="https://www.kimonolabs.com/api/ondemand/b1efn3xu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
 
-  
-   $datetime=Get-Date
+   $results   =get-urltocomicarray -url $url -title $title -filters $record.exclude -site $site
+    
+   $counter   =0
+   $comicbiz  =@()
+   $datetime  =Get-Date
+   
    foreach($result in $results)
    {
       $record= New-Object psobject
@@ -110,3 +81,18 @@ function get-coverdetails
    
    $issue
 }
+
+<# Postage
+   1X  x x
+   2X  x x
+   3X  x x
+   4X  x x
+   5X  x x
+   6X  x x
+   7X  x x
+   8X  x x
+   9X  x x
+   10X x x
+   11X x x
+   50X x x
+#>

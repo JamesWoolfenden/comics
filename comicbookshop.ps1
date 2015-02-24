@@ -1,4 +1,5 @@
 import-module "$PSScriptRoot\core.ps1" -force
+import-module "$PSScriptRoot\modules\url.psd1" -force
 
 function get-comicbookshopdata
 {
@@ -15,50 +16,17 @@ function get-comicbookshopdata
       $title=$record.title.ToUpper()
    }
    
-   $comic=$title.replace(" ","+")
-   $search="&keyword=$comic"
-   $site="Comic book shop"
+   $comic     =$title.replace(" ","+")
+   $search    ="&keyword=$comic"
+   $site      ="Comic book shop"
    $fullfilter=$search
-   $url="https://www.kimonolabs.com/api/azk3oj0y?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-debug "Accessing $url"
-   write-Host "$(Get-Date) - Looking for $title @ `"$site`""
+   $url       ="https://www.kimonolabs.com/api/azk3oj0y?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+   
+   $results   =get-urltocomicarray -url $url -title $title -filters $record.exclude -site $site
   
-<# Postage
-   1X  x x
-   2X  x x
-   3X  x x
-   4X  x x
-   5X  x x
-   6X  x x
-   7X  x x
-   8X  x x
-   9X  x x
-   10X x x
-   11X x x
-   50X x x
-#>
    $counter=0
    $comicbookshop=@()
 
-   try
-   {
-      $cbsresults=Invoke-RestMethod -Uri $url 
-      $results=$cbsresults.results.collection1
-      If ($results -eq $null)
-      {
-        throw
-      }
-   }
-   catch
-   {
-      Write-Warning "$(Get-Date) No data returned from $url"
-      return $null
-   }
-  
-   
-   $results=$results|where {$_.title.text -notmatch "vol"}
-   $results=$results|where {$_.title.text -notmatch "T/S"}
-   $results=$results|where {$_.title.text -notmatch "Novel"}
    $datetime=get-date
 
    foreach($result in $results)
@@ -110,3 +78,18 @@ function get-comicbookshopdata
    write-host "$(Get-Date) - Found $counter" 
    $comicbookshop
 }
+
+<# Postage
+   1X  x x
+   2X  x x
+   3X  x x
+   4X  x x
+   5X  x x
+   6X  x x
+   7X  x x
+   8X  x x
+   9X  x x
+   10X x x
+   11X x x
+   50X x x
+#>

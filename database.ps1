@@ -6,7 +6,7 @@ function get-pounds
        returns clean currency string when given a dirty string    
       
       .PARAMETER dirty
-      	    
+            
       .EXAMPLE
       C:\PS>  get-pounds -dirty    
    #>
@@ -41,7 +41,7 @@ function get-cover
        attempts to find cover issue when given a dirty string    
       
       .PARAMETER dirty
-      	    
+            
       .EXAMPLE
       C:\PS>  get-cover -dirty    
    #>
@@ -54,13 +54,13 @@ function get-cover
    {
       write-debug "Analysing cover $dirty"
       if ($dirty.Contains("#"))
-	  {
+      {
          $dirty=$dirty.split("#")[1]
-	  }
-	  elseif (($dirty.ToUpper()).Contains("PROG"))
-	  {
-	     $dirty=($dirty.ToUpper() -split("PROG"))[1]
-	  }
+      }
+      elseif (($dirty.ToUpper()).Contains("PROG"))
+      {
+         $dirty=($dirty.ToUpper() -split("PROG"))[1]
+      }
 
       [regex]$r="[^0-9.]"
       $clean=$r.replace($dirty,"")
@@ -78,13 +78,13 @@ function add-record
    <#
       .SYNOPSIS 
        Adds a comic sale record.
-	    
+        
       .DESCRIPTION
        Adds a comic sale record to the db
       
       .PARAMETER Name
-	Specifies the file name.
-	    
+    Specifies the file name.
+        
       .EXAMPLE
       C:\PS> add-record -title "The Walking Dead" -issue "1A" -price 12.5 -status CLOSED -bought $true -site FP -seller FP
       .EXAMPLE
@@ -586,10 +586,10 @@ function get-selleritems
    <#
       .SYNOPSIS 
        For reviewing a set open of comic sales by vendor
-	        
+            
       .PARAMETER seller
-	Specifies the seller. If left blank orders by seller.
-	    
+    Specifies the seller. If left blank orders by seller.
+        
       .EXAMPLE
       C:\PS> get-selleritems -seller blackadam 
       
@@ -692,7 +692,7 @@ function update-issue
       .PARAMETER NewIssue
       
       .PARAMETER title
-	    
+        
       .EXAMPLE
       C:\PS>  update-issue -OldIssue 127:SIGNED -title "The Walking Dead" -NewIssue 127SIGNED         
    #>

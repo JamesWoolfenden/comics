@@ -1,5 +1,6 @@
 import-module "$PSScriptRoot\core.ps1" -force
-import-module "$PSScriptRoot\xrates.ps1" -force
+import-module "$PSScriptRoot\modules\xrates.psd1" -force
+import-module "$PSScriptRoot\modules\url.psd1" -force
 
 function get-hastingsdata
 {
@@ -8,34 +9,17 @@ function get-hastingsdata
    [PSObject]$Record,
    $dollarrate=(get-gbpdollarrate))
    
-   $title=$record.title.ToUpper()
-   $comic=$title.replace(" ","+")
-   $keywords="&keywords=$comic"
-   $site="Hastings"
-   $url="https://www.kimonolabs.com/api/4frkfrdo?apikey=01f250503b7c40eb0ce695da7d74cbb1$keywords"
+   $title     =$record.title.ToUpper()
+   $comic     =$title.replace(" ","+")
+   $keywords  ="&keywords=$comic"
+   $site      ="Hastings"
+   $url       ="https://www.kimonolabs.com/api/4frkfrdo?apikey=01f250503b7c40eb0ce695da7d74cbb1$keywords"
 
-   write-debug "Accessing $url"
-   write-Host "$(Get-Date) - Looking for $($record.title) @ `"$site`""
-   
-   try
-   {
-      $hastingsresults=invoke-restmethod -uri $url
-   }
-   catch
-   {
-      Write-Warning "$(Get-Date) No data returned from $url"
-      return $null
-   }
-
-   if ($hastingsresults.lastrunstatus -eq "failure")
-   {
-      write-host "$(Get-Date) - Run Failed" -ForegroundColor Red
-      return $null
-   }
-
+   $results   =get-urltocomicarray -url $url -title $title -filters $record.exclude -site $site
+  
    $counter = 0
    $hastings= @()
-   $results = $hastingsresults.results.collection1
+
    $arraytitle=$title.split(" ")
 
    foreach($part in $arraytitle)
@@ -86,7 +70,7 @@ function get-hastingsdata
          }
       }
          
-	  $issue=get-numeric $temp[0]
+      $issue=get-numeric $temp[0]
       $inpounds=0
 
       try{

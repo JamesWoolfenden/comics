@@ -85,8 +85,8 @@ function Viewer
          }
          default
          {
-	    $ie=view $($record.ebayitem)
-	 }
+        $ie=view $($record.ebayitem)
+     }
       }
    }
    else 

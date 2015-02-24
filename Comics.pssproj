@@ -106,6 +106,7 @@
     <Compile Include="moretodo.txt" />
     <Compile Include="prices\*.json" />
     <Compile Include="prices\*.txt" />
+    <Compile Include="reed.ps1" />
     <Compile Include="rss\EbayRssPowershellModule.psd1" />
     <Compile Include="rss\EbayRssPowershellModule.psm1" />
     <Compile Include="Excel\comics.xls" />
@@ -127,7 +128,6 @@
     <Compile Include="split-set.ps1" />
     <Compile Include="sql\math.sql" />
     <Compile Include="todo.txt" />
-    <Compile Include="xrates.ps1" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="altcategories.txt" />
@@ -142,6 +142,10 @@
     <Content Include="livedata\*.json" />
     <Content Include="livedata\*.txt" />
     <Content Include="intercomics.ps1" />
+    <Content Include="modules\xrates.psm1" />
+    <Content Include="modules\xrates.psd1" />
+    <Content Include="modules\url.psd1" />
+    <Content Include="modules\url.psm1" />
     <Content Include="prices\*.txt" />
     <Content Include="prices\*.json" />
     <Content Include="covers\2000AD-GOLD\1\1.jpg" />
@@ -4220,12 +4224,11 @@
     <Content Include="midtown.ps1" />
     <Content Include="TFAW.ps1" />
     <Content Include="ebayinfo.ps1" />
-    <Content Include="reed.ps1" />
     <Content Include="review.ps1" />
     <Content Include="samples.ps1" />
     <Content Include="scanner.ps1" />
     <Content Include="closeencounters.ps1" />
-    <Content Include="info.ps1" />
+    <Content Include="watch.ps1" />
   </ItemGroup>
   <ItemGroup>
     <None Include="rss\Build-Url.ps1" />
@@ -7541,6 +7544,7 @@
     <Folder Include="jqwidgets\demos\sampledata\" />
     <Folder Include="livedata\" />
     <Folder Include="javascript\" />
+    <Folder Include="modules\" />
     <Folder Include="prices\" />
     <Folder Include="rss\" />
     <Folder Include="sales\" />

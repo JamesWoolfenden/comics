@@ -3,7 +3,7 @@ function get-watch
    <#
       .SYNOPSIS 
        For viewing a set open of watch items
-	    
+        
       .EXAMPLE
       C:\PS> get-watch
       This lists all the open records marked watch
@@ -19,7 +19,7 @@ function watch
    <#
       .SYNOPSIS 
        For reviewing a set open of watch items
-	    
+        
       .EXAMPLE
       C:\PS> watch
       

@@ -1,4 +1,6 @@
 import-module "$PSScriptRoot\core.ps1" -force
+import-module "$PSScriptRoot\modules\url.psd1" -force
+
 
 function get-reeddata
 {
@@ -6,36 +8,17 @@ function get-reeddata
    [Parameter(Mandatory=$true)]
    [PSObject]$record)
 
-   $title=$record.title.ToUpper()
-   $comic=$title.replace(" ","%20")
-   $search="&keywords=$comic"
-   $site="Reed Comics"
+   $title     =$record.title.ToUpper()
+   $comic     =$title.replace(" ","%20")
+   $search    ="&keywords=$comic"
+   $site      ="Reed Comics"
    $fullfilter=$search
-   $url="https://www.kimonolabs.com/api/ondemand/b1awm6nu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+   $url       ="https://www.kimonolabs.com/api/ondemand/b1awm6nu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
 
-   write-debug "Accessing $url"
-   write-Host "$(Get-Date) - Looking for $title @ `"$site`""
-
-<# Postage
-   1X  x x
-   2X  x x
-   3X  x x
-   4X  x x
-   5X  x x
-   6X  x x
-   7X  x x
-   8X  x x
-   9X  x x
-   10X x x
-   11X x x
-   50X x x
-#>
-
-   $results=get-urltocomicarray -url $url -title $title -filters $record.exclude
+   $results=get-urltocomicarray -url $url -title $title -filters $record.exclude -site $site
   
    $counter=0
    $reed=@()
-
    $datetime=get-date
 
    foreach ($result in $results)
@@ -80,39 +63,17 @@ function get-reeddata
    $reed
 }
 
-
-function get-urltocomicarray
-{
-   param(
-   [string]$url,
-   [string]$title,
-   [string[]]$filters)
-
-   $result=$null
-
-   try
-   {
-      $rawresults=Invoke-RestMethod -Uri $url  
-      $results=$rawresults.results.collection1| where {$_.title -ne ""}
-      
-      #title filters
-      foreach($filter in $filters)
-      {
-         $results=$results| where {$_.title.text -notmatch "$filter"}
-      }
-
-      #pricefilters
-      $results=$results| where {$_.price -ne ""}
-
-      if ($results -eq $null)
-      {
-         throw
-      }
-   }
-   catch
-   {
-      Write-Warning "$(Get-Date) No data returned from $url"
-   }
-
-   $results
-}
+<# Postage
+   1X  x x
+   2X  x x
+   3X  x x
+   4X  x x
+   5X  x x
+   6X  x x
+   7X  x x
+   8X  x x
+   9X  x x
+   10X x x
+   11X x x
+   50X x x
+#>
