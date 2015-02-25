@@ -90,11 +90,11 @@ function update-record
    
    $newtitle=(set-title -rawtitle $($record.Title)).ToUpper()
 
-   $color=found-image  -title $newtitle -issue $record.Issue
+   $color=get-image  -title $newtitle -issue $record.Issue
    
    $estimateIssue=set-issue -rawissue $($record.Issue) -rawtitle $($record.Description) -title $newtitle -color $color
 
-   $color=found-image  -title $newtitle -issue $estimateIssue
+   $color=get-image  -title $newtitle -issue $estimateIssue
    
    write-host "Issue $($estimateIssue) or (i)dentify:" -Foregroundcolor $color -nonewline
    $actualIssue=read-host  
@@ -359,7 +359,6 @@ function set-issue
              $splitstring= $splitstring[0]
           }     
 
-          #found-image  -title $newtitle -issue $record.Issue
           if ($splitstring)
           {
              $estimateIssue=$splitstring 

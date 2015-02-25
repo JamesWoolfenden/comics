@@ -1,4 +1,4 @@
-function Chooser
+function get-coverselection
 {
   <#
       .SYNOPSIS 
@@ -80,7 +80,7 @@ function get-imagetitle
       $obj.Add_MouseHover({$obj.backcolor = [System.Drawing.Color]::Azure})
       $obj.Add_MouseLeave({$obj.backcolor = [System.Drawing.Color]::CornflowerBlue})
       $ToolTip.SetToolTip($obj,$imgfile.BaseName )
-      $obj.Add_Click({Chooser $($obj.Name)}.GetNewClosure())
+      $obj.Add_Click({get-coverselection $($obj.Name)}.GetNewClosure())
       $Form.Controls.Add($obj)
       $x=$x+$img.Size.Width+10
       $counter++
@@ -93,7 +93,7 @@ function get-imagetitle
    $Form.Left           = 0
    $Form.backcolor      = [System.Drawing.Color]::Black
    $Form.FormBorderStyle = [System.Windows.Forms.FormBorderStyle]::Fixed3D
-   $Form.Text           = "Cover Chooser"
+   $Form.Text           = "Cover selector"
    $Form.Font           = New-Object System.Drawing.Font("Verdana",10,[System.Drawing.FontStyle]::Bold)
    $Form.maximumsize    = New-Object System.Drawing.Size($Form.width,260)
    $form.HorizontalScroll.Visible=$true
@@ -120,7 +120,7 @@ function get-imagetitle
    $choice
 }
 
-function found-image
+function get-image
 {
    param(
    [Parameter(Mandatory=$true)]
