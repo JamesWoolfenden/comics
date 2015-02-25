@@ -27,6 +27,7 @@
     <Compile Include=".gitattributes" />
     <Compile Include=".gitignore" />
     <Compile Include="comicbiz.ps1" />
+    <Compile Include="comicconnect.ps1" />
     <Compile Include="covers\2000AD-SHOWCASE\50\50.JPG" />
     <Compile Include="covers\ADVENTURES-OF-SUPERMAN\14\14.JPG" />
     <Compile Include="covers\BITCH-PLANET\1\1.JPG" />
@@ -53,9 +54,10 @@
     <Compile Include="covers\THE-NEW-TEEN-TITANS\SET.JPG" />
     <Compile Include="covers\THE-SAGA-OF-THE-ORIGINAL-HUMAN-TORCH\SET.JPG" />
     <Compile Include="covers\THIRD-EYE\SET.JPG" />
+    <Compile Include="data\comicxposure\latest.json" />
     <Compile Include="data\dcbs\18-1-2015.json" />
     <Compile Include="data\dcbs\latest.json" />
-    <Compile Include="DisposableHeroes.ps1" />
+    <Compile Include="disposableHeroes.ps1" />
     <Compile Include="ebaydata.ps1" />
     <Compile Include="javascript\Script1.js" />
     <Compile Include="jqwidgets\demos\jqxchart\javascript_chart_bind_to_xml.htm" />
@@ -113,7 +115,7 @@
     <Compile Include="Excel\comics2.xls" />
     <Compile Include="core.ps1" />
     <Compile Include="database.ps1" />
-    <Compile Include="form.ps1" />
+    <Compile Include="modules\form.psm1" />
     <Compile Include="fp.ps1" />
     <Compile Include="rss\Get-EbayRssItems.ps1" />
     <Compile Include="rss\Get-RssContent.ps1" />
@@ -134,7 +136,7 @@
     <Content Include="comicbookshop.ps1" />
     <Content Include="comicvine.txt" />
     <Content Include="comicxposure.ps1" />
-    <Content Include="DCBS.ps1" />
+    <Content Include="dcbs.ps1" />
     <Content Include="auction.ps1" />
     <Content Include="hastings.ps1" />
     <Content Include="history.ps1" />
@@ -142,6 +144,8 @@
     <Content Include="livedata\*.json" />
     <Content Include="livedata\*.txt" />
     <Content Include="intercomics.ps1" />
+    <Content Include="modules\form.psd1" />
+    <Content Include="modules\watch.psd1" />
     <Content Include="modules\xrates.psm1" />
     <Content Include="modules\xrates.psd1" />
     <Content Include="modules\url.psd1" />
@@ -4228,13 +4232,14 @@
     <Content Include="samples.ps1" />
     <Content Include="scanner.ps1" />
     <Content Include="closeencounters.ps1" />
-    <Content Include="watch.ps1" />
+    <Content Include="modules\watch.psm1" />
   </ItemGroup>
   <ItemGroup>
     <None Include="rss\Build-Url.ps1" />
     <None Include="utils.ps1" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="backup\" />
     <Folder Include="covers\" />
     <Folder Include="covers\2000AD-GOLD\" />
     <Folder Include="covers\2000AD-GOLD\1\" />
@@ -7535,6 +7540,7 @@
     <Folder Include="covers\Y-THE-LAST-MAN\1\" />
     <Folder Include="covers\ZOMBIE-WORLD\" />
     <Folder Include="data\" />
+    <Folder Include="data\comicxposure\" />
     <Folder Include="data\dcbs\" />
     <Folder Include="Excel\" />
     <Folder Include="jqwidgets\" />

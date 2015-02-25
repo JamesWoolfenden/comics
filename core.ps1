@@ -3,7 +3,7 @@ function scan
    <#
       .SYNOPSIS 
        Reviews all selected comics and updates db with new and updated items
-	    
+        
       .EXAMPLE
       C:\PS> scan
       This loads the search json db and scan ebay and ebid.
@@ -19,14 +19,14 @@ function scan
      }
 
      if ($search.Enabled)
-	 { 
-	    get-allrecords -search $search
-	 }
-	 Else
-	 {
-	    Write-host "`r`nSearch disabled for $($search.title)" -foregroundcolor cyan
-	 }
-	 
+     { 
+        get-allrecords -search $search
+     }
+     Else
+     {
+        Write-host "`r`nSearch disabled for $($search.title)" -foregroundcolor cyan
+     }
+     
    }
 }
 
@@ -35,7 +35,7 @@ function best-buys
    <#
       .SYNOPSIS 
        Given a results object, this function add average and current price plus the margin available and returns the new array.
-	    
+        
       .EXAMPLE
       C:\PS> best-buys $resultarray
 
@@ -74,7 +74,7 @@ function get-bestbuy
     <#
       .SYNOPSIS 
        Gets and sorts an array of a certain table by margin
-	    
+        
       .EXAMPLE
       C:\PS> get-bestbuy -title "THE WALKING DEAD"
 
@@ -110,7 +110,7 @@ function combine-data
 <#
       .SYNOPSIS 
        combine market feed results
-	    
+        
       .EXAMPLE
       C:\PS> combine-data $title
 
@@ -134,7 +134,7 @@ function get-price
   <#
       .SYNOPSIS 
        For return numeric price from a dirty string
-	    
+        
       .EXAMPLE
       C:\PS> get-price "$3.59"
 
@@ -228,7 +228,7 @@ function read-hostdecimal
     <#
       .SYNOPSIS 
        Same as read host but only accepts decimal entries
-	    
+        
       .EXAMPLE
       C:\PS> read-hostdecimal
    #>
@@ -256,7 +256,7 @@ function update-set
     <#
       .SYNOPSIS 
        Allows the individual update of a resultset 
-	    
+        
       .EXAMPLE
       C:\PS> update-set $(get-selleritems -seller blackadam -nogrid)
 

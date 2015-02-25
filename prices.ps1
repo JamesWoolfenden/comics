@@ -13,8 +13,6 @@ function write-prices
       $filetitle="$title"+$(datestring)
       $prices |ConvertTo-Json -depth 999 | Out-File "$PSScriptRoot\prices\$($filetitle).json" -Encoding ascii
       cp $PSScriptRoot\prices\$($filetitle).json "$PSScriptRoot\prices\latest-$($title).json"
-      #$prices |ConvertTo-Json -depth 999 | Out-File "$PSScriptRoot\prices\$($filetitle).txt" -Encoding utf8
-      #cp $PSScriptRoot\prices\$($filetitle).txt "$PSScriptRoot\prices\latest-$($title).txt"
    }
    Else
    {

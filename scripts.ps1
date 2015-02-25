@@ -4,8 +4,8 @@ import-module "$PSScriptRoot\rss\EbayRssPowershellModule.psm1" -force
 import-module "$PSScriptRoot\database.ps1"
 import-module "$PSScriptRoot\split-set.ps1"
 import-module "$PSScriptRoot\show-image.ps1"
-import-module "$PSScriptRoot\form.ps1"
-import-module "$PSScriptRoot\watch.ps1"
+import-module "$PSScriptRoot\modules\form.psd1" -force
+import-module "$PSScriptRoot\modules\watch.psd1"
 import-module "$PSScriptRoot\core.ps1"
 import-module "$PSScriptRoot\search-data.ps1"
 import-module "$PSScriptRoot\review.ps1"
@@ -49,10 +49,10 @@ function add-array
    [Parameter(Mandatory=$true)]
    $resultset, 
    [Parameter(Mandatory=$true)]
-   $title, 
+   [string]$title, 
    [Parameter(Mandatory=$true)]
-   $issue,
-   $status)
+   [string]$issue,
+   [string]$status)
          
    #first lets read in all existing related items
    #$test=read-db
