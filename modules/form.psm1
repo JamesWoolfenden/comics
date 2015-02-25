@@ -33,10 +33,11 @@ function get-imagetitle
    [System.Reflection.Assembly]::LoadWithPartialName("System.Drawing") | Out-Null
    
    $script:Choice=$null
-   $imagepath="$PSScriptRoot\covers\"
+   $imagepath="$PSScriptRoot\..\covers\"
    $padtitle=$title -replace(" ","-")
    $scanpath=$imagepath+$padtitle+"\$issue\"
    
+   #Write-Host "Scanpath $scanpath"
    if (!(test-path $scanpath))
    {
       Write-Host "Not in Library, Add(y)?" -foregroundcolor yellow -nonewline

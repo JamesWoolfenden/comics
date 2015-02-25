@@ -101,9 +101,10 @@ function update-record
    
    if ($actualIssue -eq "i")
    {
+     write-host "Estimate Cover Issue:" -Foregroundcolor $color -nonewline
+ 
      if (($estimateIssue -replace("\D","")) -eq "")
      {
-        write-host "Estimate Cover Issue:" -Foregroundcolor $color -nonewline
         $cover=read-host  
      }
      else
@@ -470,7 +471,7 @@ function set-issue
     }
 
     $padtitle=$title -replace(" ","-")
-    write-host "looking for $PSScriptRoot\covers\$padtitle\$cover\$issue"
+    write-host "looking for $PSScriptRoot\covers\$padtitle\$cover\$issue.jpg"
 
     if (test-path "$PSScriptRoot\covers\$padtitle\$cover\$issue.jpg")
     {

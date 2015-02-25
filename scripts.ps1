@@ -1,13 +1,13 @@
 $imageroot= "$PSScriptRoot\covers"
 
 import-module "$PSScriptRoot\rss\EbayRssPowershellModule.psm1" -force
-import-module "$PSScriptRoot\database.ps1"
+import-module "$PSScriptRoot\modules\database.psd1" -force
 import-module "$PSScriptRoot\split-set.ps1"
-import-module "$PSScriptRoot\show-image.ps1"
+import-module "$PSScriptRoot\modules\image.psd1" -force
 import-module "$PSScriptRoot\modules\form.psd1" -force
 import-module "$PSScriptRoot\modules\watch.psd1"
 import-module "$PSScriptRoot\core.ps1"
-import-module "$PSScriptRoot\search-data.ps1"
+import-module "$PSScriptRoot\modules\search-data.psd1" -force
 import-module "$PSScriptRoot\review.ps1"
 
 
@@ -35,11 +35,11 @@ function stat
    
    if ($nogrid)
    {      
-      query-db "$querystring" 
+      search-db "$querystring" 
    }
    else
    {
-      query-db "$querystring"|ogv 
+      search-db "$querystring"|ogv 
    }
 }
 
@@ -57,7 +57,7 @@ function add-array
    #first lets read in all existing related items
    #$test=read-db
    
-   $list=query-db "Where Ebayitem != NULL"|select -property Ebayitem
+   $list=search-db "Where Ebayitem != NULL"|select -property Ebayitem
    $Ebayitems=$list|foreach {"$($_.EbayItem)"}
    
    if ($resultset -ne $Null)
@@ -125,7 +125,7 @@ function verify
    [string]$title,
    [string]$Issue)
    
-   query-db "where title='$title' and issue='$issue' and status='open'"
+   search-db "where title='$title' and issue='$issue' and status='open'"
 }
 
 function view
@@ -231,7 +231,7 @@ function update-recordset
       $querystring +=" and (status='verified' or status='open') order by $sortby"
    }
    
-   $results=query-db "$querystring"
+   $results=search-db "$querystring"
    $found=0
 
    if ($results -eq "" -or $results -eq $Null)
@@ -293,7 +293,7 @@ function Finalize-Records
    [string]$Issue)
    
    
-   $results=query-db "where title='$title' and issue='$issue' and status = 'verified'"
+   $results=search-db "where title='$title' and issue='$issue' and status = 'verified'"
    
    if ($results -eq "" -or $results -eq $Null)
    { 
@@ -327,7 +327,7 @@ function update-open
       $query="where status='open'"
    }
    
-   $results=query-db $query
+   $results=search-db $query
    $count=1
 
    if ($results -eq "" -or $results -eq $Null)
@@ -568,7 +568,7 @@ function get-issues
    [Parameter(Mandatory=$true)]
    [string]$title)
    
-   $result=query-db "where title='$title'  and status = 'closed'"
+   $result=search-db "where title='$title'  and status = 'closed'"
    $issuesfound=@()
    $count=0
 
@@ -612,7 +612,7 @@ function get-allprices
    
    foreach($issue in $Issues)
    {
-      $localprice=estimate-price -title $title -Issue $($issue.Issue)
+      $localprice=get-priceestimate -title $title -Issue $($issue.Issue)
       $prices=$prices+$localprice
    }
    
@@ -752,9 +752,9 @@ function open-covers
 new-alias gb get-bestbuy -force
 new-alias fr Finalize-Records -force
 new-alias ur update-recordset -force
-new-alias np c:\windows\notepad.exe
+new-alias np c:\windows\notepad.exe -force
 new-alias cr closing-record -force  
-new-alias ep estimate-price -force
+new-alias ep get-priceestimate -force
 new-alias ap get-allprices -force
 new-alias uo update-open -force
 new-alias bs get-selleritems -force

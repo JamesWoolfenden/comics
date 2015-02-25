@@ -26,6 +26,8 @@
   <ItemGroup>
     <Compile Include=".gitattributes" />
     <Compile Include=".gitignore" />
+    <Compile Include="backup\azureexport.dacpac" />
+    <Compile Include="backup\data.XML" />
     <Compile Include="comicbiz.ps1" />
     <Compile Include="comicconnect.ps1" />
     <Compile Include="covers\2000AD-SHOWCASE\50\50.JPG" />
@@ -114,7 +116,7 @@
     <Compile Include="Excel\comics.xls" />
     <Compile Include="Excel\comics2.xls" />
     <Compile Include="core.ps1" />
-    <Compile Include="database.ps1" />
+    <Compile Include="modules\database.psm1" />
     <Compile Include="modules\form.psm1" />
     <Compile Include="fp.ps1" />
     <Compile Include="rss\Get-EbayRssItems.ps1" />
@@ -124,8 +126,8 @@
     <Compile Include="sales\**\*.json" />
     <Compile Include="scripts.ps1" />
     <Compile Include="search-data.json" />
-    <Compile Include="search-data.ps1" />
-    <Compile Include="show-image.ps1" />
+    <Compile Include="modules\search-data.psm1" />
+    <Compile Include="modules\image.psm1" />
     <Compile Include="slice.ps1" />
     <Compile Include="split-set.ps1" />
     <Compile Include="sql\math.sql" />
@@ -144,6 +146,9 @@
     <Content Include="livedata\*.json" />
     <Content Include="livedata\*.txt" />
     <Content Include="intercomics.ps1" />
+    <Content Include="modules\database.psd1" />
+    <Content Include="modules\search-data.psd1" />
+    <Content Include="modules\image.psd1" />
     <Content Include="modules\form.psd1" />
     <Content Include="modules\watch.psd1" />
     <Content Include="modules\xrates.psm1" />

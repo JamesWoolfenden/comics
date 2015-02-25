@@ -1,5 +1,3 @@
-import-module "$PSScriptRoot\database.ps1"
-
 function show-image
 {
    param(
@@ -78,7 +76,7 @@ function import-image
    $wherestring="where Title = '$title' And Issue = '$issue' order by PublishDate"
    $padtitle=$title -replace(" ","-")
    $cover= get-cover $issue
-   $results=query-db $wherestring
+   $results=search-db $wherestring
    foreach ($record in $results)
    {      
       if (!(test-image $title $issue))

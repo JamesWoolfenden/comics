@@ -1,22 +1,22 @@
 
-function Make-SearchData
+function Initialize-SearchData
 {<#
       .SYNOPSIS 
     Given some string properties this returns a search csutom object             
       .PARAMETER title
     Specifies the comic title.
       .PARAMETER include
-	Optional  specifies any additional search strings.
+    Optional  specifies any additional search strings.
       .PARAMETER exclude
-	Optional specifies any terms to exclude by
+    Optional specifies any terms to exclude by
       .PARAMETER comictitle
-	An alterative title 
-	  .PARAMETER category
-	An optional ebid category parameter 
-	  .PARAMETER Enabled
-	Enables or Disables its use in the scan
+    An alterative title 
+      .PARAMETER category
+    An optional ebid category parameter 
+      .PARAMETER Enabled
+    Enables or Disables its use in the scan
     .EXAMPLE
-      C:\PS> make-searchdata -title "The Walking Dead" -exclude "Poster" -include "Image"    
+      C:\PS> Initialize-searchdata -title "The Walking Dead" -exclude "Poster" -include "Image"    
    #>
    Param(
    [string]$title,
@@ -36,17 +36,17 @@ function Add-SearchData
       .SYNOPSIS 
     Adds an item to the scan search db	       
       .PARAMETER title
-	Specifies the comic title.
+    Specifies the comic title.
       .PARAMETER include
-	Optional  specifies any additional search strings.
+    Optional  specifies any additional search strings.
       .PARAMETER exclude
-	Optional specifies any terms to exclude by
+    Optional specifies any terms to exclude by
       .PARAMETER comictitle
-	An alterative title 
-	  .PARAMETER category
-	An optional ebid category parameter 
-	  .PARAMETER Enabled
-	Enables or Disables its use in the scan
+    An alterative title 
+      .PARAMETER category
+    An optional ebid category parameter 
+      .PARAMETER Enabled
+    Enables or Disables its use in the scan
     .EXAMPLE
       C:\PS> add-searchdata -title "The Walking Dead" -exclude "Poster" -include "Image"    
    #>
@@ -64,7 +64,7 @@ function Add-SearchData
 
    $datafile="$PSScriptRoot\search-data.json"
    $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
-   $searches+=make-searchdata -title "$($title.ToUpper())" -exclude "$exclude" -include "$include" -comictitle $comictitle -productcode $productcode -category $category -Enabled $Enabled
+   $searches+=Initialize-searchdata -title "$($title.ToUpper())" -exclude "$exclude" -include "$include" -comictitle $comictitle -productcode $productcode -category $category -Enabled $Enabled
    $searches|Sort-Object title| ConvertTo-Json -depth 999 | Out-File "$datafile"
 }
 
@@ -73,20 +73,20 @@ function Set-SearchData
   <#
       .SYNOPSIS 
        updates an item to the scan search db
-	       
+           
       .PARAMETER title
-	Specifies the comic title.
+    Specifies the comic title.
       .PARAMETER include
-	Optional  specifies any additional search strings.
+    Optional  specifies any additional search strings.
       .PARAMETER exclude
-	Optional specifies any terms to exclude by
+    Optional specifies any terms to exclude by
       .PARAMETER comictitle
-	An alterative title 
-	  .PARAMETER category
-	An optional ebid category parameter 
-	  .PARAMETER Enabled
-	Enables or Disables its use in the scan
-	    
+    An alterative title 
+      .PARAMETER category
+    An optional ebid category parameter 
+      .PARAMETER Enabled
+    Enables or Disables its use in the scan
+        
       .EXAMPLE
       C:\PS> add-searchdata -title "The Walking Dead" -exclude "Poster" -include "Image"
      
@@ -157,9 +157,9 @@ function Get-SearchData
    <#
       .SYNOPSIS 
        returns a search object when given its title
-	       
+           
       .PARAMETER title
-	Specifies the comic title.
+    Specifies the comic title.
       .EXAMPLE
       C:\PS> get-searchdata -title "The Walking Dead" 
      
@@ -176,32 +176,16 @@ function Get-SearchData
    $searches[$index]
 }   
 
-function Remove-SearchData
-{
-   <#
-      .SYNOPSIS 
-       Removes a search object data when given its title
-	       
-      .PARAMETER title
-	Specifies the comic title.
-      .EXAMPLE
-      C:\PS> Remove-searchdata -title "The Walking Dead" 
-     
-   #>
-
-   throw "Function not implemented"
-}
-
-function Delete-SearchData
+function remove-SearchData
 {
    <#
       .SYNOPSIS 
        Removes a complete search object when given its title
-	       
+           
       .PARAMETER title
-	Specifies the comic title.
+    Specifies the comic title.
       .EXAMPLE
-      C:\PS> Delete-SearchData -title "The Walking Dead" 
+      C:\PS> remove-SearchData -title "The Walking Dead" 
      
    #>
 

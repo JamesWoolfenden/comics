@@ -292,7 +292,7 @@ function update-db
    $conn.close()
 }
 
-function query-db
+function search-db
 {
    Param(
    [string]$wherestring="where Title = '$title' And Issue = '$Issue'")
@@ -487,7 +487,7 @@ function query-db
    $conn.Close()
 }
 
-function estimate-price
+function get-priceestimate
 {
    param(
    [Parameter(Mandatory=$true)]
@@ -495,7 +495,7 @@ function estimate-price
    [Parameter(Mandatory=$true)]
    [string]$Issue)
    
-   $results=query-db "where title='$title' and issue='$issue' and status='CLOSED'"
+   $results=search-db "where title='$title' and issue='$issue' and status='CLOSED'"
    [decimal]$maximum=0
    [int]$count      =1
    [int]$owned      =0
@@ -608,11 +608,11 @@ function get-selleritems
 
    if ($seller -eq $NULL -or $seller -eq '')
    {
-      $resultsset=query-db "where (status='open' OR status='verified') order by seller"
+      $resultsset=search-db "where (status='open' OR status='verified') order by seller"
    }
    else
    {
-      $resultsset=query-db "where seller='$seller' and (status='open' OR status='verified')"
+      $resultsset=search-db "where seller='$seller' and (status='open' OR status='verified')"
    }
    
    if ($nogrid)

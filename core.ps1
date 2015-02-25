@@ -47,8 +47,8 @@ function best-buys
 
    foreach($record in $results)
    {
-      Write-debug "estimate-price -title $($record.title) -issue $($record.issue)"
-      $prices=estimate-price -title $($record.title) -issue $($record.issue)
+      Write-debug "get-priceestimate -title $($record.title) -issue $($record.issue)"
+      $prices=get-priceestimate -title $($record.title) -issue $($record.issue)
 
       $CurrentPrice=0
       $AveragePrice=0
@@ -82,7 +82,7 @@ function get-bestbuy
     param([string]$title,
     [switch]$nogrid)
 
-    $results=query-db -wherestring "where title='$title' and status='Verified'"
+    $results=search-db -wherestring "where title='$title' and status='Verified'"
     if ($nogrid)
     {
        best-buys $results| sort-Object -property Margin -Descending
@@ -95,7 +95,7 @@ function get-bestbuy
 
 function clean-records
 {
-   $records=query-db -wherestring "where status='verified' and Ebayitem is not null  order by CloseDate desc"
+   $records=search-db -wherestring "where status='verified' and Ebayitem is not null  order by CloseDate desc"
    
    Write-host "Found $($records.count)"
    

@@ -5,7 +5,7 @@ function split-set
    
    $wherestring="where Title = '$title' And Issue = 'set' and status='closed' and split != 1 "
    write-host "Where : $wherestring"
-   $results=query-db $wherestring
+   $results=search-db $wherestring
    if ($results -ne "")
    {
       write-host "Found $($results.count)"
@@ -36,7 +36,6 @@ function split-set
                }
                
                $price=$record.price/$setsize
-               #write-host "bought: $($record.bought)"
                if ($($record.bought) -eq "true")
                {
                   $bought=$true
@@ -46,7 +45,6 @@ function split-set
                   $bought=$false
                }
 
-               #Write-host "add-record -title $record.title -issue $item -price $price -status $record.status -bought $bought -site $record.site -seller $record.seller -parentid $record.ebayitem"
                add-record -title $record.title -issue $item -price $price -status $record.status -bought $bought -site $record.site -seller $record.seller -parentid $record.ebayitem -split $true -PublishDate $record.PublishDate -Description $record.Description -AuctionType $record.AuctionType -BestOffer $record.BestOffer -BidCount $record.BidCount -BuyItNowPrice $record.BuyItNowPrice -CloseDate $record.CloseDate 
             }
             
@@ -115,9 +113,7 @@ function set-splitstate()
    $cmd.connection = $conn
          
    [int]$split=$state   
-   #Write-host "Split:$split"
    $cmd.commandtext = "update Comics.dbo.Comics SET Split = $split where Ebayitem = '$ebayitem' " 
-   #Write-host "$($cmd.commandtext)"   
    $result=$cmd.executenonquery()
    $conn.close()
 }
