@@ -6,9 +6,11 @@ function split-set
    $wherestring="where Title = '$title' And Issue = 'set' and status='closed' and split != 1 "
    write-host "Where : $wherestring"
    $results=search-db $wherestring
+
    if ($results -ne "")
    {
       write-host "Found $($results.count)"
+      
       foreach($record in $results)
       {
          $IE=viewer $record 
@@ -65,7 +67,7 @@ function split-set
    }
 }
 
-function Viewer
+function viewer
 {
    param($record)
 
@@ -83,26 +85,26 @@ function Viewer
          }
          default
          {
-        $ie=view $($record.ebayitem)
-     }
+            $ie=view $($record.ebayitem)
+         }
       }
    }
    else 
    {
       write-warning "$($record.ebayitem) is null or empty"
    }
+
    $ie
 }
 
 
-function set-splitstate()
+function set-splitstate
 {
    param( 
    [Parameter(Mandatory=$true)]
    [string]$ebayitem,
    [Parameter(Mandatory=$true)]
-   [boolean]$state
-   )
+   [boolean]$state)
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString = "Data Source=redwolfone.cloudapp.net;Initial Catalog=comics;User ID=comicsguru;Password=Faithle55;Trusted_Connection=False;Persist Security Info=False;"

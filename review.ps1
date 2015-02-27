@@ -101,10 +101,9 @@ function update-record
    
    if ($actualIssue -eq "i")
    {
-     write-host "Estimate Cover Issue:" -Foregroundcolor $color -nonewline
- 
      if (($estimateIssue -replace("\D","")) -eq "")
      {
+        write-host "Estimate Cover Issue:" -Foregroundcolor $color -nonewline
         $cover=read-host  
      }
      else

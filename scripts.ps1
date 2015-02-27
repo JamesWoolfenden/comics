@@ -2,7 +2,7 @@ $imageroot= "$PSScriptRoot\covers"
 
 import-module "$PSScriptRoot\rss\EbayRssPowershellModule.psm1" -force
 import-module "$PSScriptRoot\modules\database.psd1" -force
-import-module "$PSScriptRoot\split-set.ps1"
+import-module "$PSScriptRoot\modules\multiple.psd1" -force
 import-module "$PSScriptRoot\modules\image.psd1" -force
 import-module "$PSScriptRoot\modules\form.psd1" -force
 import-module "$PSScriptRoot\modules\watch.psd1"
