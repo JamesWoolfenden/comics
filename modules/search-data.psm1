@@ -61,12 +61,21 @@ function Add-SearchData
    [string]$comictitle,
    [string]$productcode,
    [string]$category,
-   [switch]$Enabled
-   )
-
-   $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
-   $searches+=Initialize-searchdata -title "$($title.ToUpper())" -exclude "$exclude" -include "$include" -comictitle $comictitle -productcode $productcode -category $category -Enabled $Enabled
-   $searches|Sort-Object title| ConvertTo-Json -depth 999 | Out-File "$datafile"
+   [switch]$Enabled,
+   [switch]$duplicate)
+   
+   if (!(get-searchdata -title $title) -replace $duplicate)
+   {
+      $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
+      $search=Initialize-searchdata -title "$($title.ToUpper())" -exclude "$exclude" -include "$include" -comictitle $comictitle -productcode $productcode -category $category -Enabled $Enabled
+      $searches+=$search
+      $searches|Sort-Object title| ConvertTo-Json -depth 999 | Out-File "$datafile"
+      $search
+   }
+   else
+   { 
+      Write-Error "Cannot add duplicate"
+   }
 }
 
 function Set-SearchData
@@ -171,8 +180,15 @@ function Get-SearchData
    $title=$title.ToUpper()
    $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
    $index = [array]::IndexOf(($searches.title), $title)
-
-   $searches[$index]
+   
+   if ($index -ge 0)
+   {
+      $searches[$index]
+   }
+   else
+   {
+      Write-Error "Title $title not found"
+   }
 }   
 
 function remove-SearchData
