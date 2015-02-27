@@ -1,3 +1,4 @@
+ $datafile="$PSScriptRoot\..\search-data.json"
 
 function Initialize-SearchData
 {<#
@@ -62,7 +63,7 @@ function Add-SearchData
    [switch]$Enabled
    )
 
-   $datafile="$PSScriptRoot\search-data.json"
+
    $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
    $searches+=Initialize-searchdata -title "$($title.ToUpper())" -exclude "$exclude" -include "$include" -comictitle $comictitle -productcode $productcode -category $category -Enabled $Enabled
    $searches|Sort-Object title| ConvertTo-Json -depth 999 | Out-File "$datafile"
