@@ -56,8 +56,8 @@ function Add-SearchData
    Param(
    [Parameter(Mandatory=$true)]
    [string]$title=$title.ToUpper(),
-   [string]$include,
-   [string]$exclude,
+   [string[]]$include,
+   [string[]]$exclude,
    [string]$comictitle,
    [string]$productcode,
    [string]$category,
@@ -67,7 +67,7 @@ function Add-SearchData
    if (!(get-searchdata -title $title) -replace $duplicate)
    {
       $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
-      $search=Initialize-searchdata -title "$($title.ToUpper())" -exclude "$exclude" -include "$include" -comictitle $comictitle -productcode $productcode -category $category -Enabled $Enabled
+      $search=Initialize-searchdata -title "$($title.ToUpper())" -exclude $exclude -include $include -comictitle $comictitle -productcode $productcode -category $category -Enabled $Enabled
       $searches+=$search
       $searches|Sort-Object title| ConvertTo-Json -depth 999 | Out-File "$datafile"
       $search
