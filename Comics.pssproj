@@ -129,7 +129,7 @@
     <Compile Include="modules\search-data.psm1" />
     <Compile Include="modules\image.psm1" />
     <Compile Include="slice.ps1" />
-    <Compile Include="split-set.ps1" />
+    <Compile Include="modules\multiple.psm1" />
     <Compile Include="sql\math.sql" />
     <Compile Include="todo.txt" />
   </ItemGroup>
@@ -147,6 +147,7 @@
     <Content Include="livedata\*.txt" />
     <Content Include="intercomics.ps1" />
     <Content Include="modules\database.psd1" />
+    <Content Include="modules\multiple.psd1" />
     <Content Include="modules\search-data.psd1" />
     <Content Include="modules\image.psd1" />
     <Content Include="modules\form.psd1" />
