@@ -435,16 +435,22 @@ function set-issue
       $estimateIssue=$rawIssue
    }
 
-   #rawtitle contains CGC append it
-   if ($rawtitle -match "cgc")
+   $Keys=("PHANTOM", "GHOST","CGC","SIGNED")
+
+   foreach($key in $Keys)
    {
-      $estimateIssue+="CGC"
-   }
-   
-   #if it contains signed append that
-   if($rawtitle -match "signed")
-   {
-      $estimateIssue+="SIGNED"
+      if ($rawtitle.ToUpper() -match $key)
+      {
+         if ($estimateIssue -notmatch $key)
+         {
+            $estimateIssue+=$key
+            write-host "Added $key to $estimateIssue"
+         }
+         else
+         {
+            write-host "Found $key in $estimateIssue"
+         }
+      }
    }
    
    $estimateIssue
