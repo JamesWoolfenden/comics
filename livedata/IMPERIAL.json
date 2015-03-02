@@ -1,27 +1,111 @@
 [
     {
-        "link":  "https://www.dcbservice.com/product/feb150525/imperial-tp",
-        "url":  "\u003ca href=\"https://www.dcbservice.com/product/feb150525/imperial-tp\"\u003ehttps://www.dcbservice.com/product/feb150525/imperial-tp\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "Imperial TP",
-        "variant":  "Imperial TP",
-        "price":  "5.85",
-        "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
-        "site":  "DCBS"
-    },
-    {
         "link":  "http://shop.comicxposure.com/Imperial-1-JUN140469.htm",
         "url":  "\u003ca href=\"http://shop.comicxposure.com/Imperial-1-JUN140469.htm\"\u003ehttp://shop.comicxposure.com/Imperial-1-JUN140469.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "IMPERIAL",
         "issue":  "1",
         "variant":  "Imperial",
-        "price":  "2.28",
+        "price":  "2.27",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688012659)\/",
+        "rundate":  "\/Date(1425292828569)\/",
         "site":  "comicxposure"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/back-issues/image/imperial-1/prod_55178.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/imperial-1/prod_55178.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/imperial-1/prod_55178.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "1",
+        "variant":  "1",
+        "price":  2.20,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425292832777)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/back-issues/image/imperial-2/prod_60990.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/imperial-2/prod_60990.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/imperial-2/prod_60990.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "2",
+        "variant":  "2",
+        "price":  2.20,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425292832777)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/back-issues/image/imperial-3/prod_73393.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/imperial-3/prod_73393.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/imperial-3/prod_73393.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "3",
+        "variant":  "3",
+        "price":  2.15,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425292832777)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/back-issues/image/imperial-4/prod_111442.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/imperial-4/prod_111442.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/imperial-4/prod_111442.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "4",
+        "variant":  "4",
+        "price":  2.15,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425292832777)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-15/04/15/graphic-novels-books/imperial-tp/prod_141094.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-15/04/15/graphic-novels-books/imperial-tp/prod_141094.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-15/04/15/graphic-novels-books/imperial-tp/prod_141094.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "IMPERIAL",
+        "variant":  "IMPERIAL TP",
+        "price":  10.44,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425292832777)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-29/04/15/other-merchandise/star-wars-x-wing-imperial-raider-exp-pack-c-0-1-2-/prod_141901.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-29/04/15/other-merchandise/star-wars-x-wing-imperial-raider-exp-pack-c-0-1-2-/prod_141901.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-29/04/15/other-merchandise/star-wars-x-wing-imperial-raider-exp-pack-c-0-1-2-/prod_141901.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS X-WING IMPERIAL RAIDER EXP PACK (C: 0-1-2)",
+        "price":  70.55,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425292832777)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/imperial-tp/prod_142224.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/imperial-tp/prod_142224.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/g-novels-books-uk-only-/imperial-tp/prod_142224.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "IMPERIAL",
+        "variant":  "IMPERIAL TP",
+        "price":  9.89,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425292832777)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-x-wing-imperial-raider-exp-pack-c-0-1-2-/prod_143031.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-x-wing-imperial-raider-exp-pack-c-0-1-2-/prod_143031.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/star-wars-x-wing-imperial-raider-exp-pack-c-0-1-2-/prod_143031.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "STAR",
+        "variant":  "STAR WARS X-WING IMPERIAL RAIDER EXP PACK (C: 0-1-2)",
+        "price":  65.35,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425292832777)\/",
+        "site":  "Disposable Heroes"
     },
     {
         "link":  "http://www.closeencounters.co.uk/index.php/sep140727.html",
@@ -32,7 +116,7 @@
         "variant":  "4",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688022090)\/",
+        "rundate":  "\/Date(1425292843395)\/",
         "site":  "Close Encounters"
     },
     {
@@ -44,7 +128,7 @@
         "variant":  "3",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688022090)\/",
+        "rundate":  "\/Date(1425292843395)\/",
         "site":  "Close Encounters"
     },
     {
@@ -56,7 +140,7 @@
         "variant":  "2",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688022090)\/",
+        "rundate":  "\/Date(1425292843395)\/",
         "site":  "Close Encounters"
     },
     {
@@ -68,7 +152,7 @@
         "variant":  "1 FIRST PRINT",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688022090)\/",
+        "rundate":  "\/Date(1425292843395)\/",
         "site":  "Close Encounters"
     },
     {
@@ -79,7 +163,7 @@
         "issue":  "2",
         "variant":  "2",
         "price":  1.95,
-        "rundate":  "\/Date(1424688030522)\/",
+        "rundate":  "\/Date(1425292852051)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -91,7 +175,7 @@
         "variant":  "1",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688034624)\/",
+        "rundate":  "\/Date(1425292856312)\/",
         "site":  "Reed"
     },
     {
@@ -103,7 +187,7 @@
         "variant":  "2",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688034624)\/",
+        "rundate":  "\/Date(1425292856312)\/",
         "site":  "Reed"
     },
     {
@@ -115,7 +199,7 @@
         "variant":  "3",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688034624)\/",
+        "rundate":  "\/Date(1425292856312)\/",
         "site":  "Reed"
     },
     {
@@ -127,67 +211,19 @@
         "variant":  "4",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688034624)\/",
+        "rundate":  "\/Date(1425292856312)\/",
         "site":  "Reed"
     },
     {
-        "link":  "http://www.reedcomics.com/realm-of-kings-imperial-guard-1-p-39901.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/realm-of-kings-imperial-guard-1-p-39901.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/realm-of-kings-imperial-guard-1-p-39901.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "REALM OF KINGS IMPERIAL GUARD",
-        "issue":  "1",
-        "variant":  "1",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688034624)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/realm-of-kings-imperial-guard-3-p-40676.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/realm-of-kings-imperial-guard-3-p-40676.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/realm-of-kings-imperial-guard-3-p-40676.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "REALM OF KINGS IMPERIAL GUARD",
-        "issue":  "3",
-        "variant":  "3",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688034624)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/realm-of-kings-imperial-guard-4-p-41002.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/realm-of-kings-imperial-guard-4-p-41002.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/realm-of-kings-imperial-guard-4-p-41002.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "REALM OF KINGS IMPERIAL GUARD",
-        "issue":  "4",
-        "variant":  "4",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688034624)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/realm-of-kings-imperial-guard-5-p-41444.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/realm-of-kings-imperial-guard-5-p-41444.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/realm-of-kings-imperial-guard-5-p-41444.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "REALM OF KINGS IMPERIAL GUARD",
-        "issue":  "5",
-        "variant":  "5",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688034624)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/IMPERIAL-1-IMAGE-COMICS-FIRST-PRINT-070814-/121553959224?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d2e3938",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMPERIAL-1-IMAGE-COMICS-FIRST-PRINT-070814-/121553959224?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d2e3938\"\u003ehttp://www.ebay.co.uk/itm/IMPERIAL-1-IMAGE-COMICS-FIRST-PRINT-070814-/121553959224?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d2e3938\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/IMPERIAL-1-IMAGE-COMICS-FIRST-PRINT-070814-/121583895831?pt=LH_DefaultDomain_3\u0026hash=item1c4ef70517",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMPERIAL-1-IMAGE-COMICS-FIRST-PRINT-070814-/121583895831?pt=LH_DefaultDomain_3\u0026hash=item1c4ef70517\"\u003ehttp://www.ebay.co.uk/itm/IMPERIAL-1-IMAGE-COMICS-FIRST-PRINT-070814-/121583895831?pt=LH_DefaultDomain_3\u0026hash=item1c4ef70517\u003c/a\u003e",
         "orderdate":  null,
         "title":  "IMPERIAL",
         "issue":  "1",
         "variant":  "1",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -199,7 +235,7 @@
         "variant":  "1",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -211,7 +247,7 @@
         "variant":  "1",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -221,9 +257,9 @@
         "title":  "IMPERIAL",
         "issue":  "",
         "variant":  "SET",
-        "price":  7.99,
+        "price":  6.99,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -235,7 +271,7 @@
         "variant":  "1",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -247,7 +283,7 @@
         "variant":  "1",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -259,7 +295,7 @@
         "variant":  "1",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -271,7 +307,7 @@
         "variant":  "3",
         "price":  2.15,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -283,7 +319,7 @@
         "variant":  "2",
         "price":  2.1,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -295,7 +331,7 @@
         "variant":  "4",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -307,7 +343,7 @@
         "variant":  "2",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -319,7 +355,7 @@
         "variant":  "3",
         "price":  3.2,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -331,7 +367,7 @@
         "variant":  "2",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -343,7 +379,7 @@
         "variant":  "1",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -355,7 +391,7 @@
         "variant":  "4",
         "price":  2.15,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -367,7 +403,7 @@
         "variant":  "1",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -379,7 +415,7 @@
         "variant":  "4",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -391,7 +427,7 @@
         "variant":  "1",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -403,7 +439,31 @@
         "variant":  "1",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/IMPERIAL-1-Image-Comics-2014-FIRST-PRINT-NEW-/221704299976?pt=LH_DefaultDomain_3\u0026hash=item339e9b25c8",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMPERIAL-1-Image-Comics-2014-FIRST-PRINT-NEW-/221704299976?pt=LH_DefaultDomain_3\u0026hash=item339e9b25c8\"\u003ehttp://www.ebay.co.uk/itm/IMPERIAL-1-Image-Comics-2014-FIRST-PRINT-NEW-/221704299976?pt=LH_DefaultDomain_3\u0026hash=item339e9b25c8\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "1",
+        "variant":  "1",
+        "price":  7.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "2-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/IMPERIAL-1-2-3-IMAGE-COMICS-1ST-PRINT-NEAR-MINT-NEW-SOLD-OUT-/261792391509?pt=LH_DefaultDomain_3\u0026hash=item3cf40ae155",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMPERIAL-1-2-3-IMAGE-COMICS-1ST-PRINT-NEAR-MINT-NEW-SOLD-OUT-/261792391509?pt=LH_DefaultDomain_3\u0026hash=item3cf40ae155\"\u003ehttp://www.ebay.co.uk/itm/IMPERIAL-1-2-3-IMAGE-COMICS-1ST-PRINT-NEAR-MINT-NEW-SOLD-OUT-/261792391509?pt=LH_DefaultDomain_3\u0026hash=item3cf40ae155\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  15,
+        "currency":  "\u0026pound;",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -415,7 +475,7 @@
         "variant":  "1",
         "price":  5.98,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -427,7 +487,7 @@
         "variant":  "1",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -439,7 +499,7 @@
         "variant":  "1",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -451,7 +511,7 @@
         "variant":  "2",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -463,19 +523,7 @@
         "variant":  "3",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Image-Comics-Imperial-1-4-/331481909550?pt=LH_DefaultDomain_3\u0026hash=item4d2ddc892e",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-Comics-Imperial-1-4-/331481909550?pt=LH_DefaultDomain_3\u0026hash=item4d2ddc892e\"\u003ehttp://www.ebay.co.uk/itm/Image-Comics-Imperial-1-4-/331481909550?pt=LH_DefaultDomain_3\u0026hash=item4d2ddc892e\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  1.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -487,7 +535,7 @@
         "variant":  "2",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -499,7 +547,7 @@
         "variant":  "3",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -511,7 +559,7 @@
         "variant":  "2",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -523,19 +571,7 @@
         "variant":  "3",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/IMPERIAL-1-1st-Print-Image-/371247294478?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item567010280e",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMPERIAL-1-1st-Print-Image-/371247294478?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item567010280e\"\u003ehttp://www.ebay.co.uk/itm/IMPERIAL-1-1st-Print-Image-/371247294478?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item567010280e\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "1",
-        "variant":  "1",
-        "price":  2.25,
-        "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -547,7 +583,19 @@
         "variant":  "2",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/IMPERIAL-1-1st-Print-Image-/371271532352?pt=LH_DefaultDomain_3\u0026hash=item567181ff40",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMPERIAL-1-1st-Print-Image-/371271532352?pt=LH_DefaultDomain_3\u0026hash=item567181ff40\"\u003ehttp://www.ebay.co.uk/itm/IMPERIAL-1-1st-Print-Image-/371271532352?pt=LH_DefaultDomain_3\u0026hash=item567181ff40\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "1",
+        "variant":  "1",
+        "price":  2.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -559,7 +607,7 @@
         "variant":  "3",
         "price":  2.1,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -571,7 +619,7 @@
         "variant":  "1A",
         "price":  2.1,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -583,7 +631,7 @@
         "variant":  "1",
         "price":  3.5,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -595,7 +643,7 @@
         "variant":  "1",
         "price":  2.3,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -607,7 +655,19 @@
         "variant":  "4",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Brand-new-image-comics-IMPERIAL-full-set-1-2-3-4-new-series-NM-1st-print-adults-/391070247867?pt=LH_DefaultDomain_3\u0026hash=item5b0d9a6bbb",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Brand-new-image-comics-IMPERIAL-full-set-1-2-3-4-new-series-NM-1st-print-adults-/391070247867?pt=LH_DefaultDomain_3\u0026hash=item5b0d9a6bbb\"\u003ehttp://www.ebay.co.uk/itm/Brand-new-image-comics-IMPERIAL-full-set-1-2-3-4-new-series-NM-1st-print-adults-/391070247867?pt=LH_DefaultDomain_3\u0026hash=item5b0d9a6bbb\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "IMPERIAL",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  5.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -619,7 +679,7 @@
         "variant":  "1",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
     },
     {
@@ -631,32 +691,8 @@
         "variant":  "4",
         "price":  3.95,
         "currency":  "\u0026pound;",
-        "rundate":  "23-2-2015",
+        "rundate":  "2-3-2015",
         "site":  "Auction"
-    },
-    {
-        "link":  "http://www.comic-biz.com/realm-of-kings-imperial-guard-2010-3-5-issues-gradenm?filter_name=IMPERIAL\u0026limit=50",
-        "url":  "\u003ca href=\"http://www.comic-biz.com/realm-of-kings-imperial-guard-2010-3-5-issues-gradenm?filter_name=IMPERIAL\u0026limit=50\"\u003ehttp://www.comic-biz.com/realm-of-kings-imperial-guard-2010-3-5-issues-gradenm?filter_name=IMPERIAL\u0026limit=50\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "3",
-        "variant":  "REALM OF KINGS IMPERIAL GUARD (2010) #3 (5 ISSUES) GRADE=NM",
-        "price":  3.25,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688041724)\/",
-        "site":  "The Comic Biz Store"
-    },
-    {
-        "link":  "http://www.comic-biz.com/realm-of-kings-imperial-guard-2010-4-5-issues-gradenm?filter_name=IMPERIAL\u0026limit=50",
-        "url":  "\u003ca href=\"http://www.comic-biz.com/realm-of-kings-imperial-guard-2010-4-5-issues-gradenm?filter_name=IMPERIAL\u0026limit=50\"\u003ehttp://www.comic-biz.com/realm-of-kings-imperial-guard-2010-4-5-issues-gradenm?filter_name=IMPERIAL\u0026limit=50\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  "4",
-        "variant":  "REALM OF KINGS IMPERIAL GUARD (2010) #4 (5 ISSUES) GRADE=NM",
-        "price":  3.25,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688041724)\/",
-        "site":  "The Comic Biz Store"
     },
     {
         "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81948\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
@@ -667,7 +703,7 @@
         "variant":  "IMPERIAL #STANDING ORDER",
         "price":  0.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688046244)\/",
+        "rundate":  "\/Date(1425292867914)\/",
         "site":  "Comic book shop"
     },
     {
@@ -679,7 +715,7 @@
         "variant":  "FEB150525 IMPERIAL TP",
         "price":  10.99,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688046244)\/",
+        "rundate":  "\/Date(1425292867914)\/",
         "site":  "Comic book shop"
     },
     {
@@ -691,7 +727,7 @@
         "variant":  "JAN151416 DF PRINCESS LEIA #1 ELITE IMPERIAL GOLD WAID SGN (C: 0-1-2)",
         "price":  65.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688046244)\/",
+        "rundate":  "\/Date(1425292867914)\/",
         "site":  "Comic book shop"
     },
     {
@@ -703,7 +739,7 @@
         "variant":  "JAN151419 DF PRINCESS LEIA #1 ELITE IMPERIAL GOLD DODSON SGN (C: 0-1-2",
         "price":  65.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688046244)\/",
+        "rundate":  "\/Date(1425292867914)\/",
         "site":  "Comic book shop"
     },
     {
@@ -715,7 +751,7 @@
         "variant":  "SEP140727 IMPERIAL #4",
         "price":  2.40,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688046244)\/",
+        "rundate":  "\/Date(1425292867914)\/",
         "site":  "Comic book shop"
     },
     {
@@ -725,9 +761,9 @@
         "title":  "IMPERIAL",
         "issue":  "2",
         "variant":  "2 INCENTIVE IMPERIAL CVR",
-        "price":  4.54743537,
+        "price":  4.5337629300000002796,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -737,9 +773,9 @@
         "title":  "IMPERIAL",
         "issue":  "4",
         "variant":  "4 INCENTIVE IMPERIAL CVR",
-        "price":  4.54743537,
+        "price":  4.5337629300000002796,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -749,9 +785,9 @@
         "title":  "IMPERIAL",
         "issue":  "5",
         "variant":  "5 COVER D INCENTIVE IMPERIAL COVER",
-        "price":  4.54743537,
+        "price":  4.5337629300000002796,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -761,9 +797,9 @@
         "title":  "IMPERIAL",
         "issue":  "6",
         "variant":  "6 COVER D INCENTIVE IMPERIAL CVR",
-        "price":  4.54743537,
+        "price":  4.5337629300000002796,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -773,9 +809,9 @@
         "title":  "IMPERIAL",
         "issue":  "1",
         "variant":  "1",
-        "price":  1.94518337,
+        "price":  1.9393349300000001196,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -785,9 +821,9 @@
         "title":  "IMPERIAL",
         "issue":  "2",
         "variant":  "2",
-        "price":  1.94518337,
+        "price":  1.9393349300000001196,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -797,9 +833,9 @@
         "title":  "IMPERIAL",
         "issue":  "3",
         "variant":  "3",
-        "price":  1.94518337,
+        "price":  1.9393349300000001196,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -809,9 +845,9 @@
         "title":  "IMPERIAL",
         "issue":  "4",
         "variant":  "4",
-        "price":  1.94518337,
+        "price":  1.9393349300000001196,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -821,9 +857,9 @@
         "title":  "IMPERIAL",
         "issue":  "1",
         "variant":  "1",
-        "price":  0.48792225,
+        "price":  0.4864552500000000300,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -833,9 +869,9 @@
         "title":  "IMPERIAL",
         "issue":  "1",
         "variant":  "1",
-        "price":  1.27510348,
+        "price":  1.2712697200000000784,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -845,9 +881,9 @@
         "title":  "IMPERIAL",
         "issue":  "IMPERIAL TP",
         "variant":  "IMPERIAL TP",
-        "price":  6.82440587,
+        "price":  6.8038874300000004196,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -857,9 +893,9 @@
         "title":  "IMPERIAL",
         "issue":  "1",
         "variant":  "1 COVER Q DF IMPERIAL ELITE GOLD SIGNED EDITION BY GREG LAND",
-        "price":  49.76156387,
+        "price":  49.6119494300000030596,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -869,9 +905,9 @@
         "title":  "IMPERIAL",
         "issue":  "1",
         "variant":  "1 COVER T DF IMPERIAL ELITE GOLD SIGNED EDITION BY TERRY DODSON",
-        "price":  49.76156387,
+        "price":  49.6119494300000030596,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -881,9 +917,9 @@
         "title":  "IMPERIAL",
         "issue":  "1",
         "variant":  "1 COVER V DF VARIANT SKOTTIE YOUNG BABY COVER IMPERIAL ELITE GOLD SIGNED EDITION BY SKOTTIE YOUNG",
-        "price":  49.76156387,
+        "price":  49.6119494300000030596,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -893,9 +929,9 @@
         "title":  "IMPERIAL",
         "issue":  "1",
         "variant":  "1",
-        "price":  2.59574637,
+        "price":  2.5879419300000001596,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -905,9 +941,9 @@
         "title":  "IMPERIAL",
         "issue":  "3",
         "variant":  "3",
-        "price":  2.59574637,
+        "price":  2.5879419300000001596,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -917,9 +953,9 @@
         "title":  "IMPERIAL",
         "issue":  "4",
         "variant":  "4",
-        "price":  1.58086809,
+        "price":  1.5761150100000000972,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -929,9 +965,9 @@
         "title":  "IMPERIAL",
         "issue":  "5",
         "variant":  "5",
-        "price":  1.58086809,
+        "price":  1.5761150100000000972,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -941,9 +977,9 @@
         "title":  "IMPERIAL",
         "issue":  "STAR WARS DEATH STAR IMPERIAL DS-1 ORBITAL BATTLE STATION OWNERS TECHNICAL MANUAL HC (CLEARANCE)",
         "variant":  "STAR WARS DEATH STAR IMPERIAL DS-1 ORBITAL BATTLE STATION OWNERS TECHNICAL MANUAL HC (CLEARANCE)",
-        "price":  11.71013400,
+        "price":  11.6749260000000007200,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -953,9 +989,9 @@
         "title":  "IMPERIAL",
         "issue":  "STAR WARS EPISODE IV A NEW HOPE IMPERIAL TIE FIGHTER PILOT 12-INCH ACTION FIGURE",
         "variant":  "STAR WARS EPISODE IV A NEW HOPE IMPERIAL TIE FIGHTER PILOT 12-INCH ACTION FIGURE",
-        "price":  119.69708637,
+        "price":  119.3372019300000073596,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -965,9 +1001,9 @@
         "title":  "IMPERIAL",
         "issue":  "STAR WARS IMPERIAL SECURITY PX BLK HEATHER T/S LG (C: 1-1-0)",
         "variant":  "STAR WARS IMPERIAL SECURITY PX BLK HEATHER T/S LG (C: 1-1-0)",
-        "price":  12.35419137,
+        "price":  12.3170469300000007596,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -977,9 +1013,9 @@
         "title":  "IMPERIAL",
         "issue":  "STAR WARS IMPERIAL SECURITY PX BLK HEATHER T/S MED (C: 1-1-0",
         "variant":  "STAR WARS IMPERIAL SECURITY PX BLK HEATHER T/S MED (C: 1-1-0",
-        "price":  12.35419137,
+        "price":  12.3170469300000007596,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -989,9 +1025,9 @@
         "title":  "IMPERIAL",
         "issue":  "STAR WARS IMPERIAL SECURITY PX BLK HEATHER T/S SM (C: 1-1-0)",
         "variant":  "STAR WARS IMPERIAL SECURITY PX BLK HEATHER T/S SM (C: 1-1-0)",
-        "price":  12.35419137,
+        "price":  12.3170469300000007596,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -1001,9 +1037,9 @@
         "title":  "IMPERIAL",
         "issue":  "STAR WARS IMPERIAL SECURITY PX BLK HEATHER T/S XL (C: 1-1-0)",
         "variant":  "STAR WARS IMPERIAL SECURITY PX BLK HEATHER T/S XL (C: 1-1-0)",
-        "price":  12.35419137,
+        "price":  12.3170469300000007596,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -1013,9 +1049,9 @@
         "title":  "IMPERIAL",
         "issue":  "STAR WARS IMPERIAL SECURITY PX BLK HEATHER T/S XXL (C: 1-1-0",
         "variant":  "STAR WARS IMPERIAL SECURITY PX BLK HEATHER T/S XXL (C: 1-1-0",
-        "price":  13.65531737,
+        "price":  13.6142609300000008396,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688058619)\/",
+        "rundate":  "\/Date(1425292879042)\/",
         "site":  "Midtown"
     },
     {
@@ -1027,7 +1063,7 @@
         "variant":  "1",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688063522)\/",
+        "rundate":  "\/Date(1425292884741)\/",
         "site":  "Intercomics"
     },
     {
@@ -1039,7 +1075,7 @@
         "variant":  "2",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688063522)\/",
+        "rundate":  "\/Date(1425292884741)\/",
         "site":  "Intercomics"
     },
     {
@@ -1051,7 +1087,7 @@
         "variant":  "4",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688063522)\/",
+        "rundate":  "\/Date(1425292884741)\/",
         "site":  "Intercomics"
     },
     {
@@ -1061,21 +1097,9 @@
         "title":  "IMPERIAL",
         "issue":  "1",
         "variant":  "#1",
-        "price":  1.94518337,
+        "price":  1.9393349300000001196,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688072839)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/POPMUSIC/Imperial/sku/281441089.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/POPMUSIC/Imperial/sku/281441089.uts\"\u003ehttp://www.gohastings.com/product/POPMUSIC/Imperial/sku/281441089.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  null,
-        "variant":  "IMPERIAL",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688072839)\/",
+        "rundate":  "\/Date(1425292895601)\/",
         "site":  "Hastings"
     },
     {
@@ -1085,81 +1109,9 @@
         "title":  "IMPERIAL",
         "issue":  null,
         "variant":  "IMPERIAL: THE ALBUM",
-        "price":  2.84946594,
+        "price":  2.8408986600000001752,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688072839)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Imperial/sku/285488284.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Imperial/sku/285488284.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Imperial/sku/285488284.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  null,
-        "variant":  "IMPERIAL",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688072839)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/POPMUSIC/Imperial-The-Album/sku/273268838.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/POPMUSIC/Imperial-The-Album/sku/273268838.uts\"\u003ehttp://www.gohastings.com/product/POPMUSIC/Imperial-The-Album/sku/273268838.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  null,
-        "variant":  "IMPERIAL: THE ALBUM",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688072839)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/POPMUSIC/Imperial/sku/186749960.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/POPMUSIC/Imperial/sku/186749960.uts\"\u003ehttp://www.gohastings.com/product/POPMUSIC/Imperial/sku/186749960.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  null,
-        "variant":  "IMPERIAL",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688072839)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Imperial/sku/281443232.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Imperial/sku/281443232.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Imperial/sku/281443232.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  null,
-        "variant":  "IMPERIAL",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688072839)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Imperial/sku/294817150.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Imperial/sku/294817150.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Imperial/sku/294817150.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  null,
-        "variant":  "IMPERIAL",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688072839)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/BOOK/Imperial/sku/282944440.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/Imperial/sku/282944440.uts\"\u003ehttp://www.gohastings.com/product/BOOK/Imperial/sku/282944440.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  null,
-        "variant":  "IMPERIAL",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688072839)\/",
+        "rundate":  "\/Date(1425292895601)\/",
         "site":  "Hastings"
     },
     {
@@ -1169,33 +1121,9 @@
         "title":  "IMPERIAL",
         "issue":  null,
         "variant":  "IMPERIAL",
-        "price":  7.79374474,
+        "price":  7.7703118600000004792,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688072839)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/POPMUSIC/Imperial-ffrr/sku/240381410.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/POPMUSIC/Imperial-ffrr/sku/240381410.uts\"\u003ehttp://www.gohastings.com/product/POPMUSIC/Imperial-ffrr/sku/240381410.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  null,
-        "variant":  "F.F.R.R.",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688072839)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/POPMUSIC/Imperial-FFRR/sku/198480171.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/POPMUSIC/Imperial-FFRR/sku/198480171.uts\"\u003ehttp://www.gohastings.com/product/POPMUSIC/Imperial-FFRR/sku/198480171.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "IMPERIAL",
-        "issue":  null,
-        "variant":  "F.F.R.R.",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688072839)\/",
+        "rundate":  "\/Date(1425292895601)\/",
         "site":  "Hastings"
     },
     {
@@ -1205,9 +1133,9 @@
         "title":  "IMPERIAL",
         "issue":  null,
         "variant":  "F.F.R.R.",
-        "price":  7.79374474,
+        "price":  7.7703118600000004792,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688072839)\/",
+        "rundate":  "\/Date(1425292895601)\/",
         "site":  "Hastings"
     },
     {
@@ -1217,9 +1145,9 @@
         "title":  "IMPERIAL",
         "issue":  null,
         "variant":  "IMPERIAL",
-        "price":  14.95644337,
+        "price":  14.9114749300000009196,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1424688072839)\/",
+        "rundate":  "\/Date(1425292895601)\/",
         "site":  "Hastings"
     }
 ]

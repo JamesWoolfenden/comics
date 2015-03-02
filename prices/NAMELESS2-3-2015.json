@@ -1,0 +1,34 @@
+[
+    {
+        "Title":  "NAMELESS",
+        "Issue":  "1A",
+        "Cover":  1,
+        "TotalCost":  "3.18",
+        "Mean":  3.1783333333333332,
+        "AveragePrice":  2.0033333333333334,
+        "CurrentPrice":  2.196,
+        "Minimum":  1,
+        "Maximum":  3.5,
+        "Count":  6,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1425290585216)\/"
+    },
+    {
+        "Title":  "NAMELESS",
+        "Issue":  "1NEWBURY",
+        "Cover":  1,
+        "TotalCost":  "11.01",
+        "Mean":  11.004999999999999,
+        "AveragePrice":  8.004999999999999,
+        "CurrentPrice":  8.004999999999999,
+        "Minimum":  6.5,
+        "Maximum":  9.51,
+        "Count":  2,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1425290585356)\/"
+    }
+]

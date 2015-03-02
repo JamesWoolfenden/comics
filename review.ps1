@@ -435,7 +435,7 @@ function set-issue
       $estimateIssue=$rawIssue
    }
 
-   $Keys=("PHANTOM", "GHOST","CGC","SIGNED")
+   $Keys=("PHANTOM","CGC","SIGNED")
 
    foreach($key in $Keys)
    {
