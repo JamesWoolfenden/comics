@@ -187,7 +187,7 @@ function Get-SearchData
    }
    else
    {
-      Write-Error "Title $title not found"
+      $null
    }
 }   
 
