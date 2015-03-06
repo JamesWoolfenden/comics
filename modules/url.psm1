@@ -8,8 +8,7 @@ function get-urltocomicarray
    [string]$title,
    [Parameter(Mandatory=$true)]
    [string]$site,
-   [Parameter(Mandatory=$true)]
-   [string[]]$filters)
+   [string[]]$filters="")
 
    $result=$null
 

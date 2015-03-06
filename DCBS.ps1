@@ -7,7 +7,6 @@ function get-dcbs
 {
    $url="https://www.kimonolabs.com/api/3lyw38rc?apikey=01f250503b7c40eb0ce695da7d74cbb1"
 
-   get-
    $dcbsresults=Invoke-RestMethod -Uri $url
    if ($dcbsresults.lastrunstatus -eq "failure")
    {

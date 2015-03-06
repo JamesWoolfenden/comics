@@ -24,7 +24,10 @@ function get-hastingsdata
 
    foreach($part in $arraytitle)
    {
-      $results = $results| where {$_.title.text -match $part}
+      if ($results)
+      {
+          $results = $results| where {$_.title.text -match $part}
+      }
    }
    
    $datetime=get-date

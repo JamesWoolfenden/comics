@@ -44,7 +44,7 @@ function get-market
 
    If ($record.productcode -ne "")
    {
-      $allrecords+=get-gurudata -title $record.title -productcode $record.productcode
+      $allrecords+=get-gurudata -record $record 
    }
 
    $allrecords |ConvertTo-Json -depth 999 | Out-File "$PSScriptRoot\livedata\$($filetitle).json" -Encoding ascii
