@@ -156,7 +156,7 @@ function Set-SearchData
    $searches[$index].Exclude=$searches[$index].Exclude|sort -unique
    $searches[$index].Include=$searches[$index].Include|sort -unique
 
-   write-debug "Index is $Index"
+   write-verbose "Index is $Index"
    $searches[$index]
    $searches| ConvertTo-Json -depth 999 | Out-File "$datafile"
 }

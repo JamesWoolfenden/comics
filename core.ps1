@@ -9,7 +9,15 @@ function scan
       This loads the search json db and scan ebay and ebid.
    #>
 
+   param([string]$title)
+
    $searches=(Get-Content "$PSScriptRoot\search-data.json") -join "`n" |ConvertFrom-Json
+
+   #restrict to just this title
+   if ($title)
+   {
+      $searches=$searches|where{$_.title -eq $title}
+   }
 
    foreach($search in $searches)
    {
@@ -47,7 +55,7 @@ function best-buys
 
    foreach($record in $results)
    {
-      Write-debug "get-priceestimate -title $($record.title) -issue $($record.issue)"
+      write-verbose "get-priceestimate -title $($record.title) -issue $($record.issue)"
       $prices=get-priceestimate -title $($record.title) -issue $($record.issue)
 
       $CurrentPrice=0
@@ -193,19 +201,19 @@ function get-issue
 
    if ($rawissue.Contains("#"))
    {
-      write-debug "splitting on # $rawissue"
+      write-verbose "splitting on # $rawissue"
       $rawissue=$rawissue.split("#")[1]
    }
    elseif(($rawissue.ToUpper()).Contains("PROG"))
    {
-      write-debug "splitting on prog $rawissue"
+      write-verbose "splitting on prog $rawissue"
       $rawissue=($rawissue.ToUpper() -split("PROG"))[1]
    }
    
    $split=$rawissue.split(" ")
    $cover=$split[0]
    $variant=$rawissue
-   write-debug "Variant is $variant"
+   write-verbose "Variant is $variant"
 
    if ($variant -eq $null)
    {
@@ -213,7 +221,7 @@ function get-issue
    }
    else
    {
-      write-debug "Variant is $variant"
+      write-verbose "Variant is $variant"
    }
 
    $issue= New-Object System.Object

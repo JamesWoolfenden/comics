@@ -372,7 +372,7 @@ function get-ebidresults
 {
    param([string]$url)
    
-   Write-debug "Getting $url"
+   write-verbose "Getting $url"
    $Results = invoke-restmethod -uri "$url"
    $Results 
 }
@@ -496,7 +496,7 @@ function get-records
    }
    
    #this is the sold items
-   write-debug "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {`$_.BidCount -ne '0'}"
+   write-verbose "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {`$_.BidCount -ne '0'}"
    $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold' -categories $search.category |where {$_.BidCount -ne '0'}
 
    if ($soldresult)
@@ -512,7 +512,7 @@ function get-records
    }
    
    # this is the closed results
-   write-debug "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {`$_.BidCount -ne '0'}"
+   write-verbose "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {`$_.BidCount -ne '0'}"
    $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed' -categories $search.category|where {$_.BidCount -eq "0"}
    if ($expiredresult)
    {
@@ -527,7 +527,7 @@ function get-records
       $found=0
       if ($result)
       {
-         write-debug "`r`nOpen" 
+         write-verbose "`r`nOpen" 
          if ($result -is [system.array])
          {
            $found=$($result.count)
@@ -691,15 +691,15 @@ function get-ebidrecords
       $stringinclude =$search.include -join "%20-"
    }
    
-   Write-debug "Exclude: $stringexclude"
-   Write-debug "Include: $stringinclude"
+   write-verbose "Exclude: $stringexclude"
+   write-verbose "Include: $stringinclude"
 
    foreach($category in $search.category)
    {
-      Write-debug "$(Get-date) - category :$category"
+      write-verbose "$(Get-date) - category :$category"
       $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=$category&categoryid=$category&categoryonly=on&mo=search&type=keyword"
 
-      write-debug "Querying ebid $url"
+      write-verbose "Querying ebid $url"
       $ebidresults=get-ebidresults -url "$url"
 
       if ($ebidresults -is [system.array])
@@ -734,7 +734,7 @@ function get-allrecords
    Write-Host "`nFinding $($search.title)" -ForegroundColor cyan  
    get-ebidrecords -search $search
    get-records -search $search
-   Write-debug "`r`nComplete."
+   write-verbose "`r`nComplete."
 }
 
 function open-covers

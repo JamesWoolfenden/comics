@@ -10,7 +10,7 @@ function Get-RssContent {
 	)
 	
 	$url = Build-Url -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $CategoryId
-	write-debug "Reading $url"
+	write-verbose "Reading $url"
 	try
     {
 		$Results=Invoke-webrequest $url

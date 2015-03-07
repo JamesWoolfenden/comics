@@ -8,12 +8,11 @@ function get-urltocomicarray
    [string]$title,
    [Parameter(Mandatory=$true)]
    [string]$site,
-   [Parameter(Mandatory=$true)]
-   [string[]]$filters)
+   [string[]]$filters="")
 
    $result=$null
 
-   write-debug "Accessing $url"
+   write-verbose "Accessing $url"
    write-Host "$(Get-Date) - Looking for $title @ `"$site`""
 
    try

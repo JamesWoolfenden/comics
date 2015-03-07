@@ -1,4 +1,5 @@
-Function Parse-ListingInfo {
+Function Parse-ListingInfo 
+{
 	Param (
 		[Parameter(Mandatory=$true)]
 		[ValidateNotNull()]
@@ -19,25 +20,25 @@ Function Parse-ListingInfo {
 
 	try	
     {
-		$Title = $item.title."#cdata-section"
-		$Title = $Title.Replace("`"", "")
-		$Title = $Title.Replace(">", "")
-		$Title = $Title.Replace("<", "")
+       $Title = $item.title."#cdata-section"
+       $Title = $Title.Replace("`"", "")
+       $Title = $Title.Replace(">", "")
+       $Title = $Title.Replace("<", "")
 		
-		$Link = $item.link."#cdata-section"
+       $Link = $item.link."#cdata-section"
 			
-		try{
-			$EBAYITEM_REGEX = [regex] ".*(/)(?'Item'[0-9]+)(?+).*"
-			if($Link -match $EBAYITEM_REGEX) 
-            {
+       try
+       {
+          $EBAYITEM_REGEX = [regex] ".*(/)(?'Item'[0-9]+)(?+).*"
+          if($Link -match $EBAYITEM_REGEX) 
+          {
 				$EbayItem = $Matches.Item
-			}
-		} 
-        catch
-        {
-        }
-
-		try 
+          }
+       } 
+       catch
+       {}
+       
+       try 
         {
 			[string]$Description = $item.description."#cdata-section"
 		} 
@@ -52,7 +53,8 @@ Function Parse-ListingInfo {
 			$PubDate = $PubDate.Replace(" PST", "")
 			$PubDate = $PubDate.Replace(" PDT", "")
 			$PublishDate = Get-Date $PubDate
-		} catch {}
+		} 
+        catch {}
 		
 		try {
 			$IMAGE_REGEX = [regex] ".*(src=`"+)(?'ImageSrc'[^`"]+).*"
@@ -62,13 +64,12 @@ Function Parse-ListingInfo {
 			}
 		} 
         catch
-        {
-        }
+        {}
 		
 		try 
         {
 			$ENDDATE_REGEX = [regex]  ".*(End date: <span>+)(?'EndDate'[^<]+).*"
-			Write-debug "$description"
+			write-verbose "$description"
 			if($description -match $ENDDATE_REGEX) 
             {
 				$EndDate = $Matches.EndDate
@@ -80,6 +81,7 @@ Function Parse-ListingInfo {
 		}
         catch
         {}
+
 		try 
         {
 			$BidCount = $item.BidCount."#text"
@@ -90,9 +92,9 @@ Function Parse-ListingInfo {
 		try 
         {
 			$b = $item.BuyItNowPrice."#text"
-			$BuyItNowPrice = [int]$b/100
-			
-		} catch{}
+			$BuyItNowPrice = [int]$b/100	
+		} 
+        catch{}
 		
 		try {
 			$c = $item.CurrentPrice."#text"
@@ -104,13 +106,16 @@ Function Parse-ListingInfo {
 			if($CurrentPrice -eq $BuyItNowPrice) {
 				$AuctionType = 'Buy it now'
 			}
-		} catch{}
+		} 
+        catch{}
 		
-		try {
+		try 
+     {
 			if($item.ItemCharacteristic."#text" -ne $null){		
 				$BestOffer = $true
 			}
-		} catch{}		
+		} 
+        catch{}		
 
 		$ItemInfo = New-Object PsObject
 		$ItemInfo | Add-Member -MemberType NoteProperty -Name 'Title' -Value $Title

@@ -24,7 +24,7 @@ $title=$title.ToUpper()
    $site="Ebay"
    $fullfilter=""
    $url="https://www.kimonolabs.com/api/1vt19h34?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-debug "Accessing $url"
+   write-verbose "Accessing $url"
    write-Host "Looking for $title @ `"$site`""
    $ebayresults=Invoke-RestMethod -Uri $url
    if ($ebayresults.lastrunstatus -eq "failure")

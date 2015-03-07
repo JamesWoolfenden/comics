@@ -14,7 +14,7 @@ Function Get-EbayRssItems
     foreach($Category in $Categories)
     {
 	   $items = @()
-	   write-debug "Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $Category"
+	   write-verbose "Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $Category"
 	   $xml = Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $Category
 	   $xml.rss | % {$_.channel.item} | % {
 		  $item = $_

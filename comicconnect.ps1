@@ -19,6 +19,6 @@ function get-comicconnectdata
    $comic=$title.replace(" ","+")
    $site="comicconnect"
    $url="https://www.kimonolabs.com/api/4iuvcfgy?apikey=01f250503b7c40eb0ce695da7d74cbb1&title=$comic"
-   write-debug "Accessing $url"
+   write-verbose "Accessing $url"
    write-Host "$(Get-Date) - Looking for $title @ `"$site`""
 

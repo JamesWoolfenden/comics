@@ -62,7 +62,7 @@ function get-coverdetails
    [Parameter(Mandatory=$true)]
    [string]$rawissue)
 
-   Write-debug $rawissue
+   write-verbose $rawissue
    $issue=$rawissue.ToUpper()
    $variant=$issue.trim()
    

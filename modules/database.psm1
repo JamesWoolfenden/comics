@@ -52,7 +52,7 @@ function get-cover
    
    Try
    {
-      write-debug "Analysing cover $dirty"
+      write-verbose "Analysing cover $dirty"
       if ($dirty.Contains("#"))
       {
          $dirty=$dirty.split("#")[1]
@@ -145,7 +145,7 @@ function add-record
    VALUES
    ('$title', '$Price', '$Issue', '$bought', '$DateOfSale', '$status','$postage', '$Description','$PublishDate', '$ebayitem',$Quantity, '$AuctionType', '$BestOffer', '$BidCount', '$BuyItNowPrice', '$CloseDate', '$ImageSrc', '$Link', '$site', '$remaining', '$seller', '$saledate','$Price', '$Parentid', '$split')" 
    
-   write-debug $cmd.commandtext
+   write-verbose $cmd.commandtext
    $result=$cmd.executenonquery()
    $conn.close()
 }
@@ -269,7 +269,7 @@ function update-db
    }
  
    $cmd.commandtext = "update Comics.dbo.Comics SET $updatestring where Ebayitem = '$ebayitem' and (status !='CLOSED' OR status !='expired')" 
-   write-debug $cmd.commandtext
+   write-verbose $cmd.commandtext
    
    $transactionComplete=$NULL
 

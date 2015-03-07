@@ -1,63 +1,217 @@
 [
     {
+        "link":  "https://www.dcbservice.com/product/mar150575/manifest-destiny-16-(mr)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/mar150575/manifest-destiny-16-(mr)\"\u003ehttps://www.dcbservice.com/product/mar150575/manifest-destiny-16-(mr)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "16",
+        "variant":  "Manifest Destiny  (MR)",
+        "price":  "1.19",
+        "currency":  "\u0026pound;",
+        "rundate":  "7-3-2015",
+        "site":  "DCBS"
+    },
+    {
         "link":  "http://shop.comicxposure.com/Manifest-Destiny-1-4th-Printing-DEC138467.htm",
         "url":  "\u003ca href=\"http://shop.comicxposure.com/Manifest-Destiny-1-4th-Printing-DEC138467.htm\"\u003ehttp://shop.comicxposure.com/Manifest-Destiny-1-4th-Printing-DEC138467.htm\u003c/a\u003e",
         "orderdate":  null,
         "title":  "MANIFEST DESTINY",
         "issue":  "1",
         "variant":  "Manifest Destiny  4th Printing",
-        "price":  "1.55",
+        "price":  "1.59",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425293806737)\/",
+        "rundate":  "\/Date(1425722255952)\/",
         "site":  "comicxposure"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/MANIFEST-DESTINY-10-IMAGE-COMICS-SEPT-2014-NM-NEW-/111588072751?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb2add2f",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MANIFEST-DESTINY-10-IMAGE-COMICS-SEPT-2014-NM-NEW-/111588072751?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb2add2f\"\u003ehttp://www.ebay.co.uk/itm/MANIFEST-DESTINY-10-IMAGE-COMICS-SEPT-2014-NM-NEW-/111588072751?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb2add2f\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/back-issues/image/manifest-destiny-6-2nd-ptg/prod_54220.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/manifest-destiny-6-2nd-ptg/prod_54220.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/manifest-destiny-6-2nd-ptg/prod_54220.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "6",
+        "variant":  "6 2ND PTG",
+        "price":  2.15,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722262367)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/back-issues/image/manifest-destiny-5-2nd-ptg-dhc/prod_70426.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/manifest-destiny-5-2nd-ptg-dhc/prod_70426.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/manifest-destiny-5-2nd-ptg-dhc/prod_70426.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "5",
+        "variant":  "5 2ND PTG DHC",
+        "price":  2.20,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722262367)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/back-issues/image/manifest-destiny-12-mr-/prod_111691.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/manifest-destiny-12-mr-/prod_111691.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/manifest-destiny-12-mr-/prod_111691.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "12",
+        "variant":  "12 (MR)",
+        "price":  2.10,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722262367)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/back-issues/image/image-firsts-manifest-destiny-1/prod_115864.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/image-firsts-manifest-destiny-1/prod_115864.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/image-firsts-manifest-destiny-1/prod_115864.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "1",
+        "variant":  "1",
+        "price":  1.45,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722262367)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/back-issues/image/manifest-destiny-13-mr-/prod_123370.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/manifest-destiny-13-mr-/prod_123370.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/manifest-destiny-13-mr-/prod_123370.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "13",
+        "variant":  "13 (MR)",
+        "price":  2.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722262367)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-18/03/15/image/manifest-destiny-14-mr-/prod_130550.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-18/03/15/image/manifest-destiny-14-mr-/prod_130550.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-18/03/15/image/manifest-destiny-14-mr-/prod_130550.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "14",
+        "variant":  "14 (MR)",
+        "price":  2.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722262367)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-18/03/15/image/manifest-destiny-15-mr-/prod_135013.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-18/03/15/image/manifest-destiny-15-mr-/prod_135013.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-18/03/15/image/manifest-destiny-15-mr-/prod_135013.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "15",
+        "variant":  "15 (MR)",
+        "price":  2.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722262367)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/manifest-destiny-16-mr-/prod_143597.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/manifest-destiny-16-mr-/prod_143597.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/manifest-destiny-16-mr-/prod_143597.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "16",
+        "variant":  "16 (MR)",
+        "price":  2.20,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722262367)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders/may-2015/preorders-for-20/05/15/image/manifest-destiny-16-mr-/prod_144451.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/may-2015/preorders-for-20/05/15/image/manifest-destiny-16-mr-/prod_144451.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/may-2015/preorders-for-20/05/15/image/manifest-destiny-16-mr-/prod_144451.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "16",
+        "variant":  "16 (MR)",
+        "price":  2.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722262367)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/134029-manifest-destiny-15/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/134029-manifest-destiny-15/\"\u003ehttps://forbiddenplanet.com/134029-manifest-destiny-15/\u003c/a\u003e",
+        "orderdate":  "18th March, 2015",
+        "title":  "MANIFEST DESTINY",
+        "issue":  "15",
+        "variant":  "15",
+        "price":  1.95,
+        "rundate":  "\/Date(1425722296188)\/",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/128018-manifest-destiny-8-walking-dead-129-cci-sdcc-2014-connect-pack-variant/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/128018-manifest-destiny-8-walking-dead-129-cci-sdcc-2014-connect-pack-variant/\"\u003ehttps://forbiddenplanet.com/128018-manifest-destiny-8-walking-dead-129-cci-sdcc-2014-connect-pack-variant/\u003c/a\u003e",
+        "orderdate":  "",
+        "title":  "MANIFEST DESTINY",
+        "issue":  "8 \u0026 Walking Dead ",
+        "variant":  "8 \u0026 Walking Dead ",
+        "price":  9.99,
+        "rundate":  "\/Date(1425722296188)\/",
+        "site":  "Forbidden Planet"
+    },
+    {
+        "link":  "http://www.reedcomics.com/manifest-destiny-10-p-63256.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/manifest-destiny-10-p-63256.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/manifest-destiny-10-p-63256.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
         "orderdate":  null,
         "title":  "MANIFEST DESTINY",
         "issue":  "10",
         "variant":  "10",
-        "price":  2.95,
+        "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
-        "site":  "Auction"
+        "rundate":  "\/Date(1425722302027)\/",
+        "site":  "Reed"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/MANIFEST-DESTINY-12-IMAGE-COMICS-NOV-2014-NM-NEW-/111588073602?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb2ae082",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MANIFEST-DESTINY-12-IMAGE-COMICS-NOV-2014-NM-NEW-/111588073602?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb2ae082\"\u003ehttp://www.ebay.co.uk/itm/MANIFEST-DESTINY-12-IMAGE-COMICS-NOV-2014-NM-NEW-/111588073602?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb2ae082\u003c/a\u003e",
+        "link":  "http://www.reedcomics.com/manifest-destiny-11-p-63735.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/manifest-destiny-11-p-63735.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/manifest-destiny-11-p-63735.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "11",
+        "variant":  "11",
+        "price":  null,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722302027)\/",
+        "site":  "Reed"
+    },
+    {
+        "link":  "http://www.reedcomics.com/manifest-destiny-12-p-64825.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/manifest-destiny-12-p-64825.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/manifest-destiny-12-p-64825.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
         "orderdate":  null,
         "title":  "MANIFEST DESTINY",
         "issue":  "12",
         "variant":  "12",
-        "price":  2.95,
+        "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
-        "site":  "Auction"
+        "rundate":  "\/Date(1425722302027)\/",
+        "site":  "Reed"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/MANIFEST-DESTINY-6-IMAGE-COMICS-SECOND-PRINT-MAY-2014-NM-NEW-/111589239233?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb3ca9c1",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MANIFEST-DESTINY-6-IMAGE-COMICS-SECOND-PRINT-MAY-2014-NM-NEW-/111589239233?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb3ca9c1\"\u003ehttp://www.ebay.co.uk/itm/MANIFEST-DESTINY-6-IMAGE-COMICS-SECOND-PRINT-MAY-2014-NM-NEW-/111589239233?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb3ca9c1\u003c/a\u003e",
+        "link":  "http://www.reedcomics.com/manifest-destiny-13-p-65717.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/manifest-destiny-13-p-65717.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/manifest-destiny-13-p-65717.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
         "orderdate":  null,
         "title":  "MANIFEST DESTINY",
-        "issue":  "6",
-        "variant":  "6B",
-        "price":  2.95,
+        "issue":  "13",
+        "variant":  "13",
+        "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
-        "site":  "Auction"
+        "rundate":  "\/Date(1425722302027)\/",
+        "site":  "Reed"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/IMAGE-FIRSTS-MANIFEST-DESTINY-1-N-M-IMAGE-COMICS-NEW-UNREAD-/111589245051?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb3cc07b",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-FIRSTS-MANIFEST-DESTINY-1-N-M-IMAGE-COMICS-NEW-UNREAD-/111589245051?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb3cc07b\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-FIRSTS-MANIFEST-DESTINY-1-N-M-IMAGE-COMICS-NEW-UNREAD-/111589245051?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item19fb3cc07b\u003c/a\u003e",
+        "link":  "http://www.reedcomics.com/manifest-destiny-9-p-62824.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
+        "url":  "\u003ca href=\"http://www.reedcomics.com/manifest-destiny-9-p-62824.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/manifest-destiny-9-p-62824.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
         "orderdate":  null,
         "title":  "MANIFEST DESTINY",
-        "issue":  "1",
-        "variant":  "1FIRSTS",
-        "price":  3.5,
+        "issue":  "9",
+        "variant":  "9",
+        "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
-        "site":  "Auction"
+        "rundate":  "\/Date(1425722302027)\/",
+        "site":  "Reed"
     },
     {
         "link":  "http://www.ebay.co.uk/itm/IMAGE-FIRSTS-MANIFEST-DESTINY-1-APR-2014-NM-NEW-/111596968424?pt=LH_DefaultDomain_3\u0026hash=item19fbb299e8",
@@ -68,7 +222,7 @@
         "variant":  "1FIRSTS",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -80,7 +234,7 @@
         "variant":  "3B",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -92,7 +246,55 @@
         "variant":  "7A",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MANIFEST-DESTINY-12-IMAGE-COMICS-NOV-2014-NM-NEW-/111611975764?pt=LH_DefaultDomain_3\u0026hash=item19fc979854",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MANIFEST-DESTINY-12-IMAGE-COMICS-NOV-2014-NM-NEW-/111611975764?pt=LH_DefaultDomain_3\u0026hash=item19fc979854\"\u003ehttp://www.ebay.co.uk/itm/MANIFEST-DESTINY-12-IMAGE-COMICS-NOV-2014-NM-NEW-/111611975764?pt=LH_DefaultDomain_3\u0026hash=item19fc979854\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "12",
+        "variant":  "12",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "7-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MANIFEST-DESTINY-5-IMAGE-COMICS-SECOND-PRINT-MAR-2014-NM-NEW-/111612752015?pt=LH_DefaultDomain_3\u0026hash=item19fca3708f",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MANIFEST-DESTINY-5-IMAGE-COMICS-SECOND-PRINT-MAR-2014-NM-NEW-/111612752015?pt=LH_DefaultDomain_3\u0026hash=item19fca3708f\"\u003ehttp://www.ebay.co.uk/itm/MANIFEST-DESTINY-5-IMAGE-COMICS-SECOND-PRINT-MAR-2014-NM-NEW-/111612752015?pt=LH_DefaultDomain_3\u0026hash=item19fca3708f\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "5",
+        "variant":  "5B",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "7-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/IMAGE-FIRSTS-MANIFEST-DESTINY-1-N-M-IMAGE-COMICS-NEW-UNREAD-/111612762231?pt=LH_DefaultDomain_3\u0026hash=item19fca39877",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-FIRSTS-MANIFEST-DESTINY-1-N-M-IMAGE-COMICS-NEW-UNREAD-/111612762231?pt=LH_DefaultDomain_3\u0026hash=item19fca39877\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-FIRSTS-MANIFEST-DESTINY-1-N-M-IMAGE-COMICS-NEW-UNREAD-/111612762231?pt=LH_DefaultDomain_3\u0026hash=item19fca39877\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "1",
+        "variant":  "1FIRSTS",
+        "price":  3.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "7-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MANIFEST-DESTINY-1-IMAGE-COMICS-4TH-PRINTING-MAR-2014-NM-NEW-/111614021853?pt=LH_DefaultDomain_3\u0026hash=item19fcb6d0dd",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MANIFEST-DESTINY-1-IMAGE-COMICS-4TH-PRINTING-MAR-2014-NM-NEW-/111614021853?pt=LH_DefaultDomain_3\u0026hash=item19fcb6d0dd\"\u003ehttp://www.ebay.co.uk/itm/MANIFEST-DESTINY-1-IMAGE-COMICS-4TH-PRINTING-MAR-2014-NM-NEW-/111614021853?pt=LH_DefaultDomain_3\u0026hash=item19fcb6d0dd\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "1",
+        "variant":  "1E",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -104,31 +306,7 @@
         "variant":  "1SPANISH",
         "price":  1.57,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/MANIFEST-DESTINY-11-IMAGE-COMICS-OCT-2014-NM-NEW-/121558330851?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d70ede3",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MANIFEST-DESTINY-11-IMAGE-COMICS-OCT-2014-NM-NEW-/121558330851?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d70ede3\"\u003ehttp://www.ebay.co.uk/itm/MANIFEST-DESTINY-11-IMAGE-COMICS-OCT-2014-NM-NEW-/121558330851?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d70ede3\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "MANIFEST DESTINY",
-        "issue":  "11",
-        "variant":  "11",
-        "price":  2.95,
-        "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/MANIFEST-DESTINY-5-IMAGE-COMICS-SECOND-PRINT-MAR-2014-NM-NEW-/121559507050?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d82e06a",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MANIFEST-DESTINY-5-IMAGE-COMICS-SECOND-PRINT-MAR-2014-NM-NEW-/121559507050?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d82e06a\"\u003ehttp://www.ebay.co.uk/itm/MANIFEST-DESTINY-5-IMAGE-COMICS-SECOND-PRINT-MAR-2014-NM-NEW-/121559507050?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item1c4d82e06a\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "MANIFEST DESTINY",
-        "issue":  "5",
-        "variant":  "5B",
-        "price":  2.95,
-        "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -140,7 +318,7 @@
         "variant":  "1A",
         "price":  23,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -152,7 +330,7 @@
         "variant":  "8",
         "price":  2.1,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -164,7 +342,19 @@
         "variant":  "9",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MANIFEST-DESTINY-6-IMAGE-COMICS-SECOND-PRINT-MAY-2014-NM-NEW-/121586201324?pt=LH_DefaultDomain_3\u0026hash=item1c4f1a32ec",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MANIFEST-DESTINY-6-IMAGE-COMICS-SECOND-PRINT-MAY-2014-NM-NEW-/121586201324?pt=LH_DefaultDomain_3\u0026hash=item1c4f1a32ec\"\u003ehttp://www.ebay.co.uk/itm/MANIFEST-DESTINY-6-IMAGE-COMICS-SECOND-PRINT-MAY-2014-NM-NEW-/121586201324?pt=LH_DefaultDomain_3\u0026hash=item1c4f1a32ec\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "6",
+        "variant":  "6B",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -176,7 +366,7 @@
         "variant":  "1FIRSTS",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -188,7 +378,7 @@
         "variant":  "7A",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -200,7 +390,7 @@
         "variant":  "7A",
         "price":  1.75,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -212,7 +402,7 @@
         "variant":  "8",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -224,7 +414,7 @@
         "variant":  "7B",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -236,7 +426,7 @@
         "variant":  "1A",
         "price":  18,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -248,7 +438,7 @@
         "variant":  "2A",
         "price":  10,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -260,7 +450,7 @@
         "variant":  "4A",
         "price":  8,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -272,7 +462,7 @@
         "variant":  "5A",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -284,7 +474,7 @@
         "variant":  "6A",
         "price":  3,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -296,7 +486,7 @@
         "variant":  "7A",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -308,7 +498,7 @@
         "variant":  "5B",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -320,7 +510,7 @@
         "variant":  "6B",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -332,7 +522,7 @@
         "variant":  "8",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -344,7 +534,7 @@
         "variant":  "7B",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -356,7 +546,7 @@
         "variant":  "10",
         "price":  2.79,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -368,19 +558,7 @@
         "variant":  "10",
         "price":  3.14,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/MANIFEST-DESTINY-13-IMAGE-COMICS-2015-FIRST-PRINT-/141585493616?pt=LH_DefaultDomain_3\u0026hash=item20f7272e70",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MANIFEST-DESTINY-13-IMAGE-COMICS-2015-FIRST-PRINT-/141585493616?pt=LH_DefaultDomain_3\u0026hash=item20f7272e70\"\u003ehttp://www.ebay.co.uk/itm/MANIFEST-DESTINY-13-IMAGE-COMICS-2015-FIRST-PRINT-/141585493616?pt=LH_DefaultDomain_3\u0026hash=item20f7272e70\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "MANIFEST DESTINY",
-        "issue":  "13",
-        "variant":  "13",
-        "price":  2.25,
-        "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -392,7 +570,19 @@
         "variant":  "SET",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Manifest-Destiny-2-NM-1st-Print-Image-The-Walking-Dead-Thief-Thieves-Sketch-/151606722714?pt=LH_DefaultDomain_3\u0026hash=item234c77009a",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Manifest-Destiny-2-NM-1st-Print-Image-The-Walking-Dead-Thief-Thieves-Sketch-/151606722714?pt=LH_DefaultDomain_3\u0026hash=item234c77009a\"\u003ehttp://www.ebay.co.uk/itm/Manifest-Destiny-2-NM-1st-Print-Image-The-Walking-Dead-Thief-Thieves-Sketch-/151606722714?pt=LH_DefaultDomain_3\u0026hash=item234c77009a\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "2",
+        "variant":  "2A",
+        "price":  12.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -404,7 +594,7 @@
         "variant":  "3B",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -416,7 +606,7 @@
         "variant":  "1C",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -428,7 +618,7 @@
         "variant":  "6A",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -440,7 +630,7 @@
         "variant":  "6B",
         "price":  2.15,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -452,7 +642,7 @@
         "variant":  "7A",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -464,7 +654,7 @@
         "variant":  "10",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -476,7 +666,7 @@
         "variant":  "8",
         "price":  0.3,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -488,7 +678,7 @@
         "variant":  "10",
         "price":  0.3,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -500,7 +690,7 @@
         "variant":  "9",
         "price":  0.3,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -512,7 +702,7 @@
         "variant":  "8",
         "price":  2.1,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -524,7 +714,7 @@
         "variant":  "1FIRSTS",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -536,7 +726,7 @@
         "variant":  "SET",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -548,7 +738,7 @@
         "variant":  "5A",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -560,7 +750,7 @@
         "variant":  "6A",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -572,7 +762,7 @@
         "variant":  "5B",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -584,7 +774,7 @@
         "variant":  "6B",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -596,7 +786,7 @@
         "variant":  "8",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -608,7 +798,7 @@
         "variant":  "VOL1",
         "price":  13.06,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -620,7 +810,7 @@
         "variant":  "1A",
         "price":  20,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -632,7 +822,7 @@
         "variant":  "5A",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -644,7 +834,7 @@
         "variant":  "7A",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -656,7 +846,7 @@
         "variant":  "7A",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -668,7 +858,7 @@
         "variant":  "8",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -680,7 +870,7 @@
         "variant":  "2A",
         "price":  18.95,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -692,7 +882,7 @@
         "variant":  "9",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -704,7 +894,7 @@
         "variant":  "9",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -716,7 +906,7 @@
         "variant":  "8",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -728,7 +918,7 @@
         "variant":  "7A",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -740,7 +930,7 @@
         "variant":  "12",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -752,7 +942,7 @@
         "variant":  "1FIRSTS",
         "price":  1.69,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -764,7 +954,7 @@
         "variant":  "7B",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -776,7 +966,7 @@
         "variant":  "7B",
         "price":  5.95,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -788,7 +978,7 @@
         "variant":  "VOL1",
         "price":  5.83,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -800,7 +990,7 @@
         "variant":  "SET",
         "price":  31.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -812,7 +1002,7 @@
         "variant":  "SET",
         "price":  36.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -824,7 +1014,7 @@
         "variant":  "VOL1",
         "price":  5.93,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -836,7 +1026,19 @@
         "variant":  "8SDCC",
         "price":  9.95,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Manifest-Destiny-2-1st-Print-NM-Dingess-Roberts-Geini-Image-Comics-SOLD-OUT-/281615249375?pt=LH_DefaultDomain_3\u0026hash=item419193afdf",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Manifest-Destiny-2-1st-Print-NM-Dingess-Roberts-Geini-Image-Comics-SOLD-OUT-/281615249375?pt=LH_DefaultDomain_3\u0026hash=item419193afdf\"\u003ehttp://www.ebay.co.uk/itm/Manifest-Destiny-2-1st-Print-NM-Dingess-Roberts-Geini-Image-Comics-SOLD-OUT-/281615249375?pt=LH_DefaultDomain_3\u0026hash=item419193afdf\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "2",
+        "variant":  "2A",
+        "price":  13.85,
+        "currency":  "\u0026pound;",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -848,7 +1050,7 @@
         "variant":  "3A",
         "price":  9.85,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -860,7 +1062,7 @@
         "variant":  "8",
         "price":  1.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -872,7 +1074,7 @@
         "variant":  "7B",
         "price":  1,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -884,7 +1086,7 @@
         "variant":  "9",
         "price":  1.79,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -896,7 +1098,7 @@
         "variant":  "5A",
         "price":  3.1,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -908,7 +1110,7 @@
         "variant":  "4B",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -920,7 +1122,7 @@
         "variant":  "6B",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -932,7 +1134,7 @@
         "variant":  "5B",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -944,7 +1146,7 @@
         "variant":  "8",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -956,7 +1158,7 @@
         "variant":  "8",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -968,7 +1170,7 @@
         "variant":  "1FIRSTS",
         "price":  1.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -980,7 +1182,7 @@
         "variant":  "1FIRSTS",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -992,7 +1194,7 @@
         "variant":  "13",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1004,7 +1206,7 @@
         "variant":  "3IMAGEEXPO",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1014,9 +1216,9 @@
         "title":  "MANIFEST DESTINY",
         "issue":  "8",
         "variant":  "8SDCCSKETCHCGC",
-        "price":  0.99,
+        "price":  16,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1028,7 +1230,7 @@
         "variant":  "SET",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1040,7 +1242,7 @@
         "variant":  "SET",
         "price":  49.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1052,7 +1254,7 @@
         "variant":  "7A",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1064,7 +1266,7 @@
         "variant":  "HARDCOVER1SDCC",
         "price":  35.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1076,7 +1278,7 @@
         "variant":  "8",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1088,7 +1290,7 @@
         "variant":  "5B",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1100,7 +1302,7 @@
         "variant":  "7A",
         "price":  1.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1112,7 +1314,7 @@
         "variant":  "1A",
         "price":  24.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1124,7 +1326,7 @@
         "variant":  "1D",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1136,7 +1338,7 @@
         "variant":  "6A",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1148,7 +1350,7 @@
         "variant":  "8",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1160,19 +1362,7 @@
         "variant":  "12",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Manifest-Destiny-9-Image-Comics-Aug-2014-/381015737939?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b64ec653\u0026ssPageName=RSS:B:SHOP:GB:101",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Manifest-Destiny-9-Image-Comics-Aug-2014-/381015737939?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b64ec653\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Manifest-Destiny-9-Image-Comics-Aug-2014-/381015737939?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item58b64ec653\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "MANIFEST DESTINY",
-        "issue":  "9",
-        "variant":  "9",
-        "price":  2.2,
-        "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1184,7 +1374,7 @@
         "variant":  "5A",
         "price":  3.5,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1196,7 +1386,7 @@
         "variant":  "VOL1",
         "price":  8.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1208,7 +1398,7 @@
         "variant":  "7A",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1220,7 +1410,7 @@
         "variant":  "6A",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1232,7 +1422,19 @@
         "variant":  "5A",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/MANIFEST-DESTINY-12-IMAGE-COMICS-/391075513407?pt=LH_DefaultDomain_3\u0026hash=item5b0deac43f",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/MANIFEST-DESTINY-12-IMAGE-COMICS-/391075513407?pt=LH_DefaultDomain_3\u0026hash=item5b0deac43f\"\u003ehttp://www.ebay.co.uk/itm/MANIFEST-DESTINY-12-IMAGE-COMICS-/391075513407?pt=LH_DefaultDomain_3\u0026hash=item5b0deac43f\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "12",
+        "variant":  "12",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1244,7 +1446,7 @@
         "variant":  "7A",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1256,7 +1458,7 @@
         "variant":  "5A",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1268,7 +1470,7 @@
         "variant":  "9",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1280,7 +1482,7 @@
         "variant":  "6A",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1292,7 +1494,7 @@
         "variant":  "12",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
@@ -1304,20 +1506,152 @@
         "variant":  "13",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "2-3-2015",
+        "rundate":  "7-3-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.gohastings.com/product/BOOK/MANIFEST-DESTINY-8/sku/294463598.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/MANIFEST-DESTINY-8/sku/294463598.uts\"\u003ehttp://www.gohastings.com/product/BOOK/MANIFEST-DESTINY-8/sku/294463598.uts\u003c/a\u003e",
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81835\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81835\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81835\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "STANDING",
+        "variant":  "MANIFEST DESTINY #STANDING ORDER",
+        "price":  0.00,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722314072)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89911\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89911\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89911\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "14",
+        "variant":  "DEC140742 MANIFEST DESTINY #14 (MR)",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722314072)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91060\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91060\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91060\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "15",
+        "variant":  "JAN150693 MANIFEST DESTINY #15 (MR)",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722314072)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88534\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88534\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88534\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "13",
+        "variant":  "MANIFEST DESTINY #13 (MR) [(W) Chris Dingess (A/CA) Matthew Roberts, Owen Gieni]",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722314072)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=78170\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=78170\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=78170\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "3",
+        "variant":  "MANIFEST DESTINY #3 2ND PTG [(W) Chris Dingess (A/CA) Matthew Roberts, Owen Gieni]",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722314072)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=78180\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=78180\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=78180\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "4",
+        "variant":  "MANIFEST DESTINY #4 2ND PTG [(W) Chris Dingess (A/CA) Matthew Roberts, Owen Gieni]",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722314072)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=76241\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=76241\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=76241\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "6",
+        "variant":  "MANIFEST DESTINY #6 [(W) Chris Dingess (A/CA) Matthew Roberts, Owen Gieni]",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722314072)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=78327\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=78327\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=78327\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "7",
+        "variant":  "MANIFEST DESTINY #7 [(W) Chris Dingess (A/CA) Matthew Roberts, Owen Gieni]",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722314072)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=79735\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=79735\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=79735\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "MANIFEST DESTINY",
         "issue":  "8",
-        "variant":  "#8",
-        "price":  1.9393349300000001196,
+        "variant":  "MANIFEST DESTINY #8 [(W) Chris Dingess (A/CA) Matthew Roberts, Owen Gieni]",
+        "price":  2.40,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425293816548)\/",
-        "site":  "Hastings"
+        "rundate":  "\/Date(1425722314072)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=80869\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=80869\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_38\u0026products_id=80869\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "9",
+        "variant":  "MANIFEST DESTINY #9 [(W) Chris Dingess (A/CA) Matthew Roberts, Owen Gieni]",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722314072)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=93386\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=93386\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=93386\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "16",
+        "variant":  "MAR150575 MANIFEST DESTINY #16 (MR)",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722314072)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_48\u0026products_id=80565\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_48\u0026products_id=80565\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_48\u0026products_id=80565\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "1",
+        "variant":  "OCT140716 IMAGE FIRSTS MANIFEST DESTINY #1",
+        "price":  0.80,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722314072)\/",
+        "site":  "Comic book shop"
     },
     {
         "link":  "http://www.gohastings.com/product/BOOK/MANIFEST-DESTINY-9/sku/294638446.uts",
@@ -1326,9 +1660,21 @@
         "title":  "MANIFEST DESTINY",
         "issue":  "9",
         "variant":  "#9",
-        "price":  1.9393349300000001196,
+        "price":  1.9882304,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425293816548)\/",
+        "rundate":  "\/Date(1425722386703)\/",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/BOOK/MANIFEST-DESTINY-8/sku/294463598.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/BOOK/MANIFEST-DESTINY-8/sku/294463598.uts\"\u003ehttp://www.gohastings.com/product/BOOK/MANIFEST-DESTINY-8/sku/294463598.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MANIFEST DESTINY",
+        "issue":  "8",
+        "variant":  "#8",
+        "price":  1.9882304,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425722386703)\/",
         "site":  "Hastings"
     },
     {
@@ -1338,9 +1684,9 @@
         "title":  "MANIFEST DESTINY",
         "issue":  null,
         "variant":  "MANIFEST DESTINY",
-        "price":  6.5574167700000004044,
+        "price":  6.7227456,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425293816548)\/",
+        "rundate":  "\/Date(1425722386703)\/",
         "site":  "Hastings"
     },
     {
@@ -1350,9 +1696,9 @@
         "title":  "MANIFEST DESTINY",
         "issue":  null,
         "variant":  "MANIFEST DESTINY",
-        "price":  11.6424956500000007180,
+        "price":  11.9360320,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425293816548)\/",
+        "rundate":  "\/Date(1425722386703)\/",
         "site":  "Hastings"
     },
     {
@@ -1362,9 +1708,9 @@
         "title":  "MANIFEST DESTINY",
         "issue":  null,
         "variant":  "MANIFEST DESTINY",
-        "price":  9.8912567500000006100,
+        "price":  10.1406400,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425293816548)\/",
+        "rundate":  "\/Date(1425722386703)\/",
         "site":  "Hastings"
     },
     {
@@ -1374,81 +1720,9 @@
         "title":  "MANIFEST DESTINY",
         "issue":  null,
         "variant":  "MANIFEST DESTINY",
-        "price":  14.5677132200000008984,
+        "price":  14.9350016,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425293816548)\/",
+        "rundate":  "\/Date(1425722386703)\/",
         "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.thecomicguru.co.uk",
-        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=16670\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=16670\u003c/\u003e",
-        "orderdate":  null,
-        "title":  "MANIFEST DESTINY",
-        "issue":  "8",
-        "variant":  "1",
-        "price":  2.20,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425293818293)\/",
-        "site":  "The Comic Guru"
-    },
-    {
-        "link":  "http://www.thecomicguru.co.uk",
-        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=16670\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=16670\u003c/\u003e",
-        "orderdate":  null,
-        "title":  "MANIFEST DESTINY",
-        "issue":  "9",
-        "variant":  "1",
-        "price":  2.00,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425293818293)\/",
-        "site":  "The Comic Guru"
-    },
-    {
-        "link":  "http://www.thecomicguru.co.uk",
-        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=16670\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=16670\u003c/\u003e",
-        "orderdate":  null,
-        "title":  "MANIFEST DESTINY",
-        "issue":  "10",
-        "variant":  "1",
-        "price":  2.00,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425293818293)\/",
-        "site":  "The Comic Guru"
-    },
-    {
-        "link":  "http://www.thecomicguru.co.uk",
-        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=16670\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=16670\u003c/\u003e",
-        "orderdate":  null,
-        "title":  "MANIFEST DESTINY",
-        "issue":  "11",
-        "variant":  "1",
-        "price":  2.00,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425293818293)\/",
-        "site":  "The Comic Guru"
-    },
-    {
-        "link":  "http://www.thecomicguru.co.uk",
-        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=16670\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=16670\u003c/\u003e",
-        "orderdate":  null,
-        "title":  "MANIFEST DESTINY",
-        "issue":  "13",
-        "variant":  "1",
-        "price":  2.00,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425293818293)\/",
-        "site":  "The Comic Guru"
-    },
-    {
-        "link":  "http://www.thecomicguru.co.uk",
-        "url":  "\u003ca href=\"http://www.thecomicguru.co.uk/item.php?product=16670\"\u003ehttp://www.thecomicguru.co.uk/item.php?product=16670\u003c/\u003e",
-        "orderdate":  null,
-        "title":  "MANIFEST DESTINY",
-        "issue":  "13 Display Variant",
-        "variant":  "5",
-        "price":  2.00,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425293818293)\/",
-        "site":  "The Comic Guru"
     }
 ]
