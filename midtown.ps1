@@ -27,7 +27,7 @@ q	walking+dead	&q=newvalue
    $search="&q=$comic"
    $fullfilter=$search
    $url="https://www.kimonolabs.com/api/925e0u00?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-debug "$(Get-Date) - Accessing $url"
+   write-verbose "$(Get-Date) - Accessing $url"
    write-Host "$(Get-Date) - Looking for $title @ `"Midtown`""
   
 <# Postage

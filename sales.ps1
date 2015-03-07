@@ -20,6 +20,6 @@ foreach($record in $sales.data)
    $data| Add-Member -type NoteProperty -name Rank -value $record.column_1_number[0]
    $data| Add-Member -type NoteProperty -name Price -value $record.column_4_currency[0]
    $data| Add-Member -type NoteProperty -name Currency -value $record."column_4_currency/_currency"[0] 
-   Write-debug "Here again"
+   write-verbose "Here again"
    $parseddata+=$data
 }

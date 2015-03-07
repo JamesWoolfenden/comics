@@ -12,7 +12,7 @@ function get-urltocomicarray
 
    $result=$null
 
-   write-debug "Accessing $url"
+   write-verbose "Accessing $url"
    write-Host "$(Get-Date) - Looking for $title @ `"$site`""
 
    try

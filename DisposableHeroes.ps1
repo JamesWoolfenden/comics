@@ -21,7 +21,7 @@ function get-dhdata
    $fullfilter="&name=$comic"
    $site="Disposable Heroes"
    $url="https://www.kimonolabs.com/api/ondemand/aaaaq44g?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-debug "Accessing $url"
+   write-verbose "Accessing $url"
    write-Host "$(Get-Date) - Looking for $title @ `"$site`""
 
 <# Postage

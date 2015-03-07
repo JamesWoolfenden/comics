@@ -8,10 +8,10 @@ function get-gurudata
 
 
    $title      =$record.title.ToUpper()
-   $fullfilter ="&product=$record.productcode"
+   $fullfilter ="&product=$($record.productcode)"
    $site       ="The Comic Guru"
    $url        ="https://www.kimonolabs.com/api/ondemand/2gr32l5y?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   $gururesults=get-urltocomicarray -url $url -title $title -filters $record.exclude -site $site
+   $results    =get-urltocomicarray -url $url -title $title -filters $record.exclude -site $site
       
    $counter=0
    $guru=@()

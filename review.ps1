@@ -69,7 +69,7 @@ function update-record
    }
    Else
    {
-      write-debug "Record: $($record.postage)"
+      write-verbose "Record: $($record.postage)"
       $estimate=$record.postage
       if ($record.site -eq "ebid" -And $record.seller -eq "")
       {
@@ -280,7 +280,7 @@ function update-record
    }
    
    $IE.Quit()
-   Write-debug "update-db -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -seller $seller -watch $watch"
+   write-verbose "update-db -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -seller $seller -watch $watch"
 
    update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity -seller $seller -watch $watch
 }
@@ -292,7 +292,7 @@ function set-title
    $newtitle=($rawtitle.ToUpper()).Split("#")
    $padtitle=$newtitle -replace(" ","-")
    $found=test-Path "$PSScriptRoot\covers\$padtitle"
-   write-debug "Title at $PSScriptRoot\covers\$padtitle"
+   write-verbose "Title at $PSScriptRoot\covers\$padtitle"
 
    if ($found)
    {
@@ -331,7 +331,7 @@ function set-issue
    [string]$title,
    [string]$color)
   
-   write-debug "$rawissue $rawtitle $color"
+   write-verbose "$rawissue $rawtitle $color"
 
    #if its a new record
    if ($rawissue -eq "0")
@@ -351,7 +351,7 @@ function set-issue
       #has it split
       if ($tempstring -ne $null)
       {
-          write-debug "Before estimate tempstring $tempstring"
+          write-verbose "Before estimate tempstring $tempstring"
           $splitstring=($tempstring.Trim()).split(" ")
         
           if ($splitstring -is [system.array])
@@ -368,21 +368,21 @@ function set-issue
              $estimateIssue=$null
           }
           
-          write-debug "Tempstring $tempstring $($tempstring.GetType())"
-          write-debug "guess-title -title $title -issue $estimateIssue"
+          write-verbose "Tempstring $tempstring $($tempstring.GetType())"
+          write-verbose "guess-title -title $title -issue $estimateIssue"
           $estimateIssue=guess-title -title $title -issue $estimateIssue
-          write-debug "After estimate $estimateIssue"
+          write-verbose "After estimate $estimateIssue"
       }
       else
       {
          $tempstring=@()
-         write-debug "No split # $($rawtitle -split('No'))"
+         write-verbose "No split # $($rawtitle -split('No'))"
          #maybe used no to indicate version
          
          if ($rawtitle -Contains("No"))
          {
             $tempstring=$rawtitle -split("No")
-            write-debug "Split on No $tempstring"
+            write-verbose "Split on No $tempstring"
             
             $splitspaces=($tempstring[1].Trim()).split(" ")
         
@@ -397,12 +397,12 @@ function set-issue
            
             write-host "Before estimate estimateIssue $estimateIssue"
             $estimateIssue=guess-title -title $title -issue "$estimateIssue"
-            write-debug "After estimate $estimateIssue"
+            write-verbose "After estimate $estimateIssue"
          }
          else
          {
             $edition=""
-            write-debug "No splits $rawissue"
+            write-verbose "No splits $rawissue"
             if ($rawtitle -match "1st")
             { 
                $rawtitle =$rawtitle.Replace("1st","")

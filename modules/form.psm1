@@ -52,7 +52,7 @@ function get-imagetitle
       }
    }
 
-   Write-debug "Scan path: $scanpath" 
+   write-verbose "Scan path: $scanpath" 
    $coverfiles=gci -path $scanpath
 
    #Draw form
@@ -117,7 +117,7 @@ function get-imagetitle
       $choice=read-host "Set Issue title"  
    }
    
-   write-debug $choice 
+   write-verbose $choice 
    $choice
 }
 
@@ -129,7 +129,7 @@ function get-image
    [Parameter(Mandatory=$true)]
    [string]$issue)
    
-   Write-debug "Looking for $issue"
+   write-verbose "Looking for $issue"
 
    if (test-image -title $title -issue $issue)
    {

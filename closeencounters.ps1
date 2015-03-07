@@ -20,7 +20,7 @@ function get-closeencountersdata
    #$url="http://www.kimonolabs.com/api/9u9wvzya?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    $url="https://www.kimonolabs.com/api/ondemand/9u9wvzya?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
 
-   write-debug "Accessing $url"
+   write-verbose "Accessing $url"
    write-Host "$(Get-Date) - Looking for $($record.title) @ `"$site`""
 
 <# Postage

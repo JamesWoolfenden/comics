@@ -55,12 +55,12 @@ function get-tfawdata
 
    do
    {
-      write-debug "$(get-date) - Count $($kimpath5.ToString())"
+      write-verbose "$(get-date) - Count $($kimpath5.ToString())"
       $search="&kimpath2=$kimpath2&kimpath4=$kimpath4&kimpath5=_results_start_at_search=$($kimpath5.ToString())"
 
       $fullfilter=$search
       $url="https://www.kimonolabs.com/api/ondemand/7fuasgeu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-      write-debug "$(Get-Date) - Accessing $url"
+      write-verbose "$(Get-Date) - Accessing $url"
   
       try{
          $tfawresults=Invoke-RestMethod -Uri $url
@@ -90,7 +90,7 @@ function get-tfawdata
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title     -value $title
 
-      write-debug "$($result.title.text)"
+      write-verbose "$($result.title.text)"
       $issue=($result.title.text).ToUpper()
       $issue=$issue -replace("$title ","")
       $issue=$issue -replace("#","")

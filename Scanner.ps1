@@ -63,7 +63,7 @@ get-comicxposure
 
 #load all unique title objects from Json file
 $searches=(Get-Content "$PSScriptRoot\search-data.json") -join "`n" |ConvertFrom-Json
-#$searches=$searches|sort -Unique title
+
 Write-Host "$(Get-Date) - Found $($searches.count)"
 [decimal]$dollarrate=get-gbpdollarrate
 
