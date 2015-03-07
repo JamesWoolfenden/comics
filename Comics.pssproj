@@ -4232,6 +4232,7 @@
     <Content Include="prices.ps1" />
     <Content Include="jqwidgets\demos\jqxgrid\comic-enormous.htm" />
     <Content Include="midtown.ps1" />
+    <Content Include="tests\tests.ps1" />
     <Content Include="TFAW.ps1" />
     <Content Include="ebayinfo.ps1" />
     <Content Include="review.ps1" />
@@ -7557,6 +7558,7 @@
     <Folder Include="livedata\" />
     <Folder Include="javascript\" />
     <Folder Include="modules\" />
+    <Folder Include="tests\" />
     <Folder Include="prices\" />
     <Folder Include="rss\" />
     <Folder Include="sales\" />
