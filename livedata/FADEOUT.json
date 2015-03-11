@@ -6,9 +6,9 @@
         "title":  "FADE OUT",
         "issue":  "1",
         "variant":  "Fade Out  Cover A",
-        "price":  "1.59",
+        "price":  "1.58",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719070643)\/",
+        "rundate":  "\/Date(1425898227934)\/",
         "site":  "comicxposure"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "3 (MR)",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719077504)\/",
+        "rundate":  "\/Date(1425898231439)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "4 (MR)",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719077504)\/",
+        "rundate":  "\/Date(1425898231439)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "1 2ND PTG (MR)",
         "price":  2.40,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719077504)\/",
+        "rundate":  "\/Date(1425898231439)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "1 (MR)",
         "price":  1.45,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719077504)\/",
+        "rundate":  "\/Date(1425898231439)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,19 +68,19 @@
         "variant":  "2 2ND PTG",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719077504)\/",
+        "rundate":  "\/Date(1425898231439)\/",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/next-weeks-releases/image/fade-out-5-mr-/prod_130539.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/next-weeks-releases/image/fade-out-5-mr-/prod_130539.html\"\u003ehttp://www.disposableheroes.co.uk/next-weeks-releases/image/fade-out-5-mr-/prod_130539.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/preorders-for-25/03/15/image/fade-out-5-mr-/prod_130539.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-25/03/15/image/fade-out-5-mr-/prod_130539.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-25/03/15/image/fade-out-5-mr-/prod_130539.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "FADE OUT",
         "issue":  "5",
         "variant":  "5 (MR)",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719077504)\/",
+        "rundate":  "\/Date(1425898231439)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "6 (MR)",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719077504)\/",
+        "rundate":  "\/Date(1425898231439)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "7 (MR)",
         "price":  2.45,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719077504)\/",
+        "rundate":  "\/Date(1425898231439)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,8 +116,104 @@
         "variant":  "7 (MR)",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719077504)\/",
+        "rundate":  "\/Date(1425898231439)\/",
         "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb150606.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb150606.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb150606.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898238976)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan150684.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan150684.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan150684.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "6",
+        "variant":  "6",
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898238976)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec140731.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec140731.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec140731.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "5",
+        "variant":  "5",
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898238976)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep140717.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep140717.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep140717.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "4",
+        "variant":  "4",
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898238976)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug140646.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140646.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140646.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "3",
+        "variant":  "3",
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898238976)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul140545.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140545.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140545.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "2",
+        "variant":  "2",
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898238976)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun140463.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140463.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140463.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "1",
+        "variant":  "1",
+        "price":  3.94,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898238976)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jun140464.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140464.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140464.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "THE",
+        "variant":  "THE 1 MOVIE MAGAZINE VARIANT",
+        "price":  15.94,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898238976)\/",
+        "site":  "Close Encounters"
     },
     {
         "link":  "https://forbiddenplanet.com/135710-fade-out-7/",
@@ -127,7 +223,7 @@
         "issue":  "7",
         "variant":  "7",
         "price":  2.40,
-        "rundate":  "\/Date(1425719114054)\/",
+        "rundate":  "\/Date(1425898266388)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -138,7 +234,7 @@
         "issue":  "6",
         "variant":  "6",
         "price":  2.40,
-        "rundate":  "\/Date(1425719114054)\/",
+        "rundate":  "\/Date(1425898266388)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -149,7 +245,7 @@
         "issue":  "2",
         "variant":  "2",
         "price":  2.40,
-        "rundate":  "\/Date(1425719114054)\/",
+        "rundate":  "\/Date(1425898266388)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -161,7 +257,7 @@
         "variant":  "1",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719117955)\/",
+        "rundate":  "\/Date(1425898270469)\/",
         "site":  "Reed"
     },
     {
@@ -173,7 +269,7 @@
         "variant":  "1 (MOVIE MAGAZINE VARIANT)",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719117955)\/",
+        "rundate":  "\/Date(1425898270469)\/",
         "site":  "Reed"
     },
     {
@@ -185,7 +281,7 @@
         "variant":  "2",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719117955)\/",
+        "rundate":  "\/Date(1425898270469)\/",
         "site":  "Reed"
     },
     {
@@ -197,7 +293,7 @@
         "variant":  "4",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719117955)\/",
+        "rundate":  "\/Date(1425898270469)\/",
         "site":  "Reed"
     },
     {
@@ -209,7 +305,7 @@
         "variant":  "POSTER",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -221,7 +317,7 @@
         "variant":  "1FIRSTS",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -233,7 +329,7 @@
         "variant":  "2B",
         "price":  3.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -245,7 +341,7 @@
         "variant":  "1A",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -257,7 +353,7 @@
         "variant":  "1A",
         "price":  5.98,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -269,7 +365,7 @@
         "variant":  "4",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -281,7 +377,7 @@
         "variant":  "2A",
         "price":  1.7,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -293,7 +389,7 @@
         "variant":  "3",
         "price":  1.45,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -305,7 +401,7 @@
         "variant":  "1ASIGNED",
         "price":  15,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -317,7 +413,7 @@
         "variant":  "2ASIGNED",
         "price":  12,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -329,7 +425,7 @@
         "variant":  "2A",
         "price":  3.54,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -341,7 +437,7 @@
         "variant":  "1B",
         "price":  2.4,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -353,31 +449,19 @@
         "variant":  "4",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/THE-FADE-OUT-1-2-and-3-IMAGE-COMICS-FIRST-PRINTS-/161620378333?pt=LH_DefaultDomain_3\u0026hash=item25a15342dd",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-FADE-OUT-1-2-and-3-IMAGE-COMICS-FIRST-PRINTS-/161620378333?pt=LH_DefaultDomain_3\u0026hash=item25a15342dd\"\u003ehttp://www.ebay.co.uk/itm/THE-FADE-OUT-1-2-and-3-IMAGE-COMICS-FIRST-PRINTS-/161620378333?pt=LH_DefaultDomain_3\u0026hash=item25a15342dd\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/THE-FADE-OUT-1-2-and-3-IMAGE-COMICS-FIRST-PRINTS-/161629634874?pt=LH_DefaultDomain_3\u0026hash=item25a1e0813a",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-FADE-OUT-1-2-and-3-IMAGE-COMICS-FIRST-PRINTS-/161629634874?pt=LH_DefaultDomain_3\u0026hash=item25a1e0813a\"\u003ehttp://www.ebay.co.uk/itm/THE-FADE-OUT-1-2-and-3-IMAGE-COMICS-FIRST-PRINTS-/161629634874?pt=LH_DefaultDomain_3\u0026hash=item25a1e0813a\u003c/a\u003e",
         "orderdate":  null,
         "title":  "FADE OUT",
         "issue":  "",
         "variant":  "SET",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Image-Fade-Out-1-Magazine-variant-1st-print-signed-by-Sean-Phillips-LAST-COPY-/161620539967?pt=LH_DefaultDomain_3\u0026hash=item25a155ba3f",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-Fade-Out-1-Magazine-variant-1st-print-signed-by-Sean-Phillips-LAST-COPY-/161620539967?pt=LH_DefaultDomain_3\u0026hash=item25a155ba3f\"\u003ehttp://www.ebay.co.uk/itm/Image-Fade-Out-1-Magazine-variant-1st-print-signed-by-Sean-Phillips-LAST-COPY-/161620539967?pt=LH_DefaultDomain_3\u0026hash=item25a155ba3f\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FADE OUT",
-        "issue":  "1",
-        "variant":  "1MOVIESIGNED",
-        "price":  11.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -389,7 +473,7 @@
         "variant":  "1A",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -401,7 +485,7 @@
         "variant":  "2A",
         "price":  2.45,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -413,7 +497,7 @@
         "variant":  "3",
         "price":  2.45,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -425,19 +509,7 @@
         "variant":  "4",
         "price":  2.45,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/FADE-OUT-1-2nd-PRINT-VARIANT-NM-M-IMAGE-/191368229068?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c8e6f70cc\u0026ssPageName=RSS:B:SHOP:GB:101",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/FADE-OUT-1-2nd-PRINT-VARIANT-NM-M-IMAGE-/191368229068?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c8e6f70cc\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/FADE-OUT-1-2nd-PRINT-VARIANT-NM-M-IMAGE-/191368229068?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c8e6f70cc\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FADE OUT",
-        "issue":  "1",
-        "variant":  "1B",
-        "price":  2.5,
-        "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -449,7 +521,7 @@
         "variant":  "1A",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -461,7 +533,7 @@
         "variant":  "3",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -473,7 +545,7 @@
         "variant":  "4",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -485,7 +557,7 @@
         "variant":  "1A",
         "price":  5.95,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -497,7 +569,7 @@
         "variant":  "1A",
         "price":  6.95,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -509,7 +581,7 @@
         "variant":  "2A",
         "price":  7.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -521,7 +593,7 @@
         "variant":  "SET",
         "price":  17.95,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -533,7 +605,7 @@
         "variant":  "1MOVIE",
         "price":  12.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -545,7 +617,7 @@
         "variant":  "SET",
         "price":  17.95,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -557,7 +629,7 @@
         "variant":  "SET",
         "price":  16.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -569,19 +641,7 @@
         "variant":  "1ASIGNED",
         "price":  24.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/The-Fade-Out-1-NM-1ST-Print-Image-Comics-By-Ed-Brubaker-Sean-Phillips-/281615368847?pt=LH_DefaultDomain_3\u0026hash=item419195828f",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Fade-Out-1-NM-1ST-Print-Image-Comics-By-Ed-Brubaker-Sean-Phillips-/281615368847?pt=LH_DefaultDomain_3\u0026hash=item419195828f\"\u003ehttp://www.ebay.co.uk/itm/The-Fade-Out-1-NM-1ST-Print-Image-Comics-By-Ed-Brubaker-Sean-Phillips-/281615368847?pt=LH_DefaultDomain_3\u0026hash=item419195828f\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FADE OUT",
-        "issue":  "1",
-        "variant":  "1A",
-        "price":  2.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -593,31 +653,7 @@
         "variant":  "SET",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/The-Fade-Out-1-2-3-4-Ed-Brubaker-Sean-Philips-/291388216081?pt=LH_DefaultDomain_3\u0026hash=item43d8175311",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Fade-Out-1-2-3-4-Ed-Brubaker-Sean-Philips-/291388216081?pt=LH_DefaultDomain_3\u0026hash=item43d8175311\"\u003ehttp://www.ebay.co.uk/itm/The-Fade-Out-1-2-3-4-Ed-Brubaker-Sean-Philips-/291388216081?pt=LH_DefaultDomain_3\u0026hash=item43d8175311\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FADE OUT",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  9.95,
-        "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/The-Fade-Out-1-DCBS-Variant-NM-Brubaker-Phillips-Image-/291395380006?pt=LH_DefaultDomain_3\u0026hash=item43d884a326",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/The-Fade-Out-1-DCBS-Variant-NM-Brubaker-Phillips-Image-/291395380006?pt=LH_DefaultDomain_3\u0026hash=item43d884a326\"\u003ehttp://www.ebay.co.uk/itm/The-Fade-Out-1-DCBS-Variant-NM-Brubaker-Phillips-Image-/291395380006?pt=LH_DefaultDomain_3\u0026hash=item43d884a326\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FADE OUT",
-        "issue":  "1",
-        "variant":  "1DCBS",
-        "price":  1,
-        "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -629,7 +665,7 @@
         "variant":  "1MOVIE",
         "price":  16.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -641,7 +677,7 @@
         "variant":  "1DCBS",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -653,7 +689,7 @@
         "variant":  "1A",
         "price":  6.95,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -665,7 +701,19 @@
         "variant":  "1A",
         "price":  6.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THE-FADE-OUT-2-2ND-PRINTING-/361235664339?pt=LH_DefaultDomain_3\u0026hash=item541b52cdd3",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THE-FADE-OUT-2-2ND-PRINTING-/361235664339?pt=LH_DefaultDomain_3\u0026hash=item541b52cdd3\"\u003ehttp://www.ebay.co.uk/itm/THE-FADE-OUT-2-2ND-PRINTING-/361235664339?pt=LH_DefaultDomain_3\u0026hash=item541b52cdd3\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "2",
+        "variant":  "2B",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -677,7 +725,7 @@
         "variant":  "3",
         "price":  4.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -689,7 +737,7 @@
         "variant":  "1A",
         "price":  6.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -701,7 +749,7 @@
         "variant":  "1A",
         "price":  7,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -713,7 +761,19 @@
         "variant":  "4",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "9-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Brand-new-image-comics-the-FADE-OUT-full-set-1-2-3-4-sold-out-1st-prints-/391077533817?pt=LH_DefaultDomain_3\u0026hash=item5b0e099879",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Brand-new-image-comics-the-FADE-OUT-full-set-1-2-3-4-sold-out-1st-prints-/391077533817?pt=LH_DefaultDomain_3\u0026hash=item5b0e099879\"\u003ehttp://www.ebay.co.uk/itm/Brand-new-image-comics-the-FADE-OUT-full-set-1-2-3-4-sold-out-1st-prints-/391077533817?pt=LH_DefaultDomain_3\u0026hash=item5b0e099879\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  9.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "9-3-2015",
         "site":  "Auction"
     },
     {
@@ -725,7 +785,7 @@
         "variant":  "FADE OUT #STANDING ORDER",
         "price":  0.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719150688)\/",
+        "rundate":  "\/Date(1425898288580)\/",
         "site":  "Comic book shop"
     },
     {
@@ -737,7 +797,7 @@
         "variant":  "DEC140731 FADE OUT #5 (MR)",
         "price":  2.80,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719150688)\/",
+        "rundate":  "\/Date(1425898288580)\/",
         "site":  "Comic book shop"
     },
     {
@@ -749,7 +809,7 @@
         "variant":  "FADE OUT #1 (MR) [(W) Ed Brubaker (A/CA) Sean Phillips, Elizabeth Breitweiser]",
         "price":  2.80,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719150688)\/",
+        "rundate":  "\/Date(1425898288580)\/",
         "site":  "Comic book shop"
     },
     {
@@ -761,7 +821,7 @@
         "variant":  "FADE OUT #1 MOVIE MAGAZINE VAR (MR) [(W) Ed Brubaker (A/CA) Sean Phillips, Elizabeth Breitweiser]",
         "price":  4.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719150688)\/",
+        "rundate":  "\/Date(1425898288580)\/",
         "site":  "Comic book shop"
     },
     {
@@ -773,7 +833,7 @@
         "variant":  "FADE OUT #2 2ND PTG [(W) Ed Brubaker (A/CA) Sean Phillips]",
         "price":  2.80,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719150688)\/",
+        "rundate":  "\/Date(1425898288580)\/",
         "site":  "Comic book shop"
     },
     {
@@ -785,7 +845,7 @@
         "variant":  "FADE OUT #3 (MR) [(W) Ed Brubaker (A/CA) Sean Phillips, Elizabeth Breitweiser]",
         "price":  2.80,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719150688)\/",
+        "rundate":  "\/Date(1425898288580)\/",
         "site":  "Comic book shop"
     },
     {
@@ -797,7 +857,7 @@
         "variant":  "FADE OUT #4 (MR) [(W) Ed Brubaker (A/CA) Sean Phillips, Elizabeth Breitweiser]",
         "price":  2.80,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719150688)\/",
+        "rundate":  "\/Date(1425898288580)\/",
         "site":  "Comic book shop"
     },
     {
@@ -809,7 +869,7 @@
         "variant":  "FEB150606 FADE OUT #7 (MR)",
         "price":  2.80,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719150688)\/",
+        "rundate":  "\/Date(1425898288580)\/",
         "site":  "Comic book shop"
     },
     {
@@ -821,7 +881,7 @@
         "variant":  "IMAGE FIRSTS FADE OUT #1 (MR) [Ed Brubaker ans Sean Philips]",
         "price":  0.80,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719150688)\/",
+        "rundate":  "\/Date(1425898288580)\/",
         "site":  "Comic book shop"
     },
     {
@@ -833,7 +893,7 @@
         "variant":  "JAN150684 FADE OUT #6 (MR)",
         "price":  2.80,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719150688)\/",
+        "rundate":  "\/Date(1425898288580)\/",
         "site":  "Comic book shop"
     },
     {
@@ -845,8 +905,104 @@
         "variant":  "OCT140703 IMAGE FIRSTS THE FADE OUT #1 (MR)",
         "price":  0.80,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719150688)\/",
+        "rundate":  "\/Date(1425898288580)\/",
         "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+Vol+1+TP_1401013",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+Vol+1+TP_1401013\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+Vol+1+TP_1401013\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "FADE OUT VOL 1 TP",
+        "variant":  "FADE OUT VOL 1 TP",
+        "price":  5.6196838200000000849,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898328344)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%231+Cover+A+1st+P_1353784",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%231+Cover+A+1st+P_1353784\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%231+Cover+A+1st+P_1353784\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "1",
+        "variant":  "1 COVER A 1ST PTG COMIC FORMAT",
+        "price":  0,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898328344)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%231+Cover+C+2nd+P_1384364",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%231+Cover+C+2nd+P_1384364\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%231+Cover+C+2nd+P_1384364\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "1",
+        "variant":  "1 COVER C 2ND PTG",
+        "price":  2.3167130000000000350,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898328344)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%232+Cover+B+2nd+P_1394617",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%232+Cover+B+2nd+P_1394617\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%232+Cover+B+2nd+P_1394617\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "2",
+        "variant":  "2 COVER B 2ND PTG",
+        "price":  2.3167130000000000350,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898328344)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%232+Cover+A+1st+P_1362648",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%232+Cover+A+1st+P_1362648\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%232+Cover+A+1st+P_1362648\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "2",
+        "variant":  "2 COVER A 1ST PTG",
+        "price":  2.3167130000000000350,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898328344)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%233_1368880",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%233_1368880\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%233_1368880\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "3",
+        "variant":  "3",
+        "price":  2.3167130000000000350,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898328344)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%234_1376481",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%234_1376481\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Fade+Out+%234_1376481\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "4",
+        "variant":  "4",
+        "price":  2.3167130000000000350,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898328344)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Image+Firsts+Fade+Out+%231_1384594",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Image+Firsts+Fade+Out+%231_1384594\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Image+Firsts+Fade+Out+%231_1384594\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  "1",
+        "variant":  "1",
+        "price":  0,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898328344)\/",
+        "site":  "Midtown"
     },
     {
         "link":  "http://www.gohastings.com/product/BOOK/FADE-OUT-1-MR/sku/294638473.uts",
@@ -855,9 +1011,9 @@
         "title":  "FADE OUT",
         "issue":  "1",
         "variant":  "#1 (MR)",
-        "price":  2.3273600,
+        "price":  2.3167130000000000350,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719201375)\/",
+        "rundate":  "\/Date(1425898371447)\/",
         "site":  "Hastings"
     },
     {
@@ -867,9 +1023,9 @@
         "title":  "FADE OUT",
         "issue":  null,
         "variant":  "FADE OUT",
-        "price":  2.6531904,
+        "price":  2.6410528200000000399,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719201375)\/",
+        "rundate":  "\/Date(1425898371447)\/",
         "site":  "Hastings"
     },
     {
@@ -879,9 +1035,9 @@
         "title":  "FADE OUT",
         "issue":  null,
         "variant":  "FADE OUT",
-        "price":  3.0787648,
+        "price":  3.0646803400000000463,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719201375)\/",
+        "rundate":  "\/Date(1425898371447)\/",
         "site":  "Hastings"
     },
     {
@@ -891,21 +1047,9 @@
         "title":  "FADE OUT",
         "issue":  null,
         "variant":  "FADE OUT",
-        "price":  5.9779904,
+        "price":  5.9506428200000000899,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719201375)\/",
-        "site":  "Hastings"
-    },
-    {
-        "link":  "http://www.gohastings.com/product/POPMUSIC/Fade-Out/sku/293272310.uts",
-        "url":  "\u003ca href=\"http://www.gohastings.com/product/POPMUSIC/Fade-Out/sku/293272310.uts\"\u003ehttp://www.gohastings.com/product/POPMUSIC/Fade-Out/sku/293272310.uts\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "FADE OUT",
-        "issue":  null,
-        "variant":  "FADE OUT",
-        "price":  34.7840576,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719201375)\/",
+        "rundate":  "\/Date(1425898371447)\/",
         "site":  "Hastings"
     },
     {
@@ -915,9 +1059,21 @@
         "title":  "FADE OUT",
         "issue":  null,
         "variant":  "FADE OUT",
-        "price":  21.7375424,
+        "price":  21.6380994200000003269,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719201375)\/",
+        "rundate":  "\/Date(1425898371447)\/",
+        "site":  "Hastings"
+    },
+    {
+        "link":  "http://www.gohastings.com/product/POPMUSIC/Fade-Out/sku/293272310.uts",
+        "url":  "\u003ca href=\"http://www.gohastings.com/product/POPMUSIC/Fade-Out/sku/293272310.uts\"\u003ehttp://www.gohastings.com/product/POPMUSIC/Fade-Out/sku/293272310.uts\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "FADE OUT",
+        "issue":  null,
+        "variant":  "FADE OUT",
+        "price":  34.6249305800000005231,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1425898371447)\/",
         "site":  "Hastings"
     },
     {
@@ -927,9 +1083,9 @@
         "title":  "FADE OUT",
         "issue":  null,
         "variant":  "FADE OUT",
-        "price":  18.1135104,
+        "price":  18.0306463200000002724,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719201375)\/",
+        "rundate":  "\/Date(1425898371447)\/",
         "site":  "Hastings"
     },
     {
@@ -939,9 +1095,9 @@
         "title":  "FADE OUT",
         "issue":  null,
         "variant":  "FADE OUT",
-        "price":  10.1406400,
+        "price":  10.0942495000000001525,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719201375)\/",
+        "rundate":  "\/Date(1425898371447)\/",
         "site":  "Hastings"
     },
     {
@@ -951,9 +1107,9 @@
         "title":  "FADE OUT",
         "issue":  null,
         "variant":  "FADE OUT",
-        "price":  10.1406400,
+        "price":  10.0942495000000001525,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719201375)\/",
+        "rundate":  "\/Date(1425898371447)\/",
         "site":  "Hastings"
     },
     {
@@ -963,9 +1119,9 @@
         "title":  "FADE OUT",
         "issue":  null,
         "variant":  "FADE OUT",
-        "price":  5.3130304,
+        "price":  5.2887248200000000799,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719201375)\/",
+        "rundate":  "\/Date(1425898371447)\/",
         "site":  "Hastings"
     },
     {
@@ -975,9 +1131,9 @@
         "title":  "FADE OUT",
         "issue":  null,
         "variant":  "FADE OUT",
-        "price":  6.6429504,
+        "price":  6.6125608200000000999,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425719201375)\/",
+        "rundate":  "\/Date(1425898371447)\/",
         "site":  "Hastings"
     }
 ]
