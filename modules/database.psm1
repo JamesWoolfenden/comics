@@ -1,4 +1,4 @@
-$connection= "Data Source=redwolfone.cloudapp.net;Initial Catalog=comics;User ID=comicsguru;Password=Faithle55;Trusted_Connection=False;Persist Security Info=False;"
+$connection= "Data Source=redwolffour.cloudapp.net;Initial Catalog=comics;User ID=guru;Password=Faithle55;Trusted_Connection=False;Persist Security Info=False;"
 
 function get-pounds
 {   <#
@@ -124,8 +124,7 @@ function add-record
    [boolean]$split=0)
    
    $conn = New-Object System.Data.SqlClient.SqlConnection
-   $conn.ConnectionString = "Data Source=redwolfone.cloudapp.net;Initial Catalog=comics;User ID=comicsguru;Password=Faithle55;Trusted_Connection=False;Persist Security Info=False;"
- 
+   $conn.ConnectionString = $connection
    $conn.open()
    
    $cmd = New-Object System.Data.SqlClient.SqlCommand
