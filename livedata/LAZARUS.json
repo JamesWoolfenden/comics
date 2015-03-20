@@ -6,9 +6,9 @@
         "title":  "LAZARUS",
         "issue":  "1",
         "variant":  "Lazarus  (MR) Cbldf Variant *Clearance*",
-        "price":  "2.16",
+        "price":  "2.20",
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "DCBS"
     },
     {
@@ -18,9 +18,9 @@
         "title":  "LAZARUS",
         "issue":  "17",
         "variant":  "Lazarus  (MR)",
-        "price":  "1.40",
+        "price":  "1.42",
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "DCBS"
     },
     {
@@ -30,391 +30,10 @@
         "title":  "LAZARUS",
         "issue":  "11",
         "variant":  "Lazarus",
-        "price":  "6.64",
+        "price":  "2.37",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721497492)\/",
+        "rundate":  "\/Date(1426503375514)\/",
         "site":  "comicxposure"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/mar150572.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/mar150572.html\"\u003ehttp://www.closeencounters.co.uk/index.php/mar150572.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "17",
-        "variant":  "17",
-        "price":  2.50,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/feb150615.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb150615.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb150615.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "16",
-        "variant":  "16",
-        "price":  2.50,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/dec140740.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec140740.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec140740.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "15",
-        "variant":  "15",
-        "price":  2.50,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/oct140747.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140747.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140747.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "14",
-        "variant":  "14",
-        "price":  2.50,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/sep140729.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep140729.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep140729.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "13",
-        "variant":  "13",
-        "price":  2.50,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/aug140657.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140657.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140657.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "12",
-        "variant":  "12",
-        "price":  2.50,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jul140444.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140444.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140444.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "11",
-        "variant":  "11",
-        "price":  2.50,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/may140709.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may140709.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may140709.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "10",
-        "variant":  "10",
-        "price":  2.50,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jan140600.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan140600.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan140600.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "9",
-        "variant":  "9",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/dec130578.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec130578.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec130578.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "8",
-        "variant":  "8 FIRST PRINT",
-        "price":  1.94,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/nov130507.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov130507.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov130507.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "7",
-        "variant":  "7 FIRST PRINT",
-        "price":  1.94,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/oct130606.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct130606.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct130606.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "6",
-        "variant":  "6 FIRST PRINT",
-        "price":  1.94,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/sep130515.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep130515.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep130515.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "5",
-        "variant":  "5 FIRST PRINT",
-        "price":  1.94,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jul130528.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul130528.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul130528.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "4",
-        "variant":  "4 FIRST PRINT",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/may130559.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may130559.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may130559.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "2",
-        "variant":  "2 FIRST PRINT",
-        "price":  4.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/may130559-62454.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may130559-62454.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may130559-62454.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "#2",
-        "variant":  "#2 SECOND PRINT",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/apr130420.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/apr130420.html\"\u003ehttp://www.closeencounters.co.uk/index.php/apr130420.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "1",
-        "variant":  "1 FIRST PRINT",
-        "price":  5.94,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721534748)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/135719-lazarus-16/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/135719-lazarus-16/\"\u003ehttps://forbiddenplanet.com/135719-lazarus-16/\u003c/a\u003e",
-        "orderdate":  "22nd April, 2015",
-        "title":  "LAZARUS",
-        "issue":  "16",
-        "variant":  "16",
-        "price":  2.40,
-        "rundate":  "\/Date(1425721567572)\/",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/132401-lazarus-15/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/132401-lazarus-15/\"\u003ehttps://forbiddenplanet.com/132401-lazarus-15/\u003c/a\u003e",
-        "orderdate":  "",
-        "title":  "LAZARUS",
-        "issue":  "15",
-        "variant":  "15",
-        "price":  2.40,
-        "rundate":  "\/Date(1425721567572)\/",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/114468-lazarus-9/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/114468-lazarus-9/\"\u003ehttps://forbiddenplanet.com/114468-lazarus-9/\u003c/a\u003e",
-        "orderdate":  "",
-        "title":  "LAZARUS",
-        "issue":  "9",
-        "variant":  "9",
-        "price":  1.95,
-        "rundate":  "\/Date(1425721567572)\/",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "http://www.reedcomics.com/lazarus-1-1st-print-p-56953.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/lazarus-1-1st-print-p-56953.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/lazarus-1-1st-print-p-56953.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "1",
-        "variant":  "1 (1ST PRINT)",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721572351)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/lazarus-10-p-62617.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/lazarus-10-p-62617.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/lazarus-10-p-62617.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "10",
-        "variant":  "10",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721572351)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/lazarus-11-p-63142.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/lazarus-11-p-63142.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/lazarus-11-p-63142.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "11",
-        "variant":  "11",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721572351)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/lazarus-12-p-63850.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/lazarus-12-p-63850.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/lazarus-12-p-63850.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "12",
-        "variant":  "12",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721572351)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/lazarus-13-p-64482.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/lazarus-13-p-64482.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/lazarus-13-p-64482.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "13",
-        "variant":  "13",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721572351)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/lazarus-14-p-65210.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/lazarus-14-p-65210.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/lazarus-14-p-65210.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "14",
-        "variant":  "14",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721572351)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/lazarus-15-p-65711.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/lazarus-15-p-65711.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/lazarus-15-p-65711.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "15",
-        "variant":  "15",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721572351)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/lazarus-3-p-57740.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/lazarus-3-p-57740.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/lazarus-3-p-57740.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "3",
-        "variant":  "3",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721572351)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/lazarus-4-p-58259.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/lazarus-4-p-58259.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/lazarus-4-p-58259.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "4",
-        "variant":  "4",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721572351)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/lazarus-7-p-60533.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/lazarus-7-p-60533.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/lazarus-7-p-60533.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "7",
-        "variant":  "7",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721572351)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/lazarus-8-p-61044.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/lazarus-8-p-61044.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/lazarus-8-p-61044.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "8",
-        "variant":  "8",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721572351)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/lazarus-9-p-62088.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/lazarus-9-p-62088.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/lazarus-9-p-62088.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "9",
-        "variant":  "9",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721572351)\/",
-        "site":  "Reed"
     },
     {
         "link":  "http://www.ebay.co.uk/itm/LAZARUS-6-IMAGE-COMICS-RUCKA-LARK-ARCAS-AUG-2014-NM-NEW-/111611991171?pt=LH_DefaultDomain_3\u0026hash=item19fc97d483",
@@ -425,7 +44,7 @@
         "variant":  "6",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -437,7 +56,31 @@
         "variant":  "2C",
         "price":  4.95,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/LAZARUS-1-IMAGE-COMICS-1ST-PRINT-RUCKA-LARK-ARCAS-JUNE-2013-NM-/111618436879?pt=LH_DefaultDomain_3\u0026hash=item19fcfa2f0f",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/LAZARUS-1-IMAGE-COMICS-1ST-PRINT-RUCKA-LARK-ARCAS-JUNE-2013-NM-/111618436879?pt=LH_DefaultDomain_3\u0026hash=item19fcfa2f0f\"\u003ehttp://www.ebay.co.uk/itm/LAZARUS-1-IMAGE-COMICS-1ST-PRINT-RUCKA-LARK-ARCAS-JUNE-2013-NM-/111618436879?pt=LH_DefaultDomain_3\u0026hash=item19fcfa2f0f\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "1",
+        "variant":  "1A",
+        "price":  4.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "16-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Lazarus-2013-Image-9-Published-July-2014-by-Image-/111620368922?pt=LH_DefaultDomain_3\u0026hash=item19fd17aa1a",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Lazarus-2013-Image-9-Published-July-2014-by-Image-/111620368922?pt=LH_DefaultDomain_3\u0026hash=item19fd17aa1a\"\u003ehttp://www.ebay.co.uk/itm/Lazarus-2013-Image-9-Published-July-2014-by-Image-/111620368922?pt=LH_DefaultDomain_3\u0026hash=item19fd17aa1a\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "9",
+        "variant":  "9",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -449,7 +92,7 @@
         "variant":  "1FP",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -461,7 +104,7 @@
         "variant":  "2B",
         "price":  3.13,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -473,7 +116,7 @@
         "variant":  "6",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -485,7 +128,7 @@
         "variant":  "5",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -497,7 +140,7 @@
         "variant":  "1FIRSTS",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -509,7 +152,19 @@
         "variant":  "4",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/LAZARUS-2-IMAGE-COMICS-1ST-PRINT-RUCKA-LARK-ARCAS-AUG-2013-NM-/121592562564?pt=LH_DefaultDomain_3\u0026hash=item1c4f7b4384",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/LAZARUS-2-IMAGE-COMICS-1ST-PRINT-RUCKA-LARK-ARCAS-AUG-2013-NM-/121592562564?pt=LH_DefaultDomain_3\u0026hash=item1c4f7b4384\"\u003ehttp://www.ebay.co.uk/itm/LAZARUS-2-IMAGE-COMICS-1ST-PRINT-RUCKA-LARK-ARCAS-AUG-2013-NM-/121592562564?pt=LH_DefaultDomain_3\u0026hash=item1c4f7b4384\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "2",
+        "variant":  "2A",
+        "price":  3.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -521,7 +176,7 @@
         "variant":  "1A",
         "price":  1.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -533,7 +188,7 @@
         "variant":  "2C",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -545,7 +200,7 @@
         "variant":  "1B",
         "price":  1.2,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -557,7 +212,7 @@
         "variant":  "3",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -569,7 +224,7 @@
         "variant":  "3",
         "price":  1.2,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -581,7 +236,7 @@
         "variant":  "6",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -593,7 +248,7 @@
         "variant":  "7",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -605,7 +260,7 @@
         "variant":  "4",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -617,7 +272,7 @@
         "variant":  "4",
         "price":  0.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -629,7 +284,7 @@
         "variant":  "5",
         "price":  1,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -641,7 +296,7 @@
         "variant":  "7",
         "price":  1.39,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -653,7 +308,7 @@
         "variant":  "7",
         "price":  1.45,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -665,7 +320,7 @@
         "variant":  "11",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -677,19 +332,7 @@
         "variant":  "3",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/LAZARUS-2-IMAGE-COMICS-2013-FIRST-PRINT-/131438233520?pt=LH_DefaultDomain_3\u0026hash=item1e9a5447b0",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/LAZARUS-2-IMAGE-COMICS-2013-FIRST-PRINT-/131438233520?pt=LH_DefaultDomain_3\u0026hash=item1e9a5447b0\"\u003ehttp://www.ebay.co.uk/itm/LAZARUS-2-IMAGE-COMICS-2013-FIRST-PRINT-/131438233520?pt=LH_DefaultDomain_3\u0026hash=item1e9a5447b0\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "2",
-        "variant":  "2A",
-        "price":  2.95,
-        "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -701,7 +344,7 @@
         "variant":  "1FP",
         "price":  8.95,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -713,7 +356,7 @@
         "variant":  "9",
         "price":  1.75,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -725,7 +368,7 @@
         "variant":  "6",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -737,7 +380,7 @@
         "variant":  "7",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -749,7 +392,7 @@
         "variant":  "8",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -761,7 +404,7 @@
         "variant":  "9",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -773,7 +416,7 @@
         "variant":  "3",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -785,7 +428,7 @@
         "variant":  "2C",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -797,7 +440,7 @@
         "variant":  "5",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -809,7 +452,7 @@
         "variant":  "1A",
         "price":  1.75,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -821,7 +464,7 @@
         "variant":  "4",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -833,7 +476,7 @@
         "variant":  "6",
         "price":  1.45,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -845,7 +488,7 @@
         "variant":  "3",
         "price":  0.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -857,7 +500,7 @@
         "variant":  "10",
         "price":  2.49,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -869,7 +512,7 @@
         "variant":  "5",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -881,7 +524,7 @@
         "variant":  "12",
         "price":  2.49,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -893,7 +536,7 @@
         "variant":  "3",
         "price":  0.9,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -905,7 +548,7 @@
         "variant":  "4",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -917,19 +560,7 @@
         "variant":  "5",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Lazarus-4-Image-Comics-Oct-2013-/161207373922?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2588b55062\u0026ssPageName=RSS:B:SHOP:GB:101",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Lazarus-4-Image-Comics-Oct-2013-/161207373922?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2588b55062\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Lazarus-4-Image-Comics-Oct-2013-/161207373922?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2588b55062\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "4",
-        "variant":  "4",
-        "price":  1.7,
-        "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -941,7 +572,7 @@
         "variant":  "5",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -953,7 +584,7 @@
         "variant":  "7",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -965,7 +596,7 @@
         "variant":  "8",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -977,7 +608,7 @@
         "variant":  "7",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -989,7 +620,7 @@
         "variant":  "2A",
         "price":  6.04,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1001,7 +632,7 @@
         "variant":  "9",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1013,7 +644,7 @@
         "variant":  "9",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1025,19 +656,7 @@
         "variant":  "10",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/LAZARUS-1-IMAGE-COMICS-FIRST-PRINT-/161605037540?pt=LH_DefaultDomain_3\u0026hash=item25a0692de4",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/LAZARUS-1-IMAGE-COMICS-FIRST-PRINT-/161605037540?pt=LH_DefaultDomain_3\u0026hash=item25a0692de4\"\u003ehttp://www.ebay.co.uk/itm/LAZARUS-1-IMAGE-COMICS-FIRST-PRINT-/161605037540?pt=LH_DefaultDomain_3\u0026hash=item25a0692de4\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "1",
-        "variant":  "1A",
-        "price":  4.95,
-        "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1049,7 +668,7 @@
         "variant":  "1DF",
         "price":  66.44,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1061,7 +680,7 @@
         "variant":  "11",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1073,7 +692,7 @@
         "variant":  "12",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1085,7 +704,7 @@
         "variant":  "2C",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1097,7 +716,7 @@
         "variant":  "VOL1",
         "price":  5.75,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1109,7 +728,7 @@
         "variant":  "5",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1121,7 +740,7 @@
         "variant":  "3",
         "price":  1.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1133,7 +752,7 @@
         "variant":  "5",
         "price":  2.9,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1145,7 +764,7 @@
         "variant":  "7",
         "price":  2.9,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1157,7 +776,7 @@
         "variant":  "12",
         "price":  3.65,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1169,7 +788,7 @@
         "variant":  "11",
         "price":  3.45,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1181,7 +800,7 @@
         "variant":  "4",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1193,7 +812,7 @@
         "variant":  "8",
         "price":  13.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1205,31 +824,7 @@
         "variant":  "VOL1",
         "price":  10.33,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Image-Lazarus-Three-/191508718629?pt=LH_DefaultDomain_3\u0026hash=item2c96cf2425",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-Lazarus-Three-/191508718629?pt=LH_DefaultDomain_3\u0026hash=item2c96cf2425\"\u003ehttp://www.ebay.co.uk/itm/Image-Lazarus-Three-/191508718629?pt=LH_DefaultDomain_3\u0026hash=item2c96cf2425\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "3",
-        "variant":  "3",
-        "price":  1,
-        "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Image-Lazarus-Two-/191508718761?pt=LH_DefaultDomain_3\u0026hash=item2c96cf24a9",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-Lazarus-Two-/191508718761?pt=LH_DefaultDomain_3\u0026hash=item2c96cf24a9\"\u003ehttp://www.ebay.co.uk/itm/Image-Lazarus-Two-/191508718761?pt=LH_DefaultDomain_3\u0026hash=item2c96cf24a9\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "2",
-        "variant":  "2A",
-        "price":  1,
-        "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1241,7 +836,7 @@
         "variant":  "1B",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1253,7 +848,7 @@
         "variant":  "10",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1265,7 +860,7 @@
         "variant":  "5",
         "price":  2.6,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1277,19 +872,19 @@
         "variant":  "7",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/LAZARUS-8-IMAGE-COMICS-/221689020855?pt=LH_DefaultDomain_3\u0026hash=item339db201b7",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/LAZARUS-8-IMAGE-COMICS-/221689020855?pt=LH_DefaultDomain_3\u0026hash=item339db201b7\"\u003ehttp://www.ebay.co.uk/itm/LAZARUS-8-IMAGE-COMICS-/221689020855?pt=LH_DefaultDomain_3\u0026hash=item339db201b7\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/LAZARUS-8-IMAGE-COMICS-/221715192873?pt=LH_DefaultDomain_3\u0026hash=item339f415c29",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/LAZARUS-8-IMAGE-COMICS-/221715192873?pt=LH_DefaultDomain_3\u0026hash=item339f415c29\"\u003ehttp://www.ebay.co.uk/itm/LAZARUS-8-IMAGE-COMICS-/221715192873?pt=LH_DefaultDomain_3\u0026hash=item339f415c29\u003c/a\u003e",
         "orderdate":  null,
         "title":  "LAZARUS",
         "issue":  "8",
         "variant":  "8",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1301,7 +896,7 @@
         "variant":  "5",
         "price":  5.98,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1313,7 +908,7 @@
         "variant":  "VOL1",
         "price":  7.49,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1325,7 +920,7 @@
         "variant":  "SET",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1337,7 +932,7 @@
         "variant":  "7",
         "price":  2.19,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1349,7 +944,7 @@
         "variant":  "1A",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1361,7 +956,7 @@
         "variant":  "1FP",
         "price":  11.95,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1373,7 +968,7 @@
         "variant":  "SET",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1385,7 +980,7 @@
         "variant":  "2A",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1397,7 +992,7 @@
         "variant":  "2A",
         "price":  4.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1409,19 +1004,7 @@
         "variant":  "10",
         "price":  2.49,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Lazarus-5-8-Image-Comics-/261799617134?hash=item3cf479226e",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Lazarus-5-8-Image-Comics-/261799617134?hash=item3cf479226e\"\u003ehttp://www.ebay.co.uk/itm/Lazarus-5-8-Image-Comics-/261799617134?hash=item3cf479226e\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  3.5,
-        "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1431,9 +1014,21 @@
         "title":  "LAZARUS",
         "issue":  "",
         "variant":  "SET",
-        "price":  17.99,
+        "price":  14.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Lazarus-5-8-Image-Comics-/261807533080?pt=LH_DefaultDomain_3\u0026hash=item3cf4f1ec18",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Lazarus-5-8-Image-Comics-/261807533080?pt=LH_DefaultDomain_3\u0026hash=item3cf4f1ec18\"\u003ehttp://www.ebay.co.uk/itm/Lazarus-5-8-Image-Comics-/261807533080?pt=LH_DefaultDomain_3\u0026hash=item3cf4f1ec18\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  3.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1445,7 +1040,7 @@
         "variant":  "1A",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1457,7 +1052,7 @@
         "variant":  "5",
         "price":  0.01,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1469,7 +1064,7 @@
         "variant":  "2A",
         "price":  5.98,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1481,7 +1076,7 @@
         "variant":  "3",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1493,31 +1088,31 @@
         "variant":  "4",
         "price":  5.98,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Lazarus-2-Image-comics-NM-/291396143715?pt=LH_DefaultDomain_3\u0026hash=item43d8904a63",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Lazarus-2-Image-comics-NM-/291396143715?pt=LH_DefaultDomain_3\u0026hash=item43d8904a63\"\u003ehttp://www.ebay.co.uk/itm/Lazarus-2-Image-comics-NM-/291396143715?pt=LH_DefaultDomain_3\u0026hash=item43d8904a63\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Lazarus-2-Image-comics-NM-/291404692691?pt=LH_DefaultDomain_3\u0026hash=item43d912bcd3",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Lazarus-2-Image-comics-NM-/291404692691?pt=LH_DefaultDomain_3\u0026hash=item43d912bcd3\"\u003ehttp://www.ebay.co.uk/itm/Lazarus-2-Image-comics-NM-/291404692691?pt=LH_DefaultDomain_3\u0026hash=item43d912bcd3\u003c/a\u003e",
         "orderdate":  null,
         "title":  "LAZARUS",
         "issue":  "2",
         "variant":  "2A",
         "price":  1,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Lazarus-3-Image-comics-NM-/291396143853?pt=LH_DefaultDomain_3\u0026hash=item43d8904aed",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Lazarus-3-Image-comics-NM-/291396143853?pt=LH_DefaultDomain_3\u0026hash=item43d8904aed\"\u003ehttp://www.ebay.co.uk/itm/Lazarus-3-Image-comics-NM-/291396143853?pt=LH_DefaultDomain_3\u0026hash=item43d8904aed\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Lazarus-3-Image-comics-NM-/291404692845?pt=LH_DefaultDomain_3\u0026hash=item43d912bd6d",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Lazarus-3-Image-comics-NM-/291404692845?pt=LH_DefaultDomain_3\u0026hash=item43d912bd6d\"\u003ehttp://www.ebay.co.uk/itm/Lazarus-3-Image-comics-NM-/291404692845?pt=LH_DefaultDomain_3\u0026hash=item43d912bd6d\u003c/a\u003e",
         "orderdate":  null,
         "title":  "LAZARUS",
         "issue":  "3",
         "variant":  "3",
         "price":  1,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1529,7 +1124,7 @@
         "variant":  "SET",
         "price":  49.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1541,7 +1136,7 @@
         "variant":  "1COMICASYLUM",
         "price":  24.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1553,7 +1148,7 @@
         "variant":  "3",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1565,7 +1160,7 @@
         "variant":  "3",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1577,7 +1172,7 @@
         "variant":  "7",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1589,7 +1184,7 @@
         "variant":  "6",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1601,7 +1196,7 @@
         "variant":  "SET",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1613,7 +1208,7 @@
         "variant":  "5",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1625,19 +1220,31 @@
         "variant":  "6",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/LAZARUS-8-IMAGE-COMICS-APR-2014-/321685715857?pt=LH_DefaultDomain_3\u0026hash=item4ae5f67b91",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/LAZARUS-8-IMAGE-COMICS-APR-2014-/321685715857?pt=LH_DefaultDomain_3\u0026hash=item4ae5f67b91\"\u003ehttp://www.ebay.co.uk/itm/LAZARUS-8-IMAGE-COMICS-APR-2014-/321685715857?pt=LH_DefaultDomain_3\u0026hash=item4ae5f67b91\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Lazarus-2013-1-4-Bundle-20-OFF-Image-Comics-NM-First-Print-/321686752872?pt=LH_DefaultDomain_3\u0026hash=item4ae6064e68",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Lazarus-2013-1-4-Bundle-20-OFF-Image-Comics-NM-First-Print-/321686752872?pt=LH_DefaultDomain_3\u0026hash=item4ae6064e68\"\u003ehttp://www.ebay.co.uk/itm/Lazarus-2013-1-4-Bundle-20-OFF-Image-Comics-NM-First-Print-/321686752872?pt=LH_DefaultDomain_3\u0026hash=item4ae6064e68\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  9.57,
+        "currency":  "\u0026pound;",
+        "rundate":  "16-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/LAZARUS-8-IMAGE-COMICS-APR-2014-/321692654757?pt=LH_DefaultDomain_3\u0026hash=item4ae6605ca5",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/LAZARUS-8-IMAGE-COMICS-APR-2014-/321692654757?pt=LH_DefaultDomain_3\u0026hash=item4ae6605ca5\"\u003ehttp://www.ebay.co.uk/itm/LAZARUS-8-IMAGE-COMICS-APR-2014-/321692654757?pt=LH_DefaultDomain_3\u0026hash=item4ae6605ca5\u003c/a\u003e",
         "orderdate":  null,
         "title":  "LAZARUS",
         "issue":  "8",
         "variant":  "8",
         "price":  0.75,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1649,7 +1256,7 @@
         "variant":  "5",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1661,19 +1268,7 @@
         "variant":  "1FIRSTS",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/LAZARUS-14-Image-2015-1st-Print-/331471393185?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2d3c11a1",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/LAZARUS-14-Image-2015-1st-Print-/331471393185?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2d3c11a1\"\u003ehttp://www.ebay.co.uk/itm/LAZARUS-14-Image-2015-1st-Print-/331471393185?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item4d2d3c11a1\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "14",
-        "variant":  "14",
-        "price":  2.49,
-        "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1685,7 +1280,7 @@
         "variant":  "1FIRSTS",
         "price":  1.69,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1697,7 +1292,7 @@
         "variant":  "SET",
         "price":  24.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1709,7 +1304,7 @@
         "variant":  "1COMICASYLUM",
         "price":  29.99,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1721,7 +1316,7 @@
         "variant":  "VOL1",
         "price":  7.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1733,7 +1328,7 @@
         "variant":  "1MIDTOWN",
         "price":  22.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1745,7 +1340,7 @@
         "variant":  "6",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1757,7 +1352,7 @@
         "variant":  "2C",
         "price":  4.75,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1769,7 +1364,7 @@
         "variant":  "10",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1781,7 +1376,7 @@
         "variant":  "3",
         "price":  3.49,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1793,7 +1388,7 @@
         "variant":  "4",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1805,7 +1400,7 @@
         "variant":  "7",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1817,7 +1412,7 @@
         "variant":  "9",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1829,7 +1424,7 @@
         "variant":  "10",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1841,7 +1436,7 @@
         "variant":  "11",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1853,7 +1448,7 @@
         "variant":  "14",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1865,7 +1460,7 @@
         "variant":  "7",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1877,7 +1472,7 @@
         "variant":  "7",
         "price":  1.35,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1889,7 +1484,7 @@
         "variant":  "9",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1901,7 +1496,7 @@
         "variant":  "8",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1913,7 +1508,7 @@
         "variant":  "11",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1925,7 +1520,7 @@
         "variant":  "6",
         "price":  3.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1937,7 +1532,7 @@
         "variant":  "10",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1949,7 +1544,7 @@
         "variant":  "5",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1961,7 +1556,7 @@
         "variant":  "5",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1973,7 +1568,19 @@
         "variant":  "14",
         "price":  2.6,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Brand-new-image-comics-LAZARUS-8-9-adult-1st-print-series-/391085025761?pt=LH_DefaultDomain_3\u0026hash=item5b0e7be9e1",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Brand-new-image-comics-LAZARUS-8-9-adult-1st-print-series-/391085025761?pt=LH_DefaultDomain_3\u0026hash=item5b0e7be9e1\"\u003ehttp://www.ebay.co.uk/itm/Brand-new-image-comics-LAZARUS-8-9-adult-1st-print-series-/391085025761?pt=LH_DefaultDomain_3\u0026hash=item5b0e7be9e1\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  2.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1985,7 +1592,7 @@
         "variant":  "4",
         "price":  1.8,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -1997,7 +1604,7 @@
         "variant":  "6",
         "price":  2.05,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -2009,7 +1616,7 @@
         "variant":  "7",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
@@ -2021,247 +1628,391 @@
         "variant":  "10",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
+        "rundate":  "16-3-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Lazarus-2013-Image-9-Published-July-2014-by-Image-/400876020389?pt=LH_DefaultDomain_3\u0026hash=item5d5612a2a5",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Lazarus-2013-Image-9-Published-July-2014-by-Image-/400876020389?pt=LH_DefaultDomain_3\u0026hash=item5d5612a2a5\"\u003ehttp://www.ebay.co.uk/itm/Lazarus-2013-Image-9-Published-July-2014-by-Image-/400876020389?pt=LH_DefaultDomain_3\u0026hash=item5d5612a2a5\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "9",
-        "variant":  "9",
-        "price":  0.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "7-3-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.comic-biz.com/lazarus-5-1-5-issues-gradenm-12-price-sale-was-?199p-now-?100p?filter_name=LAZARUS\u0026limit=50",
-        "url":  "\u003ca href=\"http://www.comic-biz.com/lazarus-5-1-5-issues-gradenm-12-price-sale-was-?199p-now-?100p?filter_name=LAZARUS\u0026limit=50\"\u003ehttp://www.comic-biz.com/lazarus-5-1-5-issues-gradenm-12-price-sale-was-?199p-now-?100p?filter_name=LAZARUS\u0026limit=50\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "1",
-        "variant":  "LAZARUS 5 #1 (5 ISSUES) GRADE=NM 1/2 PRICE SALE! WAS ?1.99P NOW ?1.00P!",
-        "price":  1.00,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721578917)\/",
-        "site":  "The Comic Biz Store"
-    },
-    {
-        "link":  "http://www.comic-biz.com/lazarus-5-3-5-issues-gradenm-12-price-sale-was-?199p-now-?100p?filter_name=LAZARUS\u0026limit=50",
-        "url":  "\u003ca href=\"http://www.comic-biz.com/lazarus-5-3-5-issues-gradenm-12-price-sale-was-?199p-now-?100p?filter_name=LAZARUS\u0026limit=50\"\u003ehttp://www.comic-biz.com/lazarus-5-3-5-issues-gradenm-12-price-sale-was-?199p-now-?100p?filter_name=LAZARUS\u0026limit=50\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "3",
-        "variant":  "LAZARUS 5 #3 (5 ISSUES) GRADE=NM 1/2 PRICE SALE! WAS ?1.99P NOW ?1.00P!",
-        "price":  1.00,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721578917)\/",
-        "site":  "The Comic Biz Store"
-    },
-    {
-        "link":  "http://www.comic-biz.com/lazarus-5-4-5-issues-gradenm-12-price-sale-was-?199p-now-?100p?filter_name=LAZARUS\u0026limit=50",
-        "url":  "\u003ca href=\"http://www.comic-biz.com/lazarus-5-4-5-issues-gradenm-12-price-sale-was-?199p-now-?100p?filter_name=LAZARUS\u0026limit=50\"\u003ehttp://www.comic-biz.com/lazarus-5-4-5-issues-gradenm-12-price-sale-was-?199p-now-?100p?filter_name=LAZARUS\u0026limit=50\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "4",
-        "variant":  "LAZARUS 5 #4 (5 ISSUES) GRADE=NM 1/2 PRICE SALE! WAS ?1.99P NOW ?1.00P!",
-        "price":  1.00,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721578917)\/",
-        "site":  "The Comic Biz Store"
-    },
-    {
-        "link":  "http://www.comic-biz.com/lazarus-5-5-5-issues-gradenm-12-price-sale-was-?199p-now-?100p?filter_name=LAZARUS\u0026limit=50",
-        "url":  "\u003ca href=\"http://www.comic-biz.com/lazarus-5-5-5-issues-gradenm-12-price-sale-was-?199p-now-?100p?filter_name=LAZARUS\u0026limit=50\"\u003ehttp://www.comic-biz.com/lazarus-5-5-5-issues-gradenm-12-price-sale-was-?199p-now-?100p?filter_name=LAZARUS\u0026limit=50\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "5",
-        "variant":  "LAZARUS 5 #5 (5 ISSUES) GRADE=NM 1/2 PRICE SALE! WAS ?1.99P NOW ?1.00P!",
-        "price":  1.00,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721578917)\/",
-        "site":  "The Comic Biz Store"
-    },
-    {
-        "link":  "http://www.comic-biz.com/lazarus:-the-many-reincarnations-4-gradenm-12-price-sale-was-?250p-now-?125p?filter_name=LAZARUS\u0026limit=50",
-        "url":  "\u003ca href=\"http://www.comic-biz.com/lazarus:-the-many-reincarnations-4-gradenm-12-price-sale-was-?250p-now-?125p?filter_name=LAZARUS\u0026limit=50\"\u003ehttp://www.comic-biz.com/lazarus:-the-many-reincarnations-4-gradenm-12-price-sale-was-?250p-now-?125p?filter_name=LAZARUS\u0026limit=50\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "4",
-        "variant":  "LAZARUS: THE MANY REINCARNATIONS #4 GRADE=NM 1/2 PRICE SALE! WAS ?2.50P NOW ?1.25P!",
-        "price":  1.25,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721578917)\/",
-        "site":  "The Comic Biz Store"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81845\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81845\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81845\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81853\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81853\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81853\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "LAZARUS",
         "issue":  "STANDING",
-        "variant":  "LAZARUS #STANDING ORDER",
+        "variant":  "GHOSTED #STANDING ORDER",
         "price":  0.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721595512)\/",
+        "rundate":  "\/Date(1426503384873)\/",
         "site":  "Comic book shop"
     },
     {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_10\u0026products_id=84256\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_10\u0026products_id=84256\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_10\u0026products_id=84256\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "A LA MODE: COQUETTES, CUISINE \u0026 OBJECTS OF DESIRE [(W) Lazarus Chernik (A/CA) Echo Chernik]",
-        "variant":  "ECHO A LA MODE: COQUETTES, CUISINE \u0026 OBJECTS OF DESIRE [(W) Lazarus Chernik (A/CA) Echo Chernik]",
-        "price":  29.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721595512)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_10\u0026products_id=84257\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_10\u0026products_id=84257\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_10\u0026products_id=84257\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "RECOIL: CYBERPUNK CHARACTERS, COVERS \u0026 CONCEPTS HC [(W) Lazarus Chernik (A/CA) Echo Chernik]",
-        "variant":  "ECHO RECOIL: CYBERPUNK CHARACTERS, COVERS \u0026 CONCEPTS HC [(W) Lazarus Chernik (A/CA) Echo Chernik]",
-        "price":  25.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721595512)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92119\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92119\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92119\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "16",
-        "variant":  "FEB150615 LAZARUS #16 (MR)",
-        "price":  2.80,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721595512)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_48\u0026products_id=82159\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_48\u0026products_id=82159\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_48\u0026products_id=82159\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "1",
-        "variant":  "IMAGE FIRSTS LAZARUS #1 (MR) [(W) Greg Rucka (A/CA) Michael Lark]",
-        "price":  0.80,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721595512)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=84559\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=84559\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=84559\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "10",
-        "variant":  "LAZARUS #10 (MR) [(W) Greg Rucka (A/CA) Michael Lark]",
-        "price":  2.80,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721595512)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=86735\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=86735\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=86735\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "11",
-        "variant":  "LAZARUS #11 (MR) [(W) Greg Rucka (A/CA) Michael Lark]",
-        "price":  2.80,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721595512)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=83408\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=83408\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=83408\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "12",
-        "variant":  "LAZARUS #12 (MR) [(W) Greg Rucka (A) Michael Lark (CA) Owen Freeman]",
-        "price":  2.80,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721595512)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=85841\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=85841\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=85841\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "13",
-        "variant":  "LAZARUS #13 (MR) [(W) Greg Rucka (A) Michael Lark (CA) Owen Freeman]",
-        "price":  2.80,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721595512)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1839\u0026products_id=87373\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1839\u0026products_id=87373\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1839\u0026products_id=87373\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "14",
-        "variant":  "LAZARUS #14 (MR) [(W) Greg Rucka (A) Michael Lark (CA) Owen Freeman]",
-        "price":  2.80,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721595512)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89909\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89909\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89909\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "15",
-        "variant":  "LAZARUS #15 (MR) [(W) Greg Rucka (A) Michael Lark (CA) Owen Freeman]",
-        "price":  2.80,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721595512)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=83115\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=83115\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_37\u0026products_id=83115\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "9",
-        "variant":  "LAZARUS #9 [(W) Greg Rucka (A/CA) Michael Lark]",
-        "price":  2.40,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721595512)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_2\u0026products_id=71692\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_2\u0026products_id=71692\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=1_2\u0026products_id=71692\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "LAZARUS",
-        "issue":  "1-4",
-        "variant":  "Lazarus - set of #1-4 [(W) Greg Rucka (A/CA) Michael Lark]",
-        "price":  8.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721595512)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=93383\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=93383\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=93383\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89903\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89903\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89903\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
         "orderdate":  null,
         "title":  "LAZARUS",
         "issue":  "17",
-        "variant":  "MAR150572 LAZARUS #17 (MR)",
-        "price":  2.80,
+        "variant":  "DEC140734 GHOSTED #17 (MR)",
+        "price":  2.40,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1425721595512)\/",
+        "rundate":  "\/Date(1426503384873)\/",
         "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92112\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92112\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92112\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "19",
+        "variant":  "FEB150608 GHOSTED #19 (MR)",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503384873)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=79729\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=79729\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=79729\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "11",
+        "variant":  "GHOSTED #11 (MR) [(W) Joshua Williamson (A) Miroslav Mrva, Davide Gianfelice (CA) Matteo Scalera]",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503384873)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=80864\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=80864\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=80864\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "12",
+        "variant":  "GHOSTED #12 (MR) [(W) Joshua Williamson (A) Miroslav Mrva, Davide Gianfelice (CA) Dan Panosian]",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503384873)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=83401\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=83401\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=83401\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "14",
+        "variant":  "GHOSTED #14 (MR) [(W) Joshua Williamson (A) Miroslav Mrva, Davide Gianfelice (CA) Dan Panosian]",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503384873)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=85833\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=85833\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=85833\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "15",
+        "variant":  "GHOSTED #15 (MR) [(W) Joshua Williamson (A) Miroslav Mrva, Davide Gianfelice (CA) Dan Panosian]",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503384873)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=76236\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=76236\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=76236\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "9",
+        "variant":  "GHOSTED #9 [(W) Joshua Williamson (A) Miroslav Mrva, Davide Gianfelice (CA) Matteo Scalera]",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503384873)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91053\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91053\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91053\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "18",
+        "variant":  "JAN150686 GHOSTED #18 (MR)",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503384873)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=93375\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=93375\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=93375\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "20",
+        "variant":  "MAR150564 GHOSTED #20 (MR)",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503384873)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88525\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
+        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88525\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88525\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "16",
+        "variant":  "NOV140654 GHOSTED #16 (MR)",
+        "price":  2.40,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503384873)\/",
+        "site":  "Comic book shop"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+Vol+1+Haunted+Hei_1299255",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+Vol+1+Haunted+Hei_1299255\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+Vol+1+Haunted+Hei_1299255\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "GHOSTED VOL 1 HAUNTED HEIST TP",
+        "variant":  "GHOSTED VOL 1 HAUNTED HEIST TP",
+        "price":  5.7408530999999996604,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+Vol+3+TP_1385243",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+Vol+3+TP_1385243\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+Vol+3+TP_1385243\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "GHOSTED VOL 3 TP",
+        "variant":  "GHOSTED VOL 3 TP",
+        "price":  7.4651375999999995584,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%231+Cover+B+2nd+Pt_1291790",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%231+Cover+B+2nd+Pt_1291790\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%231+Cover+B+2nd+Pt_1291790\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "1",
+        "variant":  "1 COVER B 2ND PTG",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%231+1st+Ptg_1267977",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%231+1st+Ptg_1267977\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%231+1st+Ptg_1267977\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "1",
+        "variant":  "1 1ST PTG",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%232+Cover+B+2nd+Pt_1298472",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%232+Cover+B+2nd+Pt_1298472\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%232+Cover+B+2nd+Pt_1298472\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "2",
+        "variant":  "2 COVER B 2ND PTG",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%233+2nd+Ptg_1304047",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%233+2nd+Ptg_1304047\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%233+2nd+Ptg_1304047\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "3",
+        "variant":  "3 2ND PTG",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%233+1st+Ptg_1281108",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%233+1st+Ptg_1281108\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%233+1st+Ptg_1281108\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "3",
+        "variant":  "3 1ST PTG",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%234+Cover+B+2nd+Pt_1312759",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%234+Cover+B+2nd+Pt_1312759\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%234+Cover+B+2nd+Pt_1312759\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "4",
+        "variant":  "4 COVER B 2ND PTG",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%236_1305946",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%236_1305946\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%236_1305946\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "6",
+        "variant":  "6",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%237_1312940",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%237_1312940\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%237_1312940\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%238_1320068",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%238_1320068\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%238_1320068\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "8",
+        "variant":  "8",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2310_1332850",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2310_1332850\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2310_1332850\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "10",
+        "variant":  "10",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2311_1346911",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2311_1346911\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2311_1346911\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "11",
+        "variant":  "11",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2312_1353786",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2312_1353786\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2312_1353786\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "12",
+        "variant":  "12",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2313_1362650",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2313_1362650\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2313_1362650\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "13",
+        "variant":  "13",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2314_1368882",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2314_1368882\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2314_1368882\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "14",
+        "variant":  "14",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2315_1376485",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2315_1376485\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2315_1376485\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "15",
+        "variant":  "15",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2316_1392108",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2316_1392108\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2316_1392108\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "16",
+        "variant":  "16",
+        "price":  2.0218080999999998804,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2317_1400345",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2317_1400345\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2317_1400345\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "17",
+        "variant":  "17",
+        "price":  1.7175225999999998984,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2318_1405931",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2318_1405931\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2318_1405931\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "18",
+        "variant":  "18",
+        "price":  1.7175225999999998984,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
+    },
+    {
+        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=GHOSTED+%2320+%28MR%29_1420229",
+        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=GHOSTED+%2320+%28MR%29_1420229\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=GHOSTED+%2320+%28MR%29_1420229\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "20",
+        "variant":  "20 (MR)",
+        "price":  1.3118085999999999224,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1426503385253)\/",
+        "site":  "Midtown"
     }
 ]
