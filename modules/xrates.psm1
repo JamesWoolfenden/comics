@@ -21,11 +21,18 @@ function get-eurodollarrate
    $usd
 }
 
+#function get-gbpdollarrate
+#{
+#   $url="http://rate-exchange.appspot.com/currency?from=USD&to=GBP"
+#   $data=invoke-restmethod -uri $url
+#   
+#   Write-host "$(Get-Date) - Current USD exchange rate: $($data.rate)"
+#   $data.rate
+#}
+
 function get-gbpdollarrate
 {
-   $url="http://rate-exchange.appspot.com/currency?from=USD&to=GBP"
+   $url="http://openexchangerates.org/api/latest.json?app_id=37dfbc191d564cec930b8b8cf808e57c"
    $data=invoke-restmethod -uri $url
-   
-   Write-host "$(Get-Date) - Current USD exchange rate: $($data.rate)"
-   $data.rate
+   $data.rates."GBP"
 }
