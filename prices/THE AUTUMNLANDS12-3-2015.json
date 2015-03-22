@@ -1,0 +1,50 @@
+[
+    {
+        "Title":  "THE AUTUMNLANDS",
+        "Issue":  "1A",
+        "Cover":  1,
+        "TotalCost":  "4.24",
+        "Mean":  4.24,
+        "AveragePrice":  3.24,
+        "CurrentPrice":  3.24,
+        "Minimum":  0.99,
+        "Maximum":  4.99,
+        "Count":  4,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1426197292268)\/"
+    },
+    {
+        "Title":  "THE AUTUMNLANDS",
+        "Issue":  "1C",
+        "Cover":  1,
+        "TotalCost":  "4.20",
+        "Mean":  4.2,
+        "AveragePrice":  2.95,
+        "CurrentPrice":  2.95,
+        "Minimum":  2.95,
+        "Maximum":  2.95,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1426197292458)\/"
+    },
+    {
+        "Title":  "THE AUTUMNLANDS",
+        "Issue":  "SET",
+        "Cover":  0,
+        "TotalCost":  "4.50",
+        "Mean":  4.5,
+        "AveragePrice":  3.3,
+        "CurrentPrice":  3.3,
+        "Minimum":  3.3,
+        "Maximum":  3.3,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1426197292624)\/"
+    }
+]

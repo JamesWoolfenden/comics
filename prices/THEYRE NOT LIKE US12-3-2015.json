@@ -1,0 +1,34 @@
+[
+    {
+        "Title":  "THEYRE NOT LIKE US",
+        "Issue":  "1",
+        "Cover":  1,
+        "TotalCost":  "4.26",
+        "Mean":  4.257142857142858,
+        "AveragePrice":  2.5728571428571425,
+        "CurrentPrice":  2.872,
+        "Minimum":  1.65,
+        "Maximum":  4.99,
+        "Count":  7,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1426197458877)\/"
+    },
+    {
+        "Title":  "THEYRE NOT LIKE US",
+        "Issue":  "SET",
+        "Cover":  0,
+        "TotalCost":  "6.99",
+        "Mean":  6.99,
+        "AveragePrice":  4.995,
+        "CurrentPrice":  4.995,
+        "Minimum":  4.99,
+        "Maximum":  5,
+        "Count":  2,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1426197459049)\/"
+    }
+]
