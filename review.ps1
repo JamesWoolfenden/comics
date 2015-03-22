@@ -74,14 +74,7 @@ function update-record
       $estimate=$record.postage
       if ($record.site -eq "ebid" -And $record.seller -eq "")
       {
-         try{
-             $seller=($ie.Document.body.document.body.getElementsByTagName('a')| where{$_.innerHTML -eq "All about the seller"}).nameProp
-         }
-         catch
-         {
-            Write-error "Page expired?"
-            $seller=$null
-         }
+         $seller=get-ebidsellerfromie $ie
       }
       else
       {
@@ -497,3 +490,22 @@ function set-issue
     }
  }
  
+
+function get-ebidsellerfromie
+{
+   param($ie)
+
+   try
+   {
+      #$seller=($ie.Document.body.document.body.getElementsByTagName('a')| where{$_.innerHTML -eq "All about the seller"}).nameProp
+      $result=@($ie.Document.body.getElementsByClassName('t10 l5 f4 center'))
+      [string]$seller=($result.textContent.trim() -split(' '))[0]
+	  Write-verbose "Seller: $seller"
+   }
+   catch
+   {
+      Write-error "Page expired?"
+      $seller=$null
+   }
+   $seller
+}
