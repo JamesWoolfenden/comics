@@ -49,8 +49,9 @@ function update-record
       {
          
          write-host "Finding seller" -NoNewline
-         $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
-
+            #$result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
+         $result=@($ie.Document.getElementsByClassName('mbg-nw'))
+         
          #could be old and return nothing
          if ($result)
          {
@@ -279,7 +280,7 @@ function update-record
       }
    }
    
-   $IE.Quit()
+   $IE.Application.Quit()
    write-verbose "update-db -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -seller $seller -watch $watch"
 
    update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity -seller $seller -watch $watch
