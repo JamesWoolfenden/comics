@@ -46,21 +46,26 @@ function update-record
       }
 
       if ($record.seller -eq "" -or $record.seller -eq $NULL)
-      {
-         
-         write-host "Finding seller" -NoNewline
-            #$result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
-         $result=@($ie.Document.getElementsByClassName('mbg-nw'))
+      {      
+         try
+         {
+            $result=@($ie.Document.getElementsByClassName('mbg-nw'))
+         }
+         catch
+         {
+            Write-verbose "Failing over to Old IE model"
+            $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
+         }
          
          #could be old and return nothing
          if ($result)
          {
             $seller=$result[0].innerText
-            Write-Host " $seller" -ForegroundColor green
+            Write-Host "Finding seller: $seller" -ForegroundColor green
          }
          else
          {
-            Write-Host " not found" -ForegroundColor red
+            Write-Host "Seller not found" -ForegroundColor red
          }
       }
       else
