@@ -492,6 +492,7 @@ function get-ebidsellerfromie
    $seller
 }
 
+
 function get-ebaysellerfromie
 {
    param(
@@ -502,18 +503,26 @@ function get-ebaysellerfromie
 
    if (!($record.seller))
    {
-      $result=@($ie.Document.getElementsByClassName('mbg'))
-         
-      #could be old and return nothing
-      if ($result)
-      {
+       try
+       {
+          $result=@($ie.Document.getElementsByClassName('mbg-nw'))
+       }
+       catch
+       {
+          Write-verbose "Failing over to Old IE model"
+          $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
+       }
+            
+       #could be old and return nothing
+       if ($result)
+       {
          [string]$seller=($result.textContent.trim() -split(' '))[0]
-	  }
-      else
-      {
+       }
+       else
+       {
          write-host 'Seller is $Null'
          $seller=$NULL
-      }
+       }
    }
    else
    {
