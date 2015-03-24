@@ -45,28 +45,7 @@ function update-record
          write-host "Postage cannot be estimated"
       }
 
-      if ($record.seller -eq "" -or $record.seller -eq $NULL)
-      {
-         
-         write-host "Finding seller" -NoNewline
-            #$result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
-         $result=@($ie.Document.getElementsByClassName('mbg-nw'))
-         
-         #could be old and return nothing
-         if ($result)
-         {
-            $seller=$result[0].innerText
-            Write-Host " $seller" -ForegroundColor green
-         }
-         else
-         {
-            Write-Host " not found" -ForegroundColor red
-         }
-      }
-      else
-      {
-         $seller=$record.seller
-      }
+      $seller=get-ebaysellerfromie $ie -record $record
    }
    Else
    {
@@ -144,7 +123,6 @@ function update-record
       }
    }   
       
-   write-host "Seller: $seller"
    $priceestimate=0
    [double]$marketprice=0
    [double]$marketprice=get-currentprice -issue $actualIssue -title $newtitle
@@ -277,6 +255,7 @@ function update-record
    write-verbose "update-db -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -seller $seller -watch $watch"
 
    update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity -seller $seller -watch $watch
+   
 }
 
 function set-title 
@@ -493,19 +472,55 @@ function set-issue
 
 function get-ebidsellerfromie
 {
-   param($ie)
+   param(
+   [Parameter(Mandatory=$true)]
+   $ie)
 
    try
    {
       #$seller=($ie.Document.body.document.body.getElementsByTagName('a')| where{$_.innerHTML -eq "All about the seller"}).nameProp
       $result=@($ie.Document.body.getElementsByClassName('t10 l5 f4 center'))
       [string]$seller=($result.textContent.trim() -split(' '))[0]
-	  Write-verbose "Seller: $seller"
+	  Write-host "Seller: $seller"
    }
    catch
    {
       Write-error "Page expired?"
       $seller=$null
    }
+
+   $seller
+}
+
+function get-ebaysellerfromie
+{
+   param(
+   [Parameter(Mandatory=$true)]
+   $ie,
+   [Parameter(Mandatory=$true)]
+   [PSObject]$record)
+
+   if (!($record.seller))
+   {
+      $result=@($ie.Document.getElementsByClassName('mbg'))
+         
+      #could be old and return nothing
+      if ($result)
+      {
+         [string]$seller=($result.textContent.trim() -split(' '))[0]
+	  }
+      else
+      {
+         write-host 'Seller is $Null'
+         $seller=$NULL
+      }
+   }
+   else
+   {
+      write-host "Seller unchanged $seller"
+      $seller=$record.seller
+   }
+
+   Write-Host "Seller: $seller" -ForegroundColor green
    $seller
 }
