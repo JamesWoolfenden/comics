@@ -251,7 +251,7 @@ function update-recordset
    }      
 
    "$found Record(s)"
-
+   
    try
    {
       [int]$counter=1
@@ -279,8 +279,9 @@ function update-recordset
    }
    catch
    {
-    throw $_.Exception
-    exit 1
+     write-host $_.Exception.InnerException
+     throw $_.Exception
+     exit 1
    }
 }
 

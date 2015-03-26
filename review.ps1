@@ -103,7 +103,15 @@ function update-record
          Write-host "Downloading from $($record.Imagesrc) " 
          Write-host "Writing to $filepath" 
          set-imagefolder $newtitle $actualIssue
-         Invoke-webRequest $($record.ImageSrc) -outfile $filepath 
+
+         try
+         {
+            Invoke-webRequest $record.ImageSrc -outfile $filepath 
+         }
+         catch
+         {
+            write-host "Cannot download  $($record.ImageSrc)"
+         }
       }
       Else
       {
