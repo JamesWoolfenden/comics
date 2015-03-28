@@ -514,6 +514,11 @@ function get-ebaysellerfromie
        try
        {
           $result=@($ie.Document.getElementsByClassName('mbg-nw'))
+		  if (!($result))
+	      {
+	         Write-warning "Using Old IE model"
+             $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))          
+	      }
        }
        catch
        {

@@ -27,7 +27,6 @@
     <Compile Include=".gitattributes" />
     <Compile Include=".gitignore" />
     <Compile Include="backup\azureexport.dacpac" />
-    <Compile Include="backup\data.XML" />
     <Compile Include="comicbiz.ps1" />
     <Compile Include="comicconnect.ps1" />
     <Compile Include="covers\2000AD-SHOWCASE\50\50.JPG" />
