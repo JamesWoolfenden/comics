@@ -60,6 +60,7 @@ function add-array
    $list=search-db "Where Ebayitem != NULL"|select -property Ebayitem
    $Ebayitems=$list|foreach {"$($_.EbayItem)"}
    
+
    if ($resultset -ne $Null)
    {
       $count=0
@@ -499,57 +500,60 @@ function get-records
    #this is the sold items
    write-verbose "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {`$_.BidCount -ne '0'}"
    $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold' -categories $search.category |where {$_.BidCount -ne '0'}
-
+   
+   [int]$SoldCount=0
    if ($soldresult)
    {
-     $sold=1
+     $SoldCount=1
      if ($soldresult -is [system.array])
      {
-        $sold=$soldresult.count
+        $SoldCount=$soldresult.count
      }
-     
-     write-host "`n`tFound Sold $($sold)" -foregroundcolor cyan
+      
      add-array $soldresult -title $writetitle -issue 0 -Status Closed
    }
    
    # this is the closed results
    write-verbose "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {`$_.BidCount -ne '0'}"
    $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed' -categories $search.category|where {$_.BidCount -eq "0"}
+   
+   [int]$ExpiredCount = 0   
    if ($expiredresult)
    {
-      write-host "`r`nExpired" -foregroundcolor cyan
-      add-array $expiredresult -title $writetitle -issue 0 -Status Expired
+      $ExpiredCount=1
+      if ($expiredresult -is [System.Array])
+      {
+         $ExpiredCount=$expiredresult.count
+      }  
+	  
+	  add-array $expiredresult -title $writetitle -issue 0 -Status Expired      
    }
    
-   #these 
+   [int]$OpenCount=0  
    if ($search.enabled)
    {
       $result=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'Open' -categories $search.category
-      $found=0
+   
       if ($result)
-      {
-         write-verbose "`r`nOpen" 
+      {     
+	     $OpenCount=1
          if ($result -is [system.array])
          {
-           $found=$($result.count)
+           $OpenCount=$result.count
          }
-         else
-         {
-            $found=1
-         }
-
-         write-host "`n`tebay Found $($found)" -foregroundcolor cyan
+         
          add-array $result -title $writetitle -issue 0
-      }
-      else
-      {
-         write-host "`n`tEbay found: 0"
-      }
+      } 
    }
    else
    {
       write-warning "Disabled new records for $title"
-   }
+   }   
+    
+   write-host "`nEbay Stats" -foregroundcolor yellow
+   write-host "Expired: $ExpiredCount" -foregroundcolor cyan
+   write-host "Sold:    $SoldCount" -foregroundcolor cyan   
+   Write-Host "Open:    $OpenCount" -foregroundcolor cyan   
 }
 
 function get-issues
@@ -700,20 +704,28 @@ function get-ebidrecords
       write-verbose "$(Get-date) - category :$category"
       $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=$category&categoryid=$category&categoryonly=on&mo=search&type=keyword"
 
-      write-verbose "Querying ebid $url"
+      write-verbose "Querying Ebid $url"
       $ebidresults=get-ebidresults -url "$url"
+	
+	  [int]$OpenCount=0
 
       if ($ebidresults -is [system.array])
       {
-         write-host "`tEbid found: $($ebidresults.count)" -foregroundcolor green
+         $OpenCount=$ebidresults.count
       }
       else
       {
-         write-host "`tEbid found: 0"
+         if ($ebidresults)
+		 {
+	        $OpenCount=1
+	     }
       }
 
       add-ebidarray -results $ebidresults -title $search.title
    }
+   
+   Write-Host "`nEBid Stats" -foregroundcolor yellow   
+   Write-Host "Open:    $OpenCount" -foregroundcolor cyan   
 }
 
 function get-allrecords
@@ -732,7 +744,7 @@ function get-allrecords
    [PSCustomObject]$search
    )
    
-   Write-Host "`nFinding $($search.title)" -ForegroundColor cyan  
+   Write-Host "`nFinding: $($search.title)" -ForegroundColor cyan  
    get-ebidrecords -search $search
    get-records -search $search
    write-verbose "`r`nComplete."
