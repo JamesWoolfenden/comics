@@ -1,13 +1,7 @@
-function update-record
-{
-   param(
-   [Parameter(Mandatory=$true)]
-   $record, 
-   [string]$newstatus)
 
-   #postage
-   $estimate=$null
-   $seller=$null
+function view-record
+{
+   param([PSObject]$record)
 
    if ($record.ebayitem)
    { 
@@ -31,43 +25,61 @@ function update-record
    {
       write-warning "$($record.ebayitem) is null or empty"
    }
-
-   waitforpageload
-      
-   if ($record.site -eq "ebay")
-   {
-      if ($ie.Document.getElementByID('fshippingCost'))
-      {
-         $estimate=$ie.Document.getElementByID('fshippingCost').innerText
-      }
-      else
-      {
-         write-host "Postage cannot be estimated"
-      }
-
-      $seller=get-ebaysellerfromie $ie -record $record
-   }
-   Else
-   {
-      write-verbose "Record: $($record.postage)"
-      $estimate=$record.postage
-      if ($record.site -eq "ebid" -And $record.seller -eq "")
-      {
-         $seller=get-ebidsellerfromie $ie
-      }
-      else
-      {
-         $seller=$record.seller
-      }
-   }
    
+   waitforpageload
+   $ie
+}
+
+function update-record
+{
+   param(
+   [Parameter(Mandatory=$true)]
+   [PSObject]$record, 
+   [string]$newstatus)
+
+   [PSObject]$OldRecord=$record
+
+   #postage
+   $estimate=$null
+   $seller  =$null
+
+   $ie=view-record $record
+   
+   switch($record.site)
+   {
+      'ebay'
+	  {
+	     if ($ie.Document.getElementByID('fshippingCost'))
+         {
+            $estimate=$ie.Document.getElementByID('fshippingCost').innerText
+         }
+         else
+         {
+            write-host "Postage cannot be estimated"
+         }
+
+         $seller=get-ebaysellerfromie $ie -record $record
+	  }
+	  default
+	  {
+	     write-verbose "Record: $($record.postage)"
+         $estimate=$record.postage
+         if ($record.site -eq "ebid" -And $record.seller -eq "")
+         {
+            $seller=get-ebidsellerfromie $ie
+         }
+         else
+         {
+            $seller=$record.seller
+         }
+	  }
+   }
+      
    $newtitle=(set-title -rawtitle $($record.Title)).ToUpper()
 
-   $color=get-image  -title $newtitle -issue $record.Issue
-   
-   $estimateIssue=set-issue -rawissue $($record.Issue) -rawtitle $($record.Description) -title $newtitle -color $color
-
-   $color=get-image  -title $newtitle -issue $estimateIssue
+   $color        =get-image  -title $newtitle -issue $record.Issue
+   $estimateIssue=set-issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
+   $color        =get-image  -title $newtitle -issue $estimateIssue
    
    write-host "Issue $($estimateIssue) or (i)dentify:" -Foregroundcolor $color -nonewline
    $actualIssue=read-host  
@@ -256,6 +268,7 @@ function update-record
 		 {
             $newstatus=$record.status
          }
+
          $watch=$record.watch
       }
    }
@@ -439,8 +452,8 @@ function set-issue
    $estimateIssue
  }  
 
- function guess-title
- {
+function guess-title
+{
     param(
     [Parameter(Mandatory=$true)]
     [string]$title,
@@ -479,7 +492,6 @@ function set-issue
     }
  }
  
-
 function get-ebidsellerfromie
 {
    param(
@@ -501,7 +513,6 @@ function get-ebidsellerfromie
 
    $seller
 }
-
 
 function get-ebaysellerfromie
 {
