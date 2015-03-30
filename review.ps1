@@ -234,7 +234,7 @@ function update-record
    [string]$newstatus=read-host $record.Status "(V)erified, (C)losed, (E)xpired, (B)ought, (W)atch"
    [boolean]$watch=$false
    
-   switch($newstatus)
+   switch($newstatus.ToUpper())
    {
       "C"
       {
@@ -273,6 +273,7 @@ function update-record
       }
    }
    
+   write-verbose "NewStatus: $NewStatus"
    $IE.Application.Quit()
    write-verbose "update-db -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -seller $seller -watch $watch"
 
@@ -535,8 +536,15 @@ function get-ebaysellerfromie
        catch
        {
           Write-verbose "Failing over to Old IE model"
-          $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
-       }
+		  if ($ie.Document.body.getElementsByClassName('mbg-nw'))
+	      {
+             $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
+          }
+		  else
+	      {
+	         $result=$null
+	      }
+	   }
             
        #could be old and return nothing
        if ($result)
