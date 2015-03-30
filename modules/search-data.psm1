@@ -22,13 +22,12 @@ function Initialize-SearchData
    #>
    Param(
    [string]$title,
-   [string[]]$include=@(),
-   [string[]]$exclude=@(),
+   [string[]]$include=@(""),
+   [string[]]$exclude=@(""),
    [string]$comictitle=$null,
    [string]$productcode=$null,
-   [string[]]$category="8077",
-   [Boolean]$Enabled=$true
-   )
+   [string[]]$category=@("8077"),
+   [Boolean]$Enabled=$true)
    
    New-Object PSObject -Property @{title=$title;include=[string[]]$include;exclude=[string[]]$exclude;comictitle=$comictitle;productcode=$productcode;category=[string[]]$category;Enabled=$Enabled}
 }
@@ -56,18 +55,25 @@ function Add-SearchData
    Param(
    [Parameter(Mandatory=$true)]
    [string]$title=$title.ToUpper(),
-   [string[]]$include,
-   [string[]]$exclude,
+   [string[]]$include=@(""),
+   [string[]]$exclude=@(""),
    [string]$comictitle,
    [string]$productcode,
-   [string]$category,
+   [string[]]$category=@("8077"),
    [switch]$Enabled,
    [switch]$duplicate)
    
+   [boolean]$searchEnabled|out-null
+   
+   if($enabled)
+   {
+      $searchEnabled=$true
+   }
+
    if (!(get-searchdata -title $title) -replace $duplicate)
    {
       $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
-      $search=Initialize-searchdata -title "$($title.ToUpper())" -exclude $exclude -include $include -comictitle $comictitle -productcode $productcode -category $category -Enabled $Enabled
+      $search=Initialize-searchdata -title "$($title.ToUpper())" -exclude $exclude -include $include -comictitle $comictitle -productcode $productcode -category $category -Enabled $searchEnabled
       $searches+=$search
       $searches|Sort-Object title| ConvertTo-Json -depth 999 | Out-File "$datafile"
       $search

@@ -9,21 +9,21 @@ function update-record
    $estimate=$null
    $seller=$null
 
-   if ($($record.ebayitem))
+   if ($record.ebayitem)
    { 
-      switch ($($record.site))
+      switch ($record.site)
       {
          "ebay"
          {
-            $ie=view $($record.ebayitem)         
+            $ie=view $record.ebayitem         
          }
          "ebid"
          {
-            $ie=view-url $($record.link)
+            $ie=view-url $record.link
          }
          default
          {
-            $ie=view $($record.ebayitem)
+            $ie=view $record.ebayitem
          }
       }
    }
@@ -222,7 +222,7 @@ function update-record
    [string]$newstatus=read-host $record.Status "(V)erified, (C)losed, (E)xpired, (B)ought, (W)atch"
    [boolean]$watch=$false
    
-   switch($newstatus)
+   switch($newstatus.ToUpper())
    {
       "C"
       {
@@ -252,13 +252,15 @@ function update-record
          {
             $newstatus="VERIFIED"
          }
-         else{
+         else
+		 {
             $newstatus=$record.status
          }
          $watch=$record.watch
       }
    }
    
+   write-verbose "NewStatus: $NewStatus"
    $IE.Application.Quit()
    write-verbose "update-db -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -seller $seller -watch $watch"
 
@@ -523,8 +525,15 @@ function get-ebaysellerfromie
        catch
        {
           Write-verbose "Failing over to Old IE model"
-          $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
-       }
+		  if ($ie.Document.body.getElementsByClassName('mbg-nw'))
+	      {
+             $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
+          }
+		  else
+	      {
+	         $result=$null
+	      }
+	   }
             
        #could be old and return nothing
        if ($result)
