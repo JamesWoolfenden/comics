@@ -6,7 +6,6 @@ function get-gurudata
    param (
    [PSObject]$record)
 
-
    $title      =$record.title.ToUpper()
    $fullfilter ="&product=$($record.productcode)"
    $site       ="The Comic Guru"

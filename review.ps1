@@ -5,13 +5,13 @@ function view-record
 
    if ($record.ebayitem)
    { 
-      switch ($record.site)
+      switch ($record.site.ToUpper())
       {
-         "ebay"
+         "EBAY"
          {
             $ie=view $record.ebayitem         
          }
-         "ebid"
+         "EBID"
          {
             $ie=view-url $record.link
          }
@@ -45,9 +45,9 @@ function update-record
 
    $ie=view-record $record
    
-   switch($record.site)
+   switch($record.site.ToUpper())
    {
-      'ebay'
+      'EBAY'
 	  {
 	     if ($ie.Document.getElementByID('fshippingCost'))
          {
@@ -229,56 +229,54 @@ function update-record
 
    $TCO ="{0:N2}" -f ([decimal]$postage+[decimal]$price)/$newquantity
    write-host "TCO per issue $TCO" -foregroundcolor cyan
-   
-   $bought="false"
+ 
+   $record=set-comicstatus -record $record
+      
+   $IE.Application.Quit()
+   write-host "update-db -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $($record.status) -seller $seller -watch $($record.watch)"
+   update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $record.status -bought $record.bought -quantity $newquantity -seller $seller -watch $record.watch
+}
+
+function set-comicstatus
+{
+   param([PSObject]$record)
+
    [string]$newstatus=read-host $record.Status "(V)erified, (C)losed, (E)xpired, (B)ought, (W)atch"
-   [boolean]$watch=$false
-   
+      
    switch($newstatus.ToUpper())
    {
       "C"
       {
-         $newstatus="CLOSED"
+         $record.Status="CLOSED"
       }
       "V"
       {
-         $newstatus="VERIFIED"
+         $record.Status="VERIFIED"
       }
       "E"
       {
-         $newstatus="EXPIRED"    
+         $record.Status="EXPIRED"    
       }
       "B"
       {
-         $newstatus="CLOSED"
-         $bought="true"
+         $record.Status="CLOSED"
+         $record.bought="true"
       }
       "W"
       {
-         $newstatus="VERIFIED"
-         $watch=$true
+         $record.Status="VERIFIED"
+         $record.watch=$true
       }
       default
       {
          if ($record.status -eq "Open")
          {
-            $newstatus="VERIFIED"
+            $record.Status="VERIFIED"
          }
-         else
-		 {
-            $newstatus=$record.status
-         }
-
-         $watch=$record.watch
       }
    }
-   
-   write-verbose "NewStatus: $NewStatus"
-   $IE.Application.Quit()
-   write-verbose "update-db -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -seller $seller -watch $watch"
 
-   update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $newstatus -bought $bought -quantity $newquantity -seller $seller -watch $watch
-   
+   $record
 }
 
 function set-title 

@@ -51,8 +51,6 @@ function best-buys
 
    param([pscustomobject]$results)
    
-   $results.Count
-
    foreach($record in $results)
    {
       write-verbose "get-priceestimate -title $($record.title) -issue $($record.issue)"
@@ -103,10 +101,21 @@ function get-bestbuy
 
 function clean-records
 {
+    <#
+      .SYNOPSIS 
+       Gets all verified records in close order, the sets up review
+        
+      .EXAMPLE
+      C:\PS> clean-records
+
+   #>
+   
    $records=search-db -wherestring "where status='verified' and Ebayitem is not null  order by CloseDate desc"
-   
-   Write-host "Found $($records.count)"
-   
+   if ($records -is [System.Array])
+   {
+      Write-host "Found $($records.count)"
+   }
+
    foreach($record in $records)
    {
       update-record $record
