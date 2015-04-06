@@ -81,31 +81,48 @@ function update-record
    $estimateIssue=set-issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
    $color        =get-image  -title $newtitle -issue $estimateIssue
    
-   write-host "Issue $($estimateIssue) or (i)dentify:" -Foregroundcolor $color -nonewline
-   $actualIssue=read-host  
-   
-   if ($actualIssue -eq "i")
+   write-host "Issue $($estimateIssue) - (i)dentify or (r)eplace:" -Foregroundcolor $color -nonewline
+   $actualIssue=read-host
+ 
+   switch($actualIssue)
    {
-     if (($estimateIssue -replace("\D","")) -eq "")
-     {
-        write-host "Estimate Cover Issue:" -Foregroundcolor $color -nonewline
-        $cover=read-host  
-     }
-     else
-     {
-        $cover=get-cover $estimateIssue
-     }
+      "i"
+      {
+          if (($estimateIssue -replace("\D","")) -eq "")
+          {
+             write-host "Estimate Cover Issue:" -Foregroundcolor $color -nonewline
+             $cover=read-host  
+          }
+          else
+          {
+             $cover=get-cover $estimateIssue
+          }
 
-     $actualIssue=get-imagetitle -issue $cover -title $newtitle
-     write-host "Choose $actualIssue" -ForegroundColor cyan
+          $actualIssue=get-imagetitle -issue $cover -title $newtitle
+          write-host "Choose $actualIssue" -ForegroundColor cyan
+      }
+	  "r"
+	  {
+    	 Write-host "r"
+	     $filepath= get-imagefilename -title $newtitle -issue $actualIssue
+	     ri $filepath -Force | ForEach-Object {
+             $removeErrors = @()
+             $_ | Remove-Item -ErrorAction SilentlyContinue -ErrorVariable removeErrors
+             $removeErrors | where-object { $_.Exception.Message -notlike '*it is being used by another process*' }
+             }
+	     Invoke-webRequest $record.ImageSrc -outfile $filepath    
+	  }
+      default
+      {
+         if ($actualIssue -eq $NULL -or $actualIssue -eq "")
+         {
+            $actualIssue=$estimateIssue
+         }   
+      }
    }
-   
-   if ($actualIssue -eq $NULL -or $actualIssue -eq "")
-   {
-      $actualIssue=$estimateIssue
-   }   
-   
+
    $actualIssue=$actualIssue.ToUpper()
+
    if (!(test-image -title $newtitle -issue $actualIssue))
    {
       if ($($record.ImageSrc))
@@ -233,7 +250,6 @@ function update-record
    $record=set-comicstatus -record $record
       
    $IE.Application.Quit()
-   write-host "update-db -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $($record.status) -seller $seller -watch $($record.watch)"
    update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $record.status -bought $record.bought -quantity $newquantity -seller $seller -watch $record.watch
 }
 
@@ -243,7 +259,7 @@ function set-comicstatus
 
    [string]$newstatus=read-host $record.Status "(V)erified, (C)losed, (E)xpired, (B)ought, (W)atch"
       
-   switch($newstatus.ToUpper())
+   switch($newstatus)
    {
       "C"
       {
@@ -265,7 +281,7 @@ function set-comicstatus
       "W"
       {
          $record.Status="VERIFIED"
-         $record.watch=$true
+         $record.watch=0
       }
       default
       {
@@ -278,6 +294,7 @@ function set-comicstatus
 
    $record
 }
+
 
 function set-title 
 {

@@ -62,14 +62,15 @@ function get-imagetitle
    $ToolTip.AutomaticDelay = 0
 
    [System.Windows.Forms.Application]::EnableVisualStyles();
-   $counter=1
    $y=1  
    $x=1
+
+   [decimal]$maxheight=0
 
    foreach($imgfile in $coverfiles)
    {    
       $file = (get-item $imgfile.FullName) 
-      $img = [System.Drawing.Image]::Fromfile($file);
+      $img = [System.Drawing.Image]::Fromfile($file)
       $obj= new-object System.Windows.Forms.Button
       $obj.Location = new-object System.Drawing.Size($x,$y)
       $obj.BackgroundImage=$img
@@ -83,9 +84,13 @@ function get-imagetitle
       $ToolTip.SetToolTip($obj,$imgfile.BaseName )
       $obj.Add_Click({get-coverselection $($obj.Name)}.GetNewClosure())
       $Form.Controls.Add($obj)
+	 
       $x=$x+$img.Size.Width+10
-      $counter++
-      $maxheight=(0,$Height | Measure -Max).Maximum
+      $localmaxheight=(0,$Height | Measure -Max).Maximum
+	  if ($localmaxheight -gt $maxheight)
+	  {
+	     $maxheight=$localmaxheight
+	  }
    }
 
    $Form.width          = $x+10
@@ -97,8 +102,8 @@ function get-imagetitle
    $Form.Text           = "Cover selector"
    $Form.Font           = New-Object System.Drawing.Font("Verdana",10,[System.Drawing.FontStyle]::Bold)
    $Form.maximumsize    = New-Object System.Drawing.Size($Form.width,260)
-   $form.HorizontalScroll.Visible=$true
-   $form.AutoScroll = $True
+   $Form.HorizontalScroll.Visible=$true
+   $Form.AutoScroll = $True
 
    $Form.KeyPreview    = $True
    $Form.Add_KeyDown({if ($_.KeyCode -eq "Enter") {}})
@@ -116,7 +121,11 @@ function get-imagetitle
    {
       $choice=read-host "Set Issue title"  
    }
-   
+
+   $img.Dispose()
+   $Form.Dispose()
+   $obj.Dispose()	  
+
    write-verbose $choice 
    $choice
 }

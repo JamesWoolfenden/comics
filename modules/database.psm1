@@ -268,7 +268,7 @@ function update-db
    }
  
    $cmd.commandtext = "update Comics.dbo.Comics SET $updatestring where Ebayitem = '$ebayitem' and (status !='CLOSED' OR status !='expired')" 
-   write-verbose $cmd.commandtext
+   #write-host $cmd.commandtext
    
    $transactionComplete=$NULL
 
@@ -447,13 +447,14 @@ function search-db
        }
         
        #watch
-       if ($data.IsDBNull(20))
+       if ($data.IsDBNull(21))
        {
-          $watch=$null
+          $watch=$false
        }
        else 
        {
-          $watch=$data.GetValue(20)
+	      #write-host $data.GetValue(21)
+          $watch=$data.GetValue(21)
        } 
          
          
@@ -506,8 +507,7 @@ function get-priceestimate
    
    if($results -is [system.array])
    {
-      $count=$results.count
-      
+      $count=$results.count     
       $minimum=[double]$results[0].Price+[double]$results[0].postage
    }
    else
