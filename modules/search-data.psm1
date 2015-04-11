@@ -63,7 +63,7 @@ function Add-SearchData
    [switch]$Enabled,
    [switch]$duplicate)
    
-   [boolean]$searchEnabled|out-null
+   [boolean]$searchEnabled=$false|out-null
    
    if($enabled)
    {
