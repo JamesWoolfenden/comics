@@ -1,14 +1,110 @@
 [
     {
-        "link":  "https://www.dcbservice.com/product/mar150557/chew-49-(mr)",
-        "url":  "\u003ca href=\"https://www.dcbservice.com/product/mar150557/chew-49-(mr)\"\u003ehttps://www.dcbservice.com/product/mar150557/chew-49-(mr)\u003c/a\u003e",
+        "link":  "https://www.dcbservice.com/product/apr150522/chew-50-(mr)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/apr150522/chew-50-(mr)\"\u003ehttps://www.dcbservice.com/product/apr150522/chew-50-(mr)\u003c/a\u003e",
         "orderdate":  null,
         "title":  "CHEW",
-        "issue":  "49",
+        "issue":  "50",
         "variant":  "Chew  (MR)",
-        "price":  "1.20",
+        "price":  "1.44",
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/apr150523/chew-tp-vol-01-(sep090288)-(mr)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/apr150523/chew-tp-vol-01-(sep090288)-(mr)\"\u003ehttps://www.dcbservice.com/product/apr150523/chew-tp-vol-01-(sep090288)-(mr)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "Chew TP Vol 01 (Sep090288) (MR)",
+        "variant":  "Chew TP Vol 01 (Sep090288) (MR)",
+        "price":  "4.10",
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/apr150524/chew-tp-vol-02-international-flavor-(feb100354)-(mr)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/apr150524/chew-tp-vol-02-international-flavor-(feb100354)-(mr)\"\u003ehttps://www.dcbservice.com/product/apr150524/chew-tp-vol-02-international-flavor-(feb100354)-(mr)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "Chew TP Vol 02 International Flavor (Feb100354) (MR)",
+        "variant":  "Chew TP Vol 02 International Flavor (Feb100354) (MR)",
+        "price":  "5.34",
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/apr150525/chew-tp-vol-03-just-desserts-(sep100449)-(mr)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/apr150525/chew-tp-vol-03-just-desserts-(sep100449)-(mr)\"\u003ehttps://www.dcbservice.com/product/apr150525/chew-tp-vol-03-just-desserts-(sep100449)-(mr)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "Chew TP Vol 03 Just Desserts (Sep100449) (MR)",
+        "variant":  "Chew TP Vol 03 Just Desserts (Sep100449) (MR)",
+        "price":  "5.34",
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/apr150526/chew-tp-vol-04-flambe-(may110447)-(mr)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/apr150526/chew-tp-vol-04-flambe-(may110447)-(mr)\"\u003ehttps://www.dcbservice.com/product/apr150526/chew-tp-vol-04-flambe-(may110447)-(mr)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "Chew TP Vol 04 Flambe (May110447) (MR)",
+        "variant":  "Chew TP Vol 04 Flambe (May110447) (MR)",
+        "price":  "5.34",
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/apr150527/chew-tp-vol-05-major-league-chew-(feb120425)-(mr)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/apr150527/chew-tp-vol-05-major-league-chew-(feb120425)-(mr)\"\u003ehttps://www.dcbservice.com/product/apr150527/chew-tp-vol-05-major-league-chew-(feb120425)-(mr)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "Chew TP Vol 05 Major League Chew (Feb120425) (MR)",
+        "variant":  "Chew TP Vol 05 Major League Chew (Feb120425) (MR)",
+        "price":  "5.34",
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/apr150528/chew-tp-vol-06-space-cakes-(oct120481)-(mr)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/apr150528/chew-tp-vol-06-space-cakes-(oct120481)-(mr)\"\u003ehttps://www.dcbservice.com/product/apr150528/chew-tp-vol-06-space-cakes-(oct120481)-(mr)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "Chew TP Vol 06 Space Cakes (Oct120481) (MR)",
+        "variant":  "Chew TP Vol 06 Space Cakes (Oct120481) (MR)",
+        "price":  "6.16",
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/apr150529/chew-tp-vol-07-bad-apples-(jun130436)-(mr)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/apr150529/chew-tp-vol-07-bad-apples-(jun130436)-(mr)\"\u003ehttps://www.dcbservice.com/product/apr150529/chew-tp-vol-07-bad-apples-(jun130436)-(mr)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "Chew TP Vol 07 Bad Apples (Jun130436) (MR)",
+        "variant":  "Chew TP Vol 07 Bad Apples (Jun130436) (MR)",
+        "price":  "5.34",
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/apr150530/chew-tp-vol-08-family-recipes-(jan140548)-(mr)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/apr150530/chew-tp-vol-08-family-recipes-(jan140548)-(mr)\"\u003ehttps://www.dcbservice.com/product/apr150530/chew-tp-vol-08-family-recipes-(jan140548)-(mr)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "Chew TP Vol 08 Family Recipes (Jan140548) (MR)",
+        "variant":  "Chew TP Vol 08 Family Recipes (Jan140548) (MR)",
+        "price":  "5.34",
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
         "site":  "DCBS"
     },
     {
@@ -18,286 +114,10 @@
         "title":  "CHEW",
         "issue":  "3",
         "variant":  "Chew  3rd Ptg",
-        "price":  "2.34",
+        "price":  "2.40",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314714633)\/",
+        "rundate":  "\/Date(1428917198244)\/",
         "site":  "comicxposure"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/df-chew-revival-1-seeley-sgn-c-0-1-2-/prod_46446.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/df-chew-revival-1-seeley-sgn-c-0-1-2-/prod_46446.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/df-chew-revival-1-seeley-sgn-c-0-1-2-/prod_46446.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "1",
-        "variant":  "1 SEELEY SGN (C: 0-1-2)",
-        "price":  14.24,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/chew-43-mr-/prod_55513.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/chew-43-mr-/prod_55513.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/chew-43-mr-/prod_55513.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "43",
-        "variant":  "43 (MR)",
-        "price":  1.80,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/image-firsts-chew-curr-ptg-1-mr-/prod_58771.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/image-firsts-chew-curr-ptg-1-mr-/prod_58771.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/image-firsts-chew-curr-ptg-1-mr-/prod_58771.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "1",
-        "variant":  "1 (MR)",
-        "price":  1.45,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/chew-44-mr-/prod_60976.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/chew-44-mr-/prod_60976.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/chew-44-mr-/prod_60976.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "44",
-        "variant":  "44 (MR)",
-        "price":  2.20,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/statues-toys/star-wars-black-6-in-chewbacca-ep-iv-action-figure/prod_62525.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/statues-toys/star-wars-black-6-in-chewbacca-ep-iv-action-figure/prod_62525.html\"\u003ehttp://www.disposableheroes.co.uk/statues-toys/star-wars-black-6-in-chewbacca-ep-iv-action-figure/prod_62525.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "STAR",
-        "variant":  "STAR WARS BLACK 6-IN CHEWBACCA (EP IV) ACTION FIGURE",
-        "price":  24.35,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/chew-35-mr-/prod_65123.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/chew-35-mr-/prod_65123.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/chew-35-mr-/prod_65123.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "35",
-        "variant":  "35 (MR)",
-        "price":  1.80,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/chew-33-mr-2013-dhc/prod_69210.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/chew-33-mr-2013-dhc/prod_69210.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/chew-33-mr-2013-dhc/prod_69210.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "33",
-        "variant":  "33 (MR) 2013 DHC",
-        "price":  1.80,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/chew-37-mr-tony-cover-2013-dhc/prod_69212.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/chew-37-mr-tony-cover-2013-dhc/prod_69212.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/chew-37-mr-tony-cover-2013-dhc/prod_69212.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "37",
-        "variant":  "37 (MR) TONY COVER 2013 DHC",
-        "price":  2.00,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/chew-39-mr-dhc/prod_69213.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/chew-39-mr-dhc/prod_69213.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/chew-39-mr-dhc/prod_69213.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "39",
-        "variant":  "39 (MR) DHC",
-        "price":  1.95,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/chew-45-mr-/prod_73698.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/chew-45-mr-/prod_73698.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/chew-45-mr-/prod_73698.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "45",
-        "variant":  "45 (MR)",
-        "price":  2.05,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/chew-warrior-chicken-poyo-1-2nd-ptg/prod_111988.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/chew-warrior-chicken-poyo-1-2nd-ptg/prod_111988.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/chew-warrior-chicken-poyo-1-2nd-ptg/prod_111988.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "1",
-        "variant":  "1 2ND PTG",
-        "price":  2.30,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/image-firsts-chew-curr-ptg-1-o/a-mr-/prod_115857.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/image-firsts-chew-curr-ptg-1-o/a-mr-/prod_115857.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/image-firsts-chew-curr-ptg-1-o/a-mr-/prod_115857.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "1",
-        "variant":  "1 (O/A) (MR)",
-        "price":  1.45,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/statues-toys/fabrikations-star-wars-chewbacca-soft-sculpt-plush-figure-c-1/prod_128966.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/statues-toys/fabrikations-star-wars-chewbacca-soft-sculpt-plush-figure-c-1/prod_128966.html\"\u003ehttp://www.disposableheroes.co.uk/statues-toys/fabrikations-star-wars-chewbacca-soft-sculpt-plush-figure-c-1/prod_128966.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "FABRIKATIONS",
-        "variant":  "FABRIKATIONS STAR WARS CHEWBACCA SOFT SCULPT PLUSH FIGURE (C: 1",
-        "price":  20.16,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/back-issues/image/chew-46-mr-/prod_130522.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/image/chew-46-mr-/prod_130522.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/image/chew-46-mr-/prod_130522.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "46",
-        "variant":  "46 (MR)",
-        "price":  2.25,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/image/chew-47-mr-/prod_134994.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/image/chew-47-mr-/prod_134994.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/image/chew-47-mr-/prod_134994.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "47",
-        "variant":  "47 (MR)",
-        "price":  2.25,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders-for-15/04/15/idw/chew-48-mr-/prod_140087.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders-for-15/04/15/idw/chew-48-mr-/prod_140087.html\"\u003ehttp://www.disposableheroes.co.uk/preorders-for-15/04/15/idw/chew-48-mr-/prod_140087.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "48",
-        "variant":  "48 (MR)",
-        "price":  2.25,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/chew-49-mr-/prod_143579.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/chew-49-mr-/prod_143579.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/chew-49-mr-/prod_143579.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "49",
-        "variant":  "49 (MR)",
-        "price":  2.20,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/may-2015/preorders-for-20/05/15/image/chew-49-mr-/prod_144433.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/may-2015/preorders-for-20/05/15/image/chew-49-mr-/prod_144433.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/may-2015/preorders-for-20/05/15/image/chew-49-mr-/prod_144433.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "49",
-        "variant":  "49 (MR)",
-        "price":  2.25,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/chew-cases-of-the-fda-card-game-c-0-1-2-/prod_146038.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/chew-cases-of-the-fda-card-game-c-0-1-2-/prod_146038.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/gaming-uk-only-/chew-cases-of-the-fda-card-game-c-0-1-2-/prod_146038.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "CHEW",
-        "variant":  "CHEW CASES OF THE FDA CARD GAME (C: 0-1-2)",
-        "price":  26.39,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/may-2015/preorders-for-27/05/15/other-merchandise/chew-cases-of-the-fda-card-game-c-0-1-2-/prod_146636.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/may-2015/preorders-for-27/05/15/other-merchandise/chew-cases-of-the-fda-card-game-c-0-1-2-/prod_146636.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/may-2015/preorders-for-27/05/15/other-merchandise/chew-cases-of-the-fda-card-game-c-0-1-2-/prod_146636.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "CHEW",
-        "variant":  "CHEW CASES OF THE FDA CARD GAME (C: 0-1-2)",
-        "price":  28.33,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/buy1get1free/idw/-mars-attacks-ghostbusters-chew-variant-one-shot-bogof/prod_147283.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/buy1get1free/idw/-mars-attacks-ghostbusters-chew-variant-one-shot-bogof/prod_147283.html\"\u003ehttp://www.disposableheroes.co.uk/buy1get1free/idw/-mars-attacks-ghostbusters-chew-variant-one-shot-bogof/prod_147283.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "!MARS",
-        "variant":  "!MARS ATTACKS GHOSTBUSTERS CHEW VARIANT ONE SHOT BOGOF",
-        "price":  1.50,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/dhc-admin/image/chew-50-mr-/prod_147676.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/dhc-admin/image/chew-50-mr-/prod_147676.html\"\u003ehttp://www.disposableheroes.co.uk/dhc-admin/image/chew-50-mr-/prod_147676.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "50",
-        "variant":  "50 (MR)",
-        "price":  2.45,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.disposableheroes.co.uk/preorders/june-2015/preorders-for-17/06/15/image/chew-50-mr-/prod_148526.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/june-2015/preorders-for-17/06/15/image/chew-50-mr-/prod_148526.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/june-2015/preorders-for-17/06/15/image/chew-50-mr-/prod_148526.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "50",
-        "variant":  "50 (MR)",
-        "price":  2.50,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314720730)\/",
-        "site":  "Disposable Heroes"
     },
     {
         "link":  "http://www.closeencounters.co.uk/index.php/mar150557.html",
@@ -308,7 +128,7 @@
         "variant":  "49",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314729318)\/",
+        "rundate":  "\/Date(1428917237173)\/",
         "site":  "Close Encounters"
     },
     {
@@ -320,7 +140,7 @@
         "variant":  "48",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314729318)\/",
+        "rundate":  "\/Date(1428917237173)\/",
         "site":  "Close Encounters"
     },
     {
@@ -332,7 +152,7 @@
         "variant":  "47",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314729318)\/",
+        "rundate":  "\/Date(1428917237173)\/",
         "site":  "Close Encounters"
     },
     {
@@ -344,8 +164,19 @@
         "variant":  "46",
         "price":  2.10,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314729318)\/",
+        "rundate":  "\/Date(1428917237173)\/",
         "site":  "Close Encounters"
+    },
+    {
+        "link":  "https://forbiddenplanet.com/139401-chew-50/",
+        "url":  "\u003ca href=\"https://forbiddenplanet.com/139401-chew-50/\"\u003ehttps://forbiddenplanet.com/139401-chew-50/\u003c/a\u003e",
+        "orderdate":  "17th June, 2015",
+        "title":  "CHEW",
+        "issue":  "50",
+        "variant":  "50",
+        "price":  2.40,
+        "rundate":  "\/Date(1428917241033)\/",
+        "site":  "Forbidden Planet"
     },
     {
         "link":  "https://forbiddenplanet.com/137783-chew-49/",
@@ -355,7 +186,7 @@
         "issue":  "49",
         "variant":  "49",
         "price":  1.95,
-        "rundate":  "\/Date(1428314733138)\/",
+        "rundate":  "\/Date(1428917241033)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -366,7 +197,7 @@
         "issue":  "48",
         "variant":  "48",
         "price":  1.95,
-        "rundate":  "\/Date(1428314733138)\/",
+        "rundate":  "\/Date(1428917241033)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -377,7 +208,7 @@
         "issue":  "Chew: Warrior Chicken Poyo ",
         "variant":  "CCI SDCC 2014 Variant - Foil...",
         "price":  4.99,
-        "rundate":  "\/Date(1428314733138)\/",
+        "rundate":  "\/Date(1428917241033)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -389,7 +220,7 @@
         "variant":  "39",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314738408)\/",
+        "rundate":  "\/Date(1428917246308)\/",
         "site":  "Reed"
     },
     {
@@ -401,7 +232,7 @@
         "variant":  "43",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314738408)\/",
+        "rundate":  "\/Date(1428917246308)\/",
         "site":  "Reed"
     },
     {
@@ -413,7 +244,7 @@
         "variant":  "45",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314738408)\/",
+        "rundate":  "\/Date(1428917246308)\/",
         "site":  "Reed"
     },
     {
@@ -425,7 +256,7 @@
         "variant":  "46",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314738408)\/",
+        "rundate":  "\/Date(1428917246308)\/",
         "site":  "Reed"
     },
     {
@@ -437,7 +268,7 @@
         "variant":  "47",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314738408)\/",
+        "rundate":  "\/Date(1428917246308)\/",
         "site":  "Reed"
     },
     {
@@ -449,31 +280,19 @@
         "variant":  "1",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314738408)\/",
+        "rundate":  "\/Date(1428917246308)\/",
         "site":  "Reed"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/CHEW-44-IMAGE-COMICS-OCT-2014-NM-NEW-/111615210646?pt=LH_DefaultDomain_3\u0026hash=item19fcc8f496",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-44-IMAGE-COMICS-OCT-2014-NM-NEW-/111615210646?pt=LH_DefaultDomain_3\u0026hash=item19fcc8f496\"\u003ehttp://www.ebay.co.uk/itm/CHEW-44-IMAGE-COMICS-OCT-2014-NM-NEW-/111615210646?pt=LH_DefaultDomain_3\u0026hash=item19fcc8f496\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/CHEW-45-IMAGE-COMICS-GATE-FOLD-COVER-NOV-2014-NM-NEW-/111620792558?pt=LH_DefaultDomain_3\u0026hash=item19fd1e20ee",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-45-IMAGE-COMICS-GATE-FOLD-COVER-NOV-2014-NM-NEW-/111620792558?pt=LH_DefaultDomain_3\u0026hash=item19fd1e20ee\"\u003ehttp://www.ebay.co.uk/itm/CHEW-45-IMAGE-COMICS-GATE-FOLD-COVER-NOV-2014-NM-NEW-/111620792558?pt=LH_DefaultDomain_3\u0026hash=item19fd1e20ee\u003c/a\u003e",
         "orderdate":  null,
         "title":  "CHEW",
-        "issue":  "44",
-        "variant":  "44",
+        "issue":  "45",
+        "variant":  "45",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/CHEW-1-IMAGE-COMICS-FIRST-PRINT-JUNE-2009-NM-/111619222586?pt=LH_DefaultDomain_3\u0026hash=item19fd062c3a",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-1-IMAGE-COMICS-FIRST-PRINT-JUNE-2009-NM-/111619222586?pt=LH_DefaultDomain_3\u0026hash=item19fd062c3a\"\u003ehttp://www.ebay.co.uk/itm/CHEW-1-IMAGE-COMICS-FIRST-PRINT-JUNE-2009-NM-/111619222586?pt=LH_DefaultDomain_3\u0026hash=item19fd062c3a\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "1",
-        "variant":  "1A",
-        "price":  299.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -485,7 +304,19 @@
         "variant":  "39",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/CHEW-5-IMAGE-COMICS-FIRST-PRINT-NOV-2009-NM-/111643658240?pt=LH_DefaultDomain_3\u0026hash=item19fe7b0800",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-5-IMAGE-COMICS-FIRST-PRINT-NOV-2009-NM-/111643658240?pt=LH_DefaultDomain_3\u0026hash=item19fe7b0800\"\u003ehttp://www.ebay.co.uk/itm/CHEW-5-IMAGE-COMICS-FIRST-PRINT-NOV-2009-NM-/111643658240?pt=LH_DefaultDomain_3\u0026hash=item19fe7b0800\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "5",
+        "variant":  "5A",
+        "price":  14.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -497,7 +328,7 @@
         "variant":  "1ACGCSIGNED",
         "price":  490,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -509,31 +340,7 @@
         "variant":  "31",
         "price":  2.24,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/CHEW-40-IMAGE-COMICS-FEB-2014-NM-/121590802538?pt=LH_DefaultDomain_3\u0026hash=item1c4f60686a",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-40-IMAGE-COMICS-FEB-2014-NM-/121590802538?pt=LH_DefaultDomain_3\u0026hash=item1c4f60686a\"\u003ehttp://www.ebay.co.uk/itm/CHEW-40-IMAGE-COMICS-FEB-2014-NM-/121590802538?pt=LH_DefaultDomain_3\u0026hash=item1c4f60686a\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "40",
-        "variant":  "40",
-        "price":  2.25,
-        "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/CHEW-4-IMAGE-COMICS-FIRST-PRINT-SEPT-2009-VF-NM-/121593627946?pt=LH_DefaultDomain_3\u0026hash=item1c4f8b852a",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-4-IMAGE-COMICS-FIRST-PRINT-SEPT-2009-VF-NM-/121593627946?pt=LH_DefaultDomain_3\u0026hash=item1c4f8b852a\"\u003ehttp://www.ebay.co.uk/itm/CHEW-4-IMAGE-COMICS-FIRST-PRINT-SEPT-2009-VF-NM-/121593627946?pt=LH_DefaultDomain_3\u0026hash=item1c4f8b852a\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "4",
-        "variant":  "4A",
-        "price":  14.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -545,7 +352,7 @@
         "variant":  "47",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -557,7 +364,31 @@
         "variant":  "46",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/CHEW-44-IMAGE-COMICS-OCT-2014-NM-NEW-/121614739379?pt=LH_DefaultDomain_3\u0026hash=item1c50cda7b3",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-44-IMAGE-COMICS-OCT-2014-NM-NEW-/121614739379?pt=LH_DefaultDomain_3\u0026hash=item1c50cda7b3\"\u003ehttp://www.ebay.co.uk/itm/CHEW-44-IMAGE-COMICS-OCT-2014-NM-NEW-/121614739379?pt=LH_DefaultDomain_3\u0026hash=item1c50cda7b3\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "44",
+        "variant":  "44",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/CHEW-1-IMAGE-COMICS-FIRST-PRINT-JUNE-2009-NM-/121619278582?pt=LH_DefaultDomain_3\u0026hash=item1c5112eaf6",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-1-IMAGE-COMICS-FIRST-PRINT-JUNE-2009-NM-/121619278582?pt=LH_DefaultDomain_3\u0026hash=item1c5112eaf6\"\u003ehttp://www.ebay.co.uk/itm/CHEW-1-IMAGE-COMICS-FIRST-PRINT-JUNE-2009-NM-/121619278582?pt=LH_DefaultDomain_3\u0026hash=item1c5112eaf6\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "1",
+        "variant":  "1A",
+        "price":  299.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -569,7 +400,7 @@
         "variant":  "35A",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -581,7 +412,7 @@
         "variant":  "36",
         "price":  1,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -593,7 +424,7 @@
         "variant":  "REVIVAL CROSSOVER #1",
         "price":  8.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -605,7 +436,7 @@
         "variant":  "REVIVAL CROSSOVER #1",
         "price":  4.19,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -617,7 +448,7 @@
         "variant":  "REVIVAL CROSSOVER #1",
         "price":  3.79,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -629,7 +460,7 @@
         "variant":  "42",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -641,7 +472,7 @@
         "variant":  "1B",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -653,7 +484,7 @@
         "variant":  "REVIVAL CROSSOVER #1",
         "price":  8.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -665,7 +496,7 @@
         "variant":  "33",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -677,7 +508,7 @@
         "variant":  "34",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -689,7 +520,7 @@
         "variant":  "39",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -701,7 +532,7 @@
         "variant":  "36",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -713,7 +544,7 @@
         "variant":  "40",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -725,7 +556,7 @@
         "variant":  "41",
         "price":  3,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -737,7 +568,7 @@
         "variant":  "44",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -749,7 +580,7 @@
         "variant":  "45",
         "price":  2.4,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -761,7 +592,7 @@
         "variant":  "44",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -773,55 +604,7 @@
         "variant":  "46",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Chew-12-Image-comics-/141600426725?pt=LH_DefaultDomain_3\u0026hash=item20f80b0ae5",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Chew-12-Image-comics-/141600426725?pt=LH_DefaultDomain_3\u0026hash=item20f80b0ae5\"\u003ehttp://www.ebay.co.uk/itm/Chew-12-Image-comics-/141600426725?pt=LH_DefaultDomain_3\u0026hash=item20f80b0ae5\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "12",
-        "variant":  "12",
-        "price":  7.2,
-        "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Chew-11-Image-Comics-/141600431939?pt=LH_DefaultDomain_3\u0026hash=item20f80b1f43",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Chew-11-Image-Comics-/141600431939?pt=LH_DefaultDomain_3\u0026hash=item20f80b1f43\"\u003ehttp://www.ebay.co.uk/itm/Chew-11-Image-Comics-/141600431939?pt=LH_DefaultDomain_3\u0026hash=item20f80b1f43\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "11",
-        "variant":  "11",
-        "price":  8.2,
-        "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/CHEW-10-Image-Comics-/141600432378?pt=LH_DefaultDomain_3\u0026hash=item20f80b20fa",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-10-Image-Comics-/141600432378?pt=LH_DefaultDomain_3\u0026hash=item20f80b20fa\"\u003ehttp://www.ebay.co.uk/itm/CHEW-10-Image-Comics-/141600432378?pt=LH_DefaultDomain_3\u0026hash=item20f80b20fa\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "10",
-        "variant":  "10",
-        "price":  9,
-        "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/CHEW-9-Image-Comics-NM-/141600434378?pt=LH_DefaultDomain_3\u0026hash=item20f80b28ca",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-9-Image-Comics-NM-/141600434378?pt=LH_DefaultDomain_3\u0026hash=item20f80b28ca\"\u003ehttp://www.ebay.co.uk/itm/CHEW-9-Image-Comics-NM-/141600434378?pt=LH_DefaultDomain_3\u0026hash=item20f80b28ca\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "9",
-        "variant":  "9",
-        "price":  8,
-        "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -833,19 +616,19 @@
         "variant":  "34",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
-        "link":  null,
-        "url":  "\u003ca href=\"\"\u003e\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Chew-24-Image-Expo-Butter-Variant-Signed-by-Artist-Rob-Guillory-NM-M-1st-Print-/151636782961?pt=LH_DefaultDomain_3\u0026hash=item234e41af71",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Chew-24-Image-Expo-Butter-Variant-Signed-by-Artist-Rob-Guillory-NM-M-1st-Print-/151636782961?pt=LH_DefaultDomain_3\u0026hash=item234e41af71\"\u003ehttp://www.ebay.co.uk/itm/Chew-24-Image-Expo-Butter-Variant-Signed-by-Artist-Rob-Guillory-NM-M-1st-Print-/151636782961?pt=LH_DefaultDomain_3\u0026hash=item234e41af71\u003c/a\u003e",
         "orderdate":  null,
         "title":  "CHEW",
-        "issue":  "35",
-        "variant":  "35A",
-        "price":  2.99,
+        "issue":  "24",
+        "variant":  "24EXPOSIGNED",
+        "price":  22.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -857,7 +640,7 @@
         "variant":  "38",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -869,7 +652,7 @@
         "variant":  "40",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -881,7 +664,7 @@
         "variant":  "33",
         "price":  1.8,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -893,7 +676,7 @@
         "variant":  "43",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -905,7 +688,7 @@
         "variant":  "46",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -917,7 +700,7 @@
         "variant":  "47",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -929,7 +712,7 @@
         "variant":  "1FIRSTS",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -941,7 +724,7 @@
         "variant":  "34",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -953,7 +736,7 @@
         "variant":  "39",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -965,7 +748,7 @@
         "variant":  "41",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -977,7 +760,7 @@
         "variant":  "39",
         "price":  1.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -989,7 +772,7 @@
         "variant":  "44",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1001,31 +784,67 @@
         "variant":  "1ACGCSIGNED",
         "price":  695,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Revival-19-20-21-22-Chew-crossover-special-NM-run-lot-Image-Comics-/171740381389?pt=LH_DefaultDomain_3\u0026hash=item27fc8640cd",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Revival-19-20-21-22-Chew-crossover-special-NM-run-lot-Image-Comics-/171740381389?pt=LH_DefaultDomain_3\u0026hash=item27fc8640cd\"\u003ehttp://www.ebay.co.uk/itm/Revival-19-20-21-22-Chew-crossover-special-NM-run-lot-Image-Comics-/171740381389?pt=LH_DefaultDomain_3\u0026hash=item27fc8640cd\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Chew-Morning-Glories-Pretty-Deadly-Deadly-Class-1-NM-lot-Image-Comics-/171744564537?pt=LH_DefaultDomain_3\u0026hash=item27fcc61539",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Chew-Morning-Glories-Pretty-Deadly-Deadly-Class-1-NM-lot-Image-Comics-/171744564537?pt=LH_DefaultDomain_3\u0026hash=item27fcc61539\"\u003ehttp://www.ebay.co.uk/itm/Chew-Morning-Glories-Pretty-Deadly-Deadly-Class-1-NM-lot-Image-Comics-/171744564537?pt=LH_DefaultDomain_3\u0026hash=item27fcc61539\u003c/a\u003e",
         "orderdate":  null,
         "title":  "CHEW",
         "issue":  "",
         "variant":  "SET",
-        "price":  7.5,
+        "price":  4.2,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Chew-37-NM-/171744002162?pt=LH_DefaultDomain_3\u0026hash=item27fcbd8072",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Chew-37-NM-/171744002162?pt=LH_DefaultDomain_3\u0026hash=item27fcbd8072\"\u003ehttp://www.ebay.co.uk/itm/Chew-37-NM-/171744002162?pt=LH_DefaultDomain_3\u0026hash=item27fcbd8072\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Chew-15-John-Layman-Rob-Guillory-1st-Print-Image-Comic-Book-NM-FREE-P-P-/171746005112?hash=item27fcdc1078",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Chew-15-John-Layman-Rob-Guillory-1st-Print-Image-Comic-Book-NM-FREE-P-P-/171746005112?hash=item27fcdc1078\"\u003ehttp://www.ebay.co.uk/itm/Chew-15-John-Layman-Rob-Guillory-1st-Print-Image-Comic-Book-NM-FREE-P-P-/171746005112?hash=item27fcdc1078\u003c/a\u003e",
         "orderdate":  null,
         "title":  "CHEW",
-        "issue":  "37",
-        "variant":  "37A",
-        "price":  0.49,
+        "issue":  "15",
+        "variant":  "15",
+        "price":  7.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Chew-13-John-Layman-Rob-Guillory-1st-Print-Image-Comic-Book-NM-FREE-P-P-/171746005120?hash=item27fcdc1080",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Chew-13-John-Layman-Rob-Guillory-1st-Print-Image-Comic-Book-NM-FREE-P-P-/171746005120?hash=item27fcdc1080\"\u003ehttp://www.ebay.co.uk/itm/Chew-13-John-Layman-Rob-Guillory-1st-Print-Image-Comic-Book-NM-FREE-P-P-/171746005120?hash=item27fcdc1080\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "13",
+        "variant":  "13A",
+        "price":  7.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Chew-25-Image-Comics-Layman-Guillory-Hickman-1st-Print-Mint-/181711011555?hash=item2a4ed1fee3",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Chew-25-Image-Comics-Layman-Guillory-Hickman-1st-Print-Mint-/181711011555?hash=item2a4ed1fee3\"\u003ehttp://www.ebay.co.uk/itm/Chew-25-Image-Comics-Layman-Guillory-Hickman-1st-Print-Mint-/181711011555?hash=item2a4ed1fee3\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "25",
+        "variant":  "25",
+        "price":  1.49,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Chew-33-Image-Comics-Layman-Guillory-Hickman-1st-Print-Mint-/181711011729?hash=item2a4ed1ff91",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Chew-33-Image-Comics-Layman-Guillory-Hickman-1st-Print-Mint-/181711011729?hash=item2a4ed1ff91\"\u003ehttp://www.ebay.co.uk/itm/Chew-33-Image-Comics-Layman-Guillory-Hickman-1st-Print-Mint-/181711011729?hash=item2a4ed1ff91\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "33",
+        "variant":  "33",
+        "price":  1.49,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1037,7 +856,7 @@
         "variant":  "36",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1049,7 +868,7 @@
         "variant":  "38",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1061,7 +880,7 @@
         "variant":  "41",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1073,31 +892,31 @@
         "variant":  "17",
         "price":  5.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/CHEW-Issue-36-1st-print-2013-/191442080785?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c92d65411",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-Issue-36-1st-print-2013-/191442080785?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c92d65411\"\u003ehttp://www.ebay.co.uk/itm/CHEW-Issue-36-1st-print-2013-/191442080785?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c92d65411\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/CHEW-Issue-45-1st-print-2014-/191521716947?pt=LH_DefaultDomain_3\u0026hash=item2c97957ad3",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-Issue-45-1st-print-2014-/191521716947?pt=LH_DefaultDomain_3\u0026hash=item2c97957ad3\"\u003ehttp://www.ebay.co.uk/itm/CHEW-Issue-45-1st-print-2014-/191521716947?pt=LH_DefaultDomain_3\u0026hash=item2c97957ad3\u003c/a\u003e",
         "orderdate":  null,
         "title":  "CHEW",
-        "issue":  "36",
-        "variant":  "36",
-        "price":  2.7,
+        "issue":  "45",
+        "variant":  "45",
+        "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/CHEW-Issue-40-1st-print-/191442102320?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c92d6a830",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-Issue-40-1st-print-/191442102320?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c92d6a830\"\u003ehttp://www.ebay.co.uk/itm/CHEW-Issue-40-1st-print-/191442102320?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item2c92d6a830\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/CHEW-Issue-34-1st-print-/191557349512?pt=LH_DefaultDomain_3\u0026hash=item2c99b53088",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-Issue-34-1st-print-/191557349512?pt=LH_DefaultDomain_3\u0026hash=item2c99b53088\"\u003ehttp://www.ebay.co.uk/itm/CHEW-Issue-34-1st-print-/191557349512?pt=LH_DefaultDomain_3\u0026hash=item2c99b53088\u003c/a\u003e",
         "orderdate":  null,
         "title":  "CHEW",
-        "issue":  "40",
-        "variant":  "40",
+        "issue":  "",
+        "variant":  "SET",
         "price":  2.7,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1109,7 +928,7 @@
         "variant":  "3B",
         "price":  4.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1121,7 +940,7 @@
         "variant":  "34",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1133,7 +952,7 @@
         "variant":  "33",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1145,7 +964,7 @@
         "variant":  "39",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1157,7 +976,7 @@
         "variant":  "1FIRSTS",
         "price":  1.69,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1169,7 +988,7 @@
         "variant":  "3A",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1181,7 +1000,7 @@
         "variant":  "19A",
         "price":  10.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1193,7 +1012,7 @@
         "variant":  "24A",
         "price":  7.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1205,19 +1024,7 @@
         "variant":  "40",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Image-First-Chew-1-Signed-By-Writer-John-Layman-Artist-Rob-Guillory-With-COA-/251902362939?pt=LH_DefaultDomain_3\u0026hash=item3aa68d053b",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-First-Chew-1-Signed-By-Writer-John-Layman-Artist-Rob-Guillory-With-COA-/251902362939?pt=LH_DefaultDomain_3\u0026hash=item3aa68d053b\"\u003ehttp://www.ebay.co.uk/itm/Image-First-Chew-1-Signed-By-Writer-John-Layman-Artist-Rob-Guillory-With-COA-/251902362939?pt=LH_DefaultDomain_3\u0026hash=item3aa68d053b\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "1",
-        "variant":  "1FIRSTSSIGNED",
-        "price":  0.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1229,7 +1036,7 @@
         "variant":  "9",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1241,7 +1048,7 @@
         "variant":  "5A",
         "price":  15.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1253,7 +1060,7 @@
         "variant":  "23",
         "price":  8.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1265,7 +1072,7 @@
         "variant":  "25",
         "price":  7.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1277,7 +1084,7 @@
         "variant":  "26",
         "price":  8.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1289,7 +1096,7 @@
         "variant":  "40",
         "price":  2.59,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1301,7 +1108,7 @@
         "variant":  "36",
         "price":  5.98,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1313,19 +1120,7 @@
         "variant":  "SET",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/4-Issues-Chew-comic-Image-comics-2011-2014-20-35-36-one-shot-/291423413162?pt=LH_DefaultDomain_3\u0026hash=item43da3063aa",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/4-Issues-Chew-comic-Image-comics-2011-2014-20-35-36-one-shot-/291423413162?pt=LH_DefaultDomain_3\u0026hash=item43da3063aa\"\u003ehttp://www.ebay.co.uk/itm/4-Issues-Chew-comic-Image-comics-2011-2014-20-35-36-one-shot-/291423413162?pt=LH_DefaultDomain_3\u0026hash=item43da3063aa\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  5,
-        "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1337,7 +1132,7 @@
         "variant":  "24A",
         "price":  4,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1349,7 +1144,7 @@
         "variant":  "25",
         "price":  4,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1361,7 +1156,7 @@
         "variant":  "1FIRSTS",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1373,7 +1168,19 @@
         "variant":  "19SDCC",
         "price":  12,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/RED-ONE-1-SOUTHERN-CROSS-1-SHUTTER-7-ALLCRIME-3-UBER-21-CHEW-1shot-/291430217031?pt=LH_DefaultDomain_3\u0026hash=item43da983547",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/RED-ONE-1-SOUTHERN-CROSS-1-SHUTTER-7-ALLCRIME-3-UBER-21-CHEW-1shot-/291430217031?pt=LH_DefaultDomain_3\u0026hash=item43da983547\"\u003ehttp://www.ebay.co.uk/itm/RED-ONE-1-SOUTHERN-CROSS-1-SHUTTER-7-ALLCRIME-3-UBER-21-CHEW-1shot-/291430217031?pt=LH_DefaultDomain_3\u0026hash=item43da983547\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  8.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1385,7 +1192,7 @@
         "variant":  "27B",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1397,7 +1204,7 @@
         "variant":  "REVIVAL CROSSOVER #1",
         "price":  4.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1409,7 +1216,7 @@
         "variant":  "44",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1421,7 +1228,7 @@
         "variant":  "46",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1433,7 +1240,7 @@
         "variant":  "46",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1445,7 +1252,7 @@
         "variant":  "39",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1457,7 +1264,7 @@
         "variant":  "34",
         "price":  2.49,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1469,7 +1276,7 @@
         "variant":  "33",
         "price":  2.49,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1481,7 +1288,7 @@
         "variant":  "35A",
         "price":  2.49,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1493,7 +1300,7 @@
         "variant":  "35A",
         "price":  2.49,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1505,7 +1312,7 @@
         "variant":  "36",
         "price":  2.49,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1517,7 +1324,7 @@
         "variant":  "40",
         "price":  2.69,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1529,19 +1336,7 @@
         "variant":  "44",
         "price":  2.69,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/CHEW-REVIVAL-1-1st-Print-Image-One-Shot-Flip-book-/321689484615?pt=LH_DefaultDomain_3\u0026hash=item4ae62ffd47",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-REVIVAL-1-1st-Print-Image-One-Shot-Flip-book-/321689484615?pt=LH_DefaultDomain_3\u0026hash=item4ae62ffd47\"\u003ehttp://www.ebay.co.uk/itm/CHEW-REVIVAL-1-1st-Print-Image-One-Shot-Flip-book-/321689484615?pt=LH_DefaultDomain_3\u0026hash=item4ae62ffd47\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "1",
-        "variant":  "REVIVAL CROSSOVER #1",
-        "price":  3.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1553,7 +1348,7 @@
         "variant":  "1FIRSTS",
         "price":  1.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1565,7 +1360,7 @@
         "variant":  "46",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1577,7 +1372,7 @@
         "variant":  "43",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1589,7 +1384,7 @@
         "variant":  "36",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1601,7 +1396,19 @@
         "variant":  "44",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/CHEW-REVIVAL-1-1st-Print-Image-One-Shot-Flip-book-/321717611823?pt=LH_DefaultDomain_3\u0026hash=item4ae7dd2d2f",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-REVIVAL-1-1st-Print-Image-One-Shot-Flip-book-/321717611823?pt=LH_DefaultDomain_3\u0026hash=item4ae7dd2d2f\"\u003ehttp://www.ebay.co.uk/itm/CHEW-REVIVAL-1-1st-Print-Image-One-Shot-Flip-book-/321717611823?pt=LH_DefaultDomain_3\u0026hash=item4ae7dd2d2f\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "1",
+        "variant":  "REVIVAL CROSSOVER #1",
+        "price":  3.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1613,7 +1420,7 @@
         "variant":  "33",
         "price":  3.39,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1625,7 +1432,7 @@
         "variant":  "38",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1637,7 +1444,7 @@
         "variant":  "40",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1649,7 +1456,7 @@
         "variant":  "43",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1661,7 +1468,7 @@
         "variant":  "1ACGCSIGNED",
         "price":  499.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1673,7 +1480,7 @@
         "variant":  "32",
         "price":  2.49,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1685,7 +1492,7 @@
         "variant":  "33",
         "price":  2.49,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1697,7 +1504,7 @@
         "variant":  "34",
         "price":  2.29,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1709,7 +1516,7 @@
         "variant":  "38",
         "price":  2.19,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1721,7 +1528,7 @@
         "variant":  "39",
         "price":  2.69,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1733,7 +1540,7 @@
         "variant":  "41",
         "price":  2.69,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1745,7 +1552,7 @@
         "variant":  "43",
         "price":  1.39,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1757,7 +1564,7 @@
         "variant":  "25",
         "price":  2.53,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1769,7 +1576,7 @@
         "variant":  "29A",
         "price":  2.24,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1781,19 +1588,7 @@
         "variant":  "32",
         "price":  2.24,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/CHEW-REVIVAL-Number-1-Comic-Layman-Guillory-Image-Comics-With-Sleeve-/361258603788?pt=LH_DefaultDomain_3\u0026hash=item541cb0d50c",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-REVIVAL-Number-1-Comic-Layman-Guillory-Image-Comics-With-Sleeve-/361258603788?pt=LH_DefaultDomain_3\u0026hash=item541cb0d50c\"\u003ehttp://www.ebay.co.uk/itm/CHEW-REVIVAL-Number-1-Comic-Layman-Guillory-Image-Comics-With-Sleeve-/361258603788?pt=LH_DefaultDomain_3\u0026hash=item541cb0d50c\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "1",
-        "variant":  "REVIVAL CROSSOVER #1",
-        "price":  2.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1805,7 +1600,7 @@
         "variant":  "34",
         "price":  3.39,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1817,7 +1612,7 @@
         "variant":  "32",
         "price":  3.98,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1829,7 +1624,7 @@
         "variant":  "36",
         "price":  3.39,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1841,7 +1636,7 @@
         "variant":  "35A",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1853,7 +1648,7 @@
         "variant":  "32",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1865,7 +1660,7 @@
         "variant":  "39",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1877,7 +1672,7 @@
         "variant":  "36",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1889,7 +1684,7 @@
         "variant":  "39",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1901,7 +1696,7 @@
         "variant":  "41",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1913,7 +1708,7 @@
         "variant":  "19BSIGNED",
         "price":  14,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1925,7 +1720,7 @@
         "variant":  "41",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1937,7 +1732,7 @@
         "variant":  "44",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1949,7 +1744,7 @@
         "variant":  "35A",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1961,7 +1756,7 @@
         "variant":  "45",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1973,7 +1768,7 @@
         "variant":  "46",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1985,7 +1780,7 @@
         "variant":  "13BCGCSIGNED",
         "price":  150,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -1997,7 +1792,19 @@
         "variant":  "25",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/IMAGE-FIRSTS-CHEW-1-/381223847274?pt=LH_DefaultDomain_3\u0026hash=item58c2b6456a",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-FIRSTS-CHEW-1-/381223847274?pt=LH_DefaultDomain_3\u0026hash=item58c2b6456a\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-FIRSTS-CHEW-1-/381223847274?pt=LH_DefaultDomain_3\u0026hash=item58c2b6456a\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "CHEW",
+        "issue":  "1",
+        "variant":  "1FIRSTS",
+        "price":  1.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -2009,7 +1816,7 @@
         "variant":  "35A",
         "price":  3.39,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -2021,7 +1828,7 @@
         "variant":  "34",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -2033,7 +1840,7 @@
         "variant":  "40",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -2045,7 +1852,7 @@
         "variant":  "38",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -2057,19 +1864,7 @@
         "variant":  "37A",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Chew-44-NM-14-Layman-Guillory-/391097799057?pt=LH_DefaultDomain_3\u0026hash=item5b0f3ed191",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Chew-44-NM-14-Layman-Guillory-/391097799057?pt=LH_DefaultDomain_3\u0026hash=item5b0f3ed191\"\u003ehttp://www.ebay.co.uk/itm/Chew-44-NM-14-Layman-Guillory-/391097799057?pt=LH_DefaultDomain_3\u0026hash=item5b0f3ed191\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "44",
-        "variant":  "44",
-        "price":  2.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -2081,7 +1876,7 @@
         "variant":  "35A",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -2093,19 +1888,19 @@
         "variant":  "40",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/CHEW-Issue-34-1st-print-/400882368419?pt=LH_DefaultDomain_3\u0026hash=item5d56737fa3",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-Issue-34-1st-print-/400882368419?pt=LH_DefaultDomain_3\u0026hash=item5d56737fa3\"\u003ehttp://www.ebay.co.uk/itm/CHEW-Issue-34-1st-print-/400882368419?pt=LH_DefaultDomain_3\u0026hash=item5d56737fa3\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/CHEW-Issue-44-1st-print-2014-/400900464780?pt=LH_DefaultDomain_3\u0026hash=item5d5787a08c",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/CHEW-Issue-44-1st-print-2014-/400900464780?pt=LH_DefaultDomain_3\u0026hash=item5d5787a08c\"\u003ehttp://www.ebay.co.uk/itm/CHEW-Issue-44-1st-print-2014-/400900464780?pt=LH_DefaultDomain_3\u0026hash=item5d5787a08c\u003c/a\u003e",
         "orderdate":  null,
         "title":  "CHEW",
-        "issue":  "34",
-        "variant":  "34",
-        "price":  2.7,
+        "issue":  "44",
+        "variant":  "44",
+        "price":  2.9,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -2117,7 +1912,7 @@
         "variant":  "25",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "6-4-2015",
+        "rundate":  "13-4-2015",
         "site":  "Auction"
     },
     {
@@ -2129,7 +1924,7 @@
         "variant":  "BUFFY THE VAMPIRE SLAYER (2007) #23 (ONGOING) COVER A CHEW-C GRADE=NM",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314746526)\/",
+        "rundate":  "\/Date(1428917261496)\/",
         "site":  "The Comic Biz Store"
     },
     {
@@ -2141,392 +1936,8 @@
         "variant":  "STAR WARS: CHEWBACCA #1 (4 ISSUES) GRADE=NM 1/2 PRICE SALE! WAS ?2.25P NOW ?1.13P!",
         "price":  1.13,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314746526)\/",
+        "rundate":  "\/Date(1428917261496)\/",
         "site":  "The Comic Biz Store"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81853\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81853\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1787\u0026products_id=81853\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "STANDING",
-        "variant":  "GHOSTED #STANDING ORDER",
-        "price":  0.00,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314746727)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89903\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89903\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1861\u0026products_id=89903\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "17",
-        "variant":  "DEC140734 GHOSTED #17 (MR)",
-        "price":  2.40,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314746727)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92112\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92112\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=92112\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "19",
-        "variant":  "FEB150608 GHOSTED #19 (MR)",
-        "price":  2.40,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314746727)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=79729\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=79729\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=79729\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "11",
-        "variant":  "GHOSTED #11 (MR) [(W) Joshua Williamson (A) Miroslav Mrva, Davide Gianfelice (CA) Matteo Scalera]",
-        "price":  2.40,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314746727)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=80864\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=80864\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=80864\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "12",
-        "variant":  "GHOSTED #12 (MR) [(W) Joshua Williamson (A) Miroslav Mrva, Davide Gianfelice (CA) Dan Panosian]",
-        "price":  2.40,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314746727)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=83401\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=83401\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=83401\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "14",
-        "variant":  "GHOSTED #14 (MR) [(W) Joshua Williamson (A) Miroslav Mrva, Davide Gianfelice (CA) Dan Panosian]",
-        "price":  2.40,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314746727)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=85833\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=85833\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=85833\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "15",
-        "variant":  "GHOSTED #15 (MR) [(W) Joshua Williamson (A) Miroslav Mrva, Davide Gianfelice (CA) Dan Panosian]",
-        "price":  2.40,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314746727)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=76236\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=76236\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=28_35\u0026products_id=76236\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "9",
-        "variant":  "GHOSTED #9 [(W) Joshua Williamson (A) Miroslav Mrva, Davide Gianfelice (CA) Matteo Scalera]",
-        "price":  2.40,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314746727)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91053\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91053\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1901\u0026products_id=91053\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "18",
-        "variant":  "JAN150686 GHOSTED #18 (MR)",
-        "price":  2.40,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314746727)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=93375\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=93375\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=0\u0026products_id=93375\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "20",
-        "variant":  "MAR150564 GHOSTED #20 (MR)",
-        "price":  2.40,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314746727)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88525\u0026zenid=p8upjit25hl85tj35nuu9l9u46",
-        "url":  "\u003ca href=\"http://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88525\u0026zenid=p8upjit25hl85tj35nuu9l9u46\"\u003ehttp://amazing-fantasy-comics.com/shop/index.php?main_page=product_info\u0026cPath=237_1845\u0026products_id=88525\u0026zenid=p8upjit25hl85tj35nuu9l9u46\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "16",
-        "variant":  "NOV140654 GHOSTED #16 (MR)",
-        "price":  2.40,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314746727)\/",
-        "site":  "Comic book shop"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+Vol+1+Haunted+Hei_1299255",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+Vol+1+Haunted+Hei_1299255\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+Vol+1+Haunted+Hei_1299255\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "GHOSTED VOL 1 HAUNTED HEIST TP",
-        "variant":  "GHOSTED VOL 1 HAUNTED HEIST TP",
-        "price":  5.68283244,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+Vol+3+TP_1385243",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+Vol+3+TP_1385243\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+Vol+3+TP_1385243\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "GHOSTED VOL 3 TP",
-        "variant":  "GHOSTED VOL 3 TP",
-        "price":  7.38969024,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%231+Cover+B+2nd+Pt_1291790",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%231+Cover+B+2nd+Pt_1291790\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%231+Cover+B+2nd+Pt_1291790\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "1",
-        "variant":  "1 COVER B 2ND PTG",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%231+1st+Ptg_1267977",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%231+1st+Ptg_1267977\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%231+1st+Ptg_1267977\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "1",
-        "variant":  "1 1ST PTG",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%232+Cover+B+2nd+Pt_1298472",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%232+Cover+B+2nd+Pt_1298472\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%232+Cover+B+2nd+Pt_1298472\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "2",
-        "variant":  "2 COVER B 2ND PTG",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%233+2nd+Ptg_1304047",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%233+2nd+Ptg_1304047\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%233+2nd+Ptg_1304047\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "3",
-        "variant":  "3 2ND PTG",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%233+1st+Ptg_1281108",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%233+1st+Ptg_1281108\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%233+1st+Ptg_1281108\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "3",
-        "variant":  "3 1ST PTG",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%234+Cover+B+2nd+Pt_1312759",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%234+Cover+B+2nd+Pt_1312759\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%234+Cover+B+2nd+Pt_1312759\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "4",
-        "variant":  "4 COVER B 2ND PTG",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%236_1305946",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%236_1305946\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%236_1305946\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "6",
-        "variant":  "6",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%237_1312940",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%237_1312940\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%237_1312940\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "7",
-        "variant":  "7",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%238_1320068",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%238_1320068\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%238_1320068\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "8",
-        "variant":  "8",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2310_1332850",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2310_1332850\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2310_1332850\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "10",
-        "variant":  "10",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2311_1346911",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2311_1346911\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2311_1346911\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "11",
-        "variant":  "11",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2312_1353786",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2312_1353786\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2312_1353786\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "12",
-        "variant":  "12",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2313_1362650",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2313_1362650\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2313_1362650\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "13",
-        "variant":  "13",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2314_1368882",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2314_1368882\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2314_1368882\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "14",
-        "variant":  "14",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2315_1376485",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2315_1376485\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2315_1376485\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "15",
-        "variant":  "15",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2316_1392108",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2316_1392108\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2316_1392108\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "16",
-        "variant":  "16",
-        "price":  2.00137444,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2317_1400345",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2317_1400345\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2317_1400345\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "17",
-        "variant":  "17",
-        "price":  1.70016424,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2318_1405931",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2318_1405931\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=Ghosted+%2318_1405931\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "18",
-        "variant":  "18",
-        "price":  1.70016424,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
-    },
-    {
-        "link":  "http://www.midtowncomics.com/store/dp.asp?PRID=GHOSTED+%2320+%28MR%29_1420229",
-        "url":  "\u003ca href=\"http://www.midtowncomics.com/store/dp.asp?PRID=GHOSTED+%2320+%28MR%29_1420229\"\u003ehttp://www.midtowncomics.com/store/dp.asp?PRID=GHOSTED+%2320+%28MR%29_1420229\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "CHEW",
-        "issue":  "20",
-        "variant":  "20 (MR)",
-        "price":  1.29855064,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314751598)\/",
-        "site":  "Midtown"
     },
     {
         "link":  "https://www.inter-comics.com/shop/chew-29",
@@ -2537,7 +1948,7 @@
         "variant":  "29",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2549,7 +1960,7 @@
         "variant":  "30",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2561,7 +1972,7 @@
         "variant":  "31",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2573,7 +1984,7 @@
         "variant":  "32",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2585,7 +1996,7 @@
         "variant":  "33",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2597,7 +2008,7 @@
         "variant":  "34",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2609,7 +2020,7 @@
         "variant":  "38",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2621,7 +2032,7 @@
         "variant":  "40",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2633,7 +2044,7 @@
         "variant":  "41",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2645,7 +2056,7 @@
         "variant":  "42",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2657,7 +2068,7 @@
         "variant":  "44",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2669,7 +2080,7 @@
         "variant":  "46",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2681,7 +2092,7 @@
         "variant":  "47",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2693,7 +2104,7 @@
         "variant":  "48",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2705,7 +2116,7 @@
         "variant":  "49",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2717,7 +2128,7 @@
         "variant":  "50",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314759446)\/",
+        "rundate":  "\/Date(1428917273921)\/",
         "site":  "Intercomics"
     },
     {
@@ -2729,7 +2140,7 @@
         "variant":  "1",
         "price":  2.20,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314761686)\/",
+        "rundate":  "\/Date(1428917281595)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2741,7 +2152,7 @@
         "variant":  "1",
         "price":  2.20,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314761686)\/",
+        "rundate":  "\/Date(1428917281595)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2753,7 +2164,7 @@
         "variant":  "2",
         "price":  2.20,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314761686)\/",
+        "rundate":  "\/Date(1428917281595)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2765,7 +2176,7 @@
         "variant":  "1",
         "price":  2.20,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314761686)\/",
+        "rundate":  "\/Date(1428917281595)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2777,7 +2188,7 @@
         "variant":  "1",
         "price":  2.20,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314761686)\/",
+        "rundate":  "\/Date(1428917281595)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2789,7 +2200,7 @@
         "variant":  "2",
         "price":  2.20,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314761686)\/",
+        "rundate":  "\/Date(1428917281595)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2801,7 +2212,7 @@
         "variant":  "1",
         "price":  2.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314761686)\/",
+        "rundate":  "\/Date(1428917281595)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2813,7 +2224,7 @@
         "variant":  "1",
         "price":  2.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314761686)\/",
+        "rundate":  "\/Date(1428917281595)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2825,7 +2236,7 @@
         "variant":  "1",
         "price":  2.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314761686)\/",
+        "rundate":  "\/Date(1428917281595)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2837,7 +2248,7 @@
         "variant":  "3",
         "price":  2.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314761686)\/",
+        "rundate":  "\/Date(1428917281595)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2849,7 +2260,7 @@
         "variant":  "1",
         "price":  2.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314761686)\/",
+        "rundate":  "\/Date(1428917281595)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2861,7 +2272,7 @@
         "variant":  "2",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1428314761686)\/",
+        "rundate":  "\/Date(1428917281595)\/",
         "site":  "The Comic Guru"
     }
 ]
