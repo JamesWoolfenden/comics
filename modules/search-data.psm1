@@ -53,15 +53,15 @@ function Add-SearchData
    #>
 
    Param(
-   [Parameter(Mandatory=$true)]
-   [string]$title=$title.ToUpper(),
-   [string[]]$include=@(""),
-   [string[]]$exclude=@(""),
-   [string]$comictitle,
-   [string]$productcode,
-   [string[]]$category=@("8077"),
-   [switch]$Enabled,
-   [switch]$duplicate)
+	[Parameter(Mandatory=$true)]
+	[string]$title=$title.ToUpper(),
+	[string[]]$include=@(""),
+	[string[]]$exclude=@(""),
+	[string]$comictitle,
+	[string]$productcode,
+	[string[]]$category=@("8077"),
+	[switch]$Enabled,
+	[switch]$duplicate)
    
    [boolean]$searchEnabled=$false|out-null
    
@@ -86,39 +86,38 @@ function Add-SearchData
 
 function Set-SearchData
 {  
-  <#
-      .SYNOPSIS 
-       updates an item to the scan search db
-           
-      .PARAMETER title
-    Specifies the comic title.
-      .PARAMETER include
-    Optional  specifies any additional search strings.
-      .PARAMETER exclude
-    Optional specifies any terms to exclude by
-      .PARAMETER comictitle
-    An alterative title 
-      .PARAMETER category
-    An optional ebid category parameter 
-      .PARAMETER Enabled
-    Enables or Disables its use in the scan
-        
-      .EXAMPLE
-      C:\PS> add-searchdata -title "The Walking Dead" -exclude "Poster" -include "Image"
-     
-   #>
+	<#
+	    .SYNOPSIS 
+	     updates an item to the scan search db
+	         
+	    .PARAMETER title
+	  Specifies the comic title.
+	    .PARAMETER include
+	  Optional  specifies any additional search strings.
+	    .PARAMETER exclude
+	  Optional specifies any terms to exclude by
+	    .PARAMETER comictitle
+	  An alterative title 
+	    .PARAMETER category
+	  An optional ebid category parameter 
+	    .PARAMETER Enabled
+	  Enables or Disables its use in the scan
+	      
+	    .EXAMPLE
+	    C:\PS> add-searchdata -title "The Walking Dead" -exclude "Poster" -include "Image"
+	   
+	 #>
 
    Param(
-   [Parameter(Mandatory=$true)]
-   [string]$title,
-   [string]$include,
-   [string]$exclude,
-   [string]$comictitle,
-   [string]$productcode,
-   [string]$category,
-   [switch]$Enabled,
-   [switch]$Disabled
-   )
+	[Parameter(Mandatory=$true)]
+	[string]$title,
+	[string]$include,
+	[string]$exclude,
+	[string]$comictitle,
+	[string]$productcode,
+	[string]$category,
+	[switch]$Enabled,
+	[switch]$Disabled)
 
    $title=$title.ToUpper()
    $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
