@@ -1,0 +1,34 @@
+[
+    {
+        "Title":  "SOUTHERN CROSS",
+        "Issue":  "1A",
+        "Cover":  1,
+        "TotalCost":  "0.99",
+        "Mean":  0.99,
+        "AveragePrice":  0.99,
+        "CurrentPrice":  0.99,
+        "Minimum":  0.99,
+        "Maximum":  0.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730257018)\/"
+    },
+    {
+        "Title":  "SOUTHERN CROSS",
+        "Issue":  "1BIGBANG",
+        "Cover":  1,
+        "TotalCost":  "1.50",
+        "Mean":  1.5,
+        "AveragePrice":  1.5,
+        "CurrentPrice":  1.5,
+        "Minimum":  1.5,
+        "Maximum":  1.5,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730257142)\/"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Title":  "RASPUTIN",
+        "Issue":  "1A",
+        "Cover":  1,
+        "TotalCost":  "3.28",
+        "Mean":  3.28,
+        "AveragePrice":  1.7575,
+        "CurrentPrice":  1.7575,
+        "Minimum":  0.99,
+        "Maximum":  3.55,
+        "Count":  4,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730197074)\/"
+    },
+    {
+        "Title":  "RASPUTIN",
+        "Issue":  "SET",
+        "Cover":  0,
+        "TotalCost":  "4.19",
+        "Mean":  4.186,
+        "AveragePrice":  3.136,
+        "CurrentPrice":  3.136,
+        "Minimum":  1.1,
+        "Maximum":  5.18,
+        "Count":  5,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730197370)\/"
+    }
+]

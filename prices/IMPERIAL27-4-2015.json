@@ -1,0 +1,50 @@
+[
+    {
+        "Title":  "IMPERIAL",
+        "Issue":  "1",
+        "Cover":  1,
+        "TotalCost":  "2.49",
+        "Mean":  2.49,
+        "AveragePrice":  0.99,
+        "CurrentPrice":  0.99,
+        "Minimum":  0.99,
+        "Maximum":  0.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430125326743)\/"
+    },
+    {
+        "Title":  "IMPERIAL",
+        "Issue":  "2",
+        "Cover":  2,
+        "TotalCost":  "2.25",
+        "Mean":  2.25,
+        "AveragePrice":  2.25,
+        "CurrentPrice":  2.25,
+        "Minimum":  2.25,
+        "Maximum":  2.25,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430125326885)\/"
+    },
+    {
+        "Title":  "IMPERIAL",
+        "Issue":  "SET",
+        "Cover":  0,
+        "TotalCost":  "5.99",
+        "Mean":  5.99,
+        "AveragePrice":  5.99,
+        "CurrentPrice":  5.99,
+        "Minimum":  5.99,
+        "Maximum":  5.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430125327030)\/"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Title":  "GODKILLER WALK AMONG US",
+        "Issue":  "1C",
+        "Cover":  1,
+        "TotalCost":  "1.98",
+        "Mean":  1.98,
+        "AveragePrice":  0.99,
+        "CurrentPrice":  0.99,
+        "Minimum":  0.99,
+        "Maximum":  0.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730117501)\/"
+    },
+    {
+        "Title":  "GODKILLER WALK AMONG US",
+        "Issue":  "1PHANTOM",
+        "Cover":  1,
+        "TotalCost":  "6.49",
+        "Mean":  6.49,
+        "AveragePrice":  4.99,
+        "CurrentPrice":  4.99,
+        "Minimum":  4.99,
+        "Maximum":  4.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730117624)\/"
+    }
+]

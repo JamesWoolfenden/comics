@@ -1,0 +1,50 @@
+[
+    {
+        "Title":  "SCENE OF THE CRIME",
+        "Issue":  "HARDBACK",
+        "Cover":  0,
+        "TotalCost":  "11.81",
+        "Mean":  11.809999999999999,
+        "AveragePrice":  8.61,
+        "CurrentPrice":  8.61,
+        "Minimum":  8.61,
+        "Maximum":  8.61,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730234993)\/"
+    },
+    {
+        "Title":  "SCENE OF THE CRIME",
+        "Issue":  "SET",
+        "Cover":  0,
+        "TotalCost":  "5.45",
+        "Mean":  5.45,
+        "AveragePrice":  3.6666666666666665,
+        "CurrentPrice":  3.6666666666666665,
+        "Minimum":  2.7,
+        "Maximum":  4.3,
+        "Count":  3,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730235133)\/"
+    },
+    {
+        "Title":  "SCENE OF THE CRIME",
+        "Issue":  "VOL",
+        "Cover":  0,
+        "TotalCost":  "6.00",
+        "Mean":  6,
+        "AveragePrice":  4,
+        "CurrentPrice":  4,
+        "Minimum":  4,
+        "Maximum":  4,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730235258)\/"
+    }
+]

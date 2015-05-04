@@ -1,0 +1,50 @@
+[
+    {
+        "Title":  "ROCHE LIMIT",
+        "Issue":  "1",
+        "Cover":  1,
+        "TotalCost":  "1.83",
+        "Mean":  1.83,
+        "AveragePrice":  1.43,
+        "CurrentPrice":  1.43,
+        "Minimum":  0.99,
+        "Maximum":  2.3,
+        "Count":  3,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430125428797)\/"
+    },
+    {
+        "Title":  "ROCHE LIMIT",
+        "Issue":  "3",
+        "Cover":  3,
+        "TotalCost":  "4.00",
+        "Mean":  4,
+        "AveragePrice":  1,
+        "CurrentPrice":  1,
+        "Minimum":  1,
+        "Maximum":  1,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430125428944)\/"
+    },
+    {
+        "Title":  "ROCHE LIMIT",
+        "Issue":  "SET",
+        "Cover":  0,
+        "TotalCost":  "8.45",
+        "Mean":  8.4500000000000011,
+        "AveragePrice":  5.6633333333333331,
+        "CurrentPrice":  5.663333333333334,
+        "Minimum":  0.99,
+        "Maximum":  10,
+        "Count":  3,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430125429115)\/"
+    }
+]

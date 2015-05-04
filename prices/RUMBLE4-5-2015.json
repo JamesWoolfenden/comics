@@ -1,0 +1,50 @@
+[
+    {
+        "Title":  "RUMBLE",
+        "Issue":  "1A",
+        "Cover":  1,
+        "TotalCost":  "2.30",
+        "Mean":  2.3,
+        "AveragePrice":  2.3,
+        "CurrentPrice":  2.3,
+        "Minimum":  2.3,
+        "Maximum":  2.3,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730221093)\/"
+    },
+    {
+        "Title":  "RUMBLE",
+        "Issue":  "3",
+        "Cover":  3,
+        "TotalCost":  "2.34",
+        "Mean":  2.34,
+        "AveragePrice":  0.99,
+        "CurrentPrice":  0.99,
+        "Minimum":  0.99,
+        "Maximum":  0.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730221218)\/"
+    },
+    {
+        "Title":  "RUMBLE",
+        "Issue":  "SET",
+        "Cover":  0,
+        "TotalCost":  "4.71",
+        "Mean":  4.7133333333333338,
+        "AveragePrice":  2.8883333333333332,
+        "CurrentPrice":  3.268,
+        "Minimum":  0.99,
+        "Maximum":  4.99,
+        "Count":  6,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730221405)\/"
+    }
+]
