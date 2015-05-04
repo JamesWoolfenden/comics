@@ -3,8 +3,8 @@
     "Issue":  "1",
     "Cover":  1,
     "TotalCost":  "3.32",
-    "Mean":  3.3225000000000002,
-    "AveragePrice":  2.225,
+    "Mean":  3.3225,
+    "AveragePrice":  2.2249999999999996,
     "CurrentPrice":  2.225,
     "Minimum":  1.2,
     "Maximum":  3.11,
@@ -12,5 +12,5 @@
     "AveragePaid":  2.1,
     "AverageNetPaid":  2.1,
     "Stock":  1,
-    "Date":  "\/Date(1429520690236)\/"
+    "Date":  "\/Date(1430730274540)\/"
 }

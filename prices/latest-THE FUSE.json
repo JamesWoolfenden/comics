@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520694323)\/"
+        "Date":  "\/Date(1430730278404)\/"
     },
     {
         "Title":  "THE FUSE",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  2,
-        "Date":  "\/Date(1429520694511)\/"
+        "Date":  "\/Date(1430730278570)\/"
     },
     {
         "Title":  "THE FUSE",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520694663)\/"
+        "Date":  "\/Date(1430730278701)\/"
     },
     {
         "Title":  "THE FUSE",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520694819)\/"
+        "Date":  "\/Date(1430730278843)\/"
     },
     {
         "Title":  "THE FUSE",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520694991)\/"
+        "Date":  "\/Date(1430730279009)\/"
     },
     {
         "Title":  "THE FUSE",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520695162)\/"
+        "Date":  "\/Date(1430730279142)\/"
     },
     {
         "Title":  "THE FUSE",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520695317)\/"
+        "Date":  "\/Date(1430730279267)\/"
     },
     {
         "Title":  "THE FUSE",
@@ -125,7 +125,7 @@
         "AveragePaid":  3.55,
         "AverageNetPaid":  3.55,
         "Stock":  1,
-        "Date":  "\/Date(1429520695476)\/"
+        "Date":  "\/Date(1430730279405)\/"
     },
     {
         "Title":  "THE FUSE",
@@ -141,22 +141,22 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520695633)\/"
+        "Date":  "\/Date(1430730279535)\/"
     },
     {
         "Title":  "THE FUSE",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "4.85",
-        "Mean":  4.8464285714285706,
-        "AveragePrice":  2.9935714285714288,
-        "CurrentPrice":  3.3880000000000003,
+        "TotalCost":  "4.86",
+        "Mean":  4.8553333333333333,
+        "AveragePrice":  2.9919999999999995,
+        "CurrentPrice":  3.0300000000000002,
         "Minimum":  0.99,
         "Maximum":  8.99,
-        "Count":  14,
+        "Count":  15,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520695814)\/"
+        "Date":  "\/Date(1430730279726)\/"
     }
 ]

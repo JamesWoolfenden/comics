@@ -13,7 +13,7 @@
         "AveragePaid":  2.09,
         "AverageNetPaid":  0.99,
         "Stock":  1,
-        "Date":  "\/Date(1429520576870)\/"
+        "Date":  "\/Date(1430730162811)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -29,15 +29,15 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520577019)\/"
+        "Date":  "\/Date(1430730162929)\/"
     },
     {
         "Title":  "MIND THE GAP",
         "Issue":  "11A",
         "Cover":  11,
         "TotalCost":  "2.30",
-        "Mean":  2.2975000000000003,
-        "AveragePrice":  1.7975,
+        "Mean":  2.2975,
+        "AveragePrice":  1.7974999999999999,
         "CurrentPrice":  1.7974999999999999,
         "Minimum":  0.99,
         "Maximum":  2.1,
@@ -45,7 +45,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1429520577182)\/"
+        "Date":  "\/Date(1430730163061)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.3,
         "AverageNetPaid":  1.2,
         "Stock":  1,
-        "Date":  "\/Date(1429520577329)\/"
+        "Date":  "\/Date(1430730163184)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -77,7 +77,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520577521)\/"
+        "Date":  "\/Date(1430730163316)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -93,7 +93,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1429520577674)\/"
+        "Date":  "\/Date(1430730163449)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -109,7 +109,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520577845)\/"
+        "Date":  "\/Date(1430730163580)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -125,7 +125,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520578016)\/"
+        "Date":  "\/Date(1430730163728)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -141,7 +141,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520578186)\/"
+        "Date":  "\/Date(1430730163898)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520578370)\/"
+        "Date":  "\/Date(1430730164054)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -173,7 +173,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520578513)\/"
+        "Date":  "\/Date(1430730164188)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -189,7 +189,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1429520578669)\/"
+        "Date":  "\/Date(1430730164317)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -205,7 +205,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520578838)\/"
+        "Date":  "\/Date(1430730164463)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -221,7 +221,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1429520578989)\/"
+        "Date":  "\/Date(1430730164593)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -237,7 +237,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1429520579176)\/"
+        "Date":  "\/Date(1430730164762)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -253,14 +253,14 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1429520579342)\/"
+        "Date":  "\/Date(1430730164909)\/"
     },
     {
         "Title":  "MIND THE GAP",
         "Issue":  "1A",
         "Cover":  1,
         "TotalCost":  "4.33",
-        "Mean":  4.330625,
+        "Mean":  4.3306249999999995,
         "AveragePrice":  2.694375,
         "CurrentPrice":  3.09,
         "Minimum":  0.165,
@@ -269,7 +269,7 @@
         "AveragePaid":  0.665,
         "AverageNetPaid":  0.165,
         "Stock":  1,
-        "Date":  "\/Date(1429520579533)\/"
+        "Date":  "\/Date(1430730165074)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -277,7 +277,7 @@
         "Cover":  1,
         "TotalCost":  "3.18",
         "Mean":  3.18,
-        "AveragePrice":  1.8845454545454543,
+        "AveragePrice":  1.8845454545454545,
         "CurrentPrice":  2.0900000000000003,
         "Minimum":  0.49,
         "Maximum":  6.99,
@@ -285,7 +285,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1429520579730)\/"
+        "Date":  "\/Date(1430730165270)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -301,7 +301,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520579876)\/"
+        "Date":  "\/Date(1430730165393)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -317,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520580025)\/"
+        "Date":  "\/Date(1430730165520)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -325,7 +325,7 @@
         "Cover":  2,
         "TotalCost":  "2.10",
         "Mean":  2.1012500000000003,
-        "AveragePrice":  1.50125,
+        "AveragePrice":  1.5012500000000002,
         "CurrentPrice":  1.5012500000000002,
         "Minimum":  0.165,
         "Maximum":  2.1,
@@ -333,14 +333,14 @@
         "AveragePaid":  1.6216666666666668,
         "AverageNetPaid":  1.455,
         "Stock":  3,
-        "Date":  "\/Date(1429520580209)\/"
+        "Date":  "\/Date(1430730165662)\/"
     },
     {
         "Title":  "MIND THE GAP",
         "Issue":  "2B",
         "Cover":  2,
         "TotalCost":  "3.47",
-        "Mean":  3.4659999999999997,
+        "Mean":  3.466,
         "AveragePrice":  2.306,
         "CurrentPrice":  2.306,
         "Minimum":  0.99,
@@ -349,7 +349,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520580394)\/"
+        "Date":  "\/Date(1430730165816)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -365,7 +365,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520580556)\/"
+        "Date":  "\/Date(1430730165947)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -381,14 +381,14 @@
         "AveragePaid":  1.6216666666666668,
         "AverageNetPaid":  1.455,
         "Stock":  3,
-        "Date":  "\/Date(1429520580736)\/"
+        "Date":  "\/Date(1430730166114)\/"
     },
     {
         "Title":  "MIND THE GAP",
         "Issue":  "3B",
         "Cover":  3,
         "TotalCost":  "5.56",
-        "Mean":  5.5585714285714278,
+        "Mean":  5.5585714285714287,
         "AveragePrice":  5.1157142857142857,
         "CurrentPrice":  5.974,
         "Minimum":  1.99,
@@ -397,14 +397,14 @@
         "AveragePaid":  3.09,
         "AverageNetPaid":  1.99,
         "Stock":  1,
-        "Date":  "\/Date(1429520580942)\/"
+        "Date":  "\/Date(1430730166257)\/"
     },
     {
         "Title":  "MIND THE GAP",
         "Issue":  "4A",
         "Cover":  4,
         "TotalCost":  "1.92",
-        "Mean":  1.9183333333333337,
+        "Mean":  1.9183333333333332,
         "AveragePrice":  1.085,
         "CurrentPrice":  1.085,
         "Minimum":  0.165,
@@ -413,7 +413,7 @@
         "AveragePaid":  1.3825,
         "AverageNetPaid":  1.1325,
         "Stock":  2,
-        "Date":  "\/Date(1429520581100)\/"
+        "Date":  "\/Date(1430730166393)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -429,7 +429,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520581299)\/"
+        "Date":  "\/Date(1430730166524)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -445,7 +445,7 @@
         "AveragePaid":  1.6216666666666668,
         "AverageNetPaid":  1.455,
         "Stock":  3,
-        "Date":  "\/Date(1429520581463)\/"
+        "Date":  "\/Date(1430730166654)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -461,7 +461,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520581615)\/"
+        "Date":  "\/Date(1430730166788)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -477,7 +477,7 @@
         "AveragePaid":  1.3825,
         "AverageNetPaid":  1.1325,
         "Stock":  2,
-        "Date":  "\/Date(1429520581783)\/"
+        "Date":  "\/Date(1430730166924)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -493,7 +493,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520581948)\/"
+        "Date":  "\/Date(1430730167067)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -509,7 +509,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520582091)\/"
+        "Date":  "\/Date(1430730167188)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -525,7 +525,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520582250)\/"
+        "Date":  "\/Date(1430730167316)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -541,7 +541,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520582397)\/"
+        "Date":  "\/Date(1430730167438)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -557,7 +557,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520582542)\/"
+        "Date":  "\/Date(1430730167566)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -573,15 +573,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520582687)\/"
+        "Date":  "\/Date(1430730167688)\/"
     },
     {
         "Title":  "MIND THE GAP",
         "Issue":  "SET",
         "Cover":  0,
         "TotalCost":  "7.01",
-        "Mean":  7.00892857142857,
-        "AveragePrice":  4.0464285714285708,
+        "Mean":  7.0089285714285694,
+        "AveragePrice":  4.0464285714285717,
         "CurrentPrice":  2.696,
         "Minimum":  0.99,
         "Maximum":  14.5,
@@ -589,7 +589,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520582904)\/"
+        "Date":  "\/Date(1430730167882)\/"
     },
     {
         "Title":  "MIND THE GAP",
@@ -605,6 +605,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520583053)\/"
+        "Date":  "\/Date(1430730168004)\/"
     }
 ]

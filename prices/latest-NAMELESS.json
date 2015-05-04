@@ -6,14 +6,14 @@
         "TotalCost":  "3.69",
         "Mean":  3.69,
         "AveragePrice":  1.9583333333333333,
-        "CurrentPrice":  1.8699999999999999,
+        "CurrentPrice":  1.952,
         "Minimum":  0.7,
         "Maximum":  3,
         "Count":  6,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520591863)\/"
+        "Date":  "\/Date(1430730175952)\/"
     },
     {
         "Title":  "NAMELESS",
@@ -22,30 +22,30 @@
         "TotalCost":  "3.60",
         "Mean":  3.596,
         "AveragePrice":  2.021,
-        "CurrentPrice":  1.8379999999999999,
+        "CurrentPrice":  1.8380000000000003,
         "Minimum":  0.99,
         "Maximum":  4,
         "Count":  10,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520592057)\/"
+        "Date":  "\/Date(1430730176155)\/"
     },
     {
         "Title":  "NAMELESS",
         "Issue":  "1NEWBURY",
         "Cover":  1,
-        "TotalCost":  "7.94",
-        "Mean":  7.9419999999999984,
-        "AveragePrice":  4.942,
-        "CurrentPrice":  4.942,
+        "TotalCost":  "8.37",
+        "Mean":  8.3683333333333341,
+        "AveragePrice":  5.3683333333333332,
+        "CurrentPrice":  5.142,
         "Minimum":  2.2,
         "Maximum":  9.51,
-        "Count":  5,
+        "Count":  6,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520592245)\/"
+        "Date":  "\/Date(1430730176303)\/"
     },
     {
         "Title":  "NAMELESS",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520592392)\/"
+        "Date":  "\/Date(1430730176429)\/"
     },
     {
         "Title":  "NAMELESS",
@@ -77,6 +77,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520592585)\/"
+        "Date":  "\/Date(1430730176572)\/"
     }
 ]

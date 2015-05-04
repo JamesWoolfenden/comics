@@ -508,6 +508,32 @@
     },
     {
         "image":  {
+                      "alt":  "BITCH PLANET #4",
+                      "href":  "http://shop.comicxposure.com/BITCH-PLANET-4-JAN150670D.htm",
+                      "src":  "http://shop.comicxposure.com/images/1429758279182-1205500779.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$3.50",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/BITCH-PLANET-4-JAN150670D.htm",
+                      "text":  "BITCH PLANET #4"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "BITCH PLANET #5",
+                      "href":  "http://shop.comicxposure.com/BITCH-PLANET-5-FEB150593.htm",
+                      "src":  "http://shop.comicxposure.com/images/14299860164201935540149.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$2.80",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/BITCH-PLANET-5-FEB150593.htm",
+                      "text":  "BITCH PLANET #5"
+                  }
+    },
+    {
+        "image":  {
                       "alt":  "Black Science #10",
                       "href":  "http://shop.comicxposure.com/Black-Science-10-AUG140638.htm",
                       "src":  "http://shop.comicxposure.com/images/1414128928688-946927700.jpeg",
@@ -526,7 +552,7 @@
                       "src":  "http://shop.comicxposure.com/images/1418878994898-1058106649.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.80",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/COWL-7-OCT140732.htm",
                       "text":  "C.O.W.L. #7"
@@ -539,7 +565,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413682324041-1496034797.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.80",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Chew-3-3rd-Ptg-JUL098324.htm",
                       "text":  "Chew #3 3rd Ptg"
@@ -565,7 +591,7 @@
                       "src":  "http://shop.comicxposure.com/images/1414724340393726220546.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.80",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Chew-44-JUL140536.htm",
                       "text":  "Chew #44"
@@ -578,7 +604,7 @@
                       "src":  "http://shop.comicxposure.com/images/1417108970312903065772.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.80",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Chew-45-AUG140639.htm",
                       "text":  "Chew #45"
@@ -591,7 +617,7 @@
                       "src":  "http://shop.comicxposure.com/images/1414621224030-1991965042.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.36",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Chew-Revival-1-Cover-A-Regular-Rob-Guillory-Jenny-Frison-CV-MAR140497.htm",
                       "text":  "Chew / Revival #1 Cover A Regular Rob Guillory \u0026 Jenny Frison CV"
@@ -604,7 +630,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413572831726854182126.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.80",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Chew-Warrior-Chicken-Poyo-1-2nd-Ptg-Rob-Guillory-Variant-Cover-JUN148318.htm",
                       "text":  "Chew Warrior Chicken Poyo #1 2nd Ptg Rob Guillory Variant Cover"
@@ -617,7 +643,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413572577625-1468234073.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.62",
+        "price":  "$3.36",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Chew-Warrior-Chicken-Poyo-1-Cover-A-1st-Ptg-MAY140608.htm",
                       "text":  "Chew Warrior Chicken Poyo #1 Cover A 1st Ptg"
@@ -630,7 +656,7 @@
                       "src":  "http://shop.comicxposure.com/images/CHRONONAUTS%20%231%202ND%20PTG.jpg",
                       "text":  ""
                   },
-        "price":  "$4.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/CHRONONAUTS-1-2ND-PTG-FEB158277D.htm",
                       "text":  "CHRONONAUTS #1 2ND PTG"
@@ -643,7 +669,7 @@
                       "src":  "http://shop.comicxposure.com/images/1426461077655242276733.jpeg",
                       "text":  ""
                   },
-        "price":  "$4.99",
+        "price":  "$2.62",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Chrononauts-1-Cover-A-JAN150560.htm",
                       "text":  "Chrononauts #1 Cover A"
@@ -656,7 +682,7 @@
                       "src":  "http://shop.comicxposure.com/images/1426461226151226832912.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$4.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Chrononauts-1-Cover-B-JAN150561.htm",
                       "text":  "Chrononauts #1 Cover B"
@@ -669,7 +695,7 @@
                       "src":  "http://shop.comicxposure.com/images/1426461306097-667717262.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.49",
+        "price":  "$4.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Chrononauts-1-Cover-C-JAN150562.htm",
                       "text":  "Chrononauts #1 Cover C"
@@ -682,7 +708,7 @@
                       "src":  "http://shop.comicxposure.com/images/1426461366133-113982217.jpeg",
                       "text":  ""
                   },
-        "price":  "$5.99",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Chrononauts-1-Cover-D-JAN150563.htm",
                       "text":  "Chrononauts #1 Cover D"
@@ -695,7 +721,7 @@
                       "src":  "http://shop.comicxposure.com/images/1426461437716313019138.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.49",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Chrononauts-1-Cover-E-JAN150564.htm",
                       "text":  "Chrononauts #1 Cover E"
@@ -708,7 +734,7 @@
                       "src":  "http://shop.comicxposure.com/images/1426461504461-778620068.jpeg",
                       "text":  ""
                   },
-        "price":  "$4.99",
+        "price":  "$5.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Chrononauts-1-Cover-F-JAN150565.htm",
                       "text":  "Chrononauts #1 Cover F"
@@ -734,7 +760,7 @@
                       "src":  "http://shop.comicxposure.com/images/1428644728928-20714708.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$4.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/CHRONONAUTS-2-CVR-B-MURPHY-FEB158100.htm",
                       "text":  "CHRONONAUTS #2 CVR B MURPHY"
@@ -747,7 +773,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413575285790-1297392372.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.80",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Copperhead-1-Cover-A-1st-Ptg-JUL140436.htm",
                       "text":  "Copperhead #1 Cover A 1st Ptg"
@@ -903,7 +929,7 @@
                       "src":  "http://shop.comicxposure.com/images/14124474068022114264007.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.80",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Dark-Engine-2-JUN140545.htm",
                       "text":  "Dark Engine #2"
@@ -916,7 +942,7 @@
                       "src":  "http://shop.comicxposure.com/images/1416531655519-1019346088.jpeg",
                       "text":  ""
                   },
-        "price":  "$4.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Dark-Engine-4-AUG140640.htm",
                       "text":  "Dark Engine #4"
@@ -942,7 +968,7 @@
                       "src":  "http://shop.comicxposure.com/images/1416079365414-2104568656.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$4.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Dead-At-17-Blasphemy-Throne-4-SEP140714.htm",
                       "text":  "Dead At 17 Blasphemy Throne #4"
@@ -968,7 +994,7 @@
                       "src":  "http://shop.comicxposure.com/images/DEC140725D.jpg",
                       "text":  ""
                   },
-        "price":  "$2.80",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/DEAD-AT-17-BLASPHEMY-THRONE-7-DEC140725D.htm",
                       "text":  "DEAD AT 17 BLASPHEMY THRONE #7"
@@ -994,7 +1020,7 @@
                       "src":  "http://shop.comicxposure.com/images/14136824185841072633773.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.80",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Dead17-Afterbirth-3-JUN090377.htm",
                       "text":  "Dead@17 Afterbirth #3"
@@ -1007,7 +1033,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413584644371702887765.jpeg",
                       "text":  ""
                   },
-        "price":  "$5.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Dead17-Afterbirth-4-JUL090391.htm",
                       "text":  "Dead@17 Afterbirth #4"
@@ -1020,7 +1046,7 @@
                       "src":  "http://shop.comicxposure.com/images/1412443472538606752840.jpeg",
                       "text":  ""
                   },
-        "price":  "$4.79",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Dead17-Blasphemy-Throne-1-JUN140473.htm",
                       "text":  "Dead@17 Blasphemy Throne #1"
@@ -1033,7 +1059,7 @@
                       "src":  "http://shop.comicxposure.com/images/14135836396651892753353.jpeg",
                       "text":  ""
                   },
-        "price":  "$4.99",
+        "price":  "$5.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Dead17-Blasphemy-Throne-1-Comic-Con-Edition-Con1701.htm",
                       "text":  "Dead@17 Blasphemy Throne #1 Comic Con Edition"
@@ -1046,7 +1072,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413581036413-2047770031.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$4.79",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Dead17-Blasphemy-Throne-2-JUL1405412.htm",
                       "text":  "Dead@17 Blasphemy Throne #2"
@@ -1059,7 +1085,7 @@
                       "src":  "http://shop.comicxposure.com/images/14136854214811095726728.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$4.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Dead17-Blasphemy-Throne-3-AUG140641.htm",
                       "text":  "Dead@17 Blasphemy Throne #3"
@@ -1098,7 +1124,7 @@
                       "src":  "http://shop.comicxposure.com/images/14135852463781781958677.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Dead17-The-Witch-Queen-2-Dea02.htm",
                       "text":  "Dead@17 The Witch Queen #2"
@@ -1111,7 +1137,7 @@
                       "src":  "http://shop.comicxposure.com/images/dead%20%23a.jpg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Dead17-The-Witch-Queen-3-Dea03.htm",
                       "text":  "Dead@17 The Witch Queen #3"
@@ -1137,7 +1163,7 @@
                       "src":  "http://shop.comicxposure.com/images/1420321033464-1075601262.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Deadly-Class-10-OCT140734.htm",
                       "text":  "Deadly Class #10"
@@ -1163,7 +1189,7 @@
                       "src":  "http://shop.comicxposure.com/images/14137702087132086329421.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Deadly-Class-8-AUG140642.htm",
                       "text":  "Deadly Class #8"
@@ -1176,7 +1202,7 @@
                       "src":  "http://shop.comicxposure.com/images/1416079476581-167055488.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.62",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Deadly-Class-9-SEP140715.htm",
                       "text":  "Deadly Class #9"
@@ -1189,7 +1215,7 @@
                       "src":  "http://shop.comicxposure.com/images/1415819671827105410186.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Death-Vigil-5-SEP140716.htm",
                       "text":  "Death Vigil #5"
@@ -1202,7 +1228,7 @@
                       "src":  "http://shop.comicxposure.com/images/1422315045570-1112698958.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$2.62",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Death-Vigil-6-OCT140735.htm",
                       "text":  "Death Vigil #6"
@@ -1215,7 +1241,7 @@
                       "src":  "http://shop.comicxposure.com/images/1423330153171-371994014.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Descender-1-CVR-A-JAN150567.htm",
                       "text":  "Descender #1 CVR A"
@@ -1241,7 +1267,7 @@
                       "src":  "http://shop.comicxposure.com/images/14233585269381064809885.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Descender-1-CVR-B-DEC148401.htm",
                       "text":  "Descender #1 CVR B"
@@ -1254,7 +1280,7 @@
                       "src":  "http://shop.comicxposure.com/images/1427779232801841660681.jpeg",
                       "text":  ""
                   },
-        "price":  "$29.99",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/DESCENDER-1-CVR-B-LEMIRE-VAR-DEC148401D.htm",
                       "text":  "DESCENDER #1 CVR B LEMIRE VAR"
@@ -1271,6 +1297,19 @@
         "title":  {
                       "href":  "http://shop.comicxposure.com/DESCENDER-2-FEB150601D.htm",
                       "text":  "DESCENDER #2"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "DESCENDER #3",
+                      "href":  "http://shop.comicxposure.com/DESCENDER-3-MAR150561D.htm",
+                      "src":  "http://shop.comicxposure.com/images/143050390799871734306.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$29.99",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/DESCENDER-3-MAR150561D.htm",
+                      "text":  "DESCENDER #3"
                   }
     },
     {
@@ -1293,7 +1332,7 @@
                       "src":  "http://shop.comicxposure.com/images/141244776203935215519.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Dream-Police-2-Cover-A-MAR140568.htm",
                       "text":  "Dream Police #2 Cover A"
@@ -1358,7 +1397,7 @@
                       "src":  "http://shop.comicxposure.com/images/1415821317673-1925971282.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Drifter-1-Cover-B-Esad-Ribic-SEP140547.htm",
                       "text":  "Drifter #1 Cover B Esad Ribic"
@@ -1371,7 +1410,7 @@
                       "src":  "http://shop.comicxposure.com/images/1415821396113-1257816575.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.80",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Drifter-1-Cover-C-Cliff-Chiang-SEP140548.htm",
                       "text":  "Drifter #1 Cover C Cliff Chiang"
@@ -1384,7 +1423,7 @@
                       "src":  "http://shop.comicxposure.com/images/1418333077216-1581419926.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.80",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Drifter-2-Cover-A-OCT140736.htm",
                       "text":  "Drifter #2 Cover A"
@@ -1423,7 +1462,7 @@
                       "src":  "http://shop.comicxposure.com/images/1427779242744-1534614984.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/DYING-AND-THE-DEAD-1-2ND-PTG-DEC148386D.htm",
                       "text":  "DYING AND THE DEAD #1 2ND PTG"
@@ -1440,6 +1479,19 @@
         "title":  {
                       "href":  "http://shop.comicxposure.com/DYING-AND-THE-DEAD-2-DEC140729D.htm",
                       "text":  "DYING AND THE DEAD #2"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "DYING AND THE DEAD #4",
+                      "href":  "http://shop.comicxposure.com/DYING-AND-THE-DEAD-4-FEB150602.htm",
+                      "src":  "http://shop.comicxposure.com/images/1429986231660-666013952.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$3.99",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/DYING-AND-THE-DEAD-4-FEB150602.htm",
+                      "text":  "DYING AND THE DEAD #4"
                   }
     },
     {
@@ -1553,7 +1605,7 @@
                       "src":  "http://shop.comicxposure.com/images/1420321138611960619061.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$2.39",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Fade-Out-4-SEP140717.htm",
                       "text":  "Fade Out #4"
@@ -1605,7 +1657,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413856480984-158986853.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/God-Hates-Astronauts-1-Cover-A-Regular-Ryan-Browne-Cover-JUL140440.htm",
                       "text":  "God Hates Astronauts #1 Cover A Regular Ryan Browne Cover"
@@ -1618,7 +1670,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413856203605693447229.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/God-Hates-Astronauts-1-Cover-B-Variant-Geof-Darrow-Cover-JUL140441.htm",
                       "text":  "God Hates Astronauts #1 Cover B Variant Geof Darrow Cover"
@@ -1670,7 +1722,7 @@
                       "src":  "http://shop.comicxposure.com/images/1414788048636-2063831520.jpeg",
                       "text":  ""
                   },
-        "price":  "$4.50",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/God-Hates-Astronauts-3-Cover-B-SEP140724.htm",
                       "text":  "God Hates Astronauts #3 Cover B"
@@ -1683,7 +1735,7 @@
                       "src":  "http://shop.comicxposure.com/images/1417109340073146341306.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.60",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/God-Hates-Astronauts-4-Cover-A-OCT140740.htm",
                       "text":  "God Hates Astronauts #4 Cover A"
@@ -1709,7 +1761,7 @@
                       "src":  "http://shop.comicxposure.com/images/1420321233543244242315.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.60",
         "title":  {
                       "href":  "http://shop.comicxposure.com/God-Hates-Astronauts-5-Cover-A-NOV140655.htm",
                       "text":  "God Hates Astronauts #5 Cover A"
@@ -1722,7 +1774,7 @@
                       "src":  "http://shop.comicxposure.com/images/00(49).jpg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$4.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/God-Hates-Astronauts-5-Cover-B-NOV140656.htm",
                       "text":  "God Hates Astronauts #5 Cover B"
@@ -1735,7 +1787,7 @@
                       "src":  "http://shop.comicxposure.com/images/1427779247054-1180047501.jpeg",
                       "text":  ""
                   },
-        "price":  "$19.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/GOD-HATES-ASTRONAUTS-6-CVR-A-JAN150687D.htm",
                       "text":  "GOD HATES ASTRONAUTS #6 CVR A"
@@ -1774,7 +1826,7 @@
                       "src":  "http://shop.comicxposure.com/images/FEB150610D.jpg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/GOD-HATES-ASTRONAUTS-7-CVR-B-FEB150610D.htm",
                       "text":  "GOD HATES ASTRONAUTS #7 CVR B"
@@ -1787,7 +1839,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413685712162805266065.jpeg",
                       "text":  ""
                   },
-        "price":  "$7.99",
+        "price":  "$19.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Goners-1-AUG140543.htm",
                       "text":  "Goners #1"
@@ -1800,7 +1852,7 @@
                       "src":  "http://shop.comicxposure.com/images/14183334961011791754298.jpeg",
                       "text":  ""
                   },
-        "price":  "$8.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Goners-3-OCT140742.htm",
                       "text":  "Goners #3"
@@ -1813,7 +1865,7 @@
                       "src":  "http://shop.comicxposure.com/images/1423786195422-239212721.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.80",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Goners-5-DEC140735.htm",
                       "text":  "Goners #5"
@@ -1839,7 +1891,7 @@
                       "src":  "http://shop.comicxposure.com/images/1418879255303-1800780381.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$7.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Graveyard-Shift-1-OCT140581.htm",
                       "text":  "Graveyard Shift #1"
@@ -1852,7 +1904,7 @@
                       "src":  "http://shop.comicxposure.com/images/14223152630741822933899.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.80",
+        "price":  "$8.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Graveyard-Shift-2-NOV140658.htm",
                       "text":  "Graveyard Shift #2"
@@ -1878,7 +1930,7 @@
                       "src":  "http://shop.comicxposure.com/images/JAN150690D.jpg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/GRAVEYARD-SHIFT-4-JAN150690D.htm",
                       "text":  "GRAVEYARD SHIFT #4"
@@ -1891,7 +1943,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413870870093-141726093.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.49",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Hack-Slash-13-HS13001.htm",
                       "text":  "Hack Slash #13"
@@ -1904,7 +1956,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413871142803102381124.jpeg",
                       "text":  ""
                   },
-        "price":  "$5.99",
+        "price":  "$2.80",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Hack-Slash-2-HS02001.htm",
                       "text":  "Hack Slash #2"
@@ -1917,7 +1969,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413870774005668649195.jpeg",
                       "text":  ""
                   },
-        "price":  "$5.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Hack-Slash-5-HS05001.htm",
                       "text":  "Hack Slash #5"
@@ -1930,7 +1982,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413870597019-131489470.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Hack-Slash-9-HS09001.htm",
                       "text":  "Hack Slash #9"
@@ -1943,7 +1995,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413869582469677247961.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.49",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Hack-Slash-Annual-2011-Hatchet-Slash-1-Cover-B-SEP110378.htm",
                       "text":  "Hack Slash Annual 2011 Hatchet Slash #1 Cover B"
@@ -1956,7 +2008,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413869745653-566297494.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$5.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Hack-Slash-My-First-Maniac-4-Cover-A-Tim-Seeley-JUL100444.htm",
                       "text":  "Hack Slash My First Maniac #4 Cover A Tim Seeley"
@@ -1969,7 +2021,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413869015135-527727138.png",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$5.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Hack-Slash-Slice-Hard-HSSH01001.htm",
                       "text":  "Hack Slash Slice Hard"
@@ -1982,7 +2034,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413671489479613028149.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.49",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Hack-Slash-Son-Of-Samhain-1-1st-Ptg-Regular-Stefano-Caselli-CVR-MAY140592.htm",
                       "text":  "Hack Slash Son Of Samhain #1 1st Ptg Regular Stefano Caselli CVR"
@@ -1995,7 +2047,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413868046054-592595.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.49",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Hack-Slash-Son-Of-Samhain-1-Cover-C-Second-Printing-MAY148255.htm",
                       "text":  "Hack Slash Son Of Samhain #1 Cover C Second Printing"
@@ -2021,7 +2073,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413868277429-1511682227.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.80",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Hack-Slash-Son-Of-Samhain-2-JUN140553.htm",
                       "text":  "Hack Slash Son Of Samhain #2"
@@ -2034,7 +2086,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413672160495-1045625754.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.49",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Hack-Slash-Son-Of-Samhain-3-JUL140548.htm",
                       "text":  "Hack Slash Son Of Samhain #3"
@@ -2047,7 +2099,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413869029495-1132287893.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.80",
+        "price":  "$3.49",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Hack-Slash-Son-Of-Samhain-4-AUG140653.htm",
                       "text":  "Hack Slash Son Of Samhain #4"
@@ -2073,7 +2125,7 @@
                       "src":  "http://shop.comicxposure.com/images/14138703496591250514265.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.80",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Hack-Slash-Vol-2-8-Cover-A-JUL110526.htm",
                       "text":  "Hack Slash Vol 2 #8 Cover A"
@@ -2099,7 +2151,7 @@
                       "src":  "http://shop.comicxposure.com/images/1417109931898387280444.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.80",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Humans-2-OCT140744.htm",
                       "text":  "Humans #2"
@@ -2112,7 +2164,7 @@
                       "src":  "http://shop.comicxposure.com/images/1420322069208-2135525600.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Humans-3-NOV140659.htm",
                       "text":  "Humans #3"
@@ -2125,7 +2177,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413674685910419702039.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Imperial-1-JUN140469.htm",
                       "text":  "Imperial #1"
@@ -2138,7 +2190,7 @@
                       "src":  "http://shop.comicxposure.com/images/1416079687028-972362003.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Intersect-1-Cover-A-SEP140552.htm",
                       "text":  "Intersect #1 Cover A"
@@ -2151,7 +2203,7 @@
                       "src":  "http://shop.comicxposure.com/images/00(10).jpg",
                       "text":  ""
                   },
-        "price":  "$2.39",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Intersect-1-Cover-B-SEP140553.htm",
                       "text":  "Intersect #1 Cover B"
@@ -2177,7 +2229,7 @@
                       "src":  "http://shop.comicxposure.com/images/00(31).jpg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Intersect-2-Cover-B-OCT140746.htm",
                       "text":  "Intersect #2 Cover B"
@@ -2190,7 +2242,7 @@
                       "src":  "http://shop.comicxposure.com/images/14148759162311584966302.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.62",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Invincible-111-Cover-B-Variant-FEB148180.htm",
                       "text":  "Invincible #111 Cover B Variant"
@@ -2203,7 +2255,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413676778503-1246833211.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.39",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Invincible-111-Cover-E-2nd-Ptg-Ryan-Ottley-Variant-Cover-APR148250.htm",
                       "text":  "Invincible #111 Cover E 2nd Ptg Ryan Ottley Variant Cover"
@@ -2216,7 +2268,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413676973483-596222121.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.80",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Invincible-112-MAR140578.htm",
                       "text":  "Invincible #112"
@@ -2242,7 +2294,7 @@
                       "src":  "http://shop.comicxposure.com/images/1416079826306166784393.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.80",
+        "price":  "$2.62",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Invincible-115-JUL140551.htm",
                       "text":  "Invincible #115"
@@ -2268,7 +2320,7 @@
                       "src":  "http://shop.comicxposure.com/images/14275971300661470013531.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$2.80",
         "title":  {
                       "href":  "http://shop.comicxposure.com/INVINCIBLE-118-JAN150582D.htm",
                       "text":  "INVINCIBLE #118"
@@ -2281,7 +2333,7 @@
                       "src":  "http://shop.comicxposure.com/images/1420322369053-671673682.jpeg",
                       "text":  ""
                   },
-        "price":  "$4.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/IXth-Generation-1-Cover-A-NOV140555.htm",
                       "text":  "IXth Generation #1 Cover A"
@@ -2294,7 +2346,7 @@
                       "src":  "http://shop.comicxposure.com/images/00(50).jpg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$2.80",
         "title":  {
                       "href":  "http://shop.comicxposure.com/IXth-Generation-1-Cover-B-NOV140556.htm",
                       "text":  "IXth Generation #1 Cover B"
@@ -2307,7 +2359,7 @@
                       "src":  "http://shop.comicxposure.com/images/1423787393495557176928.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/IXth-Generation-2-DEC140717.htm",
                       "text":  "IXth Generation #2"
@@ -2320,7 +2372,7 @@
                       "src":  "http://shop.comicxposure.com/images/JUPITERS%20CIRCLE%20%231%20CVR%20A%20QUITELY.jpg",
                       "text":  ""
                   },
-        "price":  "$5.99",
+        "price":  "$3.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/JUPITERS-CIRCLE-1-CVR-A-QUITELY-FEB150472D.htm",
                       "text":  "JUPITERS CIRCLE #1 CVR A QUITELY"
@@ -2346,7 +2398,7 @@
                       "src":  "http://shop.comicxposure.com/images/JUPITERS%20CIRCLE%20%231%20CVR%20C%20SIENKIEWICZ.jpg",
                       "text":  ""
                   },
-        "price":  "$4.99",
+        "price":  "$3.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/JUPITERS-CIRCLE-1-CVR-C-SIENKIEWICZ-FEB150474D.htm",
                       "text":  "JUPITERS CIRCLE #1 CVR C SIENKIEWICZ"
@@ -2359,7 +2411,7 @@
                       "src":  "http://shop.comicxposure.com/images/JUPITERS%20CIRCLE%20%231%20CVR%20D%20PARLOV.jpg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/JUPITERS-CIRCLE-1-CVR-D-PARLOV-FEB150475D.htm",
                       "text":  "JUPITERS CIRCLE #1 CVR D PARLOV"
@@ -2372,7 +2424,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413678343975-637897260.jpeg",
                       "text":  ""
                   },
-        "price":  "$4.99",
+        "price":  "$5.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Jupiters-Legacy-1-1st-Ptg-Regular-Cover-A-Frank-Quitely-FEB130379.htm",
                       "text":  "Jupiters Legacy #1 1st Ptg Regular Cover A Frank Quitely"
@@ -2385,7 +2437,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413682805803645331307.jpeg",
                       "text":  ""
                   },
-        "price":  "$9.99",
+        "price":  "$4.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Lazarus-11-JUL140444.htm",
                       "text":  "Lazarus #11"
@@ -2398,7 +2450,7 @@
                       "src":  "http://shop.comicxposure.com/images/14136858505112051612325.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$4.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Lazarus-12-AUG140657.htm",
                       "text":  "Lazarus #12"
@@ -2424,7 +2476,7 @@
                       "src":  "http://shop.comicxposure.com/images/1418334158340142801338.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$4.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Lil-Depressed-Boy-Supposed-To-Be-There-Too-1-AUG1405500.htm",
                       "text":  "Lil Depressed Boy Supposed To Be There Too #1"
@@ -2437,7 +2489,7 @@
                       "src":  "http://shop.comicxposure.com/images/NOV140662D.jpg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$9.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Lil-Depressed-Boy-Supposed-To-Be-There-Too-3-OCT140748.htm",
                       "text":  "Lil Depressed Boy Supposed To Be There Too #3"
@@ -2450,7 +2502,7 @@
                       "src":  "http://shop.comicxposure.com/images/14141293511511847297721.jpeg",
                       "text":  ""
                   },
-        "price":  "$4.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/LIL-DEPRESSED-BOY-SUPPOSED-TO-BE-THERE-TOO-4-NOV140662D.htm",
                       "text":  "LIL DEPRESSED BOY SUPPOSED TO BE THERE TOO #4"
@@ -2463,7 +2515,7 @@
                       "src":  "http://shop.comicxposure.com/images/1417110127490915818077.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Low-4-AUG140658.htm",
                       "text":  "Low #4"
@@ -2476,7 +2528,7 @@
                       "src":  "http://shop.comicxposure.com/images/14176640565491803251504.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Low-5-SEP140731.htm",
                       "text":  "Low #5"
@@ -2489,7 +2541,7 @@
                       "src":  "http://shop.comicxposure.com/images/1416549087426147006443.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Magdalena-Seventh-Sacrament-One-Shot-OCT140598.htm",
                       "text":  "Magdalena Seventh Sacrament One Shot"
@@ -2502,7 +2554,7 @@
                       "src":  "http://shop.comicxposure.com/images/1426465762753-373004371.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.39",
+        "price":  "$4.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Manhattan-Projects-25-AUG140660.htm",
                       "text":  "Manhattan Projects #25"
@@ -2528,7 +2580,7 @@
                       "src":  "http://shop.comicxposure.com/images/14136868491431215508519.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Manifest-Destiny-1-4th-Printing-DEC138467.htm",
                       "text":  "Manifest Destiny #1 4th Printing"
@@ -2541,7 +2593,7 @@
                       "src":  "http://shop.comicxposure.com/images/14137707916421461612582.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Manifest-Destiny-10-JUL140558.htm",
                       "text":  "Manifest Destiny #10"
@@ -2554,7 +2606,7 @@
                       "src":  "http://shop.comicxposure.com/images/00(32).jpg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.39",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Manifest-Destiny-11-AUG140661.htm",
                       "text":  "Manifest Destiny #11"
@@ -2567,7 +2619,7 @@
                       "src":  "http://shop.comicxposure.com/images/14237865448771787722847.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Manifest-Destiny-12-SEP140733.htm",
                       "text":  "Manifest Destiny #12"
@@ -2580,7 +2632,7 @@
                       "src":  "http://shop.comicxposure.com/images/1414886234712-1075729490.jpeg",
                       "text":  ""
                   },
-        "price":  "$7.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Manifest-Destiny-13-NOV140663.htm",
                       "text":  "Manifest Destiny #13"
@@ -2593,7 +2645,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413686377892-770529126.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Manifest-Destiny-5-Cover-B-2nd-Ptg-JAN148384.htm",
                       "text":  "Manifest Destiny #5 Cover B 2nd Ptg"
@@ -2606,7 +2658,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413686569376-737588504.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Manifest-Destiny-6-Cover-A-1st-Ptg-FEB140609.htm",
                       "text":  "Manifest Destiny #6 Cover A 1st Ptg"
@@ -2619,7 +2671,7 @@
                       "src":  "http://shop.comicxposure.com/images/14148872520331576503517.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Manifest-Destiny-7-Cover-A-Regular-Matthew-Roberts-Cover-APR140575.htm",
                       "text":  "Manifest Destiny #7 Cover A Regular Matthew Roberts Cover"
@@ -2632,7 +2684,7 @@
                       "src":  "http://shop.comicxposure.com/images/14136867217891094814591.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$7.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Manifest-Destiny-8-Comic-Con-Exclusive-MDCC2499.htm",
                       "text":  "Manifest Destiny #8 Comic Con Exclusive"
@@ -2658,7 +2710,7 @@
                       "src":  "http://shop.comicxposure.com/images/14169684111771280238941.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.39",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Mind-The-Gap-Vol-1-Intimate-Strangers-TP-AUG120486.htm",
                       "text":  "Mind The Gap Vol 1 Intimate Strangers TP"
@@ -2671,7 +2723,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413688363435-787316081.jpeg",
                       "text":  ""
                   },
-        "price":  "$0.25",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Morning-Glories-Vol-1-For-A-Better-Future-TP-DEC100470.htm",
                       "text":  "Morning Glories Vol 1 For A Better Future TP"
@@ -2684,7 +2736,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413688679205444578489.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/MPH-2-Cover-A-Regular-Duncan-Fegredo-Cover-APR140580.htm",
                       "text":  "MPH #2 Cover A Regular Duncan Fegredo Cover"
@@ -2697,7 +2749,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413688550363794810215.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.19",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/MPH-3-Cover-A-Duncan-Fegredo-MAY140716.htm",
                       "text":  "MPH #3 Cover A Duncan Fegredo"
@@ -2710,7 +2762,7 @@
                       "src":  "http://shop.comicxposure.com/images/1415927446561230606673.jpeg",
                       "text":  ""
                   },
-        "price":  "$5.99",
+        "price":  "$2.39",
         "title":  {
                       "href":  "http://shop.comicxposure.com/MPH-3-Cover-B-Paul-Pope-MAY140717.htm",
                       "text":  "MPH #3 Cover B Paul Pope"
@@ -2723,7 +2775,7 @@
                       "src":  "http://shop.comicxposure.com/images/1415927389915-637292360.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$0.25",
         "title":  {
                       "href":  "http://shop.comicxposure.com/MPH-4-Cover-A-JUN140560.htm",
                       "text":  "MPH #4 Cover A"
@@ -2736,7 +2788,7 @@
                       "src":  "http://shop.comicxposure.com/images/1414885773200452499428.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.19",
+        "price":  "$3.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/MPH-4-Cover-B-JUN140561.htm",
                       "text":  "MPH #4 Cover B"
@@ -2749,7 +2801,7 @@
                       "src":  "http://shop.comicxposure.com/images/14136896933271837493828.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.19",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Nailbiter-1-Cover-A-First-Printing-MAR140480.htm",
                       "text":  "Nailbiter #1 Cover A First Printing"
@@ -2762,7 +2814,7 @@
                       "src":  "http://shop.comicxposure.com/images/FEB150513D.jpg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$5.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Nailbiter-1-Cover-B-2nd-Ptg-Mike-Henderson-Variant-Cover-MAR148370.htm",
                       "text":  "Nailbiter #1 Cover B 2nd Ptg Mike Henderson Variant Cover"
@@ -2775,7 +2827,7 @@
                       "src":  "http://shop.comicxposure.com/images/FEB150514D.jpg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/NAILBITER-11-CVR-A-HENDERSON-FEB150513D.htm",
                       "text":  "NAILBITER #11 CVR A HENDERSON"
@@ -2788,7 +2840,7 @@
                       "src":  "http://shop.comicxposure.com/images/FEB150515D.jpg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.19",
         "title":  {
                       "href":  "http://shop.comicxposure.com/NAILBITER-11-CVR-B-NGUYEN-FEB150514D.htm",
                       "text":  "NAILBITER #11 CVR B NGUYEN"
@@ -2801,7 +2853,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413689840683-2122530738.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/NAILBITER-11-CVR-C-ROSSMO-FEB150515D.htm",
                       "text":  "NAILBITER #11 CVR C ROSSMO"
@@ -2840,7 +2892,7 @@
                       "src":  "http://shop.comicxposure.com/images/14136902993411979708433.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Nailbiter-4-JUN140562.htm",
                       "text":  "Nailbiter #4"
@@ -2853,7 +2905,7 @@
                       "src":  "http://shop.comicxposure.com/images/1414727400623-1781996940.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.39",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Nailbiter-5-JUL140564.htm",
                       "text":  "Nailbiter #5"
@@ -2866,7 +2918,7 @@
                       "src":  "http://shop.comicxposure.com/images/1414886092156346837948.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Nailbiter-6-AUG140663.htm",
                       "text":  "Nailbiter #6"
@@ -2879,7 +2931,7 @@
                       "src":  "http://shop.comicxposure.com/images/1414727400623-1781996940.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.39",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Nailbiter-6-AUG1406633.htm",
                       "text":  "Nailbiter #6"
@@ -2905,7 +2957,7 @@
                       "src":  "http://shop.comicxposure.com/images/1427779281676-982110802.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$3.39",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Nailbiter-8-OCT140751.htm",
                       "text":  "Nailbiter #8"
@@ -2918,7 +2970,7 @@
                       "src":  "http://shop.comicxposure.com/images/1427779283906173046182.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/NAILBITER-HACK-SLASH-HACK-SLASH-NAILBITER-ONE-SHOT-JAN150593D.htm",
                       "text":  "NAILBITER HACK SLASH HACK SLASH NAILBITER ONE SHOT"
@@ -2931,7 +2983,7 @@
                       "src":  "http://shop.comicxposure.com/images/14277792857961525794953.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.49",
+        "price":  "$3.39",
         "title":  {
                       "href":  "http://shop.comicxposure.com/NAMELESS-1-2ND-PRINTING-DEC148405D.htm",
                       "text":  "NAMELESS #1 2ND PRINTING"
@@ -2957,7 +3009,7 @@
                       "src":  "http://shop.comicxposure.com/images/FEB150483D.jpg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/NAMELESS-3-FEB150619D.htm",
                       "text":  "NAMELESS #3"
@@ -2983,7 +3035,7 @@
                       "src":  "http://shop.comicxposure.com/images/1413685980500663370708.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.62",
+        "price":  "$3.49",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Oddly-Normal-Vol-2-1-JUL140443.htm",
                       "text":  "Oddly Normal Vol 2 #1"
@@ -2996,7 +3048,7 @@
                       "src":  "http://shop.comicxposure.com/images/14140813772301432627402.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Oddly-Normal-Vol-2-2-Cover-A-AUG140665.htm",
                       "text":  "Oddly Normal Vol 2 #2 Cover A"
@@ -3009,7 +3061,7 @@
                       "src":  "http://shop.comicxposure.com/images/14165506019461398237769.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Oddly-Normal-Vol-2-2-Cover-B-AUG140666.htm",
                       "text":  "Oddly Normal Vol 2 #2 Cover B"
@@ -3022,7 +3074,7 @@
                       "src":  "http://shop.comicxposure.com/images/1417105363985-772170248.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Oddly-Normal-Vol-2-3-Cover-A-SEP140737.htm",
                       "text":  "Oddly Normal Vol 2 #3 Cover A"
@@ -3035,7 +3087,7 @@
                       "src":  "http://shop.comicxposure.com/images/14183343645071952014637.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$2.62",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Oddly-Normal-Vol-2-3-Cover-B-SEP140738.htm",
                       "text":  "Oddly Normal Vol 2 #3 Cover B"
@@ -3061,7 +3113,7 @@
                       "src":  "http://shop.comicxposure.com/images/1416550822245-1246051524.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.39",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Oddly-Normal-Vol-2-4-Cover-B-OCT140753.htm",
                       "text":  "Oddly Normal Vol 2 #4 Cover B"
@@ -3074,7 +3126,7 @@
                       "src":  "http://shop.comicxposure.com/images/1420322215369-1859204913.jpeg",
                       "text":  ""
                   },
-        "price":  "$4.99",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Ody-C-1-SEP140533.htm",
                       "text":  "Ody-C #1"
@@ -3113,7 +3165,7 @@
                       "src":  "http://shop.comicxposure.com/images/14144460962251539966467.jpeg",
                       "text":  ""
                   },
-        "price":  "$24.99",
+        "price":  "$2.39",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Outcast-By-Kirkman-Azaceta-1-Cover-A-1st-Ptg-APR140481.htm",
                       "text":  "Outcast By Kirkman \u0026 Azaceta #1 Cover A 1st Ptg"
@@ -3126,7 +3178,7 @@
                       "src":  "http://shop.comicxposure.com/images/1414445901666-1049682017.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$4.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Outcast-By-Kirkman-Azaceta-2-Cover-A-1st-Ptg-MAY140719.htm",
                       "text":  "Outcast By Kirkman \u0026 Azaceta #2 Cover A 1st Ptg"
@@ -3139,7 +3191,7 @@
                       "src":  "http://shop.comicxposure.com/images/141444554341460839442.jpeg",
                       "text":  ""
                   },
-        "price":  "$9.99",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Outcast-By-Kirkman-Azaceta-3-Cover-A-1st-Ptg-JUN140563.htm",
                       "text":  "Outcast By Kirkman \u0026 Azaceta #3 Cover A 1st Ptg"
@@ -3152,7 +3204,7 @@
                       "src":  "http://shop.comicxposure.com/images/00(41).jpg",
                       "text":  ""
                   },
-        "price":  "$9.99",
+        "price":  "$2.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Outcast-By-Kirkman-Azaceta-4-Cover-A-1st-Ptg-JUL140566.htm",
                       "text":  "Outcast By Kirkman \u0026 Azaceta #4 Cover A 1st Ptg"
@@ -3165,7 +3217,7 @@
                       "src":  "http://shop.comicxposure.com/images/1426465639633682225481.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$24.99",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Outcast-By-Kirkman-Azaceta-6-SEP140739.htm",
                       "text":  "Outcast By Kirkman \u0026 Azaceta #6"
@@ -3191,10 +3243,10 @@
                       "src":  "http://shop.comicxposure.com/images/14147918720111242965900.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$9.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Outcast-By-Kirkman-Azacetat-5-AUG140667.htm",
-                      "text":  "Outcast By Kirkman \u0026 Azacetat #5"
+                      "href":  "http://shop.comicxposure.com/OUTCAST-BY-KIRKMAN-AZACETA-8-FEB150622D.htm",
+                      "text":  "OUTCAST BY KIRKMAN \u0026 AZACETA #8"
                   }
     },
     {
@@ -3204,10 +3256,10 @@
                       "src":  "http://shop.comicxposure.com/images/1414792026319-823073727.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$9.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Penny-Dora-And-The-Wishing-Box-1-Cover-A-SEP140583.htm",
-                      "text":  "Penny Dora And The Wishing Box #1 Cover A"
+                      "href":  "http://shop.comicxposure.com/Outcast-By-Kirkman-Azacetat-5-AUG140667.htm",
+                      "text":  "Outcast By Kirkman \u0026 Azacetat #5"
                   }
     },
     {
@@ -3219,8 +3271,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Penny-Dora-And-The-Wishing-Box-1-Cover-B-SEP140584.htm",
-                      "text":  "Penny Dora And The Wishing Box #1 Cover B"
+                      "href":  "http://shop.comicxposure.com/Penny-Dora-And-The-Wishing-Box-1-Cover-A-SEP140583.htm",
+                      "text":  "Penny Dora And The Wishing Box #1 Cover A"
                   }
     },
     {
@@ -3230,10 +3282,10 @@
                       "src":  "http://shop.comicxposure.com/images/1414446732585-1428741340.jpeg",
                       "text":  ""
                   },
-        "price":  "$9.99",
+        "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Penny-Dora-And-The-Wishing-Box-2-OCT140755.htm",
-                      "text":  "Penny Dora And The Wishing Box #2"
+                      "href":  "http://shop.comicxposure.com/Penny-Dora-And-The-Wishing-Box-1-Cover-B-SEP140584.htm",
+                      "text":  "Penny Dora And The Wishing Box #1 Cover B"
                   }
     },
     {
@@ -3245,8 +3297,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Peter-Panzerfaust-21-Cover-A-Regular-Roc-Upchurch-Cover-JUN140493.htm",
-                      "text":  "Peter Panzerfaust #21 Cover A Regular Roc Upchurch Cover"
+                      "href":  "http://shop.comicxposure.com/Penny-Dora-And-The-Wishing-Box-2-OCT140755.htm",
+                      "text":  "Penny Dora And The Wishing Box #2"
                   }
     },
     {
@@ -3258,8 +3310,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Peter-Panzerfaust-22-JUL140567.htm",
-                      "text":  "Peter Panzerfaust #22"
+                      "href":  "http://shop.comicxposure.com/Peter-Panzerfaust-21-Cover-A-Regular-Roc-Upchurch-Cover-JUN140493.htm",
+                      "text":  "Peter Panzerfaust #21 Cover A Regular Roc Upchurch Cover"
                   }
     },
     {
@@ -3271,8 +3323,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Postal-2-Cover-A-JAN150698.htm",
-                      "text":  "Postal #2 Cover A"
+                      "href":  "http://shop.comicxposure.com/Peter-Panzerfaust-22-JUL140567.htm",
+                      "text":  "Peter Panzerfaust #22"
                   }
     },
     {
@@ -3282,10 +3334,10 @@
                       "src":  "http://shop.comicxposure.com/images/1429399843908833720373.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$9.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Postal-2-Cover-B-JAN150699.htm",
-                      "text":  "Postal #2 Cover B"
+                      "href":  "http://shop.comicxposure.com/PISCES-1-FEB150484D.htm",
+                      "text":  "PISCES #1"
                   }
     },
     {
@@ -3297,8 +3349,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/POSTAL-3-CVR-A-SEJIC-FEB150623D.htm",
-                      "text":  "POSTAL #3 CVR A SEJIC"
+                      "href":  "http://shop.comicxposure.com/Postal-2-Cover-A-JAN150698.htm",
+                      "text":  "Postal #2 Cover A"
                   }
     },
     {
@@ -3310,8 +3362,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/POSTAL-3-CVR-B-GOODHART-FEB150624D.htm",
-                      "text":  "POSTAL #3 CVR B GOODHART"
+                      "href":  "http://shop.comicxposure.com/Postal-2-Cover-B-JAN150699.htm",
+                      "text":  "Postal #2 Cover B"
                   }
     },
     {
@@ -3323,8 +3375,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Punks-The-Comic-2-Cover-A-SEP140742.htm",
-                      "text":  "Punks The Comic #2 Cover A"
+                      "href":  "http://shop.comicxposure.com/POSTAL-3-CVR-A-SEJIC-FEB150623D.htm",
+                      "text":  "POSTAL #3 CVR A SEJIC"
                   }
     },
     {
@@ -3336,8 +3388,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Punks-The-Comic-2-Cover-B-SEP140743.htm",
-                      "text":  "Punks The Comic #2 Cover B"
+                      "href":  "http://shop.comicxposure.com/POSTAL-3-CVR-B-GOODHART-FEB150624D.htm",
+                      "text":  "POSTAL #3 CVR B GOODHART"
                   }
     },
     {
@@ -3349,8 +3401,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Punks-The-Comic-3-OCT140757.htm",
-                      "text":  "Punks The Comic #3"
+                      "href":  "http://shop.comicxposure.com/Punks-The-Comic-2-Cover-A-SEP140742.htm",
+                      "text":  "Punks The Comic #2 Cover A"
                   }
     },
     {
@@ -3362,8 +3414,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Rasputin-1-Cover-A-AUG140526.htm",
-                      "text":  "Rasputin #1 Cover A"
+                      "href":  "http://shop.comicxposure.com/Punks-The-Comic-2-Cover-B-SEP140743.htm",
+                      "text":  "Punks The Comic #2 Cover B"
                   }
     },
     {
@@ -3375,8 +3427,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Rasputin-1-Cover-B-AUG140527.htm",
-                      "text":  "Rasputin #1 Cover B"
+                      "href":  "http://shop.comicxposure.com/Punks-The-Comic-3-OCT140757.htm",
+                      "text":  "Punks The Comic #3"
                   }
     },
     {
@@ -3388,8 +3440,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Rasputin-1-Cover-C-Second-Printing-SEP148362.htm",
-                      "text":  "Rasputin #1 Cover C Second Printing"
+                      "href":  "http://shop.comicxposure.com/Rasputin-1-Cover-A-AUG140526.htm",
+                      "text":  "Rasputin #1 Cover A"
                   }
     },
     {
@@ -3399,10 +3451,10 @@
                       "src":  "http://shop.comicxposure.com/images/1418879513891-569628507.jpeg",
                       "text":  ""
                   },
-        "price":  "$4.99",
+        "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Rasputin-2-SEP140744.htm",
-                      "text":  "Rasputin #2"
+                      "href":  "http://shop.comicxposure.com/Rasputin-1-Cover-B-AUG140527.htm",
+                      "text":  "Rasputin #1 Cover B"
                   }
     },
     {
@@ -3414,8 +3466,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Rasputin-3-OCT140758.htm",
-                      "text":  "Rasputin #3"
+                      "href":  "http://shop.comicxposure.com/Rasputin-1-Cover-C-Second-Printing-SEP148362.htm",
+                      "text":  "Rasputin #1 Cover C Second Printing"
                   }
     },
     {
@@ -3427,8 +3479,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Rasputin-4-NOV140671.htm",
-                      "text":  "Rasputin #4"
+                      "href":  "http://shop.comicxposure.com/Rasputin-2-SEP140744.htm",
+                      "text":  "Rasputin #2"
                   }
     },
     {
@@ -3440,8 +3492,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Rasputin-5-DEC140753.htm",
-                      "text":  "Rasputin #5"
+                      "href":  "http://shop.comicxposure.com/Rasputin-3-OCT140758.htm",
+                      "text":  "Rasputin #3"
                   }
     },
     {
@@ -3451,10 +3503,10 @@
                       "src":  "http://shop.comicxposure.com/images/14144501796211093340586.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$4.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/RAT-QUEENS-10-AUG140669D.htm",
-                      "text":  "RAT QUEENS #10"
+                      "href":  "http://shop.comicxposure.com/Rasputin-4-NOV140671.htm",
+                      "text":  "Rasputin #4"
                   }
     },
     {
@@ -3466,8 +3518,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Rat-Queens-7-Cover-A-APR140585.htm",
-                      "text":  "Rat Queens #7 Cover A"
+                      "href":  "http://shop.comicxposure.com/Rasputin-5-DEC140753.htm",
+                      "text":  "Rasputin #5"
                   }
     },
     {
@@ -3479,8 +3531,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/RAT-QUEENS-9-JUL140569D.htm",
-                      "text":  "RAT QUEENS #9"
+                      "href":  "http://shop.comicxposure.com/RAT-QUEENS-10-AUG140669D.htm",
+                      "text":  "RAT QUEENS #10"
                   }
     },
     {
@@ -3492,8 +3544,21 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Rat-Queens-Special-Braga-1-Cover-A-Tess-Fowler-Roc-Upchurch-OV140672.htm",
-                      "text":  "Rat Queens Special Braga #1 Cover A Tess Fowler \u0026 Roc Upchurch"
+                      "href":  "http://shop.comicxposure.com/Rat-Queens-7-Cover-A-APR140585.htm",
+                      "text":  "Rat Queens #7 Cover A"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "RED ONE #2",
+                      "href":  "http://shop.comicxposure.com/RED-ONE-2-FEB150625D.htm",
+                      "src":  "http://shop.comicxposure.com/images/1429767844150413752455.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$2.99",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/RAT-QUEENS-9-JUL140569D.htm",
+                      "text":  "RAT QUEENS #9"
                   }
     },
     {
@@ -3505,8 +3570,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Rat-Queens-Special-Braga-1-Cover-B-Tess-Fowler-Roc-Upchurch-NOV140673.htm",
-                      "text":  "Rat Queens Special Braga #1 Cover B Tess Fowler \u0026 Roc Upchurch"
+                      "href":  "http://shop.comicxposure.com/Rat-Queens-Special-Braga-1-Cover-A-Tess-Fowler-Roc-Upchurch-OV140672.htm",
+                      "text":  "Rat Queens Special Braga #1 Cover A Tess Fowler \u0026 Roc Upchurch"
                   }
     },
     {
@@ -3518,8 +3583,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Revival-2-Phantom-Variant-CR2999.htm",
-                      "text":  "Revival #2 Phantom Variant"
+                      "href":  "http://shop.comicxposure.com/Rat-Queens-Special-Braga-1-Cover-B-Tess-Fowler-Roc-Upchurch-NOV140673.htm",
+                      "text":  "Rat Queens Special Braga #1 Cover B Tess Fowler \u0026 Roc Upchurch"
                   }
     },
     {
@@ -3531,8 +3596,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Revival-24-AUG140671.htm",
-                      "text":  "Revival #24"
+                      "href":  "http://shop.comicxposure.com/RED-ONE-2-FEB150625D.htm",
+                      "text":  "RED ONE #2"
                   }
     },
     {
@@ -3544,8 +3609,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Revival-25-Cover-A-SEP140745.htm",
-                      "text":  "Revival #25 Cover A"
+                      "href":  "http://shop.comicxposure.com/Revival-2-Phantom-Variant-CR2999.htm",
+                      "text":  "Revival #2 Phantom Variant"
                   }
     },
     {
@@ -3555,10 +3620,10 @@
                       "src":  "http://shop.comicxposure.com/images/1414622305354895298498.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Revival-26-Cover-A-OCT140759.htm",
-                      "text":  "Revival #26 Cover A"
+                      "href":  "http://shop.comicxposure.com/Revival-24-AUG140671.htm",
+                      "text":  "Revival #24"
                   }
     },
     {
@@ -3568,10 +3633,10 @@
                       "src":  "http://shop.comicxposure.com/images/1414622623192-1348367739.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Revival-3-Phantom-Variant-JUL120515.htm",
-                      "text":  "Revival #3 Phantom Variant"
+                      "href":  "http://shop.comicxposure.com/Revival-25-Cover-A-SEP140745.htm",
+                      "text":  "Revival #25 Cover A"
                   }
     },
     {
@@ -3581,10 +3646,10 @@
                       "src":  "http://shop.comicxposure.com/images/1414622860970-1643934551.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.19",
+        "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Revival-4-Phantom-Variant-AUG120526.htm",
-                      "text":  "Revival #4 Phantom Variant"
+                      "href":  "http://shop.comicxposure.com/Revival-26-Cover-A-OCT140759.htm",
+                      "text":  "Revival #26 Cover A"
                   }
     },
     {
@@ -3596,8 +3661,8 @@
                   },
         "price":  "$3.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Revival-6-Phantom-Variant-NOV120470.htm",
-                      "text":  "Revival #6 Phantom Variant"
+                      "href":  "http://shop.comicxposure.com/Revival-3-Phantom-Variant-JUL120515.htm",
+                      "text":  "Revival #3 Phantom Variant"
                   }
     },
     {
@@ -3607,10 +3672,10 @@
                       "src":  "http://shop.comicxposure.com/images/1414623237080-1558114933.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.19",
+        "price":  "$3.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Revival-7-Phantom-Variant-DEC120584.htm",
-                      "text":  "Revival #7 Phantom Variant"
+                      "href":  "http://shop.comicxposure.com/Revival-4-Phantom-Variant-AUG120526.htm",
+                      "text":  "Revival #4 Phantom Variant"
                   }
     },
     {
@@ -3620,10 +3685,10 @@
                       "src":  "http://shop.comicxposure.com/images/1414623397132636158154.jpeg",
                       "text":  ""
                   },
-        "price":  "$7.99",
+        "price":  "$3.19",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Revival-8-Phantom-Variant-JAN130604.htm",
-                      "text":  "Revival #8 Phantom Variant"
+                      "href":  "http://shop.comicxposure.com/Revival-6-Phantom-Variant-NOV120470.htm",
+                      "text":  "Revival #6 Phantom Variant"
                   }
     },
     {
@@ -3631,6 +3696,32 @@
                       "alt":  "Reyn #2",
                       "href":  "http://shop.comicxposure.com/Reyn-2-DEC140755.htm",
                       "src":  "http://shop.comicxposure.com/images/00(59)(1).jpg",
+                      "text":  ""
+                  },
+        "price":  "$3.99",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/Revival-7-Phantom-Variant-DEC120584.htm",
+                      "text":  "Revival #7 Phantom Variant"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "Reyn #3",
+                      "href":  "http://shop.comicxposure.com/Reyn-3-JAN150575.htm",
+                      "src":  "http://shop.comicxposure.com/images/14264675135881227120117.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$3.19",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/Revival-8-Phantom-Variant-JAN130604.htm",
+                      "text":  "Revival #8 Phantom Variant"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "REYN #4",
+                      "href":  "http://shop.comicxposure.com/REYN-4-FEB150626.htm",
+                      "src":  "http://shop.comicxposure.com/images/1428650547375-1266618928.jpeg",
                       "text":  ""
                   },
         "price":  "$7.99",
@@ -3641,41 +3732,15 @@
     },
     {
         "image":  {
-                      "alt":  "Reyn #3",
-                      "href":  "http://shop.comicxposure.com/Reyn-3-JAN150575.htm",
-                      "src":  "http://shop.comicxposure.com/images/14264675135881227120117.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$4.99",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Reyn-2-DEC140755.htm",
-                      "text":  "Reyn #2"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "REYN #4",
-                      "href":  "http://shop.comicxposure.com/REYN-4-FEB150626.htm",
-                      "src":  "http://shop.comicxposure.com/images/1428650547375-1266618928.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$2.99",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Reyn-3-JAN150575.htm",
-                      "text":  "Reyn #3"
-                  }
-    },
-    {
-        "image":  {
                       "alt":  "Roche Limit #1 Cover ARoche Limit #1 Cover A",
                       "href":  "http://shop.comicxposure.com/Roche-Limit-1-Cover-ARoche-Limit-1-Cover-A-JUL140435.htm",
                       "src":  "http://shop.comicxposure.com/images/1416251190105-1694395335.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$7.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/REYN-4-FEB150626.htm",
-                      "text":  "REYN #4"
+                      "href":  "http://shop.comicxposure.com/Reyn-2-DEC140755.htm",
+                      "text":  "Reyn #2"
                   }
     },
     {
@@ -3685,10 +3750,10 @@
                       "src":  "http://shop.comicxposure.com/images/1414130132736696819234.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.24",
+        "price":  "$4.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Roche-Limit-1-Cover-ARoche-Limit-1-Cover-A-JUL140435.htm",
-                      "text":  "Roche Limit #1 Cover ARoche Limit #1 Cover A"
+                      "href":  "http://shop.comicxposure.com/Reyn-3-JAN150575.htm",
+                      "text":  "Reyn #3"
                   }
     },
     {
@@ -3700,8 +3765,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Roche-Limit-2-AUG140674.htm",
-                      "text":  "Roche Limit #2"
+                      "href":  "http://shop.comicxposure.com/REYN-4-FEB150626.htm",
+                      "text":  "REYN #4"
                   }
     },
     {
@@ -3711,10 +3776,10 @@
                       "src":  "http://shop.comicxposure.com/images/1420319648085693521629.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.24",
+        "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Roche-Limit-3-SEP140747.htm",
-                      "text":  "Roche Limit #3"
+                      "href":  "http://shop.comicxposure.com/Roche-Limit-1-Cover-ARoche-Limit-1-Cover-A-JUL140435.htm",
+                      "text":  "Roche Limit #1 Cover ARoche Limit #1 Cover A"
                   }
     },
     {
@@ -3724,10 +3789,10 @@
                       "src":  "http://shop.comicxposure.com/images/14183345030541498006166.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$2.24",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Roche-Limit-4-OCT140762.htm",
-                      "text":  "Roche Limit #4"
+                      "href":  "http://shop.comicxposure.com/Roche-Limit-2-AUG140674.htm",
+                      "text":  "Roche Limit #2"
                   }
     },
     {
@@ -3739,8 +3804,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Rumble-1-Cover-A-OCT140580.htm",
-                      "text":  "Rumble #1 Cover A"
+                      "href":  "http://shop.comicxposure.com/Roche-Limit-3-SEP140747.htm",
+                      "text":  "Roche Limit #3"
                   }
     },
     {
@@ -3750,10 +3815,10 @@
                       "src":  "http://shop.comicxposure.com/images/1427575619016-2026555091.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$2.24",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Rumble-3-DEC140756.htm",
-                      "text":  "Rumble #3"
+                      "href":  "http://shop.comicxposure.com/Roche-Limit-4-OCT140762.htm",
+                      "text":  "Roche Limit #4"
                   }
     },
     {
@@ -3765,8 +3830,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/RUMBLE-4-JAN150703D.htm",
-                      "text":  "RUMBLE #4"
+                      "href":  "http://shop.comicxposure.com/Rumble-1-Cover-A-OCT140580.htm",
+                      "text":  "Rumble #1 Cover A"
                   }
     },
     {
@@ -3776,10 +3841,10 @@
                       "src":  "http://shop.comicxposure.com/images/1416252083141-492127808.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/RunLoveKill-1-FEB150487.htm",
-                      "text":  "RunLoveKill #1"
+                      "href":  "http://shop.comicxposure.com/Rumble-3-DEC140756.htm",
+                      "text":  "Rumble #3"
                   }
     },
     {
@@ -3789,10 +3854,10 @@
                       "src":  "http://shop.comicxposure.com/images/14162522145991447646274.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Saga-13-First-Printing-JUN130454.htm",
-                      "text":  "Saga #13 First Printing"
+                      "href":  "http://shop.comicxposure.com/RUMBLE-4-JAN150703D.htm",
+                      "text":  "RUMBLE #4"
                   }
     },
     {
@@ -3802,10 +3867,10 @@
                       "src":  "http://shop.comicxposure.com/images/1414130277048524368778.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Saga-23-JUL140571.htm",
-                      "text":  "Saga #23"
+                      "href":  "http://shop.comicxposure.com/RunLoveKill-1-FEB150487.htm",
+                      "text":  "RunLoveKill #1"
                   }
     },
     {
@@ -3815,10 +3880,10 @@
                       "src":  "http://shop.comicxposure.com/images/1414130403958-1518309864.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.19",
+        "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Saga-24-AUG140675.htm",
-                      "text":  "Saga #24"
+                      "href":  "http://shop.comicxposure.com/Saga-13-First-Printing-JUN130454.htm",
+                      "text":  "Saga #13 First Printing"
                   }
     },
     {
@@ -3828,10 +3893,10 @@
                       "src":  "http://shop.comicxposure.com/images/14176528139441385024636.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Savage-Dragon-Vol-2-199-JUN140571.htm",
-                      "text":  "Savage Dragon Vol 2 #199"
+                      "href":  "http://shop.comicxposure.com/Saga-23-JUL140571.htm",
+                      "text":  "Saga #23"
                   }
     },
     {
@@ -3841,10 +3906,10 @@
                       "src":  "http://shop.comicxposure.com/images/1(374).jpg",
                       "text":  ""
                   },
-        "price":  "$3.19",
+        "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Savage-Dragon-Vol-2-200-Cover-A-SEP140554.htm",
-                      "text":  "Savage Dragon Vol 2 #200 Cover A"
+                      "href":  "http://shop.comicxposure.com/Saga-24-AUG140675.htm",
+                      "text":  "Saga #24"
                   }
     },
     {
@@ -3854,10 +3919,10 @@
                       "src":  "http://shop.comicxposure.com/images/1(374).jpg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Savage-Dragon-Vol-2-200-Cover-B-SEP140555.htm",
-                      "text":  "Savage Dragon Vol 2 #200 Cover B"
+                      "href":  "http://shop.comicxposure.com/Savage-Dragon-Vol-2-199-JUN140571.htm",
+                      "text":  "Savage Dragon Vol 2 #199"
                   }
     },
     {
@@ -3869,8 +3934,8 @@
                   },
         "price":  "$3.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Savage-Dragon-Vol-2-200-Cover-C-SEP140556.htm",
-                      "text":  "Savage Dragon Vol 2 #200 Cover C"
+                      "href":  "http://shop.comicxposure.com/Savage-Dragon-Vol-2-200-Cover-A-SEP140554.htm",
+                      "text":  "Savage Dragon Vol 2 #200 Cover A"
                   }
     },
     {
@@ -3880,10 +3945,10 @@
                       "src":  "http://shop.comicxposure.com/images/1428307015154-167794989.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$3.19",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Savage-Dragon-Vol-2-201-OCT140763.htm",
-                      "text":  "Savage Dragon Vol 2 #201"
+                      "href":  "http://shop.comicxposure.com/Savage-Dragon-Vol-2-200-Cover-B-SEP140555.htm",
+                      "text":  "Savage Dragon Vol 2 #200 Cover B"
                   }
     },
     {
@@ -3895,8 +3960,8 @@
                   },
         "price":  "$3.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/SAVIOR-1-FEB150477D.htm",
-                      "text":  "SAVIOR #1"
+                      "href":  "http://shop.comicxposure.com/Savage-Dragon-Vol-2-200-Cover-C-SEP140556.htm",
+                      "text":  "Savage Dragon Vol 2 #200 Cover C"
                   }
     },
     {
@@ -3904,6 +3969,32 @@
                       "alt":  "Secret Identities #2",
                       "href":  "http://shop.comicxposure.com/Secret-Identities-2-JAN150707.htm",
                       "src":  "http://shop.comicxposure.com/images/14264685175292094049486.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$3.19",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/Savage-Dragon-Vol-2-201-OCT140763.htm",
+                      "text":  "Savage Dragon Vol 2 #201"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "SECRET IDENTITIES #3",
+                      "href":  "http://shop.comicxposure.com/SECRET-IDENTITIES-3-FEB150631.htm",
+                      "src":  "http://shop.comicxposure.com/images/1428651008401-566117876.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$3.99",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/SAVIOR-1-FEB150477D.htm",
+                      "text":  "SAVIOR #1"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "Sex #17",
+                      "href":  "http://shop.comicxposure.com/Sex-17-AUG140676.htm",
+                      "src":  "http://shop.comicxposure.com/images/1414130528691260305875.jpeg",
                       "text":  ""
                   },
         "price":  "$3.99",
@@ -3914,41 +4005,15 @@
     },
     {
         "image":  {
-                      "alt":  "SECRET IDENTITIES #3",
-                      "href":  "http://shop.comicxposure.com/SECRET-IDENTITIES-3-FEB150631.htm",
-                      "src":  "http://shop.comicxposure.com/images/1428651008401-566117876.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$3.50",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Secret-Identities-2-JAN150707.htm",
-                      "text":  "Secret Identities #2"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "Sex #17",
-                      "href":  "http://shop.comicxposure.com/Sex-17-AUG140676.htm",
-                      "src":  "http://shop.comicxposure.com/images/1414130528691260305875.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$3.50",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/SECRET-IDENTITIES-3-FEB150631.htm",
-                      "text":  "SECRET IDENTITIES #3"
-                  }
-    },
-    {
-        "image":  {
                       "alt":  "Sex #18",
                       "href":  "http://shop.comicxposure.com/Sex-18-SEP140749.htm",
                       "src":  "http://shop.comicxposure.com/images/1416543116556335204790.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.49",
+        "price":  "$3.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Sex-17-AUG140676.htm",
-                      "text":  "Sex #17"
+                      "href":  "http://shop.comicxposure.com/Secret-Identities-2-JAN150707.htm",
+                      "text":  "Secret Identities #2"
                   }
     },
     {
@@ -3958,10 +4023,10 @@
                       "src":  "http://shop.comicxposure.com/images/1414866530020-1319053167.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Sex-18-SEP140749.htm",
-                      "text":  "Sex #18"
+                      "href":  "http://shop.comicxposure.com/SECRET-IDENTITIES-3-FEB150631.htm",
+                      "text":  "SECRET IDENTITIES #3"
                   }
     },
     {
@@ -3971,10 +4036,10 @@
                       "src":  "http://shop.comicxposure.com/images/14176531607191706438263.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$3.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Sex-Criminals-8-JUN140572.htm",
-                      "text":  "Sex Criminals #8"
+                      "href":  "http://shop.comicxposure.com/Sex-17-AUG140676.htm",
+                      "text":  "Sex #17"
                   }
     },
     {
@@ -3984,10 +4049,10 @@
                       "src":  "http://shop.comicxposure.com/images/1417653351574100258309.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.62",
+        "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Sex-Criminals-9-AUG140677.htm",
-                      "text":  "Sex Criminals #9"
+                      "href":  "http://shop.comicxposure.com/Sex-18-SEP140749.htm",
+                      "text":  "Sex #18"
                   }
     },
     {
@@ -3999,8 +4064,8 @@
                   },
         "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Shutter-7-Cover-A-OCT140604.htm",
-                      "text":  "Shutter #7 Cover A"
+                      "href":  "http://shop.comicxposure.com/Sex-Criminals-8-JUN140572.htm",
+                      "text":  "Sex Criminals #8"
                   }
     },
     {
@@ -4010,10 +4075,10 @@
                       "src":  "http://shop.comicxposure.com/images/141626514298325648219.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.80",
+        "price":  "$3.49",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Sinergy-1-SEP140544.htm",
-                      "text":  "Sinergy #1"
+                      "href":  "http://shop.comicxposure.com/Sex-Criminals-9-AUG140677.htm",
+                      "text":  "Sex Criminals #9"
                   }
     },
     {
@@ -4025,8 +4090,8 @@
                   },
         "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Southern-Bastards-2-Cover-A-First-Printing-MAR140601.htm",
-                      "text":  "Southern Bastards #2 Cover A First Printing"
+                      "href":  "http://shop.comicxposure.com/Shutter-7-Cover-A-OCT140604.htm",
+                      "text":  "Shutter #7 Cover A"
                   }
     },
     {
@@ -4036,10 +4101,10 @@
                       "src":  "http://shop.comicxposure.com/images/14141306946931033935029.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.80",
+        "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Southern-Bastards-3-Cover-A-First-Printing-APR140600.htm",
-                      "text":  "Southern Bastards #3 Cover A First Printing"
+                      "href":  "http://shop.comicxposure.com/Sinergy-1-SEP140544.htm",
+                      "text":  "Sinergy #1"
                   }
     },
     {
@@ -4049,10 +4114,10 @@
                       "src":  "http://shop.comicxposure.com/images/1414429273252-975288978.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.62",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Southern-Bastards-5-Cover-A-AUG140680.htm",
-                      "text":  "Southern Bastards #5 Cover A"
+                      "href":  "http://shop.comicxposure.com/Southern-Bastards-2-Cover-A-First-Printing-MAR140601.htm",
+                      "text":  "Southern Bastards #2 Cover A First Printing"
                   }
     },
     {
@@ -4064,8 +4129,8 @@
                   },
         "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Southern-Bastards-5-Cover-B-JUN148181.htm",
-                      "text":  "Southern Bastards #5 Cover B"
+                      "href":  "http://shop.comicxposure.com/Southern-Bastards-3-Cover-A-First-Printing-APR140600.htm",
+                      "text":  "Southern Bastards #3 Cover A First Printing"
                   }
     },
     {
@@ -4075,10 +4140,10 @@
                       "src":  "http://shop.comicxposure.com/images/1416969214289-649688589.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.80",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Southern-Bastards-6-SEP140754.htm",
-                      "text":  "Southern Bastards #6"
+                      "href":  "http://shop.comicxposure.com/Southern-Bastards-5-Cover-A-AUG140680.htm",
+                      "text":  "Southern Bastards #5 Cover A"
                   }
     },
     {
@@ -4090,8 +4155,8 @@
                   },
         "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Southern-Bastards-Vol-1Here-Was-A-Man-Tp-JUL140517.htm",
-                      "text":  "Southern Bastards, Vol 1:Here Was A Man Tp"
+                      "href":  "http://shop.comicxposure.com/Southern-Bastards-5-Cover-B-JUN148181.htm",
+                      "text":  "Southern Bastards #5 Cover B"
                   }
     },
     {
@@ -4103,8 +4168,8 @@
                   },
         "price":  "$2.80",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Southern-Cross-1-JAN150571.htm",
-                      "text":  "Southern Cross #1"
+                      "href":  "http://shop.comicxposure.com/Southern-Bastards-6-SEP140754.htm",
+                      "text":  "Southern Bastards #6"
                   }
     },
     {
@@ -4116,8 +4181,8 @@
                   },
         "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/SOUTHERN-CROSS-2-FEB150634D.htm",
-                      "text":  "SOUTHERN CROSS #2"
+                      "href":  "http://shop.comicxposure.com/Southern-Bastards-Vol-1Here-Was-A-Man-Tp-JUL140517.htm",
+                      "text":  "Southern Bastards, Vol 1:Here Was A Man Tp"
                   }
     },
     {
@@ -4127,10 +4192,10 @@
                       "src":  "http://shop.comicxposure.com/images/14147942217861059293158.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.80",
+        "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Spawn-1-490666.htm",
-                      "text":  "Spawn #1"
+                      "href":  "http://shop.comicxposure.com/Southern-Cross-1-JAN150571.htm",
+                      "text":  "Southern Cross #1"
                   }
     },
     {
@@ -4140,10 +4205,10 @@
                       "src":  "http://shop.comicxposure.com/images/1423098635972-1605279425.jpeg",
                       "text":  ""
                   },
-        "price":  "$9.99",
+        "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Spawn-248-AUG140681.htm",
-                      "text":  "Spawn #248"
+                      "href":  "http://shop.comicxposure.com/SOUTHERN-CROSS-2-FEB150634D.htm",
+                      "text":  "SOUTHERN CROSS #2"
                   }
     },
     {
@@ -4153,10 +4218,10 @@
                       "src":  "http://shop.comicxposure.com/images/1423098708332-1990119141.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-A-NOV140541.htm",
-                      "text":  "Spawn #250 Cover A"
+                      "href":  "http://shop.comicxposure.com/Spawn-1-490666.htm",
+                      "text":  "Spawn #1"
                   }
     },
     {
@@ -4166,10 +4231,10 @@
                       "src":  "http://shop.comicxposure.com/images/14230987633181353531928.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$2.80",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-B-NOV140542.htm",
-                      "text":  "Spawn #250 Cover B"
+                      "href":  "http://shop.comicxposure.com/Spawn-248-AUG140681.htm",
+                      "text":  "Spawn #248"
                   }
     },
     {
@@ -4177,6 +4242,32 @@
                       "alt":  "Spawn #250 Cover D",
                       "href":  "http://shop.comicxposure.com/Spawn-250-Cover-D-NOV140544.htm",
                       "src":  "http://shop.comicxposure.com/images/1423098816454259671973.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$3.50",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-A-NOV140541.htm",
+                      "text":  "Spawn #250 Cover A"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "Spawn #250 Cover E",
+                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-E-NOV140545.htm",
+                      "src":  "http://shop.comicxposure.com/images/14230988734281092740578.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$2.80",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-B-NOV140542.htm",
+                      "text":  "Spawn #250 Cover B"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "Spawn #250 Cover F",
+                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-F-NOV140546.htm",
+                      "src":  "http://shop.comicxposure.com/images/14230989681711295891421.jpeg",
                       "text":  ""
                   },
         "price":  "$2.99",
@@ -4187,41 +4278,15 @@
     },
     {
         "image":  {
-                      "alt":  "Spawn #250 Cover E",
-                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-E-NOV140545.htm",
-                      "src":  "http://shop.comicxposure.com/images/14230988734281092740578.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$2.62",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-D-NOV140544.htm",
-                      "text":  "Spawn #250 Cover D"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "Spawn #250 Cover F",
-                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-F-NOV140546.htm",
-                      "src":  "http://shop.comicxposure.com/images/14230989681711295891421.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$9.99",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-E-NOV140545.htm",
-                      "text":  "Spawn #250 Cover E"
-                  }
-    },
-    {
-        "image":  {
                       "alt":  "Spawn #250 Cover G Incentive",
                       "href":  "http://shop.comicxposure.com/Spawn-250-Cover-G-Incentive-NOV140547.htm",
                       "src":  "http://shop.comicxposure.com/images/1423099069269706608047.jpeg",
                       "text":  ""
                   },
-        "price":  "$9.99",
+        "price":  "$2.39",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-F-NOV140546.htm",
-                      "text":  "Spawn #250 Cover F"
+                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-D-NOV140544.htm",
+                      "text":  "Spawn #250 Cover D"
                   }
     },
     {
@@ -4233,8 +4298,8 @@
                   },
         "price":  "$9.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-G-Incentive-NOV140547.htm",
-                      "text":  "Spawn #250 Cover G Incentive"
+                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-E-NOV140545.htm",
+                      "text":  "Spawn #250 Cover E"
                   }
     },
     {
@@ -4244,10 +4309,23 @@
                       "src":  "http://shop.comicxposure.com/images/1428651107977-200823565.jpeg",
                       "text":  ""
                   },
-        "price":  "$9.99",
+        "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-H-Incentive-NOV140548.htm",
-                      "text":  "Spawn #250 Cover H Incentive"
+                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-F-NOV140546.htm",
+                      "text":  "Spawn #250 Cover F"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "SPAWN #252",
+                      "href":  "http://shop.comicxposure.com/SPAWN-252-FEB150635.htm",
+                      "src":  "http://shop.comicxposure.com/images/1429986423474-2087634855.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$2.99",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-G-Incentive-NOV140547.htm",
+                      "text":  "Spawn #250 Cover G Incentive"
                   }
     },
     {
@@ -4257,10 +4335,10 @@
                       "src":  "http://shop.comicxposure.com/images/14264620092281443501372.jpeg",
                       "text":  ""
                   },
-        "price":  "$9.99",
+        "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/SPAWN-251-JAN150596.htm",
-                      "text":  "SPAWN #251"
+                      "href":  "http://shop.comicxposure.com/Spawn-250-Cover-H-Incentive-NOV140548.htm",
+                      "text":  "Spawn #250 Cover H Incentive"
                   }
     },
     {
@@ -4268,6 +4346,32 @@
                       "alt":  "Spawn Resurrection #1 Cover B",
                       "href":  "http://shop.comicxposure.com/Spawn-Resurrection-1-Cover-B-DEC140603.htm",
                       "src":  "http://shop.comicxposure.com/images/1426462061739-516010140.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$2.62",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/SPAWN-251-JAN150596.htm",
+                      "text":  "SPAWN #251"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "Spread #1",
+                      "href":  "http://shop.comicxposure.com/Spread-1-MAY140579.htm",
+                      "src":  "http://shop.comicxposure.com/images/1416267312145368139229.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$9.99",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/SPAWN-252-FEB150635.htm",
+                      "text":  "SPAWN #252"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "Spread #1 Third Printing",
+                      "href":  "http://shop.comicxposure.com/Spread-1-Third-Printing-JUN148395.htm",
+                      "src":  "http://shop.comicxposure.com/images/1416267466116-324860041.jpeg",
                       "text":  ""
                   },
         "price":  "$9.99",
@@ -4278,41 +4382,15 @@
     },
     {
         "image":  {
-                      "alt":  "Spread #1",
-                      "href":  "http://shop.comicxposure.com/Spread-1-MAY140579.htm",
-                      "src":  "http://shop.comicxposure.com/images/1416267312145368139229.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$2.99",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Spawn-Resurrection-1-Cover-B-DEC140603.htm",
-                      "text":  "Spawn Resurrection #1 Cover B"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "Spread #1 Third Printing",
-                      "href":  "http://shop.comicxposure.com/Spread-1-Third-Printing-JUN148395.htm",
-                      "src":  "http://shop.comicxposure.com/images/1416267466116-324860041.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$2.39",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Spread-1-MAY140579.htm",
-                      "text":  "Spread #1"
-                  }
-    },
-    {
-        "image":  {
                       "alt":  "Spread #2 Second Printing",
                       "href":  "http://shop.comicxposure.com/Spread-2-Second-Printing-JUN148396.htm",
                       "src":  "http://shop.comicxposure.com/images/14162676500991261529804.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$9.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Spread-1-Third-Printing-JUN148395.htm",
-                      "text":  "Spread #1 Third Printing"
+                      "href":  "http://shop.comicxposure.com/Spawn-Resurrection-1-Cover-B-DEC140603.htm",
+                      "text":  "Spawn Resurrection #1 Cover B"
                   }
     },
     {
@@ -4322,10 +4400,10 @@
                       "src":  "http://shop.comicxposure.com/images/14162677527612145062776.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.39",
+        "price":  "$9.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Spread-2-Second-Printing-JUN148396.htm",
-                      "text":  "Spread #2 Second Printing"
+                      "href":  "http://shop.comicxposure.com/Spread-1-MAY140579.htm",
+                      "text":  "Spread #1"
                   }
     },
     {
@@ -4333,6 +4411,32 @@
                       "alt":  "Spread #4",
                       "href":  "http://shop.comicxposure.com/Spread-4-AUG140682.htm",
                       "src":  "http://shop.comicxposure.com/images/1414795555288-1918042095.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$9.99",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/Spread-1-Third-Printing-JUN148395.htm",
+                      "text":  "Spread #1 Third Printing"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "Spread #6",
+                      "href":  "http://shop.comicxposure.com/Spread-6-OCT140766.htm",
+                      "src":  "http://shop.comicxposure.com/images/1426467664858-1156380331.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$9.99",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/Spread-2-Second-Printing-JUN148396.htm",
+                      "text":  "Spread #2 Second Printing"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "SPREAD #7 CVR A STRAHM",
+                      "href":  "http://shop.comicxposure.com/SPREAD-7-CVR-A-STRAHM-NOV140686D.htm",
+                      "src":  "http://shop.comicxposure.com/images/1429763757423-547538492.jpeg",
                       "text":  ""
                   },
         "price":  "$2.99",
@@ -4343,15 +4447,28 @@
     },
     {
         "image":  {
-                      "alt":  "Spread #6",
-                      "href":  "http://shop.comicxposure.com/Spread-6-OCT140766.htm",
-                      "src":  "http://shop.comicxposure.com/images/1426467664858-1156380331.jpeg",
+                      "alt":  "SPREAD #7 CVR B COBB",
+                      "href":  "http://shop.comicxposure.com/SPREAD-7-CVR-B-COBB-NOV140687D.htm",
+                      "src":  "http://shop.comicxposure.com/images/1429763868264-1422048668.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.39",
         "title":  {
                       "href":  "http://shop.comicxposure.com/Spread-4-AUG140682.htm",
                       "text":  "Spread #4"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "SPREAD #7 INCENTIVE",
+                      "href":  "http://shop.comicxposure.com/SPREAD-7-INCENTIVE-NOV140688D.htm",
+                      "src":  "http://shop.comicxposure.com/images/1429763938998370619801.jpeg",
+                      "text":  ""
+                  },
+        "price":  "$2.99",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/Spread-6-OCT140766.htm",
+                      "text":  "Spread #6"
                   }
     },
     {
@@ -4361,10 +4478,10 @@
                       "src":  "http://shop.comicxposure.com/images/1426461612159-1446619276.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.39",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Spread-6-OCT140766.htm",
-                      "text":  "Spread #6"
+                      "href":  "http://shop.comicxposure.com/SPREAD-7-CVR-A-STRAHM-NOV140686D.htm",
+                      "text":  "SPREAD #7 CVR A STRAHM"
                   }
     },
     {
@@ -4374,10 +4491,10 @@
                       "src":  "http://shop.comicxposure.com/images/1426461671902-1469044448.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.50",
+        "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Surface-1-Cover-A-DEC140621.htm",
-                      "text":  "Surface #1 Cover A"
+                      "href":  "http://shop.comicxposure.com/SPREAD-7-CVR-B-COBB-NOV140687D.htm",
+                      "text":  "SPREAD #7 CVR B COBB"
                   }
     },
     {
@@ -4389,8 +4506,8 @@
                   },
         "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Surface-1-Cover-B-DEC140622.htm",
-                      "text":  "Surface #1 Cover B"
+                      "href":  "http://shop.comicxposure.com/SPREAD-7-INCENTIVE-NOV140688D.htm",
+                      "text":  "SPREAD #7 INCENTIVE"
                   }
     },
     {
@@ -4400,10 +4517,10 @@
                       "src":  "http://shop.comicxposure.com/images/1414795928804-20113790.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.80",
+        "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Surface-1-Cover-C-DEC140623.htm",
-                      "text":  "Surface #1 Cover C"
+                      "href":  "http://shop.comicxposure.com/Surface-1-Cover-A-DEC140621.htm",
+                      "text":  "Surface #1 Cover A"
                   }
     },
     {
@@ -4415,8 +4532,8 @@
                   },
         "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Tech-Jacket-Vol-2-5-SEP140757.htm",
-                      "text":  "Tech Jacket Vol 2 #5"
+                      "href":  "http://shop.comicxposure.com/Surface-1-Cover-B-DEC140622.htm",
+                      "text":  "Surface #1 Cover B"
                   }
     },
     {
@@ -4428,8 +4545,8 @@
                   },
         "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Tech-Jacket-Vol-2-6-OCT140769.htm",
-                      "text":  "Tech Jacket Vol 2 #6"
+                      "href":  "http://shop.comicxposure.com/Surface-1-Cover-C-DEC140623.htm",
+                      "text":  "Surface #1 Cover C"
                   }
     },
     {
@@ -4441,8 +4558,8 @@
                   },
         "price":  "$2.80",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Tenth-1-JAN11997.htm",
-                      "text":  "Tenth #1"
+                      "href":  "http://shop.comicxposure.com/Tech-Jacket-Vol-2-5-SEP140757.htm",
+                      "text":  "Tech Jacket Vol 2 #5"
                   }
     },
     {
@@ -4454,8 +4571,8 @@
                   },
         "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Tenth-2-FEB21997.htm",
-                      "text":  "Tenth #2"
+                      "href":  "http://shop.comicxposure.com/Tech-Jacket-Vol-2-6-OCT140769.htm",
+                      "text":  "Tech Jacket Vol 2 #6"
                   }
     },
     {
@@ -4465,10 +4582,10 @@
                       "src":  "http://shop.comicxposure.com/images/1417574867627-1816197326.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Tenth-3-540597.htm",
-                      "text":  "Tenth #3"
+                      "href":  "http://shop.comicxposure.com/Tenth-1-JAN11997.htm",
+                      "text":  "Tenth #1"
                   }
     },
     {
@@ -4478,10 +4595,10 @@
                       "src":  "http://shop.comicxposure.com/images/0(702).jpg",
                       "text":  ""
                   },
-        "price":  "$9.99",
+        "price":  "$2.80",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Tenth-3-MAY31997.htm",
-                      "text":  "Tenth #3"
+                      "href":  "http://shop.comicxposure.com/Tenth-2-FEB21997.htm",
+                      "text":  "Tenth #2"
                   }
     },
     {
@@ -4491,10 +4608,10 @@
                       "src":  "http://shop.comicxposure.com/images/1417572894357-842366709.jpeg",
                       "text":  ""
                   },
-        "price":  "$2.99",
+        "price":  "$3.50",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Tenth-4-JUN41997.htm",
-                      "text":  "Tenth #4"
+                      "href":  "http://shop.comicxposure.com/Tenth-3-540597.htm",
+                      "text":  "Tenth #3"
                   }
     },
     {
@@ -4506,8 +4623,8 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Tenth-Vol-2-10-Cvr-B-1056781.htm",
-                      "text":  "Tenth Vol 2 #10 Cvr B"
+                      "href":  "http://shop.comicxposure.com/Tenth-3-MAY31997.htm",
+                      "text":  "Tenth #3"
                   }
     },
     {
@@ -4517,153 +4634,10 @@
                       "src":  "http://shop.comicxposure.com/images/1422315541922509775230.jpeg",
                       "text":  ""
                   },
-        "price":  "$3.99",
+        "price":  "$9.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/Theyre-Not-Like-Us-1-OCT140592.htm",
-                      "text":  "Theyre Not Like Us #1"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "Theyre Not Like Us #3",
-                      "href":  "http://shop.comicxposure.com/Theyre-Not-Like-Us-3-DEC140769.htm",
-                      "src":  "http://shop.comicxposure.com/images/00(73).jpg",
-                      "text":  ""
-                  },
-        "price":  "$8.99",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Theyre-Not-Like-Us-2-NOV140691.htm",
-                      "text":  "Theyre Not Like Us #2"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "JAN150716D",
-                      "href":  "http://shop.comicxposure.com/THEYRE-NOT-LIKE-US-4-JAN150716D.htm",
-                      "src":  "http://shop.comicxposure.com/images/1427575995397-621936198.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$8.99",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Theyre-Not-Like-Us-3-DEC140769.htm",
-                      "text":  "Theyre Not Like Us #3"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "Tithe #1 Cover C Incentive Rahsan Ekedal Variant Cover",
-                      "href":  "http://shop.comicxposure.com/Tithe-1-Cover-C-Incentive-Rahsan-Ekedal-Variant-Cover-FEB150490.htm",
-                      "src":  "http://shop.comicxposure.com/images/1428652401585741334321.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$8.99",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/THEYRE-NOT-LIKE-US-4-JAN150716D.htm",
-                      "text":  "THEYRE NOT LIKE US #4"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "TITHE #1 CVR A EKEDAL",
-                      "href":  "http://shop.comicxposure.com/TITHE-1-CVR-A-EKEDAL-FEB150488.htm",
-                      "src":  "http://shop.comicxposure.com/images/1428651940171-1582176622.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$3.50",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Tithe-1-Cover-C-Incentive-Rahsan-Ekedal-Variant-Cover-FEB150490.htm",
-                      "text":  "Tithe #1 Cover C Incentive Rahsan Ekedal Variant Cover"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "TITHE #1 CVR B EKEDAL",
-                      "href":  "http://shop.comicxposure.com/TITHE-1-CVR-B-EKEDAL-FEB150489.htm",
-                      "src":  "http://shop.comicxposure.com/images/14286519815701742430596.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$2.80",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/TITHE-1-CVR-A-EKEDAL-FEB150488.htm",
-                      "text":  "TITHE #1 CVR A EKEDAL"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "Tooth \u0026 Claw #1 Cover A",
-                      "href":  "http://shop.comicxposure.com/Tooth-Claw-1-Cover-A-SEP140540.htm",
-                      "src":  "http://shop.comicxposure.com/images/1414796860106589881825.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$2.99",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/TITHE-1-CVR-B-EKEDAL-FEB150489.htm",
-                      "text":  "TITHE #1 CVR B EKEDAL"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "Tooth \u0026 Claw #2 Cover A",
-                      "href":  "http://shop.comicxposure.com/Tooth-Claw-2-Cover-A-OCT140609.htm",
-                      "src":  "http://shop.comicxposure.com/images/1417110494051-972249194.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$3.50",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Tooth-Claw-1-Cover-A-SEP140540.htm",
-                      "text":  "Tooth \u0026 Claw #1 Cover A"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "Tooth \u0026 Claw #2 Cover B",
-                      "href":  "http://shop.comicxposure.com/Tooth-Claw-2-Cover-B-OCT140610.htm",
-                      "src":  "http://shop.comicxposure.com/images/1417110571974-182789821.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$2.80",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Tooth-Claw-2-Cover-A-OCT140609.htm",
-                      "text":  "Tooth \u0026 Claw #2 Cover A"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "Trees #6",
-                      "href":  "http://shop.comicxposure.com/Trees-6-AUG140687.htm",
-                      "src":  "http://shop.comicxposure.com/images/1413772291320-1466173919.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$3.50",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Tooth-Claw-2-Cover-B-OCT140610.htm",
-                      "text":  "Tooth \u0026 Claw #2 Cover B"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "Trees #7",
-                      "href":  "http://shop.comicxposure.com/Trees-7-SEP140758.htm",
-                      "src":  "http://shop.comicxposure.com/images/14165499104711429908150.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$2.80",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Trees-6-AUG140687.htm",
-                      "text":  "Trees #6"
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "VELVET #10",
-                      "href":  "http://shop.comicxposure.com/VELVET-10-SEP140760D.htm",
-                      "src":  "http://shop.comicxposure.com/images/1429400699636-20247359.jpeg",
-                      "text":  ""
-                  },
-        "price":  "$3.50",
-        "title":  {
-                      "href":  "http://shop.comicxposure.com/Trees-7-SEP140758.htm",
-                      "text":  "Trees #7"
+                      "href":  "http://shop.comicxposure.com/Tenth-4-JUN41997.htm",
+                      "text":  "Tenth #4"
                   }
     },
     {
@@ -4675,8 +4649,190 @@
                   },
         "price":  "$2.99",
         "title":  {
-                      "href":  "http://shop.comicxposure.com/VELVET-10-SEP140760D.htm",
-                      "text":  "VELVET #10"
+                      "href":  "http://shop.comicxposure.com/Tenth-Vol-2-10-Cvr-B-1056781.htm",
+                      "text":  "Tenth Vol 2 #10 Cvr B"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$2.99",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/Theyre-Not-Like-Us-1-OCT140592.htm",
+                      "text":  "Theyre Not Like Us #1"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$3.99",
+        "title":  {
+                      "href":  "http://shop.comicxposure.com/Theyre-Not-Like-Us-2-NOV140691.htm",
+                      "text":  "Theyre Not Like Us #2"
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$8.99",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$8.99",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$8.99",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$3.50",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$2.80",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$2.99",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$3.50",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$2.80",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$3.50",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$2.80",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$3.50",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$2.99",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
                   }
     },
     {
@@ -5141,6 +5297,32 @@
                       "src":  "",
                       "text":  ""
                   },
+        "price":  "$2.99",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$2.39",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
         "price":  "$6.99",
         "title":  {
                       "href":  "",
@@ -5220,6 +5402,71 @@
                       "text":  ""
                   },
         "price":  "$2.80",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$3.50",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$2.80",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$3.50",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$2.80",
+        "title":  {
+                      "href":  "",
+                      "text":  ""
+                  }
+    },
+    {
+        "image":  {
+                      "alt":  "",
+                      "href":  "",
+                      "src":  "",
+                      "text":  ""
+                  },
+        "price":  "$14.99",
         "title":  {
                       "href":  "",
                       "text":  ""
@@ -5454,162 +5701,6 @@
                       "text":  ""
                   },
         "price":  "$2.39",
-        "title":  {
-                      "href":  "",
-                      "text":  ""
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "",
-                      "href":  "",
-                      "src":  "",
-                      "text":  ""
-                  },
-        "price":  "$2.99",
-        "title":  {
-                      "href":  "",
-                      "text":  ""
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "",
-                      "href":  "",
-                      "src":  "",
-                      "text":  ""
-                  },
-        "price":  "$2.39",
-        "title":  {
-                      "href":  "",
-                      "text":  ""
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "",
-                      "href":  "",
-                      "src":  "",
-                      "text":  ""
-                  },
-        "price":  "$2.99",
-        "title":  {
-                      "href":  "",
-                      "text":  ""
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "",
-                      "href":  "",
-                      "src":  "",
-                      "text":  ""
-                  },
-        "price":  "$9.99",
-        "title":  {
-                      "href":  "",
-                      "text":  ""
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "",
-                      "href":  "",
-                      "src":  "",
-                      "text":  ""
-                  },
-        "price":  "$3.99",
-        "title":  {
-                      "href":  "",
-                      "text":  ""
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "",
-                      "href":  "",
-                      "src":  "",
-                      "text":  ""
-                  },
-        "price":  "$3.99",
-        "title":  {
-                      "href":  "",
-                      "text":  ""
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "",
-                      "href":  "",
-                      "src":  "",
-                      "text":  ""
-                  },
-        "price":  "$2.99",
-        "title":  {
-                      "href":  "",
-                      "text":  ""
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "",
-                      "href":  "",
-                      "src":  "",
-                      "text":  ""
-                  },
-        "price":  "$2.99",
-        "title":  {
-                      "href":  "",
-                      "text":  ""
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "",
-                      "href":  "",
-                      "src":  "",
-                      "text":  ""
-                  },
-        "price":  "$2.99",
-        "title":  {
-                      "href":  "",
-                      "text":  ""
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "",
-                      "href":  "",
-                      "src":  "",
-                      "text":  ""
-                  },
-        "price":  "$2.99",
-        "title":  {
-                      "href":  "",
-                      "text":  ""
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "",
-                      "href":  "",
-                      "src":  "",
-                      "text":  ""
-                  },
-        "price":  "$2.99",
-        "title":  {
-                      "href":  "",
-                      "text":  ""
-                  }
-    },
-    {
-        "image":  {
-                      "alt":  "",
-                      "href":  "",
-                      "src":  "",
-                      "text":  ""
-                  },
-        "price":  "$3.50",
         "title":  {
                       "href":  "",
                       "text":  ""

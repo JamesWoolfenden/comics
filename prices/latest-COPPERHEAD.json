@@ -13,7 +13,7 @@
         "AveragePaid":  2.75,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1429520479710)\/"
+        "Date":  "\/Date(1430730074397)\/"
     },
     {
         "Title":  "COPPERHEAD",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520479878)\/"
+        "Date":  "\/Date(1430730074528)\/"
     },
     {
         "Title":  "COPPERHEAD",
@@ -45,22 +45,22 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1429520480022)\/"
+        "Date":  "\/Date(1430730074650)\/"
     },
     {
         "Title":  "COPPERHEAD",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "5.72",
-        "Mean":  5.718,
-        "AveragePrice":  3.4979999999999998,
-        "CurrentPrice":  3.498,
+        "TotalCost":  "6.18",
+        "Mean":  6.177142857142857,
+        "AveragePrice":  3.9271428571428575,
+        "CurrentPrice":  3.998,
         "Minimum":  0.99,
         "Maximum":  5,
-        "Count":  5,
+        "Count":  7,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520480209)\/"
+        "Date":  "\/Date(1430730074790)\/"
     }
 ]

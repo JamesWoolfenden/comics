@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520492567)\/"
+        "Date":  "\/Date(1430730086537)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520492722)\/"
+        "Date":  "\/Date(1430730086684)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520492898)\/"
+        "Date":  "\/Date(1430730086809)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520493049)\/"
+        "Date":  "\/Date(1430730086931)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -77,23 +77,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520493202)\/"
+        "Date":  "\/Date(1430730087057)\/"
     },
     {
         "Title":  "EAST OF WEST",
         "Issue":  "14",
         "Cover":  14,
-        "TotalCost":  "2.29",
-        "Mean":  2.2933333333333334,
-        "AveragePrice":  1.03,
-        "CurrentPrice":  1.03,
+        "TotalCost":  "2.31",
+        "Mean":  2.3075,
+        "AveragePrice":  0.94750000000000012,
+        "CurrentPrice":  0.9475,
         "Minimum":  0.6,
         "Maximum":  1.5,
-        "Count":  3,
+        "Count":  4,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520493366)\/"
+        "Date":  "\/Date(1430730087188)\/"
     },
     {
         "Title":  "east of west",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520493514)\/"
+        "Date":  "\/Date(1430730087318)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520493667)\/"
+        "Date":  "\/Date(1430730087455)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520493859)\/"
+        "Date":  "\/Date(1430730087612)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -157,7 +157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520494016)\/"
+        "Date":  "\/Date(1430730087738)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -173,23 +173,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520494162)\/"
+        "Date":  "\/Date(1430730087861)\/"
     },
     {
         "Title":  "EAST OF WEST",
         "Issue":  "1B",
         "Cover":  1,
-        "TotalCost":  "2.14",
-        "Mean":  2.1399999999999997,
-        "AveragePrice":  0.49,
-        "CurrentPrice":  0.49,
+        "TotalCost":  "2.39",
+        "Mean":  2.3925,
+        "AveragePrice":  0.74249999999999994,
+        "CurrentPrice":  0.74249999999999994,
         "Minimum":  0.49,
-        "Maximum":  0.49,
-        "Count":  2,
+        "Maximum":  1.5,
+        "Count":  4,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520494310)\/"
+        "Date":  "\/Date(1430730087997)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520494458)\/"
+        "Date":  "\/Date(1430730088121)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -221,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520494622)\/"
+        "Date":  "\/Date(1430730088242)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -237,23 +237,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520494777)\/"
+        "Date":  "\/Date(1430730088369)\/"
     },
     {
         "Title":  "EAST OF WEST",
         "Issue":  "1GHOST",
         "Cover":  1,
-        "TotalCost":  "10.80",
-        "Mean":  10.8,
-        "AveragePrice":  7.8,
-        "CurrentPrice":  7.8,
-        "Minimum":  7,
+        "TotalCost":  "10.03",
+        "Mean":  10.033333333333333,
+        "AveragePrice":  7.0333333333333341,
+        "CurrentPrice":  6.94,
+        "Minimum":  3.2,
         "Maximum":  9.5,
-        "Count":  5,
+        "Count":  6,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520494960)\/"
+        "Date":  "\/Date(1430730088524)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -269,7 +269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520495105)\/"
+        "Date":  "\/Date(1430730088647)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -285,7 +285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520495274)\/"
+        "Date":  "\/Date(1430730088773)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -301,7 +301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520495418)\/"
+        "Date":  "\/Date(1430730088909)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -317,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520495570)\/"
+        "Date":  "\/Date(1430730089037)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -333,7 +333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520495757)\/"
+        "Date":  "\/Date(1430730089175)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -349,7 +349,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520495903)\/"
+        "Date":  "\/Date(1430730089301)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -365,7 +365,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520496061)\/"
+        "Date":  "\/Date(1430730089510)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -381,7 +381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520496215)\/"
+        "Date":  "\/Date(1430730089633)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -397,7 +397,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520496368)\/"
+        "Date":  "\/Date(1430730089761)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -413,7 +413,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520496523)\/"
+        "Date":  "\/Date(1430730089885)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -429,39 +429,39 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520496676)\/"
+        "Date":  "\/Date(1430730090013)\/"
     },
     {
         "Title":  "EAST OF WEST",
         "Issue":  "7",
         "Cover":  7,
-        "TotalCost":  "7.73",
-        "Mean":  7.725,
-        "AveragePrice":  7.725,
-        "CurrentPrice":  7.725,
-        "Minimum":  2.95,
+        "TotalCost":  "5.86",
+        "Mean":  5.8633333333333333,
+        "AveragePrice":  5.3133333333333335,
+        "CurrentPrice":  5.3133333333333335,
+        "Minimum":  0.49,
         "Maximum":  12.5,
-        "Count":  2,
+        "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520496835)\/"
+        "Date":  "\/Date(1430730090179)\/"
     },
     {
         "Title":  "EAST OF WEST",
         "Issue":  "8",
         "Cover":  8,
-        "TotalCost":  "1.88",
-        "Mean":  1.8766666666666667,
-        "AveragePrice":  1.3266666666666669,
-        "CurrentPrice":  1.3266666666666667,
+        "TotalCost":  "1.94",
+        "Mean":  1.9425,
+        "AveragePrice":  1.1175000000000002,
+        "CurrentPrice":  1.1175,
         "Minimum":  0.49,
         "Maximum":  2.5,
-        "Count":  3,
+        "Count":  4,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520497001)\/"
+        "Date":  "\/Date(1430730090323)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -469,7 +469,7 @@
         "Cover":  9,
         "TotalCost":  "2.50",
         "Mean":  2.495,
-        "AveragePrice":  1.67,
+        "AveragePrice":  1.6700000000000002,
         "CurrentPrice":  1.6700000000000002,
         "Minimum":  0.49,
         "Maximum":  2.99,
@@ -477,7 +477,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520497169)\/"
+        "Date":  "\/Date(1430730090468)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -493,23 +493,39 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520497317)\/"
+        "Date":  "\/Date(1430730090605)\/"
+    },
+    {
+        "Title":  "EAST OF WEST",
+        "Issue":  "POSTER",
+        "Cover":  0,
+        "TotalCost":  "2.49",
+        "Mean":  2.49,
+        "AveragePrice":  0.99,
+        "CurrentPrice":  0.99,
+        "Minimum":  0.99,
+        "Maximum":  0.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730090728)\/"
     },
     {
         "Title":  "EAST OF WEST",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "13.09",
-        "Mean":  13.093666666666669,
-        "AveragePrice":  10.921333333333337,
-        "CurrentPrice":  11.936000000000002,
+        "TotalCost":  "13.02",
+        "Mean":  13.02225806451613,
+        "AveragePrice":  10.85387096774194,
+        "CurrentPrice":  5.522,
         "Minimum":  0.75,
         "Maximum":  101,
-        "Count":  60,
+        "Count":  62,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520497620)\/"
+        "Date":  "\/Date(1430730091030)\/"
     },
     {
         "Title":  "EAST OF WEST",
@@ -525,6 +541,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520497765)\/"
+        "Date":  "\/Date(1430730091157)\/"
     }
 ]

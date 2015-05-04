@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520679910)\/"
+        "Date":  "\/Date(1430730265167)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520680076)\/"
+        "Date":  "\/Date(1430730265292)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520680235)\/"
+        "Date":  "\/Date(1430730265428)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -61,15 +61,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520680379)\/"
+        "Date":  "\/Date(1430730265552)\/"
     },
     {
         "Title":  "TEN GRAND",
         "Issue":  "1A",
         "Cover":  1,
         "TotalCost":  "2.65",
-        "Mean":  2.6474999999999995,
-        "AveragePrice":  1.76375,
+        "Mean":  2.6475,
+        "AveragePrice":  1.7637499999999997,
         "CurrentPrice":  1.7559999999999998,
         "Minimum":  0.54,
         "Maximum":  2.99,
@@ -77,15 +77,15 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520680547)\/"
+        "Date":  "\/Date(1430730265763)\/"
     },
     {
         "Title":  "TEN GRAND",
         "Issue":  "1B",
         "Cover":  1,
         "TotalCost":  "2.65",
-        "Mean":  2.6449999999999996,
-        "AveragePrice":  1.57,
+        "Mean":  2.645,
+        "AveragePrice":  1.5700000000000003,
         "CurrentPrice":  1.686,
         "Minimum":  0.49,
         "Maximum":  2.9,
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520680727)\/"
+        "Date":  "\/Date(1430730265907)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520680874)\/"
+        "Date":  "\/Date(1430730266031)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -125,15 +125,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520681023)\/"
+        "Date":  "\/Date(1430730266163)\/"
     },
     {
         "Title":  "TEN GRAND",
         "Issue":  "1FP",
         "Cover":  1,
         "TotalCost":  "3.18",
-        "Mean":  3.1799999999999997,
-        "AveragePrice":  2.5133333333333332,
+        "Mean":  3.18,
+        "AveragePrice":  2.5133333333333336,
         "CurrentPrice":  2.5133333333333336,
         "Minimum":  1.49,
         "Maximum":  3.95,
@@ -141,7 +141,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520681187)\/"
+        "Date":  "\/Date(1430730266313)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -157,7 +157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520681337)\/"
+        "Date":  "\/Date(1430730266450)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520681521)\/"
+        "Date":  "\/Date(1430730266648)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -189,14 +189,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520681669)\/"
+        "Date":  "\/Date(1430730266774)\/"
     },
     {
         "Title":  "TEN GRAND",
         "Issue":  "3",
         "Cover":  3,
         "TotalCost":  "2.93",
-        "Mean":  2.9339999999999997,
+        "Mean":  2.934,
         "AveragePrice":  1.8940000000000001,
         "CurrentPrice":  1.8940000000000001,
         "Minimum":  0.99,
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520681867)\/"
+        "Date":  "\/Date(1430730266947)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -221,15 +221,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520682025)\/"
+        "Date":  "\/Date(1430730267088)\/"
     },
     {
         "Title":  "TEN GRAND",
         "Issue":  "4A",
         "Cover":  4,
         "TotalCost":  "2.81",
-        "Mean":  2.811666666666667,
-        "AveragePrice":  2.811666666666667,
+        "Mean":  2.8116666666666661,
+        "AveragePrice":  2.8116666666666661,
         "CurrentPrice":  2.794,
         "Minimum":  1.57,
         "Maximum":  3.25,
@@ -237,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520682225)\/"
+        "Date":  "\/Date(1430730267248)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -253,7 +253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520682418)\/"
+        "Date":  "\/Date(1430730267405)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -269,7 +269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520682568)\/"
+        "Date":  "\/Date(1430730267529)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -285,7 +285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520682771)\/"
+        "Date":  "\/Date(1430730267693)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -301,14 +301,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520682932)\/"
+        "Date":  "\/Date(1430730267824)\/"
     },
     {
         "Title":  "TEN GRAND",
         "Issue":  "7A",
         "Cover":  7,
         "TotalCost":  "2.83",
-        "Mean":  2.8280000000000003,
+        "Mean":  2.828,
         "AveragePrice":  2.208,
         "CurrentPrice":  2.208,
         "Minimum":  0.99,
@@ -317,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520683123)\/"
+        "Date":  "\/Date(1430730267999)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -333,7 +333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520683322)\/"
+        "Date":  "\/Date(1430730268148)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -349,7 +349,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520683473)\/"
+        "Date":  "\/Date(1430730268283)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -365,7 +365,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520683637)\/"
+        "Date":  "\/Date(1430730268427)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -381,7 +381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520683807)\/"
+        "Date":  "\/Date(1430730268594)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -397,7 +397,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520684014)\/"
+        "Date":  "\/Date(1430730268818)\/"
     },
     {
         "Title":  "TEN GRAND",
@@ -413,6 +413,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520684162)\/"
+        "Date":  "\/Date(1430730268949)\/"
     }
 ]

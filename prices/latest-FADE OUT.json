@@ -3,17 +3,17 @@
         "Title":  "FADE OUT",
         "Issue":  "1A",
         "Cover":  1,
-        "TotalCost":  "4.27",
-        "Mean":  4.2663636363636366,
-        "AveragePrice":  3.0877272727272729,
-        "CurrentPrice":  2.664,
-        "Minimum":  1.2,
+        "TotalCost":  "4.21",
+        "Mean":  4.2104347826086963,
+        "AveragePrice":  2.9965217391304351,
+        "CurrentPrice":  2.4200000000000004,
+        "Minimum":  0.99,
         "Maximum":  9.25,
-        "Count":  22,
+        "Count":  23,
         "AveragePaid":  2.99,
         "AverageNetPaid":  2.99,
         "Stock":  1,
-        "Date":  "\/Date(1429520502972)\/"
+        "Date":  "\/Date(1430730095695)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520503119)\/"
+        "Date":  "\/Date(1430730095818)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -45,14 +45,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520503314)\/"
+        "Date":  "\/Date(1430730095995)\/"
     },
     {
-        "Title":  "FADE OUT",
+        "Title":  "fade out",
         "Issue":  "1MOVIE",
         "Cover":  1,
         "TotalCost":  "9.59",
-        "Mean":  9.5857142857142854,
+        "Mean":  9.5857142857142872,
         "AveragePrice":  7.9471428571428566,
         "CurrentPrice":  7.286,
         "Minimum":  3.45,
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520503515)\/"
+        "Date":  "\/Date(1430730096153)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520503663)\/"
+        "Date":  "\/Date(1430730096276)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -93,22 +93,22 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520503857)\/"
+        "Date":  "\/Date(1430730096411)\/"
     },
     {
         "Title":  "FADE OUT",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "7.69",
-        "Mean":  7.6893333333333338,
-        "AveragePrice":  5.647333333333334,
-        "CurrentPrice":  4.58,
+        "TotalCost":  "8.12",
+        "Mean":  8.1194117647058821,
+        "AveragePrice":  6.1294117647058828,
+        "CurrentPrice":  4.88,
         "Minimum":  2.07,
         "Maximum":  14.99,
-        "Count":  15,
+        "Count":  17,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520504071)\/"
+        "Date":  "\/Date(1430730096595)\/"
     }
 ]

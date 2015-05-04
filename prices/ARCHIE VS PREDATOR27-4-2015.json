@@ -1,0 +1,34 @@
+[
+    {
+        "Title":  "ARCHIE VS PREDATOR",
+        "Issue":  "1ASHCAN",
+        "Cover":  1,
+        "TotalCost":  "3.24",
+        "Mean":  3.24,
+        "AveragePrice":  3.24,
+        "CurrentPrice":  3.24,
+        "Minimum":  3.24,
+        "Maximum":  3.24,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430125243673)\/"
+    },
+    {
+        "Title":  "ARCHIE VS PREDATOR",
+        "Issue":  "1FRANCAVILLA",
+        "Cover":  1,
+        "TotalCost":  "13.50",
+        "Mean":  13.5,
+        "AveragePrice":  12.5,
+        "CurrentPrice":  12.5,
+        "Minimum":  12.5,
+        "Maximum":  12.5,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430125243833)\/"
+    }
+]

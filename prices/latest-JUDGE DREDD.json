@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520534886)\/"
+        "Date":  "\/Date(1430730123165)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520535032)\/"
+        "Date":  "\/Date(1430730123297)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520535178)\/"
+        "Date":  "\/Date(1430730123424)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520535328)\/"
+        "Date":  "\/Date(1430730123552)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520535488)\/"
+        "Date":  "\/Date(1430730123703)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520535644)\/"
+        "Date":  "\/Date(1430730123844)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520535809)\/"
+        "Date":  "\/Date(1430730123978)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -125,7 +125,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520535986)\/"
+        "Date":  "\/Date(1430730124118)\/"
+    },
+    {
+        "Title":  "JUDGE DREDD",
+        "Issue":  "16",
+        "Cover":  16,
+        "TotalCost":  "3.40",
+        "Mean":  3.4,
+        "AveragePrice":  1,
+        "CurrentPrice":  1,
+        "Minimum":  1,
+        "Maximum":  1,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730124244)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -141,7 +157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520536130)\/"
+        "Date":  "\/Date(1430730124370)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -157,15 +173,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520536287)\/"
+        "Date":  "\/Date(1430730124499)\/"
     },
     {
         "Title":  "JUDGE DREDD",
         "Issue":  "2",
         "Cover":  2,
         "TotalCost":  "3.75",
-        "Mean":  3.7479999999999998,
-        "AveragePrice":  2.4899999999999998,
+        "Mean":  3.748,
+        "AveragePrice":  2.49,
         "CurrentPrice":  2.49,
         "Minimum":  0.99,
         "Maximum":  4.07,
@@ -173,23 +189,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520536481)\/"
+        "Date":  "\/Date(1430730124646)\/"
     },
     {
         "Title":  "JUDGE DREDD",
         "Issue":  "20",
         "Cover":  20,
-        "TotalCost":  "2.30",
-        "Mean":  2.3,
-        "AveragePrice":  1.4000000000000001,
-        "CurrentPrice":  1.4000000000000001,
+        "TotalCost":  "2.67",
+        "Mean":  2.6666666666666665,
+        "AveragePrice":  1.2666666666666668,
+        "CurrentPrice":  1.2666666666666668,
         "Minimum":  0.6,
         "Maximum":  2.2,
-        "Count":  2,
+        "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520536636)\/"
+        "Date":  "\/Date(1430730124808)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -205,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520536786)\/"
+        "Date":  "\/Date(1430730124938)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -221,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520536930)\/"
+        "Date":  "\/Date(1430730125058)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -237,7 +253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520537082)\/"
+        "Date":  "\/Date(1430730125186)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -253,7 +269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520537232)\/"
+        "Date":  "\/Date(1430730125320)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -269,7 +285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520537380)\/"
+        "Date":  "\/Date(1430730125447)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -285,7 +301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520537539)\/"
+        "Date":  "\/Date(1430730125577)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -301,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520537692)\/"
+        "Date":  "\/Date(1430730125706)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -317,7 +333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520537837)\/"
+        "Date":  "\/Date(1430730125828)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -333,7 +349,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520537999)\/"
+        "Date":  "\/Date(1430730125961)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -349,7 +365,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520538175)\/"
+        "Date":  "\/Date(1430730126099)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -365,7 +381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520538339)\/"
+        "Date":  "\/Date(1430730126229)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -381,7 +397,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520538487)\/"
+        "Date":  "\/Date(1430730126368)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -397,7 +413,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520538640)\/"
+        "Date":  "\/Date(1430730126494)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -413,23 +429,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520538786)\/"
+        "Date":  "\/Date(1430730126643)\/"
     },
     {
         "Title":  "JUDGE DREDD",
         "Issue":  "SET",
         "Cover":  0,
         "TotalCost":  "15.66",
-        "Mean":  15.660499999999999,
+        "Mean":  15.660500000000003,
         "AveragePrice":  12.965,
-        "CurrentPrice":  13.898000000000001,
+        "CurrentPrice":  13.898,
         "Minimum":  0.99,
         "Maximum":  79.99,
         "Count":  20,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520538958)\/"
+        "Date":  "\/Date(1430730126811)\/"
     },
     {
         "Title":  "JUDGE DREDD",
@@ -445,6 +461,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520539105)\/"
+        "Date":  "\/Date(1430730126941)\/"
     }
 ]

@@ -4,16 +4,16 @@
         "Issue":  "1",
         "Cover":  1,
         "TotalCost":  "4.07",
-        "Mean":  4.0687500000000005,
+        "Mean":  4.06875,
         "AveragePrice":  2.5949999999999998,
-        "CurrentPrice":  2.762,
+        "CurrentPrice":  2.914,
         "Minimum":  1.65,
         "Maximum":  4.99,
         "Count":  8,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520843393)\/"
+        "Date":  "\/Date(1430730443748)\/"
     },
     {
         "Title":  "THEYRE NOT LIKE US",
@@ -29,22 +29,22 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520843552)\/"
+        "Date":  "\/Date(1430730444127)\/"
     },
     {
         "Title":  "THEYRE NOT LIKE US",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "6.28",
-        "Mean":  6.28,
-        "AveragePrice":  4.5349999999999993,
-        "CurrentPrice":  4.8020000000000005,
+        "TotalCost":  "6.50",
+        "Mean":  6.4971428571428564,
+        "AveragePrice":  4.6014285714285705,
+        "CurrentPrice":  5.1620000000000008,
         "Minimum":  3.2,
         "Maximum":  6.5,
-        "Count":  6,
+        "Count":  7,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520843732)\/"
+        "Date":  "\/Date(1430730444539)\/"
     }
 ]

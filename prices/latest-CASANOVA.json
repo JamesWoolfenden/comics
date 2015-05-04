@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520451842)\/"
+        "Date":  "\/Date(1430730049409)\/"
     },
     {
         "Title":  "CASANOVA",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520451985)\/"
+        "Date":  "\/Date(1430730049531)\/"
     },
     {
         "Title":  "CASANOVA",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520452130)\/"
+        "Date":  "\/Date(1430730049663)\/"
     },
     {
         "Title":  "CASANOVA",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520452286)\/"
+        "Date":  "\/Date(1430730049793)\/"
     },
     {
         "Title":  "CASANOVA",
@@ -77,22 +77,22 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520452442)\/"
+        "Date":  "\/Date(1430730049921)\/"
     },
     {
         "Title":  "CASANOVA",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "6.55",
-        "Mean":  6.55,
-        "AveragePrice":  4.625,
-        "CurrentPrice":  4.625,
+        "TotalCost":  "6.60",
+        "Mean":  6.6,
+        "AveragePrice":  4.5,
+        "CurrentPrice":  4.5,
         "Minimum":  4,
         "Maximum":  5.5,
-        "Count":  4,
+        "Count":  5,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520452608)\/"
+        "Date":  "\/Date(1430730050057)\/"
     }
 ]

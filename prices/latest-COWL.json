@@ -4,7 +4,7 @@
         "Issue":  "1",
         "Cover":  1,
         "TotalCost":  "4.67",
-        "Mean":  4.6725,
+        "Mean":  4.6724999999999994,
         "AveragePrice":  4.0305,
         "CurrentPrice":  5.2840000000000007,
         "Minimum":  0.99,
@@ -13,7 +13,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  2,
-        "Date":  "\/Date(1429520480616)\/"
+        "Date":  "\/Date(1430730075205)\/"
     },
     {
         "Title":  "COWL",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520480761)\/"
+        "Date":  "\/Date(1430730075331)\/"
     },
     {
         "Title":  "COWL",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520480968)\/"
+        "Date":  "\/Date(1430730075500)\/"
     },
     {
         "Title":  "COWL",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520481146)\/"
+        "Date":  "\/Date(1430730075631)\/"
     },
     {
         "Title":  "COWL",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520481299)\/"
+        "Date":  "\/Date(1430730075764)\/"
     },
     {
         "Title":  "COWL",
@@ -93,22 +93,22 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520481451)\/"
+        "Date":  "\/Date(1430730075892)\/"
     },
     {
         "Title":  "COWL",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "10.65",
-        "Mean":  10.648,
-        "AveragePrice":  8.578,
-        "CurrentPrice":  8.578,
+        "TotalCost":  "10.18",
+        "Mean":  10.175714285714287,
+        "AveragePrice":  7.87,
+        "CurrentPrice":  8.34,
         "Minimum":  3.4,
         "Maximum":  10.5,
-        "Count":  5,
+        "Count":  7,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520481645)\/"
+        "Date":  "\/Date(1430730076055)\/"
     }
 ]

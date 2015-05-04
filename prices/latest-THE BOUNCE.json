@@ -4,8 +4,8 @@
         "Issue":  "10",
         "Cover":  10,
         "TotalCost":  "2.35",
-        "Mean":  2.3499999999999996,
-        "AveragePrice":  1.6900000000000002,
+        "Mean":  2.35,
+        "AveragePrice":  1.69,
         "CurrentPrice":  1.69,
         "Minimum":  0.99,
         "Maximum":  2.1,
@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520687225)\/"
+        "Date":  "\/Date(1430730271787)\/"
     },
     {
         "Title":  "THE BOUNCE",
@@ -29,39 +29,39 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  1.75,
         "Stock":  1,
-        "Date":  "\/Date(1429520687380)\/"
+        "Date":  "\/Date(1430730271932)\/"
     },
     {
         "Title":  "THE BOUNCE",
         "Issue":  "12",
         "Cover":  12,
-        "TotalCost":  "2.23",
-        "Mean":  2.23,
-        "AveragePrice":  1.92,
-        "CurrentPrice":  1.9200000000000002,
-        "Minimum":  1.13,
+        "TotalCost":  "2.21",
+        "Mean":  2.2119999999999997,
+        "AveragePrice":  1.634,
+        "CurrentPrice":  1.634,
+        "Minimum":  0.49,
         "Maximum":  2.25,
-        "Count":  4,
+        "Count":  5,
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1429520687544)\/"
+        "Date":  "\/Date(1430730272092)\/"
     },
     {
         "Title":  "THE BOUNCE",
         "Issue":  "1A",
         "Cover":  1,
         "TotalCost":  "2.21",
-        "Mean":  2.214285714285714,
-        "AveragePrice":  1.3285714285714285,
-        "CurrentPrice":  0.992,
+        "Mean":  2.2093333333333334,
+        "AveragePrice":  1.2726666666666666,
+        "CurrentPrice":  0.892,
         "Minimum":  0.49,
         "Maximum":  2.95,
-        "Count":  14,
+        "Count":  15,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520687737)\/"
+        "Date":  "\/Date(1430730272261)\/"
     },
     {
         "Title":  "THE BOUNCE",
@@ -77,14 +77,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520687892)\/"
+        "Date":  "\/Date(1430730272395)\/"
     },
     {
         "Title":  "THE BOUNCE",
         "Issue":  "1DIAMOND",
         "Cover":  1,
         "TotalCost":  "3.30",
-        "Mean":  3.3008333333333337,
+        "Mean":  3.3008333333333333,
         "AveragePrice":  2.3383333333333334,
         "CurrentPrice":  3.036,
         "Minimum":  0.5,
@@ -93,10 +93,10 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520688088)\/"
+        "Date":  "\/Date(1430730272557)\/"
     },
     {
-        "Title":  "THE BOUNCE",
+        "Title":  "The Bounce",
         "Issue":  "1FP",
         "Cover":  1,
         "TotalCost":  "2.20",
@@ -109,23 +109,23 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1429520688250)\/"
+        "Date":  "\/Date(1430730272690)\/"
     },
     {
         "Title":  "THE BOUNCE",
         "Issue":  "2A",
         "Cover":  2,
-        "TotalCost":  "2.28",
-        "Mean":  2.2824999999999998,
-        "AveragePrice":  1.87,
-        "CurrentPrice":  1.8699999999999999,
+        "TotalCost":  "2.25",
+        "Mean":  2.254,
+        "AveragePrice":  1.594,
+        "CurrentPrice":  1.5939999999999999,
         "Minimum":  0.49,
         "Maximum":  3.15,
-        "Count":  4,
+        "Count":  5,
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1429520688407)\/"
+        "Date":  "\/Date(1430730272841)\/"
     },
     {
         "Title":  "The Bounce",
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520688554)\/"
+        "Date":  "\/Date(1430730272972)\/"
     },
     {
         "Title":  "The Bounce",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1429520688694)\/"
+        "Date":  "\/Date(1430730273100)\/"
     },
     {
         "Title":  "THE BOUNCE",
@@ -173,7 +173,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1429520688874)\/"
+        "Date":  "\/Date(1430730273253)\/"
     },
     {
         "Title":  "THE BOUNCE",
@@ -189,7 +189,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1429520689030)\/"
+        "Date":  "\/Date(1430730273394)\/"
     },
     {
         "Title":  "THE BOUNCE",
@@ -205,23 +205,23 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1429520689224)\/"
+        "Date":  "\/Date(1430730273541)\/"
     },
     {
         "Title":  "THE BOUNCE",
         "Issue":  "7",
         "Cover":  7,
-        "TotalCost":  "2.63",
-        "Mean":  2.6300000000000003,
-        "AveragePrice":  2.1300000000000003,
-        "CurrentPrice":  2.13,
-        "Minimum":  0.99,
+        "TotalCost":  "2.51",
+        "Mean":  2.5075000000000003,
+        "AveragePrice":  1.7200000000000002,
+        "CurrentPrice":  1.72,
+        "Minimum":  0.49,
         "Maximum":  3.15,
-        "Count":  3,
+        "Count":  4,
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1429520689378)\/"
+        "Date":  "\/Date(1430730273690)\/"
     },
     {
         "Title":  "THE BOUNCE",
@@ -237,7 +237,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1429520689556)\/"
+        "Date":  "\/Date(1430730273835)\/"
     },
     {
         "Title":  "THE BOUNCE",
@@ -253,15 +253,15 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520689719)\/"
+        "Date":  "\/Date(1430730274003)\/"
     },
     {
         "Title":  "THE BOUNCE",
         "Issue":  "SET",
         "Cover":  0,
         "TotalCost":  "6.41",
-        "Mean":  6.4148000000000014,
-        "AveragePrice":  4.3751999999999986,
+        "Mean":  6.4148000000000005,
+        "AveragePrice":  4.3751999999999978,
         "CurrentPrice":  5.1359999999999992,
         "Minimum":  0.99,
         "Maximum":  11.99,
@@ -269,6 +269,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520689930)\/"
+        "Date":  "\/Date(1430730274248)\/"
     }
 ]

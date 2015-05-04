@@ -4,16 +4,16 @@
         "Issue":  "0",
         "Cover":  0,
         "TotalCost":  "12.25",
-        "Mean":  12.253076923076922,
-        "AveragePrice":  9.2530769230769234,
-        "CurrentPrice":  9.254,
+        "Mean":  12.253076923076925,
+        "AveragePrice":  9.2530769230769216,
+        "CurrentPrice":  9.202,
         "Minimum":  3.27,
         "Maximum":  13,
         "Count":  13,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520696263)\/"
+        "Date":  "\/Date(1430730280320)\/"
     },
     {
         "Title":  "THE HUMANS",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520696446)\/"
+        "Date":  "\/Date(1430730280453)\/"
     },
     {
         "Title":  "THE HUMANS",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520696594)\/"
+        "Date":  "\/Date(1430730280584)\/"
     },
     {
         "Title":  "THE HUMANS",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520696739)\/"
+        "Date":  "\/Date(1430730280712)\/"
     },
     {
         "Title":  "THE HUMANS",
@@ -77,14 +77,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520696887)\/"
+        "Date":  "\/Date(1430730280838)\/"
     },
     {
         "Title":  "THE HUMANS",
         "Issue":  "SET",
         "Cover":  0,
         "TotalCost":  "3.92",
-        "Mean":  3.9200000000000004,
+        "Mean":  3.92,
         "AveragePrice":  1.3233333333333333,
         "CurrentPrice":  1.3233333333333333,
         "Minimum":  0.99,
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520697045)\/"
+        "Date":  "\/Date(1430730280976)\/"
     },
     {
         "Title":  "THE HUMANS",
@@ -109,6 +109,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520697191)\/"
+        "Date":  "\/Date(1430730281109)\/"
     }
 ]

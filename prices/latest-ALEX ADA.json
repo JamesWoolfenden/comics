@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520441909)\/"
+        "Date":  "\/Date(1430730039505)\/"
     },
     {
         "Title":  "ALEX ADA",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520442062)\/"
+        "Date":  "\/Date(1430730039634)\/"
     },
     {
         "Title":  "ALEX ADA",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.45,
         "AverageNetPaid":  1.2,
         "Stock":  1,
-        "Date":  "\/Date(1429520442258)\/"
+        "Date":  "\/Date(1430730039799)\/"
     },
     {
         "Title":  "ALEX ADA",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520442403)\/"
+        "Date":  "\/Date(1430730039927)\/"
     },
     {
         "Title":  "ALEX ADA",
@@ -77,7 +77,7 @@
         "AveragePaid":  0.75,
         "AverageNetPaid":  0.75,
         "Stock":  1,
-        "Date":  "\/Date(1429520442560)\/"
+        "Date":  "\/Date(1430730040062)\/"
     },
     {
         "Title":  "ALEX ADA",
@@ -85,7 +85,7 @@
         "Cover":  2,
         "TotalCost":  "5.04",
         "Mean":  5.035,
-        "AveragePrice":  3.5475000000000003,
+        "AveragePrice":  3.5475,
         "CurrentPrice":  3.5475000000000003,
         "Minimum":  0.99,
         "Maximum":  5.95,
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520442736)\/"
+        "Date":  "\/Date(1430730040229)\/"
     },
     {
         "Title":  "ALEX ADA",
@@ -109,7 +109,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1429520442901)\/"
+        "Date":  "\/Date(1430730040363)\/"
     },
     {
         "Title":  "ALEX ADA",
@@ -125,7 +125,7 @@
         "AveragePaid":  2.21,
         "AverageNetPaid":  2.21,
         "Stock":  1,
-        "Date":  "\/Date(1429520443073)\/"
+        "Date":  "\/Date(1430730040541)\/"
     },
     {
         "Title":  "ALEX ADA",
@@ -141,7 +141,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1429520443258)\/"
+        "Date":  "\/Date(1430730040675)\/"
     },
     {
         "Title":  "ALEX ADA",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1429520443409)\/"
+        "Date":  "\/Date(1430730040801)\/"
     },
     {
         "Title":  "ALEX ADA",
@@ -173,14 +173,14 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1429520443581)\/"
+        "Date":  "\/Date(1430730040980)\/"
     },
     {
         "Title":  "ALEX ADA",
         "Issue":  "6",
         "Cover":  6,
         "TotalCost":  "3.08",
-        "Mean":  3.084285714285715,
+        "Mean":  3.0842857142857141,
         "AveragePrice":  2.3557142857142859,
         "CurrentPrice":  2.0980000000000003,
         "Minimum":  0.99,
@@ -189,7 +189,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520443771)\/"
+        "Date":  "\/Date(1430730041145)\/"
     },
     {
         "Title":  "ALEX ADA",
@@ -197,7 +197,7 @@
         "Cover":  7,
         "TotalCost":  "2.76",
         "Mean":  2.7635714285714283,
-        "AveragePrice":  2.4492857142857143,
+        "AveragePrice":  2.4492857142857147,
         "CurrentPrice":  2.098,
         "Minimum":  0.99,
         "Maximum":  3.5,
@@ -205,14 +205,14 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520443971)\/"
+        "Date":  "\/Date(1430730041342)\/"
     },
     {
         "Title":  "ALEX ADA",
         "Issue":  "8",
         "Cover":  8,
         "TotalCost":  "4.17",
-        "Mean":  4.1655555555555548,
+        "Mean":  4.1655555555555557,
         "AveragePrice":  3.1655555555555552,
         "CurrentPrice":  3.8980000000000006,
         "Minimum":  0.99,
@@ -221,7 +221,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1429520444205)\/"
+        "Date":  "\/Date(1430730041536)\/"
     },
     {
         "Title":  "ALEX ADA",
@@ -237,7 +237,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520444362)\/"
+        "Date":  "\/Date(1430730041677)\/"
     },
     {
         "Title":  "ALEX ADA",
@@ -245,7 +245,7 @@
         "Cover":  0,
         "TotalCost":  "11.89",
         "Mean":  11.886666666666667,
-        "AveragePrice":  10.376,
+        "AveragePrice":  10.376000000000003,
         "CurrentPrice":  7.448,
         "Minimum":  4.09,
         "Maximum":  27.5,
@@ -253,7 +253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520444564)\/"
+        "Date":  "\/Date(1430730041882)\/"
     },
     {
         "Title":  "ALEX ADA",
@@ -269,6 +269,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520444714)\/"
+        "Date":  "\/Date(1430730042013)\/"
     }
 ]

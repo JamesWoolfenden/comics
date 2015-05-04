@@ -4,7 +4,7 @@
         "Issue":  "1A",
         "Cover":  1,
         "TotalCost":  "10.16",
-        "Mean":  10.158421052631574,
+        "Mean":  10.158421052631576,
         "AveragePrice":  8.8105263157894722,
         "CurrentPrice":  6.85,
         "Minimum":  2.1,
@@ -13,7 +13,7 @@
         "AveragePaid":  3.6966666666666668,
         "AverageNetPaid":  3.25,
         "Stock":  3,
-        "Date":  "\/Date(1429520613382)\/"
+        "Date":  "\/Date(1430730198466)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520613577)\/"
+        "Date":  "\/Date(1430730198803)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -45,23 +45,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520613737)\/"
+        "Date":  "\/Date(1430730199147)\/"
     },
     {
         "Title":  "RAT QUEENS",
         "Issue":  "1B",
         "Cover":  1,
-        "TotalCost":  "33.41",
-        "Mean":  33.407,
-        "AveragePrice":  31.526999999999997,
-        "CurrentPrice":  30.9,
+        "TotalCost":  "33.01",
+        "Mean":  33.006363636363638,
+        "AveragePrice":  30.933636363636364,
+        "CurrentPrice":  29.1,
         "Minimum":  20,
         "Maximum":  49.99,
-        "Count":  10,
+        "Count":  11,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520613931)\/"
+        "Date":  "\/Date(1430730199524)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520614082)\/"
+        "Date":  "\/Date(1430730199834)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520614229)\/"
+        "Date":  "\/Date(1430730200167)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520614388)\/"
+        "Date":  "\/Date(1430730200501)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520614571)\/"
+        "Date":  "\/Date(1430730200862)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -133,7 +133,7 @@
         "Cover":  1,
         "TotalCost":  "1.90",
         "Mean":  1.8975,
-        "AveragePrice":  1.485,
+        "AveragePrice":  1.4849999999999999,
         "CurrentPrice":  1.485,
         "Minimum":  0.49,
         "Maximum":  2.5,
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520614771)\/"
+        "Date":  "\/Date(1430730201208)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.55,
         "AverageNetPaid":  1.35,
         "Stock":  2,
-        "Date":  "\/Date(1429520614939)\/"
+        "Date":  "\/Date(1430730201608)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520615132)\/"
+        "Date":  "\/Date(1430730201972)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -189,7 +189,7 @@
         "AveragePaid":  2.65,
         "AverageNetPaid":  1.45,
         "Stock":  1,
-        "Date":  "\/Date(1429520615329)\/"
+        "Date":  "\/Date(1430730202361)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520615525)\/"
+        "Date":  "\/Date(1430730202720)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -221,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520615716)\/"
+        "Date":  "\/Date(1430730203106)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -237,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520615871)\/"
+        "Date":  "\/Date(1430730203461)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -253,7 +253,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  1,
         "Stock":  1,
-        "Date":  "\/Date(1429520616078)\/"
+        "Date":  "\/Date(1430730203858)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -269,15 +269,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520616256)\/"
+        "Date":  "\/Date(1430730204214)\/"
     },
     {
         "Title":  "RAT QUEENS",
         "Issue":  "6A",
         "Cover":  6,
         "TotalCost":  "4.25",
-        "Mean":  4.2531250000000007,
-        "AveragePrice":  4.2531250000000007,
+        "Mean":  4.253125,
+        "AveragePrice":  4.253125,
         "CurrentPrice":  7.182,
         "Minimum":  2.5,
         "Maximum":  8.99,
@@ -285,7 +285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520616480)\/"
+        "Date":  "\/Date(1430730204549)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -301,7 +301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520616674)\/"
+        "Date":  "\/Date(1430730204706)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -317,14 +317,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520616884)\/"
+        "Date":  "\/Date(1430730204913)\/"
     },
     {
         "Title":  "RAT QUEENS",
         "Issue":  "7B",
         "Cover":  7,
         "TotalCost":  "10.17",
-        "Mean":  10.174,
+        "Mean":  10.174000000000001,
         "AveragePrice":  9.974,
         "CurrentPrice":  9.974,
         "Minimum":  4.95,
@@ -333,7 +333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520617058)\/"
+        "Date":  "\/Date(1430730205104)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -349,7 +349,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520617209)\/"
+        "Date":  "\/Date(1430730205233)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -365,7 +365,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520617372)\/"
+        "Date":  "\/Date(1430730205378)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -381,7 +381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520617620)\/"
+        "Date":  "\/Date(1430730205620)\/"
     },
     {
         "Title":  "RAT QUEENS",
@@ -397,6 +397,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520617769)\/"
+        "Date":  "\/Date(1430730205757)\/"
     }
 ]

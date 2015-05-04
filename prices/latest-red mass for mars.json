@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520618074)\/"
+        "Date":  "\/Date(1430730206079)\/"
     },
     {
         "Title":  "Red Mass for Mars",
@@ -29,10 +29,10 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520618218)\/"
+        "Date":  "\/Date(1430730206210)\/"
     },
     {
-        "Title":  "RED MASS FOR MARS",
+        "Title":  "Red Mass for Mars",
         "Issue":  "3",
         "Cover":  3,
         "TotalCost":  "2.05",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520618374)\/"
+        "Date":  "\/Date(1430730206345)\/"
     },
     {
         "Title":  "Red Mass for Mars",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520618522)\/"
+        "Date":  "\/Date(1430730206476)\/"
     },
     {
         "Title":  "RED MASS FOR MARS",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520618676)\/"
+        "Date":  "\/Date(1430730206605)\/"
     },
     {
         "Title":  "RED MASS FOR MARS",
@@ -93,6 +93,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520618820)\/"
+        "Date":  "\/Date(1430730206733)\/"
     }
 ]

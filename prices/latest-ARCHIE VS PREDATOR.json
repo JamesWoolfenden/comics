@@ -1,16 +1,50 @@
-{
-    "Title":  "ARCHIE VS PREDATOR",
-    "Issue":  "1ASHCAN",
-    "Cover":  1,
-    "TotalCost":  "3.24",
-    "Mean":  3.24,
-    "AveragePrice":  3.24,
-    "CurrentPrice":  3.24,
-    "Minimum":  3.24,
-    "Maximum":  3.24,
-    "Count":  1,
-    "AveragePaid":  null,
-    "AverageNetPaid":  null,
-    "Stock":  0,
-    "Date":  "\/Date(1429520444985)\/"
-}
+[
+    {
+        "Title":  "ARCHIE VS PREDATOR",
+        "Issue":  "1A",
+        "Cover":  1,
+        "TotalCost":  "2.30",
+        "Mean":  2.3,
+        "AveragePrice":  0.5,
+        "CurrentPrice":  0.5,
+        "Minimum":  0.5,
+        "Maximum":  0.5,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730042260)\/"
+    },
+    {
+        "Title":  "ARCHIE VS PREDATOR",
+        "Issue":  "1ASHCAN",
+        "Cover":  1,
+        "TotalCost":  "3.24",
+        "Mean":  3.24,
+        "AveragePrice":  3.24,
+        "CurrentPrice":  3.24,
+        "Minimum":  3.24,
+        "Maximum":  3.24,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730042388)\/"
+    },
+    {
+        "Title":  "ARCHIE VS PREDATOR",
+        "Issue":  "1FRANCAVILLA",
+        "Cover":  1,
+        "TotalCost":  "14.45",
+        "Mean":  14.45,
+        "AveragePrice":  12.975,
+        "CurrentPrice":  12.975,
+        "Minimum":  12.5,
+        "Maximum":  13.45,
+        "Count":  2,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730042528)\/"
+    }
+]

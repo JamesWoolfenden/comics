@@ -13,7 +13,7 @@
         "AveragePaid":  1.54545454545455,
         "AverageNetPaid":  1.54545454545455,
         "Stock":  1,
-        "Date":  "\/Date(1429520520662)\/"
+        "Date":  "\/Date(1430730110548)\/"
     },
     {
         "Title":  "from hell",
@@ -29,7 +29,7 @@
         "AveragePaid":  1.727727272727275,
         "AverageNetPaid":  1.727727272727275,
         "Stock":  2,
-        "Date":  "\/Date(1429520520818)\/"
+        "Date":  "\/Date(1430730110675)\/"
     },
     {
         "Title":  "FROM HELL",
@@ -45,7 +45,7 @@
         "AveragePaid":  1.54545454545455,
         "AverageNetPaid":  1.54545454545455,
         "Stock":  1,
-        "Date":  "\/Date(1429520520979)\/"
+        "Date":  "\/Date(1430730110809)\/"
     },
     {
         "Title":  "From Hell",
@@ -61,10 +61,10 @@
         "AveragePaid":  1.91,
         "AverageNetPaid":  1.91,
         "Stock":  1,
-        "Date":  "\/Date(1429520521122)\/"
+        "Date":  "\/Date(1430730110931)\/"
     },
     {
-        "Title":  "from hell",
+        "Title":  "From Hell",
         "Issue":  "2",
         "Cover":  2,
         "TotalCost":  "1.73",
@@ -77,10 +77,10 @@
         "AveragePaid":  1.727727272727275,
         "AverageNetPaid":  1.727727272727275,
         "Stock":  2,
-        "Date":  "\/Date(1429520521274)\/"
+        "Date":  "\/Date(1430730111055)\/"
     },
     {
-        "Title":  "from hell",
+        "Title":  "From Hell",
         "Issue":  "3",
         "Cover":  3,
         "TotalCost":  "1.73",
@@ -93,10 +93,10 @@
         "AveragePaid":  1.727727272727275,
         "AverageNetPaid":  1.727727272727275,
         "Stock":  2,
-        "Date":  "\/Date(1429520521426)\/"
+        "Date":  "\/Date(1430730111181)\/"
     },
     {
-        "Title":  "from hell",
+        "Title":  "From Hell",
         "Issue":  "4",
         "Cover":  4,
         "TotalCost":  "1.73",
@@ -109,10 +109,10 @@
         "AveragePaid":  1.727727272727275,
         "AverageNetPaid":  1.727727272727275,
         "Stock":  2,
-        "Date":  "\/Date(1429520521576)\/"
+        "Date":  "\/Date(1430730111308)\/"
     },
     {
-        "Title":  "from hell",
+        "Title":  "From Hell",
         "Issue":  "5",
         "Cover":  5,
         "TotalCost":  "1.73",
@@ -125,10 +125,10 @@
         "AveragePaid":  1.727727272727275,
         "AverageNetPaid":  1.727727272727275,
         "Stock":  2,
-        "Date":  "\/Date(1429520521725)\/"
+        "Date":  "\/Date(1430730111453)\/"
     },
     {
-        "Title":  "from hell",
+        "Title":  "From Hell",
         "Issue":  "6",
         "Cover":  6,
         "TotalCost":  "1.73",
@@ -141,7 +141,7 @@
         "AveragePaid":  1.727727272727275,
         "AverageNetPaid":  1.727727272727275,
         "Stock":  2,
-        "Date":  "\/Date(1429520521881)\/"
+        "Date":  "\/Date(1430730111595)\/"
     },
     {
         "Title":  "from hell",
@@ -157,10 +157,10 @@
         "AveragePaid":  1.727727272727275,
         "AverageNetPaid":  1.727727272727275,
         "Stock":  2,
-        "Date":  "\/Date(1429520522030)\/"
+        "Date":  "\/Date(1430730111718)\/"
     },
     {
-        "Title":  "from hell",
+        "Title":  "From Hell",
         "Issue":  "8",
         "Cover":  8,
         "TotalCost":  "1.73",
@@ -173,7 +173,7 @@
         "AveragePaid":  1.727727272727275,
         "AverageNetPaid":  1.727727272727275,
         "Stock":  2,
-        "Date":  "\/Date(1429520522187)\/"
+        "Date":  "\/Date(1430730111851)\/"
     },
     {
         "Title":  "from hell",
@@ -189,7 +189,7 @@
         "AveragePaid":  1.727727272727275,
         "AverageNetPaid":  1.727727272727275,
         "Stock":  2,
-        "Date":  "\/Date(1429520522340)\/"
+        "Date":  "\/Date(1430730111980)\/"
     },
     {
         "Title":  "FROM HELL",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520522485)\/"
+        "Date":  "\/Date(1430730112108)\/"
     },
     {
         "Title":  "From Hell",
@@ -221,7 +221,7 @@
         "AveragePaid":  1.91,
         "AverageNetPaid":  1.91,
         "Stock":  1,
-        "Date":  "\/Date(1429520522629)\/"
+        "Date":  "\/Date(1430730112235)\/"
     },
     {
         "Title":  "FROM HELL",
@@ -237,7 +237,7 @@
         "AveragePaid":  21,
         "AverageNetPaid":  17,
         "Stock":  1,
-        "Date":  "\/Date(1429520522807)\/"
+        "Date":  "\/Date(1430730112376)\/"
     },
     {
         "Title":  "FROM HELL",
@@ -253,6 +253,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520522957)\/"
+        "Date":  "\/Date(1430730112498)\/"
     }
 ]

@@ -4,8 +4,8 @@
         "Issue":  "1A",
         "Cover":  1,
         "TotalCost":  "4.17",
-        "Mean":  4.165308641975308,
-        "AveragePrice":  3.7962345679012341,
+        "Mean":  4.1653086419753089,
+        "AveragePrice":  3.7962345679012346,
         "CurrentPrice":  2.366,
         "Minimum":  0.99,
         "Maximum":  9.99,
@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520487587)\/"
+        "Date":  "\/Date(1430730082148)\/"
     },
     {
         "Title":  "DEADLY CLASS",
@@ -29,30 +29,30 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520487744)\/"
+        "Date":  "\/Date(1430730082278)\/"
     },
     {
         "Title":  "DEADLY CLASS",
         "Issue":  "1B",
         "Cover":  1,
-        "TotalCost":  "3.55",
-        "Mean":  3.5538888888888893,
-        "AveragePrice":  2.9562698412698416,
-        "CurrentPrice":  2.498,
+        "TotalCost":  "3.53",
+        "Mean":  3.5309848484848487,
+        "AveragePrice":  2.8900757575757576,
+        "CurrentPrice":  2.6,
         "Minimum":  0.99,
         "Maximum":  7,
-        "Count":  21,
+        "Count":  22,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520487962)\/"
+        "Date":  "\/Date(1430730082462)\/"
     },
     {
         "Title":  "DEADLY CLASS",
         "Issue":  "1BEACHBALL",
         "Cover":  1,
         "TotalCost":  "14.10",
-        "Mean":  14.095999999999998,
+        "Mean":  14.096,
         "AveragePrice":  11.226,
         "CurrentPrice":  11.226,
         "Minimum":  8.56,
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520488150)\/"
+        "Date":  "\/Date(1430730082606)\/"
     },
     {
         "Title":  "DEADLY CLASS",
@@ -77,23 +77,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520488357)\/"
+        "Date":  "\/Date(1430730082747)\/"
     },
     {
         "Title":  "DEADLY CLASS",
         "Issue":  "1CBLDF",
         "Cover":  1,
-        "TotalCost":  "7.73",
-        "Mean":  7.7257142857142869,
-        "AveragePrice":  4.7257142857142851,
-        "CurrentPrice":  3.018,
+        "TotalCost":  "7.58",
+        "Mean":  7.57875,
+        "AveragePrice":  4.76,
+        "CurrentPrice":  3.278,
         "Minimum":  0.99,
         "Maximum":  9.5,
-        "Count":  7,
+        "Count":  8,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520488557)\/"
+        "Date":  "\/Date(1430730082894)\/"
     },
     {
         "Title":  "DEADLY CLASS",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520488730)\/"
+        "Date":  "\/Date(1430730083042)\/"
     },
     {
         "Title":  "DEADLY CLASS",
@@ -117,7 +117,7 @@
         "Cover":  1,
         "TotalCost":  "10.13",
         "Mean":  10.125789473684209,
-        "AveragePrice":  7.2705263157894731,
+        "AveragePrice":  7.2705263157894748,
         "CurrentPrice":  3.62,
         "Minimum":  1.3,
         "Maximum":  17.99,
@@ -125,14 +125,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520488954)\/"
+        "Date":  "\/Date(1430730083249)\/"
     },
     {
         "Title":  "DEADLY CLASS",
         "Issue":  "1EH!",
         "Cover":  1,
         "TotalCost":  "14.53",
-        "Mean":  14.529999999999998,
+        "Mean":  14.530000000000001,
         "AveragePrice":  11.02,
         "CurrentPrice":  11.02,
         "Minimum":  9.29,
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520489150)\/"
+        "Date":  "\/Date(1430730083384)\/"
     },
     {
         "Title":  "DEADLY CLASS",
@@ -157,7 +157,7 @@
         "AveragePaid":  0.75,
         "AverageNetPaid":  0.75,
         "Stock":  1,
-        "Date":  "\/Date(1429520489342)\/"
+        "Date":  "\/Date(1430730083521)\/"
     },
     {
         "Title":  "DEADLY CLASS",
@@ -165,7 +165,7 @@
         "Cover":  1,
         "TotalCost":  "6.11",
         "Mean":  6.1073333333333339,
-        "AveragePrice":  5.0240000000000018,
+        "AveragePrice":  5.0240000000000009,
         "CurrentPrice":  1.9899999999999998,
         "Minimum":  0.99,
         "Maximum":  14.95,
@@ -173,7 +173,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1429520489559)\/"
+        "Date":  "\/Date(1430730083743)\/"
     },
     {
         "Title":  "DEADLY CLASS",
@@ -189,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520489714)\/"
+        "Date":  "\/Date(1430730083872)\/"
     },
     {
         "Title":  "DEADLY CLASS",
@@ -205,7 +205,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1429520489952)\/"
+        "Date":  "\/Date(1430730084059)\/"
     },
     {
         "Title":  "DEADLY CLASS",
@@ -221,14 +221,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520490110)\/"
+        "Date":  "\/Date(1430730084190)\/"
     },
     {
         "Title":  "DEADLY CLASS",
         "Issue":  "3A",
         "Cover":  3,
         "TotalCost":  "3.08",
-        "Mean":  3.0840740740740737,
+        "Mean":  3.0840740740740733,
         "AveragePrice":  2.742407407407407,
         "CurrentPrice":  2.736,
         "Minimum":  0.99,
@@ -237,7 +237,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1429520490306)\/"
+        "Date":  "\/Date(1430730084388)\/"
     },
     {
         "Title":  "DEADLY CLASS",
@@ -253,47 +253,47 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520490489)\/"
+        "Date":  "\/Date(1430730084525)\/"
     },
     {
         "Title":  "DEADLY CLASS",
         "Issue":  "4",
         "Cover":  4,
-        "TotalCost":  "2.60",
-        "Mean":  2.6036111111111104,
-        "AveragePrice":  2.6036111111111104,
-        "CurrentPrice":  2.8200000000000003,
-        "Minimum":  1.19333333333333,
+        "TotalCost":  "2.57",
+        "Mean":  2.5679487179487173,
+        "AveragePrice":  2.4410256410256403,
+        "CurrentPrice":  2.418,
+        "Minimum":  0.49,
         "Maximum":  3.55,
-        "Count":  12,
+        "Count":  13,
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1429520490696)\/"
+        "Date":  "\/Date(1430730084683)\/"
     },
     {
         "Title":  "DEADLY CLASS",
         "Issue":  "5",
         "Cover":  5,
-        "TotalCost":  "2.46",
-        "Mean":  2.4642857142857144,
-        "AveragePrice":  2.2500000000000004,
-        "CurrentPrice":  2.2199999999999998,
-        "Minimum":  0.5,
+        "TotalCost":  "2.42",
+        "Mean":  2.42375,
+        "AveragePrice":  2.03,
+        "CurrentPrice":  1.818,
+        "Minimum":  0.49,
         "Maximum":  2.95,
-        "Count":  7,
+        "Count":  8,
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  2,
-        "Date":  "\/Date(1429520490903)\/"
+        "Date":  "\/Date(1430730084824)\/"
     },
     {
         "Title":  "DEADLY CLASS",
         "Issue":  "6",
         "Cover":  6,
         "TotalCost":  "2.87",
-        "Mean":  2.8666666666666667,
-        "AveragePrice":  2.8666666666666667,
+        "Mean":  2.8666666666666671,
+        "AveragePrice":  2.8666666666666671,
         "CurrentPrice":  2.7199999999999998,
         "Minimum":  2.1,
         "Maximum":  3.6,
@@ -301,7 +301,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520491096)\/"
+        "Date":  "\/Date(1430730084964)\/"
     },
     {
         "Title":  "DEADLY CLASS",
@@ -317,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520491241)\/"
+        "Date":  "\/Date(1430730085083)\/"
     },
     {
         "Title":  "DEADLY CLASS",
@@ -333,23 +333,39 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520491400)\/"
+        "Date":  "\/Date(1430730085212)\/"
+    },
+    {
+        "Title":  "DEADLY CLASS",
+        "Issue":  "9",
+        "Cover":  9,
+        "TotalCost":  "3.20",
+        "Mean":  3.2,
+        "AveragePrice":  1.7,
+        "CurrentPrice":  1.7,
+        "Minimum":  1.7,
+        "Maximum":  1.7,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1430730085342)\/"
     },
     {
         "Title":  "DEADLY CLASS",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "9.16",
-        "Mean":  9.161136363636361,
-        "AveragePrice":  7.1277272727272738,
-        "CurrentPrice":  4.166,
+        "TotalCost":  "9.11",
+        "Mean":  9.1072340425531912,
+        "AveragePrice":  7.0219148936170228,
+        "CurrentPrice":  4.24,
         "Minimum":  0.99,
         "Maximum":  29.99,
-        "Count":  44,
+        "Count":  47,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520491671)\/"
+        "Date":  "\/Date(1430730085609)\/"
     },
     {
         "Title":  "DEADLY CLASS",
@@ -365,7 +381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520491816)\/"
+        "Date":  "\/Date(1430730085732)\/"
     },
     {
         "Title":  "DEADLY CLASS",
@@ -381,6 +397,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520491963)\/"
+        "Date":  "\/Date(1430730085862)\/"
     }
 ]

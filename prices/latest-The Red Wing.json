@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520699023)\/"
+        "Date":  "\/Date(1430730282730)\/"
     },
     {
         "Title":  "The Red Wing",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1429520699171)\/"
+        "Date":  "\/Date(1430730282864)\/"
     },
     {
         "Title":  "The Red Wing",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1429520699320)\/"
+        "Date":  "\/Date(1430730283000)\/"
     },
     {
         "Title":  "The Red Wing",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1429520699483)\/"
+        "Date":  "\/Date(1430730283131)\/"
     },
     {
         "Title":  "THE RED WING",
@@ -77,23 +77,23 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1429520699642)\/"
+        "Date":  "\/Date(1430730283271)\/"
     },
     {
         "Title":  "THE RED WING",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "6.99",
-        "Mean":  6.99,
-        "AveragePrice":  4.6899999999999995,
-        "CurrentPrice":  4.6899999999999995,
+        "TotalCost":  "6.88",
+        "Mean":  6.8820000000000006,
+        "AveragePrice":  4.592,
+        "CurrentPrice":  4.5920000000000005,
         "Minimum":  1.5,
         "Maximum":  7.16,
-        "Count":  4,
+        "Count":  5,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520699814)\/"
+        "Date":  "\/Date(1430730283420)\/"
     },
     {
         "Title":  "THE RED WING",
@@ -109,6 +109,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1429520699962)\/"
+        "Date":  "\/Date(1430730283547)\/"
     }
 ]
