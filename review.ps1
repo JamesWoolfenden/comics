@@ -3,6 +3,8 @@ function view-record
 {
    param([PSObject]$record)
 
+   $ie=new-object -com internetexplorer.application
+   
    if ($record.ebayitem)
    { 
       switch ($record.site.ToUpper())
@@ -26,7 +28,6 @@ function view-record
       write-warning "$($record.ebayitem) is null or empty"
    }
    
-   waitforpageload
    $ie
 }
 
@@ -44,14 +45,14 @@ function update-record
    $seller  =$null
 
    $ie=view-record $record
-   
+
    switch($record.site.ToUpper())
    {
       'EBAY'
 	  {
-	     if ($ie.Document.getElementByID('fshippingCost'))
+	     if ($ie[1].Document.getElementByID('fshippingCost'))
          {
-            $estimate=$ie.Document.getElementByID('fshippingCost').innerText
+            $estimate=$ie[1].Document.getElementByID('fshippingCost').innerText
          }
          else
          {
@@ -175,22 +176,25 @@ function update-record
    
    if ($record.site -eq "ebay")
    {
-      if ($ie.Document.getElementByID('prcIsum'))
+      try
       {
-         $priceestimate= $ie.Document.getElementByID('prcIsum').innerText
-      }
-      else
-      {
-         if ($ie.Document.getElementByID('prcIsum_bidPrice'))
+         if ($ie[1].Document.getElementByID('prcIsum_bidPrice'))
          {
-            $priceestimate= ($ie.Document.getElementByID('prcIsum_bidPrice').innerText)      
+            $priceestimate= ($ie[1].Document.getElementByID('prcIsum_bidPrice').innerText)      
+         }
+      }
+      catch
+      {
+         if ($ie[1].Document.getElementByID('prcIsum'))
+         {
+            $priceestimate= ($ie[1].Document.getElementByID('prcIsum').innerText)      
          }
       }
 
       #still null must have stopped auction?
       if ($priceestimate -eq $NULL)
       {
-         $closedpriceestimate = @($ie.Document.body.getElementsByClassName('notranslate vi-VR-cvipPrice'))
+         $closedpriceestimate = @($ie[1].Document.body.getElementsByClassName('notranslate vi-VR-cvipPrice'))
          $priceestimate=$closedpriceestimate[0].innerText
       }
       else
@@ -249,7 +253,7 @@ function update-record
  
    $record=set-comicstatus -record $record
       
-   $IE.Application.Quit()
+   $IE[1].Application.Quit()
    update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $record.status -bought $record.bought -quantity $newquantity -seller $seller -watch $record.watch
 }
 
@@ -516,7 +520,7 @@ function get-ebidsellerfromie
    try
    {
       #$seller=($ie.Document.body.document.body.getElementsByTagName('a')| where{$_.innerHTML -eq "All about the seller"}).nameProp
-      $result=@($ie.Document.body.getElementsByClassName('t10 l5 f4 center'))
+      $result=@($ie[1].Document.body.getElementsByClassName('t10 l5 f4 center'))
       [string]$seller=($result.textContent.trim() -split(' '))[0]
 	  Write-host "Seller: $seller"
    }
@@ -541,19 +545,19 @@ function get-ebaysellerfromie
    {
        try
        {
-          $result=@($ie.Document.getElementsByClassName('mbg-nw'))
+          $result=@($ie[1].Document.getElementsByClassName('mbg-nw'))
 		  if (!($result))
 	      {
 	         Write-warning "Using Old IE model"
-             $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))          
+             $result=@($ie[1].Document.body.getElementsByClassName('mbg-nw'))          
 	      }
        }
        catch
        {
           Write-verbose "Failing over to Old IE model"
-		  if ($ie.Document.body.getElementsByClassName('mbg-nw'))
+		  if ($ie[1].Document.body.getElementsByClassName('mbg-nw'))
 	      {
-             $result=@($ie.Document.body.getElementsByClassName('mbg-nw'))
+             $result=@($ie[1].Document.body.getElementsByClassName('mbg-nw'))
           }
 		  else
 	      {

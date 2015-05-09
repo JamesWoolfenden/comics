@@ -131,8 +131,10 @@ function verify
 
 function view
 {
-   param($ebayid,
+   param(
+   [string]$ebayid,
    $IE=$NULL)
+
    if ($IE -eq $NULL)
    {
       $IE=new-object -com internetexplorer.application
@@ -147,6 +149,14 @@ function view
    write-host "Opening $url`?"
    $IE.navigate2("$url`?")
    $IE.visible=$true
+
+   while ($ie.Busy -eq $true) 
+   {
+      write-host "." -NoNewline
+      Start-Sleep -Milliseconds 1000 
+   }
+    
+   
    $IE
 }
 
