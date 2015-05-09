@@ -3,7 +3,7 @@ function view-record
 {
    param([PSObject]$record)
 
-   $ie=new-object -com internetexplorer.application
+   #$ie=new-object -com internetexplorer.application
    
    if ($record.ebayitem)
    { 
@@ -59,7 +59,7 @@ function update-record
             write-host "Postage cannot be estimated"
          }
 
-         $seller=get-ebaysellerfromie $ie -record $record
+         $seller=get-ebaysellerfromie -ie $ie -record $record
 	  }
 	  default
 	  {
@@ -67,7 +67,7 @@ function update-record
          $estimate=$record.postage
          if ($record.site -eq "ebid" -And $record.seller -eq "")
          {
-            $seller=get-ebidsellerfromie $ie
+            $seller=get-ebidsellerfromie -ie $ie
          }
          else
          {

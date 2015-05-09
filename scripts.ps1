@@ -156,7 +156,6 @@ function view
       Start-Sleep -Milliseconds 1000 
    }
     
-   
    $IE
 }
 
@@ -172,7 +171,12 @@ function view-url
    write-host "Opening $url`?"
    $IE.navigate2("$url`?")
    $IE.visible=$true
-   $IE
+   while ($ie.Busy -eq $true) 
+   {
+      write-host "." -NoNewline
+      Start-Sleep -Milliseconds 1000 
+   }
+   $ie
 }
 
 function view-market
@@ -193,7 +197,11 @@ function view-market
    $url="redwolfthree/jqwidgets/demos/jqxgrid/comic-$title.htm"
    $browser.navigate2("$url")
    $browser.visible=$true
-   #$browser
+   while ($ie.Busy -eq $true) 
+   {
+      write-host "." -NoNewline
+      Start-Sleep -Milliseconds 1000 
+   }
 }
 
 function update-recordset
