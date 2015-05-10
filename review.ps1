@@ -44,13 +44,24 @@ function update-record
    $estimate=$null
    $seller  =$null
 
-   $ie=view-record $record
+   try
+   {
+      $ie=view-record $record
+   }
+   catch
+   {
+      write-error "$(Get-Date) - Expired record"
+      if ($ie)
+      {
+         $IE[1].Application.Quit()
+      }
+   }
 
    switch($record.site.ToUpper())
    {
       'EBAY'
 	  {
-	     if ($ie[1].Document.getElementByID('fshippingCost'))
+	     if (test-property -object $ie[1].Document.getElementByID('fshippingCost') -property innerText)
          {
             $estimate=$ie[1].Document.getElementByID('fshippingCost').innerText
          }
@@ -176,19 +187,20 @@ function update-record
    
    if ($record.site -eq "ebay")
    {
-      try
+      
+      if (test-property -object $ie[1].Document.getElementByID('prcIsum_bidPrice') -property innerText)
       {
-         if ($ie[1].Document.getElementByID('prcIsum_bidPrice'))
-         {
-            $priceestimate= ($ie[1].Document.getElementByID('prcIsum_bidPrice').innerText)      
-         }
+         $priceestimate= ($ie[1].Document.getElementByID('prcIsum_bidPrice').innerText)      
       }
-      catch
+      
+      if (test-property -object $ie[1].Document.getElementByID('prcIsum')  -property innerText)
       {
-         if ($ie[1].Document.getElementByID('prcIsum'))
-         {
-            $priceestimate= ($ie[1].Document.getElementByID('prcIsum').innerText)      
-         }
+         $priceestimate= ($ie[1].Document.getElementByID('prcIsum').innerText)      
+      }
+      
+      if (test-property -object $ie[1].Document.getElementByID('mm-saleDscPr') -property innerText)
+      {
+         $priceestimate= ($ie[1].Document.getElementByID('mm-saleDscPr').innerText)   
       }
 
       #still null must have stopped auction?

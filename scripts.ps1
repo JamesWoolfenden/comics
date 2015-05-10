@@ -1,5 +1,6 @@
 $imageroot= "$PSScriptRoot\covers"
 
+import-module "$PSScriptRoot\modules\object-helper.ps1"
 import-module "$PSScriptRoot\rss\EbayRssPowershellModule.psm1" -force
 import-module "$PSScriptRoot\modules\database.psd1" -force
 import-module "$PSScriptRoot\modules\multiple.psd1" -force
@@ -298,7 +299,10 @@ function update-recordset
    }
    catch
    {
-     write-host $_.Exception.InnerException
+     $_|get-member
+     write-host $_.Exception
+     write-host $_.InvocationInfo|get-member
+     write-host $_.InvocationInfo.ScriptLineNumber
      throw $_.Exception
      exit 1
    }
