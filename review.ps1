@@ -54,7 +54,9 @@ function update-record
       if ($ie)
       {
          $IE[1].Application.Quit()
-      }
+        
+      } 
+      return $false
    }
 
    switch($record.site.ToUpper())

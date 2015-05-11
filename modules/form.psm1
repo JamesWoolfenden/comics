@@ -122,7 +122,6 @@ function get-imagetitle
       $choice=read-host "Set Issue title"  
    }
 
-   $img.Dispose()
    $Form.Dispose()
    $obj.Dispose()	  
 
