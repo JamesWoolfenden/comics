@@ -172,6 +172,13 @@ function view-url
    write-host "Opening $url`?"
    $IE.navigate2("$url`?")
    $IE.visible=$true
+
+   while ($ie.Busy -eq $true) 
+   {
+      write-host "." -NoNewline
+      Start-Sleep -Milliseconds 1000 
+   }
+
    $IE
 }
 
