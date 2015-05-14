@@ -120,11 +120,7 @@ function get-imagetitle
    if (($choice -eq $NULL) -or ($choice -eq ""))
    {
       $choice=read-host "Set Issue title"  
-   }
-
-   $img.Dispose()
-   $Form.Dispose()
-   $obj.Dispose()	  
+   }  
 
    write-verbose $choice 
    $choice

@@ -146,6 +146,7 @@
     <Content Include="intercomics.ps1" />
     <Content Include="modules\database.psd1" />
     <Content Include="modules\multiple.psd1" />
+    <Content Include="modules\object-helper.ps1" />
     <Content Include="modules\search-data.psd1" />
     <Content Include="modules\image.psd1" />
     <Content Include="modules\form.psd1" />
