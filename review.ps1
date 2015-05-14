@@ -53,7 +53,7 @@ function update-record
       write-error "$(Get-Date) - Expired record"
       if ($ie)
       {
-         $IE[1].Application.Quit()
+         $ie[1].Application.Quit()
         
       } 
       return $false
