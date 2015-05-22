@@ -29,6 +29,9 @@
     <Compile Include="backup\azureexport.dacpac" />
     <Compile Include="comicbiz.ps1" />
     <Compile Include="comicconnect.ps1" />
+    <Compile Include="covers\2000AD-ACTION\1\1.JPG" />
+    <Compile Include="covers\2000AD-ACTION\SET.JPG" />
+    <Compile Include="covers\2000AD-EXTREME\SET.JPG" />
     <Compile Include="covers\2000AD-SHOWCASE\50\50.JPG" />
     <Compile Include="covers\ADVENTURES-OF-SUPERMAN\14\14.JPG" />
     <Compile Include="covers\BITCH-PLANET\1\1.JPG" />
@@ -105,6 +108,8 @@
     <Compile Include="jqwidgets\demos\sampledata\xmldata.json" />
     <Compile Include="livedata\*.json" />
     <Compile Include="livedata\*.txt" />
+    <Compile Include="modules\rest.psd1" />
+    <Compile Include="modules\rest.psm1" />
     <Compile Include="moretodo.txt" />
     <Compile Include="prices\*.json" />
     <Compile Include="prices\*.txt" />
@@ -4247,6 +4252,9 @@
   <ItemGroup>
     <Folder Include="backup\" />
     <Folder Include="covers\" />
+    <Folder Include="covers\2000AD-ACTION\" />
+    <Folder Include="covers\2000AD-ACTION\1\" />
+    <Folder Include="covers\2000AD-EXTREME\" />
     <Folder Include="covers\2000AD-GOLD\" />
     <Folder Include="covers\2000AD-GOLD\1\" />
     <Folder Include="covers\2000AD-MONTHLY\" />
