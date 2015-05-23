@@ -50,12 +50,14 @@ function update-record
    }
    catch
    {
-      write-error "$(Get-Date) - Expired record"
+      write-warning "$(Get-Date) - Expired record $($record.ebayitem)"
+
       if ($ie)
       {
-         $ie[1].Application.Quit()
-        
+         $ie[1].Application.Quit()      
       } 
+      
+      update-db -ebayitem $record.ebayitem  -Status "EXPIRED"
       return $false
    }
 

@@ -301,10 +301,8 @@ function update-recordset
    }
    catch
    {
-     $_|get-member
      write-host $_.Exception
-     write-host $_.InvocationInfo|get-member
-     write-host $_.InvocationInfo.ScriptLineNumber
+     write-host "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
      throw $_.Exception
      exit 1
    }
@@ -330,7 +328,11 @@ function Finalize-Records
    {
       foreach($record in $results)
       {
-         update-record $record 
+         $result=update-record $record 
+         if (!$result)
+         {
+            Write-Host "$(Get-date) - Finalise record failure expired"
+         }
       }
    }
    catch
