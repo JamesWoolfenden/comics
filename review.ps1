@@ -44,40 +44,33 @@ function update-record
    $estimate=$null
    $seller  =$null
 
-   try
-   {
-      $ie=view-record $record
-   }
-   catch
-   {
-      write-warning "$(Get-Date) - Expired record $($record.ebayitem)"
-
-      if ($ie)
-      {
-         $ie[1].Application.Quit()      
-      } 
-      
-      update-db -ebayitem $record.ebayitem  -Status "EXPIRED"
-      return $false
-   }
+   $ie=view-record $record     
 
    switch($record.site.ToUpper())
    {
       'EBAY'
 	  {
-	     if (test-property -object $ie[1].Document.getElementByID('fshippingCost') -property innerText)
+         try
          {
-            $estimate=$ie[1].Document.getElementByID('fshippingCost').innerText
+	        if (test-property -object $ie[1].Document.getElementByID('fshippingCost') -property innerText)
+            {
+               $estimate=$ie[1].Document.getElementByID('fshippingCost').innerText
+            }
+            else
+            {
+               write-host "Postage cannot be estimated"
+            }
+           
+            $seller=get-ebaysellerfromie -ie $ie -record $record
          }
-         else
+         catch
          {
-            write-host "Postage cannot be estimated"
+            Write-Host "Failed to detect shipping"
          }
-
-         $seller=get-ebaysellerfromie -ie $ie -record $record
 	  }
 	  default
 	  {
+         Write-Host "Detected default"
 	     write-verbose "Record: $($record.postage)"
          $estimate=$record.postage
          if ($record.site -eq "ebid" -And $record.seller -eq "")
@@ -267,11 +260,12 @@ function update-record
    $TCO ="{0:N2}" -f ([decimal]$postage+[decimal]$price)/$newquantity
    write-host "TCO per issue $TCO" -foregroundcolor cyan
  
-   $record=set-comicstatus -record $record
-      
+   $record=set-comicstatus -record $record     
    $IE[1].Application.Quit()
    update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $record.status -bought $record.bought -quantity $newquantity -seller $seller -watch $record.watch
 }
+
+
 
 function set-comicstatus
 {
