@@ -1,5 +1,65 @@
 [
     {
+        "link":  "http://www.disposableheroes.co.uk/back-issues/other-publishers/enormous-6-cvr-a-cheggour/prod_111939.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/other-publishers/enormous-6-cvr-a-cheggour/prod_111939.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/other-publishers/enormous-6-cvr-a-cheggour/prod_111939.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "6",
+        "variant":  "6 CVR A CHEGGOUR",
+        "price":  2.21,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1432546742610)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/back-issues/other-publishers/enormous-6-cvr-b-lorimer/prod_111940.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/back-issues/other-publishers/enormous-6-cvr-b-lorimer/prod_111940.html\"\u003ehttp://www.disposableheroes.co.uk/back-issues/other-publishers/enormous-6-cvr-b-lorimer/prod_111940.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "6",
+        "variant":  "6 CVR B LORIMER",
+        "price":  2.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1432546742610)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/graphic-novels-books/other-publishers/enormous-tp-vol-01/prod_137235.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/graphic-novels-books/other-publishers/enormous-tp-vol-01/prod_137235.html\"\u003ehttp://www.disposableheroes.co.uk/graphic-novels-books/other-publishers/enormous-tp-vol-01/prod_137235.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "ENORMOUS",
+        "variant":  "ENORMOUS TP VOL 01",
+        "price":  7.13,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1432546742610)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders/june-2015/preorders-for-24/06/15/other-publishers/enormous-v2-1-of-6-cvr-a-cheggour/prod_149101.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/june-2015/preorders-for-24/06/15/other-publishers/enormous-v2-1-of-6-cvr-a-cheggour/prod_149101.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/june-2015/preorders-for-24/06/15/other-publishers/enormous-v2-1-of-6-cvr-a-cheggour/prod_149101.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "1",
+        "variant":  "1 (OF 6) CVR A CHEGGOUR",
+        "price":  2.75,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1432546742610)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.disposableheroes.co.uk/preorders/june-2015/preorders-for-24/06/15/other-publishers/enormous-v2-1-of-6-cvr-b-adlard/prod_149102.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/preorders/june-2015/preorders-for-24/06/15/other-publishers/enormous-v2-1-of-6-cvr-b-adlard/prod_149102.html\"\u003ehttp://www.disposableheroes.co.uk/preorders/june-2015/preorders-for-24/06/15/other-publishers/enormous-v2-1-of-6-cvr-b-adlard/prod_149102.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "1",
+        "variant":  "1 (OF 6) CVR B ADLARD",
+        "price":  2.75,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1432546742610)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
         "link":  "https://forbiddenplanet.com/140179-enormous-v2-1-cover-b-adlard/",
         "url":  "\u003ca href=\"https://forbiddenplanet.com/140179-enormous-v2-1-cover-b-adlard/\"\u003ehttps://forbiddenplanet.com/140179-enormous-v2-1-cover-b-adlard/\u003c/a\u003e",
         "orderdate":  "24th June, 2015",
@@ -7,7 +67,7 @@
         "issue":  "1 ",
         "variant":  "Cover B Adlard",
         "price":  2.65,
-        "rundate":  "\/Date(1431337200768)\/",
+        "rundate":  "\/Date(1432546756399)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -18,7 +78,7 @@
         "issue":  "1 ",
         "variant":  "Cover A Cheggour",
         "price":  2.65,
-        "rundate":  "\/Date(1431337200768)\/",
+        "rundate":  "\/Date(1432546756399)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -29,7 +89,7 @@
         "issue":  "4C ",
         "variant":  "ComicXposure Exclusive Variant",
         "price":  15.99,
-        "rundate":  "\/Date(1431337200768)\/",
+        "rundate":  "\/Date(1432546756399)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -40,7 +100,7 @@
         "issue":  "4D ",
         "variant":  "ComicXposure Exclusive Variant",
         "price":  19.99,
-        "rundate":  "\/Date(1431337200768)\/",
+        "rundate":  "\/Date(1432546756399)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -51,7 +111,7 @@
         "variant":  null,
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1431337209946)\/",
+        "rundate":  "\/Date(1432546766299)\/",
         "site":  "Reed"
     },
     {
@@ -62,44 +122,8 @@
         "variant":  null,
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1431337209946)\/",
+        "rundate":  "\/Date(1432546766299)\/",
         "site":  "Reed"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-1-CGC-9-2-/111648930139?pt=LH_DefaultDomain_3\u0026hash=item19fecb795b",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-1-CGC-9-2-/111648930139?pt=LH_DefaultDomain_3\u0026hash=item19fecb795b\"\u003ehttp://www.ebay.co.uk/itm/Enormous-1-CGC-9-2-/111648930139?pt=LH_DefaultDomain_3\u0026hash=item19fecb795b\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "1",
-        "variant":  "1ACGC",
-        "price":  50,
-        "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-1-CGC-9-6-/111648931834?pt=LH_DefaultDomain_3\u0026hash=item19fecb7ffa",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-1-CGC-9-6-/111648931834?pt=LH_DefaultDomain_3\u0026hash=item19fecb7ffa\"\u003ehttp://www.ebay.co.uk/itm/Enormous-1-CGC-9-6-/111648931834?pt=LH_DefaultDomain_3\u0026hash=item19fecb7ffa\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "1",
-        "variant":  "1PHANTOMCGC",
-        "price":  65,
-        "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-4-C-D-CGC-9-6-/111649172880?pt=LH_DefaultDomain_3\u0026hash=item19fecf2d90",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-4-C-D-CGC-9-6-/111649172880?pt=LH_DefaultDomain_3\u0026hash=item19fecf2d90\"\u003ehttp://www.ebay.co.uk/itm/Enormous-4-C-D-CGC-9-6-/111649172880?pt=LH_DefaultDomain_3\u0026hash=item19fecf2d90\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "",
-        "variant":  "SET",
-        "price":  200,
-        "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
-        "site":  "Auction"
     },
     {
         "link":  "http://www.ebay.co.uk/itm/Enormous-Lot-including-Phantom-Kaiju-1-6-/111664377928?pt=LH_DefaultDomain_3\u0026hash=item19ffb73048",
@@ -110,31 +134,55 @@
         "variant":  "SET",
         "price":  85,
         "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
+        "rundate":  "25-5-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-4-NM-NM-/121642842387?pt=LH_DefaultDomain_3\u0026hash=item1c527a7913",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-4-NM-NM-/121642842387?pt=LH_DefaultDomain_3\u0026hash=item1c527a7913\"\u003ehttp://www.ebay.co.uk/itm/Enormous-4-NM-NM-/121642842387?pt=LH_DefaultDomain_3\u0026hash=item1c527a7913\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Enormous-1-CGC-9-2-/111673120085?pt=LH_DefaultDomain_3\u0026hash=item1a003c9555",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-1-CGC-9-2-/111673120085?pt=LH_DefaultDomain_3\u0026hash=item1a003c9555\"\u003ehttp://www.ebay.co.uk/itm/Enormous-1-CGC-9-2-/111673120085?pt=LH_DefaultDomain_3\u0026hash=item1a003c9555\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
-        "issue":  "4",
-        "variant":  "4A",
-        "price":  0.49,
+        "issue":  "1",
+        "variant":  "1ACGC",
+        "price":  50,
         "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
+        "rundate":  "25-5-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-5-2015-1st-Print-Comic-Book-NM-FREE-P-P-/171761242801?pt=LH_DefaultDomain_3\u0026hash=item27fdc492b1",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-5-2015-1st-Print-Comic-Book-NM-FREE-P-P-/171761242801?pt=LH_DefaultDomain_3\u0026hash=item27fdc492b1\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-5-2015-1st-Print-Comic-Book-NM-FREE-P-P-/171761242801?pt=LH_DefaultDomain_3\u0026hash=item27fdc492b1\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Enormous-1-CGC-9-6-/111673122173?pt=LH_DefaultDomain_3\u0026hash=item1a003c9d7d",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-1-CGC-9-6-/111673122173?pt=LH_DefaultDomain_3\u0026hash=item1a003c9d7d\"\u003ehttp://www.ebay.co.uk/itm/Enormous-1-CGC-9-6-/111673122173?pt=LH_DefaultDomain_3\u0026hash=item1a003c9d7d\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "1",
+        "variant":  "1ACGC",
+        "price":  65,
+        "currency":  "\u0026pound;",
+        "rundate":  "25-5-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Enormous-4-C-D-CGC-9-6-/111673483811?pt=LH_DefaultDomain_3\u0026hash=item1a00422223",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-4-C-D-CGC-9-6-/111673483811?pt=LH_DefaultDomain_3\u0026hash=item1a00422223\"\u003ehttp://www.ebay.co.uk/itm/Enormous-4-C-D-CGC-9-6-/111673483811?pt=LH_DefaultDomain_3\u0026hash=item1a00422223\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  200,
+        "currency":  "\u0026pound;",
+        "rundate":  "25-5-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-5-2015-1st-Print-Comic-Book-NM-FREE-P-P-/171796319047?pt=LH_DefaultDomain_3\u0026hash=item27ffdbcb47",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-5-2015-1st-Print-Comic-Book-NM-FREE-P-P-/171796319047?pt=LH_DefaultDomain_3\u0026hash=item27ffdbcb47\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-5-2015-1st-Print-Comic-Book-NM-FREE-P-P-/171796319047?pt=LH_DefaultDomain_3\u0026hash=item27ffdbcb47\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
         "issue":  "5",
         "variant":  "5A",
         "price":  7.5,
         "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
+        "rundate":  "25-5-2015",
         "site":  "Auction"
     },
     {
@@ -146,19 +194,7 @@
         "variant":  "SET",
         "price":  14.95,
         "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-4-cover-Tim-Daniels-Mehdi-Cheggour-215-Ink-1st-Print-NM-/261665798231?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cec7f3857\u0026ssPageName=RSS:B:SHOP:GB:101",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-4-cover-Tim-Daniels-Mehdi-Cheggour-215-Ink-1st-Print-NM-/261665798231?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cec7f3857\u0026ssPageName=RSS:B:SHOP:GB:101\"\u003ehttp://www.ebay.co.uk/itm/Enormous-4-cover-Tim-Daniels-Mehdi-Cheggour-215-Ink-1st-Print-NM-/261665798231?pt=UK_Books_Comics_Magazines_US_Comics_ET\u0026hash=item3cec7f3857\u0026ssPageName=RSS:B:SHOP:GB:101\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "4",
-        "variant":  "4A",
-        "price":  9.95,
-        "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
+        "rundate":  "25-5-2015",
         "site":  "Auction"
     },
     {
@@ -170,55 +206,43 @@
         "variant":  "1A",
         "price":  99.95,
         "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
+        "rundate":  "25-5-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-1-2nd-print-variant-Tim-Daniels-Mehdi-Cheggour-215-Ink-NM-/261882477925?pt=LH_DefaultDomain_3\u0026hash=item3cf9697d65",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-1-2nd-print-variant-Tim-Daniels-Mehdi-Cheggour-215-Ink-NM-/261882477925?pt=LH_DefaultDomain_3\u0026hash=item3cf9697d65\"\u003ehttp://www.ebay.co.uk/itm/Enormous-1-2nd-print-variant-Tim-Daniels-Mehdi-Cheggour-215-Ink-NM-/261882477925?pt=LH_DefaultDomain_3\u0026hash=item3cf9697d65\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "1",
-        "variant":  "1C",
-        "price":  14.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-1-NM-PHANTOM-VARIANT-COVER-215-Ink-Tim-Daniels-Mehdi-Cheggour-NM-RARE-/281667091180?pt=LH_DefaultDomain_3\u0026hash=item4194aabaec",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-1-NM-PHANTOM-VARIANT-COVER-215-Ink-Tim-Daniels-Mehdi-Cheggour-NM-RARE-/281667091180?pt=LH_DefaultDomain_3\u0026hash=item4194aabaec\"\u003ehttp://www.ebay.co.uk/itm/Enormous-1-NM-PHANTOM-VARIANT-COVER-215-Ink-Tim-Daniels-Mehdi-Cheggour-NM-RARE-/281667091180?pt=LH_DefaultDomain_3\u0026hash=item4194aabaec\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Enormous-1-Phantom-Kaiju-Variant-OPTIONED-FOR-TV-215-Ink-1st-Print-NM-/261886490797?pt=LH_DefaultDomain_3\u0026hash=item3cf9a6b8ad",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-1-Phantom-Kaiju-Variant-OPTIONED-FOR-TV-215-Ink-1st-Print-NM-/261886490797?pt=LH_DefaultDomain_3\u0026hash=item3cf9a6b8ad\"\u003ehttp://www.ebay.co.uk/itm/Enormous-1-Phantom-Kaiju-Variant-OPTIONED-FOR-TV-215-Ink-1st-Print-NM-/261886490797?pt=LH_DefaultDomain_3\u0026hash=item3cf9a6b8ad\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
         "issue":  "1",
         "variant":  "1PHANTOMSE",
         "price":  29.95,
         "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
+        "rundate":  "25-5-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-1-RARE-2nd-Print-Variant-Cover-NM-215-Ink-Tim-Daniels-Mehdi-Cheggour-/281670385312?pt=LH_DefaultDomain_3\u0026hash=item4194dcfea0",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-1-RARE-2nd-Print-Variant-Cover-NM-215-Ink-Tim-Daniels-Mehdi-Cheggour-/281670385312?pt=LH_DefaultDomain_3\u0026hash=item4194dcfea0\"\u003ehttp://www.ebay.co.uk/itm/Enormous-1-RARE-2nd-Print-Variant-Cover-NM-215-Ink-Tim-Daniels-Mehdi-Cheggour-/281670385312?pt=LH_DefaultDomain_3\u0026hash=item4194dcfea0\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Enormous-1-Phantom-Kaiju-B-W-Variant-OPTIONED-FOR-TV-215-Ink-1st-Print-NM-/261886491550?pt=LH_DefaultDomain_3\u0026hash=item3cf9a6bb9e",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-1-Phantom-Kaiju-B-W-Variant-OPTIONED-FOR-TV-215-Ink-1st-Print-NM-/261886491550?pt=LH_DefaultDomain_3\u0026hash=item3cf9a6bb9e\"\u003ehttp://www.ebay.co.uk/itm/Enormous-1-Phantom-Kaiju-B-W-Variant-OPTIONED-FOR-TV-215-Ink-1st-Print-NM-/261886491550?pt=LH_DefaultDomain_3\u0026hash=item3cf9a6bb9e\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
         "issue":  "1",
-        "variant":  "1C",
-        "price":  29.95,
+        "variant":  "1PHANTOMB\u0026W",
+        "price":  34.95,
         "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
+        "rundate":  "25-5-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-Issue-4-Cover-B-First-Print-Michael-Avon-Owning-215-Ink-comic-book-/301593784326?pt=LH_DefaultDomain_3\u0026hash=item463863f006",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-Issue-4-Cover-B-First-Print-Michael-Avon-Owning-215-Ink-comic-book-/301593784326?pt=LH_DefaultDomain_3\u0026hash=item463863f006\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-Issue-4-Cover-B-First-Print-Michael-Avon-Owning-215-Ink-comic-book-/301593784326?pt=LH_DefaultDomain_3\u0026hash=item463863f006\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Enormous-1-Hastings-Variant-OPTIONED-FOR-TV-215-Ink-1st-Print-NM-/261886493151?pt=LH_DefaultDomain_3\u0026hash=item3cf9a6c1df",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-1-Hastings-Variant-OPTIONED-FOR-TV-215-Ink-1st-Print-NM-/261886493151?pt=LH_DefaultDomain_3\u0026hash=item3cf9a6c1df\"\u003ehttp://www.ebay.co.uk/itm/Enormous-1-Hastings-Variant-OPTIONED-FOR-TV-215-Ink-1st-Print-NM-/261886493151?pt=LH_DefaultDomain_3\u0026hash=item3cf9a6c1df\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
-        "issue":  "4",
-        "variant":  "4B",
-        "price":  6.85,
+        "issue":  "1",
+        "variant":  "1HASTINGS",
+        "price":  24.95,
         "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
+        "rundate":  "25-5-2015",
         "site":  "Auction"
     },
     {
@@ -230,31 +254,19 @@
         "variant":  "6A",
         "price":  3.75,
         "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
+        "rundate":  "25-5-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-1-2ND-PRINT-215-INK-20TH-CENTURY-FOX-REGENCY-PRIME-TV-SERIES-/351376574368?pt=LH_DefaultDomain_3\u0026hash=item51cfad07a0",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-1-2ND-PRINT-215-INK-20TH-CENTURY-FOX-REGENCY-PRIME-TV-SERIES-/351376574368?pt=LH_DefaultDomain_3\u0026hash=item51cfad07a0\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-1-2ND-PRINT-215-INK-20TH-CENTURY-FOX-REGENCY-PRIME-TV-SERIES-/351376574368?pt=LH_DefaultDomain_3\u0026hash=item51cfad07a0\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/ENORMOUS-1-2ND-PRINT-215-INK-20TH-CENTURY-FOX-REGENCY-PRIME-TV-SERIES-/351404122092?pt=LH_DefaultDomain_3\u0026hash=item51d1515fec",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ENORMOUS-1-2ND-PRINT-215-INK-20TH-CENTURY-FOX-REGENCY-PRIME-TV-SERIES-/351404122092?pt=LH_DefaultDomain_3\u0026hash=item51d1515fec\"\u003ehttp://www.ebay.co.uk/itm/ENORMOUS-1-2ND-PRINT-215-INK-20TH-CENTURY-FOX-REGENCY-PRIME-TV-SERIES-/351404122092?pt=LH_DefaultDomain_3\u0026hash=item51d1515fec\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
         "issue":  "1",
         "variant":  "1C",
         "price":  10.99,
         "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
-        "site":  "Auction"
-    },
-    {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-4-Cover-B-1st-Print-215-Ink-/371306632499?pt=LH_DefaultDomain_3\u0026hash=item5673999533",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-4-Cover-B-1st-Print-215-Ink-/371306632499?pt=LH_DefaultDomain_3\u0026hash=item5673999533\"\u003ehttp://www.ebay.co.uk/itm/Enormous-4-Cover-B-1st-Print-215-Ink-/371306632499?pt=LH_DefaultDomain_3\u0026hash=item5673999533\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "ENORMOUS",
-        "issue":  "4",
-        "variant":  "4B",
-        "price":  6.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
+        "rundate":  "25-5-2015",
         "site":  "Auction"
     },
     {
@@ -266,19 +278,31 @@
         "variant":  "5A",
         "price":  5,
         "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
+        "rundate":  "25-5-2015",
         "site":  "Auction"
     },
     {
-        "link":  "http://www.ebay.co.uk/itm/Enormous-4-set-of-Cover-A-and-Cover-B-Low-print-run-215-ink-comics-Daniel-/391121395177?pt=LH_DefaultDomain_3\u0026hash=item5b10a6dde9",
-        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-4-set-of-Cover-A-and-Cover-B-Low-print-run-215-ink-comics-Daniel-/391121395177?pt=LH_DefaultDomain_3\u0026hash=item5b10a6dde9\"\u003ehttp://www.ebay.co.uk/itm/Enormous-4-set-of-Cover-A-and-Cover-B-Low-print-run-215-ink-comics-Daniel-/391121395177?pt=LH_DefaultDomain_3\u0026hash=item5b10a6dde9\u003c/a\u003e",
+        "link":  "http://www.ebay.co.uk/itm/Enormous-4-Cover-B-1st-Print-215-Ink-/371329099736?pt=LH_DefaultDomain_3\u0026hash=item5674f067d8",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-4-Cover-B-1st-Print-215-Ink-/371329099736?pt=LH_DefaultDomain_3\u0026hash=item5674f067d8\"\u003ehttp://www.ebay.co.uk/itm/Enormous-4-Cover-B-1st-Print-215-Ink-/371329099736?pt=LH_DefaultDomain_3\u0026hash=item5674f067d8\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ENORMOUS",
+        "issue":  "4",
+        "variant":  "4B",
+        "price":  6.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "25-5-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Enormous-4-set-of-Cover-A-and-Cover-B-Low-print-run-215-ink-comics-Daniel-/391152369501?pt=LH_DefaultDomain_3\u0026hash=item5b127f7f5d",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Enormous-4-set-of-Cover-A-and-Cover-B-Low-print-run-215-ink-comics-Daniel-/391152369501?pt=LH_DefaultDomain_3\u0026hash=item5b127f7f5d\"\u003ehttp://www.ebay.co.uk/itm/Enormous-4-set-of-Cover-A-and-Cover-B-Low-print-run-215-ink-comics-Daniel-/391152369501?pt=LH_DefaultDomain_3\u0026hash=item5b127f7f5d\u003c/a\u003e",
         "orderdate":  null,
         "title":  "ENORMOUS",
         "issue":  "",
         "variant":  "SET",
-        "price":  13.99,
+        "price":  12.99,
         "currency":  "\u0026pound;",
-        "rundate":  "11-5-2015",
+        "rundate":  "25-5-2015",
         "site":  "Auction"
     }
 ]
