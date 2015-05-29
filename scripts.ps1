@@ -99,12 +99,12 @@ function add-array
               if ($status -ne "Closed")
               {
                  update-db -ebayitem $set.Ebayitem -status $status -price $set.CurrentPrice
-                 Write-host "`rUpdating $($set.Ebayitem)" -foregroundcolor green  -NoNewline 
+                 Write-host "`rUpdating: $($set.Ebayitem)" -foregroundcolor green  -NoNewline 
               }
               else
               {
                  update-db -ebayitem $set.Ebayitem -status $status  -price $set.CurrentPrice
-                 Write-host "`rClosing $($set.Ebayitem)"  -NoNewline 
+                 Write-host "`rClosing: $($set.Ebayitem)"  -NoNewline 
               }            
                 
           }
