@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title id='Description'>Theyrenotlikeus</title>
+    <title id='Description'>THE WICKED THE DIVINE</title>
     <link rel="stylesheet" href="../../jqwidgets/styles/jqx.base.css" type="text/css" />
     <script type="text/javascript" src="../../scripts/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="../../jqwidgets/jqxcore.js"></script>
@@ -18,7 +18,7 @@
     <script type="text/javascript" src="../../scripts/demos.js"></script>
     <script type="text/javascript">
         $(document).ready(function () {
-            var url = "../../../livedata/theyrenotlikeus.json";
+            var url = "../../../livedata/THEWICKEDTHEDIVINE.json";
 
             // prepare the data
             var source =
@@ -40,19 +40,19 @@
 
             $("#jqxgrid").jqxGrid(
             {
-                width: 1350,
+                width: 1450,
                 source: dataAdapter,
                 filterable: false,
                 columnsresize: true,
                 sortable: true,
                 columns: [
                   { text: 'Name', datafield: 'title', width: 100},
-                  { text: 'Issue', datafield: 'issue', width: 150},
-                  { text: 'Site', datafield: 'site' },
-                  { text: 'URL', datafield: 'url', width: 250},
-                  { text: 'Price', datafield: 'price', width: 100 },
+                  { text: 'Issue', datafield: 'issue', width: 60},
+                  { text: 'Site', datafield: 'site', width: 150  },
+                  { text: 'URL', datafield: 'url'},
+                  { text: 'Price', datafield: 'price', width: 60 },
                   { text: 'Variant', datafield: 'variant' },
-                  { text: 'rundate', datafield: 'rundate' }
+                  { text: 'rundate', datafield: 'rundate', width: 150 }
               ]
             });
         });
