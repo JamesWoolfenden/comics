@@ -18,6 +18,12 @@ Function Parse-ListingInfo
 	$BestOffer = $false
 	$Description = ""
 
+	if ($item -eq $Null)
+	{
+	   Write-Warning "Passed value is null"
+	   return $null
+	}
+
 	try	
     {
        $Title = $item.title."#cdata-section"

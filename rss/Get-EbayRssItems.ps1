@@ -24,6 +24,7 @@ Function Get-EbayRssItems
 		  }
 		  catch 
 		  {
+
              write-warning "`nFailed to parse item"
 		  }
 	   }
