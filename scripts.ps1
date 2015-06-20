@@ -382,9 +382,10 @@ function update-open
    }
    catch
    {
+      Write-warning "Update-open error"
       write-error $_
-      throw $_.Exception
-      exit 1
+      #throw $_.Exception
+      #exit 1
    }
 }
 
