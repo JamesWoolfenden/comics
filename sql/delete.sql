@@ -1,5 +1,5 @@
 use comics
-select * from comics where title='sex criminals' and status = 'expired'
+select * from comics where title='sabrina' and status = 'expired'
 
 select * from comics where  status = 'open'
 
