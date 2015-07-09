@@ -24,13 +24,12 @@ Function Get-EbayRssItems
 		  }
 		  catch 
 		  {
-
              write-warning "`nFailed to parse item"
 		  }
 	   }
     }
 
-   $results+=$items
+    $results+=$items
 
 	return $results
 }

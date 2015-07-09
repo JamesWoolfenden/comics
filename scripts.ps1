@@ -1,5 +1,6 @@
 $imageroot= "$PSScriptRoot\covers"
 
+import-module "$PSScriptRoot\modules\update-records.psd1" -force
 import-module "$PSScriptRoot\modules\object-helper.ps1"
 import-module "$PSScriptRoot\rss\EbayRssPowershellModule.psm1" -force
 import-module "$PSScriptRoot\modules\database.psd1" -force
@@ -10,6 +11,8 @@ import-module "$PSScriptRoot\modules\watch.psd1"
 import-module "$PSScriptRoot\core.ps1"
 import-module "$PSScriptRoot\modules\search-data.psd1" -force
 import-module "$PSScriptRoot\review.ps1"
+
+
 
 
 function waitforpageload {
@@ -53,6 +56,7 @@ function add-array
    [string]$title, 
    [Parameter(Mandatory=$true)]
    [string]$issue,
+   [Parameter(Mandatory=$true)]
    [string]$status)
          
    #first lets read in all existing related items
@@ -61,14 +65,15 @@ function add-array
    $list=search-db "Where Ebayitem != NULL"|select -property Ebayitem
    $Ebayitems=$list|foreach {"$($_.EbayItem)"}
    
-
    if ($resultset -ne $Null)
    {
       $count=0
       
       foreach ($set in $resultset)
       {       
-          if (!(get-db $set.ebayitem))
+		  $foundrecord=search-db -where "where ebayitem = '$($set.ebayitem)'"
+
+          if (!($foundrecord) -and ($status -ne "Expired"))
           {
              $trimmedtitle=clean-string $set.Title
              
@@ -80,33 +85,67 @@ function add-array
 
              Write-host "`r`nAdding " -nonewline
              Write-host "$($set.Ebayitem)" -foregroundcolor red
+
              if ($set.CurrentPrice)
              {
                 $CurrentPrice=$set.CurrentPrice
              }
-             else{
+             else
+			 {
                 $CurrentPrice=0
              }
 
-             add-record -title $title -issue $issue -price $CurrentPrice -bought $false -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
-             -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $set.BestOffer -BidCount $set.BidCount `
-                 -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate -ImageSrc $set.ImageSrc -Link $set.Link
-                 
+             [string]$bestOffer=$set.BestOffer.ToString() 
+
+			 try
+			 {
+			    add-record -title $title -issue $issue -price $CurrentPrice -bought $false `
+			               -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
+                           -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $BestOffer -BidCount $set.BidCount `
+                           -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate `
+			               -ImageSrc $set.ImageSrc -Link $set.Link
+             }
+			 Catch
+			 {
+				 $set|get-member
+
+				 Write-Host "Failed to add record"
+				 Write-Host "title $title"
+				 Write-Host "issue $issue" 
+				 Write-Host "price $CurrentPrice" 
+				 Write-Host "bought $false"
+				 Write-Host "PublishDate $($set.PublishDate)"
+				 Write-Host "Ebayitem $($set.Ebayitem)"
+				 Write-Host "Description $($trimmedtitle)" 
+				 Write-Host "AuctionType $($AuctionType)"
+			     Write-Host "BestOffer $BestOffer"
+				 Write-Host "BidCount $($set.BidCount)"
+                 Write-Host "BuyItNowPrice $($set.BuyItNowPrice)"
+				 Write-Host "CloseDate $($set.CloseDate)"
+			     Write-Host "ImageSrc $($set.ImageSrc) "
+				 Write-Host "Link $($set.Link)"
+				 throw 
+			 }
+			                   
              $count++
           }
           else
-          {
-              if ($status -ne "Closed")
-              {
-                 update-db -ebayitem $set.Ebayitem -status $status -price $set.CurrentPrice
-                 Write-host "`rUpdating: $($set.Ebayitem)" -foregroundcolor green  -NoNewline 
-              }
-              else
-              {
-                 update-db -ebayitem $set.Ebayitem -status $status  -price $set.CurrentPrice
-                 Write-host "`rClosing: $($set.Ebayitem)"  -NoNewline 
-              }            
-                
+          {			   
+              #record exists check its not expired or closed
+			  if (($foundrecord.Status -eq "Open") -or ($foundrecord.Status -eq "Verified"))
+			  {
+                    write-verbose " update-db -ebayitem $($set.Ebayitem) -status $status -price $($set.CurrentPrice)"              
+				    if ($status -eq "Open")
+                    {
+				       update-db -ebayitem $set.Ebayitem -price $set.CurrentPrice
+                    }
+					
+				    Write-host "`rUpdating: $($set.Ebayitem)" -foregroundcolor green  -NoNewline 
+              } 
+			  else
+			  {
+                 Write-host "`rSkipping: $($set.Ebayitem)" -foregroundcolor yellow  -NoNewline 				   
+			  }
           }
       }
       
@@ -344,7 +383,17 @@ function Finalize-Records
 
 function update-open
 {
-   param([string]$title=$NULL)
+	<#
+      .SYNOPSIS 
+       update open update comic records, either all open or all open of given title    
+      
+      .PARAMETER title
+            
+      .EXAMPLE
+      C:\PS>  uo chew
+   #>
+   param(
+	   [string]$title=$NULL)
       
    if ($title)
    {
@@ -384,8 +433,6 @@ function update-open
    {
       Write-warning "Update-open error"
       write-error $_
-      #throw $_.Exception
-      #exit 1
    }
 }
 
@@ -486,101 +533,6 @@ function add-ebid
    -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining  -Seller $seller
       
    write-host "Adding $title $($ebiditem.id)"
-}
-
-function get-records
-{
- <#
-   .SYNOPSIS 
-   Retrieves ebay records and adds them to the db
-        
-   .EXAMPLE
-   C:\PS> get-records -title "The Walking Dead" -exclude "Poster"   
-    This loads the search json db and scan ebay and ebid.
- #>
-
-   param(
-   [Parameter(Mandatory=$true)]
-   [PSCustomObject]$search)
-   
-   $include=$search.include -join ' '
-   $exclude=$search.exclude -join ' '
-
-   if ($search.comictitle)
-   {
-      $writetitle=$search.comictitle
-   }
-   else
-   {
-      $writetitle=$search.title
-   }
-
-   if ($search.include)
-   {
-      $keywords="$($search.title) $include"
-   }
-   else
-   {
-      $keywords=$search.title
-   }
-   
-   #this is the sold items
-   write-verbose "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {`$_.BidCount -ne '0'}"
-   $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold' -categories $search.category |where {$_.BidCount -ne '0'}
-   
-   [int]$SoldCount=0
-   if ($soldresult)
-   {
-     $SoldCount=1
-     if ($soldresult -is [system.array])
-     {
-        $SoldCount=$soldresult.count
-     }
-      
-     add-array $soldresult -title $writetitle -issue 0 -Status Closed
-   }
-   
-   # this is the closed results
-   write-verbose "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {`$_.BidCount -ne '0'}"
-   $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed' -categories $search.category|where {$_.BidCount -eq "0"}
-   
-   [int]$ExpiredCount = 0   
-   if ($expiredresult)
-   {
-      $ExpiredCount=1
-      if ($expiredresult -is [System.Array])
-      {
-         $ExpiredCount=$expiredresult.count
-      }  
-	  
-	  add-array $expiredresult -title $writetitle -issue 0 -Status Expired      
-   }
-   
-   [int]$OpenCount=0  
-   if ($search.enabled)
-   {
-      $result=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'Open' -categories $search.category
-   
-      if ($result)
-      {     
-	     $OpenCount=1
-         if ($result -is [system.array])
-         {
-           $OpenCount=$result.count
-         }
-         
-         add-array $result -title $writetitle -issue 0
-      } 
-   }
-   else
-   {
-      write-warning "Disabled new records for $title"
-   }   
-    
-   write-host "`nEbay Stats" -foregroundcolor yellow
-   write-host "Expired: $ExpiredCount" -foregroundcolor cyan
-   write-host "Sold:    $SoldCount" -foregroundcolor cyan   
-   Write-Host "Open:    $OpenCount" -foregroundcolor cyan   
 }
 
 function get-issues
@@ -773,7 +725,7 @@ function get-allrecords
    
    Write-Host "`nFinding: $($search.title)" -ForegroundColor cyan  
    get-ebidrecords -search $search
-   get-records -search $search
+   get-records     -search $search
    write-verbose "`r`nComplete."
 }
 
