@@ -310,14 +310,14 @@ function search-db
       ,[BuyItNowPrice],[CloseDate],[ImageSrc],[Link]
       ,[Site],[Remaining],[watch] 
       FROM comics $wherestring"
-
+   Write-debug $cmd.commandtext
    $data = $cmd.ExecuteReader()
    
    while ($data.Read())
    {    
        if ($data.IsDBNUll(0)) 
        {
-         $seller=$null
+          $seller=$null
        }
        else 
        {
@@ -325,9 +325,7 @@ function search-db
        }
     
        $price= get-pounds $data.GetDouble(2)
-       #postage
        $postage= get-pounds $data.GetDouble(7)
-    
     
        if ($data.IsDBNull(8))
        {

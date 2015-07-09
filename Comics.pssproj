@@ -79,8 +79,14 @@
     <Compile Include="jqwidgets\demos\sampledata\xmldata.json" />
     <Compile Include="livedata\*.json" />
     <Compile Include="livedata\*.txt" />
+    <Compile Include="modules\HttpListener\ChangeLog.txt" />
+    <Compile Include="modules\HttpListener\HTTPListener.psd1" />
+    <Compile Include="modules\HttpListener\HTTPListener.psm1" />
+    <Compile Include="modules\HttpListener\HTTPListener_Tests.ps1" />
     <Compile Include="modules\rest.psd1" />
     <Compile Include="modules\rest.psm1" />
+    <Compile Include="modules\update-records.psd1" />
+    <Compile Include="modules\update-records.psm1" />
     <Compile Include="moretodo.txt" />
     <Compile Include="prices\*.json" />
     <Compile Include="prices\*.txt" />
@@ -104,7 +110,6 @@
     <Compile Include="modules\image.psm1" />
     <Compile Include="slice.ps1" />
     <Compile Include="modules\multiple.psm1" />
-    <Compile Include="sql\ChangeIssue.sql" />
     <Compile Include="sql\delete.sql" />
     <Compile Include="sql\math.sql" />
     <Compile Include="todo.txt" />
@@ -166,6 +171,7 @@
     <Folder Include="livedata\" />
     <Folder Include="javascript\" />
     <Folder Include="modules\" />
+    <Folder Include="modules\HttpListener\" />
     <Folder Include="tests\" />
     <Folder Include="prices\" />
     <Folder Include="rss\" />
