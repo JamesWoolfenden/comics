@@ -67,6 +67,7 @@ function get-records
       }  
 	  
       #should only update
+      Write-host "Expired is $ExpiredCount"     
 	  add-array $expiredresult -title $writetitle -issue 0 -Status Expired      
    }
    
@@ -82,8 +83,9 @@ function get-records
          {
            $OpenCount=$result.count
          }
-         
-         add-array $result -title $writetitle -issue 0 -status "Open"
+
+         Write-host "Open is $OpenCount"
+         add-array $result -title $writetitle -issue 0 -status Open
       } 
    }
    else

@@ -75,7 +75,7 @@ function update-record
          $estimate=$record.postage
          if ($record.site -eq "ebid" -And $record.seller -eq "")
          {
-            $seller=get-ebidsellerfromie -ie $ie
+            $seller=Get-EbidSellerIE -ie $ie
          }
          else
          {
@@ -521,7 +521,7 @@ function guess-title
     }
  }
  
-function get-ebidsellerfromie
+function Get-EbidSellerIE
 {
    param(
    [Parameter(Mandatory=$true)]
@@ -530,7 +530,9 @@ function get-ebidsellerfromie
    try
    {
       #$seller=($ie.Document.body.document.body.getElementsByTagName('a')| where{$_.innerHTML -eq "All about the seller"}).nameProp
-      $result=@($ie[1].Document.body.getElementsByClassName('t10 l5 f4 center'))
+      #$result=@($ie[1].Document.body.getElementsByClassName('t10 l5 f4 center'))
+      $result=@($ie[1].Document.body.getElementsByClassName('col_one_fourth clearfix nobottommargin center'))
+      
       [string]$seller=($result.textContent.trim() -split(' '))[0]
 	  Write-host "Seller: $seller"
    }
