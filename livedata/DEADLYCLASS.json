@@ -8,19 +8,43 @@
         "variant":  "Deadly Class  (MR) DCBS Exclusive",
         "price":  "2.25",
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "DCBS"
     },
     {
-        "link":  "https://www.dcbservice.com/product/jun150542/deadly-class-16-(mr)",
-        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jun150542/deadly-class-16-(mr)\"\u003ehttps://www.dcbservice.com/product/jun150542/deadly-class-16-(mr)\u003c/a\u003e",
+        "link":  "https://www.dcbservice.com/product/jul150651/deadly-class-tp-vol-01-reagan-youth-(may140626)-(mr)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jul150651/deadly-class-tp-vol-01-reagan-youth-(may140626)-(mr)\"\u003ehttps://www.dcbservice.com/product/jul150651/deadly-class-tp-vol-01-reagan-youth-(may140626)-(mr)\u003c/a\u003e",
         "orderdate":  null,
         "title":  "DEADLY CLASS",
-        "issue":  "16",
-        "variant":  "Deadly Class  (MR)",
-        "price":  "1.35",
+        "issue":  "Deadly Class TP Vol 01 Reagan Youth (May140626) (MR)",
+        "variant":  "Deadly Class TP Vol 01 Reagan Youth (May140626) (MR)",
+        "price":  "3.86",
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/jul150652/deadly-class-tp-vol-02-kids-of-the-black-hole-(dec140657)-(m",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jul150652/deadly-class-tp-vol-02-kids-of-the-black-hole-(dec140657)-(m\"\u003ehttps://www.dcbservice.com/product/jul150652/deadly-class-tp-vol-02-kids-of-the-black-hole-(dec140657)-(m\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "DEADLY CLASS",
+        "issue":  "Deadly Class TP Vol 02 Kids of The Black Hole (Dec140657) (M",
+        "variant":  "Deadly Class TP Vol 02 Kids of The Black Hole (Dec140657) (M",
+        "price":  "5.79",
+        "currency":  "\u0026pound;",
+        "rundate":  "13-7-2015",
+        "site":  "DCBS"
+    },
+    {
+        "link":  "https://www.dcbservice.com/product/jul150603/deadly-class-tp-vol-03-the-snake-pit-(mr)",
+        "url":  "\u003ca href=\"https://www.dcbservice.com/product/jul150603/deadly-class-tp-vol-03-the-snake-pit-(mr)\"\u003ehttps://www.dcbservice.com/product/jul150603/deadly-class-tp-vol-03-the-snake-pit-(mr)\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "DEADLY CLASS",
+        "issue":  "Deadly Class TP Vol 03 The Snake Pit (MR)",
+        "variant":  "Deadly Class TP Vol 03 The Snake Pit (MR)",
+        "price":  "5.79",
+        "currency":  "\u0026pound;",
+        "rundate":  "13-7-2015",
         "site":  "DCBS"
     },
     {
@@ -30,9 +54,9 @@
         "title":  "DEADLY CLASS",
         "issue":  "10",
         "variant":  "Deadly Class",
-        "price":  "2.56",
+        "price":  "2.57",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175403643)\/",
+        "rundate":  "\/Date(1436780260155)\/",
         "site":  "comicxposure"
     },
     {
@@ -44,7 +68,7 @@
         "variant":  "12 CVR B OPENA (MR)",
         "price":  2.40,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175408028)\/",
+        "rundate":  "\/Date(1436780265754)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,19 +80,19 @@
         "variant":  "13 (MR)",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175408028)\/",
+        "rundate":  "\/Date(1436780265754)\/",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "http://www.disposableheroes.co.uk/this-weeks-releases/image/deadly-class-14-mr-/prod_148552.html",
-        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/this-weeks-releases/image/deadly-class-14-mr-/prod_148552.html\"\u003ehttp://www.disposableheroes.co.uk/this-weeks-releases/image/deadly-class-14-mr-/prod_148552.html\u003c/a\u003e",
+        "link":  "http://www.disposableheroes.co.uk/last-weeks-releases/image/deadly-class-14-mr-/prod_148552.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/last-weeks-releases/image/deadly-class-14-mr-/prod_148552.html\"\u003ehttp://www.disposableheroes.co.uk/last-weeks-releases/image/deadly-class-14-mr-/prod_148552.html\u003c/a\u003e",
         "orderdate":  null,
         "title":  "DEADLY CLASS",
         "issue":  "14",
         "variant":  "14 (MR)",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175408028)\/",
+        "rundate":  "\/Date(1436780265754)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +104,7 @@
         "variant":  "12 CVR A CRAIG (MR)",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175408028)\/",
+        "rundate":  "\/Date(1436780265754)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +116,7 @@
         "variant":  "DEADLY CLASS TP VOL 01 REAGAN YOUTH (MR)",
         "price":  6.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175408028)\/",
+        "rundate":  "\/Date(1436780265754)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +128,7 @@
         "variant":  "DEADLY CLASS TP VOL 02 KIDS OF THE BLACK HOLE (MR)",
         "price":  8.79,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175408028)\/",
+        "rundate":  "\/Date(1436780265754)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +140,7 @@
         "variant":  "16 (MR)",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175408028)\/",
+        "rundate":  "\/Date(1436780265754)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,7 +152,7 @@
         "variant":  "4 (MR) DHC",
         "price":  1.90,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175408028)\/",
+        "rundate":  "\/Date(1436780265754)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -140,7 +164,7 @@
         "variant":  "15 (MR)",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175408028)\/",
+        "rundate":  "\/Date(1436780265754)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -152,7 +176,7 @@
         "variant":  "16",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175426915)\/",
+        "rundate":  "\/Date(1436780274183)\/",
         "site":  "Close Encounters"
     },
     {
@@ -164,7 +188,7 @@
         "variant":  "15",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175426915)\/",
+        "rundate":  "\/Date(1436780274183)\/",
         "site":  "Close Encounters"
     },
     {
@@ -176,7 +200,7 @@
         "variant":  "14",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175426915)\/",
+        "rundate":  "\/Date(1436780274183)\/",
         "site":  "Close Encounters"
     },
     {
@@ -188,7 +212,7 @@
         "variant":  "13",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175426915)\/",
+        "rundate":  "\/Date(1436780274183)\/",
         "site":  "Close Encounters"
     },
     {
@@ -200,7 +224,7 @@
         "variant":  "12 COVER A CRAIG",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175426915)\/",
+        "rundate":  "\/Date(1436780274183)\/",
         "site":  "Close Encounters"
     },
     {
@@ -212,7 +236,7 @@
         "variant":  "11",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175426915)\/",
+        "rundate":  "\/Date(1436780274183)\/",
         "site":  "Close Encounters"
     },
     {
@@ -224,7 +248,7 @@
         "variant":  "10",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175426915)\/",
+        "rundate":  "\/Date(1436780274183)\/",
         "site":  "Close Encounters"
     },
     {
@@ -236,7 +260,7 @@
         "variant":  "9",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175426915)\/",
+        "rundate":  "\/Date(1436780274183)\/",
         "site":  "Close Encounters"
     },
     {
@@ -248,7 +272,7 @@
         "variant":  "8",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175426915)\/",
+        "rundate":  "\/Date(1436780274183)\/",
         "site":  "Close Encounters"
     },
     {
@@ -260,7 +284,7 @@
         "variant":  "7",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175426915)\/",
+        "rundate":  "\/Date(1436780274183)\/",
         "site":  "Close Encounters"
     },
     {
@@ -271,7 +295,7 @@
         "issue":  "16",
         "variant":  "16",
         "price":  2.40,
-        "rundate":  "\/Date(1436175431396)\/",
+        "rundate":  "\/Date(1436780279300)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -282,18 +306,7 @@
         "issue":  "15",
         "variant":  "15",
         "price":  2.40,
-        "rundate":  "\/Date(1436175431396)\/",
-        "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "https://forbiddenplanet.com/139438-deadly-class-14/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/139438-deadly-class-14/\"\u003ehttps://forbiddenplanet.com/139438-deadly-class-14/\u003c/a\u003e",
-        "orderdate":  "",
-        "title":  "DEADLY CLASS",
-        "issue":  "14",
-        "variant":  "14",
-        "price":  2.40,
-        "rundate":  "\/Date(1436175431396)\/",
+        "rundate":  "\/Date(1436780279300)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -304,7 +317,7 @@
         "issue":  "11",
         "variant":  "11",
         "price":  2.40,
-        "rundate":  "\/Date(1436175431396)\/",
+        "rundate":  "\/Date(1436780279300)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -315,7 +328,7 @@
         "issue":  "1 ",
         "variant":  "Forbidden Planet Variant",
         "price":  3.99,
-        "rundate":  "\/Date(1436175431396)\/",
+        "rundate":  "\/Date(1436780279300)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -327,7 +340,7 @@
         "variant":  "1 (1ST PRINT)",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175442078)\/",
+        "rundate":  "\/Date(1436780284391)\/",
         "site":  "Reed"
     },
     {
@@ -339,7 +352,7 @@
         "variant":  "1 (2ND PRINTING)",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175442078)\/",
+        "rundate":  "\/Date(1436780284391)\/",
         "site":  "Reed"
     },
     {
@@ -351,7 +364,7 @@
         "variant":  "1 (3RD PRINTING)",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175442078)\/",
+        "rundate":  "\/Date(1436780284391)\/",
         "site":  "Reed"
     },
     {
@@ -363,7 +376,7 @@
         "variant":  "10",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175442078)\/",
+        "rundate":  "\/Date(1436780284391)\/",
         "site":  "Reed"
     },
     {
@@ -375,7 +388,7 @@
         "variant":  "11",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175442078)\/",
+        "rundate":  "\/Date(1436780284391)\/",
         "site":  "Reed"
     },
     {
@@ -387,7 +400,7 @@
         "variant":  "12",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175442078)\/",
+        "rundate":  "\/Date(1436780284391)\/",
         "site":  "Reed"
     },
     {
@@ -399,7 +412,7 @@
         "variant":  "13",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175442078)\/",
+        "rundate":  "\/Date(1436780284391)\/",
         "site":  "Reed"
     },
     {
@@ -411,7 +424,7 @@
         "variant":  "14",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175442078)\/",
+        "rundate":  "\/Date(1436780284391)\/",
         "site":  "Reed"
     },
     {
@@ -423,7 +436,7 @@
         "variant":  "2",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175442078)\/",
+        "rundate":  "\/Date(1436780284391)\/",
         "site":  "Reed"
     },
     {
@@ -435,7 +448,7 @@
         "variant":  "3 (3RD PRINT)",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175442078)\/",
+        "rundate":  "\/Date(1436780284391)\/",
         "site":  "Reed"
     },
     {
@@ -447,7 +460,7 @@
         "variant":  "7",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175442078)\/",
+        "rundate":  "\/Date(1436780284391)\/",
         "site":  "Reed"
     },
     {
@@ -459,7 +472,7 @@
         "variant":  "8",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175442078)\/",
+        "rundate":  "\/Date(1436780284391)\/",
         "site":  "Reed"
     },
     {
@@ -471,7 +484,7 @@
         "variant":  "9",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175442078)\/",
+        "rundate":  "\/Date(1436780284391)\/",
         "site":  "Reed"
     },
     {
@@ -483,7 +496,7 @@
         "variant":  "VOLUME 1 REAGAN YOUTH GRAPHIC NOVEL",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175442078)\/",
+        "rundate":  "\/Date(1436780284391)\/",
         "site":  "Reed"
     },
     {
@@ -495,7 +508,7 @@
         "variant":  "11",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -507,7 +520,7 @@
         "variant":  "7",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -519,7 +532,7 @@
         "variant":  "1FP",
         "price":  5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -531,7 +544,7 @@
         "variant":  "1BEACHBALL",
         "price":  5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -543,7 +556,7 @@
         "variant":  "SET",
         "price":  20,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -555,7 +568,7 @@
         "variant":  "1A",
         "price":  5.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -567,7 +580,7 @@
         "variant":  "5",
         "price":  2.4,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -579,7 +592,7 @@
         "variant":  "1D",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -591,7 +604,7 @@
         "variant":  "10",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -603,7 +616,19 @@
         "variant":  "11",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Deadly-Class-1-Remender-Craig-Image-Comics-Saga-Walking-Dead-Rare-NM-1st-/131550086142?pt=LH_DefaultDomain_3\u0026hash=item1ea0ff03fe",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Deadly-Class-1-Remender-Craig-Image-Comics-Saga-Walking-Dead-Rare-NM-1st-/131550086142?pt=LH_DefaultDomain_3\u0026hash=item1ea0ff03fe\"\u003ehttp://www.ebay.co.uk/itm/Deadly-Class-1-Remender-Craig-Image-Comics-Saga-Walking-Dead-Rare-NM-1st-/131550086142?pt=LH_DefaultDomain_3\u0026hash=item1ea0ff03fe\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "DEADLY CLASS",
+        "issue":  "1",
+        "variant":  "1A",
+        "price":  4,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -615,7 +640,7 @@
         "variant":  "1FP",
         "price":  3.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -627,7 +652,7 @@
         "variant":  "4",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -639,7 +664,7 @@
         "variant":  "1FP",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -651,7 +676,7 @@
         "variant":  "10",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -663,7 +688,7 @@
         "variant":  "12",
         "price":  2.1,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -675,7 +700,7 @@
         "variant":  "2B",
         "price":  3.29,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -687,7 +712,7 @@
         "variant":  "1FIRSTS",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -699,7 +724,7 @@
         "variant":  "1B",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -711,7 +736,7 @@
         "variant":  "1D",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -723,7 +748,7 @@
         "variant":  "1C",
         "price":  3.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -735,7 +760,7 @@
         "variant":  "4",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -747,7 +772,7 @@
         "variant":  "7",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -759,7 +784,7 @@
         "variant":  "11",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -771,7 +796,7 @@
         "variant":  "4",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -783,7 +808,7 @@
         "variant":  "12B",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -795,7 +820,7 @@
         "variant":  "SET",
         "price":  8,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -807,7 +832,7 @@
         "variant":  "1C",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -819,7 +844,7 @@
         "variant":  "1C",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -831,7 +856,7 @@
         "variant":  "2",
         "price":  3.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -843,7 +868,7 @@
         "variant":  "3A",
         "price":  3.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -855,7 +880,7 @@
         "variant":  "6",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -867,7 +892,7 @@
         "variant":  "10",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -879,7 +904,7 @@
         "variant":  "8",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -891,7 +916,7 @@
         "variant":  "11",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -903,7 +928,7 @@
         "variant":  "4",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -915,7 +940,7 @@
         "variant":  "6",
         "price":  3,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -927,7 +952,7 @@
         "variant":  "1A",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -939,7 +964,7 @@
         "variant":  "7",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -951,7 +976,7 @@
         "variant":  "4",
         "price":  2.7,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -963,7 +988,7 @@
         "variant":  "5",
         "price":  2.7,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -975,7 +1000,7 @@
         "variant":  "1A",
         "price":  6.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -987,7 +1012,7 @@
         "variant":  "5",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -999,7 +1024,7 @@
         "variant":  "1B",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1011,7 +1036,7 @@
         "variant":  "1A",
         "price":  4.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1023,7 +1048,7 @@
         "variant":  "1FP",
         "price":  5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1035,7 +1060,7 @@
         "variant":  "SET",
         "price":  16.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1047,7 +1072,7 @@
         "variant":  "5",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1059,7 +1084,7 @@
         "variant":  "1A",
         "price":  5.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1071,7 +1096,7 @@
         "variant":  "SET",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1083,7 +1108,7 @@
         "variant":  "1B",
         "price":  6.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1095,7 +1120,7 @@
         "variant":  "1B",
         "price":  5.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1107,7 +1132,7 @@
         "variant":  "4",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1119,7 +1144,7 @@
         "variant":  "SET",
         "price":  3.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1131,7 +1156,7 @@
         "variant":  "AWT",
         "price":  25.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1143,7 +1168,7 @@
         "variant":  "SET",
         "price":  32.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1155,7 +1180,7 @@
         "variant":  "1DCBS",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1167,7 +1192,7 @@
         "variant":  "SET",
         "price":  6.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1179,7 +1204,7 @@
         "variant":  "5",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1191,7 +1216,7 @@
         "variant":  "5",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1203,7 +1228,7 @@
         "variant":  "6",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1215,7 +1240,7 @@
         "variant":  "6",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1227,7 +1252,7 @@
         "variant":  "7",
         "price":  3.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1239,7 +1264,7 @@
         "variant":  "4",
         "price":  3.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1251,7 +1276,7 @@
         "variant":  "12",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1263,7 +1288,7 @@
         "variant":  "1C",
         "price":  0.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1275,7 +1300,7 @@
         "variant":  "4",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1287,7 +1312,7 @@
         "variant":  "6",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1299,7 +1324,7 @@
         "variant":  "4",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1311,7 +1336,7 @@
         "variant":  "1C",
         "price":  3.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1323,7 +1348,7 @@
         "variant":  "4",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1335,7 +1360,7 @@
         "variant":  "4",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1347,7 +1372,7 @@
         "variant":  "1D",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1359,7 +1384,7 @@
         "variant":  "1D",
         "price":  3.75,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1371,7 +1396,7 @@
         "variant":  "5",
         "price":  3.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1383,7 +1408,7 @@
         "variant":  "6",
         "price":  3.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1395,7 +1420,7 @@
         "variant":  "7",
         "price":  3.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1407,7 +1432,7 @@
         "variant":  "5",
         "price":  2.4,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1419,7 +1444,7 @@
         "variant":  "1A",
         "price":  3.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1431,7 +1456,7 @@
         "variant":  "1D",
         "price":  3.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1443,7 +1468,7 @@
         "variant":  "1A",
         "price":  4.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1455,7 +1480,7 @@
         "variant":  "6",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1467,7 +1492,7 @@
         "variant":  "11",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1479,7 +1504,7 @@
         "variant":  "1A",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1491,7 +1516,7 @@
         "variant":  "12B",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1503,7 +1528,7 @@
         "variant":  "5",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1515,7 +1540,7 @@
         "variant":  "5",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1527,7 +1552,7 @@
         "variant":  "6",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1539,7 +1564,7 @@
         "variant":  "4",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1551,7 +1576,7 @@
         "variant":  "1A",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1563,7 +1588,7 @@
         "variant":  "5",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1575,7 +1600,7 @@
         "variant":  "SET",
         "price":  18.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1587,7 +1612,7 @@
         "variant":  "1D",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1599,7 +1624,7 @@
         "variant":  "4",
         "price":  1.9,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1611,7 +1636,7 @@
         "variant":  "6",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1623,7 +1648,7 @@
         "variant":  "8",
         "price":  3.95,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1635,7 +1660,7 @@
         "variant":  "12C2E2",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-7-2015",
+        "rundate":  "13-7-2015",
         "site":  "Auction"
     },
     {
@@ -1647,7 +1672,7 @@
         "variant":  "1",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175472443)\/",
+        "rundate":  "\/Date(1436780308539)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -1659,7 +1684,7 @@
         "variant":  "1",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175472443)\/",
+        "rundate":  "\/Date(1436780308539)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -1671,7 +1696,7 @@
         "variant":  "2",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175472443)\/",
+        "rundate":  "\/Date(1436780308539)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -1683,7 +1708,7 @@
         "variant":  "1",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175472443)\/",
+        "rundate":  "\/Date(1436780308539)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -1695,7 +1720,7 @@
         "variant":  "1",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175472443)\/",
+        "rundate":  "\/Date(1436780308539)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -1707,7 +1732,7 @@
         "variant":  "3",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175472443)\/",
+        "rundate":  "\/Date(1436780308539)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -1719,7 +1744,7 @@
         "variant":  "3",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175472443)\/",
+        "rundate":  "\/Date(1436780308539)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -1728,10 +1753,10 @@
         "orderdate":  null,
         "title":  "DEADLY CLASS",
         "issue":  "14\n",
-        "variant":  "3",
+        "variant":  "2",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1436175472443)\/",
+        "rundate":  "\/Date(1436780308539)\/",
         "site":  "The Comic Guru"
     }
 ]
