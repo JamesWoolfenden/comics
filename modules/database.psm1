@@ -176,7 +176,7 @@ function get-db
    $result.count
 }
 
-function Delete-Record
+function Remove-Record
 {
   <#
       .SYNOPSIS 
@@ -184,7 +184,7 @@ function Delete-Record
       .PARAMETER ebayitem 
     Specifies the ebayid.
     .EXAMPLE
-      C:\PS> delete-record -ebayitem 12321342 
+      C:\PS> Remove-Record -ebayitem 12321342 
   #>
 
    param(

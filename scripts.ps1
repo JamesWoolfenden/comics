@@ -758,4 +758,4 @@ new-alias bs get-selleritems -force
 new-alias byseller get-selleritems -force
 new-alias oc open-covers -force
 new-alias vm view-market -force
-new-alias dr delete-record -force
+new-alias dr Remove-Record -force
