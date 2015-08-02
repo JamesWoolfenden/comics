@@ -2,7 +2,8 @@ $script:datafile="$PSScriptRoot\..\search-data.json"
 
 
 function Initialize-SearchData
-{<#
+{
+<#
       .SYNOPSIS 
     Given some string properties this returns a search csutom object             
       .PARAMETER title

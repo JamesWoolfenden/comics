@@ -73,6 +73,7 @@ function add-array
       {       
 		  $foundrecord=search-db -where "where ebayitem = '$($set.ebayitem)'"
 
+          #new and not expired records
           if (!($foundrecord) -and ($status -ne "Expired"))
           {
              $trimmedtitle=clean-string $set.Title
@@ -130,22 +131,26 @@ function add-array
              $count++
           }
           else
-          {			   
-              #record exists check its not expired or closed
-			  if (($foundrecord.Status -eq "Open") -or ($foundrecord.Status -eq "Verified"))
-			  {
+          {
+              #record exist		   
+              if ($status -ne "Expired")
+              {
+                 #record exists check its not expired or closed
+			     if (($foundrecord.Status -eq "Open") -or ($foundrecord.Status -eq "Verified"))
+			     {
                     write-verbose " update-db -ebayitem $($set.Ebayitem) -status $status -price $($set.CurrentPrice)"              
-				    if ($status -eq "Open")
+			        if ($status -eq "Open")
                     {
-				       update-db -ebayitem $set.Ebayitem -price $set.CurrentPrice
+			           update-db -ebayitem $set.Ebayitem -price $set.CurrentPrice
                     }
-					
-				    Write-host "`rUpdating: $($set.Ebayitem)" -foregroundcolor green  -NoNewline 
-              } 
-			  else
-			  {
-                 Write-host "`rSkipping: $($set.Ebayitem)" -foregroundcolor yellow  -NoNewline 				   
-			  }
+			  	  
+			        Write-host "`rUpdating: $($set.Ebayitem)" -foregroundcolor green  -NoNewline 
+                 } 
+			     else
+			     {
+                    Write-host "`rSkipping: $($set.Ebayitem)" -foregroundcolor yellow  -NoNewline 				   
+			     }
+              }
           }
       }
       
@@ -753,3 +758,4 @@ new-alias bs get-selleritems -force
 new-alias byseller get-selleritems -force
 new-alias oc open-covers -force
 new-alias vm view-market -force
+new-alias dr Remove-Record -force

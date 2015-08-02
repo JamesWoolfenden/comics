@@ -176,6 +176,42 @@ function get-db
    $result.count
 }
 
+function Remove-Record
+{
+  <#
+      .SYNOPSIS 
+    Given an ebay recordid it deltes this from the db
+      .PARAMETER ebayitem 
+    Specifies the ebayid.
+    .EXAMPLE
+      C:\PS> Remove-Record -ebayitem 12321342 
+  #>
+
+   param(
+    [Parameter(Mandatory=$true)]
+    [string]$ebayitem)
+
+   $conn = New-Object System.Data.SqlClient.SqlConnection
+   $conn.ConnectionString = $connection
+   $conn.open()
+   
+   $cmd = New-Object System.Data.SqlClient.SqlCommand
+   $cmd.connection = $conn
+   $cmd.commandtext = "delete FROM [Comics].[dbo].[Comics] where ebayitem='$ebayitem'"
+   $data= $cmd.ExecuteReader()
+   $result = @()
+   $count=0
+   
+   while ($data.Read())
+   {
+      $result=$result+$data.GetString(0)
+      $count++
+   }
+   
+   $conn.close()
+   $result.count
+}
+
 function update-db
 {
    param( 
