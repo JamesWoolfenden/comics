@@ -90,7 +90,7 @@ function update-record
    $estimateIssue=set-issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
    $color        =get-image  -title $newtitle -issue $estimateIssue
    
-   write-host "Issue $($estimateIssue) - (i)dentify or (r)eplace:" -Foregroundcolor $color -nonewline
+   write-host "Issue $($estimateIssue) - (i)dentify, (c)lose or (r)eplace:" -Foregroundcolor $color -nonewline
    $actualIssue=read-host
  
    switch($actualIssue)
@@ -120,6 +120,11 @@ function update-record
              $removeErrors | where-object { $_.Exception.Message -notlike '*it is being used by another process*' }
              }
 	     Invoke-webRequest $record.ImageSrc -outfile $filepath    
+	  }
+	  "c"
+	  {
+          update-db -ebayitem $record.ebayitem -Status "EXPIRED"
+          return
 	  }
       default
       {
