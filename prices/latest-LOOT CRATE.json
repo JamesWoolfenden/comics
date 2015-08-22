@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592569631)\/"
+        "Date":  "\/Date(1440267560942)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592569751)\/"
+        "Date":  "\/Date(1440267561069)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592569901)\/"
+        "Date":  "\/Date(1440267561191)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -54,14 +54,14 @@
         "TotalCost":  "16.58",
         "Mean":  16.584444444444447,
         "AveragePrice":  14.85277777777778,
-        "CurrentPrice":  13.036000000000001,
+        "CurrentPrice":  13.035999999999998,
         "Minimum":  0.99,
         "Maximum":  25.7,
         "Count":  18,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592570101)\/"
+        "Date":  "\/Date(1440267561383)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592570241)\/"
+        "Date":  "\/Date(1440267561509)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592570421)\/"
+        "Date":  "\/Date(1440267561626)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592570541)\/"
+        "Date":  "\/Date(1440267561740)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592570661)\/"
+        "Date":  "\/Date(1440267561848)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592570791)\/"
+        "Date":  "\/Date(1440267561969)\/"
     },
     {
         "Title":  "LOOT CRATE",
@@ -157,6 +157,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592571051)\/"
+        "Date":  "\/Date(1440267562213)\/"
     }
 ]

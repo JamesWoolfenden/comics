@@ -13,7 +13,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  2,
-        "Date":  "\/Date(1438592705871)\/"
+        "Date":  "\/Date(1440267690172)\/"
     },
     {
         "Title":  "THE FIELD",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1438592706011)\/"
+        "Date":  "\/Date(1440267690314)\/"
     },
     {
         "Title":  "THE FIELD",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592706151)\/"
+        "Date":  "\/Date(1440267690464)\/"
     },
     {
         "Title":  "THE FIELD",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592706261)\/"
+        "Date":  "\/Date(1440267690581)\/"
     },
     {
         "Title":  "THE FIELD",
@@ -77,6 +77,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592706411)\/"
+        "Date":  "\/Date(1440267690713)\/"
     }
 ]

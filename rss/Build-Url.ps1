@@ -7,7 +7,8 @@ Function Build-Url
 		[string] $ExcludeWords,
 		[Parameter(Mandatory=$true)]
         [string]$state,
-        [int]$CategoryId=0
+        [int]$CategoryId=0,
+		[int]$page=$NULL
 	)
 	
 	$ExcludeWords.Split(' ') | % {
@@ -45,8 +46,13 @@ Function Build-Url
 	   }
 	}
 	
-	$url=$url+"&_rss=1&"
-	
+	$url=$url+"&_rss=1"
+
+	if ($page)
+	{
+      $url+="&_pgn=$page"
+	}
+
 	$url = $ExecutionContext.InvokeCommand.ExpandString($url)
 	
 	return $url

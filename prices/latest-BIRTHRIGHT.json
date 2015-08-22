@@ -1,6 +1,22 @@
 [
     {
         "Title":  "BIRTHRIGHT",
+        "Issue":  "10",
+        "Cover":  10,
+        "TotalCost":  "2.20",
+        "Mean":  2.2,
+        "AveragePrice":  2.2,
+        "CurrentPrice":  2.2,
+        "Minimum":  2.2,
+        "Maximum":  2.2,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1440267454094)\/"
+    },
+    {
+        "Title":  "BIRTHRIGHT",
         "Issue":  "1A",
         "Cover":  1,
         "TotalCost":  "2.63",
@@ -13,7 +29,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592449061)\/"
+        "Date":  "\/Date(1440267454254)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -29,7 +45,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1438592449191)\/"
+        "Date":  "\/Date(1440267454365)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -45,7 +61,7 @@
         "AveragePaid":  1.25,
         "AverageNetPaid":  1.25,
         "Stock":  1,
-        "Date":  "\/Date(1438592449371)\/"
+        "Date":  "\/Date(1440267454473)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -61,7 +77,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592449571)\/"
+        "Date":  "\/Date(1440267454596)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -77,7 +93,7 @@
         "AveragePaid":  10,
         "AverageNetPaid":  10,
         "Stock":  1,
-        "Date":  "\/Date(1438592449731)\/"
+        "Date":  "\/Date(1440267454702)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -93,7 +109,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1438592449851)\/"
+        "Date":  "\/Date(1440267454822)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -109,7 +125,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592450011)\/"
+        "Date":  "\/Date(1440267454933)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -125,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592450131)\/"
+        "Date":  "\/Date(1440267455063)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -141,7 +157,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592450261)\/"
+        "Date":  "\/Date(1440267455189)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -157,7 +173,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592450401)\/"
+        "Date":  "\/Date(1440267455304)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -173,7 +189,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592450511)\/"
+        "Date":  "\/Date(1440267455423)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -189,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592450621)\/"
+        "Date":  "\/Date(1440267455531)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -205,7 +221,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592450781)\/"
+        "Date":  "\/Date(1440267455690)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -221,7 +237,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592450901)\/"
+        "Date":  "\/Date(1440267455815)\/"
     },
     {
         "Title":  "BIRTHRIGHT",
@@ -237,6 +253,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592451061)\/"
+        "Date":  "\/Date(1440267455991)\/"
     }
 ]

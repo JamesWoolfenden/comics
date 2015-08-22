@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592476471)\/"
+        "Date":  "\/Date(1440267477657)\/"
     },
     {
         "Title":  "CHRONONAUTS",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592476651)\/"
+        "Date":  "\/Date(1440267477788)\/"
     },
     {
         "Title":  "CHRONONAUTS",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592476781)\/"
+        "Date":  "\/Date(1440267477903)\/"
     },
     {
         "Title":  "CHRONONAUTS",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592476971)\/"
+        "Date":  "\/Date(1440267478014)\/"
     },
     {
         "Title":  "CHRONONAUTS",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592477161)\/"
+        "Date":  "\/Date(1440267478141)\/"
     },
     {
         "Title":  "CHRONONAUTS",
@@ -93,23 +93,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592477301)\/"
+        "Date":  "\/Date(1440267478262)\/"
     },
     {
         "Title":  "CHRONONAUTS",
         "Issue":  "1G",
         "Cover":  1,
-        "TotalCost":  "3.50",
-        "Mean":  3.4985714285714287,
-        "AveragePrice":  2.2800000000000002,
-        "CurrentPrice":  2.494,
+        "TotalCost":  "3.37",
+        "Mean":  3.3737500000000002,
+        "AveragePrice":  2.3075,
+        "CurrentPrice":  2.596,
         "Minimum":  0.99,
         "Maximum":  5,
-        "Count":  7,
+        "Count":  8,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592477471)\/"
+        "Date":  "\/Date(1440267478401)\/"
     },
     {
         "Title":  "CHRONONAUTS",
@@ -125,7 +125,7 @@
         "AveragePaid":  3.99,
         "AverageNetPaid":  3.99,
         "Stock":  1,
-        "Date":  "\/Date(1438592477601)\/"
+        "Date":  "\/Date(1440267478517)\/"
     },
     {
         "Title":  "CHRONONAUTS",
@@ -141,23 +141,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592477711)\/"
+        "Date":  "\/Date(1440267478626)\/"
     },
     {
         "Title":  "CHRONONAUTS",
         "Issue":  "2A",
         "Cover":  2,
-        "TotalCost":  "2.23",
-        "Mean":  2.226,
-        "AveragePrice":  1.906,
-        "CurrentPrice":  1.906,
+        "TotalCost":  "2.30",
+        "Mean":  2.3042857142857143,
+        "AveragePrice":  2.0757142857142856,
+        "CurrentPrice":  2.5100000000000002,
         "Minimum":  0.99,
         "Maximum":  2.95,
-        "Count":  5,
+        "Count":  7,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592477871)\/"
+        "Date":  "\/Date(1440267478759)\/"
     },
     {
         "Title":  "CHRONONAUTS",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592477991)\/"
+        "Date":  "\/Date(1440267478876)\/"
     },
     {
         "Title":  "CHRONONAUTS",
@@ -189,39 +189,39 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592478131)\/"
+        "Date":  "\/Date(1440267478984)\/"
     },
     {
         "Title":  "CHRONONAUTS",
         "Issue":  "3A",
         "Cover":  3,
-        "TotalCost":  "2.04",
-        "Mean":  2.0380000000000003,
-        "AveragePrice":  2.0380000000000003,
-        "CurrentPrice":  2.038,
+        "TotalCost":  "2.19",
+        "Mean":  2.19,
+        "AveragePrice":  2.19,
+        "CurrentPrice":  2.43,
         "Minimum":  0.99,
-        "Maximum":  2.5,
-        "Count":  5,
+        "Maximum":  2.95,
+        "Count":  6,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1438592478241)\/"
+        "Date":  "\/Date(1440267479108)\/"
     },
     {
         "Title":  "CHRONONAUTS",
         "Issue":  "3B",
         "Cover":  3,
-        "TotalCost":  "3.90",
-        "Mean":  3.8975,
-        "AveragePrice":  3.5225,
-        "CurrentPrice":  3.5225,
+        "TotalCost":  "3.43",
+        "Mean":  3.4316666666666666,
+        "AveragePrice":  3.1816666666666666,
+        "CurrentPrice":  3.318,
         "Minimum":  2.1,
         "Maximum":  6.99,
-        "Count":  4,
-        "AveragePaid":  2.1,
-        "AverageNetPaid":  2.1,
-        "Stock":  1,
-        "Date":  "\/Date(1438592478411)\/"
+        "Count":  6,
+        "AveragePaid":  2.3,
+        "AverageNetPaid":  2.3,
+        "Stock":  2,
+        "Date":  "\/Date(1440267479248)\/"
     },
     {
         "Title":  "CHRONONAUTS",
@@ -237,7 +237,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592478561)\/"
+        "Date":  "\/Date(1440267479389)\/"
     },
     {
         "Title":  "CHRONONAUTS",
@@ -253,7 +253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592478711)\/"
+        "Date":  "\/Date(1440267479518)\/"
     },
     {
         "Title":  "CHRONONAUTS",
@@ -269,22 +269,22 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592478861)\/"
+        "Date":  "\/Date(1440267479629)\/"
     },
     {
         "Title":  "CHRONONAUTS",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "10.00",
-        "Mean":  10,
-        "AveragePrice":  7.8375000000000012,
-        "CurrentPrice":  7.506,
+        "TotalCost":  "17.78",
+        "Mean":  17.777777777777779,
+        "AveragePrice":  15.077777777777776,
+        "CurrentPrice":  22.438,
         "Minimum":  2.99,
-        "Maximum":  17.19,
-        "Count":  8,
+        "Maximum":  73,
+        "Count":  9,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592479041)\/"
+        "Date":  "\/Date(1440267479787)\/"
     }
 ]

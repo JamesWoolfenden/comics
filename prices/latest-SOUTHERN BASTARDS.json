@@ -13,7 +13,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  5,
-        "Date":  "\/Date(1438592683881)\/"
+        "Date":  "\/Date(1440267668479)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592683991)\/"
+        "Date":  "\/Date(1440267668595)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592684121)\/"
+        "Date":  "\/Date(1440267668718)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592684251)\/"
+        "Date":  "\/Date(1440267668840)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592684371)\/"
+        "Date":  "\/Date(1440267668967)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -93,7 +93,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  4,
-        "Date":  "\/Date(1438592684501)\/"
+        "Date":  "\/Date(1440267669098)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -109,7 +109,7 @@
         "AveragePaid":  4.74,
         "AverageNetPaid":  4.74,
         "Stock":  4,
-        "Date":  "\/Date(1438592684651)\/"
+        "Date":  "\/Date(1440267669268)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592684771)\/"
+        "Date":  "\/Date(1440267669380)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -141,7 +141,7 @@
         "AveragePaid":  4.2966666666666669,
         "AverageNetPaid":  4.2966666666666669,
         "Stock":  3,
-        "Date":  "\/Date(1438592684921)\/"
+        "Date":  "\/Date(1440267669523)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.475,
         "AverageNetPaid":  1.875,
         "Stock":  2,
-        "Date":  "\/Date(1438592685141)\/"
+        "Date":  "\/Date(1440267669726)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592685271)\/"
+        "Date":  "\/Date(1440267669847)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -189,39 +189,39 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592685481)\/"
+        "Date":  "\/Date(1440267670024)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
         "Issue":  "3B",
         "Cover":  3,
-        "TotalCost":  "2.74",
-        "Mean":  2.7427272727272727,
-        "AveragePrice":  2.4063636363636363,
-        "CurrentPrice":  2.2960000000000003,
+        "TotalCost":  "2.81",
+        "Mean":  2.8141666666666669,
+        "AveragePrice":  2.5058333333333334,
+        "CurrentPrice":  2.306,
         "Minimum":  0.99,
-        "Maximum":  3.55,
-        "Count":  11,
+        "Maximum":  3.6,
+        "Count":  12,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592685641)\/"
+        "Date":  "\/Date(1440267670178)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
         "Issue":  "4",
         "Cover":  4,
-        "TotalCost":  "2.67",
-        "Mean":  2.6678571428571431,
-        "AveragePrice":  1.9542857142857142,
-        "CurrentPrice":  1.936,
+        "TotalCost":  "2.71",
+        "Mean":  2.7066666666666666,
+        "AveragePrice":  2.0406666666666666,
+        "CurrentPrice":  2.4880000000000004,
         "Minimum":  0.49,
         "Maximum":  3.6,
-        "Count":  14,
+        "Count":  15,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592685801)\/"
+        "Date":  "\/Date(1440267670361)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -237,7 +237,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592685941)\/"
+        "Date":  "\/Date(1440267670514)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -253,39 +253,39 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1438592686081)\/"
+        "Date":  "\/Date(1440267670648)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
         "Issue":  "6",
         "Cover":  6,
-        "TotalCost":  "3.35",
-        "Mean":  3.35,
-        "AveragePrice":  3.35,
-        "CurrentPrice":  3.35,
+        "TotalCost":  "3.42",
+        "Mean":  3.4166666666666665,
+        "AveragePrice":  3.4166666666666665,
+        "CurrentPrice":  3.4166666666666665,
         "Minimum":  2.75,
         "Maximum":  3.95,
-        "Count":  2,
+        "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592686211)\/"
+        "Date":  "\/Date(1440267670769)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
         "Issue":  "7",
         "Cover":  7,
-        "TotalCost":  "2.68",
-        "Mean":  2.675,
-        "AveragePrice":  2.675,
-        "CurrentPrice":  2.675,
+        "TotalCost":  "2.77",
+        "Mean":  2.7666666666666671,
+        "AveragePrice":  2.7666666666666671,
+        "CurrentPrice":  2.7666666666666671,
         "Minimum":  1.8,
         "Maximum":  3.55,
-        "Count":  2,
+        "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592686341)\/"
+        "Date":  "\/Date(1440267670898)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -301,23 +301,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592686491)\/"
+        "Date":  "\/Date(1440267671048)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
         "Issue":  "9A",
         "Cover":  9,
-        "TotalCost":  "2.75",
-        "Mean":  2.75,
-        "AveragePrice":  2.75,
-        "CurrentPrice":  2.75,
+        "TotalCost":  "2.98",
+        "Mean":  2.975,
+        "AveragePrice":  2.975,
+        "CurrentPrice":  2.975,
         "Minimum":  2.5,
-        "Maximum":  3.25,
-        "Count":  3,
+        "Maximum":  3.65,
+        "Count":  4,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592686631)\/"
+        "Date":  "\/Date(1440267671193)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -333,7 +333,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1438592686751)\/"
+        "Date":  "\/Date(1440267671316)\/"
     },
     {
         "Title":  "SOUTHERN BASTARDS",
@@ -342,13 +342,13 @@
         "TotalCost":  "13.34",
         "Mean":  13.336734693877549,
         "AveragePrice":  11.267346938775512,
-        "CurrentPrice":  16.238000000000003,
+        "CurrentPrice":  16.148,
         "Minimum":  0.99,
         "Maximum":  33.5,
         "Count":  49,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592687051)\/"
+        "Date":  "\/Date(1440267671571)\/"
     }
 ]

@@ -13,23 +13,39 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592610141)\/"
+        "Date":  "\/Date(1440267598425)\/"
+    },
+    {
+        "Title":  "OUTCAST",
+        "Issue":  "11",
+        "Cover":  11,
+        "TotalCost":  "2.20",
+        "Mean":  2.2,
+        "AveragePrice":  2.2,
+        "CurrentPrice":  2.2,
+        "Minimum":  2.2,
+        "Maximum":  2.2,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1440267598535)\/"
     },
     {
         "Title":  "OUTCAST",
         "Issue":  "1A",
         "Cover":  1,
-        "TotalCost":  "8.15",
-        "Mean":  8.1463636363636454,
-        "AveragePrice":  7.14622727272728,
-        "CurrentPrice":  7.3400000000000007,
+        "TotalCost":  "8.16",
+        "Mean":  8.1613063063063152,
+        "AveragePrice":  7.161171171171179,
+        "CurrentPrice":  8.922,
         "Minimum":  1.44,
         "Maximum":  99.95,
-        "Count":  220,
+        "Count":  222,
         "AveragePaid":  2.95,
         "AverageNetPaid":  2.95,
         "Stock":  1,
-        "Date":  "\/Date(1438592611041)\/"
+        "Date":  "\/Date(1440267599392)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -45,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592611171)\/"
+        "Date":  "\/Date(1440267599514)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -61,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592611291)\/"
+        "Date":  "\/Date(1440267599633)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -77,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592611411)\/"
+        "Date":  "\/Date(1440267599759)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -93,7 +109,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1438592611551)\/"
+        "Date":  "\/Date(1440267599898)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -109,23 +125,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592611661)\/"
+        "Date":  "\/Date(1440267600027)\/"
     },
     {
         "Title":  "OUTCAST",
         "Issue":  "1SDCC",
         "Cover":  1,
-        "TotalCost":  "26.53",
-        "Mean":  26.5325,
-        "AveragePrice":  25.482499999999998,
-        "CurrentPrice":  25.482499999999998,
+        "TotalCost":  "25.66",
+        "Mean":  25.656,
+        "AveragePrice":  24.375999999999998,
+        "CurrentPrice":  24.375999999999998,
         "Minimum":  14.99,
         "Maximum":  32,
-        "Count":  4,
+        "Count":  5,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592611791)\/"
+        "Date":  "\/Date(1440267600151)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -141,7 +157,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1438592612001)\/"
+        "Date":  "\/Date(1440267600351)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -150,14 +166,14 @@
         "TotalCost":  "2.66",
         "Mean":  2.6600000000000006,
         "AveragePrice":  2.37,
-        "CurrentPrice":  2.298,
+        "CurrentPrice":  2.4899999999999998,
         "Minimum":  1.2,
         "Maximum":  3.4,
         "Count":  15,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592612141)\/"
+        "Date":  "\/Date(1440267600492)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -173,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592612261)\/"
+        "Date":  "\/Date(1440267600604)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -189,7 +205,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592612441)\/"
+        "Date":  "\/Date(1440267600786)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -205,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592612601)\/"
+        "Date":  "\/Date(1440267600906)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -221,7 +237,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592612741)\/"
+        "Date":  "\/Date(1440267601030)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -237,7 +253,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592612901)\/"
+        "Date":  "\/Date(1440267601159)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -253,7 +269,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592613071)\/"
+        "Date":  "\/Date(1440267601303)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -269,7 +285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592613211)\/"
+        "Date":  "\/Date(1440267601427)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -285,7 +301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592613351)\/"
+        "Date":  "\/Date(1440267601563)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -301,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592613471)\/"
+        "Date":  "\/Date(1440267601685)\/"
     },
     {
         "Title":  "OUTCAST",
@@ -310,13 +326,13 @@
         "TotalCost":  "13.99",
         "Mean":  13.993444444444448,
         "AveragePrice":  11.962888888888893,
-        "CurrentPrice":  13.61,
+        "CurrentPrice":  11.312000000000001,
         "Minimum":  1.24,
         "Maximum":  30,
         "Count":  90,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592613921)\/"
+        "Date":  "\/Date(1440267602103)\/"
     }
 ]

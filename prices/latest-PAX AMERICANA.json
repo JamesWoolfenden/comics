@@ -6,14 +6,14 @@
         "TotalCost":  "3.44",
         "Mean":  3.4405263157894739,
         "AveragePrice":  2.3247368421052634,
-        "CurrentPrice":  4.264,
+        "CurrentPrice":  4.224,
         "Minimum":  0.4,
         "Maximum":  7.99,
         "Count":  19,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592614241)\/"
+        "Date":  "\/Date(1440267602405)\/"
     },
     {
         "Title":  "PAX AMERICANA",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592614381)\/"
+        "Date":  "\/Date(1440267602531)\/"
     },
     {
         "Title":  "PAX AMERICANA",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592614501)\/"
+        "Date":  "\/Date(1440267602653)\/"
     },
     {
         "Title":  "PAX AMERICANA",
@@ -61,6 +61,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592614611)\/"
+        "Date":  "\/Date(1440267602777)\/"
     }
 ]

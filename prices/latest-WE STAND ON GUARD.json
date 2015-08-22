@@ -13,22 +13,22 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438593044322)\/"
+        "Date":  "\/Date(1440268020608)\/"
     },
     {
         "Title":  "WE STAND ON GUARD",
         "Issue":  "2",
         "Cover":  2,
-        "TotalCost":  "3.45",
-        "Mean":  3.45,
-        "AveragePrice":  3.45,
-        "CurrentPrice":  3.45,
-        "Minimum":  3.45,
+        "TotalCost":  "2.55",
+        "Mean":  2.55,
+        "AveragePrice":  2.55,
+        "CurrentPrice":  2.55,
+        "Minimum":  2.25,
         "Maximum":  3.45,
-        "Count":  1,
+        "Count":  4,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438593044432)\/"
+        "Date":  "\/Date(1440268020751)\/"
     }
 ]

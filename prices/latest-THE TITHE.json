@@ -3,17 +3,17 @@
         "Title":  "THE TITHE",
         "Issue":  "1A",
         "Cover":  1,
-        "TotalCost":  "2.69",
-        "Mean":  2.6914285714285713,
-        "AveragePrice":  2.4771428571428573,
+        "TotalCost":  "2.70",
+        "Mean":  2.69875,
+        "AveragePrice":  2.51125,
         "CurrentPrice":  2.7199999999999998,
         "Minimum":  0.99,
         "Maximum":  3.75,
-        "Count":  7,
+        "Count":  8,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592714602)\/"
+        "Date":  "\/Date(1440267698734)\/"
     },
     {
         "Title":  "THE TITHE",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592714742)\/"
+        "Date":  "\/Date(1440267698854)\/"
     },
     {
         "Title":  "THE TITHE",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592714872)\/"
+        "Date":  "\/Date(1440267698964)\/"
     },
     {
         "Title":  "THE TITHE",
@@ -61,23 +61,23 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592714982)\/"
+        "Date":  "\/Date(1440267699075)\/"
     },
     {
         "Title":  "THE TITHE",
         "Issue":  "2A",
         "Cover":  2,
-        "TotalCost":  "3.05",
-        "Mean":  3.048,
-        "AveragePrice":  3.048,
-        "CurrentPrice":  3.0479999999999996,
+        "TotalCost":  "3.00",
+        "Mean":  2.9983333333333335,
+        "AveragePrice":  2.9983333333333335,
+        "CurrentPrice":  3.008,
         "Minimum":  2.1,
         "Maximum":  3.75,
-        "Count":  5,
+        "Count":  6,
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592715112)\/"
+        "Date":  "\/Date(1440267699200)\/"
     },
     {
         "Title":  "THE TITHE",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592715222)\/"
+        "Date":  "\/Date(1440267699306)\/"
     },
     {
         "Title":  "THE TITHE",
@@ -109,7 +109,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592715342)\/"
+        "Date":  "\/Date(1440267699415)\/"
     },
     {
         "Title":  "THE TITHE",
@@ -125,7 +125,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1438592715452)\/"
+        "Date":  "\/Date(1440267699527)\/"
     },
     {
         "Title":  "THE TITHE",
@@ -141,6 +141,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592715552)\/"
+        "Date":  "\/Date(1440267699634)\/"
     }
 ]

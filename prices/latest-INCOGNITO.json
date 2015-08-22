@@ -13,7 +13,7 @@
         "AveragePaid":  1.69833333333333,
         "AverageNetPaid":  1.69833333333333,
         "Stock":  1,
-        "Date":  "\/Date(1438592541371)\/"
+        "Date":  "\/Date(1440267535679)\/"
     },
     {
         "Title":  "INCOGNITO",
@@ -29,7 +29,7 @@
         "AveragePaid":  1.69833333333333,
         "AverageNetPaid":  1.69833333333333,
         "Stock":  1,
-        "Date":  "\/Date(1438592541551)\/"
+        "Date":  "\/Date(1440267535807)\/"
     },
     {
         "Title":  "INCOGNITO",
@@ -45,7 +45,7 @@
         "AveragePaid":  1.69833333333333,
         "AverageNetPaid":  1.69833333333333,
         "Stock":  1,
-        "Date":  "\/Date(1438592541731)\/"
+        "Date":  "\/Date(1440267535963)\/"
     },
     {
         "Title":  "INCOGNITO",
@@ -61,7 +61,7 @@
         "AveragePaid":  1.69833333333333,
         "AverageNetPaid":  1.69833333333333,
         "Stock":  1,
-        "Date":  "\/Date(1438592541891)\/"
+        "Date":  "\/Date(1440267536104)\/"
     },
     {
         "Title":  "INCOGNITO",
@@ -77,7 +77,7 @@
         "AveragePaid":  1.69833333333333,
         "AverageNetPaid":  1.69833333333333,
         "Stock":  1,
-        "Date":  "\/Date(1438592542051)\/"
+        "Date":  "\/Date(1440267536230)\/"
     },
     {
         "Title":  "INCOGNITO",
@@ -93,7 +93,7 @@
         "AveragePaid":  1.69833333333333,
         "AverageNetPaid":  1.69833333333333,
         "Stock":  1,
-        "Date":  "\/Date(1438592542191)\/"
+        "Date":  "\/Date(1440267536347)\/"
     },
     {
         "Title":  "INCOGNITO",
@@ -109,7 +109,7 @@
         "AveragePaid":  0.8725,
         "AverageNetPaid":  0.2475,
         "Stock":  1,
-        "Date":  "\/Date(1438592542321)\/"
+        "Date":  "\/Date(1440267536455)\/"
     },
     {
         "Title":  "INCOGNITO",
@@ -125,7 +125,7 @@
         "AveragePaid":  0.8725,
         "AverageNetPaid":  0.2475,
         "Stock":  1,
-        "Date":  "\/Date(1438592542441)\/"
+        "Date":  "\/Date(1440267536571)\/"
     },
     {
         "Title":  "INCOGNITO",
@@ -141,7 +141,7 @@
         "AveragePaid":  0.8725,
         "AverageNetPaid":  0.2475,
         "Stock":  1,
-        "Date":  "\/Date(1438592542551)\/"
+        "Date":  "\/Date(1440267536680)\/"
     },
     {
         "Title":  "INCOGNITO",
@@ -157,7 +157,7 @@
         "AveragePaid":  0.8725,
         "AverageNetPaid":  0.2475,
         "Stock":  1,
-        "Date":  "\/Date(1438592542691)\/"
+        "Date":  "\/Date(1440267536789)\/"
     },
     {
         "Title":  "INCOGNITO",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592542791)\/"
+        "Date":  "\/Date(1440267536899)\/"
     },
     {
         "Title":  "INCOGNITO",
@@ -182,13 +182,13 @@
         "TotalCost":  "11.49",
         "Mean":  11.493181818181823,
         "AveragePrice":  8.9836363636363625,
-        "CurrentPrice":  9.646,
+        "CurrentPrice":  8.324,
         "Minimum":  0.99,
         "Maximum":  50.99,
         "Count":  22,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1438592542981)\/"
+        "Date":  "\/Date(1440267537079)\/"
     }
 ]

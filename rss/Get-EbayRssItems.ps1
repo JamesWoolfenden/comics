@@ -13,23 +13,48 @@ Function Get-EbayRssItems
     $results=@()
     foreach($Category in $Categories)
     {
-	   $items = @()
+       $results+= Get-RSSSet -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -Category $Category
+    }
+
+	return $results
+}
+
+
+function Get-RSSSet
+{
+	Param(
+		[Parameter(Mandatory=$true)]
+		[ValidateNotNull()]
+		[string]$Keywords = $(throw "Keywords parameter is required"),
+		[string]$ExcludeWords,
+		[Parameter(Mandatory=$true)]
+		[string]$state,
+		[int]$Category)
+
+	[int]$Page=1
+	$items = @()
+
+	Do
+	{
+	   $count=0
 	   write-verbose "Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $Category"
-	   $xml = Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $Category
+	   $xml = Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $Category -Page $Page
 	   $xml.rss | % {$_.channel.item} | % {
 		  $item = $_
 		  try
 		  {
 		     $items += Parse-ListingInfo $item
+			 $count++
 		  }
 		  catch 
 		  {
              write-warning "`nFailed to parse item"
 		  }
 	   }
-    }
 
-    $results+=$items
+       $Page++
+	}
+	While ($count -gt 49)
 
-	return $results
+	return $items
 }
