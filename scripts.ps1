@@ -154,6 +154,8 @@ function add-array
           }
       }
       
+	  Write-Host ""
+
       if ($count)
       {
          "`nAdded $count record(s)"
@@ -478,6 +480,8 @@ function add-ebidarray
           write-host "`t`rSkipping $($record.id)" -nonewline -foregroundcolor yellow
        }
    }
+   
+	Write-Host ""
 }
 
 function add-ebid 
@@ -734,14 +738,22 @@ function get-allrecords
    write-verbose "`r`nComplete."
 }
 
-function open-covers
+function Open-Covers
 {
+  <#
+      .SYNOPSIS 
+       Opens location where a comics cover images are stored
+        
+      .EXAMPLE
+      C:\PS> open-covers -title "The Walking Dead" -issue 1
+      
+   #>
    param(
    [string]$title=$null,
    [string]$issue)
   
    $padtitle=$title -replace(" ","-")
-   $path= "c:\comics\covers\$padtitle\$issue"
+   $path= "f:\comics\covers\$padtitle\$issue"
    Write-host "Opening $path"
    & explorer "`"$path`""  
 }
