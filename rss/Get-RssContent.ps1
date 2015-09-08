@@ -1,4 +1,5 @@
-function Get-RssContent {
+function Get-RssContent 
+{
 	Param(
 		[Parameter(Mandatory=$true)]
 		[ValidateNotNull()]
@@ -6,10 +7,11 @@ function Get-RssContent {
 		[string] $ExcludeWords,
 		[Parameter(Mandatory=$true)]
 		[string]$state,
-		[int]$CategoryId=0
+		[int]$CategoryId=0,
+		[int]$Page=$NULL
 	)
 	
-	$url = Build-Url -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $CategoryId
+	$url = Build-Url -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $CategoryId -page $Page
 	write-verbose "Reading $url"
 	try
     {

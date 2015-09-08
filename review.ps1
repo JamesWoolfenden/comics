@@ -124,6 +124,7 @@ function update-record
 	  "c"
 	  {
           update-db -ebayitem $record.ebayitem -Status "EXPIRED"
+		  $IE[1].Application.Quit()
           return
 	  }
       default
