@@ -334,21 +334,28 @@ function search-db
      
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString =$connection
-   
-   $conn.open()
-   $cmd = New-Object System.Data.SqlClient.SqlCommand
-   $cmd.connection = $conn
-   $cmd.commandtext = "SELECT 
-       [Seller],[Title],[Price]
-      ,[Issue],[Bought],[DateOfSale],[Status]
-      ,[postage],[Ebayitem],[Description],[PublishDate]
-      ,[Quantity],[AuctionType],[BestOffer],[BidCount]
-      ,[BuyItNowPrice],[CloseDate],[ImageSrc],[Link]
-      ,[Site],[Remaining],[watch] 
-      FROM comics $wherestring"
-   Write-debug $cmd.commandtext
-   $data = $cmd.ExecuteReader()
-   
+   try
+	{
+      $conn.open()
+      $cmd = New-Object System.Data.SqlClient.SqlCommand
+      $cmd.connection = $conn
+      $cmd.commandtext = "SELECT 
+          [Seller],[Title],[Price]
+         ,[Issue],[Bought],[DateOfSale],[Status]
+         ,[postage],[Ebayitem],[Description],[PublishDate]
+         ,[Quantity],[AuctionType],[BestOffer],[BidCount]
+         ,[BuyItNowPrice],[CloseDate],[ImageSrc],[Link]
+         ,[Site],[Remaining],[watch] 
+         FROM comics $wherestring"
+      Write-debug $cmd.commandtext
+      $data = $cmd.ExecuteReader()
+   }
+   catch
+   {
+	   Write-Warning "Can't connect timeout. Check Internet settings?"
+	   Exit 1
+   }
+
    while ($data.Read())
    {    
        if ($data.IsDBNUll(0)) 
