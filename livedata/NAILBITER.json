@@ -8,7 +8,7 @@
         "variant":  "Nailbiter  (MR)",
         "price":  "1.16",
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "DCBS"
     },
     {
@@ -18,9 +18,9 @@
         "title":  "NAILBITER",
         "issue":  "1",
         "variant":  "Nailbiter  Cover A First Printing",
-        "price":  "1.95",
+        "price":  "1.94",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830776657)\/",
+        "rundate":  "\/Date(1442274020653)\/",
         "site":  "comicxposure"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "12 (MR)",
         "price":  1.79,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830780362)\/",
+        "rundate":  "\/Date(1442274024322)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "13 (MR)",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830780362)\/",
+        "rundate":  "\/Date(1442274024322)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "NAILBITER TP VOL 01 THERE WILL BE BLOOD (MR)",
         "price":  6.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830780362)\/",
+        "rundate":  "\/Date(1442274024322)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "NAILBITER TP VOL 02 BLOODY HANDS (MR)",
         "price":  8.79,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830780362)\/",
+        "rundate":  "\/Date(1442274024322)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "15 (MR)",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830780362)\/",
+        "rundate":  "\/Date(1442274024322)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "14 (MR)",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830780362)\/",
+        "rundate":  "\/Date(1442274024322)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -104,7 +104,7 @@
         "variant":  "NAILBITER TP VOL 02 BLOODY HANDS (MR)",
         "price":  8.99,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830780362)\/",
+        "rundate":  "\/Date(1442274024322)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +116,7 @@
         "variant":  "NAILBITER TP VOL 02 BLOODY HANDS (MR)",
         "price":  8.79,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830780362)\/",
+        "rundate":  "\/Date(1442274024322)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,7 +128,7 @@
         "variant":  "3 (MR)",
         "price":  1.87,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830780362)\/",
+        "rundate":  "\/Date(1442274024322)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -140,7 +140,7 @@
         "variant":  "16 (MR)",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830780362)\/",
+        "rundate":  "\/Date(1442274024322)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -152,7 +152,7 @@
         "variant":  "17 (MR)",
         "price":  2.20,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830780362)\/",
+        "rundate":  "\/Date(1442274024322)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -164,236 +164,8 @@
         "variant":  "17 (MR)",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830780362)\/",
+        "rundate":  "\/Date(1442274024322)\/",
         "site":  "Disposable Heroes"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/sep150511.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep150511.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep150511.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "17",
-        "variant":  "17",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/aug150492.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug150492.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug150492.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "16",
-        "variant":  "16",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jun150507.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun150507.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun150507.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "15",
-        "variant":  "15",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/may150474.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may150474.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may150474.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "14",
-        "variant":  "14",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/apr150659.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/apr150659.html\"\u003ehttp://www.closeencounters.co.uk/index.php/apr150659.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "13",
-        "variant":  "13",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/mar150579.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/mar150579.html\"\u003ehttp://www.closeencounters.co.uk/index.php/mar150579.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "12",
-        "variant":  "12",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/feb150513.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb150513.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb150513.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "11",
-        "variant":  "11 COVER A HENDERSON",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jan150593.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan150593.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan150593.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "HACK",
-        "variant":  "HACK SLASH HACK SLASH ONE SHOT",
-        "price":  3.50,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/dec140745.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec140745.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec140745.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "10",
-        "variant":  "10",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/nov140665.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov140665.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov140665.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "9",
-        "variant":  "9",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/oct140705.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140705.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140705.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "IMAGE",
-        "variant":  "IMAGE FIRSTS 1",
-        "price":  0.75,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/oct140751.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct140751.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct140751.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "8",
-        "variant":  "8",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/sep140735.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep140735.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep140735.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "7",
-        "variant":  "7",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/aug140663.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140663.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140663.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "6",
-        "variant":  "6",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jul140564.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140564.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140564.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "5",
-        "variant":  "5",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/jun140562.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jun140562.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jun140562.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "4",
-        "variant":  "4",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/may140718.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may140718.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may140718.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "3",
-        "variant":  "3",
-        "price":  2.10,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/mar148370.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/mar148370.html\"\u003ehttp://www.closeencounters.co.uk/index.php/mar148370.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "1",
-        "variant":  "1 SECOND PRINT",
-        "price":  2.94,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
-    },
-    {
-        "link":  "http://www.closeencounters.co.uk/index.php/apr140582.html",
-        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/apr140582.html\"\u003ehttp://www.closeencounters.co.uk/index.php/apr140582.html\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "2",
-        "variant":  "2",
-        "price":  2.99,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830786912)\/",
-        "site":  "Close Encounters"
     },
     {
         "link":  "https://forbiddenplanet.com/147884-nailbiter-17/",
@@ -403,7 +175,7 @@
         "issue":  "17",
         "variant":  "17",
         "price":  1.95,
-        "rundate":  "\/Date(1441830790466)\/",
+        "rundate":  "\/Date(1442274087922)\/",
         "site":  "Forbidden Planet"
     },
     {
@@ -414,200 +186,8 @@
         "issue":  "16",
         "variant":  "16",
         "price":  1.95,
-        "rundate":  "\/Date(1441830790466)\/",
+        "rundate":  "\/Date(1442274087922)\/",
         "site":  "Forbidden Planet"
-    },
-    {
-        "link":  "http://www.reedcomics.com/ghosted-9-hot-book-1st-appearance-of-nailbiter-p-61033.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/ghosted-9-hot-book-1st-appearance-of-nailbiter-p-61033.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/ghosted-9-hot-book-1st-appearance-of-nailbiter-p-61033.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "GHOSTED",
-        "issue":  "9",
-        "variant":  "9 *HOT BOOK* (1ST APPEARANCE OF NAILBITER)",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-1-2nd-print-p-61648.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-1-2nd-print-p-61648.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-1-2nd-print-p-61648.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "1",
-        "variant":  "1 (2ND PRINT)",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-1-hot-book-p-61239.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-1-hot-book-p-61239.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-1-hot-book-p-61239.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "1",
-        "variant":  "1 *HOT BOOK*",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-10-p-65497.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-10-p-65497.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-10-p-65497.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "10",
-        "variant":  "10",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-11-p-66387.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-11-p-66387.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-11-p-66387.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "11",
-        "variant":  "11",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-12-p-66997.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-12-p-66997.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-12-p-66997.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "12",
-        "variant":  "12",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-13-p-67438.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-13-p-67438.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-13-p-67438.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "13",
-        "variant":  "13",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-14-p-67898.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-14-p-67898.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-14-p-67898.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "14",
-        "variant":  "14",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-15-p-68327.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-15-p-68327.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-15-p-68327.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "15",
-        "variant":  "15",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-2-p-61647.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-2-p-61647.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-2-p-61647.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "2",
-        "variant":  "2",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-3-p-62096.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-3-p-62096.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-3-p-62096.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "3",
-        "variant":  "3",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-7-p-64078.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-7-p-64078.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-7-p-64078.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "7",
-        "variant":  "7",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-8-p-64624.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-8-p-64624.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-8-p-64624.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "8",
-        "variant":  "8",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-9-p-65076.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-9-p-65076.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-9-p-65076.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "9",
-        "variant":  "9",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-hack-slash-hack-slash-nailbiter-one-shot-p-65923.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-hack-slash-hack-slash-nailbiter-one-shot-p-65923.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-hack-slash-hack-slash-nailbiter-one-shot-p-65923.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "HACK SLASH HACK SLASH ONE SHOT",
-        "variant":  "HACK SLASH HACK SLASH ONE SHOT",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
-    },
-    {
-        "link":  "http://www.reedcomics.com/nailbiter-volume-1-there-will-be-blood-graphic-novel-p-63497.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
-        "url":  "\u003ca href=\"http://www.reedcomics.com/nailbiter-volume-1-there-will-be-blood-graphic-novel-p-63497.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\"\u003ehttp://www.reedcomics.com/nailbiter-volume-1-there-will-be-blood-graphic-novel-p-63497.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63\u003c/a\u003e",
-        "orderdate":  null,
-        "title":  "NAILBITER",
-        "issue":  "VOLUME 1 THERE WILL BE BLOOD GRAPHIC NOVEL",
-        "variant":  "VOLUME 1 THERE WILL BE BLOOD GRAPHIC NOVEL",
-        "price":  null,
-        "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830795665)\/",
-        "site":  "Reed"
     },
     {
         "link":  "http://www.ebay.co.uk/itm/Nailbiter-Issues-1-2-3-4-5-6-7-All-First-Prints-/111657200566?pt=LH_DefaultDomain_3\u0026hash=item19ff49abb6",
@@ -618,7 +198,7 @@
         "variant":  "SET",
         "price":  25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -630,7 +210,7 @@
         "variant":  "1A",
         "price":  6,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -642,7 +222,7 @@
         "variant":  "SET",
         "price":  6,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -654,7 +234,7 @@
         "variant":  "2CGC",
         "price":  33.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -666,7 +246,7 @@
         "variant":  "SET",
         "price":  15,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -678,7 +258,7 @@
         "variant":  "SET",
         "price":  15,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -690,7 +270,7 @@
         "variant":  "SET",
         "price":  21,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -702,7 +282,7 @@
         "variant":  "SET",
         "price":  6,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -714,7 +294,7 @@
         "variant":  "SET",
         "price":  15,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -726,7 +306,7 @@
         "variant":  "SET",
         "price":  15,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -738,7 +318,7 @@
         "variant":  "SET",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -750,7 +330,7 @@
         "variant":  "2CGC",
         "price":  33.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -762,7 +342,7 @@
         "variant":  "SET",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -774,7 +354,7 @@
         "variant":  "4",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -786,7 +366,7 @@
         "variant":  "SET",
         "price":  15,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -798,7 +378,7 @@
         "variant":  "SET",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -810,7 +390,7 @@
         "variant":  "SET",
         "price":  15,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -822,7 +402,7 @@
         "variant":  "2",
         "price":  4,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -834,7 +414,7 @@
         "variant":  "3",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -846,7 +426,7 @@
         "variant":  "11A",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -858,7 +438,7 @@
         "variant":  "SET",
         "price":  15,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -870,7 +450,7 @@
         "variant":  "SET",
         "price":  15,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -882,7 +462,7 @@
         "variant":  "SET",
         "price":  15,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -894,7 +474,7 @@
         "variant":  "SET",
         "price":  12,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -906,7 +486,7 @@
         "variant":  "SET",
         "price":  12,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -918,7 +498,7 @@
         "variant":  "4",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -930,7 +510,7 @@
         "variant":  "SET",
         "price":  8,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -942,7 +522,7 @@
         "variant":  "SET",
         "price":  8,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -954,7 +534,7 @@
         "variant":  "SET",
         "price":  9,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -966,7 +546,7 @@
         "variant":  "4",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -978,7 +558,7 @@
         "variant":  "5",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -990,7 +570,7 @@
         "variant":  "SET",
         "price":  9,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1002,7 +582,7 @@
         "variant":  "1A",
         "price":  4.65,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1014,7 +594,7 @@
         "variant":  "1B",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1026,7 +606,7 @@
         "variant":  "HACK AND SLASH",
         "price":  3.2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1038,7 +618,7 @@
         "variant":  "11B",
         "price":  1.13,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1050,7 +630,7 @@
         "variant":  "12",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1062,7 +642,7 @@
         "variant":  "14",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1074,7 +654,7 @@
         "variant":  "15",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1086,7 +666,7 @@
         "variant":  "SET",
         "price":  7.79,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1098,7 +678,7 @@
         "variant":  "SET",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1110,7 +690,7 @@
         "variant":  "SET",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1122,7 +702,7 @@
         "variant":  "2A",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1134,7 +714,7 @@
         "variant":  "3A",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1146,7 +726,7 @@
         "variant":  "2B",
         "price":  0.75,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1158,7 +738,7 @@
         "variant":  "9",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1170,7 +750,7 @@
         "variant":  "12",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1182,7 +762,7 @@
         "variant":  "2B",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1194,7 +774,7 @@
         "variant":  "VOL1",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1206,7 +786,7 @@
         "variant":  "12",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1218,7 +798,7 @@
         "variant":  "13",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1230,7 +810,7 @@
         "variant":  "13",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1242,7 +822,7 @@
         "variant":  "14",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1254,7 +834,7 @@
         "variant":  "4",
         "price":  0.49,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1266,7 +846,7 @@
         "variant":  "SET",
         "price":  28,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1278,7 +858,7 @@
         "variant":  "SET",
         "price":  13.8,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1290,7 +870,7 @@
         "variant":  "1INFINITYSIGNED",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1302,7 +882,7 @@
         "variant":  "1INFINITYSIGNED",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1314,7 +894,7 @@
         "variant":  "1INFINITYSIGNED",
         "price":  7,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1326,7 +906,7 @@
         "variant":  "6",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1338,7 +918,7 @@
         "variant":  "1FIRSTS",
         "price":  1.45,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1350,7 +930,7 @@
         "variant":  "11B",
         "price":  2.15,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1362,7 +942,7 @@
         "variant":  "2B",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1374,7 +954,7 @@
         "variant":  "12",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1386,7 +966,7 @@
         "variant":  "14",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1398,7 +978,7 @@
         "variant":  "SET",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1410,7 +990,7 @@
         "variant":  "15",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1422,7 +1002,7 @@
         "variant":  "SET",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1434,7 +1014,7 @@
         "variant":  "13",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1446,7 +1026,7 @@
         "variant":  "14",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1458,7 +1038,7 @@
         "variant":  "5",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1470,7 +1050,7 @@
         "variant":  "9",
         "price":  1.8,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1482,7 +1062,7 @@
         "variant":  "11A",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1494,7 +1074,7 @@
         "variant":  "SET",
         "price":  11.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1506,7 +1086,7 @@
         "variant":  "SET",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1518,7 +1098,7 @@
         "variant":  "SET",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1530,7 +1110,7 @@
         "variant":  "11A",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1542,7 +1122,7 @@
         "variant":  "8",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1554,7 +1134,7 @@
         "variant":  "8",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1566,7 +1146,7 @@
         "variant":  "SET",
         "price":  14.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1578,7 +1158,7 @@
         "variant":  "SET",
         "price":  4.2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1590,7 +1170,7 @@
         "variant":  "1PHANTOM",
         "price":  5.75,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1602,7 +1182,7 @@
         "variant":  "4",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1614,7 +1194,7 @@
         "variant":  "6",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1626,7 +1206,7 @@
         "variant":  "1INFINITYSIGNED",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1638,7 +1218,7 @@
         "variant":  "1INFINTY",
         "price":  7.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1650,7 +1230,7 @@
         "variant":  "4",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1662,7 +1242,7 @@
         "variant":  "14",
         "price":  3.2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1674,7 +1254,7 @@
         "variant":  "4",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1686,7 +1266,7 @@
         "variant":  "15",
         "price":  3.2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1698,7 +1278,7 @@
         "variant":  "14",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1710,7 +1290,7 @@
         "variant":  "4",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1722,7 +1302,7 @@
         "variant":  "1B",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1734,7 +1314,7 @@
         "variant":  "1ACGC",
         "price":  39.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1746,7 +1326,7 @@
         "variant":  "1INFINITYCGC",
         "price":  49.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1758,7 +1338,7 @@
         "variant":  "SET",
         "price":  34.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1770,7 +1350,7 @@
         "variant":  "14",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1782,7 +1362,7 @@
         "variant":  "1INFINITYCGC",
         "price":  49.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1794,7 +1374,7 @@
         "variant":  "1INFINITYCGC",
         "price":  44.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1806,7 +1386,7 @@
         "variant":  "1INFINITYCGC",
         "price":  44.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1818,7 +1398,7 @@
         "variant":  "1EH!",
         "price":  20,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1830,7 +1410,7 @@
         "variant":  "1INFINITYSIGNED",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1842,7 +1422,7 @@
         "variant":  "1A",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1854,7 +1434,7 @@
         "variant":  "1A",
         "price":  4,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1866,7 +1446,7 @@
         "variant":  "1A",
         "price":  4,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1878,7 +1458,7 @@
         "variant":  "SET",
         "price":  3.75,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1890,7 +1470,7 @@
         "variant":  "1PHANTOM",
         "price":  9.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1902,7 +1482,7 @@
         "variant":  "1A",
         "price":  4,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1914,7 +1494,7 @@
         "variant":  "6",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1926,7 +1506,7 @@
         "variant":  "1A",
         "price":  8.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1938,7 +1518,7 @@
         "variant":  "SET",
         "price":  6.54,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1950,7 +1530,7 @@
         "variant":  "SET",
         "price":  5.6,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1962,7 +1542,7 @@
         "variant":  "1A",
         "price":  8.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1974,7 +1554,7 @@
         "variant":  "SET",
         "price":  15,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1986,7 +1566,7 @@
         "variant":  "SET",
         "price":  19.47,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -1998,7 +1578,7 @@
         "variant":  "1FIRSTS",
         "price":  1.69,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2010,7 +1590,7 @@
         "variant":  "1ACGCSIGNED",
         "price":  100,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2022,7 +1602,7 @@
         "variant":  "SET",
         "price":  24.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2034,7 +1614,7 @@
         "variant":  "1ACGCSIGNED",
         "price":  100,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2046,7 +1626,7 @@
         "variant":  "SET",
         "price":  24.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2058,7 +1638,7 @@
         "variant":  "1ACGCSIGNED",
         "price":  100,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2070,7 +1650,7 @@
         "variant":  "1ACGCSIGNED",
         "price":  95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2082,7 +1662,7 @@
         "variant":  "1PHANTOMCGC",
         "price":  95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2094,7 +1674,7 @@
         "variant":  "1THIRDEYECGC",
         "price":  95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2106,7 +1686,7 @@
         "variant":  "1PHANTOMCGC",
         "price":  45,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2118,7 +1698,7 @@
         "variant":  "1A",
         "price":  8.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2130,7 +1710,7 @@
         "variant":  "SET",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2142,7 +1722,7 @@
         "variant":  "1A",
         "price":  9.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2154,7 +1734,7 @@
         "variant":  "SET",
         "price":  20,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2166,7 +1746,7 @@
         "variant":  "SET",
         "price":  20,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2178,7 +1758,7 @@
         "variant":  "SET",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2190,7 +1770,7 @@
         "variant":  "SET",
         "price":  20,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2202,7 +1782,7 @@
         "variant":  "SET",
         "price":  20,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2214,7 +1794,7 @@
         "variant":  "SET",
         "price":  20,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2226,7 +1806,7 @@
         "variant":  "SET",
         "price":  20,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2238,7 +1818,7 @@
         "variant":  "1A",
         "price":  9.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2250,7 +1830,7 @@
         "variant":  "SET",
         "price":  20,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2262,7 +1842,7 @@
         "variant":  "1A",
         "price":  9.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2274,7 +1854,7 @@
         "variant":  "SET",
         "price":  25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2286,7 +1866,7 @@
         "variant":  "1A",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2298,7 +1878,7 @@
         "variant":  "9",
         "price":  10.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2310,7 +1890,7 @@
         "variant":  "1A",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2322,7 +1902,7 @@
         "variant":  "SET",
         "price":  12.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2334,7 +1914,7 @@
         "variant":  "1A",
         "price":  8.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2346,7 +1926,7 @@
         "variant":  "11A",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2358,7 +1938,7 @@
         "variant":  "1A",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2370,7 +1950,7 @@
         "variant":  "2A",
         "price":  4,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2382,7 +1962,7 @@
         "variant":  "2A",
         "price":  3.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2394,7 +1974,7 @@
         "variant":  "2A",
         "price":  3.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2406,7 +1986,7 @@
         "variant":  "1INFINITYSIGNED",
         "price":  7.88,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2418,7 +1998,7 @@
         "variant":  "1INFINITYSIGNED",
         "price":  7.88,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2430,7 +2010,7 @@
         "variant":  "1INFINITYSIGNED",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2442,7 +2022,7 @@
         "variant":  "1INFINITYSIGNED",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2454,7 +2034,7 @@
         "variant":  "1INFINITYSIGNED",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2466,7 +2046,7 @@
         "variant":  "SET",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2478,7 +2058,7 @@
         "variant":  "1INFINITYSIGNED",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2490,7 +2070,7 @@
         "variant":  "1FIRSTS",
         "price":  8.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2502,7 +2082,7 @@
         "variant":  "1FIRSTS",
         "price":  8.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2514,7 +2094,7 @@
         "variant":  "SET",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2526,7 +2106,7 @@
         "variant":  "SET",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2538,7 +2118,7 @@
         "variant":  "1FIRSTS",
         "price":  8,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2550,7 +2130,7 @@
         "variant":  "SET",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2562,7 +2142,7 @@
         "variant":  "SET",
         "price":  6.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2574,7 +2154,7 @@
         "variant":  "1B",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2586,7 +2166,7 @@
         "variant":  "1FIRSTS",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2598,7 +2178,7 @@
         "variant":  "10",
         "price":  1,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2610,7 +2190,7 @@
         "variant":  "10",
         "price":  1,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2622,7 +2202,7 @@
         "variant":  "2A",
         "price":  6.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2634,7 +2214,7 @@
         "variant":  "SET",
         "price":  24.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2646,7 +2226,7 @@
         "variant":  "5",
         "price":  8.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2658,7 +2238,7 @@
         "variant":  "SET",
         "price":  9.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2670,7 +2250,7 @@
         "variant":  "5",
         "price":  7.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2682,7 +2262,7 @@
         "variant":  "SET",
         "price":  15.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2694,7 +2274,7 @@
         "variant":  "SET",
         "price":  29.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2706,7 +2286,7 @@
         "variant":  "SET",
         "price":  15.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2718,7 +2298,7 @@
         "variant":  "SET",
         "price":  19.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2730,7 +2310,7 @@
         "variant":  "1A",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2742,7 +2322,7 @@
         "variant":  "SET",
         "price":  29.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2754,7 +2334,7 @@
         "variant":  "1INFINITYSIGNED",
         "price":  6.85,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2766,7 +2346,7 @@
         "variant":  "SET",
         "price":  17.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2778,7 +2358,7 @@
         "variant":  "1A",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2790,7 +2370,7 @@
         "variant":  "9",
         "price":  3.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2802,7 +2382,7 @@
         "variant":  "11A",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2814,7 +2394,7 @@
         "variant":  "12",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2826,7 +2406,7 @@
         "variant":  "10",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2838,7 +2418,7 @@
         "variant":  "11A",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2850,7 +2430,7 @@
         "variant":  "12",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2862,7 +2442,7 @@
         "variant":  "SET",
         "price":  20,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2874,7 +2454,7 @@
         "variant":  "1B",
         "price":  3.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2886,7 +2466,7 @@
         "variant":  "SET",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2898,7 +2478,7 @@
         "variant":  "10",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2910,7 +2490,7 @@
         "variant":  "SET",
         "price":  12.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2922,7 +2502,7 @@
         "variant":  "11A",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2934,7 +2514,7 @@
         "variant":  "SET",
         "price":  10,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2946,7 +2526,7 @@
         "variant":  "1A",
         "price":  5.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2958,7 +2538,7 @@
         "variant":  "3A",
         "price":  3.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2970,7 +2550,7 @@
         "variant":  "4",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2982,7 +2562,7 @@
         "variant":  "11C",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -2994,7 +2574,7 @@
         "variant":  "1A",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3006,7 +2586,7 @@
         "variant":  "1INFINITYSIGNED",
         "price":  24.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3018,7 +2598,7 @@
         "variant":  "3A",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3030,7 +2610,7 @@
         "variant":  "7",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3042,7 +2622,7 @@
         "variant":  "13",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3054,7 +2634,7 @@
         "variant":  "3A",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3066,7 +2646,7 @@
         "variant":  "3A",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3078,7 +2658,7 @@
         "variant":  "8",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3090,7 +2670,7 @@
         "variant":  "2",
         "price":  6.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3102,7 +2682,7 @@
         "variant":  "7",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3114,7 +2694,7 @@
         "variant":  "3A",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3126,7 +2706,7 @@
         "variant":  "12",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3138,7 +2718,7 @@
         "variant":  "13",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3150,7 +2730,7 @@
         "variant":  "4",
         "price":  0.79,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3162,7 +2742,7 @@
         "variant":  "4",
         "price":  0.79,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3174,7 +2754,7 @@
         "variant":  "4",
         "price":  0.49,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3186,7 +2766,7 @@
         "variant":  "1INFINITYCGC",
         "price":  79.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3198,7 +2778,7 @@
         "variant":  "8",
         "price":  3.19,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3210,7 +2790,7 @@
         "variant":  "1INFINTY",
         "price":  6.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3222,7 +2802,7 @@
         "variant":  "5",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3234,7 +2814,7 @@
         "variant":  "6",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3246,7 +2826,7 @@
         "variant":  "4",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3258,7 +2838,7 @@
         "variant":  "4",
         "price":  2.22,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3270,7 +2850,7 @@
         "variant":  "5",
         "price":  8.98,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3282,7 +2862,7 @@
         "variant":  "11B",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3294,7 +2874,7 @@
         "variant":  "12",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3306,7 +2886,7 @@
         "variant":  "2B",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3318,7 +2898,7 @@
         "variant":  "13",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3330,7 +2910,7 @@
         "variant":  "HACK AND SLASH",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3342,7 +2922,7 @@
         "variant":  "14",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3354,7 +2934,7 @@
         "variant":  "15",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3366,7 +2946,19 @@
         "variant":  "HACK AND SLASH",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/NAILBITER-15-/361386245826?hash=item54244c7ec2",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/NAILBITER-15-/361386245826?hash=item54244c7ec2\"\u003ehttp://www.ebay.co.uk/itm/NAILBITER-15-/361386245826?hash=item54244c7ec2\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "NAILBITER",
+        "issue":  "15",
+        "variant":  "15",
+        "price":  2.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3378,7 +2970,7 @@
         "variant":  "8",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3390,7 +2982,7 @@
         "variant":  "9",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3402,7 +2994,7 @@
         "variant":  "11C",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3414,7 +3006,7 @@
         "variant":  "11A",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3426,7 +3018,7 @@
         "variant":  "8",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3438,7 +3030,7 @@
         "variant":  "12",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3450,7 +3042,7 @@
         "variant":  "2A",
         "price":  6.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3462,7 +3054,7 @@
         "variant":  "7",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3474,7 +3066,7 @@
         "variant":  "8",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3486,7 +3078,7 @@
         "variant":  "14",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3498,7 +3090,7 @@
         "variant":  "2A",
         "price":  6.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3510,7 +3102,7 @@
         "variant":  "7",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3522,7 +3114,7 @@
         "variant":  "3",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3534,7 +3126,7 @@
         "variant":  "8",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3546,7 +3138,7 @@
         "variant":  "3B",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3558,7 +3150,7 @@
         "variant":  "1B",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3570,7 +3162,7 @@
         "variant":  "HACK AND SLASH",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3582,7 +3174,7 @@
         "variant":  "1FIRSTS",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3594,7 +3186,7 @@
         "variant":  "14",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3606,7 +3198,7 @@
         "variant":  "13",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3618,7 +3210,7 @@
         "variant":  "1ASIGNED",
         "price":  22.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3630,7 +3222,7 @@
         "variant":  "4",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3642,7 +3234,7 @@
         "variant":  "10",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3654,7 +3246,7 @@
         "variant":  "1FIRSTS",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3666,7 +3258,7 @@
         "variant":  "11B",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3678,7 +3270,7 @@
         "variant":  "11C",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3690,7 +3282,7 @@
         "variant":  "11B",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3702,7 +3294,7 @@
         "variant":  "13",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3714,7 +3306,7 @@
         "variant":  "15",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3726,7 +3318,7 @@
         "variant":  "8",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3738,7 +3330,7 @@
         "variant":  "6",
         "price":  3.2,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3750,7 +3342,7 @@
         "variant":  "7",
         "price":  3.45,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3762,7 +3354,7 @@
         "variant":  "3SDCC",
         "price":  9.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3774,7 +3366,7 @@
         "variant":  "7",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3786,7 +3378,7 @@
         "variant":  "9",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3798,7 +3390,7 @@
         "variant":  "4",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3810,7 +3402,7 @@
         "variant":  "1B",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3822,7 +3414,7 @@
         "variant":  "3B",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3834,7 +3426,7 @@
         "variant":  "HACK AND SLASH",
         "price":  4.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3846,7 +3438,7 @@
         "variant":  "11C",
         "price":  2.05,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3858,7 +3450,7 @@
         "variant":  "11A",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3870,7 +3462,7 @@
         "variant":  "11C",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3882,7 +3474,7 @@
         "variant":  "13",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3894,7 +3486,7 @@
         "variant":  "15",
         "price":  3.45,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3906,7 +3498,7 @@
         "variant":  "14",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3918,7 +3510,7 @@
         "variant":  "15",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3930,7 +3522,7 @@
         "variant":  "14",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "9-9-2015",
+        "rundate":  "15-9-2015",
         "site":  "Auction"
     },
     {
@@ -3942,7 +3534,7 @@
         "variant":  "4",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830831157)\/",
+        "rundate":  "\/Date(1442274217797)\/",
         "site":  "Intercomics"
     },
     {
@@ -3954,7 +3546,7 @@
         "variant":  "7",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830831157)\/",
+        "rundate":  "\/Date(1442274217797)\/",
         "site":  "Intercomics"
     },
     {
@@ -3966,7 +3558,7 @@
         "variant":  "8",
         "price":  "2.25",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830831157)\/",
+        "rundate":  "\/Date(1442274217797)\/",
         "site":  "Intercomics"
     },
     {
@@ -3978,7 +3570,7 @@
         "variant":  "9",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830831157)\/",
+        "rundate":  "\/Date(1442274217797)\/",
         "site":  "Intercomics"
     },
     {
@@ -3990,7 +3582,7 @@
         "variant":  "10",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830831157)\/",
+        "rundate":  "\/Date(1442274217797)\/",
         "site":  "Intercomics"
     },
     {
@@ -4002,7 +3594,7 @@
         "variant":  "12",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830831157)\/",
+        "rundate":  "\/Date(1442274217797)\/",
         "site":  "Intercomics"
     },
     {
@@ -4014,7 +3606,7 @@
         "variant":  "13",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830831157)\/",
+        "rundate":  "\/Date(1442274217797)\/",
         "site":  "Intercomics"
     },
     {
@@ -4026,7 +3618,7 @@
         "variant":  "14",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830831157)\/",
+        "rundate":  "\/Date(1442274217797)\/",
         "site":  "Intercomics"
     },
     {
@@ -4038,7 +3630,7 @@
         "variant":  "15",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830831157)\/",
+        "rundate":  "\/Date(1442274217797)\/",
         "site":  "Intercomics"
     },
     {
@@ -4050,7 +3642,7 @@
         "variant":  "16",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830831157)\/",
+        "rundate":  "\/Date(1442274217797)\/",
         "site":  "Intercomics"
     },
     {
@@ -4062,7 +3654,7 @@
         "variant":  "17",
         "price":  "1.95",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830831157)\/",
+        "rundate":  "\/Date(1442274217797)\/",
         "site":  "Intercomics"
     },
     {
@@ -4074,7 +3666,7 @@
         "variant":  "NAILBITER TP VOL 03 BLOOD IN THE WATER",
         "price":  "9.99",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830831157)\/",
+        "rundate":  "\/Date(1442274217797)\/",
         "site":  "Intercomics"
     },
     {
@@ -4086,7 +3678,7 @@
         "variant":  "1",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830834667)\/",
+        "rundate":  "\/Date(1442274220447)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -4098,7 +3690,7 @@
         "variant":  "2",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830834667)\/",
+        "rundate":  "\/Date(1442274220447)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -4110,7 +3702,7 @@
         "variant":  "4",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830834667)\/",
+        "rundate":  "\/Date(1442274220447)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -4122,7 +3714,7 @@
         "variant":  "2",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830834667)\/",
+        "rundate":  "\/Date(1442274220447)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -4134,7 +3726,7 @@
         "variant":  "1",
         "price":  2.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830834667)\/",
+        "rundate":  "\/Date(1442274220447)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -4146,7 +3738,7 @@
         "variant":  "1",
         "price":  2.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830834667)\/",
+        "rundate":  "\/Date(1442274220447)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -4158,7 +3750,7 @@
         "variant":  "1",
         "price":  4.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1441830834667)\/",
+        "rundate":  "\/Date(1442274220447)\/",
         "site":  "The Comic Guru"
     }
 ]
