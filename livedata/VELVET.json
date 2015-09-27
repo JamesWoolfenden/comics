@@ -8,7 +8,7 @@
         "variant":  "Velvet  (MR) *Clearance*",
         "price":  "0.56",
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "DCBS"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "11 (MR)",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284201354)\/",
+        "rundate":  "\/Date(1442876049177)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "13 (MR)",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284201354)\/",
+        "rundate":  "\/Date(1442876049177)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -44,7 +44,7 @@
         "variant":  "VELVET TP VOL 01 BEFORE THE LIVING END (MR)",
         "price":  6.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284201354)\/",
+        "rundate":  "\/Date(1442876049177)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -56,7 +56,7 @@
         "variant":  "EIGHTBALL LIKE A VELVET GLOVE CAST IN IRON TP (CURR PTG) (MR",
         "price":  11.99,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284201354)\/",
+        "rundate":  "\/Date(1442876049177)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -68,7 +68,7 @@
         "variant":  "2 2ND PTG (MR) DHC",
         "price":  1.80,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284201354)\/",
+        "rundate":  "\/Date(1442876049177)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -80,7 +80,7 @@
         "variant":  "14 (MR)",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284201354)\/",
+        "rundate":  "\/Date(1442876049177)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -92,7 +92,7 @@
         "variant":  "VELVET TP VOL 02 THE SECRET LIVES OF DEAD MEN (MR)",
         "price":  8.79,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284201354)\/",
+        "rundate":  "\/Date(1442876049177)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -102,9 +102,9 @@
         "title":  "VELVET",
         "issue":  "1",
         "variant":  "1 (MR)",
-        "price":  1.53,
+        "price":  1.80,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284201354)\/",
+        "rundate":  "\/Date(1442876049177)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -116,7 +116,7 @@
         "variant":  "1 (MR) BOGOF",
         "price":  1.45,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284201354)\/",
+        "rundate":  "\/Date(1442876049177)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -128,7 +128,7 @@
         "variant":  "10 (MR) BOGOF",
         "price":  2.05,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284201354)\/",
+        "rundate":  "\/Date(1442876049177)\/",
         "site":  "Disposable Heroes"
     },
     {
@@ -140,19 +140,176 @@
         "variant":  "12 (MR)",
         "price":  2.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284201354)\/",
+        "rundate":  "\/Date(1442876049177)\/",
         "site":  "Disposable Heroes"
     },
     {
-        "link":  "https://forbiddenplanet.com/134054-velvet-11/",
-        "url":  "\u003ca href=\"https://forbiddenplanet.com/134054-velvet-11/\"\u003ehttps://forbiddenplanet.com/134054-velvet-11/\u003c/a\u003e",
-        "orderdate":  "",
+        "link":  "http://www.disposableheroes.co.uk/buy1get1free/image/-velvet-9-mr-bogof/prod_191417.html",
+        "url":  "\u003ca href=\"http://www.disposableheroes.co.uk/buy1get1free/image/-velvet-9-mr-bogof/prod_191417.html\"\u003ehttp://www.disposableheroes.co.uk/buy1get1free/image/-velvet-9-mr-bogof/prod_191417.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "9",
+        "variant":  "9 (MR) BOGOF",
+        "price":  2.35,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1442876049177)\/",
+        "site":  "Disposable Heroes"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/may150568.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may150568.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may150568.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "14",
+        "variant":  "14",
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1442876055920)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/mar150612.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/mar150612.html\"\u003ehttp://www.closeencounters.co.uk/index.php/mar150612.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "13",
+        "variant":  "13",
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1442876055920)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/feb150644.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/feb150644.html\"\u003ehttp://www.closeencounters.co.uk/index.php/feb150644.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "12",
+        "variant":  "12",
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1442876055920)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jan150718.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jan150718.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jan150718.html\u003c/a\u003e",
+        "orderdate":  null,
         "title":  "VELVET",
         "issue":  "11",
         "variant":  "11",
-        "price":  2.40,
-        "rundate":  "\/Date(1442284269924)\/",
-        "site":  "Forbidden Planet"
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1442876055920)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/sep140760.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/sep140760.html\"\u003ehttp://www.closeencounters.co.uk/index.php/sep140760.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "10",
+        "variant":  "10",
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1442876055920)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug140689.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug140689.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug140689.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "9",
+        "variant":  "9",
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1442876055920)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/jul140586.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/jul140586.html\"\u003ehttp://www.closeencounters.co.uk/index.php/jul140586.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "8",
+        "variant":  "8",
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1442876055920)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/may140743.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/may140743.html\"\u003ehttp://www.closeencounters.co.uk/index.php/may140743.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1442876055920)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/dec130602.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/dec130602.html\"\u003ehttp://www.closeencounters.co.uk/index.php/dec130602.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "5",
+        "variant":  "5",
+        "price":  1.94,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1442876055920)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/nov130530.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/nov130530.html\"\u003ehttp://www.closeencounters.co.uk/index.php/nov130530.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "4",
+        "variant":  "4 FIRST PRINT IMAGE",
+        "price":  2.10,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1442876055920)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/oct130631.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/oct130631.html\"\u003ehttp://www.closeencounters.co.uk/index.php/oct130631.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "3",
+        "variant":  "3 FIRST PRINT BRUBAKER",
+        "price":  2.94,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1442876055920)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug130505-54521.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug130505-54521.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug130505-54521.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "1",
+        "variant":  "1 SECOND PRINT",
+        "price":  2.50,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1442876055920)\/",
+        "site":  "Close Encounters"
+    },
+    {
+        "link":  "http://www.closeencounters.co.uk/index.php/aug130505.html",
+        "url":  "\u003ca href=\"http://www.closeencounters.co.uk/index.php/aug130505.html\"\u003ehttp://www.closeencounters.co.uk/index.php/aug130505.html\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "1",
+        "variant":  "1 FIRST PRINT",
+        "price":  3.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "\/Date(1442876055920)\/",
+        "site":  "Close Encounters"
     },
     {
         "link":  "http://www.reedcomics.com/velvet-1-2nd-print-p-58915.html?osCsid=pv7c5rk4j1u0p83fpanlr1oc63",
@@ -163,7 +320,7 @@
         "variant":  "1 (2ND PRINT)",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284275186)\/",
+        "rundate":  "\/Date(1442876070274)\/",
         "site":  "Reed"
     },
     {
@@ -175,7 +332,7 @@
         "variant":  "1 *HOT BOOK*",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284275186)\/",
+        "rundate":  "\/Date(1442876070274)\/",
         "site":  "Reed"
     },
     {
@@ -187,7 +344,7 @@
         "variant":  "10",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284275186)\/",
+        "rundate":  "\/Date(1442876070274)\/",
         "site":  "Reed"
     },
     {
@@ -199,7 +356,7 @@
         "variant":  "11",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284275186)\/",
+        "rundate":  "\/Date(1442876070274)\/",
         "site":  "Reed"
     },
     {
@@ -211,7 +368,7 @@
         "variant":  "2",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284275186)\/",
+        "rundate":  "\/Date(1442876070274)\/",
         "site":  "Reed"
     },
     {
@@ -223,7 +380,7 @@
         "variant":  "3",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284275186)\/",
+        "rundate":  "\/Date(1442876070274)\/",
         "site":  "Reed"
     },
     {
@@ -235,7 +392,7 @@
         "variant":  "4",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284275186)\/",
+        "rundate":  "\/Date(1442876070274)\/",
         "site":  "Reed"
     },
     {
@@ -247,7 +404,7 @@
         "variant":  "5",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284275186)\/",
+        "rundate":  "\/Date(1442876070274)\/",
         "site":  "Reed"
     },
     {
@@ -259,7 +416,7 @@
         "variant":  "6",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284275186)\/",
+        "rundate":  "\/Date(1442876070274)\/",
         "site":  "Reed"
     },
     {
@@ -271,7 +428,7 @@
         "variant":  "7",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284275186)\/",
+        "rundate":  "\/Date(1442876070274)\/",
         "site":  "Reed"
     },
     {
@@ -283,7 +440,7 @@
         "variant":  "8",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284275186)\/",
+        "rundate":  "\/Date(1442876070274)\/",
         "site":  "Reed"
     },
     {
@@ -295,7 +452,7 @@
         "variant":  "9",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284275186)\/",
+        "rundate":  "\/Date(1442876070274)\/",
         "site":  "Reed"
     },
     {
@@ -307,7 +464,7 @@
         "variant":  "VOLUME 1 BEFORE THE LIVING END GRAPHIC NOVEL",
         "price":  null,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284275186)\/",
+        "rundate":  "\/Date(1442876070274)\/",
         "site":  "Reed"
     },
     {
@@ -319,7 +476,7 @@
         "variant":  "1FIRSTS",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -331,7 +488,7 @@
         "variant":  "1A",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -343,7 +500,7 @@
         "variant":  "1FIRSTS",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -355,7 +512,7 @@
         "variant":  "1FIRSTS",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -367,7 +524,7 @@
         "variant":  "SET",
         "price":  1.2,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -379,7 +536,7 @@
         "variant":  "SET",
         "price":  1.2,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -391,7 +548,7 @@
         "variant":  "1A",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -403,7 +560,7 @@
         "variant":  "1A",
         "price":  2.74,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -415,7 +572,7 @@
         "variant":  "1FP",
         "price":  1.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -427,7 +584,7 @@
         "variant":  "1MIDTOWN",
         "price":  7.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -439,7 +596,7 @@
         "variant":  "2A",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -451,7 +608,7 @@
         "variant":  "10",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -463,7 +620,7 @@
         "variant":  "11",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -475,7 +632,7 @@
         "variant":  "SET",
         "price":  3,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -487,7 +644,43 @@
         "variant":  "SET",
         "price":  3,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Image-Comics-Velvet-6-7-8-First-Prints-/131603035172?hash=item1ea426f424",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-Comics-Velvet-6-7-8-First-Prints-/131603035172?hash=item1ea426f424\"\u003ehttp://www.ebay.co.uk/itm/Image-Comics-Velvet-6-7-8-First-Prints-/131603035172?hash=item1ea426f424\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  3,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-9-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Image-Comics-Velvet-6-7-8-First-Prints-/131605505493?hash=item1ea44ca5d5",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-Comics-Velvet-6-7-8-First-Prints-/131605505493?hash=item1ea44ca5d5\"\u003ehttp://www.ebay.co.uk/itm/Image-Comics-Velvet-6-7-8-First-Prints-/131605505493?hash=item1ea44ca5d5\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  3,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-9-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Image-Comics-Velvet-6-7-8-First-Prints-/131608869350?hash=item1ea47ff9e6",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-Comics-Velvet-6-7-8-First-Prints-/131608869350?hash=item1ea47ff9e6\"\u003ehttp://www.ebay.co.uk/itm/Image-Comics-Velvet-6-7-8-First-Prints-/131608869350?hash=item1ea47ff9e6\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  3,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -499,7 +692,7 @@
         "variant":  "4",
         "price":  2,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -511,7 +704,7 @@
         "variant":  "1FPSIGNED",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -523,7 +716,7 @@
         "variant":  "8",
         "price":  0.75,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -535,7 +728,7 @@
         "variant":  "9",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -547,7 +740,7 @@
         "variant":  "9",
         "price":  0.75,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -559,7 +752,7 @@
         "variant":  "9",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -571,7 +764,7 @@
         "variant":  "3",
         "price":  1.45,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -583,7 +776,7 @@
         "variant":  "8",
         "price":  1.45,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -595,7 +788,7 @@
         "variant":  "6",
         "price":  1.45,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -607,7 +800,7 @@
         "variant":  "10",
         "price":  1.45,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -619,7 +812,7 @@
         "variant":  "10",
         "price":  1.45,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -631,7 +824,7 @@
         "variant":  "8",
         "price":  0.75,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -643,7 +836,7 @@
         "variant":  "1A",
         "price":  2.49,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -655,7 +848,7 @@
         "variant":  "1FIRSTS",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -667,7 +860,7 @@
         "variant":  "10",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -679,7 +872,7 @@
         "variant":  "7",
         "price":  0.75,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -691,7 +884,7 @@
         "variant":  "11",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -703,7 +896,7 @@
         "variant":  "7",
         "price":  0.75,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -715,7 +908,7 @@
         "variant":  "7",
         "price":  0.75,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -727,7 +920,7 @@
         "variant":  "11",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -739,7 +932,19 @@
         "variant":  "7",
         "price":  0.75,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/VELVET-7-IMAGE-COMICS-SEP-2014-/141781160120?hash=item2102d0d0b8",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/VELVET-7-IMAGE-COMICS-SEP-2014-/141781160120?hash=item2102d0d0b8\"\u003ehttp://www.ebay.co.uk/itm/VELVET-7-IMAGE-COMICS-SEP-2014-/141781160120?hash=item2102d0d0b8\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  0.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -751,7 +956,7 @@
         "variant":  "7",
         "price":  1.45,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -763,7 +968,7 @@
         "variant":  "8",
         "price":  1.45,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -775,7 +980,31 @@
         "variant":  "9",
         "price":  0.75,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Velvet-1-FIRST-PRINT-Image-Comics-Ed-Brubaker-IN-EXCELLENT-CONDITION-/151824654503?hash=item23597460a7",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Velvet-1-FIRST-PRINT-Image-Comics-Ed-Brubaker-IN-EXCELLENT-CONDITION-/151824654503?hash=item23597460a7\"\u003ehttp://www.ebay.co.uk/itm/Velvet-1-FIRST-PRINT-Image-Comics-Ed-Brubaker-IN-EXCELLENT-CONDITION-/151824654503?hash=item23597460a7\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "1",
+        "variant":  "1A",
+        "price":  3,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-9-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Velvet-2-FIRST-PRINT-Image-Comics-Ed-Brubaker-IN-EXCELLENT-CONDITION-/151824654636?hash=item235974612c",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Velvet-2-FIRST-PRINT-Image-Comics-Ed-Brubaker-IN-EXCELLENT-CONDITION-/151824654636?hash=item235974612c\"\u003ehttp://www.ebay.co.uk/itm/Velvet-2-FIRST-PRINT-Image-Comics-Ed-Brubaker-IN-EXCELLENT-CONDITION-/151824654636?hash=item235974612c\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "2",
+        "variant":  "2A",
+        "price":  3,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -787,7 +1016,7 @@
         "variant":  "1B",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -799,7 +1028,7 @@
         "variant":  "4",
         "price":  3.15,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -811,7 +1040,7 @@
         "variant":  "6",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -823,7 +1052,7 @@
         "variant":  "8",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -835,7 +1064,7 @@
         "variant":  "10",
         "price":  2.05,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -847,7 +1076,7 @@
         "variant":  "9",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -859,7 +1088,7 @@
         "variant":  "9",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -871,7 +1100,7 @@
         "variant":  "10",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -883,7 +1112,7 @@
         "variant":  "6",
         "price":  2.1,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -895,7 +1124,7 @@
         "variant":  "7",
         "price":  2.1,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -907,7 +1136,7 @@
         "variant":  "11",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -919,7 +1148,7 @@
         "variant":  "11",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -931,7 +1160,19 @@
         "variant":  "12",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Velvet-10-Image-Comics-Apr-2015-ED-BRUBAKER-/161830954877?hash=item25ade0677d",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Velvet-10-Image-Comics-Apr-2015-ED-BRUBAKER-/161830954877?hash=item25ade0677d\"\u003ehttp://www.ebay.co.uk/itm/Velvet-10-Image-Comics-Apr-2015-ED-BRUBAKER-/161830954877?hash=item25ade0677d\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "10",
+        "variant":  "10",
+        "price":  2.45,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -943,7 +1184,7 @@
         "variant":  "5",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -955,7 +1196,7 @@
         "variant":  "SET",
         "price":  7.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -967,7 +1208,7 @@
         "variant":  "1A",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -979,7 +1220,7 @@
         "variant":  "5",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -991,7 +1232,7 @@
         "variant":  "SET",
         "price":  10,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1003,7 +1244,7 @@
         "variant":  "SET",
         "price":  7.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1015,7 +1256,19 @@
         "variant":  "SET",
         "price":  30,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Image-Comics-VELVET-1-to-11-Ed-Brubaker-1st-print-Near-Mint-/171940341878?hash=item2808716876",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-Comics-VELVET-1-to-11-Ed-Brubaker-1st-print-Near-Mint-/171940341878?hash=item2808716876\"\u003ehttp://www.ebay.co.uk/itm/Image-Comics-VELVET-1-to-11-Ed-Brubaker-1st-print-Near-Mint-/171940341878?hash=item2808716876\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  35,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1027,7 +1280,7 @@
         "variant":  "6",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1039,7 +1292,7 @@
         "variant":  "10",
         "price":  2.4,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1051,7 +1304,7 @@
         "variant":  "1A",
         "price":  4.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1063,7 +1316,7 @@
         "variant":  "5",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1075,7 +1328,7 @@
         "variant":  "1A",
         "price":  1.25,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1087,7 +1340,19 @@
         "variant":  "SET",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Velvet-1-2-1st-Print-out-of-print-Ed-Brubaker-Image-Comics-New-NM-/181868925566?hash=item2a583b927e",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Velvet-1-2-1st-Print-out-of-print-Ed-Brubaker-Image-Comics-New-NM-/181868925566?hash=item2a583b927e\"\u003ehttp://www.ebay.co.uk/itm/Velvet-1-2-1st-Print-out-of-print-Ed-Brubaker-Image-Comics-New-NM-/181868925566?hash=item2a583b927e\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  6.75,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1099,7 +1364,7 @@
         "variant":  "5",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1111,7 +1376,7 @@
         "variant":  "1MIDTOWN",
         "price":  12.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1123,7 +1388,7 @@
         "variant":  "10",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1135,7 +1400,7 @@
         "variant":  "2A",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1147,7 +1412,7 @@
         "variant":  "5",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1159,7 +1424,7 @@
         "variant":  "1A",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1171,7 +1436,7 @@
         "variant":  "1FPSIGNED",
         "price":  10,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1183,7 +1448,7 @@
         "variant":  "1A",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1195,7 +1460,7 @@
         "variant":  "6",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1207,7 +1472,7 @@
         "variant":  "5",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1219,7 +1484,7 @@
         "variant":  "7",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1231,7 +1496,7 @@
         "variant":  "8",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1243,7 +1508,7 @@
         "variant":  "1ASIGNED",
         "price":  10,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1255,7 +1520,7 @@
         "variant":  "8",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1267,7 +1532,19 @@
         "variant":  "1A",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Velvet-1-Brubaker-Epting-Image-Comics-Signed-Forbidden-Planet-Variant-NM-/221889774540?hash=item33a9a943cc",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Velvet-1-Brubaker-Epting-Image-Comics-Signed-Forbidden-Planet-Variant-NM-/221889774540?hash=item33a9a943cc\"\u003ehttp://www.ebay.co.uk/itm/Velvet-1-Brubaker-Epting-Image-Comics-Signed-Forbidden-Planet-Variant-NM-/221889774540?hash=item33a9a943cc\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "1",
+        "variant":  "1FPSIGNED",
+        "price":  10,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1279,7 +1556,7 @@
         "variant":  "1FPCGC",
         "price":  29,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1291,7 +1568,7 @@
         "variant":  "1FPCGC",
         "price":  25,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1303,7 +1580,7 @@
         "variant":  "1FPSIGNED",
         "price":  8.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1315,7 +1592,7 @@
         "variant":  "1FPSIGNED",
         "price":  8.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1327,7 +1604,7 @@
         "variant":  "1FPSIGNED",
         "price":  3.2,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1339,7 +1616,7 @@
         "variant":  "1FPSIGNED",
         "price":  3.2,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1351,7 +1628,7 @@
         "variant":  "1A",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1363,7 +1640,7 @@
         "variant":  "1FPSIGNED",
         "price":  11.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1375,7 +1652,7 @@
         "variant":  "4",
         "price":  0.43,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1387,7 +1664,7 @@
         "variant":  "10",
         "price":  2.65,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1399,7 +1676,7 @@
         "variant":  "4",
         "price":  0.41,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1411,7 +1688,7 @@
         "variant":  "10",
         "price":  2.65,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1423,7 +1700,7 @@
         "variant":  "1FPSIGNED",
         "price":  11.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1435,7 +1712,7 @@
         "variant":  "1FPSIGNED",
         "price":  11.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1447,7 +1724,7 @@
         "variant":  "10",
         "price":  2.65,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1459,7 +1736,7 @@
         "variant":  "1FP",
         "price":  7.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1471,7 +1748,7 @@
         "variant":  "SET",
         "price":  12.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1483,7 +1760,7 @@
         "variant":  "9",
         "price":  2.2,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1495,7 +1772,7 @@
         "variant":  "SET",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1507,7 +1784,7 @@
         "variant":  "1ASIGNED",
         "price":  2.7,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1519,7 +1796,7 @@
         "variant":  "1FPSIGNED",
         "price":  2.7,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1531,7 +1808,7 @@
         "variant":  "1FPSIGNED",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1543,7 +1820,7 @@
         "variant":  "9",
         "price":  0.49,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1555,7 +1832,19 @@
         "variant":  "9",
         "price":  0.49,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Velvet-3-NM-NM-/281800922654?hash=item419ca4d61e",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Velvet-3-NM-NM-/281800922654?hash=item419ca4d61e\"\u003ehttp://www.ebay.co.uk/itm/Velvet-3-NM-NM-/281800922654?hash=item419ca4d61e\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "3",
+        "variant":  "3",
+        "price":  0.49,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1567,7 +1856,7 @@
         "variant":  "SET",
         "price":  7.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1579,7 +1868,7 @@
         "variant":  "SET",
         "price":  10.79,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1591,7 +1880,7 @@
         "variant":  "SET",
         "price":  7.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1603,7 +1892,7 @@
         "variant":  "SET",
         "price":  10.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1615,7 +1904,7 @@
         "variant":  "SET",
         "price":  10.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1627,7 +1916,7 @@
         "variant":  "SET",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1639,7 +1928,7 @@
         "variant":  "SET",
         "price":  7.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1651,7 +1940,7 @@
         "variant":  "SET",
         "price":  10.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1663,7 +1952,7 @@
         "variant":  "SET",
         "price":  10.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1675,7 +1964,7 @@
         "variant":  "SET",
         "price":  10.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1687,7 +1976,7 @@
         "variant":  "SET",
         "price":  10.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1699,7 +1988,7 @@
         "variant":  "SET",
         "price":  10.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1711,7 +2000,7 @@
         "variant":  "SET",
         "price":  10.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1723,7 +2012,7 @@
         "variant":  "1A",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1735,7 +2024,7 @@
         "variant":  "5",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1747,7 +2036,7 @@
         "variant":  "7",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1759,7 +2048,7 @@
         "variant":  "4",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1771,7 +2060,7 @@
         "variant":  "10",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1783,7 +2072,7 @@
         "variant":  "4",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1795,7 +2084,7 @@
         "variant":  "5",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1807,7 +2096,7 @@
         "variant":  "1ACGC",
         "price":  24.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1819,7 +2108,7 @@
         "variant":  "9",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1831,7 +2120,7 @@
         "variant":  "8",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1843,7 +2132,7 @@
         "variant":  "1A",
         "price":  3.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1855,7 +2144,7 @@
         "variant":  "1A",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1867,7 +2156,7 @@
         "variant":  "8",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1879,7 +2168,7 @@
         "variant":  "6",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1891,7 +2180,7 @@
         "variant":  "7",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1903,7 +2192,7 @@
         "variant":  "8",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1915,7 +2204,7 @@
         "variant":  "1A",
         "price":  3.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1927,7 +2216,7 @@
         "variant":  "1A",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1939,7 +2228,7 @@
         "variant":  "8",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1951,7 +2240,7 @@
         "variant":  "1A",
         "price":  3.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1963,7 +2252,7 @@
         "variant":  "7",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1975,7 +2264,7 @@
         "variant":  "5",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1987,7 +2276,7 @@
         "variant":  "8",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -1999,7 +2288,7 @@
         "variant":  "10",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2011,7 +2300,7 @@
         "variant":  "10",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2023,7 +2312,7 @@
         "variant":  "2B",
         "price":  3.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2035,7 +2324,7 @@
         "variant":  "1FPCGC",
         "price":  24.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2047,7 +2336,7 @@
         "variant":  "6",
         "price":  3.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2059,7 +2348,7 @@
         "variant":  "9",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2071,7 +2360,7 @@
         "variant":  "10",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2083,7 +2372,7 @@
         "variant":  "2B",
         "price":  3.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2095,7 +2384,7 @@
         "variant":  "4",
         "price":  3.75,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2107,7 +2396,7 @@
         "variant":  "1FIRSTS",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2119,7 +2408,7 @@
         "variant":  "8",
         "price":  3.75,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2131,7 +2420,7 @@
         "variant":  "1FP",
         "price":  7.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2143,7 +2432,7 @@
         "variant":  "9",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2155,7 +2444,7 @@
         "variant":  "1FPSIGNED",
         "price":  10,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2167,7 +2456,7 @@
         "variant":  "4",
         "price":  0.42,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2179,7 +2468,7 @@
         "variant":  "4",
         "price":  0.42,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2191,7 +2480,7 @@
         "variant":  "1FPSIGNED",
         "price":  10,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2203,7 +2492,7 @@
         "variant":  "10",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2215,7 +2504,7 @@
         "variant":  "11",
         "price":  3.55,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2227,7 +2516,7 @@
         "variant":  "4",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2239,7 +2528,7 @@
         "variant":  "1FPSIGNED",
         "price":  10,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2251,7 +2540,7 @@
         "variant":  "6",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2263,7 +2552,7 @@
         "variant":  "8",
         "price":  2.1,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2275,7 +2564,7 @@
         "variant":  "9",
         "price":  2.4,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2287,7 +2576,7 @@
         "variant":  "7",
         "price":  3.75,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2299,7 +2588,7 @@
         "variant":  "1FPSIGNED",
         "price":  5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2311,7 +2600,7 @@
         "variant":  "1FPSIGNED",
         "price":  5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2323,7 +2612,7 @@
         "variant":  "1FPSIGNED",
         "price":  5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2335,7 +2624,7 @@
         "variant":  "10",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2347,7 +2636,7 @@
         "variant":  "11",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2359,7 +2648,7 @@
         "variant":  "1FPSIGNED",
         "price":  5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2371,7 +2660,7 @@
         "variant":  "7",
         "price":  2.99,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2383,7 +2672,7 @@
         "variant":  "1FIRSTS",
         "price":  1.45,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2395,7 +2684,7 @@
         "variant":  "8",
         "price":  3.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2407,7 +2696,7 @@
         "variant":  "9",
         "price":  2.35,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2419,7 +2708,7 @@
         "variant":  "9",
         "price":  3.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2431,7 +2720,7 @@
         "variant":  "11",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2443,7 +2732,19 @@
         "variant":  "11",
         "price":  2.95,
         "currency":  "\u0026pound;",
-        "rundate":  "15-9-2015",
+        "rundate":  "21-9-2015",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Image-Comics-Velvet-11-Bagged-Boarded-/400998860013?hash=item5d5d6504ed",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Image-Comics-Velvet-11-Bagged-Boarded-/400998860013?hash=item5d5d6504ed\"\u003ehttp://www.ebay.co.uk/itm/Image-Comics-Velvet-11-Bagged-Boarded-/400998860013?hash=item5d5d6504ed\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "VELVET",
+        "issue":  "11",
+        "variant":  "11",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "21-9-2015",
         "site":  "Auction"
     },
     {
@@ -2455,7 +2756,7 @@
         "variant":  "AVENGELYNE/PANDORA #1 RED VELVET COVER VERY SCARCE REAL VELVET WRAPAROUND-C GRADE=NM 1/2 PRICE SALE! WAS ?19.99P NOW ?10.00P!",
         "price":  10.00,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284282997)\/",
+        "rundate":  "\/Date(1442876078213)\/",
         "site":  "The Comic Biz Store"
     },
     {
@@ -2467,7 +2768,7 @@
         "variant":  "CROW/RAZOR: KILL THE PAIN #0 RED VELVET COVER VERY SCARCE GRADE=NM 1/2 PRICE SALE! WAS ?16.99P NOW ?8.50P!",
         "price":  8.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284282997)\/",
+        "rundate":  "\/Date(1442876078213)\/",
         "site":  "The Comic Biz Store"
     },
     {
@@ -2479,7 +2780,7 @@
         "variant":  "RAZOR #50 (ONGOING) RED VELVET COVER SCARCE SUPERB REAL VELVET-C GRADE=NM 1/2 PRICE SALE! WAS ?24.99P NOW ?12.50P!",
         "price":  12.50,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284282997)\/",
+        "rundate":  "\/Date(1442876078213)\/",
         "site":  "The Comic Biz Store"
     },
     {
@@ -2491,7 +2792,7 @@
         "variant":  "1",
         "price":  "3.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284349858)\/",
+        "rundate":  "\/Date(1442876088649)\/",
         "site":  "Intercomics"
     },
     {
@@ -2503,7 +2804,7 @@
         "variant":  "3",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284349858)\/",
+        "rundate":  "\/Date(1442876088649)\/",
         "site":  "Intercomics"
     },
     {
@@ -2515,7 +2816,7 @@
         "variant":  "4",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284349858)\/",
+        "rundate":  "\/Date(1442876088649)\/",
         "site":  "Intercomics"
     },
     {
@@ -2527,7 +2828,7 @@
         "variant":  "6",
         "price":  "2.99",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284349858)\/",
+        "rundate":  "\/Date(1442876088649)\/",
         "site":  "Intercomics"
     },
     {
@@ -2539,7 +2840,7 @@
         "variant":  "7",
         "price":  "2.75",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284349858)\/",
+        "rundate":  "\/Date(1442876088649)\/",
         "site":  "Intercomics"
     },
     {
@@ -2551,7 +2852,7 @@
         "variant":  "8",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284349858)\/",
+        "rundate":  "\/Date(1442876088649)\/",
         "site":  "Intercomics"
     },
     {
@@ -2563,7 +2864,7 @@
         "variant":  "9",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284349858)\/",
+        "rundate":  "\/Date(1442876088649)\/",
         "site":  "Intercomics"
     },
     {
@@ -2575,7 +2876,7 @@
         "variant":  "10",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284349858)\/",
+        "rundate":  "\/Date(1442876088649)\/",
         "site":  "Intercomics"
     },
     {
@@ -2587,7 +2888,7 @@
         "variant":  "11",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284349858)\/",
+        "rundate":  "\/Date(1442876088649)\/",
         "site":  "Intercomics"
     },
     {
@@ -2599,7 +2900,7 @@
         "variant":  "12",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284349858)\/",
+        "rundate":  "\/Date(1442876088649)\/",
         "site":  "Intercomics"
     },
     {
@@ -2611,7 +2912,7 @@
         "variant":  "13",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284349858)\/",
+        "rundate":  "\/Date(1442876088649)\/",
         "site":  "Intercomics"
     },
     {
@@ -2623,7 +2924,7 @@
         "variant":  "14",
         "price":  "2.50",
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284349858)\/",
+        "rundate":  "\/Date(1442876088649)\/",
         "site":  "Intercomics"
     },
     {
@@ -2635,7 +2936,7 @@
         "variant":  "3",
         "price":  2.85,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284352163)\/",
+        "rundate":  "\/Date(1442876090567)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2647,7 +2948,7 @@
         "variant":  "3",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284352163)\/",
+        "rundate":  "\/Date(1442876090567)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2659,7 +2960,7 @@
         "variant":  "2",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284352163)\/",
+        "rundate":  "\/Date(1442876090567)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2671,7 +2972,7 @@
         "variant":  "2",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284352163)\/",
+        "rundate":  "\/Date(1442876090567)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2683,7 +2984,7 @@
         "variant":  "1",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284352163)\/",
+        "rundate":  "\/Date(1442876090567)\/",
         "site":  "The Comic Guru"
     },
     {
@@ -2692,10 +2993,10 @@
         "orderdate":  null,
         "title":  "VELVET",
         "issue":  "11\n",
-        "variant":  "4",
+        "variant":  "3",
         "price":  2.60,
         "currency":  "\u0026pound;",
-        "rundate":  "\/Date(1442284352163)\/",
+        "rundate":  "\/Date(1442876090567)\/",
         "site":  "The Comic Guru"
     }
 ]
