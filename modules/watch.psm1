@@ -41,7 +41,7 @@ function watch
       foreach($record in $results)
       {
          Write-host "$counter of $total"      
-         update-record $record
+         Update-Record $record
          $counter++
       } 
    }

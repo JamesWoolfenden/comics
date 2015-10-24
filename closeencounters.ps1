@@ -1,6 +1,6 @@
 import-module "$PSScriptRoot\core.ps1" -force
 
-function get-closeencountersdata
+function Get-CloseencountersData
 {
    param (
    [Parameter(Mandatory=$true)]
@@ -17,7 +17,7 @@ function get-closeencountersdata
    $search="&name=$comic"
    $site="Close Encounters"
    $fullfilter=$search+"&limit=30"
-   #$url="http://www.kimonolabs.com/api/9u9wvzya?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
+
    $url="https://www.kimonolabs.com/api/ondemand/9u9wvzya?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
 
    write-verbose "Accessing $url"

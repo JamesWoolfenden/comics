@@ -1,4 +1,4 @@
-import-module "$PSScriptRoot\auction.ps1" -force
+import-module "$PSScriptRoot\modules\auction.psd1" -force
 import-module "$PSScriptRoot\closeencounters.ps1" -force
 import-module "$PSScriptRoot\fp.ps1" -force
 import-module "$PSScriptRoot\guru.ps1"  -force
@@ -34,7 +34,7 @@ function get-market
    $allrecords+=get-closeencountersdata -record $record 
    $allrecords+=get-fpdata  -record $record  
    $allrecords+=get-reeddata -record $record
-   $allrecords+=get-auctiondata -record $record
+   $allrecords+=Get-AuctionData -record $record
    $allrecords+=get-comicbizdata -record $record
    $allrecords+=get-comicbookshopdata -record $record
    $allrecords+=get-tfawdata -record $record -dollarrate $dollarrate

@@ -31,7 +31,7 @@ function view-record
    $ie
 }
 
-function update-record
+function Update-Record
 {
    param(
    [Parameter(Mandatory=$true)]

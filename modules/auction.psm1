@@ -1,7 +1,7 @@
 
-import-module "$PSScriptRoot\core.ps1" -force
+import-module "$PSScriptRoot\..\core.ps1" -force
 
-function get-auctiondata
+function Get-AuctionData
 {
    param(
    [Parameter(Mandatory=$true)]

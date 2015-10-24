@@ -28,7 +28,6 @@
     <Compile Include=".gitignore" />
     <Compile Include="backup\azureexport.dacpac" />
     <Compile Include="comicbiz.ps1" />
-    <Compile Include="comicconnect.ps1" />
     <Compile Include="data\comicxposure\latest.json" />
     <Compile Include="data\dcbs\18-1-2015.json" />
     <Compile Include="data\dcbs\latest.json" />
@@ -79,6 +78,8 @@
     <Compile Include="jqwidgets\demos\sampledata\xmldata.json" />
     <Compile Include="livedata\*.json" />
     <Compile Include="livedata\*.txt" />
+    <Compile Include="modules\auction.psd1" />
+    <Compile Include="modules\auction.psm1" />
     <Compile Include="modules\HttpListener\ChangeLog.txt" />
     <Compile Include="modules\HttpListener\HTTPListener.psd1" />
     <Compile Include="modules\HttpListener\HTTPListener.psm1" />
@@ -102,6 +103,8 @@
     <Compile Include="rss\Get-EbayRssItems.ps1" />
     <Compile Include="rss\Get-RssContent.ps1" />
     <Compile Include="guru.ps1" />
+    <Compile Include="rss\Parse-EbayRSS.psd1" />
+    <Compile Include="rss\Parse-EbayRSS.psm1" />
     <Compile Include="rss\Parse-ListingInfo.ps1" />
     <Compile Include="sales\**\*.json" />
     <Compile Include="scripts.ps1" />
@@ -120,7 +123,6 @@
     <Content Include="comicvine.txt" />
     <Content Include="comicxposure.ps1" />
     <Content Include="dcbs.ps1" />
-    <Content Include="auction.ps1" />
     <Content Include="hastings.ps1" />
     <Content Include="history.ps1" />
     <Content Include="jqwidgets\demos\jqxgrid\prices-ratqueens.htm" />
