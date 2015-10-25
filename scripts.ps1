@@ -203,7 +203,7 @@ function view
    $IE
 }
 
-function view-url
+function View-URL
 {
    param($url)
    $IE=new-object -com internetexplorer.application
@@ -385,7 +385,7 @@ function Finalize-Records
    }
 }
 
-function update-open
+function Update-Open
 {
 	<#
       .SYNOPSIS 
@@ -397,7 +397,8 @@ function update-open
       C:\PS>  uo chew
    #>
    param(
-	   [string]$title=$NULL)
+	   [string]$title=$NULL,
+       [switch]$sort)
       
    if ($title)
    {
@@ -408,10 +409,15 @@ function update-open
       $query="where status='open'"
    }
    
+   if ($sort)
+   {
+      $query+=" order by title"
+   }
+
    $results=search-db $query
    $count=1
 
-   if ($results -eq "" -or $results -eq $Null)
+   If (!$results)
    { 
       return "None found."
    }
@@ -440,7 +446,7 @@ function update-open
    }
 }
 
-function clean-string
+function Clean-String
 {
    param([string]$dirty)
    
@@ -448,16 +454,15 @@ function clean-string
    $clean.substring(0, [System.Math]::Min(250, $clean.Length))
 }
 
-function get-ebidresults
+function Get-EBidResults
 {
    param([string]$url)
    
    write-verbose "Getting $url"
-   $Results = invoke-restmethod -uri "$url"
-   $Results 
+   invoke-restmethod -uri "$url"
 }
 
-function add-ebidarray
+function Add-EBidArray
 {
    param(
    [psobject]$results,
