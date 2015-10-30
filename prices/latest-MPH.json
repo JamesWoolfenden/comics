@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285007390)\/"
+        "Date":  "\/Date(1445893387808)\/"
     },
     {
         "Title":  "MPH",
@@ -29,15 +29,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285007520)\/"
+        "Date":  "\/Date(1445893387917)\/"
     },
     {
         "Title":  "MPH",
         "Issue":  "1B",
         "Cover":  1,
         "TotalCost":  "2.85",
-        "Mean":  2.847777777777778,
-        "AveragePrice":  2.847777777777778,
+        "Mean":  2.8477777777777775,
+        "AveragePrice":  2.8477777777777775,
         "CurrentPrice":  2.926,
         "Minimum":  0.99,
         "Maximum":  3.99,
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285007682)\/"
+        "Date":  "\/Date(1445893388070)\/"
     },
     {
         "Title":  "MPH",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285007805)\/"
+        "Date":  "\/Date(1445893388181)\/"
     },
     {
         "Title":  "MPH",
@@ -70,14 +70,14 @@
         "TotalCost":  "4.28",
         "Mean":  4.2833333333333323,
         "AveragePrice":  3.1133333333333333,
-        "CurrentPrice":  3.306,
+        "CurrentPrice":  3.0060000000000002,
         "Minimum":  0.99,
         "Maximum":  6.49,
         "Count":  6,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285007990)\/"
+        "Date":  "\/Date(1445893388331)\/"
     },
     {
         "Title":  "MPH",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285008177)\/"
+        "Date":  "\/Date(1445893388453)\/"
     },
     {
         "Title":  "MPH",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285008315)\/"
+        "Date":  "\/Date(1445893388559)\/"
     },
     {
         "Title":  "MPH",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285008456)\/"
+        "Date":  "\/Date(1445893388669)\/"
     },
     {
         "Title":  "MPH",
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285008648)\/"
+        "Date":  "\/Date(1445893388810)\/"
     },
     {
         "Title":  "MPH",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1445285008814)\/"
+        "Date":  "\/Date(1445893388959)\/"
     },
     {
         "Title":  "MPH",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285009001)\/"
+        "Date":  "\/Date(1445893389154)\/"
     },
     {
         "Title":  "MPH",
@@ -189,7 +189,7 @@
         "AveragePaid":  3.99,
         "AverageNetPaid":  3.99,
         "Stock":  1,
-        "Date":  "\/Date(1445285009157)\/"
+        "Date":  "\/Date(1445893389316)\/"
     },
     {
         "Title":  "MPH",
@@ -205,14 +205,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285009303)\/"
+        "Date":  "\/Date(1445893389445)\/"
     },
     {
         "Title":  "MPH",
         "Issue":  "2A",
         "Cover":  2,
         "TotalCost":  "2.53",
-        "Mean":  2.5283333333333338,
+        "Mean":  2.5283333333333333,
         "AveragePrice":  2.3033333333333332,
         "CurrentPrice":  1.738,
         "Minimum":  0.79,
@@ -221,7 +221,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  2,
-        "Date":  "\/Date(1445285009493)\/"
+        "Date":  "\/Date(1445893389623)\/"
     },
     {
         "Title":  "MPH",
@@ -237,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285009622)\/"
+        "Date":  "\/Date(1445893389733)\/"
     },
     {
         "Title":  "MPH",
@@ -245,7 +245,7 @@
         "Cover":  2,
         "TotalCost":  "2.35",
         "Mean":  2.3449999999999998,
-        "AveragePrice":  1.57625,
+        "AveragePrice":  1.5762500000000002,
         "CurrentPrice":  0.742,
         "Minimum":  0.49,
         "Maximum":  3.5,
@@ -253,7 +253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285009809)\/"
+        "Date":  "\/Date(1445893389868)\/"
     },
     {
         "Title":  "MPH",
@@ -269,7 +269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285009982)\/"
+        "Date":  "\/Date(1445893389986)\/"
     },
     {
         "Title":  "MPH",
@@ -285,15 +285,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285010154)\/"
+        "Date":  "\/Date(1445893390152)\/"
     },
     {
         "Title":  "MPH",
         "Issue":  "3A",
         "Cover":  3,
         "TotalCost":  "2.40",
-        "Mean":  2.39875,
-        "AveragePrice":  2.17375,
+        "Mean":  2.3987499999999997,
+        "AveragePrice":  2.1737499999999996,
         "CurrentPrice":  2.0780000000000003,
         "Minimum":  0.99,
         "Maximum":  2.75,
@@ -301,7 +301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285010332)\/"
+        "Date":  "\/Date(1445893390321)\/"
     },
     {
         "Title":  "MPH",
@@ -317,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285010461)\/"
+        "Date":  "\/Date(1445893390432)\/"
     },
     {
         "Title":  "MPH",
@@ -333,15 +333,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285010609)\/"
+        "Date":  "\/Date(1445893390555)\/"
     },
     {
         "Title":  "MPH",
         "Issue":  "4B",
         "Cover":  4,
         "TotalCost":  "1.39",
-        "Mean":  1.3933333333333333,
-        "AveragePrice":  1.3933333333333333,
+        "Mean":  1.3933333333333335,
+        "AveragePrice":  1.3933333333333335,
         "CurrentPrice":  1.3933333333333335,
         "Minimum":  0.99,
         "Maximum":  2.2,
@@ -349,7 +349,7 @@
         "AveragePaid":  0.99,
         "AverageNetPaid":  0.99,
         "Stock":  1,
-        "Date":  "\/Date(1445285010750)\/"
+        "Date":  "\/Date(1445893390672)\/"
     },
     {
         "Title":  "MPH",
@@ -365,7 +365,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285010894)\/"
+        "Date":  "\/Date(1445893390793)\/"
     },
     {
         "Title":  "MPH",
@@ -381,7 +381,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285011022)\/"
+        "Date":  "\/Date(1445893390906)\/"
     },
     {
         "Title":  "MPH",
@@ -390,13 +390,13 @@
         "TotalCost":  "6.40",
         "Mean":  6.39913043478261,
         "AveragePrice":  4.45304347826087,
-        "CurrentPrice":  4.568,
+        "CurrentPrice":  4.57,
         "Minimum":  0.01,
         "Maximum":  10.5,
         "Count":  23,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285011236)\/"
+        "Date":  "\/Date(1445893391164)\/"
     }
 ]

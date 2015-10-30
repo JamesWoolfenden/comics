@@ -4,7 +4,7 @@
         "Issue":  "1",
         "Cover":  1,
         "TotalCost":  "3.40",
-        "Mean":  3.40125,
+        "Mean":  3.401250000000001,
         "AveragePrice":  2.8525,
         "CurrentPrice":  3.2820000000000009,
         "Minimum":  1.2,
@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285125127)\/"
+        "Date":  "\/Date(1445893510589)\/"
     },
     {
         "Title":  "THE DYING AND THE DEAD",
@@ -29,7 +29,7 @@
         "AveragePaid":  1.8,
         "AverageNetPaid":  1.8,
         "Stock":  1,
-        "Date":  "\/Date(1445285125263)\/"
+        "Date":  "\/Date(1445893510724)\/"
     },
     {
         "Title":  "THE DYING AND THE DEAD",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.45,
         "AverageNetPaid":  2.45,
         "Stock":  1,
-        "Date":  "\/Date(1445285125400)\/"
+        "Date":  "\/Date(1445893510914)\/"
     },
     {
         "Title":  "THE DYING AND THE DEAD",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285125527)\/"
+        "Date":  "\/Date(1445893511089)\/"
     },
     {
         "Title":  "THE DYING AND THE DEAD",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285125653)\/"
+        "Date":  "\/Date(1445893511231)\/"
     },
     {
         "Title":  "THE DYING AND THE DEAD",
@@ -93,6 +93,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285125785)\/"
+        "Date":  "\/Date(1445893511399)\/"
     }
 ]

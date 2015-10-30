@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285096659)\/"
+        "Date":  "\/Date(1445893477935)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285096784)\/"
+        "Date":  "\/Date(1445893478049)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -45,7 +45,7 @@
         "AveragePaid":  1.25,
         "AverageNetPaid":  0.45,
         "Stock":  1,
-        "Date":  "\/Date(1445285096926)\/"
+        "Date":  "\/Date(1445893478174)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -61,7 +61,7 @@
         "AveragePaid":  1.25,
         "AverageNetPaid":  0.45,
         "Stock":  1,
-        "Date":  "\/Date(1445285097049)\/"
+        "Date":  "\/Date(1445893478287)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -77,7 +77,7 @@
         "AveragePaid":  1.25,
         "AverageNetPaid":  0.45,
         "Stock":  1,
-        "Date":  "\/Date(1445285097172)\/"
+        "Date":  "\/Date(1445893478402)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -93,7 +93,7 @@
         "AveragePaid":  1.25,
         "AverageNetPaid":  0.45,
         "Stock":  1,
-        "Date":  "\/Date(1445285097308)\/"
+        "Date":  "\/Date(1445893478525)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -109,7 +109,7 @@
         "AveragePaid":  1.25,
         "AverageNetPaid":  0.45,
         "Stock":  1,
-        "Date":  "\/Date(1445285097437)\/"
+        "Date":  "\/Date(1445893478632)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285097564)\/"
+        "Date":  "\/Date(1445893478744)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -141,7 +141,7 @@
         "AveragePaid":  1.25,
         "AverageNetPaid":  0.45,
         "Stock":  1,
-        "Date":  "\/Date(1445285097696)\/"
+        "Date":  "\/Date(1445893478863)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -157,7 +157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285097826)\/"
+        "Date":  "\/Date(1445893478975)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -173,7 +173,7 @@
         "AveragePaid":  1.25,
         "AverageNetPaid":  0.45,
         "Stock":  1,
-        "Date":  "\/Date(1445285097952)\/"
+        "Date":  "\/Date(1445893479088)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -189,7 +189,7 @@
         "AveragePaid":  1.25,
         "AverageNetPaid":  0.45,
         "Stock":  1,
-        "Date":  "\/Date(1445285098075)\/"
+        "Date":  "\/Date(1445893479204)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285098215)\/"
+        "Date":  "\/Date(1445893479317)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -221,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285098355)\/"
+        "Date":  "\/Date(1445893479434)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -237,7 +237,7 @@
         "AveragePaid":  3,
         "AverageNetPaid":  1,
         "Stock":  1,
-        "Date":  "\/Date(1445285098489)\/"
+        "Date":  "\/Date(1445893479549)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -253,7 +253,7 @@
         "AveragePaid":  3,
         "AverageNetPaid":  1,
         "Stock":  1,
-        "Date":  "\/Date(1445285098622)\/"
+        "Date":  "\/Date(1445893479661)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -269,14 +269,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285098755)\/"
+        "Date":  "\/Date(1445893479775)\/"
     },
     {
         "Title":  "SLEEPER",
         "Issue":  "SET",
         "Cover":  0,
         "TotalCost":  "11.66",
-        "Mean":  11.662222222222221,
+        "Mean":  11.662222222222223,
         "AveragePrice":  8.8555555555555561,
         "CurrentPrice":  8.904,
         "Minimum":  2.2,
@@ -285,7 +285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285098925)\/"
+        "Date":  "\/Date(1445893479944)\/"
     },
     {
         "Title":  "SLEEPER",
@@ -301,6 +301,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285099050)\/"
+        "Date":  "\/Date(1445893480053)\/"
     }
 ]

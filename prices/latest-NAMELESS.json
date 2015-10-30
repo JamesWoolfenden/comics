@@ -4,7 +4,7 @@
         "Issue":  "1A",
         "Cover":  1,
         "TotalCost":  "3.41",
-        "Mean":  3.4139130434782614,
+        "Mean":  3.4139130434782605,
         "AveragePrice":  2.0273913043478258,
         "CurrentPrice":  2.136,
         "Minimum":  0.7,
@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445285017637)\/"
+        "Date":  "\/Date(1445893397322)\/"
     },
     {
         "Title":  "NAMELESS",
@@ -29,15 +29,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285017775)\/"
+        "Date":  "\/Date(1445893397453)\/"
     },
     {
         "Title":  "NAMELESS",
         "Issue":  "1NEWBURY",
         "Cover":  1,
         "TotalCost":  "7.10",
-        "Mean":  7.1033333333333326,
-        "AveragePrice":  4.1033333333333344,
+        "Mean":  7.1033333333333344,
+        "AveragePrice":  4.1033333333333335,
         "CurrentPrice":  3.2079999999999997,
         "Minimum":  0.99,
         "Maximum":  9.51,
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285017940)\/"
+        "Date":  "\/Date(1445893397602)\/"
     },
     {
         "Title":  "NAMELESS",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445285018118)\/"
+        "Date":  "\/Date(1445893397763)\/"
     },
     {
         "Title":  "NAMELESS",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285018245)\/"
+        "Date":  "\/Date(1445893397873)\/"
     },
     {
         "Title":  "NAMELESS",
@@ -93,7 +93,7 @@
         "AveragePaid":  2.125,
         "AverageNetPaid":  2.125,
         "Stock":  4,
-        "Date":  "\/Date(1445285018425)\/"
+        "Date":  "\/Date(1445893398006)\/"
     },
     {
         "Title":  "NAMELESS",
@@ -109,7 +109,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445285018565)\/"
+        "Date":  "\/Date(1445893398149)\/"
     },
     {
         "Title":  "NAMELESS",
@@ -125,15 +125,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285018685)\/"
+        "Date":  "\/Date(1445893398261)\/"
     },
     {
         "Title":  "NAMELESS",
         "Issue":  "SET",
         "Cover":  0,
         "TotalCost":  "7.07",
-        "Mean":  7.0700000000000012,
-        "AveragePrice":  4.9825000000000008,
+        "Mean":  7.07,
+        "AveragePrice":  4.9825,
         "CurrentPrice":  5.434,
         "Minimum":  1.99,
         "Maximum":  10.5,
@@ -141,6 +141,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285018847)\/"
+        "Date":  "\/Date(1445893398407)\/"
     }
 ]

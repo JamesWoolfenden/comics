@@ -13,7 +13,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284946509)\/"
+        "Date":  "\/Date(1445893331977)\/"
     },
     {
         "Title":  "HAWKEYE",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284946635)\/"
+        "Date":  "\/Date(1445893332084)\/"
     },
     {
         "Title":  "HAWKEYE",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.75,
         "AverageNetPaid":  2.75,
         "Stock":  1,
-        "Date":  "\/Date(1445284946817)\/"
+        "Date":  "\/Date(1445893332258)\/"
     },
     {
         "Title":  "HAWKEYE",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284946964)\/"
+        "Date":  "\/Date(1445893332377)\/"
     },
     {
         "Title":  "HAWKEYE",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284947087)\/"
+        "Date":  "\/Date(1445893332490)\/"
     },
     {
         "Title":  "HAWKEYE",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284947247)\/"
+        "Date":  "\/Date(1445893332613)\/"
     },
     {
         "Title":  "HAWKEYE",
@@ -101,7 +101,7 @@
         "Cover":  2,
         "TotalCost":  "2.43",
         "Mean":  2.42875,
-        "AveragePrice":  2.01625,
+        "AveragePrice":  2.0162500000000003,
         "CurrentPrice":  2.73,
         "Minimum":  0.5,
         "Maximum":  2.75,
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284947408)\/"
+        "Date":  "\/Date(1445893332789)\/"
     },
     {
         "Title":  "HAWKEYE",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284947541)\/"
+        "Date":  "\/Date(1445893332903)\/"
     },
     {
         "Title":  "HAWKEYE",
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284947672)\/"
+        "Date":  "\/Date(1445893333010)\/"
     },
     {
         "Title":  "HAWKEYE",
@@ -157,7 +157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284947811)\/"
+        "Date":  "\/Date(1445893333130)\/"
     },
     {
         "Title":  "HAWKEYE",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284947941)\/"
+        "Date":  "\/Date(1445893333241)\/"
     },
     {
         "Title":  "HAWKEYE",
@@ -189,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284948067)\/"
+        "Date":  "\/Date(1445893333347)\/"
     },
     {
         "Title":  "HAWKEYE",
@@ -205,6 +205,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284948244)\/"
+        "Date":  "\/Date(1445893333461)\/"
     }
 ]

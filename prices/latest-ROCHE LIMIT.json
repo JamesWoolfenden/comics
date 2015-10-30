@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285061364)\/"
+        "Date":  "\/Date(1445893443212)\/"
     },
     {
         "Title":  "ROCHE LIMIT",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285061482)\/"
+        "Date":  "\/Date(1445893443320)\/"
     },
     {
         "Title":  "ROCHE LIMIT",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285061660)\/"
+        "Date":  "\/Date(1445893443434)\/"
     },
     {
         "Title":  "ROCHE LIMIT",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285061811)\/"
+        "Date":  "\/Date(1445893443562)\/"
     },
     {
         "Title":  "ROCHE LIMIT",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285061953)\/"
+        "Date":  "\/Date(1445893443671)\/"
     },
     {
         "Title":  "ROCHE LIMIT",
@@ -93,14 +93,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285062097)\/"
+        "Date":  "\/Date(1445893443784)\/"
     },
     {
         "Title":  "ROCHE LIMIT",
         "Issue":  "SET",
         "Cover":  0,
         "TotalCost":  "6.42",
-        "Mean":  6.416666666666667,
+        "Mean":  6.4166666666666652,
         "AveragePrice":  4.34,
         "CurrentPrice":  3.2079999999999997,
         "Minimum":  0.99,
@@ -109,6 +109,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285062272)\/"
+        "Date":  "\/Date(1445893443926)\/"
     }
 ]

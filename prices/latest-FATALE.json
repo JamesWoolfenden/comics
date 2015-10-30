@@ -4,7 +4,7 @@
         "Issue":  "10",
         "Cover":  10,
         "TotalCost":  "2.47",
-        "Mean":  2.465,
+        "Mean":  2.4650000000000003,
         "AveragePrice":  2.25875,
         "CurrentPrice":  2.336,
         "Minimum":  0.49,
@@ -13,7 +13,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284922561)\/"
+        "Date":  "\/Date(1445893311229)\/"
     },
     {
         "Title":  "FATALE",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284922813)\/"
+        "Date":  "\/Date(1445893311368)\/"
     },
     {
         "Title":  "FATALE",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284922974)\/"
+        "Date":  "\/Date(1445893311493)\/"
     },
     {
         "Title":  "FATALE",
@@ -53,7 +53,7 @@
         "Cover":  13,
         "TotalCost":  "2.98",
         "Mean":  2.980909090909091,
-        "AveragePrice":  2.3763636363636365,
+        "AveragePrice":  2.376363636363636,
         "CurrentPrice":  2.158,
         "Minimum":  0.99,
         "Maximum":  3.55,
@@ -61,7 +61,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284923248)\/"
+        "Date":  "\/Date(1445893311672)\/"
     },
     {
         "Title":  "FATALE",
@@ -69,7 +69,7 @@
         "Cover":  14,
         "TotalCost":  "2.67",
         "Mean":  2.6675,
-        "AveragePrice":  2.2612500000000004,
+        "AveragePrice":  2.26125,
         "CurrentPrice":  2.3299999999999996,
         "Minimum":  0.75,
         "Maximum":  3.45,
@@ -77,7 +77,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284923503)\/"
+        "Date":  "\/Date(1445893311814)\/"
     },
     {
         "Title":  "FATALE",
@@ -93,7 +93,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284923746)\/"
+        "Date":  "\/Date(1445893311959)\/"
     },
     {
         "Title":  "FATALE",
@@ -109,7 +109,7 @@
         "AveragePaid":  4.99,
         "AverageNetPaid":  4.99,
         "Stock":  1,
-        "Date":  "\/Date(1445284923954)\/"
+        "Date":  "\/Date(1445893312069)\/"
     },
     {
         "Title":  "FATALE",
@@ -125,7 +125,7 @@
         "AveragePaid":  1.8250000000000002,
         "AverageNetPaid":  1.7000000000000002,
         "Stock":  2,
-        "Date":  "\/Date(1445284924236)\/"
+        "Date":  "\/Date(1445893312202)\/"
     },
     {
         "Title":  "FATALE",
@@ -141,7 +141,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284924502)\/"
+        "Date":  "\/Date(1445893312402)\/"
     },
     {
         "Title":  "FATALE",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284924808)\/"
+        "Date":  "\/Date(1445893312576)\/"
     },
     {
         "Title":  "FATALE",
@@ -173,7 +173,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284925102)\/"
+        "Date":  "\/Date(1445893312771)\/"
     },
     {
         "Title":  "FATALE",
@@ -189,7 +189,7 @@
         "AveragePaid":  2.9,
         "AverageNetPaid":  1.25,
         "Stock":  1,
-        "Date":  "\/Date(1445284925401)\/"
+        "Date":  "\/Date(1445893312908)\/"
     },
     {
         "Title":  "FATALE",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284925550)\/"
+        "Date":  "\/Date(1445893313018)\/"
     },
     {
         "Title":  "FATALE",
@@ -221,7 +221,7 @@
         "AveragePaid":  3.25,
         "AverageNetPaid":  1.25,
         "Stock":  1,
-        "Date":  "\/Date(1445284925736)\/"
+        "Date":  "\/Date(1445893313160)\/"
     },
     {
         "Title":  "FATALE",
@@ -237,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284925879)\/"
+        "Date":  "\/Date(1445893313272)\/"
     },
     {
         "Title":  "FATALE",
@@ -253,7 +253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284926016)\/"
+        "Date":  "\/Date(1445893313381)\/"
     },
     {
         "Title":  "FATALE",
@@ -269,7 +269,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284926166)\/"
+        "Date":  "\/Date(1445893313489)\/"
     },
     {
         "Title":  "FATALE",
@@ -285,7 +285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284926415)\/"
+        "Date":  "\/Date(1445893313602)\/"
     },
     {
         "Title":  "FATALE",
@@ -301,7 +301,7 @@
         "AveragePaid":  2.0949999999999998,
         "AverageNetPaid":  1.545,
         "Stock":  2,
-        "Date":  "\/Date(1445284926625)\/"
+        "Date":  "\/Date(1445893313772)\/"
     },
     {
         "Title":  "FATALE",
@@ -317,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284926758)\/"
+        "Date":  "\/Date(1445893313889)\/"
     },
     {
         "Title":  "FATALE",
@@ -333,7 +333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284926907)\/"
+        "Date":  "\/Date(1445893314001)\/"
     },
     {
         "Title":  "FATALE",
@@ -349,7 +349,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284927112)\/"
+        "Date":  "\/Date(1445893314179)\/"
     },
     {
         "Title":  "FATALE",
@@ -365,7 +365,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284927310)\/"
+        "Date":  "\/Date(1445893314374)\/"
     },
     {
         "Title":  "FATALE",
@@ -381,14 +381,14 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284927504)\/"
+        "Date":  "\/Date(1445893314585)\/"
     },
     {
         "Title":  "FATALE",
         "Issue":  "23",
         "Cover":  23,
         "TotalCost":  "2.71",
-        "Mean":  2.7060714285714291,
+        "Mean":  2.7060714285714282,
         "AveragePrice":  2.5025,
         "CurrentPrice":  2.348,
         "Minimum":  0.49,
@@ -397,7 +397,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284927699)\/"
+        "Date":  "\/Date(1445893314779)\/"
     },
     {
         "Title":  "FATALE",
@@ -405,7 +405,7 @@
         "Cover":  24,
         "TotalCost":  "7.08",
         "Mean":  7.0763636363636371,
-        "AveragePrice":  6.4672727272727286,
+        "AveragePrice":  6.4672727272727277,
         "CurrentPrice":  10.459999999999999,
         "Minimum":  2.2,
         "Maximum":  39,
@@ -413,7 +413,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284927879)\/"
+        "Date":  "\/Date(1445893314938)\/"
     },
     {
         "Title":  "FATALE",
@@ -429,7 +429,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284928029)\/"
+        "Date":  "\/Date(1445893315066)\/"
     },
     {
         "Title":  "FATALE",
@@ -445,7 +445,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284928163)\/"
+        "Date":  "\/Date(1445893315184)\/"
     },
     {
         "Title":  "FATALE",
@@ -461,7 +461,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284928291)\/"
+        "Date":  "\/Date(1445893315291)\/"
     },
     {
         "Title":  "FATALE",
@@ -477,7 +477,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284928413)\/"
+        "Date":  "\/Date(1445893315400)\/"
     },
     {
         "Title":  "FATALE",
@@ -485,7 +485,7 @@
         "Cover":  3,
         "TotalCost":  "3.78",
         "Mean":  3.7783333333333338,
-        "AveragePrice":  2.9116666666666666,
+        "AveragePrice":  2.9116666666666671,
         "CurrentPrice":  2.904,
         "Minimum":  0.49,
         "Maximum":  5.95,
@@ -493,7 +493,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284928575)\/"
+        "Date":  "\/Date(1445893315571)\/"
     },
     {
         "Title":  "FATALE",
@@ -509,7 +509,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284928698)\/"
+        "Date":  "\/Date(1445893315686)\/"
     },
     {
         "Title":  "FATALE",
@@ -525,7 +525,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284928833)\/"
+        "Date":  "\/Date(1445893315801)\/"
     },
     {
         "Title":  "FATALE",
@@ -541,7 +541,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284928965)\/"
+        "Date":  "\/Date(1445893315923)\/"
     },
     {
         "Title":  "FATALE",
@@ -557,7 +557,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284929122)\/"
+        "Date":  "\/Date(1445893316078)\/"
     },
     {
         "Title":  "FATALE",
@@ -573,14 +573,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284929260)\/"
+        "Date":  "\/Date(1445893316186)\/"
     },
     {
         "Title":  "FATALE",
         "Issue":  "5",
         "Cover":  5,
         "TotalCost":  "2.34",
-        "Mean":  2.3411111111111111,
+        "Mean":  2.3411111111111107,
         "AveragePrice":  2.1855555555555557,
         "CurrentPrice":  1.9040000000000004,
         "Minimum":  0.53,
@@ -589,7 +589,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445284929410)\/"
+        "Date":  "\/Date(1445893316368)\/"
     },
     {
         "Title":  "FATALE",
@@ -605,7 +605,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284929547)\/"
+        "Date":  "\/Date(1445893316487)\/"
     },
     {
         "Title":  "FATALE",
@@ -621,7 +621,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284929714)\/"
+        "Date":  "\/Date(1445893316633)\/"
     },
     {
         "Title":  "FATALE",
@@ -637,7 +637,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445284929917)\/"
+        "Date":  "\/Date(1445893316791)\/"
     },
     {
         "Title":  "FATALE",
@@ -645,7 +645,7 @@
         "Cover":  8,
         "TotalCost":  "2.35",
         "Mean":  2.3522222222222222,
-        "AveragePrice":  2.0300000000000002,
+        "AveragePrice":  2.03,
         "CurrentPrice":  2.2359999999999998,
         "Minimum":  0.53,
         "Maximum":  2.95,
@@ -653,7 +653,7 @@
         "AveragePaid":  2.1500000000000004,
         "AverageNetPaid":  2.1500000000000004,
         "Stock":  2,
-        "Date":  "\/Date(1445284930110)\/"
+        "Date":  "\/Date(1445893316930)\/"
     },
     {
         "Title":  "FATALE",
@@ -669,7 +669,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284930263)\/"
+        "Date":  "\/Date(1445893317047)\/"
     },
     {
         "Title":  "FATALE",
@@ -685,7 +685,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284930453)\/"
+        "Date":  "\/Date(1445893317187)\/"
     },
     {
         "Title":  "FATALE",
@@ -701,14 +701,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284930583)\/"
+        "Date":  "\/Date(1445893317306)\/"
     },
     {
         "Title":  "FATALE",
         "Issue":  "SET",
         "Cover":  0,
         "TotalCost":  "17.70",
-        "Mean":  17.696849315068494,
+        "Mean":  17.696849315068498,
         "AveragePrice":  14.275068493150687,
         "CurrentPrice":  6.2379999999999995,
         "Minimum":  0.99,
@@ -717,6 +717,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284930955)\/"
+        "Date":  "\/Date(1445893317672)\/"
     }
 ]

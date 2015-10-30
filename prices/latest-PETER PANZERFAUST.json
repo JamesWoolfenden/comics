@@ -4,7 +4,7 @@
         "Issue":  "10A",
         "Cover":  10,
         "TotalCost":  "2.75",
-        "Mean":  2.752307692307693,
+        "Mean":  2.7523076923076926,
         "AveragePrice":  2.1761538461538459,
         "CurrentPrice":  1.86,
         "Minimum":  0.85,
@@ -13,7 +13,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  4,
-        "Date":  "\/Date(1445285028160)\/"
+        "Date":  "\/Date(1445893408482)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1445285028348)\/"
+        "Date":  "\/Date(1445893408678)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285028476)\/"
+        "Date":  "\/Date(1445893408785)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -61,14 +61,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285028599)\/"
+        "Date":  "\/Date(1445893408937)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
         "Issue":  "11A",
         "Cover":  11,
         "TotalCost":  "2.46",
-        "Mean":  2.4610526315789474,
+        "Mean":  2.4610526315789469,
         "AveragePrice":  2.203157894736842,
         "CurrentPrice":  2.368,
         "Minimum":  0.99,
@@ -77,7 +77,7 @@
         "AveragePaid":  2.42,
         "AverageNetPaid":  2.42,
         "Stock":  5,
-        "Date":  "\/Date(1445285028799)\/"
+        "Date":  "\/Date(1445893409152)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -86,14 +86,14 @@
         "TotalCost":  "19.02",
         "Mean":  19.018,
         "AveragePrice":  18.853,
-        "CurrentPrice":  18.038,
+        "CurrentPrice":  18.854000000000003,
         "Minimum":  4.99,
         "Maximum":  34.99,
         "Count":  10,
         "AveragePaid":  4.99,
         "AverageNetPaid":  4.99,
         "Stock":  2,
-        "Date":  "\/Date(1445285028987)\/"
+        "Date":  "\/Date(1445893409331)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -109,7 +109,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  2,
-        "Date":  "\/Date(1445285029150)\/"
+        "Date":  "\/Date(1445893409585)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -125,7 +125,7 @@
         "AveragePaid":  2.3,
         "AverageNetPaid":  2.3,
         "Stock":  2,
-        "Date":  "\/Date(1445285029354)\/"
+        "Date":  "\/Date(1445893409766)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -141,7 +141,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1445285029536)\/"
+        "Date":  "\/Date(1445893409955)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -157,7 +157,7 @@
         "AveragePaid":  1.25,
         "AverageNetPaid":  1.25,
         "Stock":  2,
-        "Date":  "\/Date(1445285029740)\/"
+        "Date":  "\/Date(1445893410144)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -173,7 +173,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285029906)\/"
+        "Date":  "\/Date(1445893410341)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -189,7 +189,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285030062)\/"
+        "Date":  "\/Date(1445893410569)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -205,7 +205,7 @@
         "AveragePaid":  2.3,
         "AverageNetPaid":  2.3,
         "Stock":  2,
-        "Date":  "\/Date(1445285030241)\/"
+        "Date":  "\/Date(1445893410781)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -221,7 +221,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445285030442)\/"
+        "Date":  "\/Date(1445893410943)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -237,7 +237,7 @@
         "AveragePaid":  2.4875,
         "AverageNetPaid":  2.3,
         "Stock":  2,
-        "Date":  "\/Date(1445285030596)\/"
+        "Date":  "\/Date(1445893411168)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -245,7 +245,7 @@
         "Cover":  19,
         "TotalCost":  "2.83",
         "Mean":  2.8266666666666662,
-        "AveragePrice":  2.6433333333333331,
+        "AveragePrice":  2.6433333333333326,
         "CurrentPrice":  2.198,
         "Minimum":  0.49,
         "Maximum":  3.9,
@@ -253,7 +253,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285030789)\/"
+        "Date":  "\/Date(1445893411460)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -269,7 +269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285031003)\/"
+        "Date":  "\/Date(1445893411746)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -285,7 +285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285031136)\/"
+        "Date":  "\/Date(1445893411877)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -301,7 +301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285031266)\/"
+        "Date":  "\/Date(1445893412072)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -309,7 +309,7 @@
         "Cover":  1,
         "TotalCost":  "9.72",
         "Mean":  9.7177777777777763,
-        "AveragePrice":  8.1622222222222227,
+        "AveragePrice":  8.1622222222222209,
         "CurrentPrice":  3.3340000000000005,
         "Minimum":  0.99,
         "Maximum":  21,
@@ -317,7 +317,7 @@
         "AveragePaid":  11.89,
         "AverageNetPaid":  11.89,
         "Stock":  1,
-        "Date":  "\/Date(1445285031466)\/"
+        "Date":  "\/Date(1445893412305)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -333,15 +333,15 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285031659)\/"
+        "Date":  "\/Date(1445893412551)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
         "Issue":  "20A",
         "Cover":  20,
         "TotalCost":  "2.60",
-        "Mean":  2.5999999999999996,
-        "AveragePrice":  2.5999999999999996,
+        "Mean":  2.6,
+        "AveragePrice":  2.6,
         "CurrentPrice":  2.6,
         "Minimum":  2.1,
         "Maximum":  3.6,
@@ -349,14 +349,14 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285031814)\/"
+        "Date":  "\/Date(1445893412727)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
         "Issue":  "21A",
         "Cover":  21,
         "TotalCost":  "2.31",
-        "Mean":  2.3099999999999996,
+        "Mean":  2.31,
         "AveragePrice":  1.8975,
         "CurrentPrice":  1.8975,
         "Minimum":  0.49,
@@ -365,7 +365,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285031960)\/"
+        "Date":  "\/Date(1445893412958)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -381,7 +381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285032097)\/"
+        "Date":  "\/Date(1445893413114)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -397,7 +397,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285032245)\/"
+        "Date":  "\/Date(1445893413242)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -413,7 +413,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285032397)\/"
+        "Date":  "\/Date(1445893413454)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -429,14 +429,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285032521)\/"
+        "Date":  "\/Date(1445893413654)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
         "Issue":  "2A",
         "Cover":  2,
         "TotalCost":  "28.03",
-        "Mean":  28.032857142857143,
+        "Mean":  28.032857142857146,
         "AveragePrice":  26.790714285714284,
         "CurrentPrice":  26.444,
         "Minimum":  10,
@@ -445,7 +445,7 @@
         "AveragePaid":  12.3,
         "AverageNetPaid":  10,
         "Stock":  1,
-        "Date":  "\/Date(1445285032711)\/"
+        "Date":  "\/Date(1445893413837)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -461,7 +461,7 @@
         "AveragePaid":  3.43,
         "AverageNetPaid":  3.43,
         "Stock":  1,
-        "Date":  "\/Date(1445285032851)\/"
+        "Date":  "\/Date(1445893414046)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -477,7 +477,7 @@
         "AveragePaid":  4,
         "AverageNetPaid":  4,
         "Stock":  2,
-        "Date":  "\/Date(1445285033066)\/"
+        "Date":  "\/Date(1445893414394)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -493,7 +493,7 @@
         "AveragePaid":  10.5,
         "AverageNetPaid":  10.5,
         "Stock":  1,
-        "Date":  "\/Date(1445285033260)\/"
+        "Date":  "\/Date(1445893414639)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -509,7 +509,7 @@
         "AveragePaid":  7.65,
         "AverageNetPaid":  7.65,
         "Stock":  1,
-        "Date":  "\/Date(1445285033455)\/"
+        "Date":  "\/Date(1445893414854)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -525,7 +525,7 @@
         "AveragePaid":  5.2399999999999993,
         "AverageNetPaid":  5.2399999999999993,
         "Stock":  3,
-        "Date":  "\/Date(1445285033634)\/"
+        "Date":  "\/Date(1445893415032)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -534,14 +534,14 @@
         "TotalCost":  "8.96",
         "Mean":  8.9608333333333317,
         "AveragePrice":  8.5816666666666652,
-        "CurrentPrice":  8.2139999999999986,
+        "CurrentPrice":  5.414,
         "Minimum":  0.99,
         "Maximum":  16.99,
         "Count":  12,
         "AveragePaid":  6.66,
         "AverageNetPaid":  6.66,
         "Stock":  3,
-        "Date":  "\/Date(1445285033814)\/"
+        "Date":  "\/Date(1445893415226)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -557,7 +557,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1445285033969)\/"
+        "Date":  "\/Date(1445893415427)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -573,7 +573,7 @@
         "AveragePaid":  9.43,
         "AverageNetPaid":  9.43,
         "Stock":  2,
-        "Date":  "\/Date(1445285034148)\/"
+        "Date":  "\/Date(1445893415641)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -589,7 +589,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1445285034291)\/"
+        "Date":  "\/Date(1445893415767)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -605,7 +605,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285034420)\/"
+        "Date":  "\/Date(1445893415904)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -621,14 +621,14 @@
         "AveragePaid":  10,
         "AverageNetPaid":  10,
         "Stock":  1,
-        "Date":  "\/Date(1445285034610)\/"
+        "Date":  "\/Date(1445893416109)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
         "Issue":  "9B",
         "Cover":  9,
         "TotalCost":  "3.19",
-        "Mean":  3.1888888888888887,
+        "Mean":  3.1888888888888891,
         "AveragePrice":  2.9388888888888887,
         "CurrentPrice":  3.7879999999999994,
         "Minimum":  0.99,
@@ -637,7 +637,7 @@
         "AveragePaid":  2.01,
         "AverageNetPaid":  2.01,
         "Stock":  2,
-        "Date":  "\/Date(1445285034799)\/"
+        "Date":  "\/Date(1445893416329)\/"
     },
     {
         "Title":  "PETER PANZERFAUST",
@@ -645,7 +645,7 @@
         "Cover":  0,
         "TotalCost":  "36.80",
         "Mean":  36.803571428571431,
-        "AveragePrice":  34.42,
+        "AveragePrice":  34.420000000000009,
         "CurrentPrice":  31.932,
         "Minimum":  0.99,
         "Maximum":  220,
@@ -653,6 +653,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285035011)\/"
+        "Date":  "\/Date(1445893416581)\/"
     }
 ]

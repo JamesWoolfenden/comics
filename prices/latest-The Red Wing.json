@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285133800)\/"
+        "Date":  "\/Date(1445893520762)\/"
     },
     {
         "Title":  "The Red Wing",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285133931)\/"
+        "Date":  "\/Date(1445893520878)\/"
     },
     {
         "Title":  "The Red Wing",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445285134061)\/"
+        "Date":  "\/Date(1445893520993)\/"
     },
     {
         "Title":  "The Red Wing",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445285134193)\/"
+        "Date":  "\/Date(1445893521108)\/"
     },
     {
         "Title":  "THE RED WING",
@@ -77,14 +77,14 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445285134353)\/"
+        "Date":  "\/Date(1445893521224)\/"
     },
     {
         "Title":  "THE RED WING",
         "Issue":  "SET",
         "Cover":  0,
         "TotalCost":  "6.48",
-        "Mean":  6.4766666666666666,
+        "Mean":  6.4766666666666675,
         "AveragePrice":  4.1516666666666664,
         "CurrentPrice":  4.182,
         "Minimum":  1.5,
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285134518)\/"
+        "Date":  "\/Date(1445893521406)\/"
     },
     {
         "Title":  "THE RED WING",
@@ -109,6 +109,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285134648)\/"
+        "Date":  "\/Date(1445893521514)\/"
     }
 ]

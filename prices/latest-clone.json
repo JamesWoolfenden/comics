@@ -13,14 +13,14 @@
         "AveragePaid":  2.2425,
         "AverageNetPaid":  1.3050000000000002,
         "Stock":  4,
-        "Date":  "\/Date(1445284881020)\/"
+        "Date":  "\/Date(1445893273619)\/"
     },
     {
         "Title":  "CLONE",
         "Issue":  "11",
         "Cover":  11,
         "TotalCost":  "2.13",
-        "Mean":  2.1286392773892771,
+        "Mean":  2.1286392773892766,
         "AveragePrice":  1.5536392773892771,
         "CurrentPrice":  1.3312785547785542,
         "Minimum":  0.49,
@@ -29,7 +29,7 @@
         "AveragePaid":  2.23,
         "AverageNetPaid":  1.83,
         "Stock":  3,
-        "Date":  "\/Date(1445284881205)\/"
+        "Date":  "\/Date(1445893273770)\/"
     },
     {
         "Title":  "CLONE",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1445284881373)\/"
+        "Date":  "\/Date(1445893273900)\/"
     },
     {
         "Title":  "CLONE",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284881564)\/"
+        "Date":  "\/Date(1445893274036)\/"
     },
     {
         "Title":  "CLONE",
@@ -77,15 +77,15 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1445284881749)\/"
+        "Date":  "\/Date(1445893274164)\/"
     },
     {
-        "Title":  "CLONE",
+        "Title":  "clone",
         "Issue":  "15",
         "Cover":  15,
         "TotalCost":  "2.10",
-        "Mean":  2.1024999999999996,
-        "AveragePrice":  2.0191666666666666,
+        "Mean":  2.1025000000000005,
+        "AveragePrice":  2.019166666666667,
         "CurrentPrice":  2.073,
         "Minimum":  0.665,
         "Maximum":  2.95,
@@ -93,7 +93,7 @@
         "AveragePaid":  2.175,
         "AverageNetPaid":  1.925,
         "Stock":  2,
-        "Date":  "\/Date(1445284881917)\/"
+        "Date":  "\/Date(1445893274320)\/"
     },
     {
         "Title":  "CLONE",
@@ -101,7 +101,7 @@
         "Cover":  16,
         "TotalCost":  "1.99",
         "Mean":  1.9929999999999999,
-        "AveragePrice":  1.6630000000000003,
+        "AveragePrice":  1.6629999999999998,
         "CurrentPrice":  1.6629999999999998,
         "Minimum":  0.665,
         "Maximum":  2.25,
@@ -109,7 +109,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445284882078)\/"
+        "Date":  "\/Date(1445893274440)\/"
     },
     {
         "Title":  "CLONE",
@@ -117,7 +117,7 @@
         "Cover":  17,
         "TotalCost":  "2.50",
         "Mean":  2.4961538461538462,
-        "AveragePrice":  2.3730769230769231,
+        "AveragePrice":  2.3730769230769235,
         "CurrentPrice":  2.2399999999999998,
         "Minimum":  0.75,
         "Maximum":  3.2,
@@ -125,7 +125,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445284882273)\/"
+        "Date":  "\/Date(1445893274628)\/"
     },
     {
         "Title":  "CLONE",
@@ -141,7 +141,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284882453)\/"
+        "Date":  "\/Date(1445893274777)\/"
     },
     {
         "Title":  "CLONE",
@@ -157,14 +157,14 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284882627)\/"
+        "Date":  "\/Date(1445893274913)\/"
     },
     {
         "Title":  "CLONE",
         "Issue":  "1A",
         "Cover":  1,
         "TotalCost":  "6.53",
-        "Mean":  6.5287288078588075,
+        "Mean":  6.5287288078588066,
         "AveragePrice":  5.7601288078588082,
         "CurrentPrice":  4.4167272727272726,
         "Minimum":  0.99,
@@ -173,7 +173,7 @@
         "AveragePaid":  2.2600000000000002,
         "AverageNetPaid":  1.92,
         "Stock":  5,
-        "Date":  "\/Date(1445284882917)\/"
+        "Date":  "\/Date(1445893275219)\/"
     },
     {
         "Title":  "CLONE",
@@ -189,7 +189,7 @@
         "AveragePaid":  21.65,
         "AverageNetPaid":  21.65,
         "Stock":  1,
-        "Date":  "\/Date(1445284883060)\/"
+        "Date":  "\/Date(1445893275359)\/"
     },
     {
         "Title":  "CLONE",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284883199)\/"
+        "Date":  "\/Date(1445893275508)\/"
     },
     {
         "Title":  "CLONE",
@@ -221,7 +221,7 @@
         "AveragePaid":  6.5,
         "AverageNetPaid":  6.5,
         "Stock":  1,
-        "Date":  "\/Date(1445284883328)\/"
+        "Date":  "\/Date(1445893275617)\/"
     },
     {
         "Title":  "CLONE",
@@ -237,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284883449)\/"
+        "Date":  "\/Date(1445893275730)\/"
     },
     {
         "Title":  "CLONE",
@@ -253,7 +253,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  2,
-        "Date":  "\/Date(1445284883670)\/"
+        "Date":  "\/Date(1445893275924)\/"
     },
     {
         "Title":  "CLONE",
@@ -269,7 +269,7 @@
         "AveragePaid":  2.6,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284883796)\/"
+        "Date":  "\/Date(1445893276039)\/"
     },
     {
         "Title":  "CLONE",
@@ -277,7 +277,7 @@
         "Cover":  3,
         "TotalCost":  "3.00",
         "Mean":  3.0019179154179163,
-        "AveragePrice":  2.6650758101547583,
+        "AveragePrice":  2.6650758101547578,
         "CurrentPrice":  1.413893939393938,
         "Minimum":  0.49,
         "Maximum":  7.5,
@@ -285,7 +285,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  2,
-        "Date":  "\/Date(1445284884003)\/"
+        "Date":  "\/Date(1445893276240)\/"
     },
     {
         "Title":  "CLONE",
@@ -293,7 +293,7 @@
         "Cover":  4,
         "TotalCost":  "2.72",
         "Mean":  2.7196170588670592,
-        "AveragePrice":  2.4196170588670594,
+        "AveragePrice":  2.4196170588670589,
         "CurrentPrice":  1.7658939393939381,
         "Minimum":  0.49,
         "Maximum":  7.5,
@@ -301,7 +301,7 @@
         "AveragePaid":  2.005,
         "AverageNetPaid":  2.005,
         "Stock":  2,
-        "Date":  "\/Date(1445284884223)\/"
+        "Date":  "\/Date(1445893276437)\/"
     },
     {
         "Title":  "CLONE",
@@ -309,7 +309,7 @@
         "Cover":  5,
         "TotalCost":  "3.16",
         "Mean":  3.1601941912254414,
-        "AveragePrice":  2.8133191912254416,
+        "AveragePrice":  2.8133191912254412,
         "CurrentPrice":  1.942893939393938,
         "Minimum":  0.99,
         "Maximum":  7.5,
@@ -317,7 +317,7 @@
         "AveragePaid":  2.495,
         "AverageNetPaid":  1.62,
         "Stock":  2,
-        "Date":  "\/Date(1445284884425)\/"
+        "Date":  "\/Date(1445893276626)\/"
     },
     {
         "Title":  "CLONE",
@@ -333,7 +333,7 @@
         "AveragePaid":  2.95,
         "AverageNetPaid":  2.95,
         "Stock":  2,
-        "Date":  "\/Date(1445284884623)\/"
+        "Date":  "\/Date(1445893276881)\/"
     },
     {
         "Title":  "CLONE",
@@ -349,7 +349,7 @@
         "AveragePaid":  2.2600000000000002,
         "AverageNetPaid":  1.4100000000000001,
         "Stock":  3,
-        "Date":  "\/Date(1445284884824)\/"
+        "Date":  "\/Date(1445893277085)\/"
     },
     {
         "Title":  "CLONE",
@@ -365,7 +365,7 @@
         "AveragePaid":  2.17,
         "AverageNetPaid":  1.62,
         "Stock":  2,
-        "Date":  "\/Date(1445284885018)\/"
+        "Date":  "\/Date(1445893277272)\/"
     },
     {
         "Title":  "CLONE",
@@ -373,7 +373,7 @@
         "Cover":  9,
         "TotalCost":  "2.09",
         "Mean":  2.090366064491064,
-        "AveragePrice":  1.8528660644910637,
+        "AveragePrice":  1.8528660644910639,
         "CurrentPrice":  1.4134939393939381,
         "Minimum":  0.49,
         "Maximum":  2.95,
@@ -381,7 +381,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  3,
-        "Date":  "\/Date(1445284885221)\/"
+        "Date":  "\/Date(1445893277486)\/"
     },
     {
         "Title":  "CLONE",
@@ -397,6 +397,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284885452)\/"
+        "Date":  "\/Date(1445893277797)\/"
     }
 ]

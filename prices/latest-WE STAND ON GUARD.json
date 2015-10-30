@@ -5,7 +5,7 @@
         "Cover":  1,
         "TotalCost":  "5.06",
         "Mean":  5.05783783783784,
-        "AveragePrice":  4.6408108108108115,
+        "AveragePrice":  4.6408108108108106,
         "CurrentPrice":  3.668,
         "Minimum":  0.99,
         "Maximum":  9.99,
@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285494990)\/"
+        "Date":  "\/Date(1445893881019)\/"
     },
     {
         "Title":  "WE STAND ON GUARD",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285495158)\/"
+        "Date":  "\/Date(1445893881196)\/"
     },
     {
         "Title":  "WE STAND ON GUARD",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1445285495340)\/"
+        "Date":  "\/Date(1445893881351)\/"
     },
     {
         "Title":  "WE STAND ON GUARD",
@@ -61,6 +61,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285495486)\/"
+        "Date":  "\/Date(1445893881518)\/"
     }
 ]

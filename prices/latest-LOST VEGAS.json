@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284981048)\/"
+        "Date":  "\/Date(1445893362924)\/"
     },
     {
         "Title":  "LOST VEGAS",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284981187)\/"
+        "Date":  "\/Date(1445893363055)\/"
     },
     {
         "Title":  "LOST VEGAS",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284981321)\/"
+        "Date":  "\/Date(1445893363170)\/"
     },
     {
         "Title":  "LOST VEGAS",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284981450)\/"
+        "Date":  "\/Date(1445893363283)\/"
     },
     {
         "Title":  "LOST VEGAS",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284981599)\/"
+        "Date":  "\/Date(1445893363404)\/"
     },
     {
         "Title":  "LOST VEGAS",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284981735)\/"
+        "Date":  "\/Date(1445893363509)\/"
     },
     {
         "Title":  "LOST VEGAS",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284981866)\/"
+        "Date":  "\/Date(1445893363612)\/"
     },
     {
         "Title":  "LOST VEGAS",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284982032)\/"
+        "Date":  "\/Date(1445893363726)\/"
     },
     {
         "Title":  "LOST VEGAS",
@@ -141,14 +141,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284982164)\/"
+        "Date":  "\/Date(1445893363835)\/"
     },
     {
         "Title":  "LOST VEGAS",
         "Issue":  "SET",
         "Cover":  0,
         "TotalCost":  "5.19",
-        "Mean":  5.1850000000000014,
+        "Mean":  5.185,
         "AveragePrice":  4.16,
         "CurrentPrice":  4.5920000000000005,
         "Minimum":  0.99,
@@ -157,6 +157,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284982354)\/"
+        "Date":  "\/Date(1445893363957)\/"
     }
 ]

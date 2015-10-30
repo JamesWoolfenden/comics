@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285062555)\/"
+        "Date":  "\/Date(1445893444179)\/"
     },
     {
         "Title":  "RUMBLE",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285062686)\/"
+        "Date":  "\/Date(1445893444286)\/"
     },
     {
         "Title":  "RUMBLE",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285062812)\/"
+        "Date":  "\/Date(1445893444391)\/"
     },
     {
         "Title":  "RUMBLE",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285062952)\/"
+        "Date":  "\/Date(1445893444516)\/"
     },
     {
         "Title":  "RUMBLE",
@@ -77,15 +77,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285063094)\/"
+        "Date":  "\/Date(1445893444628)\/"
     },
     {
         "Title":  "RUMBLE",
         "Issue":  "SET",
         "Cover":  0,
         "TotalCost":  "4.61",
-        "Mean":  4.6063636363636364,
-        "AveragePrice":  2.8654545454545453,
+        "Mean":  4.6063636363636373,
+        "AveragePrice":  2.8654545454545448,
         "CurrentPrice":  3.134,
         "Minimum":  0.99,
         "Maximum":  5,
@@ -93,6 +93,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285063271)\/"
+        "Date":  "\/Date(1445893444772)\/"
     }
 ]

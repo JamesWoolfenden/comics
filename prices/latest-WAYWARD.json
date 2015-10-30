@@ -5,7 +5,7 @@
         "Cover":  1,
         "TotalCost":  "3.57",
         "Mean":  3.5650000000000004,
-        "AveragePrice":  3.4875000000000007,
+        "AveragePrice":  3.4875000000000003,
         "CurrentPrice":  4.3820000000000006,
         "Minimum":  1.99,
         "Maximum":  5.99,
@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285491251)\/"
+        "Date":  "\/Date(1445893877387)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -29,14 +29,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285491385)\/"
+        "Date":  "\/Date(1445893877499)\/"
     },
     {
         "Title":  "WAYWARD",
         "Issue":  "1B",
         "Cover":  1,
         "TotalCost":  "3.74",
-        "Mean":  3.7391666666666672,
+        "Mean":  3.7391666666666663,
         "AveragePrice":  3.215,
         "CurrentPrice":  3.466,
         "Minimum":  2.4,
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285491559)\/"
+        "Date":  "\/Date(1445893877678)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285491739)\/"
+        "Date":  "\/Date(1445893877830)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285491913)\/"
+        "Date":  "\/Date(1445893877982)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285492054)\/"
+        "Date":  "\/Date(1445893878092)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285492234)\/"
+        "Date":  "\/Date(1445893878209)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285492393)\/"
+        "Date":  "\/Date(1445893878323)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285492536)\/"
+        "Date":  "\/Date(1445893878437)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -157,7 +157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285492674)\/"
+        "Date":  "\/Date(1445893878550)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285492797)\/"
+        "Date":  "\/Date(1445893878662)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -189,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285492933)\/"
+        "Date":  "\/Date(1445893878793)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285493063)\/"
+        "Date":  "\/Date(1445893878899)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -221,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285493226)\/"
+        "Date":  "\/Date(1445893879017)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -237,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285493381)\/"
+        "Date":  "\/Date(1445893879145)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -253,7 +253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285493546)\/"
+        "Date":  "\/Date(1445893879324)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -269,7 +269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285493681)\/"
+        "Date":  "\/Date(1445893879460)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -285,7 +285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285493812)\/"
+        "Date":  "\/Date(1445893879629)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -301,7 +301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285493944)\/"
+        "Date":  "\/Date(1445893879774)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -317,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285494074)\/"
+        "Date":  "\/Date(1445893879913)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -333,7 +333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285494208)\/"
+        "Date":  "\/Date(1445893880081)\/"
     },
     {
         "Title":  "WAYWARD",
@@ -341,7 +341,7 @@
         "Cover":  0,
         "TotalCost":  "7.14",
         "Mean":  7.1416666666666657,
-        "AveragePrice":  5.84,
+        "AveragePrice":  5.8400000000000007,
         "CurrentPrice":  6.3379999999999992,
         "Minimum":  0.99,
         "Maximum":  17.99,
@@ -349,6 +349,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285494399)\/"
+        "Date":  "\/Date(1445893880343)\/"
     }
 ]

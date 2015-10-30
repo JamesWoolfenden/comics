@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285295451)\/"
+        "Date":  "\/Date(1445893686936)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285295601)\/"
+        "Date":  "\/Date(1445893687055)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285295743)\/"
+        "Date":  "\/Date(1445893687173)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285295880)\/"
+        "Date":  "\/Date(1445893687279)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285296047)\/"
+        "Date":  "\/Date(1445893687397)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -85,7 +85,7 @@
         "Cover":  1,
         "TotalCost":  "4.75",
         "Mean":  4.7534693877551017,
-        "AveragePrice":  4.109591836734694,
+        "AveragePrice":  4.1095918367346949,
         "CurrentPrice":  2.836,
         "Minimum":  0.99,
         "Maximum":  7.5,
@@ -93,7 +93,7 @@
         "AveragePaid":  2.77,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285296367)\/"
+        "Date":  "\/Date(1445893687677)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -109,14 +109,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285296554)\/"
+        "Date":  "\/Date(1445893687802)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
         "Issue":  "1B",
         "Cover":  1,
         "TotalCost":  "7.13",
-        "Mean":  7.1284615384615373,
+        "Mean":  7.1284615384615382,
         "AveragePrice":  6.5307692307692315,
         "CurrentPrice":  6.934,
         "Minimum":  2.1,
@@ -125,7 +125,7 @@
         "AveragePaid":  2.77,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285296754)\/"
+        "Date":  "\/Date(1445893687970)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -141,14 +141,14 @@
         "AveragePaid":  2.77,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285296977)\/"
+        "Date":  "\/Date(1445893688291)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
         "Issue":  "1DCBS",
         "Cover":  1,
         "TotalCost":  "9.37",
-        "Mean":  9.3677777777777784,
+        "Mean":  9.3677777777777766,
         "AveragePrice":  6.8122222222222222,
         "CurrentPrice":  8.6519999999999975,
         "Minimum":  3.1,
@@ -157,7 +157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285297167)\/"
+        "Date":  "\/Date(1445893688525)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285297339)\/"
+        "Date":  "\/Date(1445893688641)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -189,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285297490)\/"
+        "Date":  "\/Date(1445893688755)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285297632)\/"
+        "Date":  "\/Date(1445893688881)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -221,15 +221,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285297814)\/"
+        "Date":  "\/Date(1445893689064)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
         "Issue":  "1FPSIGNED",
         "Cover":  1,
         "TotalCost":  "9.01",
-        "Mean":  9.009999999999998,
-        "AveragePrice":  7.7071428571428564,
+        "Mean":  9.01,
+        "AveragePrice":  7.7071428571428573,
         "CurrentPrice":  4.2899999999999991,
         "Minimum":  2.26,
         "Maximum":  15,
@@ -237,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285298017)\/"
+        "Date":  "\/Date(1445893689229)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -253,7 +253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285298206)\/"
+        "Date":  "\/Date(1445893689354)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -269,7 +269,7 @@
         "AveragePaid":  8.1,
         "AverageNetPaid":  5.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285298400)\/"
+        "Date":  "\/Date(1445893689473)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -285,7 +285,7 @@
         "AveragePaid":  2.77,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285298668)\/"
+        "Date":  "\/Date(1445893689684)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -301,7 +301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285298865)\/"
+        "Date":  "\/Date(1445893689871)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -317,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285299036)\/"
+        "Date":  "\/Date(1445893689981)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -333,7 +333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285299175)\/"
+        "Date":  "\/Date(1445893690098)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -341,7 +341,7 @@
         "Cover":  3,
         "TotalCost":  "3.52",
         "Mean":  3.5161538461538466,
-        "AveragePrice":  3.0130769230769228,
+        "AveragePrice":  3.0130769230769232,
         "CurrentPrice":  3.558,
         "Minimum":  0.89,
         "Maximum":  4.2,
@@ -349,7 +349,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285299366)\/"
+        "Date":  "\/Date(1445893690287)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -365,7 +365,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285299545)\/"
+        "Date":  "\/Date(1445893690441)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -381,7 +381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285299684)\/"
+        "Date":  "\/Date(1445893690597)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -397,7 +397,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285299859)\/"
+        "Date":  "\/Date(1445893690758)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -413,7 +413,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285300008)\/"
+        "Date":  "\/Date(1445893690869)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -421,7 +421,7 @@
         "Cover":  5,
         "TotalCost":  "2.47",
         "Mean":  2.4725,
-        "AveragePrice":  1.5475000000000003,
+        "AveragePrice":  1.5475,
         "CurrentPrice":  1.778,
         "Minimum":  0.49,
         "Maximum":  2.95,
@@ -429,7 +429,7 @@
         "AveragePaid":  1.7200000000000002,
         "AverageNetPaid":  1.12,
         "Stock":  2,
-        "Date":  "\/Date(1445285300210)\/"
+        "Date":  "\/Date(1445893691009)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -445,7 +445,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285300415)\/"
+        "Date":  "\/Date(1445893691123)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -461,7 +461,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285300591)\/"
+        "Date":  "\/Date(1445893691251)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -477,7 +477,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285300730)\/"
+        "Date":  "\/Date(1445893691377)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -493,7 +493,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  1,
-        "Date":  "\/Date(1445285300890)\/"
+        "Date":  "\/Date(1445893691494)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -509,7 +509,7 @@
         "AveragePaid":  2.45,
         "AverageNetPaid":  1.25,
         "Stock":  1,
-        "Date":  "\/Date(1445285301052)\/"
+        "Date":  "\/Date(1445893691615)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -525,7 +525,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285301211)\/"
+        "Date":  "\/Date(1445893691746)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -541,7 +541,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285301375)\/"
+        "Date":  "\/Date(1445893691867)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -557,7 +557,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285301508)\/"
+        "Date":  "\/Date(1445893691988)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -573,7 +573,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285301661)\/"
+        "Date":  "\/Date(1445893692125)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -589,7 +589,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285301811)\/"
+        "Date":  "\/Date(1445893692268)\/"
     },
     {
         "Title":  "THE WICKED THE DIVINE",
@@ -598,13 +598,13 @@
         "TotalCost":  "14.16",
         "Mean":  14.158103448275861,
         "AveragePrice":  11.974137931034482,
-        "CurrentPrice":  17.637999999999998,
+        "CurrentPrice":  20.598,
         "Minimum":  2,
         "Maximum":  29.99,
         "Count":  58,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285302169)\/"
+        "Date":  "\/Date(1445893692614)\/"
     }
 ]

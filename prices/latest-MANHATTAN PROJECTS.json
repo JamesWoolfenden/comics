@@ -4,7 +4,7 @@
         "Issue":  "10",
         "Cover":  10,
         "TotalCost":  "3.06",
-        "Mean":  3.0600000000000005,
+        "Mean":  3.06,
         "AveragePrice":  2.205,
         "CurrentPrice":  2.374,
         "Minimum":  0.99,
@@ -13,14 +13,14 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  2,
-        "Date":  "\/Date(1445284984120)\/"
+        "Date":  "\/Date(1445893365920)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
         "Issue":  "11",
         "Cover":  11,
         "TotalCost":  "2.79",
-        "Mean":  2.7871428571428569,
+        "Mean":  2.7871428571428574,
         "AveragePrice":  1.8371428571428574,
         "CurrentPrice":  2.176,
         "Minimum":  0.99,
@@ -29,7 +29,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  2,
-        "Date":  "\/Date(1445284984422)\/"
+        "Date":  "\/Date(1445893366049)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  2,
-        "Date":  "\/Date(1445284984586)\/"
+        "Date":  "\/Date(1445893366175)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -53,7 +53,7 @@
         "Cover":  13,
         "TotalCost":  "2.98",
         "Mean":  2.9833333333333334,
-        "AveragePrice":  2.3233333333333328,
+        "AveragePrice":  2.3233333333333333,
         "CurrentPrice":  2.906,
         "Minimum":  0.49,
         "Maximum":  3.59,
@@ -61,7 +61,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  2,
-        "Date":  "\/Date(1445284984776)\/"
+        "Date":  "\/Date(1445893366327)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -77,14 +77,14 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  3,
-        "Date":  "\/Date(1445284984973)\/"
+        "Date":  "\/Date(1445893366476)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
         "Issue":  "15",
         "Cover":  15,
         "TotalCost":  "3.77",
-        "Mean":  3.765,
+        "Mean":  3.7650000000000006,
         "AveragePrice":  3.455,
         "CurrentPrice":  5.004,
         "Minimum":  0.99,
@@ -93,7 +93,7 @@
         "AveragePaid":  2.39,
         "AverageNetPaid":  2.166666666666667,
         "Stock":  3,
-        "Date":  "\/Date(1445284985176)\/"
+        "Date":  "\/Date(1445893366657)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -109,7 +109,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  2,
-        "Date":  "\/Date(1445284985371)\/"
+        "Date":  "\/Date(1445893366867)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -122,10 +122,10 @@
         "Minimum":  0.3,
         "Maximum":  3.25,
         "Count":  17,
-        "AveragePaid":  2.2666666666666666,
-        "AverageNetPaid":  2.2666666666666666,
+        "AveragePaid":  2.2666666666666671,
+        "AverageNetPaid":  2.2666666666666671,
         "Stock":  3,
-        "Date":  "\/Date(1445284985559)\/"
+        "Date":  "\/Date(1445893367036)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -133,7 +133,7 @@
         "Cover":  18,
         "TotalCost":  "2.32",
         "Mean":  2.3153333333333332,
-        "AveragePrice":  1.9840000000000002,
+        "AveragePrice":  1.9839999999999998,
         "CurrentPrice":  2.338,
         "Minimum":  0.3,
         "Maximum":  3.25,
@@ -141,7 +141,7 @@
         "AveragePaid":  2.4850000000000003,
         "AverageNetPaid":  2.1500000000000004,
         "Stock":  2,
-        "Date":  "\/Date(1445284985729)\/"
+        "Date":  "\/Date(1445893367216)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.4000000000000004,
         "AverageNetPaid":  2.1500000000000004,
         "Stock":  2,
-        "Date":  "\/Date(1445284985885)\/"
+        "Date":  "\/Date(1445893367419)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -173,7 +173,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  2,
-        "Date":  "\/Date(1445284986079)\/"
+        "Date":  "\/Date(1445893367620)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -189,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284986210)\/"
+        "Date":  "\/Date(1445893367743)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -205,14 +205,14 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  2,
-        "Date":  "\/Date(1445284986366)\/"
+        "Date":  "\/Date(1445893367883)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
         "Issue":  "1C",
         "Cover":  1,
         "TotalCost":  "3.62",
-        "Mean":  3.62,
+        "Mean":  3.6199999999999992,
         "AveragePrice":  2.5154545454545456,
         "CurrentPrice":  3.166,
         "Minimum":  0.99,
@@ -221,7 +221,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  2,
-        "Date":  "\/Date(1445284986531)\/"
+        "Date":  "\/Date(1445893368027)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -237,7 +237,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284986729)\/"
+        "Date":  "\/Date(1445893368180)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -253,7 +253,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284986863)\/"
+        "Date":  "\/Date(1445893368295)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -261,7 +261,7 @@
         "Cover":  20,
         "TotalCost":  "2.69",
         "Mean":  2.6897222222222226,
-        "AveragePrice":  2.125,
+        "AveragePrice":  2.1250000000000004,
         "CurrentPrice":  1.736,
         "Minimum":  0.75,
         "Maximum":  3.5,
@@ -269,7 +269,7 @@
         "AveragePaid":  2.3375000000000004,
         "AverageNetPaid":  2.1500000000000004,
         "Stock":  2,
-        "Date":  "\/Date(1445284987081)\/"
+        "Date":  "\/Date(1445893368487)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -285,7 +285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284987213)\/"
+        "Date":  "\/Date(1445893368603)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -301,7 +301,7 @@
         "AveragePaid":  2.77,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445284987387)\/"
+        "Date":  "\/Date(1445893368788)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -317,7 +317,7 @@
         "AveragePaid":  2.77,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445284987555)\/"
+        "Date":  "\/Date(1445893368925)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -333,7 +333,7 @@
         "AveragePaid":  2.685,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445284987732)\/"
+        "Date":  "\/Date(1445893369083)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -349,7 +349,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284987918)\/"
+        "Date":  "\/Date(1445893369243)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -365,7 +365,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284988064)\/"
+        "Date":  "\/Date(1445893369368)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -381,7 +381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284988214)\/"
+        "Date":  "\/Date(1445893369485)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -397,7 +397,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  3,
-        "Date":  "\/Date(1445284988376)\/"
+        "Date":  "\/Date(1445893369647)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -413,14 +413,14 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  2,
-        "Date":  "\/Date(1445284988532)\/"
+        "Date":  "\/Date(1445893369837)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
         "Issue":  "3",
         "Cover":  3,
         "TotalCost":  "4.06",
-        "Mean":  4.055,
+        "Mean":  4.0550000000000006,
         "AveragePrice":  2.83,
         "CurrentPrice":  2.83,
         "Minimum":  0.65,
@@ -429,15 +429,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284988677)\/"
+        "Date":  "\/Date(1445893369958)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
         "Issue":  "3A",
         "Cover":  3,
         "TotalCost":  "3.18",
-        "Mean":  3.1800000000000006,
-        "AveragePrice":  2.4855555555555555,
+        "Mean":  3.1799999999999997,
+        "AveragePrice":  2.4855555555555551,
         "CurrentPrice":  2.028,
         "Minimum":  1.04,
         "Maximum":  5,
@@ -445,7 +445,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  3,
-        "Date":  "\/Date(1445284988879)\/"
+        "Date":  "\/Date(1445893370142)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -461,7 +461,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284989011)\/"
+        "Date":  "\/Date(1445893370251)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -477,7 +477,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284989139)\/"
+        "Date":  "\/Date(1445893370361)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -485,7 +485,7 @@
         "Cover":  4,
         "TotalCost":  "2.14",
         "Mean":  2.14,
-        "AveragePrice":  1.4309090909090911,
+        "AveragePrice":  1.4309090909090909,
         "CurrentPrice":  1.032,
         "Minimum":  0.49,
         "Maximum":  2.2,
@@ -493,7 +493,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  4,
-        "Date":  "\/Date(1445284989326)\/"
+        "Date":  "\/Date(1445893370544)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -509,7 +509,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284989458)\/"
+        "Date":  "\/Date(1445893370665)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -517,7 +517,7 @@
         "Cover":  5,
         "TotalCost":  "2.80",
         "Mean":  2.8009999999999997,
-        "AveragePrice":  2.3059999999999996,
+        "AveragePrice":  2.306,
         "CurrentPrice":  2.2960000000000003,
         "Minimum":  0.49,
         "Maximum":  5.99,
@@ -525,7 +525,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  3,
-        "Date":  "\/Date(1445284989639)\/"
+        "Date":  "\/Date(1445893370851)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -541,7 +541,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  2,
-        "Date":  "\/Date(1445284989832)\/"
+        "Date":  "\/Date(1445893371027)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -549,7 +549,7 @@
         "Cover":  7,
         "TotalCost":  "3.61",
         "Mean":  3.6109090909090913,
-        "AveragePrice":  2.9472727272727268,
+        "AveragePrice":  2.9472727272727273,
         "CurrentPrice":  2.46,
         "Minimum":  0.99,
         "Maximum":  9.5,
@@ -557,7 +557,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  3,
-        "Date":  "\/Date(1445284990015)\/"
+        "Date":  "\/Date(1445893371198)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -573,15 +573,15 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  2,
-        "Date":  "\/Date(1445284990196)\/"
+        "Date":  "\/Date(1445893371376)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
         "Issue":  "9",
         "Cover":  9,
         "TotalCost":  "2.64",
-        "Mean":  2.6437500000000003,
-        "AveragePrice":  2.0125,
+        "Mean":  2.64375,
+        "AveragePrice":  2.0124999999999997,
         "CurrentPrice":  1.4220000000000002,
         "Minimum":  0.49,
         "Maximum":  4.04,
@@ -589,7 +589,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  2,
-        "Date":  "\/Date(1445284990371)\/"
+        "Date":  "\/Date(1445893371536)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -605,7 +605,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284990498)\/"
+        "Date":  "\/Date(1445893371652)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -614,14 +614,14 @@
         "TotalCost":  "19.16",
         "Mean":  19.158625000000004,
         "AveragePrice":  15.886500000000003,
-        "CurrentPrice":  9.3099999999999987,
+        "CurrentPrice":  15.874,
         "Minimum":  0.49,
         "Maximum":  43,
         "Count":  80,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284990883)\/"
+        "Date":  "\/Date(1445893372049)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -637,7 +637,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284991033)\/"
+        "Date":  "\/Date(1445893372202)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -653,7 +653,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284991168)\/"
+        "Date":  "\/Date(1445893372326)\/"
     },
     {
         "Title":  "MANHATTAN PROJECTS",
@@ -669,6 +669,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284991293)\/"
+        "Date":  "\/Date(1445893372442)\/"
     }
 ]

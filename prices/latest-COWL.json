@@ -5,7 +5,7 @@
         "Cover":  1,
         "TotalCost":  "4.67",
         "Mean":  4.6725,
-        "AveragePrice":  4.0305,
+        "AveragePrice":  4.0305000000000009,
         "CurrentPrice":  5.2840000000000007,
         "Minimum":  0.99,
         "Maximum":  9.85,
@@ -13,7 +13,7 @@
         "AveragePaid":  2.5,
         "AverageNetPaid":  2.5,
         "Stock":  2,
-        "Date":  "\/Date(1445284888895)\/"
+        "Date":  "\/Date(1445893281650)\/"
     },
     {
         "Title":  "COWL",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284889028)\/"
+        "Date":  "\/Date(1445893281848)\/"
     },
     {
         "Title":  "COWL",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284889203)\/"
+        "Date":  "\/Date(1445893282077)\/"
     },
     {
         "Title":  "COWL",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284889357)\/"
+        "Date":  "\/Date(1445893282295)\/"
     },
     {
         "Title":  "COWL",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284889478)\/"
+        "Date":  "\/Date(1445893282403)\/"
     },
     {
         "Title":  "COWL",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284889634)\/"
+        "Date":  "\/Date(1445893282560)\/"
     },
     {
         "Title":  "COWL",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284889766)\/"
+        "Date":  "\/Date(1445893282786)\/"
     },
     {
         "Title":  "COWL",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284889888)\/"
+        "Date":  "\/Date(1445893282952)\/"
     },
     {
         "Title":  "COWL",
@@ -141,6 +141,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284890051)\/"
+        "Date":  "\/Date(1445893283178)\/"
     }
 ]

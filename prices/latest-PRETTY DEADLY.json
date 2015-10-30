@@ -5,7 +5,7 @@
         "Cover":  1,
         "TotalCost":  "3.38",
         "Mean":  3.3831818181818178,
-        "AveragePrice":  2.7536363636363639,
+        "AveragePrice":  2.7536363636363643,
         "CurrentPrice":  1.2440000000000002,
         "Minimum":  0.25,
         "Maximum":  16.99,
@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285036707)\/"
+        "Date":  "\/Date(1445893418608)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -29,7 +29,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285036836)\/"
+        "Date":  "\/Date(1445893418747)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285037016)\/"
+        "Date":  "\/Date(1445893418962)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285037140)\/"
+        "Date":  "\/Date(1445893419091)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285037268)\/"
+        "Date":  "\/Date(1445893419334)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285037392)\/"
+        "Date":  "\/Date(1445893419526)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285037522)\/"
+        "Date":  "\/Date(1445893419705)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -125,7 +125,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445285037673)\/"
+        "Date":  "\/Date(1445893419906)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285037797)\/"
+        "Date":  "\/Date(1445893420036)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -157,7 +157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285037918)\/"
+        "Date":  "\/Date(1445893420162)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285038076)\/"
+        "Date":  "\/Date(1445893420424)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -189,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285038204)\/"
+        "Date":  "\/Date(1445893420573)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285038334)\/"
+        "Date":  "\/Date(1445893420735)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -221,7 +221,7 @@
         "AveragePaid":  2.19,
         "AverageNetPaid":  0.99,
         "Stock":  1,
-        "Date":  "\/Date(1445285038519)\/"
+        "Date":  "\/Date(1445893420983)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -237,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285038699)\/"
+        "Date":  "\/Date(1445893421175)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -245,7 +245,7 @@
         "Cover":  4,
         "TotalCost":  "2.56",
         "Mean":  2.5554545454545452,
-        "AveragePrice":  1.7190909090909094,
+        "AveragePrice":  1.719090909090909,
         "CurrentPrice":  2.036,
         "Minimum":  0.49,
         "Maximum":  3.45,
@@ -253,14 +253,14 @@
         "AveragePaid":  2.19,
         "AverageNetPaid":  0.99,
         "Stock":  1,
-        "Date":  "\/Date(1445285038878)\/"
+        "Date":  "\/Date(1445893421414)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
         "Issue":  "5",
         "Cover":  5,
         "TotalCost":  "2.79",
-        "Mean":  2.7911111111111118,
+        "Mean":  2.7911111111111109,
         "AveragePrice":  2.3077777777777779,
         "CurrentPrice":  1.6560000000000001,
         "Minimum":  1.2,
@@ -269,7 +269,7 @@
         "AveragePaid":  2.45,
         "AverageNetPaid":  1.25,
         "Stock":  1,
-        "Date":  "\/Date(1445285039043)\/"
+        "Date":  "\/Date(1445893421661)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -285,15 +285,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285039169)\/"
+        "Date":  "\/Date(1445893421777)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
         "Issue":  "SET",
         "Cover":  0,
         "TotalCost":  "7.00",
-        "Mean":  6.9993749999999979,
-        "AveragePrice":  4.8340625,
+        "Mean":  6.9993749999999988,
+        "AveragePrice":  4.834062499999999,
         "CurrentPrice":  4.0980000000000008,
         "Minimum":  0.99,
         "Maximum":  16,
@@ -301,7 +301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285039416)\/"
+        "Date":  "\/Date(1445893422047)\/"
     },
     {
         "Title":  "PRETTY DEADLY",
@@ -317,6 +317,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445285039559)\/"
+        "Date":  "\/Date(1445893422197)\/"
     }
 ]

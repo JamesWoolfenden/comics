@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284890528)\/"
+        "Date":  "\/Date(1445893283848)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284890650)\/"
+        "Date":  "\/Date(1445893284070)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284890768)\/"
+        "Date":  "\/Date(1445893284202)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -61,14 +61,14 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284890885)\/"
+        "Date":  "\/Date(1445893284353)\/"
     },
     {
         "Title":  "CRIMINAL",
         "Issue":  "DELUXE VOL1",
         "Cover":  1,
         "TotalCost":  "21.81",
-        "Mean":  21.8075,
+        "Mean":  21.807499999999997,
         "AveragePrice":  16.1275,
         "CurrentPrice":  16.1275,
         "Minimum":  9.53,
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284891021)\/"
+        "Date":  "\/Date(1445893284545)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284891142)\/"
+        "Date":  "\/Date(1445893284682)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284891310)\/"
+        "Date":  "\/Date(1445893284895)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -125,7 +125,7 @@
         "AveragePaid":  2.75,
         "AverageNetPaid":  2.75,
         "Stock":  1,
-        "Date":  "\/Date(1445284891448)\/"
+        "Date":  "\/Date(1445893285039)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -141,7 +141,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284891579)\/"
+        "Date":  "\/Date(1445893285250)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -157,7 +157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284891721)\/"
+        "Date":  "\/Date(1445893285417)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -173,7 +173,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284891857)\/"
+        "Date":  "\/Date(1445893285524)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -189,7 +189,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284892010)\/"
+        "Date":  "\/Date(1445893285669)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284892231)\/"
+        "Date":  "\/Date(1445893285897)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -221,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284892410)\/"
+        "Date":  "\/Date(1445893286050)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -237,7 +237,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284892536)\/"
+        "Date":  "\/Date(1445893286160)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -253,7 +253,7 @@
         "AveragePaid":  2.19,
         "AverageNetPaid":  0.99,
         "Stock":  1,
-        "Date":  "\/Date(1445284892659)\/"
+        "Date":  "\/Date(1445893286274)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -269,7 +269,7 @@
         "AveragePaid":  2.19,
         "AverageNetPaid":  0.99,
         "Stock":  1,
-        "Date":  "\/Date(1445284892784)\/"
+        "Date":  "\/Date(1445893286406)\/"
     },
     {
         "Title":  "CRIMINAL",
@@ -285,6 +285,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284892905)\/"
+        "Date":  "\/Date(1445893286522)\/"
     }
 ]

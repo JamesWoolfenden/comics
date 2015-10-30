@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284992927)\/"
+        "Date":  "\/Date(1445893374358)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284993069)\/"
+        "Date":  "\/Date(1445893374481)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284993212)\/"
+        "Date":  "\/Date(1445893374605)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284993353)\/"
+        "Date":  "\/Date(1445893374723)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284993481)\/"
+        "Date":  "\/Date(1445893374836)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -93,7 +93,7 @@
         "AveragePaid":  2.8,
         "AverageNetPaid":  2.8,
         "Stock":  2,
-        "Date":  "\/Date(1445284993843)\/"
+        "Date":  "\/Date(1445893375251)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284994032)\/"
+        "Date":  "\/Date(1445893375405)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -125,7 +125,7 @@
         "AveragePaid":  3.65,
         "AverageNetPaid":  3.65,
         "Stock":  1,
-        "Date":  "\/Date(1445284994161)\/"
+        "Date":  "\/Date(1445893375525)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -141,7 +141,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284994294)\/"
+        "Date":  "\/Date(1445893375645)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -149,7 +149,7 @@
         "Cover":  1,
         "TotalCost":  "2.12",
         "Mean":  2.1175,
-        "AveragePrice":  1.5766666666666669,
+        "AveragePrice":  1.5766666666666664,
         "CurrentPrice":  1.586,
         "Minimum":  0.49,
         "Maximum":  4.99,
@@ -157,7 +157,7 @@
         "AveragePaid":  0.75,
         "AverageNetPaid":  0.75,
         "Stock":  4,
-        "Date":  "\/Date(1445284994486)\/"
+        "Date":  "\/Date(1445893375814)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -173,15 +173,15 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284994614)\/"
+        "Date":  "\/Date(1445893375925)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
         "Issue":  "2A",
         "Cover":  2,
         "TotalCost":  "6.28",
-        "Mean":  6.2835766045548631,
-        "AveragePrice":  5.9683592132505163,
+        "Mean":  6.2835766045548613,
+        "AveragePrice":  5.9683592132505154,
         "CurrentPrice":  11.443999999999999,
         "Minimum":  1.04,
         "Maximum":  15,
@@ -189,7 +189,7 @@
         "AveragePaid":  1.8800000000000001,
         "AverageNetPaid":  1.7800000000000002,
         "Stock":  3,
-        "Date":  "\/Date(1445284994877)\/"
+        "Date":  "\/Date(1445893376216)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284995005)\/"
+        "Date":  "\/Date(1445893376337)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -221,7 +221,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  2,
-        "Date":  "\/Date(1445284995175)\/"
+        "Date":  "\/Date(1445893376463)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -229,7 +229,7 @@
         "Cover":  3,
         "TotalCost":  "5.87",
         "Mean":  5.8665362811791359,
-        "AveragePrice":  5.4510600907029465,
+        "AveragePrice":  5.4510600907029456,
         "CurrentPrice":  6.522,
         "Minimum":  0.99,
         "Maximum":  11.99,
@@ -237,7 +237,7 @@
         "AveragePaid":  2.3125,
         "AverageNetPaid":  1.8875000000000002,
         "Stock":  4,
-        "Date":  "\/Date(1445284995435)\/"
+        "Date":  "\/Date(1445893376872)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -253,14 +253,14 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284995567)\/"
+        "Date":  "\/Date(1445893376985)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
         "Issue":  "3EXPO",
         "Cover":  3,
         "TotalCost":  "13.97",
-        "Mean":  13.974444444444446,
+        "Mean":  13.974444444444444,
         "AveragePrice":  11.30777777777778,
         "CurrentPrice":  9.156,
         "Minimum":  5.5,
@@ -269,14 +269,14 @@
         "AveragePaid":  9.5,
         "AverageNetPaid":  6.5,
         "Stock":  1,
-        "Date":  "\/Date(1445284995743)\/"
+        "Date":  "\/Date(1445893377165)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
         "Issue":  "4A",
         "Cover":  4,
         "TotalCost":  "4.90",
-        "Mean":  4.9048845598845592,
+        "Mean":  4.9048845598845583,
         "AveragePrice":  4.61761183261183,
         "CurrentPrice":  4.9715714285714281,
         "Minimum":  0.99,
@@ -285,15 +285,15 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  3,
-        "Date":  "\/Date(1445284995977)\/"
+        "Date":  "\/Date(1445893377390)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
         "Issue":  "5A",
         "Cover":  5,
         "TotalCost":  "3.79",
-        "Mean":  3.78592132505176,
-        "AveragePrice":  3.7641821946169771,
+        "Mean":  3.7859213250517594,
+        "AveragePrice":  3.7641821946169767,
         "CurrentPrice":  3.1755714285714278,
         "Minimum":  1.75,
         "Maximum":  10,
@@ -301,7 +301,7 @@
         "AveragePaid":  2.15,
         "AverageNetPaid":  1.9833333333333334,
         "Stock":  3,
-        "Date":  "\/Date(1445284996181)\/"
+        "Date":  "\/Date(1445893377619)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -309,7 +309,7 @@
         "Cover":  6,
         "TotalCost":  "3.12",
         "Mean":  3.1216476190476188,
-        "AveragePrice":  2.958647619047619,
+        "AveragePrice":  2.9586476190476185,
         "CurrentPrice":  2.688,
         "Minimum":  0.3,
         "Maximum":  5.25285714285714,
@@ -317,7 +317,7 @@
         "AveragePaid":  2.35625,
         "AverageNetPaid":  1.6625,
         "Stock":  4,
-        "Date":  "\/Date(1445284996394)\/"
+        "Date":  "\/Date(1445893377832)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -333,7 +333,7 @@
         "AveragePaid":  1.1,
         "AverageNetPaid":  1.1,
         "Stock":  2,
-        "Date":  "\/Date(1445284996540)\/"
+        "Date":  "\/Date(1445893377962)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -349,7 +349,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284996741)\/"
+        "Date":  "\/Date(1445893378128)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -357,7 +357,7 @@
         "Cover":  7,
         "TotalCost":  "4.80",
         "Mean":  4.7988095238095232,
-        "AveragePrice":  4.0607142857142868,
+        "AveragePrice":  4.0607142857142859,
         "CurrentPrice":  4.4060000000000006,
         "Minimum":  0,
         "Maximum":  9.95,
@@ -365,7 +365,7 @@
         "AveragePaid":  1.6500000000000001,
         "AverageNetPaid":  1.6500000000000001,
         "Stock":  4,
-        "Date":  "\/Date(1445284996950)\/"
+        "Date":  "\/Date(1445893378334)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -381,7 +381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284997080)\/"
+        "Date":  "\/Date(1445893378451)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -397,7 +397,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1445284997244)\/"
+        "Date":  "\/Date(1445893378617)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -413,7 +413,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284997380)\/"
+        "Date":  "\/Date(1445893378737)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -429,7 +429,7 @@
         "AveragePaid":  11.99,
         "AverageNetPaid":  11.99,
         "Stock":  1,
-        "Date":  "\/Date(1445284997540)\/"
+        "Date":  "\/Date(1445893378879)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -445,7 +445,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284997673)\/"
+        "Date":  "\/Date(1445893379001)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -461,7 +461,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284997797)\/"
+        "Date":  "\/Date(1445893379130)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -477,7 +477,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284997937)\/"
+        "Date":  "\/Date(1445893379249)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -493,7 +493,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1445284998124)\/"
+        "Date":  "\/Date(1445893379428)\/"
     },
     {
         "Title":  "MANIFEST DESTINY",
@@ -509,6 +509,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1445284998419)\/"
+        "Date":  "\/Date(1445893379712)\/"
     }
 ]
