@@ -67,7 +67,7 @@ function split-set
    }
 }
 
-function viewer
+function Viewer
 {
    param($record)
 
@@ -81,7 +81,7 @@ function viewer
          }
          "ebid"
          {
-            $ie=view-url $($record.link)
+            $ie=View-URL -url $($record.link)
          }
          default
          {

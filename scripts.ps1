@@ -205,7 +205,11 @@ function view
 
 function View-URL
 {
-   param($url)
+   param
+	(
+		[Parameter(Mandatory=$true)]
+		[string]$url)
+
    $IE=new-object -com internetexplorer.application
    $IE.Top   =10
    $IE.Left  =10

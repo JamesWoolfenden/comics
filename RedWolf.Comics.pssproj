@@ -4,7 +4,8 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <ProjectGuid>{B9C312EB-B590-43E3-8B6C-7E83B3445028}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <Name>Comics</Name>
+    <Name>RedWolf.Comics</Name>
+    <ProjectHome />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

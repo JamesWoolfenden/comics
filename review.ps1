@@ -1,7 +1,10 @@
 
-function view-record
+function View-Record
 {
-   param([PSObject]$record)
+   param
+	(
+	   [Parameter(Mandatory=$true)]
+	   [PSObject]$record)
 
    #$ie=new-object -com internetexplorer.application
    
@@ -15,7 +18,7 @@ function view-record
          }
          "EBID"
          {
-            $ie=view-url $record.link
+            $ie=View-URL -URL $record.link
          }
          default
          {
@@ -44,7 +47,7 @@ function Update-Record
    $estimate=$null
    $seller  =$null
 
-   $ie=view-record $record     
+   $ie=View-Record $record     
 
    switch($record.site.ToUpper())
    {
@@ -61,7 +64,7 @@ function Update-Record
                write-host "Postage cannot be estimated"
             }
            
-            $seller=get-ebaysellerfromie -ie $ie -record $record
+            $seller=Get-EbaySellerFromIE -ie $ie -record $record
          }
          catch
          {
@@ -400,8 +403,8 @@ function set-issue
           }
           
           write-verbose "Tempstring $tempstring $($tempstring.GetType())"
-          write-verbose "guess-title -title $title -issue $estimateIssue"
-          $estimateIssue=guess-title -title $title -issue $estimateIssue
+          write-verbose "GuessTitle -title $title -issue $estimateIssue"
+          $estimateIssue=GuessTitle -title $title -issue $estimateIssue
           write-verbose "After estimate $estimateIssue"
       }
       else
@@ -427,7 +430,7 @@ function set-issue
             }
            
             write-host "Before estimate estimateIssue $estimateIssue"
-            $estimateIssue=guess-title -title $title -issue "$estimateIssue"
+            $estimateIssue=GuessTitle -title $title -issue "$estimateIssue"
             write-verbose "After estimate $estimateIssue"
          }
          else
@@ -444,7 +447,7 @@ function set-issue
             $estimateIssue=($rawtitle -replace("\D",""))
             if ($estimateIssue)
             {
-               $estimateIssue=guess-title -title $title -issue $estimateIssue
+               $estimateIssue=GuessTitle -title $title -issue $estimateIssue
             }
             else
             {
@@ -487,7 +490,7 @@ function set-issue
    $estimateIssue
  }  
 
-function guess-title
+function GuessTitle
 {
     param(
     [Parameter(Mandatory=$true)]
@@ -537,9 +540,11 @@ function Get-EbidSellerIE
    {
       #$seller=($ie.Document.body.document.body.getElementsByTagName('a')| where{$_.innerHTML -eq "All about the seller"}).nameProp
       #$result=@($ie[1].Document.body.getElementsByClassName('t10 l5 f4 center'))
-      $result=@($ie[1].Document.body.getElementsByClassName('col-md-4 col-sm-12 clearfix nobottommargin center'))
+      #$result=@($ie[1].Document.body.getElementsByClassName('col-md-4 col-sm-12 clearfix nobottommargin center'))
+	  $result=@($ie[1].Document.body.getElementsByClassName('fs-14'))
       
-      [string]$seller=($result.textContent.trim() -split(' '))[0]
+      #[string]$seller=($result.textContent.trim() -split(' '))[0]
+	  $seller=$result.Innertext[1].Split('(')[0]
 	  Write-host "Seller: $seller"
    }
    catch
@@ -551,7 +556,7 @@ function Get-EbidSellerIE
    $seller
 }
 
-function get-ebaysellerfromie
+function Get-EbaySellerFromIE
 {
    param(
    [Parameter(Mandatory=$true)]
