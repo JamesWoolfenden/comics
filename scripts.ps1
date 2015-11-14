@@ -1,6 +1,6 @@
 $imageroot= "$PSScriptRoot\covers"
 
-import-module "$PSScriptRoot\modules\update-records.psd1" -force
+import-module "$PSScriptRoot\modules\Update-Records.psd1" -force
 import-module "$PSScriptRoot\modules\object-helper.ps1"
 import-module "$PSScriptRoot\rss\EbayRssPowershellModule.psm1" -force
 import-module "$PSScriptRoot\modules\database.psd1" -force
@@ -11,9 +11,6 @@ import-module "$PSScriptRoot\modules\watch.psd1"
 import-module "$PSScriptRoot\core.ps1"
 import-module "$PSScriptRoot\modules\search-data.psd1" -force
 import-module "$PSScriptRoot\review.ps1"
-
-
-
 
 function waitforpageload {
     while ($ie.Busy -eq $true) { Start-Sleep -Milliseconds 1000; } 
@@ -154,6 +151,8 @@ function add-array
           }
       }
       
+	  Write-Host ""
+
       if ($count)
       {
          "`nAdded $count record(s)"
@@ -204,9 +203,13 @@ function view
    $IE
 }
 
-function view-url
+function View-URL
 {
-   param($url)
+   param
+	(
+		[Parameter(Mandatory=$true)]
+		[string]$url)
+
    $IE=new-object -com internetexplorer.application
    $IE.Top   =10
    $IE.Left  =10
@@ -251,7 +254,7 @@ function view-market
    }
 }
 
-function update-recordset
+function Update-Recordset
 {
   <#
       .SYNOPSIS 
@@ -267,7 +270,7 @@ function update-recordset
     An override to see comics in a certain status e.g. CLOSED.
         
       .EXAMPLE
-      C:\PS> update-recordset -title "The Walking Dead" -issue "1A" 
+      C:\PS> Update-Recordset -title "The Walking Dead" -issue "1A" 
       
       .EXAMPLE
       C:\PS> ur -title "The Walking Dead" -issue "1A" 
@@ -337,7 +340,7 @@ function update-recordset
          }
          else 
          {
-           update-record $record 
+           Update-Record $record 
          }
          
          $counter++
@@ -372,7 +375,7 @@ function Finalize-Records
    {
       foreach($record in $results)
       {
-         $result=update-record $record 
+         $result=Update-Record $record 
          if (!$result)
          {
             Write-Host "$(Get-date) - Finalise record failure expired"
@@ -386,7 +389,7 @@ function Finalize-Records
    }
 }
 
-function update-open
+function Update-Open
 {
 	<#
       .SYNOPSIS 
@@ -398,7 +401,8 @@ function update-open
       C:\PS>  uo chew
    #>
    param(
-	   [string]$title=$NULL)
+	   [string]$title=$NULL,
+       [switch]$sort)
       
    if ($title)
    {
@@ -409,10 +413,15 @@ function update-open
       $query="where status='open'"
    }
    
+   if ($sort)
+   {
+      $query+=" order by title"
+   }
+
    $results=search-db $query
    $count=1
 
-   if ($results -eq "" -or $results -eq $Null)
+   If (!$results)
    { 
       return "None found."
    }
@@ -430,7 +439,7 @@ function update-open
       foreach($record in $results)
       {
          write-host "Record $index of $count"
-         update-record $record 
+         Update-Record $record 
          $index ++
       }
    }
@@ -441,7 +450,7 @@ function update-open
    }
 }
 
-function clean-string
+function Clean-String
 {
    param([string]$dirty)
    
@@ -449,16 +458,15 @@ function clean-string
    $clean.substring(0, [System.Math]::Min(250, $clean.Length))
 }
 
-function get-ebidresults
+function Get-EBidResults
 {
    param([string]$url)
    
    write-verbose "Getting $url"
-   $Results = invoke-restmethod -uri "$url"
-   $Results 
+   invoke-restmethod -uri "$url"
 }
 
-function add-ebidarray
+function Add-EBidArray
 {
    param(
    [psobject]$results,
@@ -478,6 +486,8 @@ function add-ebidarray
           write-host "`t`rSkipping $($record.id)" -nonewline -foregroundcolor yellow
        }
    }
+   
+	Write-Host ""
 }
 
 function add-ebid 
@@ -622,7 +632,7 @@ function closing-record
    [Parameter(Mandatory=$true)]
    [string]$Issue)
    
-   update-recordset -title $title -Issue $Issue -sortby DateOfSale
+   Update-Recordset -title $title -Issue $Issue -sortby DateOfSale
 }
 
 function reduce
@@ -734,21 +744,29 @@ function get-allrecords
    write-verbose "`r`nComplete."
 }
 
-function open-covers
+function Open-Covers
 {
+  <#
+      .SYNOPSIS 
+       Opens location where a comics cover images are stored
+        
+      .EXAMPLE
+      C:\PS> open-covers -title "The Walking Dead" -issue 1
+      
+   #>
    param(
    [string]$title=$null,
    [string]$issue)
   
    $padtitle=$title -replace(" ","-")
-   $path= "c:\comics\covers\$padtitle\$issue"
+   $path= "f:\comics\covers\$padtitle\$issue"
    Write-host "Opening $path"
    & explorer "`"$path`""  
 }
 
 new-alias gb get-bestbuy -force
 new-alias fr Finalize-Records -force
-new-alias ur update-recordset -force
+new-alias ur Update-Recordset -force
 new-alias np c:\windows\notepad.exe -force
 new-alias cr closing-record -force  
 new-alias ep get-priceestimate -force

@@ -1,4 +1,4 @@
-function scan
+function Scan
 {
    <#
       .SYNOPSIS 
@@ -9,7 +9,8 @@ function scan
       This loads the search json db and scan ebay and ebid.
    #>
 
-   param([string]$title)
+   param(
+	   [string]$title)
 
    $searches=(Get-Content "$PSScriptRoot\search-data.json") -join "`n" |ConvertFrom-Json
 
@@ -118,7 +119,7 @@ function clean-records
 
    foreach($record in $records)
    {
-      update-record $record
+      Update-Record $record
    }  
 }
 
@@ -285,7 +286,7 @@ function update-set
 
    foreach($record in $results)
    {
-      update-record $record 
+      Update-Record $record 
    }
 }
 

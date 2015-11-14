@@ -1,11 +1,12 @@
 $script:datafile="$PSScriptRoot\..\search-data.json"
 
+New-Alias -Name New-SearchData -Value Add-SearchData
 
 function Initialize-SearchData
 {
 <#
       .SYNOPSIS 
-    Given some string properties this returns a search csutom object             
+    Given some string properties this returns a search custom object             
       .PARAMETER title
     Specifies the comic title.
       .PARAMETER include
@@ -197,7 +198,7 @@ function Get-SearchData
    }
 }   
 
-function remove-SearchData
+function Remove-SearchData
 {
    <#
       .SYNOPSIS 

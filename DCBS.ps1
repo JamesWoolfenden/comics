@@ -3,7 +3,7 @@ import-module "$PSScriptRoot\core.ps1" -force
 import-module "$PSScriptRoot\modules\xrates.psd1" -force
 import-module "$PSScriptRoot\modules\url.psd1" -force
 
-function get-dcbs
+function Get-DCBS
 {
    $url="https://www.kimonolabs.com/api/3lyw38rc?apikey=01f250503b7c40eb0ce695da7d74cbb1"
 
@@ -19,7 +19,7 @@ function get-dcbs
    Write-Host "$(Get-date) - retrieved $($dcbsresults.count) records from DCBS"
 }
 
-function get-dcbsdata
+function Get-DCBSData
 {
    param(
    [Parameter(Mandatory=$true)]

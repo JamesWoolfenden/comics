@@ -1,0 +1,34 @@
+[
+    {
+        "Title":  "I IS FOR IMAGE",
+        "Issue":  "FALL 2014",
+        "Cover":  2014,
+        "TotalCost":  "4.77",
+        "Mean":  4.7733333333333334,
+        "AveragePrice":  2.7433333333333336,
+        "CurrentPrice":  2.092,
+        "Minimum":  0.99,
+        "Maximum":  6,
+        "Count":  6,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1445284948614)\/"
+    },
+    {
+        "Title":  "i is for image",
+        "Issue":  "WINTER 2014",
+        "Cover":  2014,
+        "TotalCost":  "5.49",
+        "Mean":  5.49,
+        "AveragePrice":  3.99,
+        "CurrentPrice":  3.99,
+        "Minimum":  3.99,
+        "Maximum":  3.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1445284948742)\/"
+    }
+]

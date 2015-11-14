@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.22823.1
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F5034706-568F-408A-B7B3-4D38C6DB8A32}") = "Comics", "Comics.pssproj", "{B9C312EB-B590-43E3-8B6C-7E83B3445028}"
+Project("{F5034706-568F-408A-B7B3-4D38C6DB8A32}") = "RedWolf.Comics", "RedWolf.Comics.pssproj", "{B9C312EB-B590-43E3-8B6C-7E83B3445028}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{9F1A22B3-6E6F-4611-8790-626C3888C21B}"
 	ProjectSection(SolutionItems) = preProject
