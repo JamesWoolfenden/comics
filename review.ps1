@@ -53,23 +53,8 @@ function Update-Record
    {
       'EBAY'
 	  {
-         try
-         {
-	        if (test-property -object $ie[1].Document.getElementByID('fshippingCost') -property innerText)
-            {
-               $estimate=$ie[1].Document.getElementByID('fshippingCost').innerText
-            }
-            else
-            {
-               write-host "Postage cannot be estimated"
-            }  
-         }
-         catch
-         {
-            Write-Host "Failed to detect shipping"
-         }
-
-		 $seller=Get-EbaySellerFromIE -ie $ie -record $record
+		 $estimate=Get-EbayShippingCostFromIE -ie $ie -record $record
+		 $seller  =Get-EbaySellerFromIE -ie $ie -record $record
 	  }
 	  default
 	  {
@@ -90,13 +75,13 @@ function Update-Record
    $newtitle=(set-title -rawtitle $($record.Title)).ToUpper()
 
    $color        =get-image  -title $newtitle -issue $record.Issue
-   $estimateIssue=set-issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
+   $estimateIssue=Set-Issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
    $color        =get-image  -title $newtitle -issue $estimateIssue
    
    write-host "Issue $($estimateIssue) - (i)dentify, (c)lose or (r)eplace:" -Foregroundcolor $color -nonewline
    $actualIssue=(read-host).ToUpper()
  
-   switch($actualIssue.ToLower())
+   switch($actualIssue)
    {
       "I"
       {
@@ -365,7 +350,7 @@ function set-title
    $returntitle
 }
 
-function set-issue
+function Set-Issue
 {
    param(
    [string]$rawissue,
@@ -585,7 +570,7 @@ function Get-EbaySellerFromIE
        }
        catch
        {
-          Write-verbose "Failing over to Old IE model"
+          Write-Warning "Get-EbaySellerFromIE: Failing over to Old IE model"
 		  if ($ie[1].Document.body.getElementsByClassName('mbg-nw'))
 	      {
              $result=@($ie[1].Document.body.getElementsByClassName('mbg-nw'))
@@ -615,4 +600,38 @@ function Get-EbaySellerFromIE
 
    Write-Host "Seller: $seller" -ForegroundColor green
    $seller
+}
+
+function Get-EbayShippingCostFromIE
+{
+   param(
+   [Parameter(Mandatory=$true)]
+   $ie,
+   [Parameter(Mandatory=$true)]
+   [PSObject]$record)
+
+   if (!($record.postage))
+   {     
+      try
+      {
+         if (test-property -object $ie[1].Document.getElementByID('fshippingCost') -property innerText)
+         {
+            $estimate=$ie[1].Document.getElementByID('fshippingCost').innerText
+         }
+         else
+         {
+            write-host "Postage cannot be estimated"
+         }  
+      }
+      catch
+      {
+         Write-Host "Failed to detect shipping"
+      }
+   }
+   else
+   {
+	   $estimate=$record.postage
+   }
+
+   $estimate
 }
