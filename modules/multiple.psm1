@@ -5,7 +5,7 @@ function split-set
    
    $wherestring="where Title = '$title' And Issue = 'set' and status='closed' and split != 1 "
    write-host "Where : $wherestring"
-   $results=search-db $wherestring
+   $results=Search-DB $wherestring
 
    if ($results -ne "")
    {

@@ -36,11 +36,11 @@ function stat
    
    if ($nogrid)
    {      
-      search-db "$querystring" 
+      Search-DB "$querystring" 
    }
    else
    {
-      search-db "$querystring"|ogv 
+      Search-DB "$querystring"|ogv 
    }
 }
 
@@ -59,7 +59,7 @@ function add-array
    #first lets read in all existing related items
    #$test=read-db
    
-   $list=search-db "Where Ebayitem != NULL"|select -property Ebayitem
+   $list=Search-DB "Where Ebayitem != NULL"|select -property Ebayitem
    $Ebayitems=$list|foreach {"$($_.EbayItem)"}
    
    if ($resultset -ne $Null)
@@ -68,7 +68,7 @@ function add-array
       
       foreach ($set in $resultset)
       {       
-		  $foundrecord=search-db -where "where ebayitem = '$($set.ebayitem)'"
+		  $foundrecord=Search-DB -where "where ebayitem = '$($set.ebayitem)'"
 
           #new and not expired records
           if (!($foundrecord) -and ($status -ne "Expired"))
@@ -135,10 +135,10 @@ function add-array
                  #record exists check its not expired or closed
 			     if (($foundrecord.Status -eq "Open") -or ($foundrecord.Status -eq "Verified"))
 			     {
-                    write-verbose " update-db -ebayitem $($set.Ebayitem) -status $status -price $($set.CurrentPrice)"              
+                    write-verbose " Update-DB -ebayitem $($set.Ebayitem) -status $status -price $($set.CurrentPrice)"              
 			        if ($status -eq "Open")
                     {
-			           update-db -ebayitem $set.Ebayitem -price $set.CurrentPrice
+			           Update-DB -ebayitem $set.Ebayitem -price $set.CurrentPrice
                     }
 			  	  
 			        Write-host "`rUpdating: $($set.Ebayitem)" -foregroundcolor green  -NoNewline 
@@ -170,7 +170,7 @@ function verify
    [string]$title,
    [string]$Issue)
    
-   search-db "where title='$title' and issue='$issue' and status='open'"
+   Search-DB "where title='$title' and issue='$issue' and status='open'"
 }
 
 function view
@@ -300,7 +300,7 @@ function Update-Recordset
       $querystring +=" and (status='verified' or status='open') order by $sortby"
    }
    
-   $results=search-db "$querystring"
+   $results=Search-DB "$querystring"
    $found=0
 
    if ($results -eq "" -or $results -eq $Null)
@@ -364,7 +364,7 @@ function Finalize-Records
    [string]$Issue)
    
    
-   $results=search-db "where title='$title' and issue='$issue' and status = 'verified'"
+   $results=Search-DB "where title='$title' and issue='$issue' and status = 'verified'"
    
    if ($results -eq "" -or $results -eq $Null)
    { 
@@ -391,7 +391,7 @@ function Finalize-Records
 
 function Update-Open
 {
-	<#
+   <#
       .SYNOPSIS 
        update open update comic records, either all open or all open of given title    
       
@@ -418,7 +418,7 @@ function Update-Open
       $query+=" order by title"
    }
 
-   $results=search-db $query
+   $results=Search-DB $query
    $count=1
 
    If (!$results)
@@ -432,21 +432,26 @@ function Update-Open
          $count=$results.count
       }    
    }
-      
-   try
+   
+   $index=1
+   foreach($record in $results)
    {
-      $index=1
-      foreach($record in $results)
+      Write-Host "Record $index of $count"
+         
+      Try
       {
-         write-host "Record $index of $count"
          Update-Record $record 
-         $index ++
       }
-   }
-   catch
-   {
-      Write-warning "Update-open error"
-      write-error $_
+      Catch
+      {
+          Write-host "Exception Type: $($_.Exception.GetType().FullName)" -ForegroundColor Red
+          Write-host "Exception Message: $($_.Exception.Message)" -ForegroundColor Red
+
+          Write-Warning -Message "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
+          Write-Warning -Message "Update-Open Error" 
+      }
+ 
+      $index ++
    }
 }
 
@@ -567,7 +572,7 @@ function get-issues
    [Parameter(Mandatory=$true)]
    [string]$title)
    
-   $result=search-db "where title='$title'  and status = 'closed'"
+   $result=Search-DB "where title='$title'  and status = 'closed'"
    $issuesfound=@()
    $count=0
 

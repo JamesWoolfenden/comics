@@ -62,14 +62,14 @@ function Update-Record
             else
             {
                write-host "Postage cannot be estimated"
-            }
-           
-            $seller=Get-EbaySellerFromIE -ie $ie -record $record
+            }  
          }
          catch
          {
             Write-Host "Failed to detect shipping"
          }
+
+		 $seller=Get-EbaySellerFromIE -ie $ie -record $record
 	  }
 	  default
 	  {
@@ -94,11 +94,11 @@ function Update-Record
    $color        =get-image  -title $newtitle -issue $estimateIssue
    
    write-host "Issue $($estimateIssue) - (i)dentify, (c)lose or (r)eplace:" -Foregroundcolor $color -nonewline
-   $actualIssue=read-host
+   $actualIssue=(read-host).ToUpper()
  
-   switch($actualIssue)
+   switch($actualIssue.ToLower())
    {
-      "i"
+      "I"
       {
           if (($estimateIssue -replace("\D","")) -eq "")
           {
@@ -113,9 +113,9 @@ function Update-Record
           $actualIssue=get-imagetitle -issue $cover -title $newtitle
           write-host "Choose $actualIssue" -ForegroundColor cyan
       }
-	  "r"
+	  "R"
 	  {
-    	 Write-host "r"
+    	 Write-host "R"
 	     $filepath= get-imagefilename -title $newtitle -issue $actualIssue
 	     ri $filepath -Force | ForEach-Object {
              $removeErrors = @()
@@ -124,22 +124,21 @@ function Update-Record
              }
 	     Invoke-webRequest $record.ImageSrc -outfile $filepath    
 	  }
-	  "c"
+	  "C"
 	  {
-          update-db -ebayitem $record.ebayitem -Status "EXPIRED"
+          Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
 		  $IE[1].Application.Quit()
           return
 	  }
       default
-      {
+      {	 
          if ($actualIssue -eq $NULL -or $actualIssue -eq "")
          {
+			Write-Host "Assuming value $estimateIssue"
             $actualIssue=$estimateIssue
-         }   
+         } 
       }
    }
-
-   $actualIssue=$actualIssue.ToUpper()
 
    if (!(test-image -title $newtitle -issue $actualIssue))
    {
@@ -269,14 +268,23 @@ function Update-Record
    $TCO ="{0:N2}" -f ([decimal]$postage+[decimal]$price)/$newquantity
    write-host "TCO per issue $TCO" -foregroundcolor cyan
  
-   $record=set-comicstatus -record $record     
+   $record=Set-ComicStatus -record $record     
    $IE[1].Application.Quit()
-   update-db -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $record.status -bought $record.bought -quantity $newquantity -seller $seller -watch $record.watch
+
+   try
+   {
+      Update-DB -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $record.status -bought $record.bought -quantity $newquantity -seller $seller -watch $record.watch
+   }
+   catch
+   {
+	   Write-Warning "Update Record Failure"
+	   throw 
+   }
 }
 
 
 
-function set-comicstatus
+function Set-ComicStatus
 {
    param([PSObject]$record)
 

@@ -76,7 +76,7 @@ function import-image
    $wherestring="where Title = '$title' And Issue = '$issue' order by PublishDate"
    $padtitle=$title -replace(" ","-")
    $cover= get-cover $issue
-   $results=search-db $wherestring
+   $results=Search-DB $wherestring
    foreach ($record in $results)
    {      
       if (!(test-image $title $issue))
