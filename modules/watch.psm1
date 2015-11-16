@@ -11,7 +11,7 @@ function get-watch
 
    param()
    
-   search-db "where Watch = 1 and status = 'Verified' order by title"
+   Search-DB "where Watch = 1 and status = 'Verified' order by title"
 }
 
 function watch

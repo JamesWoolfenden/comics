@@ -89,7 +89,7 @@ function get-bestbuy
     param([string]$title,
     [switch]$nogrid)
 
-    $results=search-db -wherestring "where title='$title' and status='Verified'"
+    $results=Search-DB -wherestring "where title='$title' and status='Verified'"
     if ($nogrid)
     {
        best-buys $results| sort-Object -property Margin -Descending
@@ -111,7 +111,7 @@ function clean-records
 
    #>
    
-   $records=search-db -wherestring "where status='verified' and Ebayitem is not null  order by CloseDate desc"
+   $records=Search-DB -wherestring "where status='verified' and Ebayitem is not null  order by CloseDate desc"
    if ($records -is [System.Array])
    {
       Write-host "Found $($records.count)"

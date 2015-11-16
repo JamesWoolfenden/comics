@@ -212,7 +212,7 @@ function Remove-Record
    $result.count
 }
 
-function update-db
+function Update-DB
 {
    param( 
    [Parameter(Mandatory=$true)]
@@ -312,11 +312,12 @@ function update-db
    {
       try
       {   
-         $result=$cmd.executenonquery()
+         $cmd.executenonquery()|out-null
          $transactionComplete = $true
       }
       catch
       {
+		 Write-Warning "Write Failure"
          $transactionComplete = $false
       }
       
@@ -327,7 +328,7 @@ function update-db
    $conn.close()
 }
 
-function search-db
+function Search-DB
 {
    Param(
    [string]$wherestring="where Title = '$title' And Issue = '$Issue'")
@@ -536,7 +537,7 @@ function get-priceestimate
    [Parameter(Mandatory=$true)]
    [string]$Issue)
    
-   $results=search-db "where title='$title' and issue='$issue' and status='CLOSED'"
+   $results=Search-DB "where title='$title' and issue='$issue' and status='CLOSED'"
    [decimal]$maximum=0
    [int]$count      =1
    [int]$owned      =0
@@ -648,11 +649,11 @@ function get-selleritems
 
    if ($seller -eq $NULL -or $seller -eq '')
    {
-      $resultsset=search-db "where (status='open' OR status='verified') order by seller"
+      $resultsset=Search-DB "where (status='open' OR status='verified') order by seller"
    }
    else
    {
-      $resultsset=search-db "where seller='$seller' and (status='open' OR status='verified')"
+      $resultsset=Search-DB "where seller='$seller' and (status='open' OR status='verified')"
    }
    
    if ($nogrid)
