@@ -1,10 +1,8 @@
-
-
-function write-prices
+function Write-Prices
 {
    param(
    [Parameter(Mandatory=$true)]
-   [PSCustomObject]$prices, 
+   [PSCustomObject]$prices,
    [Parameter(Mandatory=$true)]
    [string]$title)
 
@@ -44,4 +42,3 @@ foreach ($title in ($searches.title |select -unique))
        Write-host "No data" -ForegroundColor cyan
    }
 }
-
