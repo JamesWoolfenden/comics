@@ -123,7 +123,6 @@
   <ItemGroup>
     <Content Include="altcategories.txt" />
     <Content Include="comicbookshop.ps1" />
-    <Content Include="comicvine.txt" />
     <Content Include="comicxposure.ps1" />
     <Content Include="dcbs.ps1" />
     <Content Include="hastings.ps1" />
@@ -151,7 +150,6 @@
     <Content Include="midtown.ps1" />
     <Content Include="tests\tests.ps1" />
     <Content Include="TFAW.ps1" />
-    <Content Include="ebayinfo.ps1" />
     <Content Include="review.ps1" />
     <Content Include="samples.ps1" />
     <Content Include="scanner.ps1" />

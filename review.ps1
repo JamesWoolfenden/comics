@@ -55,17 +55,17 @@ function Update-Record
 	    }
 	    default
 	    {
-         Write-Host "Detected default"
+           Write-Host "Detected default"
 	       write-verbose "Record: $($record.postage)"
-         $estimate=$record.postage
-         if ($record.site -eq "ebid" -And $record.seller -eq "")
-         {
-            $seller=Get-EbidSellerIE -ie $ie
-         }
-         else
-         {
-            $seller=$record.seller
-         }
+           $estimate=$record.postage
+           if ($record.site -eq "ebid" -And $record.seller -eq "")
+           {
+              $seller=Get-EbidSellerIE -ie $ie
+           }
+           else
+           {
+              $seller=$record.seller
+           }
 	     }
    }
 
@@ -557,19 +557,20 @@ function Get-EbaySellerFromIE
    {
        try
        {
-		  if ($ie[1].Document.getElementsByClassName('mbg-nw'))
-	      {
-			 $temp= @($ie[1].Document.getElementsByClassName('mbg-nw')| Select-Object -first 1 )
-             $seller=($temp).TextContent  -replace '\t', '  '
-			 Write-Host "Found $Seller"
-	      }
+		 if (@($ie[1].Document.getElementsByClassName('mbg-nw')).InnerText)
+         {
+            $seller=@($ie[1].Document.getElementsByClassName('mbg-nw')).InnerText
+         }
+        
        }
        catch
        {
-		  Write-host "Exception Type: $($_.Exception.GetType().FullName)" -ForegroundColor Red
-          Write-host "Exception Message: $($_.Exception.Message)" -ForegroundColor Red
-          Write-Warning -Message "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
-		  throw
+		   Write-warning "getElementsByClassName for 'mbg-nw' failed"
+		   
+    	   Write-host "Exception Type: $($_.Exception.GetType().FullName)" -ForegroundColor Red
+           Write-host "Exception Message: $($_.Exception.Message)" -ForegroundColor Red
+           Write-Warning -Message "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
+	   	   throw
 	   }
    }
    else
