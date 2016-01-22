@@ -1,20 +1,17 @@
-
 function View-Record
 {
    param
-	(
+	 (
 	   [Parameter(Mandatory=$true)]
 	   [PSObject]$record)
 
-   #$ie=new-object -com internetexplorer.application
-   
-   if ($record.ebayitem)
-   { 
-      switch ($record.site.ToUpper())
-      {
+     if ($record.ebayitem)
+     {
+        switch ($record.site.ToUpper())
+        {
          "EBAY"
          {
-            $ie=view $record.ebayitem         
+            $ie=View $record.ebayitem
          }
          "EBID"
          {
@@ -22,15 +19,15 @@ function View-Record
          }
          default
          {
-            $ie=view $record.ebayitem
+            $ie=View $record.ebayitem
          }
       }
    }
-   else 
+   else
    {
       write-warning "$($record.ebayitem) is null or empty"
    }
-   
+
    $ie
 }
 
@@ -38,7 +35,7 @@ function Update-Record
 {
    param(
    [Parameter(Mandatory=$true)]
-   [PSObject]$record, 
+   [PSObject]$record,
    [string]$newstatus)
 
    [PSObject]$OldRecord=$record
@@ -47,40 +44,40 @@ function Update-Record
    $estimate=$null
    $seller  =$null
 
-   $ie=View-Record $record     
+   $ie=View-Record $record
 
    switch($record.site.ToUpper())
    {
       'EBAY'
-	  {
-		 $estimate=Get-EbayShippingCostFromIE -ie $ie -record $record
-		 $seller  =Get-EbaySellerFromIE -ie $ie -record $record
-	  }
-	  default
-	  {
-         Write-Host "Detected default"
-	     write-verbose "Record: $($record.postage)"
-         $estimate=$record.postage
-         if ($record.site -eq "ebid" -And $record.seller -eq "")
-         {
-            $seller=Get-EbidSellerIE -ie $ie
-         }
-         else
-         {
-            $seller=$record.seller
-         }
-	  }
+	    {
+		     $estimate=Get-EbayShippingCostFromIE -ie $ie -record $record
+		     $seller  =Get-EbaySellerFromIE -ie $ie -record $record
+	    }
+	    default
+	    {
+           Write-Host "Detected default"
+	       write-verbose "Record: $($record.postage)"
+           $estimate=$record.postage
+           if ($record.site -eq "ebid" -And $record.seller -eq "")
+           {
+              $seller=Get-EbidSellerIE -ie $ie
+           }
+           else
+           {
+              $seller=$record.seller
+           }
+	     }
    }
-      
+
    $newtitle=(set-title -rawtitle $($record.Title)).ToUpper()
 
    $color        =get-image  -title $newtitle -issue $record.Issue
    $estimateIssue=Set-Issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
    $color        =get-image  -title $newtitle -issue $estimateIssue
-   
+
    write-host "Issue $($estimateIssue) - (i)dentify, (c)lose or (r)eplace:" -Foregroundcolor $color -nonewline
    $actualIssue=(read-host).ToUpper()
- 
+
    switch($actualIssue)
    {
       "I"
@@ -88,7 +85,7 @@ function Update-Record
           if (($estimateIssue -replace("\D","")) -eq "")
           {
              write-host "Estimate Cover Issue:" -Foregroundcolor $color -nonewline
-             $cover=read-host  
+             $cover=read-host
           }
           else
           {
@@ -107,7 +104,7 @@ function Update-Record
              $_ | Remove-Item -ErrorAction SilentlyContinue -ErrorVariable removeErrors
              $removeErrors | where-object { $_.Exception.Message -notlike '*it is being used by another process*' }
              }
-	     Invoke-webRequest $record.ImageSrc -outfile $filepath    
+	     Invoke-webRequest $record.ImageSrc -outfile $filepath
 	  }
 	  "C"
 	  {
@@ -116,12 +113,12 @@ function Update-Record
           return
 	  }
       default
-      {	 
+      {
          if ($actualIssue -eq $NULL -or $actualIssue -eq "")
          {
 			Write-Host "Assuming value $estimateIssue"
             $actualIssue=$estimateIssue
-         } 
+         }
       }
    }
 
@@ -131,13 +128,13 @@ function Update-Record
       {
          Write-host "Updating Library with image of $newtitle : $actualIssue" -foregroundcolor cyan
          $filepath= get-imagefilename -title $newtitle -issue $actualIssue
-         Write-host "Downloading from $($record.Imagesrc) " 
-         Write-host "Writing to $filepath" 
+         Write-host "Downloading from $($record.Imagesrc) "
+         Write-host "Writing to $filepath"
          set-imagefolder $newtitle $actualIssue
 
          try
          {
-            Invoke-webRequest $record.ImageSrc -outfile $filepath 
+            Invoke-webRequest $record.ImageSrc -outfile $filepath
          }
          catch
          {
@@ -148,11 +145,11 @@ function Update-Record
       {
          Write-host "No image data"
       }
-   }  
-   
-   $newquantity  = new-object int    
+   }
+
+   $newquantity  = new-object int
    $newquantity=1
-   
+
    if ($actualIssue -eq "SET" -And $($record.Quantity) -eq 1)
    {
       $readquantity=read-host "Number in set:$($record.Quantity)"
@@ -160,37 +157,37 @@ function Update-Record
       {
          $newquantity = $readquantity
       }
-   }   
-      
+   }
+
    $priceestimate=0
    [double]$marketprice=0
    [double]$marketprice=get-currentprice -issue $actualIssue -title $newtitle
-   
+
    $foregroundcolor="red"
-   
+
    if ($marketprice -gt [double]$($record.Price))
    {
       $foregroundcolor="green"
    }
-   
-   $marketprice="{0:N2}" -f $marketprice   
-   
+
+   $marketprice="{0:N2}" -f $marketprice
+
    if ($record.site -eq "ebay")
    {
-      
+
       if (test-property -object $ie[1].Document.getElementByID('prcIsum_bidPrice') -property innerText)
       {
-         $priceestimate= ($ie[1].Document.getElementByID('prcIsum_bidPrice').innerText)      
+         $priceestimate= ($ie[1].Document.getElementByID('prcIsum_bidPrice').innerText)
       }
-      
+
       if (test-property -object $ie[1].Document.getElementByID('prcIsum')  -property innerText)
       {
-         $priceestimate= ($ie[1].Document.getElementByID('prcIsum').innerText)      
+         $priceestimate= ($ie[1].Document.getElementByID('prcIsum').innerText)
       }
-      
+
       if (test-property -object $ie[1].Document.getElementByID('mm-saleDscPr') -property innerText)
       {
-         $priceestimate= ($ie[1].Document.getElementByID('mm-saleDscPr').innerText)   
+         $priceestimate= ($ie[1].Document.getElementByID('mm-saleDscPr').innerText)
       }
 
       #still null must have stopped auction?
@@ -203,27 +200,27 @@ function Update-Record
       {
          if ($priceestimate -is [string])
          {
-            $priceestimate=$priceestimate.replace("£","")    
+            $priceestimate=$priceestimate.replace("ï¿½","")
          }
       }
-      
-      Write-host "Price $($record.Price): estimate:$priceestimate market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline    
+
+      Write-host "Price $($record.Price): estimate:$priceestimate market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline
    }
    else
    {
-       Write-host "Price $($record.Price): market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline      
+       Write-host "Price $($record.Price): market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline
    }
-    
-   $price=read-hostdecimal 
-   
+
+   $price=read-hostdecimal
+
    if ($price -eq $NULL -or $price -eq "")
    {
       $price=$record.Price
    }
-    
+
    if ($estimate -notlike $NULL)
    {
-      $estimate=($estimate.Replace("£","")).Replace('$',"")
+      $estimate=($estimate.Replace("ï¿½","")).Replace('$',"")
    }
 
    if ($estimate -match "Free")
@@ -232,28 +229,28 @@ function Update-Record
    }
 
    try
-   {     
-      $estimate=[decimal]$estimate 
+   {
+      $estimate=[decimal]$estimate
       $postage=$estimate
    }
    catch
    {
-      write-host "Postage: $($record.postage) estimate:$estimate" -NoNewline 
-      $postage=read-hostdecimal 
+      write-host "Postage: $($record.postage) estimate:$estimate" -NoNewline
+      $postage=read-hostdecimal
       $postage="{0:N2}" -f $postage
-    
+
       if ($postage -eq $NULL -or $postage -eq "")
       {
          $postage=$record.Postage
-      }  
+      }
    }
 
    write-host "Postage estimate:$estimate"
 
    $TCO ="{0:N2}" -f ([decimal]$postage+[decimal]$price)/$newquantity
    write-host "TCO per issue $TCO" -foregroundcolor cyan
- 
-   $record=Set-ComicStatus -record $record     
+
+   $record=Set-ComicStatus -record $record
    $IE[1].Application.Quit()
 
    try
@@ -263,18 +260,16 @@ function Update-Record
    catch
    {
 	   Write-Warning "Update Record Failure"
-	   throw 
+	   throw
    }
 }
-
-
 
 function Set-ComicStatus
 {
    param([PSObject]$record)
 
    [string]$newstatus=read-host $record.Status "(V)erified, (C)losed, (E)xpired, (B)ought, (W)atch"
-      
+
    switch($newstatus)
    {
       "C"
@@ -287,7 +282,7 @@ function Set-ComicStatus
       }
       "E"
       {
-         $record.Status="EXPIRED"    
+         $record.Status="EXPIRED"
       }
       "B"
       {
@@ -311,8 +306,7 @@ function Set-ComicStatus
    $record
 }
 
-
-function set-title 
+function Set-Title
 {
    param([string]$rawtitle)
 
@@ -324,18 +318,18 @@ function set-title
    if ($found)
    {
       write-Host "Title $($newtitle[0]):" -NoNewline -ForegroundColor green
-   } 
+   }
    else
    {
       write-Host "New Title? $($newtitle[0]):" -NoNewline -ForegroundColor Yellow
    }
-   
+
    $title=read-host
 
    If (($title -eq $null) -or ($title -eq ""))
    {
       $returntitle=$($newtitle[0]).trim()
-   }  
+   }
    else
    {
       $returntitle=$title
@@ -357,7 +351,7 @@ function Set-Issue
    [string]$rawtitle,
    [string]$title,
    [string]$color)
-  
+
    write-verbose "$rawissue $rawtitle $color"
 
    #if its a new record
@@ -372,7 +366,7 @@ function Set-Issue
       }
       elseif (($rawtitle.ToUpper()).Contains("PROG"))
       {
-         $tempstring=($rawtitle.ToUpper() -split("PROG"))[1]	     
+         $tempstring=($rawtitle.ToUpper() -split("PROG"))[1]
       }
 
       #has it split
@@ -380,21 +374,21 @@ function Set-Issue
       {
           write-verbose "Before estimate tempstring $tempstring"
           $splitstring=($tempstring.Trim()).split(" ")
-        
+
           if ($splitstring -is [system.array])
           {
              $splitstring= $splitstring[0]
-          }     
+          }
 
           if ($splitstring)
           {
-             $estimateIssue=$splitstring 
+             $estimateIssue=$splitstring
           }
           else
           {
              $estimateIssue=$null
           }
-          
+
           write-verbose "Tempstring $tempstring $($tempstring.GetType())"
           write-verbose "GuessTitle -title $title -issue $estimateIssue"
           $estimateIssue=GuessTitle -title $title -issue $estimateIssue
@@ -405,23 +399,23 @@ function Set-Issue
          $tempstring=@()
          write-verbose "No split # $($rawtitle -split('No'))"
          #maybe used no to indicate version
-         
+
          if ($rawtitle -Contains("No"))
          {
             $tempstring=$rawtitle -split("No")
             write-verbose "Split on No $tempstring"
-            
+
             $splitspaces=($tempstring[1].Trim()).split(" ")
-        
+
             if ($splitspaces -is [system.array])
             {
                $estimateIssue =$splitspaces[0]
             }
             else
             {
-               $estimateIssue=$tempstring 
+               $estimateIssue=$tempstring
             }
-           
+
             write-host "Before estimate estimateIssue $estimateIssue"
             $estimateIssue=GuessTitle -title $title -issue "$estimateIssue"
             write-verbose "After estimate $estimateIssue"
@@ -431,10 +425,10 @@ function Set-Issue
             $edition=""
             write-verbose "No splits $rawissue"
             if ($rawtitle -match "1st")
-            { 
+            {
                $rawtitle =$rawtitle.Replace("1st","")
-               $edition = "A"  
-            } 
+               $edition = "A"
+            }
 
             #ok best chance did not work now edge cases
             $estimateIssue=($rawtitle -replace("\D",""))
@@ -454,7 +448,7 @@ function Set-Issue
       while (($estimateIssue -eq "0") -or ($estimateIssue -eq ""))
       {
          write-host "Estimate issue ($rawIssue):" -Foregroundcolor $color -nonewline
-         $estimateIssue=read-host    
+         $estimateIssue=read-host
       }
    }
    else
@@ -479,9 +473,9 @@ function Set-Issue
          }
       }
    }
-   
+
    $estimateIssue
- }  
+ }
 
 function GuessTitle
 {
@@ -492,7 +486,7 @@ function GuessTitle
 
     $issue=$issue.replace(".","")
     $issue=$issue.replace(",","")
-      
+
     if ($Issue)
     {
        $cover=get-cover $issue
@@ -507,7 +501,7 @@ function GuessTitle
 
     if (test-path "$PSScriptRoot\covers\$padtitle\$cover\$issue.jpg")
     {
-       return $issue 
+       return $issue
     }
     else
     {
@@ -522,7 +516,7 @@ function GuessTitle
        }
     }
  }
- 
+
 function Get-EbidSellerIE
 {
    param(
@@ -535,7 +529,7 @@ function Get-EbidSellerIE
       #$result=@($ie[1].Document.body.getElementsByClassName('t10 l5 f4 center'))
       #$result=@($ie[1].Document.body.getElementsByClassName('col-md-4 col-sm-12 clearfix nobottommargin center'))
 	  $result=@($ie[1].Document.body.getElementsByClassName('fs-14'))
-      
+
       #[string]$seller=($result.textContent.trim() -split(' '))[0]
 	  $seller=$result.Innertext[1].Split('(')[0]
 	  Write-host "Seller: $seller"
@@ -557,40 +551,27 @@ function Get-EbaySellerFromIE
    [Parameter(Mandatory=$true)]
    [PSObject]$record)
 
+   [string]$seller = $null
+
    if (!($record.seller))
    {
        try
        {
-          $result=@($ie[1].Document.getElementsByClassName('mbg-nw'))
-		  if (!($result))
-	      {
-	         Write-warning "Using Old IE model"
-             $result=@($ie[1].Document.body.getElementsByClassName('mbg-nw'))          
-	      }
+		 if (@($ie[1].Document.getElementsByClassName('mbg-nw')).InnerText)
+         {
+            $seller=@($ie[1].Document.getElementsByClassName('mbg-nw')).InnerText
+         }
+        
        }
        catch
        {
-          Write-Warning "Get-EbaySellerFromIE: Failing over to Old IE model"
-		  if ($ie[1].Document.body.getElementsByClassName('mbg-nw'))
-	      {
-             $result=@($ie[1].Document.body.getElementsByClassName('mbg-nw'))
-          }
-		  else
-	      {
-	         $result=$null
-	      }
+		   Write-warning "getElementsByClassName for 'mbg-nw' failed"
+		   
+    	   Write-host "Exception Type: $($_.Exception.GetType().FullName)" -ForegroundColor Red
+           Write-host "Exception Message: $($_.Exception.Message)" -ForegroundColor Red
+           Write-Warning -Message "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
+	   	   throw
 	   }
-            
-       #could be old and return nothing
-       if ($result)
-       {
-         [string]$seller=($result.textContent.trim() -split(' '))[0]
-       }
-       else
-       {
-         write-host 'Seller is $Null'
-         $seller=$NULL
-       }
    }
    else
    {
@@ -611,7 +592,7 @@ function Get-EbayShippingCostFromIE
    [PSObject]$record)
 
    if (!($record.postage))
-   {     
+   {
       try
       {
          if (test-property -object $ie[1].Document.getElementByID('fshippingCost') -property innerText)
@@ -621,7 +602,7 @@ function Get-EbayShippingCostFromIE
          else
          {
             write-host "Postage cannot be estimated"
-         }  
+         }
       }
       catch
       {
