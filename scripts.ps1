@@ -173,7 +173,7 @@ function verify
    Search-DB "where title='$title' and issue='$issue' and status='open'"
 }
 
-function view
+function View
 {
    param(
    [string]$ebayid,
@@ -194,7 +194,7 @@ function view
    $IE.navigate2("$url`?")
    $IE.visible=$true
 
-   while ($ie.Busy -eq $true) 
+   while ($ie.ReadyState -ne 4) 
    {
       write-host "." -NoNewline
       Start-Sleep -Milliseconds 1000 

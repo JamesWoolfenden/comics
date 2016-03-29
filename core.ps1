@@ -1,9 +1,9 @@
 function Scan
 {
    <#
-      .SYNOPSIS 
+      .SYNOPSIS
        Reviews all selected comics and updates db with new and updated items
-        
+
       .EXAMPLE
       C:\PS> scan
       This loads the search json db and scan ebay and ebid.
@@ -22,36 +22,36 @@ function Scan
 
    foreach($search in $searches)
    {
-     if (($($search.comictitle) -eq "") -or ( $($search.comictitle) -eq $null)) 
+     if (($($search.comictitle) -eq "") -or ( $($search.comictitle) -eq $null))
      {
         $search.comictitle="$($search.title)"
      }
 
      if ($search.Enabled)
-     { 
+     {
         get-allrecords -search $search
      }
      Else
      {
         Write-host "`r`nSearch disabled for $($search.title)" -foregroundcolor cyan
      }
-     
+
    }
 }
 
-function best-buys
+function Best-Buys
 {
    <#
-      .SYNOPSIS 
+      .SYNOPSIS
        Given a results object, this function add average and current price plus the margin available and returns the new array.
-        
+
       .EXAMPLE
-      C:\PS> best-buys $resultarray
+      C:\PS> best-buys $resultsarray
 
    #>
 
    param([pscustomobject]$results)
-   
+
    foreach($record in $results)
    {
       write-verbose "get-priceestimate -title $($record.title) -issue $($record.issue)"
@@ -76,12 +76,12 @@ function best-buys
    $results
 }
 
-function get-bestbuy
+function Get-BestBuy
 {
     <#
-      .SYNOPSIS 
+      .SYNOPSIS
        Gets and sorts an array of a certain table by margin
-        
+
       .EXAMPLE
       C:\PS> get-bestbuy -title "THE WALKING DEAD"
 
@@ -100,17 +100,17 @@ function get-bestbuy
     }
 }
 
-function clean-records
+function Clean-Records
 {
     <#
-      .SYNOPSIS 
+      .SYNOPSIS
        Gets all verified records in close order, the sets up review
-        
+
       .EXAMPLE
       C:\PS> clean-records
 
    #>
-   
+
    $records=Search-DB -wherestring "where status='verified' and Ebayitem is not null  order by CloseDate desc"
    if ($records -is [System.Array])
    {
@@ -120,15 +120,15 @@ function clean-records
    foreach($record in $records)
    {
       Update-Record $record
-   }  
+   }
 }
 
-function combine-data
+function Combine-Data
 {
 <#
-      .SYNOPSIS 
+      .SYNOPSIS
        combine market feed results
-        
+
       .EXAMPLE
       C:\PS> combine-data $title
 
@@ -137,7 +137,7 @@ function combine-data
 
    $filetitle=$title.replace(" ","")
    $files=gci "$PSScriptRoot\livedata" -Filter "$filetitle*"
-   
+
    $data=@()
    foreach($file in $files)
    {
@@ -147,18 +147,18 @@ function combine-data
    $data|sort-object issue
 }
 
-function get-price
+function Get-Price
 {
   <#
-      .SYNOPSIS 
+      .SYNOPSIS
        For return numeric price from a dirty string
-        
+
       .EXAMPLE
       C:\PS> get-price "$3.59"
 
    #>
 
-   param( 
+   param(
    [Parameter(Mandatory=$true)]
    [string]$price)
 
@@ -166,12 +166,12 @@ function get-price
    {
      return ""
    }
-    
+
    [string]$currency=$null
 
-   if ($price.contains("£"))
+   if ($price.contains("ï¿½"))
    {
-      $price=$price.Replace("£","")
+      $price=$price.Replace("ï¿½","")
       $currency="&pound;"
    }
 
@@ -181,9 +181,9 @@ function get-price
       $currency='$'
    }
 
-   if ($price.contains("€"))
+   if ($price.contains("ï¿½"))
    {
-      $price=$price.Replace("€","")
+      $price=$price.Replace("ï¿½","")
       $currency='Euro'
    }
 
@@ -201,12 +201,12 @@ function get-price
    $cost
 }
 
-function get-issue
+function Get-Issue
 {
-   param( 
+   param(
    [Parameter(Mandatory=$true)]
    [string]$rawissue)
-   
+
    [string]$variant=""
 
    if ($rawissue.Contains("#"))
@@ -219,7 +219,7 @@ function get-issue
       write-verbose "splitting on prog $rawissue"
       $rawissue=($rawissue.ToUpper() -split("PROG"))[1]
    }
-   
+
    $split=$rawissue.split(" ")
    $cover=$split[0]
    $variant=$rawissue
@@ -237,50 +237,50 @@ function get-issue
    $issue= New-Object System.Object
    $issue| Add-Member -type NoteProperty -name cover -value $cover
    $issue| Add-Member -type NoteProperty -name variant -value $variant
-   
+
    $issue
 }
 
-function read-hostdecimal
+function Read-HostDecimal
 {
     <#
-      .SYNOPSIS 
+      .SYNOPSIS
        Same as read host but only accepts decimal entries
-        
+
       .EXAMPLE
       C:\PS> read-hostdecimal
    #>
 
-   do 
+   do
    {
-      try 
+      try
       {
         $numOk = $true
-        [Decimal]$Entry = Read-host 
+        [Decimal]$Entry = Read-host
       } # end try
-      catch 
+      catch
       {
          write-Host "Decimal entry required" -ForegroundColor  Yellow
          $numOK = $false
       }
-    } # end do 
+    } # end do
     until ($numOK)
- 
+
    $Entry
  }
 
-function update-set
+function Update-Set
 {
     <#
-      .SYNOPSIS 
-       Allows the individual update of a resultset 
-        
+      .SYNOPSIS
+       Allows the individual update of a resultset
+
       .EXAMPLE
       C:\PS> update-set $(get-selleritems -seller blackadam -nogrid)
 
    #>
 
-   param(   
+   param(
    [Parameter(Mandatory=$true)]
    [psobject]$results)
 
@@ -290,15 +290,15 @@ function update-set
    }
 }
 
-function get-numeric
+function Get-Numeric
 {
    param([string]$string)
    $found=$string -match '(\d+)'
    if ($found)
    {
       $result=$matches[1]
-      return $result	
+      return $result
    }
-   
+
    $null
 }
