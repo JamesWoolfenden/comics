@@ -69,12 +69,12 @@
     -webkit-border-radius: 0px;
     border-radius: 0px;
 }
-.jqx-widget-windowsphone {
+.jqx-widGet-windowsphone {
     font-size: 16px; 
     font-family: 'Segoe WP', 'segoe ui', arial, sans-serif;
     color: inherit;
 }
-.jqx-widget-content-windowsphone{font-size: 16px; font-family: 'Segoe WP', 'segoe ui', arial, sans-serif; border-color: #2F2F2F; color: #ffffff; background-color: #000;}
+.jqx-widGet-content-windowsphone{font-size: 16px; font-family: 'Segoe WP', 'segoe ui', arial, sans-serif; border-color: #2F2F2F; color: #ffffff; background-color: #000;}
 input[type=text].jqx-input-windowsphone, input[type=password].jqx-input-windowsphone{
    font-size: 16px; 
    font-family: 'Segoe WP', 'segoe ui', arial, sans-serif;
@@ -82,7 +82,7 @@ input[type=text].jqx-input-windowsphone, input[type=password].jqx-input-windowsp
    border-color: #D2D2D2;
    color: #000;
  }
-.jqx-widget-header-windowsphone{font-size: 16px;  font-family: 'Segoe WP', 'segoe ui', arial, sans-serif; color: #ffffff; border-color:#35353A; background-color:#3E3E42;}
+.jqx-widGet-header-windowsphone{font-size: 16px;  font-family: 'Segoe WP', 'segoe ui', arial, sans-serif; color: #ffffff; border-color:#35353A; background-color:#3E3E42;}
 .jqx-fill-state-normal-windowsphone, .jqx-fill-state-hover-windowsphone{font-size: 16px; font-family: 'Segoe WP', 'segoe ui', arial, sans-serif; border-color: #35353A; color: #ffffff; background: #3E3E42;}
 .jqx-combobox-arrow-normal-windowsphone {
   background: #BEBEBE;
@@ -93,7 +93,7 @@ input[type=text].jqx-input-windowsphone, input[type=password].jqx-input-windowsp
    border-color: #D2D2D2;
    color: #000;
 }
-.jqx-listbox-windowsphone, .jqx-listmenu-windowsphone, .jqx-listmenu-item-windowsphone, .jqx-calendar-windowsphone .jqx-widget-content-windowsphone {
+.jqx-listbox-windowsphone, .jqx-listmenu-windowsphone, .jqx-listmenu-item-windowsphone, .jqx-calendar-windowsphone .jqx-widGet-content-windowsphone {
     background: #000;
 }
 
@@ -163,22 +163,22 @@ border-color:#008a00; color: #fff; background-color:#008a00;
     border-color: #000;
 }
 .jqx-scrollbar-state-normal-windowsphone, .jqx-grid-bottomright-windowsphone, .jqx-panel-bottomright-windowsphone, .jqx-listbox-bottomright-windowsphone{background-color:#3E3E42;}
-.jqx-widget-windowsphone .jqx-grid-column-header-windowsphone, .jqx-grid-cell-windowsphone, .jqx-widget-windowsphone .jqx-grid-cell-windowsphone, .jqx-widget-windowsphone .jqx-grid-group-cell-windowsphone, .jqx-grid-group-cell-windowsphone{font-size: 16px;  font-family: 'segoe ui', arial, sans-serif; border-color: #1C1C1E; background-color: #000; color: #fff;}
+.jqx-widGet-windowsphone .jqx-grid-column-header-windowsphone, .jqx-grid-cell-windowsphone, .jqx-widGet-windowsphone .jqx-grid-cell-windowsphone, .jqx-widGet-windowsphone .jqx-grid-group-cell-windowsphone, .jqx-grid-group-cell-windowsphone{font-size: 16px;  font-family: 'segoe ui', arial, sans-serif; border-color: #1C1C1E; background-color: #000; color: #fff;}
 .jqx-tabs-title-selected-bottom-windowsphone, .jqx-tabs-selection-tracker-bottom-windowsphone, .jqx-tabs-title-selected-top-windowsphone, .jqx-tabs-selection-tracker-top-windowsphone{color: #ffffff; border-color:#35353A; border-bottom:1px solid #252526; background:#008a00}
-.jqx-widget-windowsphone .jqx-grid-cell-alt-windowsphone, .jqx-widget-windowsphone .jqx-grid-cell-sort-windowsphone, .jqx-widget-windowsphone .jqx-grid-cell-pinned-windowsphone, .jqx-widget-windowsphone .jqx-grid-cell-filter-windowsphone, .jqx-grid-cell-sort-alt-windowsphone, .jqx-grid-cell-filter-alt-windowsphone, .jqx-grid-cell-pinned-windowsphone, .jqx-grid-cell-alt-windowsphone, .jqx-grid-cell-sort-windowsphone{ background-color:#3E3E42; color: #fff;}
+.jqx-widGet-windowsphone .jqx-grid-cell-alt-windowsphone, .jqx-widGet-windowsphone .jqx-grid-cell-sort-windowsphone, .jqx-widGet-windowsphone .jqx-grid-cell-pinned-windowsphone, .jqx-widGet-windowsphone .jqx-grid-cell-filter-windowsphone, .jqx-grid-cell-sort-alt-windowsphone, .jqx-grid-cell-filter-alt-windowsphone, .jqx-grid-cell-pinned-windowsphone, .jqx-grid-cell-alt-windowsphone, .jqx-grid-cell-sort-windowsphone{ background-color:#3E3E42; color: #fff;}
 .jqx-menu-vertical-windowsphone{}
-.jqx-widget-windowsphone .jqx-grid-cell-windowsphone, .jqx-widget-windowsphone .jqx-grid-column-header-windowsphone, .jqx-widget-windowsphone .jqx-grid-group-cell-windowsphone { border-color: #35353A;}
+.jqx-widGet-windowsphone .jqx-grid-cell-windowsphone, .jqx-widGet-windowsphone .jqx-grid-column-header-windowsphone, .jqx-widGet-windowsphone .jqx-grid-group-cell-windowsphone { border-color: #35353A;}
 
-.jqx-widget-windowsphone .jqx-grid-column-menubutton-windowsphone, .jqx-widget-windowsphone .jqx-grid-column-sortascbutton-windowsphone, .jqx-widget-windowsphone .jqx-grid-column-sortdescbutton-windowsphone, .jqx-widget-windowsphone .jqx-grid-column-filterbutton-windowsphone {
+.jqx-widGet-windowsphone .jqx-grid-column-menubutton-windowsphone, .jqx-widGet-windowsphone .jqx-grid-column-sortascbutton-windowsphone, .jqx-widGet-windowsphone .jqx-grid-column-sortdescbutton-windowsphone, .jqx-widGet-windowsphone .jqx-grid-column-filterbutton-windowsphone {
     background-color: transparent;
     border-color: #35353A;
 }
-.jqx-window-header-windowsphone, .jqx-input-button-header-windowsphone, .jqx-calendar-title-header-windowsphone, .jqx-grid-windowsphone .jqx-widget-header-windowsphone, .jqx-grid-header-windowsphone, .jqx-grid-column-header-windowsphone {font-size: 16px; font-family: 'Segoe WP', 'segoe ui', arial, sans-serif; border-color: #35353A; color: #ffffff; background: #3E3E42;}
+.jqx-window-header-windowsphone, .jqx-input-button-header-windowsphone, .jqx-calendar-title-header-windowsphone, .jqx-grid-windowsphone .jqx-widGet-header-windowsphone, .jqx-grid-header-windowsphone, .jqx-grid-column-header-windowsphone {font-size: 16px; font-family: 'Segoe WP', 'segoe ui', arial, sans-serif; border-color: #35353A; color: #ffffff; background: #3E3E42;}
 .jqx-grid-column-menubutton-windowsphone {
     background-image: url('images/metro-icon-down-white.png');
  }
-.jqx-widget-windowsphone .jqx-grid-cell-selected-windowsphone, .jqx-grid-cell-selected-windowsphone{ background-color:#008a00 !important; border-color: #008a00 !important; font-size: 16px;  color:#fff !important}
-.jqx-widget-windowsphone .jqx-grid-cell-hover-windowsphone, .jqx-grid-cell-hover-windowsphone{ background-color:#3E3E42;}
+.jqx-widGet-windowsphone .jqx-grid-cell-selected-windowsphone, .jqx-grid-cell-selected-windowsphone{ background-color:#008a00 !important; border-color: #008a00 !important; font-size: 16px;  color:#fff !important}
+.jqx-widGet-windowsphone .jqx-grid-cell-hover-windowsphone, .jqx-grid-cell-hover-windowsphone{ background-color:#3E3E42;}
  /*applied to the column's sort button when the sort order is ascending.*/
  .jqx-grid-column-sortascbutton-windowsphone {
     background-image: url('images/metro-icon-up-white.png');

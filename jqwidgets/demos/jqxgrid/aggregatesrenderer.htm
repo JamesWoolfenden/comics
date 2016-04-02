@@ -56,27 +56,27 @@
                   {
                       text: 'First Name', columntype: 'textbox', datafield: 'firstname', width: 190,
                       aggregatesrenderer: function (aggregates, column, element) {
-                          var renderstring = "<div class='jqx-widget-content jqx-widget-content-" + theme + "' style='float: left; width: 100%; height: 100%; '/>";
+                          var renderstring = "<div class='jqx-widGet-content jqx-widGet-content-" + theme + "' style='float: left; width: 100%; height: 100%; '/>";
                           return renderstring;
                       }
                   },
                   {
                       text: 'Last Name', datafield: 'lastname', columntype: 'textbox', width: 190,
                       aggregatesrenderer: function (aggregates, column, element) {
-                          var renderstring = "<div class='jqx-widget-content jqx-widget-content-" + theme + "' style='float: left; width: 100%; height: 100%; '/>";
+                          var renderstring = "<div class='jqx-widGet-content jqx-widGet-content-" + theme + "' style='float: left; width: 100%; height: 100%; '/>";
                           return renderstring;
                       }
                   },
                   {
                       text: 'Product', datafield: 'productname', width: 170,
                       aggregatesrenderer: function (aggregates, column, element) {
-                          var renderstring = "<div class='jqx-widget-content jqx-widget-content-" + theme + "' style='float: left; width: 100%; height: 100%; '/>";
+                          var renderstring = "<div class='jqx-widGet-content jqx-widGet-content-" + theme + "' style='float: left; width: 100%; height: 100%; '/>";
                           return renderstring;
                       }
                   },
                   { text: 'Quantity', datafield: 'quantity', width: 85, cellsalign: 'right', cellsformat: 'n2', aggregates: ['min', 'max'],
                       aggregatesrenderer: function (aggregates, column, element) {
-                          var renderstring = "<div class='jqx-widget-content jqx-widget-content-" + theme + "' style='float: left; width: 100%; height: 100%; '>";
+                          var renderstring = "<div class='jqx-widGet-content jqx-widGet-content-" + theme + "' style='float: left; width: 100%; height: 100%; '>";
                           $.each(aggregates, function (key, value) {
                               var name = key == 'min' ? 'Min' : 'Max';
                               var color = key == 'max' ? 'green' : 'red';
@@ -88,7 +88,7 @@
                   },
                   { text: 'Price', datafield: 'price', cellsalign: 'right', cellsformat: 'c2', aggregates: ['sum', 'avg'],
                       aggregatesrenderer: function (aggregates, column, element, summaryData) {
-                          var renderstring = "<div class='jqx-widget-content jqx-widget-content-" + theme + "' style='float: left; width: 100%; height: 100%;'>";
+                          var renderstring = "<div class='jqx-widGet-content jqx-widGet-content-" + theme + "' style='float: left; width: 100%; height: 100%;'>";
                           $.each(aggregates, function (key, value) {
                               var name = key == 'sum' ? 'Sum' : 'Avg';
                               var color = 'green';

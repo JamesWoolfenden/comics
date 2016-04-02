@@ -1,4 +1,4 @@
-function get-xrates
+function Get-xrates
 {
    #$uri="https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20yahoo.finance.xchange%20where%20pair%20in%20%28%22USDGBP%22%29&format=json&diagnostics=true&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys&callback="
    $uri="https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20yahoo.finance.xchange%20where%20pair%20in%20(%22USDGBP%22%2C%22EURGBP%22)&format=json&diagnostics=true&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys&callback="
@@ -10,7 +10,7 @@ function get-xrates
    $rates.query.results.rate
 }
 
-function get-eurodollarrate
+function Get-eurodollarrate
 {
    $xml = New-Object xml
    $xml.Load('http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml')
@@ -21,7 +21,7 @@ function get-eurodollarrate
    $usd
 }
 
-#function get-gbpdollarrate
+#function Get-gbpdollarrate
 #{
 #   $url="http://rate-exchange.appspot.com/currency?from=USD&to=GBP"
 #   $data=invoke-restmethod -uri $url
@@ -30,7 +30,7 @@ function get-eurodollarrate
 #   $data.rate
 #}
 
-function get-gbpdollarrate
+function Get-gbpdollarrate
 {
    $url="http://openexchangerates.org/api/latest.json?app_id=37dfbc191d564cec930b8b8cf808e57c"
    $data=invoke-restmethod -uri $url

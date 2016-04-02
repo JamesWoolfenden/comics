@@ -18,7 +18,7 @@
             var link = $('<link rel="stylesheet" href="' + bootstrapUrl + '" media="screen" />');
             $(document).find('head').append(link);
         }
-        var input = $("<input style='padding-left: 2px; margin-top: 10px; outline:none; border-width: 1px; height: 25px; width: 250px;' class='jqx-widget jqx-widget-bootstrap jqx-rc-all jqx-input jqx-input-bootstrap' placeholder='I am searching for'/>");
+        var input = $("<input style='padding-left: 2px; margin-top: 10px; outline:none; border-width: 1px; height: 25px; width: 250px;' class='jqx-widget jqx-widGet-bootstrap jqx-rc-all jqx-input jqx-input-bootstrap' placeholder='I am searching for'/>");
         input.prependTo(document.body);
         if (navigator.userAgent.indexOf('MSIE 7.0') >= 0 || navigator.userAgent.indexOf('MSIE 8.0') >= 0 || navigator.userAgent.indexOf('MSIE 9.0') >= 0) {
             $("<label>I am searching for</label><br/>").prependTo(document.body);

@@ -7,13 +7,13 @@
 .jqx-rc-r-ui-darkness{border-bottom-right-radius:6px; border-top-right-radius:6px; moz-border-radius-bottomright:6px; moz-border-radius-topright:6px; webkit-border-bottom-right-radius:6px; webkit-border-top-right-radius:6px}
 .jqx-rc-l-ui-darkness{border-bottom-left-radius:6px; border-top-left-radius:6px; moz-border-radius-bottomleft:6px; moz-border-radius-topleft:6px; webkit-border-bottom-left-radius:6px; webkit-border-top-left-radius:6px}
 .jqx-rc-all-ui-darkness{border-radius:6px; moz-border-radius:6px; webkit-border-radius:6px}
-.jqx-widget-ui-darkness {
+.jqx-widGet-ui-darkness {
     color: inherit;
 }
 .jqx-grid-column-sortdescbutton-ui-darkness{position: relative; max-height: 16px; height: 16px !important; top:50%; margin-top:-8px;background-position:0 -16px; background-image:url(images/darkness/ui-icons_ffffff_256x240.png);}
 .jqx-grid-column-sortascbutton-ui-darkness{position: relative; max-height: 16px; height: 16px !important; top:50%; margin-top:-8px; background-position:-65px -16px; background-image:url(images/darkness/ui-icons_ffffff_256x240.png)}
 .jqx-grid-column-menubutton-ui-darkness{position: relative; max-height: 16px; height: 16px !important; top:50%; margin-top:-8px; background-position:-65px -16px; background-image:url(images/darkness/ui-icons_ffffff_256x240.png); border-width:0px}
-.jqx-grid-ui-darkness .jqx-widget-header-ui-darkness{border-width:0px !important}
+.jqx-grid-ui-darkness .jqx-widGet-header-ui-darkness{border-width:0px !important}
 .jqx-tree-item-arrow-expand-ui-darkness, .jqx-tree-item-arrow-expand-hover-ui-darkness{background-position:-65px -16px; background-image:url(images/darkness/ui-icons_222222_256x240.png)}
 .jqx-tree-item-arrow-collapse-ui-darkness, .jqx-tree-item-arrow-collapse-hover-ui-darkness{background-position:-32px -16px; background-image:url(images/darkness/ui-icons_222222_256x240.png)}
 .jqx-menu-item-arrow-right-ui-darkness, .jqx-menu-item-arrow-right-selected-ui-darkness{background-position:-32px -16px; background-image:url(images/darkness/ui-icons_222222_256x240.png)}
@@ -66,11 +66,11 @@
    background: #000;
    color: #fff; 
 }
-.jqx-widget-ui-darkness{ line-height: 17px; font-family:Trebuchet MS,Tahoma,Verdana,Arial,sans-serif; font-size:12px; font-style:normal;}
-.jqx-widget-content-ui-darkness{font-family:Trebuchet MS,Tahoma,Verdana,Arial,sans-serif; background: #000000 url(images/darkness/ui-bg_inset-soft_25_000000_1x100.png) 50% bottom repeat-x; border-color:#666666; color:#fff; font-size:12px}
-.jqx-widget-content-ui-darkness a{color:#fff}
-.jqx-widget-header-ui-darkness{font-family:Trebuchet MS,Tahoma,Verdana,Arial,sans-serif; background: #333333 url(images/darkness/ui-bg_gloss-wave_25_333333_500x100.png) 50% 50% repeat-x; border-color: #333; color:#fff; font-size:12px}
-.jqx-widget-header-ui-darkness a{color:#fff}
+.jqx-widGet-ui-darkness{ line-height: 17px; font-family:Trebuchet MS,Tahoma,Verdana,Arial,sans-serif; font-size:12px; font-style:normal;}
+.jqx-widGet-content-ui-darkness{font-family:Trebuchet MS,Tahoma,Verdana,Arial,sans-serif; background: #000000 url(images/darkness/ui-bg_inset-soft_25_000000_1x100.png) 50% bottom repeat-x; border-color:#666666; color:#fff; font-size:12px}
+.jqx-widGet-content-ui-darkness a{color:#fff}
+.jqx-widGet-header-ui-darkness{font-family:Trebuchet MS,Tahoma,Verdana,Arial,sans-serif; background: #333333 url(images/darkness/ui-bg_gloss-wave_25_333333_500x100.png) 50% 50% repeat-x; border-color: #333; color:#fff; font-size:12px}
+.jqx-widGet-header-ui-darkness a{color:#fff}
 
 .jqx-fill-state-normal-ui-darkness{border-color: #666666; background: #555555 url(images/darkness/ui-bg_glass_20_555555_1x400.png) 50% 50% repeat-x; color: #eeeeee;}
 .jqx-fill-state-normal-ui-darkness a, .jqx-fill-state-normal-ui-darkness a:link, .jqx-fill-state-normal-ui-darkness a:visited{color:#eeeeee; text-decoration:none}

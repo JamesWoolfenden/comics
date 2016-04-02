@@ -69,12 +69,12 @@
     -webkit-border-radius: 0px;
     border-radius: 0px;
 }
-.jqx-widget-metro {
+.jqx-widGet-metro {
     font-size: 12px;
     font-family: 'segoe ui', arial, sans-serif;
 }
-.jqx-widget-content-metro{font-size: 12px; font-family: 'segoe ui', arial, sans-serif; border-color: #e5e5e5; color: #767676; background-color: #fff;}
-.jqx-widget-header-metro{font-size: 12px; font-family: 'segoe ui', arial, sans-serif; color: #767676; border-color:#e5e5e5; background-color:#f4f4f4;}
+.jqx-widGet-content-metro{font-size: 12px; font-family: 'segoe ui', arial, sans-serif; border-color: #e5e5e5; color: #767676; background-color: #fff;}
+.jqx-widGet-header-metro{font-size: 12px; font-family: 'segoe ui', arial, sans-serif; color: #767676; border-color:#e5e5e5; background-color:#f4f4f4;}
 .jqx-fill-state-normal-metro{font-size: 12px; font-family: 'segoe ui', arial, sans-serif; border-color: #e5e5e5; color: #767676; background: #ffffff;}
 .jqx-button-metro {border-color: #e5e5e5;}
 .jqx-fill-state-hover-metro{border-color:#dedede; color: #000; background-color:#dedede;
@@ -88,20 +88,20 @@
     border-color: #e5e5e5;
 }
 .jqx-scrollbar-state-normal-metro, .jqx-grid-bottomright-metro, .jqx-panel-bottomright-metro, .jqx-listbox-bottomright-metro{background-color:#f0f0f0;}
-.jqx-widget-metro .jqx-grid-column-header-metro, .jqx-grid-cell-metro, .jqx-widget-metro .jqx-grid-cell-metro, .jqx-widget-metro .jqx-grid-group-cell-metro, .jqx-grid-group-cell-metro{font-size: 12px; font-family: 'segoe ui', arial, sans-serif; border-color:#f0f0f0;}
+.jqx-widGet-metro .jqx-grid-column-header-metro, .jqx-grid-cell-metro, .jqx-widGet-metro .jqx-grid-cell-metro, .jqx-widGet-metro .jqx-grid-group-cell-metro, .jqx-grid-group-cell-metro{font-size: 12px; font-family: 'segoe ui', arial, sans-serif; border-color:#f0f0f0;}
 .jqx-tabs-title-selected-bottom-metro, .jqx-tabs-selection-tracker-bottom-metro, .jqx-tabs-title-selected-top-metro, .jqx-tabs-selection-tracker-top-metro{color: #767676; border-color:#e5e5e5; border-bottom:1px solid #fff; background:#fff}
 .jqx-grid-cell-sort-alt-metro, .jqx-grid-cell-filter-alt-metro, .jqx-grid-cell-pinned-metro, .jqx-grid-cell-alt-metro, .jqx-grid-cell-sort-metro{ background-color:#ededed; color: #000;}
 .jqx-menu-vertical-metro{background: #fff; border-color: #e5e5e5;}
-.jqx-widget-metro .jqx-grid-cell-metro, .jqx-widget-metro .jqx-grid-column-header-metro, .jqx-widget-metro .jqx-grid-group-cell-metro {color: #000; border-color: #e5e5e5;}
-.jqx-widget-metro .jqx-grid-column-menubutton-metro, .jqx-widget-metro .jqx-grid-column-sortascbutton-metro, .jqx-widget-metro .jqx-grid-column-sortdescbutton-metro, .jqx-widget-metro .jqx-grid-column-filterbutton-metro {
+.jqx-widGet-metro .jqx-grid-cell-metro, .jqx-widGet-metro .jqx-grid-column-header-metro, .jqx-widGet-metro .jqx-grid-group-cell-metro {color: #000; border-color: #e5e5e5;}
+.jqx-widGet-metro .jqx-grid-column-menubutton-metro, .jqx-widGet-metro .jqx-grid-column-sortascbutton-metro, .jqx-widGet-metro .jqx-grid-column-sortdescbutton-metro, .jqx-widGet-metro .jqx-grid-column-filterbutton-metro {
     background-color: transparent;
     border-color: #e5e5e5;
 }
-.jqx-window-header-metro, .jqx-input-button-header-metro, .jqx-calendar-title-header-metro, .jqx-grid-metro .jqx-widget-header-metro, .jqx-grid-header-metro, .jqx-grid-column-header-metro {font-size: 12px; font-family: 'segoe ui', arial, sans-serif; border-color: #e5e5e5; color: #767676; background: #f4f4f4;}
+.jqx-window-header-metro, .jqx-input-button-header-metro, .jqx-calendar-title-header-metro, .jqx-grid-metro .jqx-widGet-header-metro, .jqx-grid-header-metro, .jqx-grid-column-header-metro {font-size: 12px; font-family: 'segoe ui', arial, sans-serif; border-color: #e5e5e5; color: #767676; background: #f4f4f4;}
 .jqx-grid-column-menubutton-metro {
     background-image: url('images/metro-icon-down.png');
  }
-.jqx-widget-metro .jqx-grid-cell-selected-metro, .jqx-grid-cell-selected-metro{ background-color:#1faeff; border-color: #1faeff; font-size: 12px;  color:#fff;}
+.jqx-widGet-metro .jqx-grid-cell-selected-metro, .jqx-grid-cell-selected-metro{ background-color:#1faeff; border-color: #1faeff; font-size: 12px;  color:#fff;}
 .jqx-grid-cell-hover-metro{ background-color:#dedede;}
  /*applied to the column's sort button when the sort order is ascending.*/
  .jqx-grid-column-sortascbutton-metro {

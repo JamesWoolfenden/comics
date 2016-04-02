@@ -31,7 +31,7 @@ foreach ($record in $searches)
 foreach ($title in ($searches.title |select -unique))
 {
    write-Host "Calculating prices for $title" -ForegroundColor cyan
-   $prices= get-allprices $title
+   $prices= Get-allprices $title
    if ($prices -ne $null)
    {
       write-prices -prices $prices -title $title

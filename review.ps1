@@ -51,12 +51,14 @@ function Update-Record
       'EBAY'
 	    {
 		     $estimate=Get-EbayShippingCostFromIE -ie $ie -record $record
-		     $seller  =Get-EbaySellerFromIE -ie $ie -record $record
+		     #$seller  =Get-EbaySellerFromIE -ie $ie -record $record
+         $seller  =Get-EbaySeller -record $record
+         Write-Host "Seller : $seller"
 	    }
 	    default
 	    {
            Write-Host "Detected default"
-	       write-verbose "Record: $($record.postage)"
+	         Write-verbose "Record: $($record.postage)"
            $estimate=$record.postage
            if ($record.site -eq "ebid" -And $record.seller -eq "")
            {
@@ -71,9 +73,9 @@ function Update-Record
 
    $newtitle=(set-title -rawtitle $($record.Title)).ToUpper()
 
-   $color        =get-image  -title $newtitle -issue $record.Issue
+   $color        =Get-image  -title $newtitle -issue $record.Issue
    $estimateIssue=Set-Issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
-   $color        =get-image  -title $newtitle -issue $estimateIssue
+   $color        =Get-image  -title $newtitle -issue $estimateIssue
 
    write-host "Issue $($estimateIssue) - (i)dentify, (c)lose or (r)eplace:" -Foregroundcolor $color -nonewline
    $actualIssue=(read-host).ToUpper()
@@ -89,16 +91,16 @@ function Update-Record
           }
           else
           {
-             $cover=get-cover $estimateIssue
+             $cover=Get-cover $estimateIssue
           }
 
-          $actualIssue=get-imagetitle -issue $cover -title $newtitle
+          $actualIssue=Get-imagetitle -issue $cover -title $newtitle
           write-host "Choose $actualIssue" -ForegroundColor cyan
       }
 	  "R"
 	  {
     	 Write-host "R"
-	     $filepath= get-imagefilename -title $newtitle -issue $actualIssue
+	     $filepath= Get-imagefilename -title $newtitle -issue $actualIssue
 	     ri $filepath -Force | ForEach-Object {
              $removeErrors = @()
              $_ | Remove-Item -ErrorAction SilentlyContinue -ErrorVariable removeErrors
@@ -116,7 +118,7 @@ function Update-Record
       {
          if ($actualIssue -eq $NULL -or $actualIssue -eq "")
          {
-			Write-Host "Assuming value $estimateIssue"
+			      Write-Host "Assuming value $estimateIssue"
             $actualIssue=$estimateIssue
          }
       }
@@ -127,7 +129,7 @@ function Update-Record
       if ($($record.ImageSrc))
       {
          Write-host "Updating Library with image of $newtitle : $actualIssue" -foregroundcolor cyan
-         $filepath= get-imagefilename -title $newtitle -issue $actualIssue
+         $filepath= Get-imagefilename -title $newtitle -issue $actualIssue
          Write-host "Downloading from $($record.Imagesrc) "
          Write-host "Writing to $filepath"
          set-imagefolder $newtitle $actualIssue
@@ -161,7 +163,7 @@ function Update-Record
 
    $priceestimate=0
    [double]$marketprice=0
-   [double]$marketprice=get-currentprice -issue $actualIssue -title $newtitle
+   [double]$marketprice=Get-currentprice -issue $actualIssue -title $newtitle
 
    $foregroundcolor="red"
 
@@ -489,7 +491,7 @@ function GuessTitle
 
     if ($Issue)
     {
-       $cover=get-cover $issue
+       $cover=Get-cover $issue
     }
     else
     {
@@ -543,44 +545,15 @@ function Get-EbidSellerIE
    $seller
 }
 
-function Get-EbaySellerFromIE
+
+function Get-EbaySeller
 {
-   param(
-   [Parameter(Mandatory=$true)]
-   $ie,
-   [Parameter(Mandatory=$true)]
-   [PSObject]$record)
+    param(
+      [Parameter(Mandatory=$true)]
+      [PSObject]$record)
+    $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
 
-   [string]$seller = $null
-
-   if (!($record.seller))
-   {
-       try
-       {
-		 if (@($ie[1].Document.getElementsByClassName('mbg-nw')).InnerText)
-         {
-            $seller=@($ie[1].Document.getElementsByClassName('mbg-nw')).InnerText
-         }
-        
-       }
-       catch
-       {
-		   Write-warning "getElementsByClassName for 'mbg-nw' failed"
-		   
-    	   Write-host "Exception Type: $($_.Exception.GetType().FullName)" -ForegroundColor Red
-           Write-host "Exception Message: $($_.Exception.Message)" -ForegroundColor Red
-           Write-Warning -Message "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
-	   	   throw
-	   }
-   }
-   else
-   {
-      write-host "Seller unchanged $seller"
-      $seller=$record.seller
-   }
-
-   Write-Host "Seller: $seller" -ForegroundColor green
-   $seller
+    & node.exe scrape.js $url
 }
 
 function Get-EbayShippingCostFromIE

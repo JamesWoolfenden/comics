@@ -1,5 +1,5 @@
 
-function get-urltocomicarray
+function Get-urltocomicarray
 {
    param(
    [Parameter(Mandatory=$true)]
