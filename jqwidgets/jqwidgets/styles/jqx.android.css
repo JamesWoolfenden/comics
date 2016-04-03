@@ -69,7 +69,7 @@
     -webkit-border-radius: 0px;
     border-radius: 0px;
 }
-.jqx-widget-android {
+.jqx-widGet-android {
     font-size: 16px; 
     font-family: Roboto,HelveticaNeue,sans-serif;
     color: inherit;
@@ -79,8 +79,8 @@ input[type=text].jqx-input-android, input[type=password].jqx-input-android{
    font-family: Roboto,HelveticaNeue,sans-serif;
    border-color: #636466;
 }
-.jqx-widget-content-android{font-size: 16px;  font-family: Roboto,HelveticaNeue,sans-serif; border-color: #3c4648; color: #ffffff; background-color: #000;}
-.jqx-widget-header-android{
+.jqx-widGet-content-android{font-size: 16px;  font-family: Roboto,HelveticaNeue,sans-serif; border-color: #3c4648; color: #ffffff; background-color: #000;}
+.jqx-widGet-header-android{
     font-size: 16px; 
     font-family: Roboto,HelveticaNeue,sans-serif; 
     color: #ffffff; 
@@ -155,16 +155,16 @@ input[type=text].jqx-input-android, input[type=password].jqx-input-android{
     color: #898989;
 }
 .jqx-scrollbar-state-normal-android, .jqx-grid-bottomright-android, .jqx-panel-bottomright-android, .jqx-listbox-bottomright-android{background-color:#3E3E42;}
-.jqx-widget-android .jqx-grid-column-header-android, .jqx-grid-cell-android, .jqx-widget-android .jqx-grid-cell-android, .jqx-widget-android .jqx-grid-group-cell-android, .jqx-grid-group-cell-android{font-size: 16px;  font-family: Roboto,HelveticaNeue,sans-serif; border-color: #1C1C1E; background-color: #000; color: #fff;}
-.jqx-widget-android .jqx-grid-cell-alt-android, .jqx-widget-android .jqx-grid-cell-sort-android, .jqx-widget-android .jqx-grid-cell-pinned-android, .jqx-widget-android .jqx-grid-cell-filter-android, .jqx-grid-cell-sort-alt-android, .jqx-grid-cell-filter-alt-android, .jqx-grid-cell-pinned-android, .jqx-grid-cell-alt-android, .jqx-grid-cell-sort-android{border-color: #202023; background-color:#3E3E42; color: #fff;}
+.jqx-widGet-android .jqx-grid-column-header-android, .jqx-grid-cell-android, .jqx-widGet-android .jqx-grid-cell-android, .jqx-widGet-android .jqx-grid-group-cell-android, .jqx-grid-group-cell-android{font-size: 16px;  font-family: Roboto,HelveticaNeue,sans-serif; border-color: #1C1C1E; background-color: #000; color: #fff;}
+.jqx-widGet-android .jqx-grid-cell-alt-android, .jqx-widGet-android .jqx-grid-cell-sort-android, .jqx-widGet-android .jqx-grid-cell-pinned-android, .jqx-widGet-android .jqx-grid-cell-filter-android, .jqx-grid-cell-sort-alt-android, .jqx-grid-cell-filter-alt-android, .jqx-grid-cell-pinned-android, .jqx-grid-cell-alt-android, .jqx-grid-cell-sort-android{border-color: #202023; background-color:#3E3E42; color: #fff;}
 .jqx-menu-vertical-android{background: #3E3E42; border-color: #3E3E42;}
-.jqx-widget-android .jqx-grid-cell-android, .jqx-widget-android .jqx-grid-column-header-android, .jqx-widget-android .jqx-grid-group-cell-android { border-color: #202023;}
+.jqx-widGet-android .jqx-grid-cell-android, .jqx-widGet-android .jqx-grid-column-header-android, .jqx-widGet-android .jqx-grid-group-cell-android { border-color: #202023;}
 
-.jqx-widget-android .jqx-grid-column-menubutton-android, .jqx-widget-android .jqx-grid-column-sortascbutton-android, .jqx-widget-android .jqx-grid-column-sortdescbutton-android, .jqx-widget-android .jqx-grid-column-filterbutton-android {
+.jqx-widGet-android .jqx-grid-column-menubutton-android, .jqx-widGet-android .jqx-grid-column-sortascbutton-android, .jqx-widGet-android .jqx-grid-column-sortdescbutton-android, .jqx-widGet-android .jqx-grid-column-filterbutton-android {
     background-color: transparent;
     border-color: #010f18;
 }
-.jqx-grid-cell-filter-row-android, .jqx-grid-android .jqx-widget-header-android, .jqx-grid-header-android, .jqx-grid-column-header-android {font-size: 16px;  font-family: Roboto,HelveticaNeue,sans-serif; 
+.jqx-grid-cell-filter-row-android, .jqx-grid-android .jqx-widGet-header-android, .jqx-grid-header-android, .jqx-grid-column-header-android {font-size: 16px;  font-family: Roboto,HelveticaNeue,sans-serif; 
     border-color:#000 !important;
     border-bottom-color: #32b3e3 !important;
     background: #000 !important;
@@ -175,7 +175,7 @@ input[type=text].jqx-input-android, input[type=password].jqx-input-android{
    margin-top: -1px;
 }
 
-.jqx-widget-header-android .jqx-calendar-title-header-android, .jqx-calendar-title-header-android, .jqx-input-button-header-android, .jqx-window-header-android {
+.jqx-widGet-header-android .jqx-calendar-title-header-android, .jqx-calendar-title-header-android, .jqx-input-button-header-android, .jqx-window-header-android {
    background: #262626;
    border-color: #262626;
    border-bottom-color: #262626 !important;
@@ -197,8 +197,8 @@ input[type=text].jqx-input-android, input[type=password].jqx-input-android{
 .jqx-input-android {
     border-color: #3C4648;
 }
-.jqx-widget-android .jqx-grid-cell-selected-android, .jqx-grid-cell-selected-android{ background-color:#10638d !important; border-color: #10638d !important; font-size: 16px;  color:#fff !important}
-.jqx-widget-android .jqx-grid-cell-hover-android, .jqx-grid-cell-hover-android{ background-color:#3E3E42;}
+.jqx-widGet-android .jqx-grid-cell-selected-android, .jqx-grid-cell-selected-android{ background-color:#10638d !important; border-color: #10638d !important; font-size: 16px;  color:#fff !important}
+.jqx-widGet-android .jqx-grid-cell-hover-android, .jqx-grid-cell-hover-android{ background-color:#3E3E42;}
  /*applied to the column's sort button when the sort order is ascending.*/
  .jqx-grid-column-sortascbutton-android {
     background-image: url('images/metro-icon-up-white.png');
@@ -446,7 +446,7 @@ input[type=text].jqx-input-android, input[type=password].jqx-input-android{
     position: relative;
     padding: 1px 7px;
 }
-.jqx-widget-android .jqx-grid-groups-header-android,
+.jqx-widGet-android .jqx-grid-groups-header-android,
 .jqx-grid-groups-header-android {
     border-bottom-color: #000 !important;
  }

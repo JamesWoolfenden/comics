@@ -1,4 +1,4 @@
-function get-coverselection
+function Get-coverselection
 {
   <#
       .SYNOPSIS 
@@ -13,14 +13,14 @@ function get-coverselection
   $Form.Dispose()
 }
 
-function get-imagetitle
+function Get-imagetitle
 {
   <#
       .SYNOPSIS 
        Call to select title from similar issues cover, useful for variants.
         
       .EXAMPLE
-      C:\PS> get-imagetitle -title CHEW -issue 1
+      C:\PS> Get-imagetitle -title CHEW -issue 1
       This displays a dilaog with a number of possible no.1 covers for the title chew.
    #>
    param(
@@ -69,7 +69,7 @@ function get-imagetitle
 
    foreach($imgfile in $coverfiles)
    {    
-      $file = (get-item $imgfile.FullName) 
+      $file = (Get-item $imgfile.FullName) 
       $img = [System.Drawing.Image]::Fromfile($file)
       $obj= new-object System.Windows.Forms.Button
       $obj.Location = new-object System.Drawing.Size($x,$y)
@@ -82,7 +82,7 @@ function get-imagetitle
       $obj.Add_MouseHover({$obj.backcolor = [System.Drawing.Color]::Azure})
       $obj.Add_MouseLeave({$obj.backcolor = [System.Drawing.Color]::CornflowerBlue})
       $ToolTip.SetToolTip($obj,$imgfile.BaseName )
-      $obj.Add_Click({get-coverselection $($obj.Name)}.GetNewClosure())
+      $obj.Add_Click({Get-coverselection $($obj.Name)}.GetNewClosure())
       $Form.Controls.Add($obj)
 	 
       $x=$x+$img.Size.Width+10
@@ -126,7 +126,7 @@ function get-imagetitle
    $choice
 }
 
-function get-image
+function Get-image
 {
    param(
    [Parameter(Mandatory=$true)]

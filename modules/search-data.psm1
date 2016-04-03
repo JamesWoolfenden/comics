@@ -5,8 +5,8 @@ New-Alias -Name New-SearchData -Value Add-SearchData
 function Initialize-SearchData
 {
 <#
-      .SYNOPSIS 
-    Given some string properties this returns a search custom object             
+      .SYNOPSIS
+    Given some string properties this returns a search custom object
       .PARAMETER title
     Specifies the comic title.
       .PARAMETER include
@@ -14,13 +14,13 @@ function Initialize-SearchData
       .PARAMETER exclude
     Optional specifies any terms to exclude by
       .PARAMETER comictitle
-    An alterative title 
+    An alterative title
       .PARAMETER category
-    An optional ebid category parameter 
+    An optional ebid category parameter
       .PARAMETER Enabled
     Enables or Disables its use in the scan
     .EXAMPLE
-      C:\PS> Initialize-searchdata -title "The Walking Dead" -exclude "Poster" -include "Image"    
+      C:\PS> Initialize-searchdata -title "The Walking Dead" -exclude "Poster" -include "Image"
    #>
    Param(
    [string]$title,
@@ -30,14 +30,14 @@ function Initialize-SearchData
    [string]$productcode=$null,
    [string[]]$category=@("8077"),
    [Boolean]$Enabled=$true)
-   
+
    New-Object PSObject -Property @{title=$title;include=[string[]]$include;exclude=[string[]]$exclude;comictitle=$comictitle;productcode=$productcode;category=[string[]]$category;Enabled=$Enabled}
 }
 
 function Add-SearchData
 {<#
-      .SYNOPSIS 
-    Adds an item to the scan search db	       
+      .SYNOPSIS
+    Adds an item to the scan search db
       .PARAMETER title
     Specifies the comic title.
       .PARAMETER include
@@ -45,13 +45,13 @@ function Add-SearchData
       .PARAMETER exclude
     Optional specifies any terms to exclude by
       .PARAMETER comictitle
-    An alterative title 
+    An alterative title
       .PARAMETER category
-    An optional ebid category parameter 
+    An optional ebid category parameter
       .PARAMETER Enabled
     Enables or Disables its use in the scan
     .EXAMPLE
-      C:\PS> add-searchdata -title "The Walking Dead" -exclude "Poster" -include "Image"    
+      C:\PS> add-searchdata -title "The Walking Dead" -exclude "Poster" -include "Image"
    #>
 
    Param(
@@ -64,34 +64,34 @@ function Add-SearchData
 	[string[]]$category=@("8077"),
 	[switch]$Enabled,
 	[switch]$duplicate)
-   
+
    [boolean]$searchEnabled=$false|out-null
-   
+
    if($enabled)
    {
       $searchEnabled=$true
    }
 
-   if (!(get-searchdata -title $title) -replace $duplicate)
+   if (!(Get-Searchdata -title $title) -replace $duplicate)
    {
       $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
       $search=Initialize-searchdata -title "$($title.ToUpper())" -exclude $exclude -include $include -comictitle $comictitle -productcode $productcode -category $category -Enabled $searchEnabled
       $searches+=$search
-      $searches|Sort-Object title| ConvertTo-Json -depth 999 | Out-File "$datafile"
+      $searches|Sort-Object title| ConvertTo-Json -depth 999 | Out-File "$datafile" -encoding UTF8
       $search
    }
    else
-   { 
+   {
       Write-Error "Cannot add duplicate"
    }
 }
 
 function Set-SearchData
-{  
+{
 	<#
-	    .SYNOPSIS 
+	    .SYNOPSIS
 	     updates an item to the scan search db
-	         
+
 	    .PARAMETER title
 	  Specifies the comic title.
 	    .PARAMETER include
@@ -99,15 +99,15 @@ function Set-SearchData
 	    .PARAMETER exclude
 	  Optional specifies any terms to exclude by
 	    .PARAMETER comictitle
-	  An alterative title 
+	  An alterative title
 	    .PARAMETER category
-	  An optional ebid category parameter 
+	  An optional ebid category parameter
 	    .PARAMETER Enabled
 	  Enables or Disables its use in the scan
-	      
+
 	    .EXAMPLE
 	    C:\PS> add-searchdata -title "The Walking Dead" -exclude "Poster" -include "Image"
-	   
+
 	 #>
 
    Param(
@@ -125,7 +125,7 @@ function Set-SearchData
    $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
 
    $index = [array]::IndexOf(($searches.title), $title)
-   
+
    if ($Enabled)
    {
       $searches[$index].Enabled=$true
@@ -135,8 +135,8 @@ function Set-SearchData
    {
       $searches[$index].Enabled=$false
    }
-   
-   if($productcode) 
+
+   if($productcode)
    {
      $searches[$index].productcode+=$productcode
    }
@@ -146,16 +146,16 @@ function Set-SearchData
       $searches[$index].category=$category
    }
 
-   if($exclude) 
+   if($exclude)
    {
      if ($searches[$index].Exclude -is [string])
      {
-        
+
      }
      $searches[$index].Exclude+=$exclude
    }
 
-   if($include) 
+   if($include)
    {
      $searches[$index].Include+=$include
    }
@@ -171,14 +171,14 @@ function Set-SearchData
 function Get-SearchData
 {
    <#
-      .SYNOPSIS 
+      .SYNOPSIS
        returns a search object when given its title
-           
+
       .PARAMETER title
     Specifies the comic title.
       .EXAMPLE
-      C:\PS> get-searchdata -title "The Walking Dead" 
-     
+      C:\PS> Get-searchdata -title "The Walking Dead"
+
    #>
    Param(
    [Parameter(Mandatory=$true)]
@@ -187,7 +187,7 @@ function Get-SearchData
    $title=$title.ToUpper()
    $searches=(Get-Content $datafile) -join "`n" | ConvertFrom-Json
    $index = [array]::IndexOf(($searches.title), $title)
-   
+
    if ($index -ge 0)
    {
       $searches[$index]
@@ -196,19 +196,19 @@ function Get-SearchData
    {
       $null
    }
-}   
+}
 
 function Remove-SearchData
 {
    <#
-      .SYNOPSIS 
+      .SYNOPSIS
        Removes a complete search object when given its title
-           
+
       .PARAMETER title
     Specifies the comic title.
       .EXAMPLE
-      C:\PS> remove-SearchData -title "The Walking Dead" 
-     
+      C:\PS> remove-SearchData -title "The Walking Dead"
+
    #>
 
    throw "Function not implemented"

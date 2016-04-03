@@ -1,6 +1,6 @@
 $connection= "Data Source=redwolffour.cloudapp.net;Initial Catalog=comics;User ID=guru;Password=Faithle55;Trusted_Connection=False;Persist Security Info=False;"
 
-function get-pounds
+function Get-pounds
 {   <#
       .SYNOPSIS 
        returns clean currency string when given a dirty string    
@@ -8,7 +8,7 @@ function get-pounds
       .PARAMETER dirty
             
       .EXAMPLE
-      C:\PS>  get-pounds -dirty    
+      C:\PS>  Get-pounds -dirty    
    #>
 
    param(
@@ -34,7 +34,7 @@ function get-pounds
     }
 }
 
-function get-cover
+function Get-cover
 {
    <#
       .SYNOPSIS 
@@ -43,7 +43,7 @@ function get-cover
       .PARAMETER dirty
             
       .EXAMPLE
-      C:\PS>  get-cover -dirty    
+      C:\PS>  Get-cover -dirty    
    #>
 
    param(
@@ -136,8 +136,8 @@ function add-record
    $Issue=$Issue.ToUpper()
    $Description=$Description.Replace("'","")
    
-   $postage=get-pounds $postage
-   $price=get-pounds $price
+   $postage=Get-pounds $postage
+   $price=Get-pounds $price
    
    $cmd.commandtext = "INSERT INTO comics 
    (Title, Price, Issue, Bought, DateOfSale, Status, postage, Description, PublishDate, EbayItem, Quantity, AuctionType, BestOffer, BidCount, BuyItNowPrice, CloseDate, ImageSrc, Link, Site, Remaining, Seller, SaleDate, StartingPrice, Parentid, Split) 
@@ -149,7 +149,7 @@ function add-record
    $conn.close()
 }
 
-function get-db
+function Get-db
 {
    param(
     [Parameter(Mandatory=$true)]
@@ -240,12 +240,12 @@ function Update-DB
    
    if($price)
    {
-      $price=get-pounds $price
+      $price=Get-pounds $price
    }
    
    if($postage)
    {
-      $postage=get-pounds $postage
+      $postage=Get-pounds $postage
    }
    
    $updatestring="DateOfSale='$($saledate.ToString())'" 
@@ -368,8 +368,8 @@ function Search-DB
           $seller=$data.GetString(0)
        }
     
-       $price= get-pounds $data.GetDouble(2)
-       $postage= get-pounds $data.GetDouble(7)
+       $price= Get-pounds $data.GetDouble(2)
+       $postage= Get-pounds $data.GetDouble(7)
     
        if ($data.IsDBNull(8))
        {
@@ -416,7 +416,7 @@ function Search-DB
        {    
          if ($data.GetString(13))
           {
-             $BestOffer=get-pounds -dirty "$($data.GetString(13))" 
+             $BestOffer=Get-pounds -dirty "$($data.GetString(13))" 
           }
        }
        
@@ -440,7 +440,7 @@ function Search-DB
           if ($data.GetString(15))
           {
              $buyitnowprice=($data.GetString(15)).Replace("&#163;","")
-             $buyitnowprice=get-pounds -dirty $buyitnowprice  
+             $buyitnowprice=Get-pounds -dirty $buyitnowprice  
           }
           else
           {
@@ -529,7 +529,7 @@ function Search-DB
    $conn.Close()
 }
 
-function get-priceestimate
+function Get-priceestimate
 {
    param(
    [Parameter(Mandatory=$true)]
@@ -596,9 +596,9 @@ function get-priceestimate
        $averagePrice=$totalPrice     
     }
     
-    $currentprice=get-currentprice -title $($comic.Title) -issue $issue
+    $currentprice=Get-currentprice -title $($comic.Title) -issue $issue
 
-    [int]$cover = get-cover -dirty $issue 
+    [int]$cover = Get-cover -dirty $issue 
     $mean=$average
     $average="{0:N2}" -f $average
     $date=Get-date 
@@ -622,7 +622,7 @@ function get-priceestimate
    return $objStats 
 }
 
-function get-selleritems
+function Get-selleritems
 {
    <#
       .SYNOPSIS 
@@ -632,10 +632,10 @@ function get-selleritems
     Specifies the seller. If left blank orders by seller.
         
       .EXAMPLE
-      C:\PS> get-selleritems -seller blackadam 
+      C:\PS> Get-selleritems -seller blackadam 
       
       .EXAMPLE
-      C:\PS> get-selleritems -seller blackadam -nogrid
+      C:\PS> Get-selleritems -seller blackadam -nogrid
       
       .EXAMPLE
             C:\PS> byseller |ogv
@@ -667,7 +667,7 @@ function get-selleritems
 
 }
 
-function get-currentprice
+function Get-currentprice
 {
    <#
       .SYNOPSIS 
@@ -680,7 +680,7 @@ function get-currentprice
       The issue for pricing
         
       .EXAMPLE
-      C:\PS>  get-currentprice -Issue 127 -title "The Walking Dead" 
+      C:\PS>  Get-currentprice -Issue 127 -title "The Walking Dead" 
    #>
 
    Param(
@@ -759,8 +759,8 @@ function update-issue
    $result = $cmd.ExecuteNonQuery()
    $conn.Close()
 
-   $oldimage=get-imagefilename -title $title -issue $Oldissue
-   $newimage=get-imagefilename -title $title -issue $newissue
+   $oldimage=Get-imagefilename -title $title -issue $Oldissue
+   $newimage=Get-imagefilename -title $title -issue $newissue
 
    If(test-path $oldimage)
    {

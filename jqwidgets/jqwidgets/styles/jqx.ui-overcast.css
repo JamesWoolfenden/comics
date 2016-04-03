@@ -60,11 +60,11 @@
 .jqx-window-collapse-button-collapsed-ui-overcast, .jqx-window-collapse-button-collapsed-hover-ui-overcast{background-position:-64px -16px}
 .jqx-window-modal-ui-overcast{background: #aaaaaa; opacity: .30;filter:Alpha(Opacity=30);}
 /*Common Settings*/
-.jqx-widget-ui-overcast{line-height: 17px; font-family: Trebuchet MS, Helvetica, Arial, sans-serif; font-size:12px; font-style:normal; webkit-tap-highlight-color:rgba(0,0,0,0)}
-.jqx-widget-content-ui-overcast{ font-family: Trebuchet MS, Helvetica, Arial, sans-serif; border-color: #aaaaaa; background: #c9c9c9; color: #333333; font-size:12px}
-.jqx-widget-content-ui-overcast a{color:#333333}
-.jqx-widget-header-ui-overcast{font-family: Trebuchet MS, Helvetica, Arial, sans-serif; border-color: #bbbbbb; background: #dddddd url(images/overcast/ui-bg_glass_35_dddddd_1x400.png) 50% 50% repeat-x; color: #444444; font-size:12px}
-.jqx-widget-header-ui-overcast a{color:#444444}
+.jqx-widGet-ui-overcast{line-height: 17px; font-family: Trebuchet MS, Helvetica, Arial, sans-serif; font-size:12px; font-style:normal; webkit-tap-highlight-color:rgba(0,0,0,0)}
+.jqx-widGet-content-ui-overcast{ font-family: Trebuchet MS, Helvetica, Arial, sans-serif; border-color: #aaaaaa; background: #c9c9c9; color: #333333; font-size:12px}
+.jqx-widGet-content-ui-overcast a{color:#333333}
+.jqx-widGet-header-ui-overcast{font-family: Trebuchet MS, Helvetica, Arial, sans-serif; border-color: #bbbbbb; background: #dddddd url(images/overcast/ui-bg_glass_35_dddddd_1x400.png) 50% 50% repeat-x; color: #444444; font-size:12px}
+.jqx-widGet-header-ui-overcast a{color:#444444}
 .jqx-fill-state-normal-ui-overcast{border-color: #cccccc; background: #eeeeee ; color: #3383bb;}
 .jqx-fill-state-normal-ui-overcast a, .jqx-fill-state-normal-ui-overcast a:link, .jqx-fill-state-normal-ui-overcast a:visited{color:#3383bb; text-decoration:none}
 .jqx-fill-state-hover-ui-overcast{border-color: #bbbbbb; background: #f8f8f8 url(images/overcast/ui-bg_glass_100_f8f8f8_1x400.png) 50% 50% repeat-x; color: #599fcf;}
@@ -117,7 +117,7 @@
 .jqx-grid-cell-sort-ui-overcast, .jqx-grid-cell-filter-ui-overcast, .jqx-grid-cell-pinned-ui-overcast{background:#e1e1e1;}
 .jqx-grid-bottomright-ui-overcast, .jqx-panel-bottomright-ui-overcast, .jqx-listbox-bottomright-ui-overcast, .jqx-scrollbar-state-normal-ui-overcast{background: #e1e1e1;}
 .jqx-grid-cell-sort-alt-ui-overcast, .jqx-grid-cell-alt-ui-overcast, .jqx-grid-cell-filter-alt-ui-overcast{background: #e1e1e1;}
-.jqx-widget-ui-overcast .jqx-grid-column-header-ui-overcast, .jqx-grid-cell-ui-overcast, .jqx-widget-ui-overcast .jqx-grid-cell-ui-overcast, .jqx-widget-ui-overcast .jqx-grid-group-cell-ui-overcast, .jqx-grid-group-cell-ui-overcast{border-color:#cccccc}
+.jqx-widGet-ui-overcast .jqx-grid-column-header-ui-overcast, .jqx-grid-cell-ui-overcast, .jqx-widGet-ui-overcast .jqx-grid-cell-ui-overcast, .jqx-widGet-ui-overcast .jqx-grid-group-cell-ui-overcast, .jqx-grid-group-cell-ui-overcast{border-color:#cccccc}
 .jqx-grid-column-header-ui-overcast{font-weight: bold;}
 .jqx-grid-cell-selected-ui-overcast{border-color: #cccccc; background: #999999 url(images/overcast/ui-bg_inset-hard_75_999999_1x100.png) 50% 50% repeat-x; color: #ffffff;}
 .jqx-grid-group-expand-ui-overcast{background-position: 50% 50%; background-repeat: no-repeat; background-image: url(images/icon-down.png);}

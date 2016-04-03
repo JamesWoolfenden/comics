@@ -57,11 +57,11 @@
 .jqx-window-modal-ui-redmond{background: #aaaaaa; opacity: .30;filter:Alpha(Opacity=30);}
 .jqx-window-close-button-hover-ui-redmond{background-color:#fff; background-position:-96px -128px; background-image:url(images/redmond/ui-icons_217bc0_256x240.png); cursor:pointer; width:16px; height:16px}
 /*Common Settings*/
-.jqx-widget-ui-redmond{font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; font-size:13px; font-style:normal; webkit-tap-highlight-color:rgba(0,0,0,0)}
-.jqx-widget-content-ui-redmond{ font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; border-color: #a6c9e2; background: #fcfdfd url(images/redmond/ui-bg_inset-hard_100_fcfdfd_1x100.png) 50% bottom repeat-x; color: #222222; font-size:13px}
-.jqx-widget-content-ui-redmond a{color:#222}
-.jqx-widget-header-ui-redmond{font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; border-color: #4297d7; background: #5c9ccc url(images/redmond/ui-bg_gloss-wave_55_5c9ccc_500x100.png) 50% 50% repeat-x; color: #ffffff; font-size:13px}
-.jqx-widget-header-ui-redmond a{color:#222}
+.jqx-widGet-ui-redmond{font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; font-size:13px; font-style:normal; webkit-tap-highlight-color:rgba(0,0,0,0)}
+.jqx-widGet-content-ui-redmond{ font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; border-color: #a6c9e2; background: #fcfdfd url(images/redmond/ui-bg_inset-hard_100_fcfdfd_1x100.png) 50% bottom repeat-x; color: #222222; font-size:13px}
+.jqx-widGet-content-ui-redmond a{color:#222}
+.jqx-widGet-header-ui-redmond{font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; border-color: #4297d7; background: #5c9ccc url(images/redmond/ui-bg_gloss-wave_55_5c9ccc_500x100.png) 50% 50% repeat-x; color: #ffffff; font-size:13px}
+.jqx-widGet-header-ui-redmond a{color:#222}
 .jqx-fill-state-normal-ui-redmond{border-color: #c5dbec; background: #dfeffc url(images/redmond/ui-bg_glass_85_dfeffc_1x400.png) 50% 50% repeat-x; color: #2e6e9e;}
 .jqx-fill-state-normal-ui-redmond a, .jqx-fill-state-normal-ui-redmond a:link, .jqx-fill-state-normal-ui-redmond a:visited{color:#2e6e9e; text-decoration:none}
 .jqx-fill-state-hover-ui-redmond{border-color: #79b7e7; background: #d0e5f5 url(images/redmond/ui-bg_glass_75_d0e5f5_1x400.png) 50% 50% repeat-x; color: #1d5987;}
@@ -116,7 +116,7 @@
 .jqx-grid-cell-sort-ui-redmond, .jqx-grid-cell-filter-ui-redmond, .jqx-grid-cell-pinned-ui-redmond{background:#e1effb;}
 .jqx-grid-bottomright-ui-redmond, .jqx-panel-bottomright-ui-redmond, .jqx-listbox-bottomright-ui-redmond, .jqx-scrollbar-state-normal-ui-redmond{background: #fff;}
 .jqx-grid-cell-sort-alt-ui-redmond, .jqx-grid-cell-alt-ui-redmond, .jqx-grid-cell-filter-alt-ui-redmond{background: #e1effb;}
-.jqx-widget-ui-redmond .jqx-grid-column-header-ui-redmond, .jqx-grid-cell-ui-redmond, .jqx-widget-ui-redmond .jqx-grid-cell-ui-redmond, .jqx-widget-ui-redmond .jqx-grid-group-cell-ui-redmond, .jqx-grid-group-cell-ui-redmond{border-color:#c5dbec}
+.jqx-widGet-ui-redmond .jqx-grid-column-header-ui-redmond, .jqx-grid-cell-ui-redmond, .jqx-widGet-ui-redmond .jqx-grid-cell-ui-redmond, .jqx-widGet-ui-redmond .jqx-grid-group-cell-ui-redmond, .jqx-grid-group-cell-ui-redmond{border-color:#c5dbec}
 .jqx-grid-column-header-ui-redmond{font-weight: bold;}
 .jqx-grid-group-expand-ui-redmond{background-position: 50% 50%; background-repeat: no-repeat;background-image: url(images/icon-down.png);}
 .jqx-grid-group-collapse-ui-redmond{background-position: 50% 50%; background-repeat: no-repeat;background-image: url(images/icon-right.png);}

@@ -1,17 +1,17 @@
-﻿.jqx-widget-shinyblack{border-color:#222}
-.jqx-widget-content-shinyblack{color:#222; border-color:#262626}
-.jqx-fill-state-normal-shinyblack, .jqx-widget-header-shinyblack{color:#fff; border-color:#000; background:#000 url(images/bg_black.png) left center scroll repeat-x}
+﻿.jqx-widGet-shinyblack{border-color:#222}
+.jqx-widGet-content-shinyblack{color:#222; border-color:#262626}
+.jqx-fill-state-normal-shinyblack, .jqx-widGet-header-shinyblack{color:#fff; border-color:#000; background:#000 url(images/bg_black.png) left center scroll repeat-x}
 .jqx-fill-state-hover-shinyblack{background:transparent url(images/bg_blackhover.png) left center scroll repeat-x; border-color:#262626; color:#fff}
 .jqx-fill-state-pressed-shinyblack, .jqx-menu-item-top-hover-shinyblack{background:transparent url(images/bg_blackpressed.png) left center scroll repeat-x; border-color:#262626; color:#fff}
 
 .jqx-checkbox-check-checked-shinyblack{background:transparent url(images/check_white.png) left top no-repeat}
 .jqx-checkbox-check-indeterminate-shinyblack{background:transparent url(images/check_indeterminate_white.png) left top no-repeat}
 .jqx-grid-shinyblack, .jqx-grid-header-shinyblack, .jqx-grid-cell-shinyblack{border-color:#262626}
-.jqx-widget-shinyblack .jqx-grid-cell-shinyblack, .jqx-widget-shinyblack .jqx-grid-group-cell-shinyblack{border-color:#262626}
-.jqx-widget-shinyblack .jqx-grid-column-menubutton-shinyblack, .jqx-widget-shinyblack .jqx-grid-column-sortascbutton-shinyblack, .jqx-widget-shinyblack .jqx-grid-column-sortdescbutton-shinyblack, .jqx-widget-shinyblack .jqx-grid-column-filterbutton-shinyblack{border-color:#262626}
-.jqx-widget-shinyblack .jqx-grid-column-header-shinyblack{border-color:#262626}
+.jqx-widGet-shinyblack .jqx-grid-cell-shinyblack, .jqx-widGet-shinyblack .jqx-grid-group-cell-shinyblack{border-color:#262626}
+.jqx-widGet-shinyblack .jqx-grid-column-menubutton-shinyblack, .jqx-widGet-shinyblack .jqx-grid-column-sortascbutton-shinyblack, .jqx-widGet-shinyblack .jqx-grid-column-sortdescbutton-shinyblack, .jqx-widGet-shinyblack .jqx-grid-column-filterbutton-shinyblack{border-color:#262626}
+.jqx-widGet-shinyblack .jqx-grid-column-header-shinyblack{border-color:#262626}
 .jqx-grid-bottomright-shinyblack, .jqx-panel-bottomright-shinyblack, .jqx-listbox-bottomright-shinyblack{background-color:#262626}
-.jqx-widget-shinyblack .jqx-grid-column-menubutton-shinyblack, .jqx-menu-vertical-shinyblack{background-color:#262626; border-color:#262626}
+.jqx-widGet-shinyblack .jqx-grid-column-menubutton-shinyblack, .jqx-menu-vertical-shinyblack{background-color:#262626; border-color:#262626}
  .jqx-grid-selectionarea-shinyblack{background-color:#262626; border:1px solid #262626; opacity:0.5}
 .jqx-grid-group-cell-shinyblack{border-color:#262626; background-color:#fff}
 .jqx-grid-cell-sort-shinyblack, .jqx-grid-cell-filter-shinyblack, .jqx-grid-cell-pinned-shinyblack{ background-color:#eaf8ff}

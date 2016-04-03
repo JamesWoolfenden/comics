@@ -64,7 +64,7 @@
     border-radius: 5px;
 }
 
-.jqx-widget-mobile {
+.jqx-widGet-mobile {
     font-size: 100%;
     font-family: HelveticaNeue,sans-serif;
     color: inherit;
@@ -77,7 +77,7 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
     background: #fff;
 }
 
-.jqx-widget-content-mobile {
+.jqx-widGet-content-mobile {
     font-size: 100%;
     font-family: HelveticaNeue,sans-serif;
     border-color: #b2b2b2;
@@ -85,15 +85,15 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
     background-color: #f8f8f8;
 }
 
-.jqx-listbox-mobile, .jqx-calendar-mobile .jqx-widget-content-mobile {
+.jqx-listbox-mobile, .jqx-calendar-mobile .jqx-widGet-content-mobile {
     background: #fff;
 }
 
-.jqx-calendar-mobile .jqx-widget-header-mobile {
+.jqx-calendar-mobile .jqx-widGet-header-mobile {
     background: #f6f5f1;
 }
 
-.jqx-widget-header-mobile {
+.jqx-widGet-header-mobile {
     font-size: 100%;
     font-family: HelveticaNeue,sans-serif;
     color: #000;
@@ -169,7 +169,7 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
 .jqx-listmenu-item-mobile {
     padding: 0px;
 }
-.jqx-navigationbar-mobile .jqx-widget-header-mobile, .jqx-navigationbar-mobile .jqx-fill-state-hover-mobile {
+.jqx-navigationbar-mobile .jqx-widGet-header-mobile, .jqx-navigationbar-mobile .jqx-fill-state-hover-mobile {
     background: #ffffff;
     border-top: 1px solid #cccccc;
 }
@@ -237,23 +237,23 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
 }
 
 
-.jqx-widget-mobile .jqx-grid-column-header-mobile, .jqx-grid-cell-mobile, .jqx-widget-mobile .jqx-grid-cell-mobile, .jqx-widget-mobile .jqx-grid-group-cell-mobile, .jqx-grid-group-cell-mobile {
+.jqx-widGet-mobile .jqx-grid-column-header-mobile, .jqx-grid-cell-mobile, .jqx-widGet-mobile .jqx-grid-cell-mobile, .jqx-widGet-mobile .jqx-grid-group-cell-mobile, .jqx-grid-group-cell-mobile {
     font-size: 100%;
     font-family: HelveticaNeue,sans-serif;
 }
 
-.jqx-widget-mobile .jqx-grid-cell-alt-mobile, .jqx-widget-mobile .jqx-grid-cell-sort-mobile, .jqx-widget-mobile .jqx-grid-cell-pinned-mobile, .jqx-widget-mobile .jqx-grid-cell-filter-mobile, .jqx-grid-cell-sort-alt-mobile, .jqx-grid-cell-filter-alt-mobile, .jqx-grid-cell-pinned-mobile, .jqx-grid-cell-alt-mobile, .jqx-grid-cell-sort-mobile {
+.jqx-widGet-mobile .jqx-grid-cell-alt-mobile, .jqx-widGet-mobile .jqx-grid-cell-sort-mobile, .jqx-widGet-mobile .jqx-grid-cell-pinned-mobile, .jqx-widGet-mobile .jqx-grid-cell-filter-mobile, .jqx-grid-cell-sort-alt-mobile, .jqx-grid-cell-filter-alt-mobile, .jqx-grid-cell-pinned-mobile, .jqx-grid-cell-alt-mobile, .jqx-grid-cell-sort-mobile {
 }
 
-.jqx-widget-mobile .jqx-grid-cell-mobile, .jqx-widget-mobile .jqx-grid-column-header-mobile, .jqx-widget-mobile .jqx-grid-group-cell-mobile {
+.jqx-widGet-mobile .jqx-grid-cell-mobile, .jqx-widGet-mobile .jqx-grid-column-header-mobile, .jqx-widGet-mobile .jqx-grid-group-cell-mobile {
     
 }
 
-.jqx-widget-mobile .jqx-grid-column-menubutton-mobile, .jqx-widget-mobile .jqx-grid-column-sortascbutton-mobile, .jqx-widget-mobile .jqx-grid-column-sortdescbutton-mobile, .jqx-widget-mobile .jqx-grid-column-filterbutton-mobile {
+.jqx-widGet-mobile .jqx-grid-column-menubutton-mobile, .jqx-widGet-mobile .jqx-grid-column-sortascbutton-mobile, .jqx-widGet-mobile .jqx-grid-column-sortdescbutton-mobile, .jqx-widGet-mobile .jqx-grid-column-filterbutton-mobile {
     background-color: transparent;
 }
 
-.jqx-grid-cell-filter-row-mobile, .jqx-grid-mobile .jqx-widget-header-mobile, .jqx-grid-header-mobile, .jqx-grid-column-header-mobile {
+.jqx-grid-cell-filter-row-mobile, .jqx-grid-mobile .jqx-widGet-header-mobile, .jqx-grid-header-mobile, .jqx-grid-column-header-mobile {
     font-size: 100%;
     font-family: HelveticaNeue,sans-serif;
     color: #167efc;
@@ -290,11 +290,11 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
     border-color: #b2b2b2;
 }
 
-.jqx-widget-mobile .jqx-grid-cell-selected-mobile, .jqx-grid-cell-selected-mobile {
+.jqx-widGet-mobile .jqx-grid-cell-selected-mobile, .jqx-grid-cell-selected-mobile {
     font-size: 100%;
 }
 
-.jqx-widget-mobile .jqx-grid-cell-hover-mobile, .jqx-grid-cell-hover-mobile {
+.jqx-widGet-mobile .jqx-grid-cell-hover-mobile, .jqx-grid-cell-hover-mobile {
 }
 /*applied to the column's sort button when the sort order is ascending.*/
 .jqx-grid-column-sortascbutton-mobile {
@@ -310,7 +310,7 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
     border-color: #f1f2f3;
 }
 
-.jqx-widget-mobile .jqx-checkbox-default-mobile {
+.jqx-widGet-mobile .jqx-checkbox-default-mobile {
     border-color: #b2b2b2;
 }
 
@@ -612,7 +612,7 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
     min-height: 16px;
     line-height: 19px;
 }
-.jqx-widget-header-mobile .jqx-button-mobile {
+.jqx-widGet-header-mobile .jqx-button-mobile {
     margin-left: -10px;
 }
 .jqx-listmenu-backbutton-arrow-mobile {

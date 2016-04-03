@@ -1,11 +1,11 @@
-function get-records
+function Get-records
 {
  <#
    .SYNOPSIS 
    Retrieves ebay records and adds them to the db
         
    .EXAMPLE
-   C:\PS> get-records -title "The Walking Dead" -exclude "Poster"   
+   C:\PS> Get-records -title "The Walking Dead" -exclude "Poster"   
     This loads the search json db and scan ebay and ebid.
  #>
 

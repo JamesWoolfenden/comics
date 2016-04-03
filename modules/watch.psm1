@@ -1,11 +1,11 @@
-function get-watch
+function Get-watch
 {
    <#
       .SYNOPSIS 
        For viewing a set open of watch items
         
       .EXAMPLE
-      C:\PS> get-watch
+      C:\PS> Get-watch
       This lists all the open records marked watch
    #>
 
@@ -27,7 +27,7 @@ function watch
    
    Param()
 
-   $results=get-watch
+   $results=Get-watch
 
    try
    {

@@ -69,12 +69,12 @@
     -webkit-border-radius: 0px;
     border-radius: 0px;
 }
-.jqx-widget-blackberry {
+.jqx-widGet-blackberry {
     font-size: 16px;
     font-family: Slate Pro, Slate, Helvetica, sans-serif;
     color: inherit;
 }
-.jqx-widget-content-blackberry {
+.jqx-widGet-content-blackberry {
    font-family: Slate Pro, Slate, Helvetica, sans-serif;
     background-color: #ffffff;
     border-color: #ccc;
@@ -83,10 +83,10 @@
     color: #000;
  }
 
-.jqx-widget-blackberry {
+.jqx-widGet-blackberry {
     border-color: #015e98;
 }
-.jqx-widget-header-blackberry {
+.jqx-widGet-header-blackberry {
     color: #fff;
     background-color: #0076ae;
     border-color: #296b8e;
@@ -130,7 +130,7 @@
     -o-border-radius: 5px;
     border-radius: 5px;
 }
-.jqx-widget-blackberry .jqx-grid-column-menubutton-blackberry, .jqx-grid-column-menubutton-blackberry {
+.jqx-widGet-blackberry .jqx-grid-column-menubutton-blackberry, .jqx-grid-column-menubutton-blackberry {
     background-color: transparent;
     border-color: #0076ae;
 }
@@ -312,7 +312,7 @@
     background-position: center;
 }
 
-.jqx-widget-blackberry .jqx-grid-group-expand-blackberry, .jqx-grid-group-expand-blackberry, .jqx-grid-column-menubutton-blackberry, .jqx-grid-column-sortdescbutton-blackberry, .jqx-expander-arrow-top-blackberry, .jqx-window-collapse-button-collapsed-blackberry, .jqx-menu-item-arrow-down-blackberry, .jqx-menu-item-arrow-down-selected-blackberry, .jqx-menu-item-arrow-down-blackberry, .jqx-icon-arrow-down-blackberry, .jqx-icon-arrow-down-hover-blackberry, .jqx-icon-arrow-down-selected-blackberry {
+.jqx-widGet-blackberry .jqx-grid-group-expand-blackberry, .jqx-grid-group-expand-blackberry, .jqx-grid-column-menubutton-blackberry, .jqx-grid-column-sortdescbutton-blackberry, .jqx-expander-arrow-top-blackberry, .jqx-window-collapse-button-collapsed-blackberry, .jqx-menu-item-arrow-down-blackberry, .jqx-menu-item-arrow-down-selected-blackberry, .jqx-menu-item-arrow-down-blackberry, .jqx-icon-arrow-down-blackberry, .jqx-icon-arrow-down-hover-blackberry, .jqx-icon-arrow-down-selected-blackberry {
     background-image: url('images/icon-down.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -324,7 +324,7 @@
     background-position: center;
 }
 
-.jqx-widget-blackberry .jqx-grid-group-collapse-blackberry, .jqx-grid-group-collapse-blackberry, .jqx-tabs-arrow-right-blackberry, .jqx-menu-item-arrow-right-selected-blackberry, .jqx-menu-item-arrow-top-right-blackberry, .jqx-icon-arrow-right-blackberry, .jqx-icon-arrow-right-hover-blackberry, .jqx-icon-arrow-right-selected-blackberry {
+.jqx-widGet-blackberry .jqx-grid-group-collapse-blackberry, .jqx-grid-group-collapse-blackberry, .jqx-tabs-arrow-right-blackberry, .jqx-menu-item-arrow-right-selected-blackberry, .jqx-menu-item-arrow-top-right-blackberry, .jqx-icon-arrow-right-blackberry, .jqx-icon-arrow-right-hover-blackberry, .jqx-icon-arrow-right-selected-blackberry {
     background-image: url('images/icon-right.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -375,15 +375,15 @@
     border-color: #959595;
 }
 
-input[type="text"].jqx-input-blackberry:-moz-placeholder, input[type="text"].jqx-widget-content-blackberry:-moz-placeholder, input[type="textarea"].jqx-widget-content-blackberry:-moz-placeholder, textarea.jqx-input-blackberry:-moz-placeholder {
+input[type="text"].jqx-input-blackberry:-moz-placeholder, input[type="text"].jqx-widGet-content-blackberry:-moz-placeholder, input[type="textarea"].jqx-widGet-content-blackberry:-moz-placeholder, textarea.jqx-input-blackberry:-moz-placeholder {
     color: #999999;
 }
 
-input[type="text"].jqx-input-blackberry:-webkit-input-placeholder, input[type="text"].jqx-widget-content-blackberry:-webkit-input-placeholder, input[type="textarea"].jqx-widget-content-blackberry:-webkit-input-placeholder, textarea.jqx-input-blackberry:-webkit-input-placeholder {
+input[type="text"].jqx-input-blackberry:-webkit-input-placeholder, input[type="text"].jqx-widGet-content-blackberry:-webkit-input-placeholder, input[type="textarea"].jqx-widGet-content-blackberry:-webkit-input-placeholder, textarea.jqx-input-blackberry:-webkit-input-placeholder {
     color: #999999;
 }
 
-input[type="text"].jqx-input-blackberry:-ms-input-placeholder, input[type="text"].jqx-widget-content-blackberry:-ms-input-placeholder, input[type="textarea"].jqx-widget-content-blackberry:-ms-input-placeholder, textarea.jqx-input-blackberry:-ms-input-placeholder {
+input[type="text"].jqx-input-blackberry:-ms-input-placeholder, input[type="text"].jqx-widGet-content-blackberry:-ms-input-placeholder, input[type="textarea"].jqx-widGet-content-blackberry:-ms-input-placeholder, textarea.jqx-input-blackberry:-ms-input-placeholder {
     color: #999999;
 }
 

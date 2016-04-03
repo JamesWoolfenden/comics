@@ -62,11 +62,11 @@
 .jqx-window-close-button-hover-ui-le-frog{background-color:#fff; background-position:-96px -128px; background-image:url(images/le-frog/ui-icons_72b42d_256x240.png); cursor:pointer; width:16px; height:16px}
 
 /*Common Settings*/
-.jqx-widget-ui-le-frog{font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; font-size:12px; font-style:normal;}
-.jqx-widget-content-ui-le-frog{font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; border-color: #72b42d; background: #285c00 url(images/le-frog/ui-bg_inset-soft_10_285c00_1x100.png) 50% bottom repeat-x; color: #ffffff; font-size:12px}
-.jqx-widget-content-ui-le-frog a{color:#ffffff}
-.jqx-widget-header-ui-le-frog{font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; border-color: #3f7506; background: #3a8104 url(images/le-frog/ui-bg_highlight-soft_33_3a8104_1x100.png) 50% 50% repeat-x; color: #ffffff; font-size:12px}
-.jqx-widget-header-ui-le-frog a{color:#ffffff}
+.jqx-widGet-ui-le-frog{font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; font-size:12px; font-style:normal;}
+.jqx-widGet-content-ui-le-frog{font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; border-color: #72b42d; background: #285c00 url(images/le-frog/ui-bg_inset-soft_10_285c00_1x100.png) 50% bottom repeat-x; color: #ffffff; font-size:12px}
+.jqx-widGet-content-ui-le-frog a{color:#ffffff}
+.jqx-widGet-header-ui-le-frog{font-family: Lucida Grande, Lucida Sans, Arial, sans-serif; border-color: #3f7506; background: #3a8104 url(images/le-frog/ui-bg_highlight-soft_33_3a8104_1x100.png) 50% 50% repeat-x; color: #ffffff; font-size:12px}
+.jqx-widGet-header-ui-le-frog a{color:#ffffff}
 .jqx-fill-state-normal-ui-le-frog, .jqx-calendar-cell-ui-le-frog, .jqx-tabs-title-ui-le-frog, .jqx-expander-header-ui-le-frog{border-color: #45930b; background: #4ca20b url(images/le-frog/ui-bg_highlight-soft_60_4ca20b_1x100.png) 50% 50% repeat-x; font-weight: normal; color: #ffffff;}
 .jqx-fill-state-normal-ui-le-frog a, .jqx-fill-state-normal-ui-le-frog a:link, .jqx-fill-state-normal-ui-le-frog a:visited{color:#ffffff; text-decoration:none}
 .jqx-fill-state-hover-ui-le-frog{border-color: #8bd83b; background: #4eb305 url(images/le-frog/ui-bg_highlight-soft_50_4eb305_1x100.png) 50% 50% repeat-x; font-weight: normal; color: #ffffff; }
@@ -115,7 +115,7 @@
 /*Grid*/
 .jqx-grid-cell-sort-ui-le-frog, .jqx-grid-cell-filter-ui-le-frog, .jqx-grid-cell-pinned-ui-le-frog, .jqx-grid-cell-selected-ui-le-frog{background: #1c4000; color: #fcfefc;}
 .jqx-grid-bottomright-ui-le-frog, .jqx-panel-bottomright-ui-le-frog, .jqx-listbox-bottomright-ui-le-frog, .jqx-scrollbar-state-normal-ui-le-frog{background: #35650f;}
-.jqx-widget-ui-le-frog .jqx-grid-column-header-ui-le-frog, .jqx-grid-cell-ui-le-frog, .jqx-widget-ui-le-frog .jqx-grid-cell-ui-le-frog, .jqx-widget-ui-le-frog .jqx-grid-group-cell-ui-le-frog, .jqx-grid-group-cell-ui-le-frog{border-color:#72b42d}
+.jqx-widGet-ui-le-frog .jqx-grid-column-header-ui-le-frog, .jqx-grid-cell-ui-le-frog, .jqx-widGet-ui-le-frog .jqx-grid-cell-ui-le-frog, .jqx-widGet-ui-le-frog .jqx-grid-group-cell-ui-le-frog, .jqx-grid-group-cell-ui-le-frog{border-color:#72b42d}
 .jqx-grid-group-expand-ui-le-frog{background-position: 50% 50%; background-repeat: no-repeat;background-image: url(images/icon-down-white.png);}
 .jqx-grid-group-collapse-ui-le-frog{background-position: 50% 50%; background-repeat: no-repeat;background-image: url(images/icon-right-white.png);}
 .jqx-grid-group-cell-ui-le-frog {

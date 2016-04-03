@@ -45,19 +45,19 @@ Function Invoke-WebPowerShell([string] $command, [string] $format = [string]::Em
 Describe "Invoking commandline" {
 
     It "returns single object" {
-        $json = Invoke-WebPowerShell -command "get-ciminstance win32_bios" -format "JSON"
+        $json = Invoke-WebPowerShell -command "Get-ciminstance win32_bios" -format "JSON"
         $bios = Get-CimInstance win32_bios | ConvertTo-Json
         Compare-Object $json $bios | Should BeNullOrEmpty
     }
 
     It "returns multiple objects" {
-        $json = Invoke-WebPowerShell -command "get-verb" -format "JSON"
+        $json = Invoke-WebPowerShell -command "Get-verb" -format "JSON"
         $verb = Get-Verb | ConvertTo-Json
         Compare-Object $json $verb | Should BeNullOrEmpty
     }
 
     It "returns nothing" {
-        $json = Invoke-WebPowerShell -command "get-help > `$null" -format "JSON" | Should Be ([string]::Empty)
+        $json = Invoke-WebPowerShell -command "Get-help > `$null" -format "JSON" | Should Be ([string]::Empty)
     }
 }
 
@@ -65,7 +65,7 @@ Describe -Tags "Negative" "Exception Handling" {
 
     It "returns PowerShell exception" {
         try {
-            Invoke-WebPowerShell -command "get-invalidcmdlet" -format "json" | Should BeNullOrEmpty
+            Invoke-WebPowerShell -command "Get-invalidcmdlet" -format "json" | Should BeNullOrEmpty
         } catch {
             ($_.ErrorDetails.Message | ConvertFrom-Json).FullyQualifiedErrorId | Should Be "CommandNotFoundException"
         }
@@ -73,7 +73,7 @@ Describe -Tags "Negative" "Exception Handling" {
 
     It "returns cmdlet exception" {
         try {
-            Invoke-WebPowerShell -command "get-process foo" -format "json" | Should BeNullOrEmpty
+            Invoke-WebPowerShell -command "Get-process foo" -format "json" | Should BeNullOrEmpty
         } Catch {
             ($_.ErrorDetails.Message | ConvertFrom-Json).FullyQualifiedErrorId | Should Be "NoProcessFoundForGivenName,Microsoft.PowerShell.Commands.GetProcessCommand"
         }

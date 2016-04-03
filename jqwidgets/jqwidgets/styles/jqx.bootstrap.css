@@ -66,8 +66,8 @@
     border-radius: 4px;
 }
 
-.jqx-widget-bootstrap, .jqx-widget-header-bootstrap, .jqx-fill-state-normal-bootstrap,
-.jqx-widget-content-bootstrap, .jqx-fill-state-hover-bootstrap, .jqx-fill-state-pressed-bootstrap {
+.jqx-widGet-bootstrap, .jqx-widGet-header-bootstrap, .jqx-fill-state-normal-bootstrap,
+.jqx-widGet-content-bootstrap, .jqx-fill-state-hover-bootstrap, .jqx-fill-state-pressed-bootstrap {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     -webkit-transition: box-shadow linear 0.2s;
     -moz-transition: box-shadow linear 0.1s;
@@ -75,12 +75,12 @@
     transition: box-shadow linear 0.1s;
 }
 
-.jqx-widget-content-bootstrap {
+.jqx-widGet-content-bootstrap {
     background-color: #ffffff;
     border-color: #e6e6e6;
 }
 
-.jqx-widget-header-bootstrap {
+.jqx-widGet-header-bootstrap {
     background-color: #f5f5f5;
     border-color: #cccccc;
 }
@@ -154,7 +154,7 @@
     border-color: #e6e6e6;
 }
 
-.jqx-widget-bootstrap, .jqx-widget-header-bootstrap, .jqx-widget-content-bootstrap {
+.jqx-widGet-bootstrap, .jqx-widGet-header-bootstrap, .jqx-widGet-content-bootstrap {
     -webkit-background-clip: padding-box;
     -moz-background-clip: padding-box;
     background-clip: padding-box;
@@ -521,11 +521,11 @@
     background-clip: padding-box !important;
 }
 
-.jqx-widget-bootstrap .jqx-grid-cell-bootstrap, .jqx-widget-bootstrap .jqx-grid-column-header-bootstrap, .jqx-widget-bootstrap .jqx-grid-group-cell {
+.jqx-widGet-bootstrap .jqx-grid-cell-bootstrap, .jqx-widGet-bootstrap .jqx-grid-column-header-bootstrap, .jqx-widGet-bootstrap .jqx-grid-group-cell {
     border-color: #ccc;
 }
 
-.jqx-widget-bootstrap .jqx-grid-column-menubutton-bootstrap, .jqx-widget-bootstrap .jqx-grid-column-sortascbutton-bootstrap, .jqx-widget-bootstrap .jqx-grid-column-sortdescbutton-bootstrap, .jqx-widget .jqx-grid-column-filterbutton-bootstrap {
+.jqx-widGet-bootstrap .jqx-grid-column-menubutton-bootstrap, .jqx-widGet-bootstrap .jqx-grid-column-sortascbutton-bootstrap, .jqx-widGet-bootstrap .jqx-grid-column-sortdescbutton-bootstrap, .jqx-widget .jqx-grid-column-filterbutton-bootstrap {
     border-color: #ccc;
 }
 
@@ -535,7 +535,7 @@
     background-position: center;
 }
 
-.jqx-widget-bootstrap .jqx-grid-group-expand-bootstrap, .jqx-grid-group-expand-bootstrap, .jqx-grid-column-menubutton-bootstrap, .jqx-grid-column-sortdescbutton-bootstrap, .jqx-expander-arrow-top-bootstrap, .jqx-window-collapse-button-collapsed-bootstrap, .jqx-menu-item-arrow-down-bootstrap, .jqx-menu-item-arrow-down-selected-bootstrap, .jqx-menu-item-arrow-down-bootstrap, .jqx-icon-arrow-down-bootstrap, .jqx-icon-arrow-down-hover-bootstrap, .jqx-icon-arrow-down-selected-bootstrap {
+.jqx-widGet-bootstrap .jqx-grid-group-expand-bootstrap, .jqx-grid-group-expand-bootstrap, .jqx-grid-column-menubutton-bootstrap, .jqx-grid-column-sortdescbutton-bootstrap, .jqx-expander-arrow-top-bootstrap, .jqx-window-collapse-button-collapsed-bootstrap, .jqx-menu-item-arrow-down-bootstrap, .jqx-menu-item-arrow-down-selected-bootstrap, .jqx-menu-item-arrow-down-bootstrap, .jqx-icon-arrow-down-bootstrap, .jqx-icon-arrow-down-hover-bootstrap, .jqx-icon-arrow-down-selected-bootstrap {
     background-image: url('images/icon-down.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -547,7 +547,7 @@
     background-position: center;
 }
 
-.jqx-widget-bootstrap .jqx-grid-group-collapse-bootstrap, .jqx-grid-group-collapse-bootstrap, .jqx-tabs-arrow-right-bootstrap, .jqx-menu-item-arrow-right-selected-bootstrap, .jqx-menu-item-arrow-top-right-bootstrap, .jqx-icon-arrow-right-bootstrap, .jqx-icon-arrow-right-hover-bootstrap, .jqx-icon-arrow-right-selected-bootstrap {
+.jqx-widGet-bootstrap .jqx-grid-group-collapse-bootstrap, .jqx-grid-group-collapse-bootstrap, .jqx-tabs-arrow-right-bootstrap, .jqx-menu-item-arrow-right-selected-bootstrap, .jqx-menu-item-arrow-top-right-bootstrap, .jqx-icon-arrow-right-bootstrap, .jqx-icon-arrow-right-hover-bootstrap, .jqx-icon-arrow-right-selected-bootstrap {
     background-image: url('images/icon-right.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -575,7 +575,7 @@
     background-position: center;
 }
 
-.jqx-primary .jqx-widget-bootstrap .jqx-primary .jqx-grid-group-expand-bootstrap, .jqx-primary .jqx-grid-group-expand-bootstrap, .jqx-primary .jqx-grid-column-menubutton-bootstrap, .jqx-primary .jqx-grid-column-sortdescbutton-bootstrap, .jqx-primary .jqx-expander-arrow-top-bootstrap, .jqx-primary .jqx-window-collapse-button-collapsed-bootstrap, .jqx-primary .jqx-menu-item-arrow-down-bootstrap, .jqx-primary .jqx-menu-item-arrow-down-selected-bootstrap, .jqx-primary .jqx-menu-item-arrow-down-bootstrap, .jqx-primary .jqx-icon-arrow-down-bootstrap, .jqx-primary .jqx-icon-arrow-down-hover-bootstrap, .jqx-primary .jqx-icon-arrow-down-selected-bootstrap {
+.jqx-primary .jqx-widGet-bootstrap .jqx-primary .jqx-grid-group-expand-bootstrap, .jqx-primary .jqx-grid-group-expand-bootstrap, .jqx-primary .jqx-grid-column-menubutton-bootstrap, .jqx-primary .jqx-grid-column-sortdescbutton-bootstrap, .jqx-primary .jqx-expander-arrow-top-bootstrap, .jqx-primary .jqx-window-collapse-button-collapsed-bootstrap, .jqx-primary .jqx-menu-item-arrow-down-bootstrap, .jqx-primary .jqx-menu-item-arrow-down-selected-bootstrap, .jqx-primary .jqx-menu-item-arrow-down-bootstrap, .jqx-primary .jqx-icon-arrow-down-bootstrap, .jqx-primary .jqx-icon-arrow-down-hover-bootstrap, .jqx-primary .jqx-icon-arrow-down-selected-bootstrap {
     background-image: url('images/icon-down-white.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -587,7 +587,7 @@
     background-position: center;
 }
 
-.jqx-primary .jqx-widget-bootstrap .jqx-primary .jqx-grid-group-collapse-bootstrap, .jqx-primary .jqx-grid-group-collapse-bootstrap, .jqx-primary .jqx-tabs-arrow-right-bootstrap, .jqx-primary .jqx-menu-item-arrow-right-selected-bootstrap, .jqx-primary .jqx-menu-item-arrow-top-right-bootstrap, .jqx-primary .jqx-icon-arrow-right-bootstrap, .jqx-primary .jqx-icon-arrow-right-hover-bootstrap, .jqx-primary .jqx-icon-arrow-right-selected-bootstrap {
+.jqx-primary .jqx-widGet-bootstrap .jqx-primary .jqx-grid-group-collapse-bootstrap, .jqx-primary .jqx-grid-group-collapse-bootstrap, .jqx-primary .jqx-tabs-arrow-right-bootstrap, .jqx-primary .jqx-menu-item-arrow-right-selected-bootstrap, .jqx-primary .jqx-menu-item-arrow-top-right-bootstrap, .jqx-primary .jqx-icon-arrow-right-bootstrap, .jqx-primary .jqx-icon-arrow-right-hover-bootstrap, .jqx-primary .jqx-icon-arrow-right-selected-bootstrap {
     background-image: url('images/icon-right-white.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -609,7 +609,7 @@
     background-position: center;
 }
 
-.jqx-warning .jqx-widget-bootstrap .jqx-warning .jqx-grid-group-expand-bootstrap, .jqx-warning .jqx-grid-group-expand-bootstrap, .jqx-warning .jqx-grid-column-menubutton-bootstrap, .jqx-warning .jqx-grid-column-sortdescbutton-bootstrap, .jqx-warning .jqx-expander-arrow-top-bootstrap, .jqx-warning .jqx-window-collapse-button-collapsed-bootstrap, .jqx-warning .jqx-menu-item-arrow-down-bootstrap, .jqx-warning .jqx-menu-item-arrow-down-selected-bootstrap, .jqx-warning .jqx-menu-item-arrow-down-bootstrap, .jqx-warning .jqx-icon-arrow-down-bootstrap, .jqx-warning .jqx-icon-arrow-down-hover-bootstrap, .jqx-warning .jqx-icon-arrow-down-selected-bootstrap {
+.jqx-warning .jqx-widGet-bootstrap .jqx-warning .jqx-grid-group-expand-bootstrap, .jqx-warning .jqx-grid-group-expand-bootstrap, .jqx-warning .jqx-grid-column-menubutton-bootstrap, .jqx-warning .jqx-grid-column-sortdescbutton-bootstrap, .jqx-warning .jqx-expander-arrow-top-bootstrap, .jqx-warning .jqx-window-collapse-button-collapsed-bootstrap, .jqx-warning .jqx-menu-item-arrow-down-bootstrap, .jqx-warning .jqx-menu-item-arrow-down-selected-bootstrap, .jqx-warning .jqx-menu-item-arrow-down-bootstrap, .jqx-warning .jqx-icon-arrow-down-bootstrap, .jqx-warning .jqx-icon-arrow-down-hover-bootstrap, .jqx-warning .jqx-icon-arrow-down-selected-bootstrap {
     background-image: url('images/icon-down-white.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -621,7 +621,7 @@
     background-position: center;
 }
 
-.jqx-warning .jqx-widget-bootstrap .jqx-warning .jqx-grid-group-collapse-bootstrap, .jqx-warning .jqx-grid-group-collapse-bootstrap, .jqx-warning .jqx-tabs-arrow-right-bootstrap, .jqx-warning .jqx-menu-item-arrow-right-selected-bootstrap, .jqx-warning .jqx-menu-item-arrow-top-right-bootstrap, .jqx-warning .jqx-icon-arrow-right-bootstrap, .jqx-warning .jqx-icon-arrow-right-hover-bootstrap, .jqx-warning .jqx-icon-arrow-right-selected-bootstrap {
+.jqx-warning .jqx-widGet-bootstrap .jqx-warning .jqx-grid-group-collapse-bootstrap, .jqx-warning .jqx-grid-group-collapse-bootstrap, .jqx-warning .jqx-tabs-arrow-right-bootstrap, .jqx-warning .jqx-menu-item-arrow-right-selected-bootstrap, .jqx-warning .jqx-menu-item-arrow-top-right-bootstrap, .jqx-warning .jqx-icon-arrow-right-bootstrap, .jqx-warning .jqx-icon-arrow-right-hover-bootstrap, .jqx-warning .jqx-icon-arrow-right-selected-bootstrap {
     background-image: url('images/icon-right-white.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -643,7 +643,7 @@
     background-position: center;
 }
 
-.jqx-danger .jqx-widget-bootstrap .jqx-danger .jqx-grid-group-expand-bootstrap, .jqx-danger .jqx-grid-group-expand-bootstrap, .jqx-danger .jqx-grid-column-menubutton-bootstrap, .jqx-danger .jqx-grid-column-sortdescbutton-bootstrap, .jqx-danger .jqx-expander-arrow-top-bootstrap, .jqx-danger .jqx-window-collapse-button-collapsed-bootstrap, .jqx-danger .jqx-menu-item-arrow-down-bootstrap, .jqx-danger .jqx-menu-item-arrow-down-selected-bootstrap, .jqx-danger .jqx-menu-item-arrow-down-bootstrap, .jqx-danger .jqx-icon-arrow-down-bootstrap, .jqx-danger .jqx-icon-arrow-down-hover-bootstrap, .jqx-danger .jqx-icon-arrow-down-selected-bootstrap {
+.jqx-danger .jqx-widGet-bootstrap .jqx-danger .jqx-grid-group-expand-bootstrap, .jqx-danger .jqx-grid-group-expand-bootstrap, .jqx-danger .jqx-grid-column-menubutton-bootstrap, .jqx-danger .jqx-grid-column-sortdescbutton-bootstrap, .jqx-danger .jqx-expander-arrow-top-bootstrap, .jqx-danger .jqx-window-collapse-button-collapsed-bootstrap, .jqx-danger .jqx-menu-item-arrow-down-bootstrap, .jqx-danger .jqx-menu-item-arrow-down-selected-bootstrap, .jqx-danger .jqx-menu-item-arrow-down-bootstrap, .jqx-danger .jqx-icon-arrow-down-bootstrap, .jqx-danger .jqx-icon-arrow-down-hover-bootstrap, .jqx-danger .jqx-icon-arrow-down-selected-bootstrap {
     background-image: url('images/icon-down-white.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -655,7 +655,7 @@
     background-position: center;
 }
 
-.jqx-danger .jqx-widget-bootstrap .jqx-danger .jqx-grid-group-collapse-bootstrap, .jqx-danger .jqx-grid-group-collapse-bootstrap, .jqx-danger .jqx-tabs-arrow-right-bootstrap, .jqx-danger .jqx-menu-item-arrow-right-selected-bootstrap, .jqx-danger .jqx-menu-item-arrow-top-right-bootstrap, .jqx-danger .jqx-icon-arrow-right-bootstrap, .jqx-danger .jqx-icon-arrow-right-hover-bootstrap, .jqx-danger .jqx-icon-arrow-right-selected-bootstrap {
+.jqx-danger .jqx-widGet-bootstrap .jqx-danger .jqx-grid-group-collapse-bootstrap, .jqx-danger .jqx-grid-group-collapse-bootstrap, .jqx-danger .jqx-tabs-arrow-right-bootstrap, .jqx-danger .jqx-menu-item-arrow-right-selected-bootstrap, .jqx-danger .jqx-menu-item-arrow-top-right-bootstrap, .jqx-danger .jqx-icon-arrow-right-bootstrap, .jqx-danger .jqx-icon-arrow-right-hover-bootstrap, .jqx-danger .jqx-icon-arrow-right-selected-bootstrap {
     background-image: url('images/icon-right-white.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -677,7 +677,7 @@
     background-position: center;
 }
 
-.jqx-info .jqx-widget-bootstrap .jqx-info .jqx-grid-group-expand-bootstrap, .jqx-info .jqx-grid-group-expand-bootstrap, .jqx-info .jqx-grid-column-menubutton-bootstrap, .jqx-info .jqx-grid-column-sortdescbutton-bootstrap, .jqx-info .jqx-expander-arrow-top-bootstrap, .jqx-info .jqx-window-collapse-button-collapsed-bootstrap, .jqx-info .jqx-menu-item-arrow-down-bootstrap, .jqx-info .jqx-menu-item-arrow-down-selected-bootstrap, .jqx-info .jqx-menu-item-arrow-down-bootstrap, .jqx-info .jqx-icon-arrow-down-bootstrap, .jqx-info .jqx-icon-arrow-down-hover-bootstrap, .jqx-info .jqx-icon-arrow-down-selected-bootstrap {
+.jqx-info .jqx-widGet-bootstrap .jqx-info .jqx-grid-group-expand-bootstrap, .jqx-info .jqx-grid-group-expand-bootstrap, .jqx-info .jqx-grid-column-menubutton-bootstrap, .jqx-info .jqx-grid-column-sortdescbutton-bootstrap, .jqx-info .jqx-expander-arrow-top-bootstrap, .jqx-info .jqx-window-collapse-button-collapsed-bootstrap, .jqx-info .jqx-menu-item-arrow-down-bootstrap, .jqx-info .jqx-menu-item-arrow-down-selected-bootstrap, .jqx-info .jqx-menu-item-arrow-down-bootstrap, .jqx-info .jqx-icon-arrow-down-bootstrap, .jqx-info .jqx-icon-arrow-down-hover-bootstrap, .jqx-info .jqx-icon-arrow-down-selected-bootstrap {
     background-image: url('images/icon-down-white.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -689,7 +689,7 @@
     background-position: center;
 }
 
-.jqx-info .jqx-widget-bootstrap .jqx-info .jqx-grid-group-collapse-bootstrap, .jqx-info .jqx-grid-group-collapse-bootstrap, .jqx-info .jqx-tabs-arrow-right-bootstrap, .jqx-info .jqx-menu-item-arrow-right-selected-bootstrap, .jqx-info .jqx-menu-item-arrow-top-right-bootstrap, .jqx-info .jqx-icon-arrow-right-bootstrap, .jqx-info .jqx-icon-arrow-right-hover-bootstrap, .jqx-info .jqx-icon-arrow-right-selected-bootstrap {
+.jqx-info .jqx-widGet-bootstrap .jqx-info .jqx-grid-group-collapse-bootstrap, .jqx-info .jqx-grid-group-collapse-bootstrap, .jqx-info .jqx-tabs-arrow-right-bootstrap, .jqx-info .jqx-menu-item-arrow-right-selected-bootstrap, .jqx-info .jqx-menu-item-arrow-top-right-bootstrap, .jqx-info .jqx-icon-arrow-right-bootstrap, .jqx-info .jqx-icon-arrow-right-hover-bootstrap, .jqx-info .jqx-icon-arrow-right-selected-bootstrap {
     background-image: url('images/icon-right-white.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -711,7 +711,7 @@
     background-position: center;
 }
 
-.jqx-success .jqx-widget-bootstrap .jqx-success .jqx-grid-group-expand-bootstrap, .jqx-success .jqx-grid-group-expand-bootstrap, .jqx-success .jqx-grid-column-menubutton-bootstrap, .jqx-success .jqx-grid-column-sortdescbutton-bootstrap, .jqx-success .jqx-expander-arrow-top-bootstrap, .jqx-success .jqx-window-collapse-button-collapsed-bootstrap, .jqx-success .jqx-menu-item-arrow-down-bootstrap, .jqx-success .jqx-menu-item-arrow-down-selected-bootstrap, .jqx-success .jqx-menu-item-arrow-down-bootstrap, .jqx-success .jqx-icon-arrow-down-bootstrap, .jqx-success .jqx-icon-arrow-down-hover-bootstrap, .jqx-success .jqx-icon-arrow-down-selected-bootstrap {
+.jqx-success .jqx-widGet-bootstrap .jqx-success .jqx-grid-group-expand-bootstrap, .jqx-success .jqx-grid-group-expand-bootstrap, .jqx-success .jqx-grid-column-menubutton-bootstrap, .jqx-success .jqx-grid-column-sortdescbutton-bootstrap, .jqx-success .jqx-expander-arrow-top-bootstrap, .jqx-success .jqx-window-collapse-button-collapsed-bootstrap, .jqx-success .jqx-menu-item-arrow-down-bootstrap, .jqx-success .jqx-menu-item-arrow-down-selected-bootstrap, .jqx-success .jqx-menu-item-arrow-down-bootstrap, .jqx-success .jqx-icon-arrow-down-bootstrap, .jqx-success .jqx-icon-arrow-down-hover-bootstrap, .jqx-success .jqx-icon-arrow-down-selected-bootstrap {
     background-image: url('images/icon-down-white.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -723,7 +723,7 @@
     background-position: center;
 }
 
-.jqx-success .jqx-widget-bootstrap .jqx-success .jqx-grid-group-collapse-bootstrap, .jqx-success .jqx-grid-group-collapse-bootstrap, .jqx-success .jqx-tabs-arrow-right-bootstrap, .jqx-success .jqx-menu-item-arrow-right-selected-bootstrap, .jqx-success .jqx-menu-item-arrow-top-right-bootstrap, .jqx-success .jqx-icon-arrow-right-bootstrap, .jqx-success .jqx-icon-arrow-right-hover-bootstrap, .jqx-success .jqx-icon-arrow-right-selected-bootstrap {
+.jqx-success .jqx-widGet-bootstrap .jqx-success .jqx-grid-group-collapse-bootstrap, .jqx-success .jqx-grid-group-collapse-bootstrap, .jqx-success .jqx-tabs-arrow-right-bootstrap, .jqx-success .jqx-menu-item-arrow-right-selected-bootstrap, .jqx-success .jqx-menu-item-arrow-top-right-bootstrap, .jqx-success .jqx-icon-arrow-right-bootstrap, .jqx-success .jqx-icon-arrow-right-hover-bootstrap, .jqx-success .jqx-icon-arrow-right-selected-bootstrap {
     background-image: url('images/icon-right-white.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -745,7 +745,7 @@
     background-position: center;
 }
 
-.jqx-inverse .jqx-widget-bootstrap .jqx-inverse .jqx-grid-group-expand-bootstrap, .jqx-inverse .jqx-grid-group-expand-bootstrap, .jqx-inverse .jqx-grid-column-menubutton-bootstrap, .jqx-inverse .jqx-grid-column-sortdescbutton-bootstrap, .jqx-inverse .jqx-expander-arrow-top-bootstrap, .jqx-inverse .jqx-window-collapse-button-collapsed-bootstrap, .jqx-inverse .jqx-menu-item-arrow-down-bootstrap, .jqx-inverse .jqx-menu-item-arrow-down-selected-bootstrap, .jqx-inverse .jqx-menu-item-arrow-down-bootstrap, .jqx-inverse .jqx-icon-arrow-down-bootstrap, .jqx-inverse .jqx-icon-arrow-down-hover-bootstrap, .jqx-inverse .jqx-icon-arrow-down-selected-bootstrap {
+.jqx-inverse .jqx-widGet-bootstrap .jqx-inverse .jqx-grid-group-expand-bootstrap, .jqx-inverse .jqx-grid-group-expand-bootstrap, .jqx-inverse .jqx-grid-column-menubutton-bootstrap, .jqx-inverse .jqx-grid-column-sortdescbutton-bootstrap, .jqx-inverse .jqx-expander-arrow-top-bootstrap, .jqx-inverse .jqx-window-collapse-button-collapsed-bootstrap, .jqx-inverse .jqx-menu-item-arrow-down-bootstrap, .jqx-inverse .jqx-menu-item-arrow-down-selected-bootstrap, .jqx-inverse .jqx-menu-item-arrow-down-bootstrap, .jqx-inverse .jqx-icon-arrow-down-bootstrap, .jqx-inverse .jqx-icon-arrow-down-hover-bootstrap, .jqx-inverse .jqx-icon-arrow-down-selected-bootstrap {
     background-image: url('images/icon-down-white.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -757,7 +757,7 @@
     background-position: center;
 }
 
-.jqx-inverse .jqx-widget-bootstrap .jqx-inverse .jqx-grid-group-collapse-bootstrap, .jqx-inverse .jqx-grid-group-collapse-bootstrap, .jqx-inverse .jqx-tabs-arrow-right-bootstrap, .jqx-inverse .jqx-menu-item-arrow-right-selected-bootstrap, .jqx-inverse .jqx-menu-item-arrow-top-right-bootstrap, .jqx-inverse .jqx-icon-arrow-right-bootstrap, .jqx-inverse .jqx-icon-arrow-right-hover-bootstrap, .jqx-inverse .jqx-icon-arrow-right-selected-bootstrap {
+.jqx-inverse .jqx-widGet-bootstrap .jqx-inverse .jqx-grid-group-collapse-bootstrap, .jqx-inverse .jqx-grid-group-collapse-bootstrap, .jqx-inverse .jqx-tabs-arrow-right-bootstrap, .jqx-inverse .jqx-menu-item-arrow-right-selected-bootstrap, .jqx-inverse .jqx-menu-item-arrow-top-right-bootstrap, .jqx-inverse .jqx-icon-arrow-right-bootstrap, .jqx-inverse .jqx-icon-arrow-right-hover-bootstrap, .jqx-inverse .jqx-icon-arrow-right-selected-bootstrap {
     background-image: url('images/icon-right-white.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -806,35 +806,35 @@
     overflow: visible !important;
 }
 
-input[type="text"].jqx-input-bootstrap, input[type="text"].jqx-widget-content-bootstrap, input[type="textarea"].jqx-widget-content-bootstrap, textarea.jqx-input-bootstrap {
+input[type="text"].jqx-input-bootstrap, input[type="text"].jqx-widGet-content-bootstrap, input[type="textarea"].jqx-widGet-content-bootstrap, textarea.jqx-input-bootstrap {
     padding-left: 1px !important;
 }
 
-input[type="text"].jqx-input-bootstrap:-moz-placeholder, input[type="text"].jqx-widget-content-bootstrap:-moz-placeholder, input[type="textarea"].jqx-widget-content-bootstrap:-moz-placeholder, textarea.jqx-input-bootstrap:-moz-placeholder {
+input[type="text"].jqx-input-bootstrap:-moz-placeholder, input[type="text"].jqx-widGet-content-bootstrap:-moz-placeholder, input[type="textarea"].jqx-widGet-content-bootstrap:-moz-placeholder, textarea.jqx-input-bootstrap:-moz-placeholder {
     color: #999999;
 }
 
-input[type="text"].jqx-input-bootstrap:-webkit-input-placeholder, input[type="text"].jqx-widget-content-bootstrap:-webkit-input-placeholder, input[type="textarea"].jqx-widget-content-bootstrap:-webkit-input-placeholder, textarea.jqx-input-bootstrap:-webkit-input-placeholder {
+input[type="text"].jqx-input-bootstrap:-webkit-input-placeholder, input[type="text"].jqx-widGet-content-bootstrap:-webkit-input-placeholder, input[type="textarea"].jqx-widGet-content-bootstrap:-webkit-input-placeholder, textarea.jqx-input-bootstrap:-webkit-input-placeholder {
     color: #999999;
 }
 
-input[type="text"].jqx-input-bootstrap:-ms-input-placeholder, input[type="text"].jqx-widget-content-bootstrap:-ms-input-placeholder, input[type="textarea"].jqx-widget-content-bootstrap:-ms-input-placeholder, textarea.jqx-input-bootstrap:-ms-input-placeholder {
+input[type="text"].jqx-input-bootstrap:-ms-input-placeholder, input[type="text"].jqx-widGet-content-bootstrap:-ms-input-placeholder, input[type="textarea"].jqx-widGet-content-bootstrap:-ms-input-placeholder, textarea.jqx-input-bootstrap:-ms-input-placeholder {
     color: #999999;
 }
 
-input[type="password"].jqx-input-bootstrap, input[type="password"].jqx-widget-content-bootstrap, input[type="textarea"].jqx-widget-content-bootstrap, textarea.jqx-input-bootstrap {
+input[type="password"].jqx-input-bootstrap, input[type="password"].jqx-widGet-content-bootstrap, input[type="textarea"].jqx-widGet-content-bootstrap, textarea.jqx-input-bootstrap {
     padding-left: 1px !important;
 }
 
-input[type="password"].jqx-input-bootstrap:-moz-placeholder, input[type="password"].jqx-widget-content-bootstrap:-moz-placeholder, input[type="textarea"].jqx-widget-content-bootstrap:-moz-placeholder, textarea.jqx-input-bootstrap:-moz-placeholder {
+input[type="password"].jqx-input-bootstrap:-moz-placeholder, input[type="password"].jqx-widGet-content-bootstrap:-moz-placeholder, input[type="textarea"].jqx-widGet-content-bootstrap:-moz-placeholder, textarea.jqx-input-bootstrap:-moz-placeholder {
     color: #999999;
 }
 
-input[type="password"].jqx-input-bootstrap:-webkit-input-placeholder, input[type="password"].jqx-widget-content-bootstrap:-webkit-input-placeholder, input[type="textarea"].jqx-widget-content-bootstrap:-webkit-input-placeholder, textarea.jqx-input-bootstrap:-webkit-input-placeholder {
+input[type="password"].jqx-input-bootstrap:-webkit-input-placeholder, input[type="password"].jqx-widGet-content-bootstrap:-webkit-input-placeholder, input[type="textarea"].jqx-widGet-content-bootstrap:-webkit-input-placeholder, textarea.jqx-input-bootstrap:-webkit-input-placeholder {
     color: #999999;
 }
 
-input[type="password"].jqx-input-bootstrap:-ms-input-placeholder, input[type="password"].jqx-widget-content-bootstrap:-ms-input-placeholder, input[type="textarea"].jqx-widget-content-bootstrap:-ms-input-placeholder, textarea.jqx-input-bootstrap:-ms-input-placeholder {
+input[type="password"].jqx-input-bootstrap:-ms-input-placeholder, input[type="password"].jqx-widGet-content-bootstrap:-ms-input-placeholder, input[type="textarea"].jqx-widGet-content-bootstrap:-ms-input-placeholder, textarea.jqx-input-bootstrap:-ms-input-placeholder {
     color: #999999;
 }
 

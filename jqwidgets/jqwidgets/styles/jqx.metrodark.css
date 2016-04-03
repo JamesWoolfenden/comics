@@ -69,13 +69,13 @@
     -webkit-border-radius: 0px;
     border-radius: 0px;
 }
-.jqx-widget-metrodark {
+.jqx-widGet-metrodark {
     font-size: 12px; line-height: 17px;
     font-family: 'segoe ui', arial, sans-serif;
     color: inherit;
 }
-.jqx-widget-content-metrodark{font-size: 12px; line-height: 17px; font-family: 'segoe ui', arial, sans-serif; border-color: #35353A; color: #ffffff; background-color: #252526;}
-.jqx-widget-header-metrodark{font-size: 12px; line-height: 17px; font-family: 'segoe ui', arial, sans-serif; color: #ffffff; border-color:#35353A; background-color:#3E3E42;}
+.jqx-widGet-content-metrodark{font-size: 12px; line-height: 17px; font-family: 'segoe ui', arial, sans-serif; border-color: #35353A; color: #ffffff; background-color: #252526;}
+.jqx-widGet-header-metrodark{font-size: 12px; line-height: 17px; font-family: 'segoe ui', arial, sans-serif; color: #ffffff; border-color:#35353A; background-color:#3E3E42;}
 .jqx-fill-state-normal-metrodark{font-size: 12px; line-height: 17px; font-family: 'segoe ui', arial, sans-serif; border-color: #35353A; color: #ffffff; background: #3E3E42;}
 .jqx-fill-state-hover-metrodark{font-size: 12px; line-height: 17px; font-family: 'segoe ui', arial, sans-serif; border-color:#1C97EA; color: #fff; background-color:#1C97EA;
 
@@ -91,22 +91,22 @@
     border-color: #35353A;
 }
 .jqx-scrollbar-state-normal-metrodark, .jqx-grid-bottomright-metrodark, .jqx-panel-bottomright-metrodark, .jqx-listbox-bottomright-metrodark{background-color:#3E3E42;}
-.jqx-widget-metrodark .jqx-grid-column-header-metrodark, .jqx-grid-cell-metrodark, .jqx-widget-metrodark .jqx-grid-cell-metrodark, .jqx-widget-metrodark .jqx-grid-group-cell-metrodark, .jqx-grid-group-cell-metrodark{font-size: 12px; line-height: 17px; font-family: 'segoe ui', arial, sans-serif; border-color: #1C1C1E; background-color: #2A2A2C; color: #fff;}
+.jqx-widGet-metrodark .jqx-grid-column-header-metrodark, .jqx-grid-cell-metrodark, .jqx-widGet-metrodark .jqx-grid-cell-metrodark, .jqx-widGet-metrodark .jqx-grid-group-cell-metrodark, .jqx-grid-group-cell-metrodark{font-size: 12px; line-height: 17px; font-family: 'segoe ui', arial, sans-serif; border-color: #1C1C1E; background-color: #2A2A2C; color: #fff;}
 .jqx-tabs-title-selected-bottom-metrodark, .jqx-tabs-selection-tracker-bottom-metrodark, .jqx-tabs-title-selected-top-metrodark, .jqx-tabs-selection-tracker-top-metrodark{color: #ffffff; border-color:#35353A; border-bottom:1px solid #252526; background:#007ACC}
-.jqx-widget-metrodark .jqx-grid-cell-alt-metrodark, .jqx-widget-metrodark .jqx-grid-cell-sort-metrodark, .jqx-widget-metrodark .jqx-grid-cell-pinned-metrodark, .jqx-widget-metrodark .jqx-grid-cell-filter-metrodark, .jqx-grid-cell-sort-alt-metrodark, .jqx-grid-cell-filter-alt-metrodark, .jqx-grid-cell-pinned-metrodark, .jqx-grid-cell-alt-metrodark, .jqx-grid-cell-sort-metrodark{ background-color:#3E3E42; color: #fff;}
+.jqx-widGet-metrodark .jqx-grid-cell-alt-metrodark, .jqx-widGet-metrodark .jqx-grid-cell-sort-metrodark, .jqx-widGet-metrodark .jqx-grid-cell-pinned-metrodark, .jqx-widGet-metrodark .jqx-grid-cell-filter-metrodark, .jqx-grid-cell-sort-alt-metrodark, .jqx-grid-cell-filter-alt-metrodark, .jqx-grid-cell-pinned-metrodark, .jqx-grid-cell-alt-metrodark, .jqx-grid-cell-sort-metrodark{ background-color:#3E3E42; color: #fff;}
 .jqx-menu-vertical-metrodark{background: #3E3E42; border-color: #3E3E42;}
-.jqx-widget-metrodark .jqx-grid-cell-metrodark, .jqx-widget-metrodark .jqx-grid-column-header-metrodark, .jqx-widget-metrodark .jqx-grid-group-cell-metrodark { border-color: #35353A;}
+.jqx-widGet-metrodark .jqx-grid-cell-metrodark, .jqx-widGet-metrodark .jqx-grid-column-header-metrodark, .jqx-widGet-metrodark .jqx-grid-group-cell-metrodark { border-color: #35353A;}
 
-.jqx-widget-metrodark .jqx-grid-column-menubutton-metrodark, .jqx-widget-metrodark .jqx-grid-column-sortascbutton-metrodark, .jqx-widget-metrodark .jqx-grid-column-sortdescbutton-metrodark, .jqx-widget-metrodark .jqx-grid-column-filterbutton-metrodark {
+.jqx-widGet-metrodark .jqx-grid-column-menubutton-metrodark, .jqx-widGet-metrodark .jqx-grid-column-sortascbutton-metrodark, .jqx-widGet-metrodark .jqx-grid-column-sortdescbutton-metrodark, .jqx-widGet-metrodark .jqx-grid-column-filterbutton-metrodark {
     background-color: transparent;
     border-color: #35353A;
 }
-.jqx-window-header-metrodark, .jqx-input-button-header-metrodark, .jqx-calendar-title-header-metrodark, .jqx-grid-metrodark .jqx-widget-header-metrodark, .jqx-grid-header-metrodark, .jqx-grid-column-header-metrodark {font-size: 12px; line-height: 17px; font-family: 'segoe ui', arial, sans-serif; border-color: #35353A; color: #ffffff; background: #3E3E42;}
+.jqx-window-header-metrodark, .jqx-input-button-header-metrodark, .jqx-calendar-title-header-metrodark, .jqx-grid-metrodark .jqx-widGet-header-metrodark, .jqx-grid-header-metrodark, .jqx-grid-column-header-metrodark {font-size: 12px; line-height: 17px; font-family: 'segoe ui', arial, sans-serif; border-color: #35353A; color: #ffffff; background: #3E3E42;}
 .jqx-grid-column-menubutton-metrodark {
     background-image: url('images/metro-icon-down-white.png');
  }
-.jqx-widget-metrodark .jqx-grid-cell-selected-metrodark, .jqx-grid-cell-selected-metrodark{ background-color:#007ACC; border-color: #007ACC; font-size: 12px;  color:#fff;}
-.jqx-widget-metrodark .jqx-grid-cell-hover-metrodark, .jqx-grid-cell-hover-metrodark{ background-color:#1C97EA; border-color: #1C97EA;}
+.jqx-widGet-metrodark .jqx-grid-cell-selected-metrodark, .jqx-grid-cell-selected-metrodark{ background-color:#007ACC; border-color: #007ACC; font-size: 12px;  color:#fff;}
+.jqx-widGet-metrodark .jqx-grid-cell-hover-metrodark, .jqx-grid-cell-hover-metrodark{ background-color:#1C97EA; border-color: #1C97EA;}
  /*applied to the column's sort button when the sort order is ascending.*/
  .jqx-grid-column-sortascbutton-metrodark {
     background-image: url('images/metro-icon-up-white.png');

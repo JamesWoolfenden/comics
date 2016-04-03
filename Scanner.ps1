@@ -14,43 +14,43 @@ import-Module "$PSScriptRoot\comicxposure.ps1" -force
 import-module "$PSScriptRoot\modules\xrates.psd1" -force
 import-module "$PSScriptRoot\hastings.ps1" -force
 
-function get-market
+function Get-Market
 {
    param(
    [Parameter(Mandatory=$true)]
    [Psobject]$record,
-   [decimal]$dollarrate=(get-gbpdollarrate))
-   
-   $start=get-date
-   $elapsed =new-timespan -seconds 60 
+   [decimal]$dollarrate=(Get-gbpdollarrate))
+
+   $start=Get-date
+   $elapsed =new-timespan -seconds 60
    $endtime=$start+$elapsed
 
    $allrecords=@()
    $filetitle=$record.title.replace(" ","")
 
-   $allrecords+=get-dcbsdata -record $record  -dollarrate $dollarrate
-   $allrecords+=get-comicxposuredata -record $record -dollarrate $dollarrate
-   $allrecords+=get-dhdata -record $record
-   $allrecords+=get-closeencountersdata -record $record 
-   $allrecords+=get-fpdata  -record $record  
-   $allrecords+=get-reeddata -record $record
+   $allrecords+=Get-dcbsdata -record $record  -dollarrate $dollarrate
+   $allrecords+=Get-comicxposuredata -record $record -dollarrate $dollarrate
+   $allrecords+=Get-dhdata -record $record
+   $allrecords+=Get-closeencountersdata -record $record
+   $allrecords+=Get-fpdata  -record $record
+   $allrecords+=Get-reeddata -record $record
    $allrecords+=Get-AuctionData -record $record
-   $allrecords+=get-comicbizdata -record $record
-   $allrecords+=get-comicbookshopdata -record $record
-   $allrecords+=get-tfawdata -record $record -dollarrate $dollarrate
-   $allrecords+=get-midtowndata -record $record -dollarrate $dollarrate
-   $allrecords+=get-intercomicsdata -record $record 
-   $allrecords+=get-hastingsdata -record $record -dollarrate $dollarrate
+   $allrecords+=Get-comicbizdata -record $record
+   $allrecords+=Get-comicbookshopdata -record $record
+   $allrecords+=Get-tfawdata -record $record -dollarrate $dollarrate
+   $allrecords+=Get-midtowndata -record $record -dollarrate $dollarrate
+   $allrecords+=Get-intercomicsdata -record $record
+   $allrecords+=Get-hastingsdata -record $record -dollarrate $dollarrate
 
    If ($record.productcode -ne "")
    {
-      $allrecords+=get-gurudata -record $record 
+      $allrecords+=Get-gurudata -record $record
    }
 
    $allrecords |ConvertTo-Json -depth 999 | Out-File "$PSScriptRoot\livedata\$($filetitle).json" -Encoding ascii
-   
+
    #might need to sleep
-   while ((get-date) -le $endtime)
+   while ((Get-date) -le $endtime)
    {
       Write-Host "$(Get-date) -  sleeping for kimonolabs limit"
       sleep 1
@@ -58,22 +58,21 @@ function get-market
 }
 
 #retrieve data
-get-dcbs
-get-comicxposure
+Get-dcbs
+Get-comicxposure
 
 #load all unique title objects from Json file
 $searches=(Get-Content "$PSScriptRoot\search-data.json") -join "`n" |ConvertFrom-Json
 
 Write-Host "$(Get-Date) - Found $($searches.count)"
-[decimal]$dollarrate=get-gbpdollarrate
+[decimal]$dollarrate=Get-gbpdollarrate
 
 foreach ($record in $searches)
 {
    if ($record.title -eq "The Walking dead")
    {
-      $record.comictitle="WALKING DEAD"      
+      $record.comictitle="WALKING DEAD"
    }
 
-   get-market -record $record -dollarrate $dollarrate
+   Get-market -record $record -dollarrate $dollarrate
 }
-
