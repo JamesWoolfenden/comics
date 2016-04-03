@@ -28,7 +28,7 @@
         "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009064896)\/"
     },
     {
@@ -60,7 +60,7 @@
         "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009065022)\/"
     },
     {
@@ -92,7 +92,7 @@
         "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009065154)\/"
     },
     {
@@ -124,7 +124,7 @@
         "Count":  2,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009065340)\/"
     },
     {
@@ -140,7 +140,7 @@
         "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009065377)\/"
     },
     {
@@ -172,7 +172,7 @@
         "Count":  1,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009065448)\/"
     },
     {
@@ -204,7 +204,7 @@
         "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009065573)\/"
     },
     {
@@ -236,7 +236,7 @@
         "Count":  1,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009065697)\/"
     },
     {
@@ -252,7 +252,7 @@
         "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009065735)\/"
     },
     {
@@ -284,7 +284,7 @@
         "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009065869)\/"
     },
     {
@@ -316,7 +316,7 @@
         "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009065996)\/"
     },
     {
@@ -348,7 +348,7 @@
         "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066114)\/"
     },
     {
@@ -380,7 +380,7 @@
         "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066244)\/"
     },
     {
@@ -412,7 +412,7 @@
         "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066364)\/"
     },
     {
@@ -444,7 +444,7 @@
         "Count":  3,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066490)\/"
     },
     {
@@ -460,7 +460,7 @@
         "Count":  1,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066524)\/"
     },
     {
@@ -476,7 +476,7 @@
         "Count":  1,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066555)\/"
     },
     {
@@ -492,7 +492,7 @@
         "Count":  2,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066590)\/"
     },
     {
@@ -508,7 +508,7 @@
         "Count":  1,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066623)\/"
     },
     {
@@ -524,7 +524,7 @@
         "Count":  1,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066655)\/"
     },
     {
@@ -540,7 +540,7 @@
         "Count":  1,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066687)\/"
     },
     {
@@ -556,7 +556,7 @@
         "Count":  2,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066724)\/"
     },
     {
@@ -572,7 +572,7 @@
         "Count":  1,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066756)\/"
     },
     {
@@ -588,7 +588,7 @@
         "Count":  1,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066788)\/"
     },
     {
@@ -604,7 +604,7 @@
         "Count":  1,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066820)\/"
     },
     {
@@ -620,7 +620,7 @@
         "Count":  1,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066854)\/"
     },
     {
@@ -636,7 +636,7 @@
         "Count":  2,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066889)\/"
     },
     {
@@ -652,7 +652,7 @@
         "Count":  23,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009066977)\/"
     },
     {
@@ -668,7 +668,7 @@
         "Count":  18,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009067046)\/"
     },
     {
@@ -684,7 +684,7 @@
         "Count":  1,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
-        "Stock":  null,
+        "Stock":  0,
         "Date":  "\/Date(1415009067079)\/"
     }
 ]

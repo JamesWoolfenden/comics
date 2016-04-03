@@ -13,7 +13,7 @@
         "AveragePaid":  4,
         "AverageNetPaid":  2,
         "Stock":  1,
-        "Date":  "\/Date(1451337201683)\/"
+        "Date":  "\/Date(1459195452629)\/"
     },
     {
         "Title":  "SAGA",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.7,
         "AverageNetPaid":  1.5,
         "Stock":  1,
-        "Date":  "\/Date(1451337201937)\/"
+        "Date":  "\/Date(1459195452808)\/"
     },
     {
         "Title":  "SAGA",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337202063)\/"
+        "Date":  "\/Date(1459195452985)\/"
     },
     {
         "Title":  "SAGA",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.55,
         "AverageNetPaid":  1.35,
         "Stock":  2,
-        "Date":  "\/Date(1451337202275)\/"
+        "Date":  "\/Date(1459195453225)\/"
     },
     {
         "Title":  "SAGA",
@@ -77,7 +77,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337202513)\/"
+        "Date":  "\/Date(1459195453396)\/"
     },
     {
         "Title":  "SAGA",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337202643)\/"
+        "Date":  "\/Date(1459195453518)\/"
     },
     {
         "Title":  "SAGA",
@@ -109,7 +109,7 @@
         "AveragePaid":  2.74,
         "AverageNetPaid":  0.99,
         "Stock":  1,
-        "Date":  "\/Date(1451337202838)\/"
+        "Date":  "\/Date(1459195453719)\/"
     },
     {
         "Title":  "SAGA",
@@ -125,7 +125,7 @@
         "AveragePaid":  1.8,
         "AverageNetPaid":  1.8,
         "Stock":  1,
-        "Date":  "\/Date(1451337203057)\/"
+        "Date":  "\/Date(1459195453917)\/"
     },
     {
         "Title":  "SAGA",
@@ -141,7 +141,7 @@
         "AveragePaid":  2.45,
         "AverageNetPaid":  1.25,
         "Stock":  1,
-        "Date":  "\/Date(1451337203320)\/"
+        "Date":  "\/Date(1459195454114)\/"
     },
     {
         "Title":  "SAGA",
@@ -157,7 +157,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337203499)\/"
+        "Date":  "\/Date(1459195454276)\/"
     },
     {
         "Title":  "SAGA",
@@ -173,7 +173,7 @@
         "AveragePaid":  2.7,
         "AverageNetPaid":  1.5,
         "Stock":  1,
-        "Date":  "\/Date(1451337203679)\/"
+        "Date":  "\/Date(1459195454493)\/"
     },
     {
         "Title":  "SAGA",
@@ -189,7 +189,7 @@
         "AveragePaid":  2.7,
         "AverageNetPaid":  1.5,
         "Stock":  1,
-        "Date":  "\/Date(1451337203927)\/"
+        "Date":  "\/Date(1459195454724)\/"
     },
     {
         "Title":  "SAGA",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337204057)\/"
+        "Date":  "\/Date(1459195454876)\/"
     },
     {
         "Title":  "SAGA",
@@ -221,7 +221,7 @@
         "AveragePaid":  2.7,
         "AverageNetPaid":  1.5,
         "Stock":  1,
-        "Date":  "\/Date(1451337204290)\/"
+        "Date":  "\/Date(1459195455153)\/"
     },
     {
         "Title":  "SAGA",
@@ -237,23 +237,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337204448)\/"
+        "Date":  "\/Date(1459195455343)\/"
     },
     {
         "Title":  "SAGA",
         "Issue":  "1A",
         "Cover":  1,
-        "TotalCost":  "45.24",
-        "Mean":  45.237731481481475,
-        "AveragePrice":  43.224953703703704,
-        "CurrentPrice":  44.406,
+        "TotalCost":  "46.10",
+        "Mean":  46.096981981981983,
+        "AveragePrice":  44.138603603603606,
+        "CurrentPrice":  47.366,
         "Minimum":  3.8,
-        "Maximum":  70,
-        "Count":  36,
+        "Maximum":  77.03,
+        "Count":  37,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337204727)\/"
+        "Date":  "\/Date(1459195455587)\/"
     },
     {
         "Title":  "SAGA",
@@ -269,7 +269,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337204905)\/"
+        "Date":  "\/Date(1459195455777)\/"
     },
     {
         "Title":  "SAGA",
@@ -285,7 +285,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337205030)\/"
+        "Date":  "\/Date(1459195455932)\/"
     },
     {
         "Title":  "SAGA",
@@ -301,7 +301,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337205247)\/"
+        "Date":  "\/Date(1459195456095)\/"
     },
     {
         "Title":  "SAGA",
@@ -317,7 +317,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337205380)\/"
+        "Date":  "\/Date(1459195456286)\/"
     },
     {
         "Title":  "SAGA",
@@ -333,7 +333,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337205507)\/"
+        "Date":  "\/Date(1459195456415)\/"
     },
     {
         "Title":  "SAGA",
@@ -349,7 +349,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337205678)\/"
+        "Date":  "\/Date(1459195456586)\/"
     },
     {
         "Title":  "SAGA",
@@ -365,7 +365,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337205897)\/"
+        "Date":  "\/Date(1459195456732)\/"
     },
     {
         "Title":  "SAGA",
@@ -381,7 +381,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337206004)\/"
+        "Date":  "\/Date(1459195456883)\/"
     },
     {
         "Title":  "SAGA",
@@ -397,7 +397,7 @@
         "AveragePaid":  1.425,
         "AverageNetPaid":  1.425,
         "Stock":  2,
-        "Date":  "\/Date(1451337206151)\/"
+        "Date":  "\/Date(1459195457075)\/"
     },
     {
         "Title":  "SAGA",
@@ -413,7 +413,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337206349)\/"
+        "Date":  "\/Date(1459195457242)\/"
     },
     {
         "Title":  "SAGA",
@@ -429,7 +429,7 @@
         "AveragePaid":  2.49,
         "AverageNetPaid":  0.99,
         "Stock":  1,
-        "Date":  "\/Date(1451337206605)\/"
+        "Date":  "\/Date(1459195457427)\/"
     },
     {
         "Title":  "SAGA",
@@ -445,7 +445,7 @@
         "AveragePaid":  1.545,
         "AverageNetPaid":  1.545,
         "Stock":  2,
-        "Date":  "\/Date(1451337206807)\/"
+        "Date":  "\/Date(1459195457627)\/"
     },
     {
         "Title":  "SAGA",
@@ -461,7 +461,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337207097)\/"
+        "Date":  "\/Date(1459195457854)\/"
     },
     {
         "Title":  "SAGA",
@@ -477,7 +477,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337207336)\/"
+        "Date":  "\/Date(1459195458010)\/"
     },
     {
         "Title":  "SAGA",
@@ -493,7 +493,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337207546)\/"
+        "Date":  "\/Date(1459195458171)\/"
     },
     {
         "Title":  "SAGA",
@@ -509,7 +509,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337207702)\/"
+        "Date":  "\/Date(1459195458337)\/"
     },
     {
         "Title":  "SAGA",
@@ -525,23 +525,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337207861)\/"
+        "Date":  "\/Date(1459195458481)\/"
     },
     {
         "Title":  "SAGA",
         "Issue":  "27",
         "Cover":  27,
-        "TotalCost":  "2.18",
-        "Mean":  2.1775,
-        "AveragePrice":  1.8725,
-        "CurrentPrice":  1.8725,
+        "TotalCost":  "2.29",
+        "Mean":  2.2920000000000003,
+        "AveragePrice":  2.048,
+        "CurrentPrice":  2.048,
         "Minimum":  0.99,
-        "Maximum":  2.25,
-        "Count":  4,
+        "Maximum":  2.75,
+        "Count":  5,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337207988)\/"
+        "Date":  "\/Date(1459195458650)\/"
     },
     {
         "Title":  "SAGA",
@@ -557,7 +557,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337208145)\/"
+        "Date":  "\/Date(1459195458782)\/"
     },
     {
         "Title":  "SAGA",
@@ -573,23 +573,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337208293)\/"
+        "Date":  "\/Date(1459195458937)\/"
     },
     {
         "Title":  "SAGA",
         "Issue":  "2A",
         "Cover":  2,
-        "TotalCost":  "13.96",
-        "Mean":  13.955101010101009,
-        "AveragePrice":  12.529949494949493,
-        "CurrentPrice":  7.794,
+        "TotalCost":  "13.77",
+        "Mean":  13.765245098039216,
+        "AveragePrice":  12.382009803921568,
+        "CurrentPrice":  8.4,
         "Minimum":  4.47,
         "Maximum":  28,
-        "Count":  33,
+        "Count":  34,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337208565)\/"
+        "Date":  "\/Date(1459195459173)\/"
     },
     {
         "Title":  "SAGA",
@@ -605,7 +605,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337208681)\/"
+        "Date":  "\/Date(1459195459319)\/"
     },
     {
         "Title":  "SAGA",
@@ -621,7 +621,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337208815)\/"
+        "Date":  "\/Date(1459195459483)\/"
     },
     {
         "Title":  "SAGA",
@@ -637,7 +637,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337208953)\/"
+        "Date":  "\/Date(1459195459636)\/"
     },
     {
         "Title":  "SAGA",
@@ -653,7 +653,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337209100)\/"
+        "Date":  "\/Date(1459195459791)\/"
     },
     {
         "Title":  "SAGA",
@@ -669,23 +669,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337209291)\/"
+        "Date":  "\/Date(1459195459925)\/"
     },
     {
         "Title":  "SAGA",
         "Issue":  "3A",
         "Cover":  3,
-        "TotalCost":  "8.23",
-        "Mean":  8.2311494252873558,
-        "AveragePrice":  7.0452873563218388,
-        "CurrentPrice":  4.792,
+        "TotalCost":  "8.17",
+        "Mean":  8.1734444444444438,
+        "AveragePrice":  7.027111111111112,
+        "CurrentPrice":  4.292,
         "Minimum":  0.99,
         "Maximum":  13,
-        "Count":  29,
+        "Count":  30,
         "AveragePaid":  0.99,
         "AverageNetPaid":  0.99,
         "Stock":  1,
-        "Date":  "\/Date(1451337209534)\/"
+        "Date":  "\/Date(1459195460158)\/"
     },
     {
         "Title":  "SAGA",
@@ -701,7 +701,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337209659)\/"
+        "Date":  "\/Date(1459195460267)\/"
     },
     {
         "Title":  "SAGA",
@@ -717,7 +717,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337209782)\/"
+        "Date":  "\/Date(1459195460391)\/"
     },
     {
         "Title":  "SAGA",
@@ -733,7 +733,7 @@
         "AveragePaid":  2.7,
         "AverageNetPaid":  1.5,
         "Stock":  1,
-        "Date":  "\/Date(1451337209968)\/"
+        "Date":  "\/Date(1459195460559)\/"
     },
     {
         "Title":  "SAGA",
@@ -749,7 +749,7 @@
         "AveragePaid":  1.74,
         "AverageNetPaid":  1.74,
         "Stock":  1,
-        "Date":  "\/Date(1451337210222)\/"
+        "Date":  "\/Date(1459195460807)\/"
     },
     {
         "Title":  "SAGA",
@@ -765,7 +765,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337210378)\/"
+        "Date":  "\/Date(1459195460938)\/"
     },
     {
         "Title":  "SAGA",
@@ -781,7 +781,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337210494)\/"
+        "Date":  "\/Date(1459195461040)\/"
     },
     {
         "Title":  "SAGA",
@@ -797,7 +797,7 @@
         "AveragePaid":  2.95,
         "AverageNetPaid":  1.75,
         "Stock":  1,
-        "Date":  "\/Date(1451337210711)\/"
+        "Date":  "\/Date(1459195461313)\/"
     },
     {
         "Title":  "SAGA",
@@ -813,7 +813,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337210843)\/"
+        "Date":  "\/Date(1459195461446)\/"
     },
     {
         "Title":  "SAGA",
@@ -829,7 +829,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337211008)\/"
+        "Date":  "\/Date(1459195461575)\/"
     },
     {
         "Title":  "SAGA",
@@ -845,7 +845,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337211198)\/"
+        "Date":  "\/Date(1459195461758)\/"
     },
     {
         "Title":  "SAGA",
@@ -861,7 +861,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337211372)\/"
+        "Date":  "\/Date(1459195461922)\/"
     },
     {
         "Title":  "SAGA",
@@ -877,7 +877,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337211525)\/"
+        "Date":  "\/Date(1459195462035)\/"
     },
     {
         "Title":  "SAGA",
@@ -893,7 +893,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337211668)\/"
+        "Date":  "\/Date(1459195462132)\/"
     },
     {
         "Title":  "SAGA",
@@ -909,7 +909,7 @@
         "AveragePaid":  1.74,
         "AverageNetPaid":  1.74,
         "Stock":  1,
-        "Date":  "\/Date(1451337211956)\/"
+        "Date":  "\/Date(1459195462324)\/"
     },
     {
         "Title":  "SAGA",
@@ -925,7 +925,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337212109)\/"
+        "Date":  "\/Date(1459195462447)\/"
     },
     {
         "Title":  "SAGA",
@@ -941,7 +941,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337212248)\/"
+        "Date":  "\/Date(1459195462661)\/"
     },
     {
         "Title":  "SAGA",
@@ -957,7 +957,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337212497)\/"
+        "Date":  "\/Date(1459195462870)\/"
     },
     {
         "Title":  "SAGA",
@@ -973,7 +973,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337212616)\/"
+        "Date":  "\/Date(1459195463002)\/"
     },
     {
         "Title":  "SAGA",
@@ -989,23 +989,39 @@
         "AveragePaid":  3,
         "AverageNetPaid":  1,
         "Stock":  1,
-        "Date":  "\/Date(1451337212838)\/"
+        "Date":  "\/Date(1459195463219)\/"
+    },
+    {
+        "Title":  "SAGA",
+        "Issue":  "set",
+        "Cover":  0,
+        "TotalCost":  "43.84",
+        "Mean":  43.84249999999998,
+        "AveragePrice":  40.774354838709669,
+        "CurrentPrice":  29.694,
+        "Minimum":  0.49,
+        "Maximum":  200,
+        "Count":  124,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1459195463712)\/"
     },
     {
         "Title":  "SAGA",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "43.29",
-        "Mean":  43.288373983739824,
-        "AveragePrice":  40.195284552845514,
-        "CurrentPrice":  37.408,
+        "TotalCost":  "43.84",
+        "Mean":  43.84249999999998,
+        "AveragePrice":  40.774354838709669,
+        "CurrentPrice":  29.694,
         "Minimum":  0.49,
         "Maximum":  200,
-        "Count":  123,
+        "Count":  124,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337213512)\/"
+        "Date":  "\/Date(1459195464207)\/"
     },
     {
         "Title":  "SAGA",
@@ -1021,7 +1037,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337213735)\/"
+        "Date":  "\/Date(1459195464349)\/"
     },
     {
         "Title":  "SAGA",
@@ -1037,6 +1053,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337213923)\/"
+        "Date":  "\/Date(1459195464576)\/"
     }
 ]

@@ -13,23 +13,23 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336839944)\/"
+        "Date":  "\/Date(1459195310432)\/"
     },
     {
         "Title":  "FADE OUT",
         "Issue":  "1A",
         "Cover":  1,
-        "TotalCost":  "4.26",
-        "Mean":  4.2592,
-        "AveragePrice":  3.0464,
-        "CurrentPrice":  2.8280000000000003,
+        "TotalCost":  "4.13",
+        "Mean":  4.1338461538461537,
+        "AveragePrice":  2.9676923076923081,
+        "CurrentPrice":  2.286,
         "Minimum":  0.99,
         "Maximum":  9.25,
-        "Count":  25,
+        "Count":  26,
         "AveragePaid":  2.99,
         "AverageNetPaid":  2.99,
         "Stock":  1,
-        "Date":  "\/Date(1451336840374)\/"
+        "Date":  "\/Date(1459195310627)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336840861)\/"
+        "Date":  "\/Date(1459195310734)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -61,7 +61,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336841437)\/"
+        "Date":  "\/Date(1459195310893)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -77,7 +77,7 @@
         "AveragePaid":  3.99,
         "AverageNetPaid":  3.99,
         "Stock":  1,
-        "Date":  "\/Date(1451336842089)\/"
+        "Date":  "\/Date(1459195311040)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336842612)\/"
+        "Date":  "\/Date(1459195311150)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -109,7 +109,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451336842918)\/"
+        "Date":  "\/Date(1459195311275)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -125,7 +125,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336843154)\/"
+        "Date":  "\/Date(1459195311375)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -141,7 +141,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451336843360)\/"
+        "Date":  "\/Date(1459195311469)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451336843613)\/"
+        "Date":  "\/Date(1459195311578)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -173,7 +173,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451336843846)\/"
+        "Date":  "\/Date(1459195311698)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -189,7 +189,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451336844018)\/"
+        "Date":  "\/Date(1459195311821)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -205,7 +205,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336844212)\/"
+        "Date":  "\/Date(1459195311931)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -221,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336844426)\/"
+        "Date":  "\/Date(1459195312023)\/"
     },
     {
         "Title":  "FADE OUT",
@@ -230,13 +230,13 @@
         "TotalCost":  "8.87",
         "Mean":  8.8692307692307715,
         "AveragePrice":  6.7546153846153834,
-        "CurrentPrice":  6.996,
+        "CurrentPrice":  8.496,
         "Minimum":  0.99,
         "Maximum":  14.99,
         "Count":  26,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336844747)\/"
+        "Date":  "\/Date(1459195312219)\/"
     }
 ]

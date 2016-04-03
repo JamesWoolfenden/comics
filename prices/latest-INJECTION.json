@@ -13,7 +13,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336949438)\/"
+        "Date":  "\/Date(1459195337801)\/"
     },
     {
         "Title":  "INJECTION",
@@ -22,14 +22,14 @@
         "TotalCost":  "2.50",
         "Mean":  2.4971428571428573,
         "AveragePrice":  2.141428571428571,
-        "CurrentPrice":  2.34,
+        "CurrentPrice":  1.998,
         "Minimum":  0.99,
         "Maximum":  2.7,
         "Count":  7,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336950048)\/"
+        "Date":  "\/Date(1459195337935)\/"
     },
     {
         "Title":  "INJECTION",
@@ -45,7 +45,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336950533)\/"
+        "Date":  "\/Date(1459195338046)\/"
     },
     {
         "Title":  "INJECTION",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.2,
         "AverageNetPaid":  2.2,
         "Stock":  1,
-        "Date":  "\/Date(1451336950853)\/"
+        "Date":  "\/Date(1459195338171)\/"
     },
     {
         "Title":  "INJECTION",
@@ -77,7 +77,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336951381)\/"
+        "Date":  "\/Date(1459195338307)\/"
     },
     {
         "Title":  "INJECTION",
@@ -93,7 +93,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336951921)\/"
+        "Date":  "\/Date(1459195338412)\/"
     },
     {
         "Title":  "INJECTION",
@@ -109,7 +109,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336952368)\/"
+        "Date":  "\/Date(1459195338531)\/"
     },
     {
         "Title":  "INJECTION",
@@ -125,7 +125,7 @@
         "AveragePaid":  2.25,
         "AverageNetPaid":  2.25,
         "Stock":  1,
-        "Date":  "\/Date(1451336952688)\/"
+        "Date":  "\/Date(1459195338657)\/"
     },
     {
         "Title":  "INJECTION",
@@ -141,22 +141,38 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336952897)\/"
+        "Date":  "\/Date(1459195338756)\/"
+    },
+    {
+        "Title":  "INJECTION",
+        "Issue":  "set",
+        "Cover":  0,
+        "TotalCost":  "6.49",
+        "Mean":  6.4925,
+        "AveragePrice":  5.495,
+        "CurrentPrice":  5.495000000000001,
+        "Minimum":  3.99,
+        "Maximum":  9.5,
+        "Count":  4,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1459195338876)\/"
     },
     {
         "Title":  "INJECTION",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "6.24",
-        "Mean":  6.235,
-        "AveragePrice":  4.24,
-        "CurrentPrice":  4.24,
+        "TotalCost":  "6.49",
+        "Mean":  6.4925,
+        "AveragePrice":  5.495,
+        "CurrentPrice":  5.495000000000001,
         "Minimum":  3.99,
-        "Maximum":  4.49,
-        "Count":  2,
+        "Maximum":  9.5,
+        "Count":  4,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336953318)\/"
+        "Date":  "\/Date(1459195339007)\/"
     }
 ]

@@ -557,20 +557,19 @@ function Get-EbaySellerFromIE
    {
        try
        {
-		 if (@($ie[1].Document.getElementsByClassName('mbg-nw')).InnerText)
+		     if (@($ie[1].Document.getElementsByClassName('mbg-nw')).InnerText)
          {
             $seller=@($ie[1].Document.getElementsByClassName('mbg-nw')).InnerText
          }
-        
+
        }
        catch
        {
-		   Write-warning "getElementsByClassName for 'mbg-nw' failed"
-		   
-    	   Write-host "Exception Type: $($_.Exception.GetType().FullName)" -ForegroundColor Red
-           Write-host "Exception Message: $($_.Exception.Message)" -ForegroundColor Red
-           Write-Warning -Message "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
-	   	   throw
+		      Write-warning "getElementsByClassName for 'mbg-nw' failed"
+
+    	    Write-host "Exception Type: $($_.Exception.GetType().FullName)" -ForegroundColor Red
+          Write-host "Exception Message: $($_.Exception.Message)" -ForegroundColor Red
+          Write-Warning -Message "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
 	   }
    }
    else

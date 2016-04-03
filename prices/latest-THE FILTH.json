@@ -13,7 +13,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337380465)\/"
+        "Date":  "\/Date(1459195509505)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -29,7 +29,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337381142)\/"
+        "Date":  "\/Date(1459195509608)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -45,7 +45,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337381791)\/"
+        "Date":  "\/Date(1459195509733)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -61,7 +61,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337382256)\/"
+        "Date":  "\/Date(1459195509837)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -77,7 +77,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337382862)\/"
+        "Date":  "\/Date(1459195509960)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -93,7 +93,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337383733)\/"
+        "Date":  "\/Date(1459195510065)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -109,7 +109,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337384680)\/"
+        "Date":  "\/Date(1459195510188)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -125,7 +125,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337385683)\/"
+        "Date":  "\/Date(1459195510300)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -141,7 +141,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337386164)\/"
+        "Date":  "\/Date(1459195510413)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -157,7 +157,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337386689)\/"
+        "Date":  "\/Date(1459195510521)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -173,7 +173,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337387402)\/"
+        "Date":  "\/Date(1459195510628)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -189,7 +189,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337388073)\/"
+        "Date":  "\/Date(1459195510743)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -205,7 +205,7 @@
         "AveragePaid":  2.1,
         "AverageNetPaid":  2.1,
         "Stock":  1,
-        "Date":  "\/Date(1451337388912)\/"
+        "Date":  "\/Date(1459195510862)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -221,7 +221,7 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337389748)\/"
+        "Date":  "\/Date(1459195510988)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -230,14 +230,14 @@
         "TotalCost":  "11.10",
         "Mean":  11.09642857142857,
         "AveragePrice":  7.8821428571428553,
-        "CurrentPrice":  5.538,
+        "CurrentPrice":  5.5379999999999994,
         "Minimum":  0.99,
         "Maximum":  31,
         "Count":  14,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337390478)\/"
+        "Date":  "\/Date(1459195511182)\/"
     },
     {
         "Title":  "THE FILTH",
@@ -253,6 +253,6 @@
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451337391284)\/"
+        "Date":  "\/Date(1459195511342)\/"
     }
 ]

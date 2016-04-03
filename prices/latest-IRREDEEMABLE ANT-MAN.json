@@ -13,7 +13,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1451336954335)\/"
+        "Date":  "\/Date(1459195339310)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
@@ -29,7 +29,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1451336954843)\/"
+        "Date":  "\/Date(1459195339410)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
@@ -45,7 +45,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1451336956017)\/"
+        "Date":  "\/Date(1459195339519)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -61,7 +61,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1451336956478)\/"
+        "Date":  "\/Date(1459195339620)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
@@ -77,7 +77,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1451336956971)\/"
+        "Date":  "\/Date(1459195339759)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -93,7 +93,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1451336957311)\/"
+        "Date":  "\/Date(1459195339863)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -109,7 +109,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1451336957635)\/"
+        "Date":  "\/Date(1459195339968)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
@@ -125,7 +125,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1451336958220)\/"
+        "Date":  "\/Date(1459195340073)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
@@ -141,7 +141,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1451336958836)\/"
+        "Date":  "\/Date(1459195340233)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
@@ -157,7 +157,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1451336959252)\/"
+        "Date":  "\/Date(1459195340341)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -173,7 +173,7 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1451336959687)\/"
+        "Date":  "\/Date(1459195340438)\/"
     },
     {
         "Title":  "irredeemable ant-man",
@@ -189,22 +189,38 @@
         "AveragePaid":  0.83,
         "AverageNetPaid":  0.58,
         "Stock":  1,
-        "Date":  "\/Date(1451336960079)\/"
+        "Date":  "\/Date(1459195340541)\/"
+    },
+    {
+        "Title":  "IRREDEEMABLE ANT-MAN",
+        "Issue":  "set",
+        "Cover":  0,
+        "TotalCost":  "16.41",
+        "Mean":  16.41,
+        "AveragePrice":  14.235000000000001,
+        "CurrentPrice":  16.496,
+        "Minimum":  1.5,
+        "Maximum":  31,
+        "Count":  8,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1459195340698)\/"
     },
     {
         "Title":  "IRREDEEMABLE ANT-MAN",
         "Issue":  "SET",
         "Cover":  0,
-        "TotalCost":  "18.54",
-        "Mean":  18.54,
-        "AveragePrice":  16.054285714285715,
-        "CurrentPrice":  18.195999999999998,
-        "Minimum":  1.99,
+        "TotalCost":  "16.41",
+        "Mean":  16.41,
+        "AveragePrice":  14.235000000000001,
+        "CurrentPrice":  16.496,
+        "Minimum":  1.5,
         "Maximum":  31,
-        "Count":  7,
+        "Count":  8,
         "AveragePaid":  null,
         "AverageNetPaid":  null,
         "Stock":  0,
-        "Date":  "\/Date(1451336960465)\/"
+        "Date":  "\/Date(1459195340844)\/"
     }
 ]
