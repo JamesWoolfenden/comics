@@ -1,0 +1,34 @@
+[
+    {
+        "Title":  "HASTINGS",
+        "Issue":  "GOVERNOR SPECIALHASTINGS",
+        "Cover":  0,
+        "TotalCost":  "15.10",
+        "Mean":  15.1,
+        "AveragePrice":  12.1,
+        "CurrentPrice":  12.1,
+        "Minimum":  12.1,
+        "Maximum":  12.1,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1453150910345)\/"
+    },
+    {
+        "Title":  "HASTINGS",
+        "Issue":  "THE GOVERNOR SPECIALHASTINGS",
+        "Cover":  0,
+        "TotalCost":  "12.66",
+        "Mean":  12.655,
+        "AveragePrice":  9.655,
+        "CurrentPrice":  9.655,
+        "Minimum":  7.7,
+        "Maximum":  11.61,
+        "Count":  2,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1453150910449)\/"
+    }
+]

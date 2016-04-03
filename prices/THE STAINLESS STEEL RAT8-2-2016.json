@@ -1,0 +1,34 @@
+[
+    {
+        "Title":  "THE STAINLESS STEEL RAT",
+        "Issue":  "1",
+        "Cover":  1,
+        "TotalCost":  "2.68",
+        "Mean":  2.6799999999999997,
+        "AveragePrice":  0.99,
+        "CurrentPrice":  0.99,
+        "Minimum":  0.99,
+        "Maximum":  0.99,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1454965482885)\/"
+    },
+    {
+        "Title":  "THE STAINLESS STEEL RAT",
+        "Issue":  "SET",
+        "Cover":  0,
+        "TotalCost":  "10.53",
+        "Mean":  10.532,
+        "AveragePrice":  9.294,
+        "CurrentPrice":  9.294,
+        "Minimum":  5,
+        "Maximum":  12.99,
+        "Count":  5,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1454965483013)\/"
+    }
+]
