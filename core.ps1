@@ -169,6 +169,7 @@ function Get-Price
 
    [string]$currency=$null
 
+   $price=$price.replace("â¬Ãº","")
    if ($price.contains("�"))
    {
       $price=$price.Replace("�","")

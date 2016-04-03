@@ -50,8 +50,7 @@ function Update-Record
    {
       'EBAY'
 	    {
-		     $estimate=Get-EbayShippingCostFromIE -ie $ie -record $record
-		     #$seller  =Get-EbaySellerFromIE -ie $ie -record $record
+		     $estimate=Get-EbayShippingCost -record $record
          $seller  =Get-EbaySeller -record $record
          Write-Host "Seller : $seller"
 	    }
@@ -176,21 +175,7 @@ function Update-Record
 
    if ($record.site -eq "ebay")
    {
-
-      if (test-property -object $ie[1].Document.getElementByID('prcIsum_bidPrice') -property innerText)
-      {
-         $priceestimate= ($ie[1].Document.getElementByID('prcIsum_bidPrice').innerText)
-      }
-
-      if (test-property -object $ie[1].Document.getElementByID('prcIsum')  -property innerText)
-      {
-         $priceestimate= ($ie[1].Document.getElementByID('prcIsum').innerText)
-      }
-
-      if (test-property -object $ie[1].Document.getElementByID('mm-saleDscPr') -property innerText)
-      {
-         $priceestimate= ($ie[1].Document.getElementByID('mm-saleDscPr').innerText)
-      }
+      $priceestimate=Get-EbaySoldPrice -record $record
 
       #still null must have stopped auction?
       if ($priceestimate -eq $NULL)
@@ -553,41 +538,47 @@ function Get-EbaySeller
       [PSObject]$record)
     $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
 
-        
-		   
-    & node.exe scrape.js $url
+    & node.exe scrape.js $url 'span.mbg-nw@html'
 }
 
-function Get-EbayShippingCostFromIE
+function Get-EbaySoldPrice
+{
+    param(
+      [Parameter(Mandatory=$true)]
+      [PSObject]$record)
+    $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
+
+    $SoldPrice=& node.exe scrape.js $url 'prcIsum_bidPrice'
+
+    if (!($SoldPrice))
+    {
+      $SoldPrice=& node.exe scrape.js $url 'span.notranslate'
+    }
+
+    Get-Price $SoldPrice
+}
+
+function Get-EbayShippingCost
 {
    param(
    [Parameter(Mandatory=$true)]
-   $ie,
-   [Parameter(Mandatory=$true)]
    [PSObject]$record)
 
-   if (!($record.postage))
-   {
-      try
-      {
-         if (test-property -object $ie[1].Document.getElementByID('fshippingCost') -property innerText)
-         {
-            $estimate=$ie[1].Document.getElementByID('fshippingCost').innerText
-         }
-         else
-         {
-            write-host "Postage cannot be estimated"
-         }
-      }
-      catch
-      {
-         Write-Host "Failed to detect shipping"
-      }
-   }
-   else
-   {
-	   $estimate=$record.postage
-   }
+   $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
+   $estimate=0
 
-   $estimate
+  try
+  {
+     $bestestimate=(& node.exe scrape.js $url .sh-fr-cst)[1].trim()
+     if (!($bestestimate -eq "Free"))
+     {
+       $estimate=$bestestimate
+     }
+  }
+  catch
+  {
+     Write-Error "Failed to detect shipping"
+  }
+
+   Get-Price $estimate
 }

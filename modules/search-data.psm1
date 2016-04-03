@@ -165,7 +165,7 @@ function Set-SearchData
 
    write-verbose "Index is $Index"
    $searches[$index]
-   $searches| ConvertTo-Json -depth 999 | Out-File "$datafile"
+   $searches| ConvertTo-Json -depth 999 | Out-File "$datafile" -encoding utf8
 }
 
 function Get-SearchData

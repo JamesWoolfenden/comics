@@ -438,20 +438,8 @@ function Update-Open
    foreach($record in $results)
    {
       Write-Host "Record $index of $count"
-
-      Try
-      {
-         Update-Record $record
-      }
-      Catch
-      {
-          Write-host "Exception Type: $($_.Exception.GetType().FullName)" -ForegroundColor Red
-          Write-host "Exception Message: $($_.Exception.Message)" -ForegroundColor Red
-
-          Write-Warning -Message "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
-          Write-Warning -Message "Update-Open Error"
-      }
-
+      Update-Record $record
+    
       $index ++
    }
 }
