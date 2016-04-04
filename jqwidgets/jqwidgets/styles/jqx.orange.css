@@ -1,7 +1,7 @@
 ﻿/*states, content and header*/
-.jqx-widget-orange{border-color:#E48605}
-.jqx-widget-content-orange{color:#000000; border-color:#E48605}
-.jqx-fill-state-normal-orange, .jqx-widget-header-orange, .jqx-menu-vertical-orange {
+.jqx-widGet-orange{border-color:#E48605}
+.jqx-widGet-content-orange{color:#000000; border-color:#E48605}
+.jqx-fill-state-normal-orange, .jqx-widGet-header-orange, .jqx-menu-vertical-orange {
     border-color: #E48605;
     color: #ffffff;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
@@ -42,13 +42,13 @@
 .jqx-checkbox-check-checked-orange{background:transparent url(images/check_white.png) left top no-repeat}
 .jqx-checkbox-check-indeterminate-orange{background:transparent url(images/check_indeterminate_white.png) left top no-repeat}
 .jqx-grid-orange, .jqx-grid-header-orange, .jqx-grid-cell-orange{border-color:#E48605}
-.jqx-widget-orange .jqx-grid-cell-orange, .jqx-widget-orange .jqx-grid-group-cell-orange{border-color:#FBB34E}
-.jqx-widget-orange .jqx-grid-column-header-orange{border-color:#E48605}
+.jqx-widGet-orange .jqx-grid-cell-orange, .jqx-widGet-orange .jqx-grid-group-cell-orange{border-color:#FBB34E}
+.jqx-widGet-orange .jqx-grid-column-header-orange{border-color:#E48605}
 .jqx-grid-bottomright-orange, .jqx-panel-bottomright-orange, .jqx-listbox-bottomright-orange{   background-color:#FBB659}
-.jqx-widget-orange .jqx-grid-column-menubutton-orange, .jqx-menu-vertical-orange{border-color:#FBB34E}
+.jqx-widGet-orange .jqx-grid-column-menubutton-orange, .jqx-menu-vertical-orange{border-color:#FBB34E}
  .jqx-grid-selectionarea-orange{background-color:#6eaad3;border:1px solid #6eaad3; opacity:0.5}
 .jqx-grid-group-cell-orange{border-color:#FBB34E; background-color:#fff}
-.jqx-grid-cell-orange, .jqx-widget-orange .jqx-grid-cell-orange {
+.jqx-grid-cell-orange, .jqx-widGet-orange .jqx-grid-cell-orange {
 border-color:#FBB34E; }
 .jqx-grid-cell-sort-orange, .jqx-grid-cell-filter-orange, .jqx-grid-cell-pinned-orange{background-color:#FCC67C}
 .jqx-grid-cell-alt-orange, .jqx-grid-cell-sort-alt-orange, .jqx-grid-cell-filter-alt-orange{background-color:#FCC67C}

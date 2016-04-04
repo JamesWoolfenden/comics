@@ -23,7 +23,7 @@ function Get-AuctionData
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title    -value $result.title
 
-      $cover=get-cover $results[$counter].issue
+      $cover=Get-cover $results[$counter].issue
       $price=($result.price) -as [decimal]
 
       $record| Add-Member -type NoteProperty -name issue    -value $cover

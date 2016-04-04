@@ -105,7 +105,7 @@
             }
 
 
-            $("#demoToolbar").addClass('jqx-widget-header jqx-widget-header-' + theme);
+            $("#demoToolbar").addClass('jqx-widGet-header jqx-widGet-header-' + theme);
             $("#demoToolbar").addClass('jqx-listmenu-header jqx-listmenu-header-' + theme);
             $("#demoToolbar").css('padding', '0px');
             $("#demoToolbar").css('padding-top', '5px');

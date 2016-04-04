@@ -32,7 +32,7 @@ Function ConvertTo-HashTable {
     .Parameter MaxDepth
         Maximum depth of embedded objects to convert.  Default is 4.
     .Example
-        $bios = get-ciminstance win32_bios
+        $bios = Get-ciminstance win32_bios
         $bios | ConvertTo-HashTable
     #>
     
@@ -84,7 +84,7 @@ Function Start-HTTPListener {
         Authentication Schemes to use, default is IntegratedWindowsAuthentication
     .Example
         Start-HTTPListener -Port 8080 -Url PowerShell
-        Invoke-WebRequest -Uri "http://localhost:8888/PowerShell?command=get-service winmgmt&format=text" -UseDefaultCredentials | Format-List *
+        Invoke-WebRequest -Uri "http://localhost:8888/PowerShell?command=Get-service winmgmt&format=text" -UseDefaultCredentials | Format-List *
     #>
     
     Param (
@@ -130,7 +130,7 @@ Function Start-HTTPListener {
                     $commandOutput = "Unauthorized"
                 } else {
                     $identity = $context.User.Identity
-                    Write-Verbose "Received request $(get-date) from $($identity.Name):"
+                    Write-Verbose "Received request $(Get-date) from $($identity.Name):"
                     $request | fl * | Out-String | Write-Verbose
                 
                     # only allow requests that are the same identity as the one who started the listener

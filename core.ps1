@@ -29,7 +29,7 @@ function Scan
 
      if ($search.Enabled)
      {
-        get-allrecords -search $search
+        Get-allrecords -search $search
      }
      Else
      {
@@ -54,8 +54,8 @@ function Best-Buys
 
    foreach($record in $results)
    {
-      write-verbose "get-priceestimate -title $($record.title) -issue $($record.issue)"
-      $prices=get-priceestimate -title $($record.title) -issue $($record.issue)
+      write-verbose "Get-priceestimate -title $($record.title) -issue $($record.issue)"
+      $prices=Get-priceestimate -title $($record.title) -issue $($record.issue)
 
       $CurrentPrice=0
       $AveragePrice=0
@@ -83,7 +83,7 @@ function Get-BestBuy
        Gets and sorts an array of a certain table by margin
 
       .EXAMPLE
-      C:\PS> get-bestbuy -title "THE WALKING DEAD"
+      C:\PS> Get-bestbuy -title "THE WALKING DEAD"
 
    #>
     param([string]$title,
@@ -154,7 +154,7 @@ function Get-Price
        For return numeric price from a dirty string
 
       .EXAMPLE
-      C:\PS> get-price "$3.59"
+      C:\PS> Get-price "$3.59"
 
    #>
 
@@ -169,6 +169,7 @@ function Get-Price
 
    [string]$currency=$null
 
+   $price=$price.replace("â¬Ãº","")
    if ($price.contains("�"))
    {
       $price=$price.Replace("�","")
@@ -276,7 +277,7 @@ function Update-Set
        Allows the individual update of a resultset
 
       .EXAMPLE
-      C:\PS> update-set $(get-selleritems -seller blackadam -nogrid)
+      C:\PS> update-set $(Get-selleritems -seller blackadam -nogrid)
 
    #>
 
@@ -286,7 +287,7 @@ function Update-Set
 
    foreach($record in $results)
    {
-      Update-Record $record 
+      Update-Record $record
    }
 }
 

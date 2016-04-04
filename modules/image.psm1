@@ -4,7 +4,7 @@ function show-image
    [string]$filepath)
    
    [void][reflection.assembly]::LoadWithPartialName("System.Windows.Forms")
-   $file = (get-item $filepath) 
+   $file = (Get-item $filepath) 
    $img = [System.Drawing.Image]::Fromfile($file);
 
    [System.Windows.Forms.Application]::EnableVisualStyles();
@@ -31,13 +31,13 @@ function test-image
    $padtitle=$title -replace(" ","-")
    $padtitle=$padtitle -replace(":","-")
    write-verbose "Test image: $issue!"
-   $cover= get-cover $issue
-   $filepath= get-imagefilename -title $title -issue $issue
+   $cover= Get-cover $issue
+   $filepath= Get-imagefilename -title $title -issue $issue
    #Write-host $filepath
    test-path $filepath
 }
 
-function get-imagefilename
+function Get-imagefilename
 {
    param(
    [string]$title,
@@ -45,7 +45,7 @@ function get-imagefilename
       
    $padtitle=$title -replace(" ","-")
    $padtitle=$padtitle -replace(":","-")
-   $cover= get-cover $issue
+   $cover= Get-cover $issue
    $issue=$issue.Replace(":","")
    ($imageroot+"\"+$padtitle+"\"+$cover+"\"+$issue+".jpg").ToUpper()
 }
@@ -56,7 +56,7 @@ function set-imagefolder
    [string]$title,
    [string]$issue)
    
-   $cover= get-cover $issue
+   $cover= Get-cover $issue
    $padtitle=$title -replace(" ","-")
    $padtitle=$padtitle -replace(":","-")
    $imagefolder="$imageroot\$padtitle\$cover"
@@ -75,7 +75,7 @@ function import-image
 
    $wherestring="where Title = '$title' And Issue = '$issue' order by PublishDate"
    $padtitle=$title -replace(" ","-")
-   $cover= get-cover $issue
+   $cover= Get-cover $issue
    $results=Search-DB $wherestring
    foreach ($record in $results)
    {      
@@ -87,7 +87,7 @@ function import-image
         If (($fileurl -ne "") -And ($fileurl -ne $null))
         {
            Write-Host "$($record.Imagesrc)"
-           $filepath=get-imagefilename -title $title -issue $issue
+           $filepath=Get-imagefilename -title $title -issue $issue
            Write-Host "$filepath"
            Invoke-webRequest $fileurl -outfile $filepath
         }

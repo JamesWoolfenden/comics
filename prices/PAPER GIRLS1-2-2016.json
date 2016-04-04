@@ -1,0 +1,50 @@
+[
+    {
+        "Title":  "PAPER GIRLS",
+        "Issue":  "1A",
+        "Cover":  1,
+        "TotalCost":  "2.88",
+        "Mean":  2.8806666666666674,
+        "AveragePrice":  2.6973333333333338,
+        "CurrentPrice":  2.5260000000000002,
+        "Minimum":  0.99,
+        "Maximum":  3.99,
+        "Count":  15,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1454360587633)\/"
+    },
+    {
+        "Title":  "PAPER GIRLS",
+        "Issue":  "2",
+        "Cover":  2,
+        "TotalCost":  "2.85",
+        "Mean":  2.85,
+        "AveragePrice":  2.85,
+        "CurrentPrice":  2.85,
+        "Minimum":  2.25,
+        "Maximum":  3.45,
+        "Count":  2,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1454360587734)\/"
+    },
+    {
+        "Title":  "PAPER GIRLS",
+        "Issue":  "3",
+        "Cover":  3,
+        "TotalCost":  "2.25",
+        "Mean":  2.25,
+        "AveragePrice":  2.25,
+        "CurrentPrice":  2.25,
+        "Minimum":  2.25,
+        "Maximum":  2.25,
+        "Count":  1,
+        "AveragePaid":  null,
+        "AverageNetPaid":  null,
+        "Stock":  0,
+        "Date":  "\/Date(1454360587832)\/"
+    }
+]

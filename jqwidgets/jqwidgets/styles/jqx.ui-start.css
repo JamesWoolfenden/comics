@@ -60,11 +60,11 @@
 .jqx-window-close-button-hover-ui-start{background-color:#fff; background-position:-96px -128px; background-image:url(images/start/ui-icons_056b93_256x240.png); cursor:pointer; width:16px; height:16px}
 
 /*Common Settings*/
-.jqx-widget-ui-start{ border-color: #a6c9e2; font-size:12px; font-style:normal;}
-.jqx-widget-content-ui-start{border-color: #a6c9e2; background: #fcfdfd url(images/start/ui-bg_inset-hard_100_fcfdfd_1x100.png) 50% bottom repeat-x; color: #222222;}
-.jqx-widget-content-ui-start a{color:#222}
-.jqx-widget-header-ui-start{ border-color: #4297d7; background: #2191c0 url(images/start/ui-bg_gloss-wave_75_2191c0_500x100.png) 50% 50% repeat-x; color: #eaf5f7; font-size:12px}
-.jqx-widget-header-ui-start a{color:#eaf5f7}
+.jqx-widGet-ui-start{ border-color: #a6c9e2; font-size:12px; font-style:normal;}
+.jqx-widGet-content-ui-start{border-color: #a6c9e2; background: #fcfdfd url(images/start/ui-bg_inset-hard_100_fcfdfd_1x100.png) 50% bottom repeat-x; color: #222222;}
+.jqx-widGet-content-ui-start a{color:#222}
+.jqx-widGet-header-ui-start{ border-color: #4297d7; background: #2191c0 url(images/start/ui-bg_gloss-wave_75_2191c0_500x100.png) 50% 50% repeat-x; color: #eaf5f7; font-size:12px}
+.jqx-widGet-header-ui-start a{color:#eaf5f7}
 .jqx-fill-state-normal-ui-start{border-color: #77d5f7; background: #0078ae url(images/start/ui-bg_glass_45_0078ae_1x400.png) 50% 50% repeat-x; font-weight: normal; color: #ffffff;}
 .jqx-fill-state-normal-ui-start a, .jqx-fill-state-normal-ui-start a:link, .jqx-fill-state-normal-ui-start a:visited{color:#ffffff; text-decoration:none}
 .jqx-fill-state-hover-ui-start{border-color: #448dae; background: #79c9ec url(images/start/ui-bg_glass_75_79c9ec_1x400.png) 50% 50% repeat-x; font-weight: normal; color: #026890;}
@@ -116,7 +116,7 @@
 
 /*Grid*/
 .jqx-grid-bottomright-ui-start, .jqx-panel-bottomright-ui-start, .jqx-listbox-bottomright-ui-start, .jqx-scrollbar-state-normal-ui-start{background: #7bbdd9;}
-.jqx-widget-ui-start .jqx-grid-column-header-ui-start, .jqx-grid-cell-ui-start, .jqx-widget-ui-start .jqx-grid-cell-ui-start, .jqx-widget-ui-start .jqx-grid-group-cell-ui-start, .jqx-grid-group-cell-ui-start{border-color:#77d5f7}
+.jqx-widGet-ui-start .jqx-grid-column-header-ui-start, .jqx-grid-cell-ui-start, .jqx-widGet-ui-start .jqx-grid-cell-ui-start, .jqx-widGet-ui-start .jqx-grid-group-cell-ui-start, .jqx-grid-group-cell-ui-start{border-color:#77d5f7}
 .jqx-grid-group-expand-ui-start{background-position: 50% 50%; background-repeat: no-repeat;background-image: url(images/icon-down.png);}
 .jqx-grid-group-collapse-ui-start{background-position: 50% 50%; background-repeat: no-repeat;background-image: url(images/icon-right.png);}
 /*Menu*/
