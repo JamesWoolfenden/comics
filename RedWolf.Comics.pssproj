@@ -27,7 +27,6 @@
   <ItemGroup>
     <Compile Include=".gitattributes" />
     <Compile Include=".gitignore" />
-    <Compile Include="backup\azureexport.dacpac" />
     <Compile Include="comicbiz.ps1" />
     <Compile Include="data\comicxposure\latest.json" />
     <Compile Include="data\dcbs\18-1-2015.json" />
