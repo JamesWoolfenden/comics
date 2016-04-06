@@ -207,7 +207,7 @@ function Update-Record
 
    if ($estimate -notlike $NULL)
    {
-      $estimate=($estimate.Replace("�","")).Replace('$',"")
+      $estimate=(get-price $estimate).Amount
    }
 
    if ($estimate -match "Free")
@@ -555,7 +555,7 @@ function Get-EbaySoldPrice
       $SoldPrice=& node.exe scrape.js $url 'span.notranslate'
     }
 
-    Get-Price $SoldPrice
+    (Get-Price $SoldPrice).Amount
 }
 
 function Get-EbayShippingCost
@@ -570,6 +570,8 @@ function Get-EbayShippingCost
   try
   {
      $bestestimate=(& node.exe scrape.js $url .sh-fr-cst)[1].trim()
+     Write "Best Estimate "
+     $bestestimate
      if (!($bestestimate -eq "Free"))
      {
        $estimate=$bestestimate
@@ -580,5 +582,5 @@ function Get-EbayShippingCost
      Write-Error "Failed to detect shipping"
   }
 
-   Get-Price $estimate
+   (Get-Price $estimate).Amount
 }

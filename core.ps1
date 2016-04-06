@@ -169,10 +169,15 @@ function Get-Price
 
    [string]$currency=$null
 
-   $price=$price.replace("â¬Ãº","")
-   if ($price.contains("�"))
+   if ($price.contains('-�'))
    {
-      $price=$price.Replace("�","")
+      $price=$price.Replace('-�',"")
+      $currency="&pound;"
+   }
+
+   if ($price.contains("?"))
+   {
+      $price=$price.Replace("?","")
       $currency="&pound;"
    }
 
@@ -182,11 +187,12 @@ function Get-Price
       $currency='$'
    }
 
-   if ($price.contains("�"))
+   if ($price.contains("?"))
    {
-      $price=$price.Replace("�","")
+      $price=$price.Replace("?","")
       $currency='Euro'
    }
+
 
    $price=$price.split("")
    if ($price -is [system.array] )
@@ -194,6 +200,8 @@ function Get-Price
       $price=$price[1]
    }
 
+   #if none of that shit works
+   $price=$price -replace"[^ -x7e]",""
    [decimal]$price=$price
 
    $cost= New-Object System.Object
