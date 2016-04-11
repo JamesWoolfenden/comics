@@ -2,13 +2,13 @@ $connection= "Data Source=redwolffour.cloudapp.net;Initial Catalog=comics;User I
 
 function Get-pounds
 {   <#
-      .SYNOPSIS 
-       returns clean currency string when given a dirty string    
-      
+      .SYNOPSIS
+       returns clean currency string when given a dirty string
+
       .PARAMETER dirty
-            
+
       .EXAMPLE
-      C:\PS>  Get-pounds -dirty    
+      C:\PS>  Get-pounds -dirty
    #>
 
    param(
@@ -18,14 +18,14 @@ function Get-pounds
    Try
    {
       $clean=$dirty.split(" ")
-   
+
       [regex]$r="[^0-9.]"
-      
+
       if ($clean.count -gt 1)
       {
          $clean=$r.replace($clean[1],"")
       }
-      
+
       $clean
     }
     Catch [system.exception]
@@ -37,19 +37,19 @@ function Get-pounds
 function Get-cover
 {
    <#
-      .SYNOPSIS 
-       attempts to find cover issue when given a dirty string    
-      
+      .SYNOPSIS
+       attempts to find cover issue when given a dirty string
+
       .PARAMETER dirty
-            
+
       .EXAMPLE
-      C:\PS>  Get-cover -dirty    
+      C:\PS>  Get-cover -dirty
    #>
 
    param(
    [Parameter(Mandatory=$true)]
    [string]$dirty)
-   
+
    Try
    {
       write-verbose "Analysing cover $dirty"
@@ -76,15 +76,15 @@ function Get-cover
 function add-record
 {
    <#
-      .SYNOPSIS 
+      .SYNOPSIS
        Adds a comic sale record.
-        
+
       .DESCRIPTION
        Adds a comic sale record to the db
-      
+
       .PARAMETER Name
     Specifies the file name.
-        
+
       .EXAMPLE
       C:\PS> add-record -title "The Walking Dead" -issue "1A" -price 12.5 -status CLOSED -bought $true -site FP -seller FP
       .EXAMPLE
@@ -93,9 +93,9 @@ function add-record
       C:\PS> add-record -title "The Walking Dead" -issue 123 -price 1.75 -status CLOSED -bought $true -site FP -seller FP -postage 0.67
       .EXAMPLE
       C:\PS> add-record -title "Manhattan Projects" -issue 18 -price 2.10 -status CLOSED -bought $true -site FP -seller FP -postage 0.67
-        
+
    #>
-            
+
    param(
    [Parameter(Mandatory=$true)]
    [string]$title,
@@ -122,28 +122,28 @@ function add-record
    [string]$seller="",
    [string]$Parentid=$NULL,
    [boolean]$split=0)
-   
+
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString = $connection
    $conn.open()
-   
+
    $cmd = New-Object System.Data.SqlClient.SqlCommand
    $cmd.connection = $conn
-   
+
    $DateOfSale=$(Get-date).ToString()
    $saledate = Get-date
    $title=$title.ToUpper()
    $Issue=$Issue.ToUpper()
    $Description=$Description.Replace("'","")
-   
+
    $postage=Get-pounds $postage
    $price=Get-pounds $price
-   
-   $cmd.commandtext = "INSERT INTO comics 
-   (Title, Price, Issue, Bought, DateOfSale, Status, postage, Description, PublishDate, EbayItem, Quantity, AuctionType, BestOffer, BidCount, BuyItNowPrice, CloseDate, ImageSrc, Link, Site, Remaining, Seller, SaleDate, StartingPrice, Parentid, Split) 
+
+   $cmd.commandtext = "INSERT INTO comics
+   (Title, Price, Issue, Bought, DateOfSale, Status, postage, Description, PublishDate, EbayItem, Quantity, AuctionType, BestOffer, BidCount, BuyItNowPrice, CloseDate, ImageSrc, Link, Site, Remaining, Seller, SaleDate, StartingPrice, Parentid, Split)
    VALUES
-   ('$title', '$Price', '$Issue', '$bought', '$DateOfSale', '$status','$postage', '$Description','$PublishDate', '$ebayitem',$Quantity, '$AuctionType', '$BestOffer', '$BidCount', '$BuyItNowPrice', '$CloseDate', '$ImageSrc', '$Link', '$site', '$remaining', '$seller', '$saledate','$Price', '$Parentid', '$split')" 
-   
+   ('$title', '$Price', '$Issue', '$bought', '$DateOfSale', '$status','$postage', '$Description','$PublishDate', '$ebayitem',$Quantity, '$AuctionType', '$BestOffer', '$BidCount', '$BuyItNowPrice', '$CloseDate', '$ImageSrc', '$Link', '$site', '$remaining', '$seller', '$saledate','$Price', '$Parentid', '$split')"
+
    write-verbose $cmd.commandtext
    $result=$cmd.executenonquery()
    $conn.close()
@@ -158,20 +158,20 @@ function Get-db
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString = $connection
    $conn.open()
-   
+
    $cmd = New-Object System.Data.SqlClient.SqlCommand
    $cmd.connection = $conn
    $cmd.commandtext = "select title FROM [Comics].[dbo].[Comics] where ebayitem='$ebayitem'"
    $data= $cmd.ExecuteReader()
    $result = @()
    $count=0
-   
+
    while ($data.Read())
    {
       $result=$result+$data.GetString(0)
       $count++
    }
-   
+
    $conn.close()
    $result.count
 }
@@ -179,12 +179,12 @@ function Get-db
 function Remove-Record
 {
   <#
-      .SYNOPSIS 
+      .SYNOPSIS
     Given an ebay recordid it deltes this from the db
-      .PARAMETER ebayitem 
+      .PARAMETER ebayitem
     Specifies the ebayid.
     .EXAMPLE
-      C:\PS> Remove-Record -ebayitem 12321342 
+      C:\PS> Remove-Record -ebayitem 12321342
   #>
 
    param(
@@ -194,32 +194,32 @@ function Remove-Record
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString = $connection
    $conn.open()
-   
+
    $cmd = New-Object System.Data.SqlClient.SqlCommand
    $cmd.connection = $conn
    $cmd.commandtext = "delete FROM [Comics].[dbo].[Comics] where ebayitem='$ebayitem'"
    $data= $cmd.ExecuteReader()
    $result = @()
    $count=0
-   
+
    while ($data.Read())
    {
       $result=$result+$data.GetString(0)
       $count++
    }
-   
+
    $conn.close()
    $result.count
 }
 
 function Update-DB
 {
-   param( 
+   param(
    [Parameter(Mandatory=$true)]
    [string]$ebayitem,
    [string]$UpdateValue,
    [string]$price,
-   [string]$postage,  
+   [string]$postage,
    [string]$title,
    [string]$status=$NULL,
    [string]$bought=$NULL,
@@ -227,59 +227,59 @@ function Update-DB
    [string]$seller=$NULL,
    [System.Nullable[System.Boolean]]$watch
    )
-   
+
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString = $connection
    $conn.open()
-      
+
    $cmd = New-Object System.Data.SqlClient.SqlCommand
    $cmd.connection = $conn
-      
-   $saledate = Get-Date 
+
+   $saledate = Get-Date
    $Issue=$UpdateValue.ToUpper()
-   
+
    if($price)
    {
       $price=Get-pounds $price
    }
-   
+
    if($postage)
    {
       $postage=Get-pounds $postage
    }
-   
-   $updatestring="DateOfSale='$($saledate.ToString())'" 
-   
+
+   $updatestring="DateOfSale='$($saledate.ToString())'"
+
    if ($title -ne "")
    {
       $updatestring=$updatestring+",  title='$title'"
    }
-   
+
    if ($Price -ne "")
    {
       $updatestring=$updatestring+",  price='$price'"
    }
-   
+
    if ($UpdateValue -ne "")
    {
       $updatestring=$updatestring+",  issue='$UpdateValue'"
    }
-   
-   if ($postage -ne "")   
+
+   if ($postage -ne "")
    {
       $updatestring=$updatestring+", postage='$postage'"
-   } 
-   
-   if ($Bought -ne "")   
+   }
+
+   if ($Bought -ne "")
    {
       $updatestring=$updatestring+", bought='$bought'"
    }
-   
+
    if ($quantity -ne "")
    {
       $updatestring=$updatestring+", quantity='$quantity'"
    }
-   
+
    if ($status -ne "")
    {
       $updatestring=$updatestring+", status='$status'"
@@ -288,12 +288,12 @@ function Update-DB
           $updatestring=$updatestring+", SaleDate='$saledate'"
       }
    }
-   
+
    if ($seller -ne "")
    {
       $updatestring=$updatestring+", seller='$seller'"
    }
-   
+
    If (($watch -eq "") -or ($watch -eq $null))
    {
       #write-Host "watch not set:$watch"
@@ -302,16 +302,16 @@ function Update-DB
    {
       $updatestring=$updatestring+", watch='$watch'"
    }
- 
-   $cmd.commandtext = "update Comics.dbo.Comics SET $updatestring where Ebayitem = '$ebayitem' and (status !='CLOSED' OR status !='expired')" 
+
+   $cmd.commandtext = "update Comics.dbo.Comics SET $updatestring where Ebayitem = '$ebayitem' and (status !='CLOSED' OR status !='expired')"
    #write-host $cmd.commandtext
-   
+
    $transactionComplete=$NULL
 
-   do 
+   do
    {
       try
-      {   
+      {
          $cmd.executenonquery()|out-null
          $transactionComplete = $true
       }
@@ -320,7 +320,7 @@ function Update-DB
 		 Write-Warning "Write Failure"
          $transactionComplete = $false
       }
-      
+
    }
    until ($transactionComplete)
 
@@ -332,7 +332,7 @@ function Search-DB
 {
    Param(
    [string]$wherestring="where Title = '$title' And Issue = '$Issue'")
-     
+
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString =$connection
    try
@@ -340,13 +340,13 @@ function Search-DB
       $conn.open()
       $cmd = New-Object System.Data.SqlClient.SqlCommand
       $cmd.connection = $conn
-      $cmd.commandtext = "SELECT 
+      $cmd.commandtext = "SELECT
           [Seller],[Title],[Price]
          ,[Issue],[Bought],[DateOfSale],[Status]
          ,[postage],[Ebayitem],[Description],[PublishDate]
          ,[Quantity],[AuctionType],[BestOffer],[BidCount]
          ,[BuyItNowPrice],[CloseDate],[ImageSrc],[Link]
-         ,[Site],[Remaining],[watch] 
+         ,[Site],[Remaining],[watch]
          FROM comics $wherestring"
       Write-debug $cmd.commandtext
       $data = $cmd.ExecuteReader()
@@ -358,89 +358,89 @@ function Search-DB
    }
 
    while ($data.Read())
-   {    
-       if ($data.IsDBNUll(0)) 
+   {
+       if ($data.IsDBNUll(0))
        {
           $seller=$null
        }
-       else 
+       else
        {
           $seller=$data.GetString(0)
        }
-    
+
        $price= Get-pounds $data.GetDouble(2)
        $postage= Get-pounds $data.GetDouble(7)
-    
+
        if ($data.IsDBNull(8))
        {
           $ebayitem=$null
        }
-       else 
+       else
        {
           $ebayitem=$data.GetString(8)
        }
-   
+
        #description
        if ($data.IsDBNull(9))
        {
           $description=$NULL
        }
-       else 
+       else
        {
-          $description=$data.GetString(9)  
-       } 
-       
+          $description=$data.GetString(9)
+       }
+
        if ($data.IsDBNull(10))
        {
           $publishdate=$null
        }
-       else 
+       else
        {
-          $publishdate=$data.GetString(10)  
+          $publishdate=$data.GetString(10)
        }
-   
+
        #auctiontype
        if ($data.IsDBNull(12))
        {
           $auctiontype=$null
        }
-       else 
+       else
        {
-          $auctiontype=$data.GetString(12)  
+          $auctiontype=$data.GetString(12)
        }
 
        $BestOffer=0
-       
+
        #BestOffer
        if (!($data.IsDBNull(13)))
-       {    
+       {
          if ($data.GetString(13))
           {
-             $BestOffer=Get-pounds -dirty "$($data.GetString(13))" 
+             $BestOffer=Get-pounds -dirty "$($data.GetString(13))"
           }
        }
-       
+
        #BidCount
        if ($data.IsDBNull(14))
        {
           $BidCount=$null
        }
-       else 
+       else
        {
-          $BidCount=$data.GetString(14)  
+          $BidCount=$data.GetString(14)
        }
-       
+
        #buyitnowprice
        if ($data.IsDBNull(15))
        {
           $buyitnowprice=$null
        }
-       else 
+       else
        {
           if ($data.GetString(15))
           {
              $buyitnowprice=($data.GetString(15)).Replace("&#163;","")
-             $buyitnowprice=Get-pounds -dirty $buyitnowprice  
+             $buyitnowprice=Get-pounds -dirty $buyitnowprice
           }
           else
           {
@@ -453,53 +453,53 @@ function Search-DB
        {
              $closedate=$null
        }
-       else 
+       else
        {
-          $closedate=$data.GetString(16)  
+          $closedate=$data.GetString(16)
        }
-   
+
        #imagesrc
        if ($data.IsDBNull(17))
        {
           $imagesrc=$null
        }
-       else 
+       else
        {
-          $imagesrc=$data.GetString(17)  
-       }  
-       
+          $imagesrc=$data.GetString(17)
+       }
+
        #link
        if ($data.IsDBNull(18))
        {
           $link=$null
        }
-       else 
+       else
        {
           $link=$data.GetString(18)
        }
-       
+
        #site
        if ($data.IsDBNull(19))
        {
           $site=$null
        }
-       else 
+       else
        {
           $site=$data.GetString(19)
        }
-        
+
        #watch
        if ($data.IsDBNull(21))
        {
           $watch=$false
        }
-       else 
+       else
        {
 	      #write-host $data.GetValue(21)
           $watch=$data.GetValue(21)
-       } 
-         
-         
+       }
+
+
        $objComic = New-Object System.Object
        $objComic | Add-Member -type NoteProperty -name Title -value $data.GetString(1)
        $objComic | Add-Member -type NoteProperty -name Issue -value $data.GetString(3)
@@ -525,7 +525,7 @@ function Search-DB
        #remaining
        $objComic
    }
-   
+
    $conn.Close()
 }
 
@@ -536,7 +536,7 @@ function Get-priceestimate
    [string]$title,
    [Parameter(Mandatory=$true)]
    [string]$Issue)
-   
+
    $results=Search-DB "where title='$title' and issue='$issue' and status='CLOSED'"
    [decimal]$maximum=0
    [int]$count      =1
@@ -546,34 +546,34 @@ function Get-priceestimate
    {
       return $null
    }
-   
+
    if($results -is [system.array])
    {
-      $count=$results.count     
+      $count=$results.count
       $minimum=[double]$results[0].Price+[double]$results[0].postage
    }
    else
    {
       $minimum=[double]$results.Price+[double]$results.postage
    }
-   
+
    foreach($comic in $results)
-   {          
-      $TotalCost=[double]$comic.Price+[double]$comic.postage 
+   {
+      $TotalCost=[double]$comic.Price+[double]$comic.postage
       $minimum=[System.Math]::Min($comic.Price,$minimum)
       $maximum=[System.Math]::Max($comic.Price,$maximum)
-      
+
       if ($comic.Bought -eq $true)
       {
          $ComicPrice+=[double]$comic.Price
          $paid += $TotalCost
-         $owned ++ 
+         $owned ++
       }
-      
-      $total += $TotalCost   
+
+      $total += $TotalCost
       $totalPrice +=[double]$comic.Price
    }
-    
+
     if ($owned)
     {
        $averagepaid=$paid/$owned
@@ -584,7 +584,7 @@ function Get-priceestimate
        $averagepaid=$null
        $avComicPrice=$null
     }
-    
+
     if ($results -is [system.array])
     {
       $average=$total/$results.Count
@@ -593,16 +593,16 @@ function Get-priceestimate
     else
     {
        $average=$total
-       $averagePrice=$totalPrice     
+       $averagePrice=$totalPrice
     }
-    
-    $currentprice=Get-currentprice -title $($comic.Title) -issue $issue
 
-    [int]$cover = Get-cover -dirty $issue 
+    $currentprice=Get-Currentprice -title $($comic.Title) -issue $issue
+
+    [int]$cover = Get-cover -dirty $issue
     $mean=$average
     $average="{0:N2}" -f $average
-    $date=Get-date 
-    
+    $date=Get-date
+
     $objStats = New-Object System.Object
     $objStats | Add-Member -type NoteProperty -name Title -value $($comic.Title)
     $objStats | Add-Member -type NoteProperty -name Issue -value $Issue
@@ -618,28 +618,28 @@ function Get-priceestimate
     $objStats | Add-Member -type NoteProperty -name AverageNetPaid -value $avComicPrice
     $objStats | Add-Member -type NoteProperty -name Stock -value $owned
     $objStats | Add-Member -type NoteProperty -name Date -value $date
-    
-   return $objStats 
+
+   return $objStats
 }
 
 function Get-selleritems
 {
    <#
-      .SYNOPSIS 
+      .SYNOPSIS
        For reviewing a set open of comic sales by vendor
-            
+
       .PARAMETER seller
     Specifies the seller. If left blank orders by seller.
-        
+
       .EXAMPLE
-      C:\PS> Get-selleritems -seller blackadam 
-      
+      C:\PS> Get-selleritems -seller blackadam
+
       .EXAMPLE
       C:\PS> Get-selleritems -seller blackadam -nogrid
-      
+
       .EXAMPLE
             C:\PS> byseller |ogv
-      
+
    #>
 
    param(
@@ -655,7 +655,7 @@ function Get-selleritems
    {
       $resultsset=Search-DB "where seller='$seller' and (status='open' OR status='verified')"
    }
-   
+
    if ($nogrid)
    {
       $resultsset
@@ -667,20 +667,20 @@ function Get-selleritems
 
 }
 
-function Get-currentprice
+function Get-CurrentPrice
 {
    <#
-      .SYNOPSIS 
-       gets the current market price    
-      
+      .SYNOPSIS
+       gets the current market price
+
       .PARAMETER title
       The comics title
 
       .PARAMETER Issue
       The issue for pricing
-        
+
       .EXAMPLE
-      C:\PS>  Get-currentprice -Issue 127 -title "The Walking Dead" 
+      C:\PS>  Get-CurrentPrice -Issue 127 -title "The Walking Dead"
    #>
 
    Param(
@@ -688,35 +688,35 @@ function Get-currentprice
    [string]$title,
    [Parameter(Mandatory=$true)]
    [string]$Issue)
-     
-   [string]$wherestring="where Title = '$title' And Issue = '$Issue' and Status='CLOSED'"  
-   
+
+   [string]$wherestring="where Title = '$title' And Issue = '$Issue' and Status='CLOSED'"
+
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString =$connection
-   
+
    $conn.open()
    $cmd = New-Object System.Data.SqlClient.SqlCommand
    $cmd.connection = $conn
-   $cmd.commandtext = "Select top 5 Price FROM [Comics].[dbo].[Comics] $wherestring order by saledate desc" 
-   
+   $cmd.commandtext = "Select top 5 Price FROM [Comics].[dbo].[Comics] $wherestring order by saledate desc"
+
    $data = $cmd.ExecuteReader()
    $readprice=0
    $counter=0
 
    while ($data.Read())
-      {    
-          if (!($data.IsDBNUll(0))) 
+      {
+          if (!($data.IsDBNUll(0)))
           {
             $readprice+=$data.GetValue(0)
             $counter++
           }
       }
-  
+
     if ($counter -ne 0)
     {
        return [double]($readprice/$counter)
     }
-    else 
+    else
     {
        return 0.00
     }
@@ -725,17 +725,17 @@ function Get-currentprice
 function update-issue
 {
    <#
-      .SYNOPSIS 
-       For modifying the issue for a given record    
-      
+      .SYNOPSIS
+       For modifying the issue for a given record
+
       .PARAMETER OldIssue
-      
+
       .PARAMETER NewIssue
-      
+
       .PARAMETER title
-        
+
       .EXAMPLE
-      C:\PS>  update-issue -OldIssue 127:SIGNED -title "The Walking Dead" -NewIssue 127SIGNED         
+      C:\PS>  update-issue -OldIssue 127:SIGNED -title "The Walking Dead" -NewIssue 127SIGNED
    #>
    Param(
    [Parameter(Mandatory=$true)]
@@ -744,10 +744,10 @@ function update-issue
    [string]$OldIssue,
    [Parameter(Mandatory=$true)]
    [string]$NewIssue)
-   
+
    $NewIssue=$NewIssue.ToUpper()
 
-   write-Host "Modifying issue $OldIssue - $title to $NewIssue" -ForegroundColor  cyan 
+   write-Host "Modifying issue $OldIssue - $title to $NewIssue" -ForegroundColor  cyan
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString = $connection
 

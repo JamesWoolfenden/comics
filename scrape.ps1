@@ -1,3 +1,3 @@
- 
- 
- $result=& node.exe scrape.js
+
+
+ $result=& node.exe $PSScriptRoot\scrape.js

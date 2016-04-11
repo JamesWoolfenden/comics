@@ -676,12 +676,11 @@
         "Enabled":  true
     },
     {
-        "include":  "All New",
-        "Enabled":  false,
+        "include":  "ALL NEW",
+        "Enabled":  true,
         "exclude":  [
                         "",
-                        "Deadpool",
-                        "spider-man"
+                        "digital"
                     ],
         "productcode":  "",
         "category":  [
@@ -691,11 +690,12 @@
         "comictitle":  ""
     },
     {
-        "include":  "ALL NEW",
-        "Enabled":  true,
+        "include":  "All New",
+        "Enabled":  false,
         "exclude":  [
                         "",
-                        "digital"
+                        "Deadpool",
+                        "spider-man"
                     ],
         "productcode":  "",
         "category":  [
@@ -2154,6 +2154,69 @@
     {
         "title":  "THE WALKING DEAD",
         "comictitle":  "",
+        "include":  "Variant",
+        "exclude":  [
+                        "Argentina",
+                        "Ashcan",
+                        "BEARLANDS",
+                        "bedlam",
+                        "books",
+                        "Boxset",
+                        "brit",
+                        "chew",
+                        "clone",
+                        "CODEFLESH",
+                        "coffin",
+                        "compendium",
+                        "dinosaur",
+                        "DVD",
+                        "FANBOYS",
+                        "FIGURE",
+                        "game",
+                        "ghost",
+                        "hardback",
+                        "hardcover",
+                        "hatter",
+                        "Haunt",
+                        "HELLBOY",
+                        "invincible",
+                        "Italian",
+                        "jacket",
+                        "JESUS",
+                        "krampus",
+                        "Magazine",
+                        "Marvel",
+                        "Mocking",
+                        "MONOPOLY",
+                        "night",
+                        "Nowhere",
+                        "outcast",
+                        "paperback",
+                        "peru",
+                        "plush",
+                        "puzzle",
+                        "REALITY",
+                        "Serbian",
+                        "sex",
+                        "toy",
+                        "Trading",
+                        "vol",
+                        "volume",
+                        "wallet",
+                        "watch",
+                        "weekly",
+                        "world",
+                        "Xenoholics",
+                        "x-files",
+                        "Zombie"
+                    ],
+        "productcode":  "2140",
+        "category":  "8077",
+        "Enabled":  true
+    },
+    {
+        "title":  "THE WALKING DEAD",
+        "comictitle":  "",
         "include":  "",
         "exclude":  [
                         "Argentina",
@@ -2212,69 +2275,6 @@
                         "Zombie"
                     ],
         "productcode":  "",
-        "category":  "8077",
-        "Enabled":  true
-    },
-    {
-        "title":  "THE WALKING DEAD",
-        "comictitle":  "",
-        "include":  "Variant",
-        "exclude":  [
-                        "Argentina",
-                        "Ashcan",
-                        "BEARLANDS",
-                        "bedlam",
-                        "books",
-                        "Boxset",
-                        "brit",
-                        "chew",
-                        "clone",
-                        "CODEFLESH",
-                        "coffin",
-                        "compendium",
-                        "dinosaur",
-                        "DVD",
-                        "FANBOYS",
-                        "FIGURE",
-                        "game",
-                        "ghost",
-                        "hardback",
-                        "hardcover",
-                        "hatter",
-                        "Haunt",
-                        "HELLBOY",
-                        "invincible",
-                        "Italian",
-                        "jacket",
-                        "JESUS",
-                        "krampus",
-                        "Magazine",
-                        "Marvel",
-                        "Mocking",
-                        "MONOPOLY",
-                        "night",
-                        "Nowhere",
-                        "outcast",
-                        "paperback",
-                        "peru",
-                        "plush",
-                        "puzzle",
-                        "REALITY",
-                        "Serbian",
-                        "sex",
-                        "toy",
-                        "Trading",
-                        "vol",
-                        "volume",
-                        "wallet",
-                        "watch",
-                        "weekly",
-                        "world",
-                        "Xenoholics",
-                        "x-files",
-                        "Zombie"
-                    ],
-        "productcode":  "2140",
         "category":  "8077",
         "Enabled":  true
     },
@@ -2357,6 +2357,21 @@
         "productcode":  "15475",
         "category":  "8077",
         "Enabled":  true
+    },
+    {
+        "include":  [
+                        ""
+                    ],
+        "Enabled":  true,
+        "exclude":  [
+                        ""
+                    ],
+        "productcode":  "",
+        "category":  [
+                         "8077"
+                     ],
+        "title":  "THINK TANK CREATIVE DESTRUCTION",
+        "comictitle":  ""
     },
     {
         "title":  "THIRD EYE",

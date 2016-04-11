@@ -193,6 +193,11 @@ function Get-Price
       $currency='Euro'
    }
 
+   if ($price.contains("EUR"))
+   {
+      $price=$price.Replace("EUR","")
+      $currency='Euro'
+   }
 
    $price=$price.split("")
    if ($price -is [system.array] )

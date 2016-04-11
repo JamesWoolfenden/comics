@@ -50,9 +50,30 @@ function Update-Record
    {
       'EBAY'
 	    {
+         $salestatus=Get-EbaySaleStatus -record $record
+
+         switch ($salestatus.ToUpper())
+         {
+           'EXPIRED'
+           {
+             Write-Host "SaleStatus : $salestatus"
+             Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
+             return
+           }
+           'SOLD'
+           {
+             Write-Host "SoldStatus : $salestatus"
+           }
+           'LIVE'
+           {
+             Write-Host "LiveStatus : $salestatus"
+           }
+         }
+
 		     $estimate=Get-EbayShippingCost -record $record
          $seller  =Get-EbaySeller -record $record
          Write-Host "Seller : $seller"
+
 	    }
 	    default
 	    {
@@ -162,7 +183,7 @@ function Update-Record
 
    $priceestimate=0
    [double]$marketprice=0
-   [double]$marketprice=Get-currentprice -issue $actualIssue -title $newtitle
+   [double]$marketprice=Get-CurrentPrice -issue $actualIssue -title $newtitle
 
    $foregroundcolor="red"
 
@@ -205,14 +226,15 @@ function Update-Record
       $price=$record.Price
    }
 
-   if ($estimate -notlike $NULL)
-   {
-      $estimate=(get-price $estimate).Amount
-   }
-
    if ($estimate -match "Free")
    {
       $estimate=[decimal]0
+   }
+
+   if ($estimate -notlike $NULL)
+   {
+      $converted=Get-Price $estimate
+      $estimate=$converted.Amount
    }
 
    try
@@ -530,7 +552,6 @@ function Get-EbidSellerIE
    $seller
 }
 
-
 function Get-EbaySeller
 {
     param(
@@ -538,7 +559,16 @@ function Get-EbaySeller
       [PSObject]$record)
     $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
 
-    & node.exe scrape.js $url 'span.mbg-nw@html'
+    & node.exe $PSScriptRoot\scrape.js $url 'span.mbg-nw@html'
+}
+
+function scrape
+{
+  param(
+    [string]$url,
+    [string]$target)
+
+    & node.exe $PSScriptRoot\scrape.js $url $target
 }
 
 function Get-EbaySoldPrice
@@ -548,14 +578,67 @@ function Get-EbaySoldPrice
       [PSObject]$record)
     $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
 
-    $SoldPrice=& node.exe scrape.js $url 'prcIsum_bidPrice'
+    $SoldPrice=scrape $url 'prcIsum_bidPrice'
 
     if (!($SoldPrice))
     {
-      $SoldPrice=& node.exe scrape.js $url 'span.notranslate'
+      #Write-host "Looking for 'span.notranslate'"
+      $money=scrape $url 'span.notranslate'
+      if ($money -is [system.array])
+      {
+        $SoldPrice=$money[1].trim()
+      }
+      else
+      {
+        $SoldPrice=$money
+      }
     }
 
+    if (!($SoldPrice))
+    {
+       #Write-host "Looking for 'span#prcIsum.notranslate'"
+       $money=scrape $url 'span#prcIsum.notranslate'
+       $SoldPrice=$money[1].trim()
+    }
+
+    #write-host $SoldPrice
     (Get-Price $SoldPrice).Amount
+}
+
+function Get-EbaySaleStatus
+{
+    param(
+      [Parameter(Mandatory=$true)]
+      [PSObject]$record)
+    $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
+
+    $salestatus="live"
+    $status=scrape $url 'span#w1-3-_msg'
+
+
+    If ($status -match "Bidding has ended on this item")
+    {
+      #if (scrape $url div.u-flL.lable.pdT4 -eq "Winning Bid")
+      #{
+
+         $salestatus="sold"
+      #}
+    }
+
+    if ($status -match "This listing has ended")
+    {
+        $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
+        if ($result)
+        {
+            $salestatus="sold"
+        }
+        else
+        {
+           $salestatus="expired"
+        }
+    }
+
+    $salestatus
 }
 
 function Get-EbayShippingCost
@@ -567,20 +650,13 @@ function Get-EbayShippingCost
    $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
    $estimate=0
 
-  try
-  {
-     $bestestimate=(& node.exe scrape.js $url .sh-fr-cst)[1].trim()
-     Write "Best Estimate "
-     $bestestimate
-     if (!($bestestimate -eq "Free"))
-     {
-       $estimate=$bestestimate
-     }
-  }
-  catch
-  {
-     Write-Error "Failed to detect shipping"
-  }
+   #fshippingCost > span
+   $result=scrape $url span."notranslate.sh-cst"
+   if ($result)
+   {
+      $bestestimate=($result)[1].trim()
+      $estimate=(Get-Price $bestestimate).Amount
+   }
 
-   (Get-Price $estimate).Amount
+   $estimate
 }

@@ -15,3 +15,7 @@ x(args[0], 'span.mbg-nw@html')(function(err, title) {
 x(args[0], '.sh-fr-cst')(function(err, title) {
   console.log(title.toString('utf8')) // Google
 })
+
+x(args[0], 'span#w1-3-_msg')(function(err, title) {
+  console.log(title.toString('utf8')) // Google
+})
