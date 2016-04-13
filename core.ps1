@@ -125,7 +125,7 @@ function Clean-Records
 
 function Combine-Data
 {
-<#
+   <#
       .SYNOPSIS
        combine market feed results
 

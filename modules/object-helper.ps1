@@ -1,4 +1,4 @@
-function test-property
+function Test-Property
 {
   param(
   [Object]$Object,
@@ -13,7 +13,7 @@ function test-property
   }
 }
 
-function test-id
+function Test-ID
 {
   param(
   $ie,

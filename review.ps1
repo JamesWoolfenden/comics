@@ -41,8 +41,9 @@ function Update-Record
    [PSObject]$OldRecord=$record
 
    #postage
-   $estimate=$null
-   $seller  =$null
+   $estimate  =$null
+   $seller    =$null
+   $salestatus=$null
 
    $ie=View-Record $record
 
@@ -51,22 +52,29 @@ function Update-Record
       'EBAY'
 	    {
          $salestatus=Get-EbaySaleStatus -record $record
-
+         Write-Host ""
          switch ($salestatus.ToUpper())
          {
            'EXPIRED'
            {
              Write-Host "SaleStatus : $salestatus"
              Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
+             $IE[1].Application.Quit()
              return
            }
            'SOLD'
            {
-             Write-Host "SoldStatus : $salestatus"
+             Write-Host "SaleStatus : $salestatus"
            }
            'LIVE'
            {
-             Write-Host "LiveStatus : $salestatus"
+             Write-Host "SaleStatus : $salestatus"
+           }
+           'DELISTED'
+           {
+             Write-Host "SaleStatus : $salestatus"
+             $IE[1].Application.Quit()
+             return
            }
          }
 
@@ -77,7 +85,7 @@ function Update-Record
 	    }
 	    default
 	    {
-           Write-Host "Detected default"
+           Write-Host "Detected default ebid"
 	         Write-verbose "Record: $($record.postage)"
            $estimate=$record.postage
            if ($record.site -eq "ebid" -And $record.seller -eq "")
@@ -130,9 +138,9 @@ function Update-Record
 	  }
 	  "C"
 	  {
-          Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
-		  $IE[1].Application.Quit()
-          return
+       Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
+		   $IE[1].Application.Quit()
+       return
 	  }
       default
       {
@@ -196,30 +204,15 @@ function Update-Record
 
    if ($record.site -eq "ebay")
    {
-      $priceestimate=Get-EbaySoldPrice -record $record
+      $price=Get-EbaySoldPrice -record $record
 
-      #still null must have stopped auction?
-      if ($priceestimate -eq $NULL)
-      {
-         $closedpriceestimate = @($ie[1].Document.body.getElementsByClassName('notranslate vi-VR-cvipPrice'))
-         $priceestimate=$closedpriceestimate[0].innerText
-      }
-      else
-      {
-         if ($priceestimate -is [string])
-         {
-            $priceestimate=$priceestimate.replace("�","")
-         }
-      }
-
-      Write-host "Price $($record.Price): estimate:$priceestimate market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline
+      Write-host "Price $($record.Price):  market:$marketprice : " -foregroundcolor $foregroundcolor
    }
    else
    {
        Write-host "Price $($record.Price): market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline
+       $price=read-hostdecimal
    }
-
-   $price=read-hostdecimal
 
    if ($price -eq $NULL -or $price -eq "")
    {
@@ -259,7 +252,15 @@ function Update-Record
    $TCO ="{0:N2}" -f ([decimal]$postage+[decimal]$price)/$newquantity
    write-host "TCO per issue $TCO" -foregroundcolor cyan
 
-   $record=Set-ComicStatus -record $record
+   if ($salestatus)
+   {
+      $record=Set-ComicStatus -record $record -salestatus $salestatus
+   }
+   else
+   {
+      $record=Set-ComicStatus -record $record
+   }
+
    $IE[1].Application.Quit()
 
    try
@@ -275,12 +276,30 @@ function Update-Record
 
 function Set-ComicStatus
 {
-   param([PSObject]$record)
+   param(
+     [PSObject]$record,
+   [string]$salestatus=$NULL)
 
-   [string]$newstatus=read-host $record.Status "(V)erified, (C)losed, (E)xpired, (B)ought, (W)atch"
-
-   switch($newstatus)
+   if ($salestatus)
    {
+     switch($salestatus)
+     {
+       'LIVE'
+       {
+         $record.Status="VERIFIED"
+       }
+       'SOLD'
+       {
+         $record.Status="CLOSED"
+       }
+     }
+     $record.Status="VERIFIED"
+   }
+   else{
+      [string]$newstatus=read-host $record.Status "(V)erified, (C)losed, (E)xpired, (B)ought, (W)atch"
+
+      switch($newstatus)
+      {
       "C"
       {
          $record.Status="CLOSED"
@@ -311,7 +330,7 @@ function Set-ComicStatus
          }
       }
    }
-
+   }
    $record
 }
 
@@ -562,7 +581,7 @@ function Get-EbaySeller
     & node.exe $PSScriptRoot\scrape.js $url 'span.mbg-nw@html'
 }
 
-function scrape
+function Scrape
 {
   param(
     [string]$url,
@@ -615,30 +634,33 @@ function Get-EbaySaleStatus
     $salestatus="live"
     $status=scrape $url 'span#w1-3-_msg'
 
-
-    If ($status -match "Bidding has ended on this item")
+    $delisted=scrape $url 'div.sml-cnt'
+    if (!($delisted))
     {
-      #if (scrape $url div.u-flL.lable.pdT4 -eq "Winning Bid")
-      #{
-
+       If ($status -match "Bidding has ended on this item")
+       {
          $salestatus="sold"
-      #}
-    }
+       }
 
-    if ($status -match "This listing has ended")
-    {
-        $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
-        if ($result)
-        {
-            $salestatus="sold"
-        }
-        else
-        {
-           $salestatus="expired"
-        }
-    }
+       if ($status -match "This listing has ended")
+       {
+           $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
+           if ($result)
+           {
+              $salestatus="sold"
+           }
+           else
+           {
+              $salestatus="expired"
+           }
+       }
+  }
+  else
+  {
+    $salestatus='delisted'
+  }
 
-    $salestatus
+  $salestatus
 }
 
 function Get-EbayShippingCost

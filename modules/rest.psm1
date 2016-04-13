@@ -1,5 +1,5 @@
 
-function set-Response
+function Set-Response
 {
    param($request, $response)
     try
@@ -46,7 +46,7 @@ function set-Response
       write-error "something went bad"
       throw $_
     }
-    
+
     [byte[]] $buffer = [System.Text.Encoding]::UTF8.GetBytes($message)
     $response.ContentLength64 = $buffer.length
     $output = $response.OutputStream
@@ -60,12 +60,12 @@ $listener.Start()
 
 Write-host "Listening ... " -ForegroundColor Cyan
 try{
-while ($true) 
+while ($true)
 {
     $context = $listener.GetContext() # blocks until request is received
     $request = $context.Request
     $response = $context.Response
-    
+
     set-Response -request $request -response $response
 
    }

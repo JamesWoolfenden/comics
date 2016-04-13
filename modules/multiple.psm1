@@ -97,8 +97,7 @@ function Viewer
    $ie
 }
 
-
-function set-splitstate
+function Set-SplitState
 {
    param(
    [Parameter(Mandatory=$true)]

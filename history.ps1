@@ -1,7 +1,7 @@
 param(
 [string]$title="CHEW")
 
-$files=gci c:\comics\prices -Filter *$title*.json
+$files=gci $PSScriptRoot -Filter *$title*.json
 $files=$files | Where {$_.Name -notmatch  "latest"}
 $dataarray=@()
 foreach ($file in $files)

@@ -722,7 +722,7 @@ function Get-CurrentPrice
     }
 }
 
-function update-issue
+function Update-Issue
 {
    <#
       .SYNOPSIS
