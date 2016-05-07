@@ -147,6 +147,16 @@ function Combine-Data
    $data|sort-object issue
 }
 
+function Test-NoBids
+{
+  param(
+  [Parameter(Mandatory=$true)]
+  [string]$bids)
+
+  if ($bids[0] -eq "0"){$true}
+  else {$false}
+}
+
 function Get-Price
 {
   <#

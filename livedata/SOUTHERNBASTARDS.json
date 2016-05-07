@@ -1,12 +1,26 @@
-{
-    "link":  "http://www.ebay.co.uk/itm/Southern-Bastards-1-Jetpack-FP-Variant-1st-Print-Image-/111967545195?hash=item1a11c9276b:g:21sAAOSwr7ZW5Zju",
-    "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Southern-Bastards-1-Jetpack-FP-Variant-1st-Print-Image-/111967545195?hash=item1a11c9276b:g:21sAAOSwr7ZW5Zju\"\u003ehttp://www.ebay.co.uk/itm/Southern-Bastards-1-Jetpack-FP-Variant-1st-Print-Image-/111967545195?hash=item1a11c9276b:g:21sAAOSwr7ZW5Zju\u003c/a\u003e",
-    "orderdate":  null,
-    "title":  "SOUTHERN BASTARDS",
-    "issue":  "1",
-    "variant":  "1FP",
-    "price":  10,
-    "currency":  "\u0026pound;",
-    "rundate":  "25-4-2016",
-    "site":  "Auction"
-}
+[
+    {
+        "link":  "http://www.ebay.co.uk/itm/Southern-Bastards-1-Jetpack-FP-Variant-1st-Print-Image-/111967545195?hash=item1a11c9276b:g:21sAAOSwr7ZW5Zju",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Southern-Bastards-1-Jetpack-FP-Variant-1st-Print-Image-/111967545195?hash=item1a11c9276b:g:21sAAOSwr7ZW5Zju\"\u003ehttp://www.ebay.co.uk/itm/Southern-Bastards-1-Jetpack-FP-Variant-1st-Print-Image-/111967545195?hash=item1a11c9276b:g:21sAAOSwr7ZW5Zju\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SOUTHERN BASTARDS",
+        "issue":  "1",
+        "variant":  "1FP",
+        "price":  10,
+        "currency":  "\u0026pound;",
+        "rundate":  "2-5-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Southern-Bastards-1-4-1-CBLDF-and-1-Forbidden-planet-Variants-/111978736446?hash=item1a1273eb3e:g:7LIAAOSwYmZXHcRI",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Southern-Bastards-1-4-1-CBLDF-and-1-Forbidden-planet-Variants-/111978736446?hash=item1a1273eb3e:g:7LIAAOSwYmZXHcRI\"\u003ehttp://www.ebay.co.uk/itm/Southern-Bastards-1-4-1-CBLDF-and-1-Forbidden-planet-Variants-/111978736446?hash=item1a1273eb3e:g:7LIAAOSwYmZXHcRI\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SOUTHERN BASTARDS",
+        "issue":  "",
+        "variant":  "set",
+        "price":  50,
+        "currency":  "\u0026pound;",
+        "rundate":  "2-5-2016",
+        "site":  "Auction"
+    }
+]

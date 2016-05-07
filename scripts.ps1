@@ -438,8 +438,8 @@ function Update-Open
    foreach($record in $results)
    {
       Write-Host "Record $index of $count"
-      Update-Record $record
-    
+      Update-Record $record -Old
+
       $index ++
    }
 }
