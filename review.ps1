@@ -205,7 +205,7 @@ function Update-RecordOld
    {
       $price=Get-EbaySoldPrice -record $record
 
-      Write-host "Price $($record.Price):  market:$marketprice : " -foregroundcolor $foregroundcolor
+      Write-host "Price $($record.Price):  market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline
       $overrideprice=read-hostdecimal
       if ($overrideprice)
       {

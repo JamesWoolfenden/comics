@@ -138,8 +138,8 @@ function Update-RecordNew
 	    {
          $salestatus=Get-EbaySaleStatus -record $record
          $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
-         write-host "Opening $url"
-         $BrowserProcess = [Diagnostics.Process]::Start("chrome.exe", "--window-size=800,600 --window-position=50,50 --app=$url")
+         #write-host "Opening $url"
+         #$BrowserProcess = [Diagnostics.Process]::Start("chrome.exe", "--window-size=800,600 --window-position=50,50 --app=$url")
          #$DirtyBlock=Get-EbayRecordBlock -record $record
 
          Write-Host "SaleStatus : $salestatus"
@@ -166,7 +166,7 @@ function Update-RecordNew
            }
          }
 
-         Stop-Process -Name $BrowserProcess.ProcessName -ErrorAction Ignore
+         #Stop-Process -Name $BrowserProcess.ProcessName -ErrorAction Ignore
 
      }
   }
