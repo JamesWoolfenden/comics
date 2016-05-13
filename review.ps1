@@ -1,4 +1,4 @@
-function View-Record
+function Get-RecordView
 {
    param
 	 (
@@ -15,7 +15,7 @@ function View-Record
          }
          "EBID"
          {
-            $ie=View-URL -URL $record.link
+            $ie=Get-URLView -URL $record.link
          }
          default
          {
@@ -45,7 +45,7 @@ function Update-Record
    $seller    =$null
    $salestatus=$null
 
-   $ie=View-Record $record
+   $ie=Get-RecordView $record
 
    switch($record.site.ToUpper())
    {

@@ -81,7 +81,7 @@ function Viewer
          }
          "ebid"
          {
-            $ie=View-URL -url $($record.link)
+            $ie=Get-URLView -url $($record.link)
          }
          default
          {

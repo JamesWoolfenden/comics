@@ -1,27 +1,24 @@
-set-strictmode -version Latest
+Set-Strictmode -version Latest
 $imageroot= "$PSScriptRoot\covers"
 
 import-module "$PSScriptRoot\modules\Update-Records.psd1" -force
-import-module "$PSScriptRoot\modules\object-helper.ps1"
+import-module "$PSScriptRoot\modules\Object-Helper.ps1"
 import-module "$PSScriptRoot\rss\EbayRssPowershellModule.psm1" -force
-import-module "$PSScriptRoot\modules\database.psd1" -force
-import-module "$PSScriptRoot\modules\multiple.psd1" -force
-import-module "$PSScriptRoot\modules\image.psd1" -force
-import-module "$PSScriptRoot\modules\form.psd1" -force
-import-module "$PSScriptRoot\modules\watch.psd1"
-import-module "$PSScriptRoot\core.ps1"
+import-module "$PSScriptRoot\modules\Database.psd1" -force
+import-module "$PSScriptRoot\modules\Multiple.psd1" -force
+import-module "$PSScriptRoot\modules\Image.psd1" -force
+import-module "$PSScriptRoot\modules\Form.psd1" -force
+import-module "$PSScriptRoot\modules\Watch.psd1" -force
+import-module "$PSScriptRoot\Core.ps1" -force
 import-module "$PSScriptRoot\modules\search-data.psd1" -force
-import-module "$PSScriptRoot\review.ps1"
+import-module "$PSScriptRoot\Review.ps1" -force
 
-function waitforpageload {
-    while ($ie.Busy -eq $true) { Start-Sleep -Milliseconds 1000; }
-}
 
 function findDiv {param ($name)
     $ie.Document.getElementsByTagName("div") | where-object {$_.id -and $_.id.EndsWith($name)}
 }
 
-function stat
+function Stat
 {
    param(
    [string]$title,
@@ -45,7 +42,7 @@ function stat
    }
 }
 
-function add-array
+function Add-Array
 {
    param(
    [Parameter(Mandatory=$true)]
@@ -74,7 +71,7 @@ function add-array
           #new and not expired records
           if (!($foundrecord) -and ($status -ne "Expired"))
           {
-             $trimmedtitle=clean-string $set.Title
+             $trimmedtitle=Get-CleanString $set.Title
 
              $AuctionType=$set.AuctionType
              if ($AuctionType -is [system.array])
@@ -165,7 +162,7 @@ function add-array
    }
 }
 
-function verify
+function Verify
 {
    param(
    [string]$title,
@@ -204,7 +201,7 @@ function View
    $IE
 }
 
-function View-URL
+function Get-URLView
 {
    param
 	(
@@ -230,7 +227,7 @@ function View-URL
    $ie
 }
 
-function view-market
+function Get-MarketView
 {
    param(
    [Parameter(Mandatory=$true)]
@@ -356,7 +353,7 @@ function Update-Recordset
    }
 }
 
-function Finalize-Records
+function Get-RecordsFinalize
 {
    Param(
    [Parameter(Mandatory=$true)]
@@ -439,12 +436,12 @@ function Update-Open
    {
       Write-Host "Record $index of $count"
       Update-Record $record
-    
+
       $index ++
    }
 }
 
-function Clean-String
+function Get-CleanString
 {
    param([string]$dirty)
 
@@ -484,7 +481,7 @@ function Add-EBidArray
 	Write-Host ""
 }
 
-function add-ebid
+function Add-EBID
 {
    param(
    $ebiditem,
@@ -544,7 +541,7 @@ function add-ebid
    write-host "Adding $title $($ebiditem.id)"
 }
 
-function Get-issues
+function Get-Issues
 {
  <#
       .SYNOPSIS
@@ -582,7 +579,7 @@ function Get-issues
    $issuesfound
 }
 
-function Get-allprices
+function Get-AllPrices
 {
    <#
       .SYNOPSIS
@@ -612,7 +609,7 @@ function Get-allprices
    $prices
 }
 
-function datestring
+function DateString
 {
    $date=(Get-date).Date
    "$($date.day)-$($date.month)-$($date.year)"
@@ -758,16 +755,16 @@ function Open-Covers
    & explorer "`"$path`""
 }
 
-new-alias gb Get-bestbuy -force
-new-alias fr Finalize-Records -force
+new-alias gb Get-BestBuy -force
+new-alias fr Get-RecordsFinalize -force
 new-alias ur Update-Recordset -force
-new-alias np c:\windows\notepad.exe -force
-new-alias cr closing-record -force
-new-alias ep Get-priceestimate -force
+new-alias np Atom -force
+new-alias cr Closing-Record -force
+new-alias ep Get-PriceEstimate -force
 new-alias ap Get-allprices -force
-new-alias uo update-open -force
-new-alias bs Get-selleritems -force
-new-alias byseller Get-selleritems -force
-new-alias oc open-covers -force
-new-alias vm view-market -force
+new-alias uo Update-Open -force
+new-alias bs Get-SellerItems -force
+new-alias byseller Get-SellerItems -force
+new-alias oc Open-Covers -force
+new-alias vm Get-MarketView -force
 new-alias dr Remove-Record -force

@@ -39,14 +39,14 @@ function Scan
    }
 }
 
-function Best-Buys
+function Get-BestBuys
 {
    <#
       .SYNOPSIS
        Given a results object, this function add average and current price plus the margin available and returns the new array.
 
       .EXAMPLE
-      C:\PS> best-buys $resultsarray
+      C:\PS> Get-BestBuys $resultsarray
 
    #>
 
@@ -100,14 +100,14 @@ function Get-BestBuy
     }
 }
 
-function Clean-Records
+function Get-CleanRecords
 {
     <#
       .SYNOPSIS
        Gets all verified records in close order, the sets up review
 
       .EXAMPLE
-      C:\PS> clean-records
+      C:\PS> Get-CleanRecords
 
    #>
 
@@ -123,14 +123,14 @@ function Clean-Records
    }
 }
 
-function Combine-Data
+function Get-CombinedData
 {
    <#
       .SYNOPSIS
        combine market feed results
 
       .EXAMPLE
-      C:\PS> combine-data $title
+      C:\PS> Get-CombinedData -title $title
 
    #>
    param([string]$title)
