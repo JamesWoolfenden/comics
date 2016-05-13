@@ -283,7 +283,8 @@ function Update-Recordset
          [string]$title,
          [string]$Issue,
          [string]$sortby="DateOfSale",
-         [string]$status)
+         [string]$status,
+         [switch]$old)
 
    $querystring="where title='$title'"
 
@@ -341,7 +342,14 @@ function Update-Recordset
          }
          else
          {
-           Update-Record $record
+           If ($old)
+           {
+              Update-Record $record -Old
+           }
+           else
+           {
+              Update-Record $record
+           }
          }
 
          $counter++

@@ -8,7 +8,7 @@
         "variant":  "SET",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-5-2016",
+        "rundate":  "9-5-2016",
         "site":  "Auction"
     },
     {
@@ -20,7 +20,19 @@
         "variant":  "1SOURCEBOOK",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "2-5-2016",
+        "rundate":  "9-5-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Lazarus-Comics-Issues-12-14-Image-Comics-/111982941395?hash=item1a12b414d3:g:dTUAAOSw9uFW9VNo",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Lazarus-Comics-Issues-12-14-Image-Comics-/111982941395?hash=item1a12b414d3:g:dTUAAOSw9uFW9VNo\"\u003ehttp://www.ebay.co.uk/itm/Lazarus-Comics-Issues-12-14-Image-Comics-/111982941395?hash=item1a12b414d3:g:dTUAAOSw9uFW9VNo\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "LAZARUS",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  4.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "9-5-2016",
         "site":  "Auction"
     }
 ]
