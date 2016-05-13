@@ -31,9 +31,9 @@ function Get-RecordView
    $ie
 }
 
-function Update-Record
+function Update-RecordOld
 {
-   param(
+  param(
    [Parameter(Mandatory=$true)]
    [PSObject]$record,
    [string]$newstatus)
@@ -53,26 +53,25 @@ function Update-Record
 	    {
          $salestatus=Get-EbaySaleStatus -record $record
          Write-Host ""
+
+         Write-Host "SaleStatus : $salestatus"
          switch ($salestatus.ToUpper())
          {
            'EXPIRED'
            {
-             Write-Host "SaleStatus : $salestatus"
              Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
              $IE[1].Application.Quit()
              return
            }
            'SOLD'
            {
-             Write-Host "SaleStatus : $salestatus"
            }
            'LIVE'
            {
-             Write-Host "SaleStatus : $salestatus"
            }
            'DELISTED'
            {
-             Write-Host "SaleStatus : $salestatus"
+
              $IE[1].Application.Quit()
              return
            }
@@ -206,7 +205,13 @@ function Update-Record
    {
       $price=Get-EbaySoldPrice -record $record
 
-      Write-host "Price $($record.Price):  market:$marketprice : " -foregroundcolor $foregroundcolor
+      Write-host "Price $($record.Price):  market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline
+      $overrideprice=read-hostdecimal
+      if ($overrideprice)
+      {
+        $price=$overrideprice
+        write-host "Overide sets price at $price"
+      }
    }
    else
    {
@@ -632,14 +637,25 @@ function Get-EbaySaleStatus
     $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
 
     $salestatus="live"
+    write-host "scrape $url 'span#w1-3-_msg'"
     $status=scrape $url 'span#w1-3-_msg'
 
+    write-host "scrape $url 'iv.sml-cnt'"
     $delisted=scrape $url 'div.sml-cnt'
     if (!($delisted))
     {
        If ($status -match "Bidding has ended on this item")
        {
+         $bids=scrape $url  "a#vi-VR-bid-lnk.vi-bidC"
          $salestatus="sold"
+
+         if ($bids)
+         {
+            if (Test-NoBids -bids $bids)
+            {
+               $salestatus="expired"
+            }
+         }
        }
 
        if ($status -match "This listing has ended")
@@ -681,4 +697,24 @@ function Get-EbayShippingCost
    }
 
    $estimate
+}
+
+function Update-Record
+{
+   param(
+   [Parameter(Mandatory=$true)]
+   [PSObject]$record,
+   [string]$newstatus,
+   [switch]$old)
+
+   if ($old)
+   {
+     Write-Verbose "Using Legacy Update method"
+     Update-RecordOld -record $record -newstatus $newstatus
+   }
+   else
+   {
+     Write-Verbose "Using new method"
+     Update-RecordNew -record $record
+   }
 }

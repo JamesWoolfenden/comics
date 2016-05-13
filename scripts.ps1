@@ -10,7 +10,7 @@ import-module "$PSScriptRoot\modules\Image.psd1" -force
 import-module "$PSScriptRoot\modules\Form.psd1" -force
 import-module "$PSScriptRoot\modules\Watch.psd1" -force
 import-module "$PSScriptRoot\Core.ps1" -force
-import-module "$PSScriptRoot\modules\search-data.psd1" -force
+import-module "$PSScriptRoot\modules\Search-Data.psd1" -force
 import-module "$PSScriptRoot\Review.ps1" -force
 
 
@@ -280,7 +280,8 @@ function Update-Recordset
          [string]$title,
          [string]$Issue,
          [string]$sortby="DateOfSale",
-         [string]$status)
+         [string]$status,
+         [switch]$old)
 
    $querystring="where title='$title'"
 
@@ -338,7 +339,14 @@ function Update-Recordset
          }
          else
          {
-           Update-Record $record
+           If ($old)
+           {
+              Update-Record $record -Old
+           }
+           else
+           {
+              Update-Record $record
+           }
          }
 
          $counter++
@@ -435,7 +443,7 @@ function Update-Open
    foreach($record in $results)
    {
       Write-Host "Record $index of $count"
-      Update-Record $record
+      Update-Record $record -Old
 
       $index ++
    }

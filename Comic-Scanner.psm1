@@ -279,7 +279,8 @@ function Update-Recordset
          [string]$title,
          [string]$Issue,
          [string]$sortby="DateOfSale",
-         [string]$status)
+         [string]$status,
+         [switch]$old)
 
    $querystring="where title='$title'"
 
@@ -337,7 +338,14 @@ function Update-Recordset
          }
          else
          {
-           Update-Record $record
+            If ($old)
+            {
+               Update-Record $record -Old
+            }
+            else
+            {
+                Update-Record $record 
+            }
          }
 
          $counter++
@@ -399,7 +407,7 @@ function Update-Open
    #>
    param(
 	   [string]$title=$NULL,
-       [switch]$sort)
+     [switch]$sort)
 
    if ($title)
    {
@@ -437,7 +445,7 @@ function Update-Open
 
       Try
       {
-         Update-Record $record
+         Update-Record $record -Old
       }
       Catch
       {
@@ -492,7 +500,7 @@ function Add-EBidArray
 	Write-Host ""
 }
 
-function Add-EBID
+function add-ebid 
 {
    param(
    $ebiditem,
@@ -500,6 +508,7 @@ function Add-EBID
    [int]$issue,
    [string]$seller=$null)
 
+   
    if ($ebiditem.price -ne $null)
    {
       $ebiditem.price=$($ebiditem.price).Replace("&#163;","")

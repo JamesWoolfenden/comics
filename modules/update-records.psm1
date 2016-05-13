@@ -98,3 +98,76 @@ function Get-Records
    write-host "Sold:    $SoldCount" -foregroundcolor cyan
    Write-Host "Open:    $OpenCount" -foregroundcolor cyan
 }
+
+
+function ScrapeBlock
+{
+  param(
+    [string]$url,
+    [string]$PriceID,
+    [string]$PostageID,
+    [string]$SellerID)
+
+
+    #& node.exe $PSScriptRoot\scrapeBlock.js $url $target
+    & node.exe .\scrapeBlock.js $url $PriceID $PostageID $SellerID
+}
+
+function Get-EbayRecordBlock
+{
+   param(
+   [Parameter(Mandatory=$true)]
+   [string]$ebayitem)
+
+   $url="http://www.ebay.co.uk/itm/$($ebayitem)?"
+
+   #scrape $url "div#CenterPanelInternal"
+   write-verbose "ScrapeBlock $url span#prcIsum.notranslate .sh-fr-cst mbg-nw"
+   ScrapeBlock $url  "span#prcIsum.notranslate" ".sh-fr-cst" "span.mbg-nw"
+}
+
+function Update-RecordNew
+{
+  param(
+   [Parameter(Mandatory=$true)]
+   [PSObject]$record)
+
+   switch($record.site.ToUpper())
+   {
+      'EBAY'
+	    {
+         $salestatus=Get-EbaySaleStatus -record $record
+         $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
+         #write-host "Opening $url"
+         #$BrowserProcess = [Diagnostics.Process]::Start("chrome.exe", "--window-size=800,600 --window-position=50,50 --app=$url")
+         #$DirtyBlock=Get-EbayRecordBlock -record $record
+
+         Write-Host "SaleStatus : $salestatus"
+
+         switch ($salestatus.ToUpper())
+         {
+           'EXPIRED'
+           {
+             Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
+           }
+           'SOLD'
+           {
+             $soldPrice=Get-EbaySoldPrice -record $record
+             Write-Host "Sold Price: $soldPrice"
+             Update-DB -ebayitem $record.ebayitem -price $soldPrice -Status "SOLD"
+           }
+           'LIVE'
+           {
+
+           }
+           'DELISTED'
+           {
+             Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
+           }
+         }
+
+         #Stop-Process -Name $BrowserProcess.ProcessName -ErrorAction Ignore
+
+     }
+  }
+}
