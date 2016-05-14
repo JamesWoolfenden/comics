@@ -31,252 +31,23 @@ function Get-RecordView
    $ie
 }
 
-function Update-RecordOld
+function Set-Quantity
 {
-  param(
-   [Parameter(Mandatory=$true)]
-   [PSObject]$record,
-   [string]$newstatus)
+  param([psobject]$record,
+        [string]$Issue)
 
-   [PSObject]$OldRecord=$record
+   $quantity=1
 
-   #postage
-   $estimate  =$null
-   $seller    =$null
-   $salestatus=$null
-
-   $ie=Get-RecordView $record
-
-   switch($record.site.ToUpper())
+   if ($Issue -eq "SET" -And $($record.Quantity) -eq 1)
    {
-      'EBAY'
-	    {
-         $salestatus=Get-EbaySaleStatus -record $record
-         Write-Host ""
-
-         Write-Host "SaleStatus : $salestatus"
-         switch ($salestatus.ToUpper())
-         {
-           'EXPIRED'
-           {
-             Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
-             $IE[1].Application.Quit()
-             return
-           }
-           'SOLD'
-           {
-           }
-           'LIVE'
-           {
-           }
-           'DELISTED'
-           {
-
-             $IE[1].Application.Quit()
-             return
-           }
-         }
-
-		     $estimate=Get-EbayShippingCost -record $record
-         $seller  =Get-EbaySeller -record $record
-         Write-Host "Seller : $seller"
-
-	    }
-	    default
-	    {
-           Write-Host "Detected default ebid"
-	         Write-verbose "Record: $($record.postage)"
-           $estimate=$record.postage
-           if ($record.site -eq "ebid" -And $record.seller -eq "")
-           {
-              $seller=Get-EbidSellerIE -ie $ie
-           }
-           else
-           {
-              $seller=$record.seller
-           }
-	     }
-   }
-
-   $newtitle=(set-title -rawtitle $($record.Title)).ToUpper()
-
-   $color        =Get-image  -title $newtitle -issue $record.Issue
-   $estimateIssue=Set-Issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
-   $color        =Get-image  -title $newtitle -issue $estimateIssue
-
-   write-host "Issue $($estimateIssue) - (i)dentify, (c)lose or (r)eplace:" -Foregroundcolor $color -nonewline
-   $actualIssue=(read-host).ToUpper()
-
-   switch($actualIssue)
-   {
-      "I"
-      {
-          if (($estimateIssue -replace("\D","")) -eq "")
-          {
-             write-host "Estimate Cover Issue:" -Foregroundcolor $color -nonewline
-             $cover=read-host
-          }
-          else
-          {
-             $cover=Get-cover $estimateIssue
-          }
-
-          $actualIssue=Get-imagetitle -issue $cover -title $newtitle
-          write-host "Choose $actualIssue" -ForegroundColor cyan
-      }
-	  "R"
-	  {
-    	 Write-host "R"
-	     $filepath= Get-imagefilename -title $newtitle -issue $actualIssue
-	     ri $filepath -Force | ForEach-Object {
-             $removeErrors = @()
-             $_ | Remove-Item -ErrorAction SilentlyContinue -ErrorVariable removeErrors
-             $removeErrors | where-object { $_.Exception.Message -notlike '*it is being used by another process*' }
-             }
-	     Invoke-webRequest $record.ImageSrc -outfile $filepath
-	  }
-	  "C"
-	  {
-       Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
-		   $IE[1].Application.Quit()
-       return
-	  }
-      default
-      {
-         if ($actualIssue -eq $NULL -or $actualIssue -eq "")
-         {
-			      Write-Host "Assuming value $estimateIssue"
-            $actualIssue=$estimateIssue
-         }
-      }
-   }
-
-   if (!(test-image -title $newtitle -issue $actualIssue))
-   {
-      if ($($record.ImageSrc))
-      {
-         Write-host "Updating Library with image of $newtitle : $actualIssue" -foregroundcolor cyan
-         $filepath= Get-imagefilename -title $newtitle -issue $actualIssue
-         Write-host "Downloading from $($record.Imagesrc) "
-         Write-host "Writing to $filepath"
-         set-imagefolder $newtitle $actualIssue
-
-         try
-         {
-            Invoke-webRequest $record.ImageSrc -outfile $filepath
-         }
-         catch
-         {
-            write-host "Cannot download  $($record.ImageSrc)"
-         }
-      }
-      Else
-      {
-         Write-host "No image data"
-      }
-   }
-
-   $newquantity  = new-object int
-   $newquantity=1
-
-   if ($actualIssue -eq "SET" -And $($record.Quantity) -eq 1)
-   {
-      $readquantity=read-host "Number in set:$($record.Quantity)"
+      $readquantity=Read-Host "Number in set:$($record.Quantity)"
       if  ($readquantity -gt 0)
       {
-         $newquantity = $readquantity
+         $quantity = $readquantity
       }
    }
 
-   $priceestimate=0
-   [double]$marketprice=0
-   [double]$marketprice=Get-CurrentPrice -issue $actualIssue -title $newtitle
-
-   $foregroundcolor="red"
-
-   if ($marketprice -gt [double]$($record.Price))
-   {
-      $foregroundcolor="green"
-   }
-
-   $marketprice="{0:N2}" -f $marketprice
-
-   if ($record.site -eq "ebay")
-   {
-      $price=Get-EbaySoldPrice -record $record
-
-      Write-host "Price $($record.Price):  market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline
-      $overrideprice=read-hostdecimal
-      if ($overrideprice)
-      {
-        $price=$overrideprice
-        write-host "Overide sets price at $price"
-      }
-   }
-   else
-   {
-       Write-host "Price $($record.Price): market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline
-       $price=read-hostdecimal
-   }
-
-   if ($price -eq $NULL -or $price -eq "")
-   {
-      $price=$record.Price
-   }
-
-   if ($estimate -match "Free")
-   {
-      $estimate=[decimal]0
-   }
-
-   if ($estimate -notlike $NULL)
-   {
-      $converted=Get-Price $estimate
-      $estimate=$converted.Amount
-   }
-
-   try
-   {
-      $estimate=[decimal]$estimate
-      $postage=$estimate
-   }
-   catch
-   {
-      write-host "Postage: $($record.postage) estimate:$estimate" -NoNewline
-      $postage=read-hostdecimal
-      $postage="{0:N2}" -f $postage
-
-      if ($postage -eq $NULL -or $postage -eq "")
-      {
-         $postage=$record.Postage
-      }
-   }
-
-   write-host "Postage estimate:$estimate"
-
-   $TCO ="{0:N2}" -f ([decimal]$postage+[decimal]$price)/$newquantity
-   write-host "TCO per issue $TCO" -foregroundcolor cyan
-
-   if ($salestatus)
-   {
-      $record=Set-ComicStatus -record $record -salestatus $salestatus
-   }
-   else
-   {
-      $record=Set-ComicStatus -record $record
-   }
-
-   $IE[1].Application.Quit()
-
-   try
-   {
-      Update-DB -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $record.status -bought $record.bought -quantity $newquantity -seller $seller -watch $record.watch
-   }
-   catch
-   {
-	   Write-Warning "Update Record Failure"
-	   throw
-   }
+   $quantity
 }
 
 function Set-ComicStatus
@@ -341,12 +112,16 @@ function Set-ComicStatus
 
 function Set-Title
 {
-   param([string]$rawtitle)
+   param(
+     [Parameter(Mandatory=$true)]
+     [string]$rawtitle,
+     [string]$color)
 
+   write-verbose "Set-title"
    $newtitle=($rawtitle.ToUpper()).Split("#")
    $padtitle=$newtitle -replace(" ","-")
-   $found=test-Path "$PSScriptRoot\covers\$padtitle"
-   write-verbose "Title at $PSScriptRoot\covers\$padtitle"
+   $found=Test-Path "$PSScriptRoot\covers\$padtitle"
+   Write-Verbose "Title at $PSScriptRoot\covers\$padtitle"
 
    if ($found)
    {
@@ -375,6 +150,8 @@ function Set-Title
    }
 
    $returntitle
+
+
 }
 
 function Set-Issue
@@ -507,7 +284,69 @@ function Set-Issue
       }
    }
 
-   $estimateIssue
+   write-host "Issue $($estimateIssue) - (i)dentify, (c)lose:" -Foregroundcolor $color -nonewline
+   $actualIssue=(read-host).ToUpper()
+
+   switch($actualIssue)
+   {
+      "I"
+      {
+          if (($estimateIssue -replace("\D","")) -eq "")
+          {
+             write-host "Estimate Cover Issue:" -Foregroundcolor $color -nonewline
+             $cover=read-host
+          }
+          else
+          {
+             $cover=Get-cover $estimateIssue
+          }
+
+          $actualIssue=Get-imagetitle -issue $cover -title $newtitle
+          write-host "Choose $actualIssue" -ForegroundColor cyan
+      }
+      "C"
+      {
+         Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
+         $IE[1].Application.Quit()
+         return
+      }
+      default
+      {
+         if ($actualIssue -eq $NULL -or $actualIssue -eq "")
+         {
+            Write-Host "Assuming value $estimateIssue"
+            $actualIssue=$estimateIssue
+         }
+      }
+   }
+
+   if (!(test-image -title $newtitle -issue $actualIssue))
+   {
+      if ($($record.ImageSrc))
+      {
+         Write-host "Updating Library with image of $newtitle : $actualIssue" -foregroundcolor cyan
+         $filepath= Get-imagefilename -title $newtitle -issue $actualIssue
+         Write-host "Downloading from $($record.Imagesrc) "
+         Write-host "Writing to $filepath"
+         set-imagefolder $newtitle $actualIssue
+
+         try
+         {
+            Invoke-webRequest $record.ImageSrc -outfile $filepath
+         }
+         catch
+         {
+            write-host "Cannot download  $($record.ImageSrc)"
+         }
+      }
+      Else
+      {
+         Write-host "No image data"
+      }
+   }
+   write-verbose "Finished setting title"
+   $actualIssue
+
  }
 
 function GuessTitle
@@ -637,10 +476,10 @@ function Get-EbaySaleStatus
     $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
 
     $salestatus="live"
-    write-host "scrape $url 'span#w1-3-_msg'"
+    write-verbose "scrape $url 'span#w1-3-_msg'"
     $status=scrape $url 'span#w1-3-_msg'
 
-    write-host "scrape $url 'iv.sml-cnt'"
+    write-verbose "scrape $url 'iv.sml-cnt'"
     $delisted=scrape $url 'div.sml-cnt'
     if (!($delisted))
     {
@@ -697,6 +536,170 @@ function Get-EbayShippingCost
    }
 
    $estimate
+}
+
+function Update-RecordOld
+{
+  param(
+   [Parameter(Mandatory=$true)]
+   [PSObject]$record,
+   [string]$newstatus)
+
+   [PSObject]$OldRecord=$record
+
+   #postage
+   $estimate  =$null
+   $seller    =$null
+   $salestatus=$null
+
+   $ie=Get-RecordView $record
+
+   switch($record.site.ToUpper())
+   {
+      'EBAY'
+	    {
+         $salestatus=Get-EbaySaleStatus -record $record
+         Write-Host ""
+
+         Write-Host "SaleStatus : $salestatus"
+         switch ($salestatus.ToUpper())
+         {
+           'EXPIRED'
+           {
+             Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
+             $IE[1].Application.Quit()
+             return
+           }
+           'SOLD'
+           {
+           }
+           'LIVE'
+           {
+           }
+           'DELISTED'
+           {
+
+             $IE[1].Application.Quit()
+             return
+           }
+         }
+
+		     $estimate=Get-EbayShippingCost -record $record
+         $seller  =Get-EbaySeller -record $record
+         Write-Host "Seller : $seller"
+
+	    }
+	    default
+	    {
+           Write-Host "Detected default ebid"
+	         Write-verbose "Record: $($record.postage)"
+           $estimate=$record.postage
+           if ($record.site -eq "ebid" -And $record.seller -eq "")
+           {
+              $seller=Get-EbidSellerIE -ie $ie
+           }
+           else
+           {
+              $seller=$record.seller
+           }
+	     }
+   }
+
+   $color      =Get-Image  -title $($record.Title) -issue $record.Issue
+   $newtitle   =(Set-Title -rawtitle $($record.Title) -color $color).ToUpper()
+   $ActualIssue=Set-Issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
+   $color      =Get-Image  -title $newtitle -issue $ActualIssue
+   $newquantity=Set-Quantity -record $record -Issue $ActualIssue
+
+   $priceestimate=0
+   [double]$marketprice=0
+   [double]$marketprice=Get-CurrentPrice -issue $ActualIssue -title $newtitle
+
+   $foregroundcolor="red"
+
+   if ($marketprice -gt [double]$($record.Price))
+   {
+      $foregroundcolor="green"
+   }
+
+   $marketprice="{0:N2}" -f $marketprice
+
+   if ($record.site -eq "ebay")
+   {
+      $price=Get-EbaySoldPrice -record $record
+
+      Write-host "Price $($record.Price):  market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline
+      $overrideprice=read-hostdecimal
+      if ($overrideprice)
+      {
+        $price=$overrideprice
+        write-host "Overide sets price at $price"
+      }
+   }
+   else
+   {
+       Write-host "Price $($record.Price): market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline
+       $price=read-hostdecimal
+   }
+
+   if ($price -eq $NULL -or $price -eq "")
+   {
+      $price=$record.Price
+   }
+
+   if ($estimate -match "Free")
+   {
+      $estimate=[decimal]0
+   }
+
+   if ($estimate -notlike $NULL)
+   {
+      $converted=Get-Price $estimate
+      $estimate=$converted.Amount
+   }
+
+   try
+   {
+      $estimate=[decimal]$estimate
+      $postage=$estimate
+   }
+   catch
+   {
+      write-host "Postage: $($record.postage) estimate:$estimate" -NoNewline
+      $postage=read-hostdecimal
+      $postage="{0:N2}" -f $postage
+
+      if ($postage -eq $NULL -or $postage -eq "")
+      {
+         $postage=$record.Postage
+      }
+   }
+
+   write-host "Postage estimate:$estimate"
+
+   $TCO ="{0:N2}" -f ([decimal]$postage+[decimal]$price)/$newquantity
+   write-host "TCO per issue $TCO" -foregroundcolor cyan
+
+   if ($salestatus)
+   {
+      $record=Set-ComicStatus -record $record -salestatus $salestatus
+   }
+   else
+   {
+      $record=Set-ComicStatus -record $record
+   }
+
+   $IE[1].Application.Quit()
+
+   try
+   {
+      Update-DB -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $record.status -bought $record.bought -quantity $newquantity -seller $seller -watch $record.watch
+   }
+   catch
+   {
+	   Write-Warning "Update Record Failure"
+	   throw
+   }
 }
 
 function Update-Record

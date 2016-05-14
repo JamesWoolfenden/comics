@@ -86,41 +86,41 @@ function Add-Array
                 $CurrentPrice=$set.CurrentPrice
              }
              else
-			 {
+			       {
                 $CurrentPrice=0
              }
 
              [string]$bestOffer=$set.BestOffer.ToString()
 
-			 try
-			 {
-			    add-record -title $title -issue $issue -price $CurrentPrice -bought $false `
-			               -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
+			       try
+			       {
+			          add-record -title $title -issue $issue -price $CurrentPrice -bought $false `
+                           -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
                            -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $BestOffer -BidCount $set.BidCount `
                            -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate `
-			               -ImageSrc $set.ImageSrc -Link $set.Link
+			                     -ImageSrc $set.ImageSrc -Link $set.Link
              }
-			 Catch
-			 {
-				 $set|get-member
+			       Catch
+		      	 {
+               $set|get-member
 
-				 Write-Host "Failed to add record"
-				 Write-Host "title $title"
-				 Write-Host "issue $issue"
-				 Write-Host "price $CurrentPrice"
-				 Write-Host "bought $false"
-				 Write-Host "PublishDate $($set.PublishDate)"
-				 Write-Host "Ebayitem $($set.Ebayitem)"
-				 Write-Host "Description $($trimmedtitle)"
-				 Write-Host "AuctionType $($AuctionType)"
-			     Write-Host "BestOffer $BestOffer"
-				 Write-Host "BidCount $($set.BidCount)"
-                 Write-Host "BuyItNowPrice $($set.BuyItNowPrice)"
-				 Write-Host "CloseDate $($set.CloseDate)"
-			     Write-Host "ImageSrc $($set.ImageSrc) "
-				 Write-Host "Link $($set.Link)"
-				 throw
-			 }
+				       Write-Host "Failed to add record"
+				       Write-Host "title $title"
+				       Write-Host "issue $issue"
+				       Write-Host "price $CurrentPrice"
+				       Write-Host "bought $false"
+				       Write-Host "PublishDate $($set.PublishDate)"
+				       Write-Host "Ebayitem $($set.Ebayitem)"
+				       Write-Host "Description $($trimmedtitle)"
+				       Write-Host "AuctionType $($AuctionType)"
+			         Write-Host "BestOffer $BestOffer"
+			   	     Write-Host "BidCount $($set.BidCount)"
+               Write-Host "BuyItNowPrice $($set.BuyItNowPrice)"
+			  	     Write-Host "CloseDate $($set.CloseDate)"
+		   	       Write-Host "ImageSrc $($set.ImageSrc) "
+   	 	    		 Write-Host "Link $($set.Link)"
+				       throw
+             }
 
              $count++
           }
@@ -130,25 +130,25 @@ function Add-Array
               if ($status -ne "Expired")
               {
                  #record exists check its not expired or closed
-			     if (($foundrecord.Status -eq "Open") -or ($foundrecord.Status -eq "Verified"))
-			     {
-                    write-verbose " Update-DB -ebayitem $($set.Ebayitem) -status $status -price $($set.CurrentPrice)"
-			        if ($status -eq "Open")
-                    {
-			           Update-DB -ebayitem $set.Ebayitem -price $set.CurrentPrice
-                    }
+			          if (($foundrecord.Status -eq "Open") -or ($foundrecord.Status -eq "Verified"))
+			          {
+                   write-verbose " Update-DB -ebayitem $($set.Ebayitem) -status $status -price $($set.CurrentPrice)"
+			             if ($status -eq "Open")
+                   {
+			                Update-DB -ebayitem $set.Ebayitem -price $set.CurrentPrice
+                   }
 
-			        Write-host "`rUpdating: $($set.Ebayitem)" -foregroundcolor green  -NoNewline
+			             Write-host "`rUpdating: $($set.Ebayitem)" -foregroundcolor green  -NoNewline
                  }
-			     else
-			     {
+			          else
+     			      {
                     Write-host "`rSkipping: $($set.Ebayitem)" -foregroundcolor yellow  -NoNewline
-			     }
+			          }
               }
           }
       }
 
-	  Write-Host ""
+	    Write-Host ""
 
       if ($count)
       {
@@ -344,7 +344,7 @@ function Update-Recordset
             }
             else
             {
-                Update-Record $record 
+                Update-Record $record
             }
          }
 
@@ -500,7 +500,7 @@ function Add-EBidArray
 	Write-Host ""
 }
 
-function add-ebid 
+function add-ebid
 {
    param(
    $ebiditem,
@@ -508,7 +508,7 @@ function add-ebid
    [int]$issue,
    [string]$seller=$null)
 
-   
+
    if ($ebiditem.price -ne $null)
    {
       $ebiditem.price=$($ebiditem.price).Replace("&#163;","")
