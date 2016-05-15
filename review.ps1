@@ -307,8 +307,7 @@ function Set-Issue
       "C"
       {
          Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
-         $IE[1].Application.Quit()
-         return
+         return $False
       }
       default
       {
@@ -572,9 +571,11 @@ function Update-RecordOld
            }
            'SOLD'
            {
+             $price=Get-EbaySoldPrice -record $record
            }
            'LIVE'
            {
+             $price=Get-EbaySoldPrice -record $record
            }
            'DELISTED'
            {
@@ -608,6 +609,14 @@ function Update-RecordOld
    $color      =Get-Image  -title $($record.Title) -issue $record.Issue
    $newtitle   =(Set-Title -rawtitle $($record.Title) -color $color).ToUpper()
    $ActualIssue=Set-Issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
+
+   #crap hack
+   if(!$ActualIssue)
+   {
+     $IE[1].Application.Quit()
+     return
+   }
+
    $color      =Get-Image  -title $newtitle -issue $ActualIssue
    $newquantity=Set-Quantity -record $record -Issue $ActualIssue
 
@@ -624,28 +633,19 @@ function Update-RecordOld
 
    $marketprice="{0:N2}" -f $marketprice
 
-   if ($record.site -eq "ebay")
-   {
-      $price=Get-EbaySoldPrice -record $record
 
-      Write-host "Price $($record.Price):  market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline
-      $overrideprice=read-hostdecimal
-      if ($overrideprice)
-      {
-        $price=$overrideprice
-        write-host "Overide sets price at $price"
-      }
-   }
-   else
-   {
-       Write-host "Price $($record.Price): market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline
-       $price=read-hostdecimal
-   }
+  Write-host "Price $($record.Price):  market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline
+  $overrideprice=read-hostdecimal
+  if ($overrideprice)
+  {
+     $price=$overrideprice
+     write-host "Overide set price at $price"
+  }
+  else
+  {
+     $price=$record.Price
+  }
 
-   if ($price -eq $NULL -or $price -eq "")
-   {
-      $price=$record.Price
-   }
 
    if ($estimate -match "Free")
    {
