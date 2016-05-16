@@ -301,7 +301,7 @@ function Set-Issue
              $cover=Get-cover $estimateIssue
           }
 
-          $actualIssue=Get-imagetitle -issue $cover -title $newtitle
+          $actualIssue=Get-ImageTitle -issue $cover -title $newtitle
           write-host "Choose $actualIssue" -ForegroundColor cyan
       }
       "C"
@@ -313,7 +313,6 @@ function Set-Issue
       {
          if ($actualIssue -eq $NULL -or $actualIssue -eq "")
          {
-            Write-Host "Assuming value $estimateIssue"
             $actualIssue=$estimateIssue
          }
       }
@@ -327,7 +326,7 @@ function Set-Issue
          $filepath= Get-imagefilename -title $newtitle -issue $actualIssue
          Write-host "Downloading from $($record.Imagesrc) "
          Write-host "Writing to $filepath"
-         set-imagefolder $newtitle $actualIssue
+         Set-ImageFolder $newtitle $actualIssue
 
          try
          {
@@ -388,27 +387,19 @@ function GuessTitle
     }
  }
 
-function Get-EbidSellerIE
+function Get-EbidSeller
 {
    param(
    [Parameter(Mandatory=$true)]
-   $ie)
+   [string]$url,
+   [string]$oldseller)
 
-   try
-   {
-      #$seller=($ie.Document.body.document.body.getElementsByTagName('a')| where{$_.innerHTML -eq "All about the seller"}).nameProp
-      #$result=@($ie[1].Document.body.getElementsByClassName('t10 l5 f4 center'))
-      #$result=@($ie[1].Document.body.getElementsByClassName('col-md-4 col-sm-12 clearfix nobottommargin center'))
-	  $result=@($ie[1].Document.body.getElementsByClassName('fs-14'))
+   $seller=$oldseller
 
-      #[string]$seller=($result.textContent.trim() -split(' '))[0]
-	  $seller=$result.Innertext[1].Split('(')[0]
-	  Write-host "Seller: $seller"
-   }
-   catch
+   $result=scrape -url $url -target h4.fs-14
+   if ($result)
    {
-      Write-error "Page expired?"
-      $seller=$null
+      $seller=($result[1].trim()).split(" ")[0]
    }
 
    $seller
@@ -471,50 +462,90 @@ function Get-EbaySaleStatus
 {
     param(
       [Parameter(Mandatory=$true)]
-      [PSObject]$record)
+      [PSObject]$record,
+      [string]$salestatus="live")
+
     $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
 
-    $salestatus="live"
-    write-verbose "scrape $url 'span#w1-3-_msg'"
-    $status=scrape $url 'span#w1-3-_msg'
+    [string]$status=(scrape $url 'span#w1-3-_msg')
+    [string]$delisted=(scrape $url 'div.sml-cnt')
 
-    write-verbose "scrape $url 'iv.sml-cnt'"
-    $delisted=scrape $url 'div.sml-cnt'
-    if (!($delisted))
+     write-verbose "Status   : $Status"
+     
+    if (!$delisted)
     {
-       If ($status -match "Bidding has ended on this item")
-       {
-         $bids=scrape $url  "a#vi-VR-bid-lnk.vi-bidC"
-         $salestatus="sold"
+      switch ($status.trim())
+      {
+        "This Buy it now listing has ended."
+        {
+          $salestatus="expired"
+        }
+        "Bidding has ended on this item."
+        {
+          #returns no of bids as string
+          $bids=scrape $url  "a#vi-VR-bid-lnk.vi-bidC"
+          $salestatus="sold"
 
-         if ($bids)
-         {
+          if ($bids)
+          {
+            #check to see if no bids
             if (Test-NoBids -bids $bids)
             {
                $salestatus="expired"
             }
-         }
-       }
-
-       if ($status -match "This listing has ended")
-       {
-           $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
-           if ($result)
-           {
-              $salestatus="sold"
-           }
-           else
-           {
-              $salestatus="expired"
-           }
-       }
-  }
-  else
-  {
-    $salestatus='delisted'
-  }
-
+          }
+        }
+        "This listing has ended."
+        {
+          $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
+          if ($result)
+          {
+            $salestatus="sold"
+          }
+          else
+          {
+            $salestatus="expired"
+          }
+        }
+        "This listing was ended by the seller because the item is no longer available."
+        {
+          $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
+          if ($result)
+          {
+            $salestatus="sold"
+          }
+          else
+          {
+            $salestatus="expired"
+          }
+        }
+      }
+    }
+    else
+    {
+        $salestatus="EXPIRED"
+    }
   $salestatus
+}
+
+function Get-EbidSaleStatus
+{
+    param(
+      [Parameter(Mandatory=$true)]
+      [string]$url)
+
+    $status=scrape -url $record.link -target div.dis-inline-block.red
+    $salestatus="VERIFIED"
+
+    switch ($status.trim())
+    {
+        "Listing Closed"
+        {
+          $salestatus="CLOSED"
+        }
+    }
+
+    $salestatus
 }
 
 function Get-EbayShippingCost
@@ -536,6 +567,29 @@ function Get-EbayShippingCost
 
    $estimate
 }
+
+function GetEbidPrice
+{
+  param(
+    $link,
+    $salestatus,
+    $OldPrice)
+
+   $price=$OldPrice
+
+   if ($salestatus -ne "CLOSED")
+   {
+     $scrapePrice=scrape -url $link -target ins.bid
+     if ($scrapePrice)
+     {
+      write-host "scrapePrice: $scrapePrice"
+       $price=(Get-Price $scrapePrice).Amount
+     }
+   }
+
+}
+
+
 
 function Update-RecordOld
 {
@@ -595,19 +649,16 @@ function Update-RecordOld
            Write-Host "Detected default ebid"
 	         Write-verbose "Record: $($record.postage)"
            $estimate=$record.postage
-           if ($record.site -eq "ebid" -And $record.seller -eq "")
-           {
-              $seller=Get-EbidSellerIE -ie $ie
-           }
-           else
-           {
-              $seller=$record.seller
-           }
-	     }
+
+           $seller=Get-EbidSeller -url $record.link
+           $salestatus=Get-EBidSaleStatus -url $record.link
+           $price=GetEbidPrice -url $record.link -Status $salestatus -OldPrice $record.Price
+       }
    }
 
    $color      =Get-Image  -title $($record.Title) -issue $record.Issue
    $newtitle   =(Set-Title -rawtitle $($record.Title) -color $color).ToUpper()
+   write-host "Set-Issue -rawissue `"$($record.Issue)`" -rawtitle `"$($record.Description)`" -title `"$newtitle`" -color $color"
    $ActualIssue=Set-Issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
 
    #crap hack
@@ -617,6 +668,7 @@ function Update-RecordOld
      return
    }
 
+   write-host "ActualIssue:$ActualIssue"
    $color      =Get-Image  -title $newtitle -issue $ActualIssue
    $newquantity=Set-Quantity -record $record -Issue $ActualIssue
 
@@ -633,20 +685,15 @@ function Update-RecordOld
 
    $marketprice="{0:N2}" -f $marketprice
 
-
-  Write-host "Price $($record.Price):  market:$marketprice : " -foregroundcolor $foregroundcolor -NoNewline
+  Write-host "Price: $Price : market: $marketprice : " -foregroundcolor $foregroundcolor -NoNewline
   $overrideprice=read-hostdecimal
   if ($overrideprice)
   {
      $price=$overrideprice
      write-host "Overide set price at $price"
   }
-  else
-  {
-     $price=$record.Price
-  }
 
-
+#postage
    if ($estimate -match "Free")
    {
       $estimate=[decimal]0

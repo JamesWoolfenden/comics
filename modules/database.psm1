@@ -1,6 +1,6 @@
 $connection= "Data Source=redwolffour.cloudapp.net;Initial Catalog=comics;User ID=guru;Password=Faithle55;Trusted_Connection=False;Persist Security Info=False;"
 
-function Get-pounds
+function Get-Pounds
 {   <#
       .SYNOPSIS
        returns clean currency string when given a dirty string
@@ -34,7 +34,7 @@ function Get-pounds
     }
 }
 
-function Get-cover
+function Get-Cover
 {
    <#
       .SYNOPSIS
@@ -73,7 +73,7 @@ function Get-cover
     }
 }
 
-function add-record
+function Add-Record
 {
    <#
       .SYNOPSIS
@@ -149,7 +149,7 @@ function add-record
    $conn.close()
 }
 
-function Get-db
+function Get-DB
 {
    param(
     [Parameter(Mandatory=$true)]
@@ -529,7 +529,7 @@ function Search-DB
    $conn.Close()
 }
 
-function Get-priceestimate
+function Get-PriceEstimate
 {
    param(
    [Parameter(Mandatory=$true)]
@@ -622,7 +622,7 @@ function Get-priceestimate
    return $objStats
 }
 
-function Get-selleritems
+function Get-SellerItems
 {
    <#
       .SYNOPSIS
