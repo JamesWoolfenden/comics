@@ -623,7 +623,7 @@ function DateString
    "$($date.day)-$($date.month)-$($date.year)"
 }
 
-function closing-record
+function Closing-Record
 {
    Param(
    [Parameter(Mandatory=$true)]
@@ -634,7 +634,7 @@ function closing-record
    Update-Recordset -title $title -Issue $Issue -sortby DateOfSale
 }
 
-function reduce
+function Reduce
 {
    param(
    $array,
@@ -658,7 +658,7 @@ function reduce
    }
 }
 
-function Get-ebidrecords
+function Get-EBIDRecords
 {
    <#
       .SYNOPSIS
@@ -721,7 +721,7 @@ function Get-ebidrecords
    Write-Host "Open:    $OpenCount" -foregroundcolor cyan
 }
 
-function Get-allrecords
+function Get-AllRecords
 {
    <#
       .SYNOPSIS

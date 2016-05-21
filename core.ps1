@@ -225,46 +225,6 @@ function Get-Price
    $cost
 }
 
-function Get-Issue
-{
-   param(
-   [Parameter(Mandatory=$true)]
-   [string]$rawissue)
-
-   [string]$variant=""
-
-   if ($rawissue.Contains("#"))
-   {
-      write-verbose "splitting on # $rawissue"
-      $rawissue=$rawissue.split("#")[1]
-   }
-   elseif(($rawissue.ToUpper()).Contains("PROG"))
-   {
-      write-verbose "splitting on prog $rawissue"
-      $rawissue=($rawissue.ToUpper() -split("PROG"))[1]
-   }
-
-   $split=$rawissue.split(" ")
-   $cover=$split[0]
-   $variant=$rawissue
-   write-verbose "Variant is $variant"
-
-   if ($variant -eq $null)
-   {
-      write-Error "Variant is undefined"
-   }
-   else
-   {
-      write-verbose "Variant is $variant"
-   }
-
-   $issue= New-Object System.Object
-   $issue| Add-Member -type NoteProperty -name cover -value $cover
-   $issue| Add-Member -type NoteProperty -name variant -value $variant
-
-   $issue
-}
-
 function Read-HostDecimal
 {
     <#

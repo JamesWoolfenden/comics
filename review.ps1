@@ -150,8 +150,6 @@ function Set-Title
    }
 
    $returntitle
-
-
 }
 
 function Set-Issue
@@ -162,12 +160,27 @@ function Set-Issue
    [string]$title,
    [string]$color)
 
-   write-verbose "$rawissue $rawtitle $color"
+   Write-Verbose "$rawissue $rawtitle $color"
 
    #if its a new record
    if ($rawissue -eq "0")
    {
       [string]$tempstring=$null
+      [string]$variant=$null
+
+      #might have string saying issue variant
+      if ($rawtitle.Contains("1st"))
+      {
+        $variant="A"
+        $rawtitle=$rawtitle -replace "1st"
+      }
+
+      #might have string saying issue variant
+      if ($rawtitle.Contains("2nd"))
+      {
+        $variant="B"
+        $rawtitle=$rawtitle -replace "1st"
+      }
 
       #are we lucky to have an issue no?
       if ($rawtitle.Contains("#"))
@@ -177,6 +190,8 @@ function Set-Issue
       elseif (($rawtitle.ToUpper()).Contains("PROG"))
       {
          $tempstring=($rawtitle.ToUpper() -split("PROG"))[1]
+      }else{
+        $tempstring=$rawtitle -replace '\D+'
       }
 
       #has it split
@@ -274,14 +289,20 @@ function Set-Issue
       {
          if ($estimateIssue -notmatch $key)
          {
-            $estimateIssue+=$key
-            write-host "Added $key to $estimateIssue"
+            $Variant+=$key
+            write-host "Added $key to $Variant"
          }
          else
          {
-            write-host "Found $key in $estimateIssue"
+            write-host "Found $key in $Variant"
          }
       }
+   }
+
+   #decide whether to add string 
+   if (!(Test-Image -title $title -issue $estimateIssue))
+   {
+      $estimateIssue+=$Variant
    }
 
    write-host "Issue $($estimateIssue) - (i)dentify, (c)lose:" -Foregroundcolor $color -nonewline
@@ -298,7 +319,7 @@ function Set-Issue
           }
           else
           {
-             $cover=Get-cover $estimateIssue
+             $cover=Get-Cover $estimateIssue
           }
 
           $actualIssue=Get-ImageTitle -issue $cover -title $newtitle
@@ -318,7 +339,7 @@ function Set-Issue
       }
    }
 
-   if (!(test-image -title $newtitle -issue $actualIssue))
+   if (!(Test-Image -title $newtitle -issue $actualIssue))
    {
       if ($($record.ImageSrc))
       {
@@ -471,7 +492,7 @@ function Get-EbaySaleStatus
     [string]$delisted=(scrape $url 'div.sml-cnt')
 
      write-verbose "Status   : $Status"
-     
+
     if (!$delisted)
     {
       switch ($status.trim())
@@ -582,14 +603,12 @@ function GetEbidPrice
      $scrapePrice=scrape -url $link -target ins.bid
      if ($scrapePrice)
      {
-      write-host "scrapePrice: $scrapePrice"
+       write-host "scrapePrice: $scrapePrice"
        $price=(Get-Price $scrapePrice).Amount
      }
    }
 
 }
-
-
 
 function Update-RecordOld
 {
@@ -642,7 +661,6 @@ function Update-RecordOld
 		     $estimate=Get-EbayShippingCost -record $record
          $seller  =Get-EbaySeller -record $record
          Write-Host "Seller : $seller"
-
 	    }
 	    default
 	    {
@@ -658,7 +676,7 @@ function Update-RecordOld
 
    $color      =Get-Image  -title $($record.Title) -issue $record.Issue
    $newtitle   =(Set-Title -rawtitle $($record.Title) -color $color).ToUpper()
-   write-host "Set-Issue -rawissue `"$($record.Issue)`" -rawtitle `"$($record.Description)`" -title `"$newtitle`" -color $color"
+   Write-Verbose "Set-Issue -rawissue `"$($record.Issue)`" -rawtitle `"$($record.Description)`" -title `"$newtitle`" -color $color"
    $ActualIssue=Set-Issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
 
    #crap hack
@@ -686,12 +704,15 @@ function Update-RecordOld
    $marketprice="{0:N2}" -f $marketprice
 
   Write-host "Price: $Price : market: $marketprice : " -foregroundcolor $foregroundcolor -NoNewline
-  $overrideprice=read-hostdecimal
-  if ($overrideprice)
+  if ($salestatus -eq 'LIVE')
   {
-     $price=$overrideprice
-     write-host "Overide set price at $price"
-  }
+    $overrideprice=read-hostdecimal
+    if ($overrideprice)
+    {
+       $price=$overrideprice
+       write-host "Overide set price at $price"
+    }
+  }else{write-host ""}
 
 #postage
    if ($estimate -match "Free")

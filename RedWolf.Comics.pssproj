@@ -31,7 +31,6 @@
     <Compile Include="data\comicxposure\latest.json" />
     <Compile Include="data\dcbs\18-1-2015.json" />
     <Compile Include="data\dcbs\latest.json" />
-    <Compile Include="disposableHeroes.ps1" />
     <Compile Include="javascript\Script1.js" />
     <Compile Include="jqwidgets\demos\jqxchart\javascript_chart_bind_to_xml.htm" />
     <Compile Include="jqwidgets\demos\jqxchart\javascript_chart_bind_to_json.htm" />
