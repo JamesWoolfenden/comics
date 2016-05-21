@@ -16,7 +16,7 @@ function Get-fpdata
    #$url="https://www.kimonolabs.com/api/ca9vxpfa?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    $url="https://www.kimonolabs.com/api/ondemand/ca9vxpfa?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-verbose "Accessing $url"
-   write-Host "$(Get-Date) - Looking for $title @ `"$site`""
+   Write-Host "$(Get-Date) - Looking for $title @ `"$site`""
 
 <# Postage
    1X  �1.00  1.00
@@ -114,6 +114,6 @@ function Get-fpdata
       $counter++
    }
    
-   write-host "$(Get-Date) - Found $counter"
+   Write-Host "$(Get-Date) - Found $counter"
    $fp
 }

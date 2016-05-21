@@ -9,7 +9,7 @@ foreach($record in $sales.data)
 {
    if ($record.column_1_number -eq $NULL)
    {
-      write-host "Skip" -ForegroundColor Red
+      Write-Host "Skip" -ForegroundColor Red
       continue
    }
 

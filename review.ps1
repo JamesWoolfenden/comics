@@ -125,11 +125,11 @@ function Set-Title
 
    if ($found)
    {
-      write-Host "Title $($newtitle[0]):" -NoNewline -ForegroundColor green
+      Write-Host "Title $($newtitle[0]):" -NoNewline -ForegroundColor green
    }
    else
    {
-      write-Host "New Title? $($newtitle[0]):" -NoNewline -ForegroundColor Yellow
+      Write-Host "New Title? $($newtitle[0]):" -NoNewline -ForegroundColor Yellow
    }
 
    $title=read-host
@@ -146,7 +146,7 @@ function Set-Title
    $padtitle=$returntitle -replace(" ","-")
    if (!(test-Path $PSScriptRoot\covers\$padtitle))
    {
-     write-Host "New title: $returntitle" -ForegroundColor cyan
+     Write-Host "New title: $returntitle" -ForegroundColor cyan
    }
 
    $returntitle
@@ -241,7 +241,7 @@ function Set-Issue
                $estimateIssue=$tempstring
             }
 
-            write-host "Before estimate estimateIssue $estimateIssue"
+            Write-Host "Before estimate estimateIssue $estimateIssue"
             $estimateIssue=GuessTitle -title $title -issue "$estimateIssue"
             write-verbose "After estimate $estimateIssue"
          }
@@ -272,7 +272,7 @@ function Set-Issue
       #while nothings been entered continue
       while (($estimateIssue -eq "0") -or ($estimateIssue -eq ""))
       {
-         write-host "Estimate issue ($rawIssue):" -Foregroundcolor $color -nonewline
+         Write-Host "Estimate issue ($rawIssue):" -Foregroundcolor $color -nonewline
          $estimateIssue=read-host
       }
    }
@@ -281,31 +281,41 @@ function Set-Issue
       $estimateIssue=$rawIssue
    }
 
-   $Keys=("PHANTOM","CGC","SIGNED")
+   #decide whether to add string
+   if (!(Test-Image -title $title -issue $estimateIssue))
+   {
+     $estimateIssue+=$Variant
+   }
 
+   #Varianttypes
+   $VariantKeys=("PHANTOM","FIRSTS")
+   foreach($key in $VariantKeys)
+   {
+       if ($rawtitle.ToUpper() -match $key)
+       {
+          $estimateIssue=($estimateIssue -replace '\D+')+$key
+       }
+   }
+
+   #modifiers
+   $keys=("CGC","SIGNED")
    foreach($key in $Keys)
    {
       if ($rawtitle.ToUpper() -match $key)
       {
          if ($estimateIssue -notmatch $key)
          {
-            $Variant+=$key
-            write-host "Added $key to $Variant"
+            $estimateIssue+=$key
+            Write-Host "Added $key to $estimateIssue"
          }
          else
          {
-            write-host "Found $key in $Variant"
+            Write-Host "Found $key in $estimateIssue"
          }
       }
    }
 
-   #decide whether to add string 
-   if (!(Test-Image -title $title -issue $estimateIssue))
-   {
-      $estimateIssue+=$Variant
-   }
-
-   write-host "Issue $($estimateIssue) - (i)dentify, (c)lose:" -Foregroundcolor $color -nonewline
+   Write-Host "Issue $($estimateIssue) - (i)dentify, (c)lose:" -Foregroundcolor $color -nonewline
    $actualIssue=(read-host).ToUpper()
 
    switch($actualIssue)
@@ -314,7 +324,7 @@ function Set-Issue
       {
           if (($estimateIssue -replace("\D","")) -eq "")
           {
-             write-host "Estimate Cover Issue:" -Foregroundcolor $color -nonewline
+             Write-Host "Estimate Cover Issue:" -Foregroundcolor $color -nonewline
              $cover=read-host
           }
           else
@@ -323,7 +333,7 @@ function Set-Issue
           }
 
           $actualIssue=Get-ImageTitle -issue $cover -title $newtitle
-          write-host "Choose $actualIssue" -ForegroundColor cyan
+          Write-Host "Choose $actualIssue" -ForegroundColor cyan
       }
       "C"
       {
@@ -343,10 +353,10 @@ function Set-Issue
    {
       if ($($record.ImageSrc))
       {
-         Write-host "Updating Library with image of $newtitle : $actualIssue" -foregroundcolor cyan
+         Write-Host "Updating Library with image of $newtitle : $actualIssue" -foregroundcolor cyan
          $filepath= Get-imagefilename -title $newtitle -issue $actualIssue
-         Write-host "Downloading from $($record.Imagesrc) "
-         Write-host "Writing to $filepath"
+         Write-Host "Downloading from $($record.Imagesrc) "
+         Write-Host "Writing to $filepath"
          Set-ImageFolder $newtitle $actualIssue
 
          try
@@ -355,12 +365,12 @@ function Set-Issue
          }
          catch
          {
-            write-host "Cannot download  $($record.ImageSrc)"
+            Write-Host "Cannot download  $($record.ImageSrc)"
          }
       }
       Else
       {
-         Write-host "No image data"
+         Write-Host "No image data"
       }
    }
    write-verbose "Finished setting title"
@@ -388,7 +398,7 @@ function GuessTitle
     }
 
     $padtitle=$title -replace(" ","-")
-    write-host "looking for $PSScriptRoot\covers\$padtitle\$cover\$issue.jpg"
+    Write-Host "looking for $PSScriptRoot\covers\$padtitle\$cover\$issue.jpg"
 
     if (test-path "$PSScriptRoot\covers\$padtitle\$cover\$issue.jpg")
     {
@@ -402,7 +412,7 @@ function GuessTitle
        }
        else
        {
-          write-host "Guessing a set $issue"
+          Write-Host "Guessing a set $issue"
           return "set"
        }
     }
@@ -456,7 +466,7 @@ function Get-EbaySoldPrice
 
     if (!($SoldPrice))
     {
-      #Write-host "Looking for 'span.notranslate'"
+      #Write-Host "Looking for 'span.notranslate'"
       $money=scrape $url 'span.notranslate'
       if ($money -is [system.array])
       {
@@ -470,12 +480,12 @@ function Get-EbaySoldPrice
 
     if (!($SoldPrice))
     {
-       #Write-host "Looking for 'span#prcIsum.notranslate'"
+       #Write-Host "Looking for 'span#prcIsum.notranslate'"
        $money=scrape $url 'span#prcIsum.notranslate'
        $SoldPrice=$money[1].trim()
     }
 
-    #write-host $SoldPrice
+    #Write-Host $SoldPrice
     (Get-Price $SoldPrice).Amount
 }
 
@@ -529,6 +539,18 @@ function Get-EbaySaleStatus
           }
         }
         "This listing was ended by the seller because the item is no longer available."
+        {
+          $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
+          if ($result)
+          {
+            $salestatus="sold"
+          }
+          else
+          {
+            $salestatus="expired"
+          }
+        }
+        "This listing was ended by the seller because there was an error in the listing."
         {
           $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
           if ($result)
@@ -603,7 +625,7 @@ function GetEbidPrice
      $scrapePrice=scrape -url $link -target ins.bid
      if ($scrapePrice)
      {
-       write-host "scrapePrice: $scrapePrice"
+       Write-Host "scrapePrice: $scrapePrice"
        $price=(Get-Price $scrapePrice).Amount
      }
    }
@@ -686,7 +708,7 @@ function Update-RecordOld
      return
    }
 
-   write-host "ActualIssue:$ActualIssue"
+   Write-Host "ActualIssue:$ActualIssue"
    $color      =Get-Image  -title $newtitle -issue $ActualIssue
    $newquantity=Set-Quantity -record $record -Issue $ActualIssue
 
@@ -703,16 +725,16 @@ function Update-RecordOld
 
    $marketprice="{0:N2}" -f $marketprice
 
-  Write-host "Price: $Price : market: $marketprice : " -foregroundcolor $foregroundcolor -NoNewline
+  Write-Host "Price: $Price : market: $marketprice : " -foregroundcolor $foregroundcolor -NoNewline
   if ($salestatus -eq 'LIVE')
   {
     $overrideprice=read-hostdecimal
     if ($overrideprice)
     {
        $price=$overrideprice
-       write-host "Overide set price at $price"
+       Write-Host "Overide set price at $price"
     }
-  }else{write-host ""}
+  }else{Write-Host ""}
 
 #postage
    if ($estimate -match "Free")
@@ -733,7 +755,7 @@ function Update-RecordOld
    }
    catch
    {
-      write-host "Postage: $($record.postage) estimate:$estimate" -NoNewline
+      Write-Host "Postage: $($record.postage) estimate:$estimate" -NoNewline
       $postage=read-hostdecimal
       $postage="{0:N2}" -f $postage
 
@@ -743,10 +765,10 @@ function Update-RecordOld
       }
    }
 
-   write-host "Postage estimate:$estimate"
+   Write-Host "Postage estimate:$estimate"
 
    $TCO ="{0:N2}" -f ([decimal]$postage+[decimal]$price)/$newquantity
-   write-host "TCO per issue $TCO" -foregroundcolor cyan
+   Write-Host "TCO per issue $TCO" -foregroundcolor cyan
 
    if ($salestatus)
    {

@@ -95,6 +95,6 @@ function Get-hastingsdata
       $counter++
    }
    
-   write-host "$(Get-Date) - Record $counter"
+   Write-Host "$(Get-Date) - Record $counter"
    $hastings
 }

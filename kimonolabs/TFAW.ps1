@@ -51,7 +51,7 @@ function Get-tfawdata
    
    $site="TFAW"
 
-   write-host "$(Get-Date) - Looking for $title @ `"$site`""
+   Write-Host "$(Get-Date) - Looking for $title @ `"$site`""
 
    do
    {
@@ -111,6 +111,6 @@ function Get-tfawdata
       $counter++
    }
 
-   write-host "$(Get-Date) - Found $counter"
+   Write-Host "$(Get-Date) - Found $counter"
    $tfaw 
 }

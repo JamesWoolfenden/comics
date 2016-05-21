@@ -58,7 +58,7 @@ $listener = New-Object System.Net.HttpListener
 $listener.Prefixes.Add('http://+:8000/') # Must exactly match the netsh command above
 $listener.Start()
 
-Write-host "Listening ... " -ForegroundColor Cyan
+Write-Host "Listening ... " -ForegroundColor Cyan
 try{
 while ($true)
 {

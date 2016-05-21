@@ -33,7 +33,7 @@ function Scan
      }
      Else
      {
-        Write-host "`r`nSearch disabled for $($search.title)" -foregroundcolor cyan
+        Write-Host "`r`nSearch disabled for $($search.title)" -foregroundcolor cyan
      }
 
    }
@@ -114,7 +114,7 @@ function Get-CleanRecords
    $records=Search-DB -wherestring "where status='verified' and Ebayitem is not null  order by CloseDate desc"
    if ($records -is [System.Array])
    {
-      Write-host "Found $($records.count)"
+      Write-Host "Found $($records.count)"
    }
 
    foreach($record in $records)
@@ -244,7 +244,7 @@ function Read-HostDecimal
       } # end try
       catch
       {
-         write-Host "Decimal entry required" -ForegroundColor  Yellow
+         Write-Host "Decimal entry required" -ForegroundColor  Yellow
          $numOK = $false
       }
     } # end do

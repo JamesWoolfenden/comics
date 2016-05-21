@@ -52,7 +52,7 @@ function Get-ComicbizData
       $counter++
    }
 
-   write-host "$(Get-Date) - Record $counter"
+   Write-Host "$(Get-Date) - Record $counter"
    $comicbiz
 }
 

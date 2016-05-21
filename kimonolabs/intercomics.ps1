@@ -13,7 +13,7 @@ function Get-intercomicsdata
    #$url="https://www.kimonolabs.com/api/aq2ee2f2?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    $url="https://www.kimonolabs.com/api/ondemand/aq2ee2f2?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    write-verbose "$(Get-Date) - Accessing $url"
-   write-Host "$(Get-Date) - Looking for $title @ `"Intercomics`""
+   Write-Host "$(Get-Date) - Looking for $title @ `"Intercomics`""
   
 <# Postage
    1X  x x
@@ -81,6 +81,6 @@ function Get-intercomicsdata
       $counter++
    }
 
-   write-host "$(Get-Date) - Found $counter"
+   Write-Host "$(Get-Date) - Found $counter"
    $intercomics
 }

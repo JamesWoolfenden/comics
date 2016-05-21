@@ -33,7 +33,7 @@ function test-image
    write-verbose "Test image: $issue!"
    $cover= Get-cover $issue
    $filepath= Get-imagefilename -title $title -issue $issue
-   #Write-host $filepath
+   #Write-Host $filepath
    test-path $filepath
 }
 

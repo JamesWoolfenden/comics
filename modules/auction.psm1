@@ -8,7 +8,7 @@ function Get-AuctionData
    [PSObject]$record)
    
    $results=Search-DB -wherestring "where title='$($record.title)' and status='verified'"
-   write-Host "$(Get-Date) - Looking for $($record.title) @ Auctions"
+   Write-Host "$(Get-Date) - Looking for $($record.title) @ Auctions"
 
    $counter=0
    $auction=@()
@@ -38,6 +38,6 @@ function Get-AuctionData
       $counter++
    }
   
-   write-host "$(Get-Date) - Found $counter"
+   Write-Host "$(Get-Date) - Found $counter"
    $auction
 }

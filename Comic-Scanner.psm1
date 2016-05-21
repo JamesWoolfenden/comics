@@ -78,8 +78,8 @@ function Add-Array
                 $AuctionType="Mixed"
              }
 
-             Write-host "`r`nAdding " -nonewline
-             Write-host "$($set.Ebayitem)" -foregroundcolor red
+             Write-Host "`r`nAdding " -nonewline
+             Write-Host "$($set.Ebayitem)" -foregroundcolor red
 
              if ($set.CurrentPrice)
              {
@@ -94,7 +94,7 @@ function Add-Array
 
 			       try
 			       {
-			          add-record -title $title -issue $issue -price $CurrentPrice -bought $false `
+			          Add-Record -title $title -issue $issue -price $CurrentPrice -bought $false `
                            -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
                            -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $BestOffer -BidCount $set.BidCount `
                            -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate `
@@ -138,11 +138,11 @@ function Add-Array
 			                Update-DB -ebayitem $set.Ebayitem -price $set.CurrentPrice
                    }
 
-			             Write-host "`rUpdating: $($set.Ebayitem)" -foregroundcolor green  -NoNewline
+			             Write-Host "`rUpdating: $($set.Ebayitem)" -foregroundcolor green  -NoNewline
                  }
 			          else
      			      {
-                    Write-host "`rSkipping: $($set.Ebayitem)" -foregroundcolor yellow  -NoNewline
+                    Write-Host "`rSkipping: $($set.Ebayitem)" -foregroundcolor yellow  -NoNewline
 			          }
               }
           }
@@ -187,13 +187,13 @@ function View
    $IE.Width =800
 
    $url="www.ebay.co.uk/itm/$ebayid"
-   write-host "Opening $url`?"
+   Write-Host "Opening $url`?"
    $IE.navigate2("$url`?")
    $IE.visible=$true
 
    while ($ie.ReadyState -ne 4)
    {
-      write-host "." -NoNewline
+      Write-Host "." -NoNewline
       Start-Sleep -Milliseconds 1000
    }
 
@@ -213,13 +213,13 @@ function Get-URLView
    $IE.Height=600
    $IE.Width =800
 
-   write-host "Opening $url`?"
+   Write-Host "Opening $url`?"
    $IE.navigate2("$url`?")
    $IE.visible=$true
 
    while ($ie.Busy -eq $true)
    {
-      write-host "." -NoNewline
+      Write-Host "." -NoNewline
       Start-Sleep -Milliseconds 1000
    }
 
@@ -246,7 +246,7 @@ function Get-MarketView
    $browser.visible=$true
    while ($ie.Busy -eq $true)
    {
-      write-host "." -NoNewline
+      Write-Host "." -NoNewline
       Start-Sleep -Milliseconds 1000
    }
 }
@@ -330,11 +330,11 @@ function Update-Recordset
 
       foreach($record in $results)
       {
-         Write-host "$counter of $total"
+         Write-Host "$counter of $total"
 
          if ($record.Ebayitem -eq "" -or $record.Ebayitem -eq $null)
          {
-           write-host "Skipping item: record.Ebayitem is nothing" -foregroundcolor yellow
+           Write-Host "Skipping item: record.Ebayitem is nothing" -foregroundcolor yellow
          }
          else
          {
@@ -353,8 +353,8 @@ function Update-Recordset
    }
    catch
    {
-     write-host $_.Exception
-     write-host "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
+     Write-Host $_.Exception
+     Write-Host "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
      throw $_.Exception
      exit 1
    }
@@ -449,8 +449,8 @@ function Update-Open
       }
       Catch
       {
-          Write-host "Exception Type: $($_.Exception.GetType().FullName)" -ForegroundColor Red
-          Write-host "Exception Message: $($_.Exception.Message)" -ForegroundColor Red
+          Write-Host "Exception Type: $($_.Exception.GetType().FullName)" -ForegroundColor Red
+          Write-Host "Exception Message: $($_.Exception.Message)" -ForegroundColor Red
 
           Write-Warning -Message "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
           Write-Warning -Message "Update-Open Error"
@@ -493,7 +493,7 @@ function Add-EBidArray
        }
        else
        {
-          write-host "`t`rSkipping $($record.id)" -nonewline -foregroundcolor yellow
+          Write-Host "`t`rSkipping $($record.id)" -nonewline -foregroundcolor yellow
        }
    }
 
@@ -557,7 +557,7 @@ function add-ebid
    -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
    -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining  -Seller $seller
 
-   write-host "Adding $title $($ebiditem.id)"
+   Write-Host "Adding $title $($ebiditem.id)"
 }
 
 function Get-Issues
@@ -594,7 +594,7 @@ function Get-Issues
       }
    }
 
-   write-host "$count unique titles of $title"
+   Write-Host "$count unique titles of $title"
    $issuesfound
 }
 
@@ -770,7 +770,7 @@ function Open-Covers
 
    $padtitle=$title -replace(" ","-")
    $path= "f:\comics\covers\$padtitle\$issue"
-   Write-host "Opening $path"
+   Write-Host "Opening $path"
    & explorer "`"$path`""
 }
 

@@ -25,7 +25,7 @@ function Get-comicxposuredata
    $dollarrate=(Get-gbpdollarrate))
 
    $title=$Record.title.ToUpper()
-   write-Host "$(Get-Date) - Looking for $title @ `"comicxposure`""
+   Write-Host "$(Get-Date) - Looking for $title @ `"comicxposure`""
    $comicxposuredata=(Get-Content "$PSScriptRoot\data\comicxposure\latest.json") -join "`n" | ConvertFrom-Json
 
    $results=$comicxposuredata|where{$_.title.text -match "$title"}|select -uniq
@@ -71,6 +71,6 @@ function Get-comicxposuredata
       $counter++
    }
 
-   write-host "$(Get-Date) - Found $counter"
+   Write-Host "$(Get-Date) - Found $counter"
    $comicxposure
 }

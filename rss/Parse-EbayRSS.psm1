@@ -21,7 +21,7 @@ function Get-RssContent
 	} 
     catch
     {
-		Write-host $_
+		Write-Host $_
 	}
 }
 

@@ -14,7 +14,7 @@ function Write-Prices
    }
    Else
    {
-      Write-host "No data" -ForegroundColor cyan
+      Write-Host "No data" -ForegroundColor cyan
    }
 }
 
@@ -30,15 +30,15 @@ foreach ($record in $searches)
 
 foreach ($title in ($searches.title |select -unique))
 {
-   write-Host "Calculating prices for $title" -ForegroundColor cyan
+   Write-Host "Calculating prices for $title" -ForegroundColor cyan
    $prices= Get-allprices $title
    if ($prices -ne $null)
    {
       write-prices -prices $prices -title $title
-      write-Host "Price table complete" -ForegroundColor green
+      Write-Host "Price table complete" -ForegroundColor green
    }
    else
    {
-       Write-host "No data" -ForegroundColor cyan
+       Write-Host "No data" -ForegroundColor cyan
    }
 }
