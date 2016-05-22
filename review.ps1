@@ -299,7 +299,7 @@ function Set-Issue
    }
 
    #Varianttypes
-   $VariantKeys=("PHANTOM","FIRSTS")
+   $VariantKeys=("PHANTOM","FIRSTS","SDCC")
    foreach($key in $VariantKeys)
    {
        if ($rawtitle.ToUpper() -match $key)
