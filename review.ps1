@@ -25,7 +25,7 @@ function Get-RecordView
    }
    else
    {
-      write-warning "$($record.ebayitem) is null or empty"
+      Write-Warning "$($record.ebayitem) is null or empty"
    }
 
    $ie
@@ -69,7 +69,6 @@ function Set-ComicStatus
          $record.Status="CLOSED"
        }
      }
-     $record.Status="VERIFIED"
    }
    else{
       [string]$newstatus=read-host $record.Status "(V)erified, (C)losed, (E)xpired, (B)ought, (W)atch"
@@ -669,6 +668,7 @@ function Update-RecordOld
          {
            'EXPIRED'
            {
+             Write-Verbose "Update-DB -ebayitem $($record.ebayitem) -Status EXPIRED"
              Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
              $IE[1].Application.Quit()
              return
@@ -717,7 +717,7 @@ function Update-RecordOld
      return
    }
 
-   Write-Host "ActualIssue:$ActualIssue"
+   Write-Verbose "ActualIssue:$ActualIssue"
    $color      =Get-Image  -Title $newtitle -Issue $ActualIssue
    $newquantity=Set-Quantity -record $record -Issue $ActualIssue
 
@@ -792,6 +792,7 @@ function Update-RecordOld
 
    try
    {
+      Write-Verbose "Update-DB -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $($record.status) -bought $($record.bought) -quantity $newquantity -seller $seller -watch $($record.watch)"
       Update-DB -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $record.status -bought $record.bought -quantity $newquantity -seller $seller -watch $record.watch
    }
    catch

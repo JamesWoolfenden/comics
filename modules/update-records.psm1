@@ -90,7 +90,7 @@ function Get-Records
    }
    else
    {
-      write-warning "Disabled new records for $title"
+      Write-Warning "Disabled new records for $title"
    }
 
    Write-Host "`nEbay Stats" -foregroundcolor yellow

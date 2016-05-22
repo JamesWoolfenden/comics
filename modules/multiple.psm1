@@ -91,7 +91,7 @@ function Viewer
    }
    else
    {
-      write-warning "$($record.ebayitem) is null or empty"
+      Write-Warning "$($record.ebayitem) is null or empty"
    }
 
    $ie

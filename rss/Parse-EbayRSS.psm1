@@ -51,7 +51,7 @@ function Get-EbayRssItems
 		  }
 		  catch 
 		  {
-             write-warning "`nFailed to parse item"
+             Write-Warning "`nFailed to parse item"
 		  }
 	   }
     }
