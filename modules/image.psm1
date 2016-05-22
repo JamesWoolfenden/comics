@@ -30,7 +30,7 @@ function test-image
    
    $padtitle=$title -replace(" ","-")
    $padtitle=$padtitle -replace(":","-")
-   write-verbose "Test image: $issue!"
+   Write-Verbose "Test image: $issue!"
    $cover= Get-cover $issue
    $filepath= Get-imagefilename -title $title -issue $issue
    #Write-Host $filepath

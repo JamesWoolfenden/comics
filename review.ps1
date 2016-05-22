@@ -117,7 +117,7 @@ function Set-Title
      [string]$rawtitle,
      [string]$color)
 
-   write-verbose "Set-title"
+   Write-Verbose "Set-title"
    $newtitle=($rawtitle.ToUpper()).Split("#")
    $padtitle=$newtitle -replace(" ","-")
    $found=Test-Path "$PSScriptRoot\covers\$padtitle"
@@ -155,31 +155,42 @@ function Set-Title
 function Set-Issue
 {
    param(
-   [string]$rawissue,
-   [string]$rawtitle,
-   [string]$title,
-   [string]$color)
+        [Parameter(Mandatory=$true)]
+        [string]$rawissue,
+        [Parameter(Mandatory=$true)]
+        [string]$rawtitle,
+        [Parameter(Mandatory=$true)]
+        [string]$title,
+        [Parameter(Mandatory=$true)]
+        [string]$color)
 
    Write-Verbose "$rawissue $rawtitle $color"
+
+   [string]$tempstring=$null
+   [string]$variant=$null
 
    #if its a new record
    if ($rawissue -eq "0")
    {
-      [string]$tempstring=$null
-      [string]$variant=$null
-
+      $lowertitle=$rawtitle.ToLower()
       #might have string saying issue variant
-      if ($rawtitle.Contains("1st"))
+      if (($rawtitle.Contains("1st")) -or ($lowertitle.Contains("first print")))
       {
         $variant="A"
         $rawtitle=$rawtitle -replace "1st"
       }
 
       #might have string saying issue variant
-      if ($rawtitle.Contains("2nd"))
+      if (($rawtitle.Contains("2nd")) -or ($lowertitle.Contains("second print")))
       {
         $variant="B"
-        $rawtitle=$rawtitle -replace "1st"
+        $rawtitle=$rawtitle -replace "2nd"
+      }
+
+      if (($rawtitle.Contains("3rd")) -or ($lowertitle.Contains("third print")))
+      {
+        $variant="C"
+        $rawtitle=$rawtitle -replace "3rd"
       }
 
       #are we lucky to have an issue no?
@@ -191,13 +202,13 @@ function Set-Issue
       {
          $tempstring=($rawtitle.ToUpper() -split("PROG"))[1]
       }else{
-        $tempstring=$rawtitle -replace '\D+'
+         $tempstring=$rawtitle -replace '\D+'+$Variant
       }
 
       #has it split
       if ($tempstring -ne $null)
       {
-          write-verbose "Before estimate tempstring $tempstring"
+          Write-Verbose "Before estimate tempstring $tempstring"
           $splitstring=($tempstring.Trim()).split(" ")
 
           if ($splitstring -is [system.array])
@@ -214,21 +225,21 @@ function Set-Issue
              $estimateIssue=$null
           }
 
-          write-verbose "Tempstring $tempstring $($tempstring.GetType())"
-          write-verbose "GuessTitle -title $title -issue $estimateIssue"
+          Write-Verbose "Tempstring $tempstring $($tempstring.GetType())"
+          Write-Verbose "GuessTitle -title $title -issue $estimateIssue"
           $estimateIssue=GuessTitle -title $title -issue $estimateIssue
-          write-verbose "After estimate $estimateIssue"
+          Write-Verbose "After estimate $estimateIssue"
       }
       else
       {
          $tempstring=@()
-         write-verbose "No split # $($rawtitle -split('No'))"
+         Write-Verbose "No split # $($rawtitle -split('No'))"
          #maybe used no to indicate version
 
          if ($rawtitle -Contains("No"))
          {
             $tempstring=$rawtitle -split("No")
-            write-verbose "Split on No $tempstring"
+            Write-Verbose "Split on No $tempstring"
 
             $splitspaces=($tempstring[1].Trim()).split(" ")
 
@@ -243,12 +254,12 @@ function Set-Issue
 
             Write-Host "Before estimate estimateIssue $estimateIssue"
             $estimateIssue=GuessTitle -title $title -issue "$estimateIssue"
-            write-verbose "After estimate $estimateIssue"
+            Write-Verbose "After estimate $estimateIssue"
          }
          else
          {
             $edition=""
-            write-verbose "No splits $rawissue"
+            Write-Verbose "No splits $rawissue"
             if ($rawtitle -match "1st")
             {
                $rawtitle =$rawtitle.Replace("1st","")
@@ -296,6 +307,7 @@ function Set-Issue
           $estimateIssue=($estimateIssue -replace '\D+')+$key
        }
    }
+
 
    #modifiers
    $keys=("CGC","SIGNED")
@@ -357,11 +369,11 @@ function Set-Issue
          $filepath= Get-imagefilename -title $newtitle -issue $actualIssue
          Write-Host "Downloading from $($record.Imagesrc) "
          Write-Host "Writing to $filepath"
-         Set-ImageFolder $newtitle $actualIssue
+         Set-ImageFolder $newtitle $actualIssue|Out-null
 
          try
          {
-            Invoke-webRequest $record.ImageSrc -outfile $filepath
+            Invoke-WebRequest $record.ImageSrc -outfile $filepath
          }
          catch
          {
@@ -373,7 +385,7 @@ function Set-Issue
          Write-Host "No image data"
       }
    }
-   write-verbose "Finished setting title"
+   Write-Verbose "Finished setting title"
    $actualIssue
 
  }
@@ -494,75 +506,72 @@ function Get-EbaySaleStatus
     param(
       [Parameter(Mandatory=$true)]
       [PSObject]$record,
-      [string]$salestatus="live")
+      [string]$salestatus="LIVE")
 
     $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
 
-    [string]$status=(scrape $url 'span#w1-3-_msg')
-    [string]$delisted=(scrape $url 'div.sml-cnt')
+    [string]$Status=(scrape $url 'span#w1-3-_msg')
+    [string]$delisted=(scrape $url 'div.sml-cnt').trim()
 
-     write-verbose "Status   : $Status"
-
-    if (!$delisted)
+    if (!([BOOL]$delisted))
     {
-      switch ($status.trim())
+      Write-Verbose "Not delisted, checking state: $Status"
+      switch ($Status.trim())
       {
-        "This Buy it now listing has ended."
-        {
-          $salestatus="expired"
-        }
-        "Bidding has ended on this item."
-        {
-          #returns no of bids as string
-          $bids=scrape $url  "a#vi-VR-bid-lnk.vi-bidC"
-          $salestatus="sold"
+          "This Buy it now listing has ended."
+          {
+             Write-Verbose "This Buy it now listing has ended."
+             $salestatus="EXPIRED"
+          }
+          "Bidding has ended on this item."
+          {
+             Write-Verbose "Bidding has ended on this item."
+             #returns no of bids as string
+             $bids=scrape $url  "a#vi-VR-bid-lnk.vi-bidC"
+             $salestatus="SOLD"
 
-          if ($bids)
-          {
-            #check to see if no bids
-            if (Test-NoBids -bids $bids)
-            {
-               $salestatus="expired"
-            }
+             if ($bids)
+             {
+                #check to see if no bids
+                if (Test-NoBids -bids $bids)
+                {
+                   $salestatus="EXPIRED"
+                }
+             }
           }
-        }
-        "This listing has ended."
-        {
-          $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
-          if ($result)
+          "This listing was ended by the seller because the item is no longer available."
           {
-            $salestatus="sold"
+             Write-Verbose     "This listing was ended by the seller because the item is no longer available."
+             $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
+
+             if ($result)
+             {
+                $salestatus="SOLD"
+             }
+             else
+             {
+                $salestatus="EXPIRED"
+             }
           }
-          else
+          {($_ -match "This listing has ended") }
           {
-            $salestatus="expired"
-          }
-        }
-        "This listing was ended by the seller because the item is no longer available."
-        {
-          $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
-          if ($result)
+             Write-Verbose "Caught by or logic"
+             $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
+             if ($result)
+             {
+               $salestatus="SOLD"
+             }
+             else
+             {
+                $salestatus="EXPIRED"
+             }
+           }
+          default
           {
-            $salestatus="sold"
+            Write-Host "Default"
+            $salestatus="LIVE"
           }
-          else
-          {
-            $salestatus="expired"
-          }
-        }
-        "This listing was ended by the seller because there was an error in the listing."
-        {
-          $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
-          if ($result)
-          {
-            $salestatus="sold"
-          }
-          else
-          {
-            $salestatus="expired"
-          }
-        }
-      }
+         }
     }
     else
     {
@@ -687,7 +696,7 @@ function Update-RecordOld
 	    default
 	    {
            Write-Host "Detected default ebid"
-	         Write-verbose "Record: $($record.postage)"
+	         Write-Verbose "Record: $($record.postage)"
            $estimate=$record.postage
 
            $seller=Get-EbidSeller -url $record.link
@@ -709,7 +718,7 @@ function Update-RecordOld
    }
 
    Write-Host "ActualIssue:$ActualIssue"
-   $color      =Get-Image  -title $newtitle -issue $ActualIssue
+   $color      =Get-Image  -Title $newtitle -Issue $ActualIssue
    $newquantity=Set-Quantity -record $record -Issue $ActualIssue
 
    $priceestimate=0

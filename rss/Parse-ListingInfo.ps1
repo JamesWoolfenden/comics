@@ -75,7 +75,7 @@ Function Parse-ListingInfo
 		try 
         {
 			$ENDDATE_REGEX = [regex]  ".*(End date: <span>+)(?'EndDate'[^<]+).*"
-			write-verbose "$description"
+			Write-Verbose "$description"
 			if($description -match $ENDDATE_REGEX) 
             {
 				$EndDate = $Matches.EndDate

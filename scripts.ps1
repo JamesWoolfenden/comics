@@ -133,7 +133,7 @@ function Add-Array
                  #record exists check its not expired or closed
 			     if (($foundrecord.Status -eq "Open") -or ($foundrecord.Status -eq "Verified"))
 			     {
-                    write-verbose " Update-DB -ebayitem $($set.Ebayitem) -status $status -price $($set.CurrentPrice)"
+                    Write-Verbose " Update-DB -ebayitem $($set.Ebayitem) -status $status -price $($set.CurrentPrice)"
 			        if ($status -eq "Open")
                     {
 			           Update-DB -ebayitem $set.Ebayitem -price $set.CurrentPrice
@@ -461,7 +461,7 @@ function Get-EBidResults
 {
    param([string]$url)
 
-   write-verbose "Getting $url"
+   Write-Verbose "Getting $url"
    invoke-restmethod -uri "$url"
 }
 
@@ -689,15 +689,15 @@ function Get-EBIDRecords
       $stringinclude =$search.include -join "%20-"
    }
 
-   write-verbose "Exclude: $stringexclude"
-   write-verbose "Include: $stringinclude"
+   Write-Verbose "Exclude: $stringexclude"
+   Write-Verbose "Include: $stringinclude"
 
    foreach($category in $search.category)
    {
-      write-verbose "$(Get-date) - category :$category"
+      Write-Verbose "$(Get-date) - category :$category"
       $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=$category&categoryid=$category&categoryonly=on&mo=search&type=keyword"
 
-      write-verbose "Querying Ebid $url"
+      Write-Verbose "Querying Ebid $url"
       $ebidresults=Get-ebidresults -url "$url"
 
 	  [int]$OpenCount=0
@@ -740,7 +740,7 @@ function Get-AllRecords
    Write-Host "`nFinding: $($search.title)" -ForegroundColor cyan
    Get-ebidrecords -search $search
    Get-records     -search $search
-   write-verbose "`r`nComplete."
+   Write-Verbose "`r`nComplete."
 }
 
 function Open-Covers

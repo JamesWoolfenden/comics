@@ -54,7 +54,7 @@ function Get-BestBuys
 
    foreach($record in $results)
    {
-      write-verbose "Get-priceestimate -title $($record.title) -issue $($record.issue)"
+      Write-Verbose "Get-priceestimate -title $($record.title) -issue $($record.issue)"
       $prices=Get-priceestimate -title $($record.title) -issue $($record.issue)
 
       $CurrentPrice=0

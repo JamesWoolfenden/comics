@@ -52,7 +52,7 @@ function Get-Cover
 
    Try
    {
-      write-verbose "Analysing cover $dirty"
+      Write-Verbose "Analysing cover $dirty"
       if ($dirty.Contains("#"))
       {
          $dirty=$dirty.split("#")[1]
@@ -144,7 +144,7 @@ function Add-Record
    VALUES
    ('$title', '$Price', '$Issue', '$bought', '$DateOfSale', '$status','$postage', '$Description','$PublishDate', '$ebayitem',$Quantity, '$AuctionType', '$BestOffer', '$BidCount', '$BuyItNowPrice', '$CloseDate', '$ImageSrc', '$Link', '$site', '$remaining', '$seller', '$saledate','$Price', '$Parentid', '$split')"
 
-   write-verbose $cmd.commandtext
+   Write-Verbose $cmd.commandtext
    $result=$cmd.executenonquery()
    $conn.close()
 }

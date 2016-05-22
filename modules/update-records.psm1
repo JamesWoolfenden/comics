@@ -35,7 +35,7 @@ function Get-Records
    }
 
    #this is the sold items
-   write-verbose "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {`$_.BidCount -ne '0'}"
+   Write-Verbose "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {`$_.BidCount -ne '0'}"
    $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold' -categories $search.category
 
    [int]$SoldCount=0
@@ -54,7 +54,7 @@ function Get-Records
    }
 
    # this is the closed results
-   write-verbose "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {`$_.BidCount -ne '0'}"
+   Write-Verbose "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {`$_.BidCount -ne '0'}"
    $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed' -categories $search.category|where {$_.BidCount -eq "0"}
 
    [int]$ExpiredCount = 0
@@ -122,7 +122,7 @@ function Get-EbayRecordBlock
    $url="http://www.ebay.co.uk/itm/$($ebayitem)?"
 
    #scrape $url "div#CenterPanelInternal"
-   write-verbose "ScrapeBlock $url span#prcIsum.notranslate .sh-fr-cst mbg-nw"
+   Write-Verbose "ScrapeBlock $url span#prcIsum.notranslate .sh-fr-cst mbg-nw"
    ScrapeBlock $url  "span#prcIsum.notranslate" ".sh-fr-cst" "span.mbg-nw"
 }
 

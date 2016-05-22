@@ -15,7 +15,7 @@ function Get-fpdata
    $site="Forbidden Planet"
    #$url="https://www.kimonolabs.com/api/ca9vxpfa?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
    $url="https://www.kimonolabs.com/api/ondemand/ca9vxpfa?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
-   write-verbose "Accessing $url"
+   Write-Verbose "Accessing $url"
    Write-Host "$(Get-Date) - Looking for $title @ `"$site`""
 
 <# Postage
@@ -57,7 +57,7 @@ function Get-fpdata
    foreach($result in $results)
    {
       $record= New-Object System.Object
-      write-verbose "Counter $counter"
+      Write-Verbose "Counter $counter"
       if (($result.price[0] -eq "Pre-order") -or ($result.price[0] -eq "Web Price"))
       {
          $url=$null

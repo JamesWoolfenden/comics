@@ -20,7 +20,7 @@ function Get-CloseencountersData
 
    $url="https://www.kimonolabs.com/api/ondemand/9u9wvzya?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
 
-   write-verbose "Accessing $url"
+   Write-Verbose "Accessing $url"
    Write-Host "$(Get-Date) - Looking for $($record.title) @ `"$site`""
 
 <# Postage
