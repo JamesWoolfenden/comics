@@ -511,6 +511,7 @@ function Get-EbaySaleStatus
 
     [string]$Status=(scrape $url 'span#w1-3-_msg')
     [string]$delisted=(scrape $url 'div.sml-cnt').trim()
+    #[string]$delisted=(scrape $url 'h1.pivHdr').trim()
 
     if (!([BOOL]$delisted))
     {

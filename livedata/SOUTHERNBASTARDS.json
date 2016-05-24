@@ -8,7 +8,7 @@
         "variant":  "1FP",
         "price":  10,
         "currency":  "\u0026pound;",
-        "rundate":  "16-5-2016",
+        "rundate":  "23-5-2016",
         "site":  "Auction"
     },
     {
@@ -20,7 +20,19 @@
         "variant":  "set",
         "price":  50,
         "currency":  "\u0026pound;",
-        "rundate":  "16-5-2016",
+        "rundate":  "23-5-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/SOUTHERN-BASTARDS-1-IMAGE-HOT-/112003113544?hash=item1a13e7e248:g:EloAAOSwiYFXF5MS",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SOUTHERN-BASTARDS-1-IMAGE-HOT-/112003113544?hash=item1a13e7e248:g:EloAAOSwiYFXF5MS\"\u003ehttp://www.ebay.co.uk/itm/SOUTHERN-BASTARDS-1-IMAGE-HOT-/112003113544?hash=item1a13e7e248:g:EloAAOSwiYFXF5MS\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SOUTHERN BASTARDS",
+        "issue":  "1",
+        "variant":  "1C",
+        "price":  5.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "23-5-2016",
         "site":  "Auction"
     }
 ]
