@@ -113,17 +113,15 @@ function Set-Title
 {
    param(
      [Parameter(Mandatory=$true)]
-     [string]$rawtitle,
-     [string]$color)
+     [string]$rawtitle)
 
    Write-Verbose "Set-title"
    $newtitle=($rawtitle.ToUpper()).Split("#")
-   $padtitle=$newtitle -replace(" ","-")
-   $found=Test-Path "$PSScriptRoot\covers\$padtitle"
-   Write-Verbose "Title at $PSScriptRoot\covers\$padtitle"
+   $padtitle=$newtitle.replace(" ","-")
 
-   if ($found)
+   if (Test-Path "$PSScriptRoot\covers\$padtitle")
    {
+      Write-Verbose "Title at $PSScriptRoot\covers\$padtitle"
       Write-Host "Title $($newtitle[0]):" -NoNewline -ForegroundColor green
    }
    else
@@ -131,7 +129,7 @@ function Set-Title
       Write-Host "New Title? $($newtitle[0]):" -NoNewline -ForegroundColor Yellow
    }
 
-   $title=read-host
+   $title=[string](Read-Host)
 
    If (($title -eq $null) -or ($title -eq ""))
    {
@@ -145,10 +143,10 @@ function Set-Title
    $padtitle=$returntitle -replace(" ","-")
    if (!(test-Path $PSScriptRoot\covers\$padtitle))
    {
-     Write-Host "New title: $returntitle" -ForegroundColor cyan
+      Write-Host "New title: $returntitle" -ForegroundColor cyan
    }
 
-   $returntitle
+   $returntitle.ToUpper()
 }
 
 function Set-Issue
@@ -365,7 +363,7 @@ function Set-Issue
       if ($($record.ImageSrc))
       {
          Write-Host "Updating Library with image of $newtitle : $actualIssue" -foregroundcolor cyan
-         $filepath= Get-imagefilename -title $newtitle -issue $actualIssue
+         $filepath= Get-ImageFilename -title $newtitle -issue $actualIssue
          Write-Host "Downloading from $($record.Imagesrc) "
          Write-Host "Writing to $filepath"
          Set-ImageFolder $newtitle $actualIssue|Out-null
@@ -707,7 +705,8 @@ function Update-RecordOld
    }
 
    $color      =Get-Image  -title $($record.Title) -issue $record.Issue
-   $newtitle   =(Set-Title -rawtitle $($record.Title) -color $color).ToUpper()
+   Write-Host  "Set-Title -rawtitle $($record.Title)"
+   $newtitle   =Set-Title -rawtitle $($record.Title)
    Write-Verbose "Set-Issue -rawissue `"$($record.Issue)`" -rawtitle `"$($record.Description)`" -title `"$newtitle`" -color $color"
    $ActualIssue=Set-Issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
 
