@@ -508,8 +508,11 @@ function Get-EbaySaleStatus
     $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
 
     [string]$Status=(scrape $url 'span#w1-3-_msg')
+
     [string]$delisted=(scrape $url 'div.sml-cnt').trim()
-    #[string]$delisted=(scrape $url 'h1.pivHdr').trim()
+    if (!($delisted)){
+      $delisted=[string]$delisted=(scrape $url 'h1.pivHdr').trim()
+    } 
 
     if (!([BOOL]$delisted))
     {
