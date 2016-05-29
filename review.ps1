@@ -296,7 +296,7 @@ function Set-Issue
    }
 
    #Varianttypes
-   $VariantKeys=("PHANTOM","FIRSTS","SDCC")
+   $VariantKeys=("PHANTOM","FIRSTS","SDCC","GHOST","HASTINGS")
    foreach($key in $VariantKeys)
    {
        if ($rawtitle.ToUpper() -match $key)
@@ -512,7 +512,7 @@ function Get-EbaySaleStatus
     [string]$delisted=(scrape $url 'div.sml-cnt').trim()
     if (!($delisted)){
       $delisted=[string]$delisted=(scrape $url 'h1.pivHdr').trim()
-    } 
+    }
 
     if (!([BOOL]$delisted))
     {
@@ -524,7 +524,7 @@ function Get-EbaySaleStatus
              Write-Verbose "This Buy it now listing has ended."
              $salestatus="EXPIRED"
           }
-          "Bidding has ended on this item."
+          {($_ -match "Bidding has ended on this item")}
           {
              Write-Verbose "Bidding has ended on this item."
              #returns no of bids as string
@@ -540,7 +540,7 @@ function Get-EbaySaleStatus
                 }
              }
           }
-          "This listing was ended by the seller because the item is no longer available."
+          {($_ -match "This listing was ended") }
           {
              Write-Verbose     "This listing was ended by the seller because the item is no longer available."
              $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
@@ -708,7 +708,7 @@ function Update-RecordOld
    }
 
    $color      =Get-Image  -title $($record.Title) -issue $record.Issue
-   Write-Host  "Set-Title -rawtitle $($record.Title)"
+   Write-Verbose  "Set-Title -rawtitle $($record.Title)"
    $newtitle   =Set-Title -rawtitle $($record.Title)
    Write-Verbose "Set-Issue -rawissue `"$($record.Issue)`" -rawtitle `"$($record.Description)`" -title `"$newtitle`" -color $color"
    $ActualIssue=Set-Issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
