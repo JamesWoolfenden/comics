@@ -4,6 +4,7 @@ import (
     "encoding/json"
     "fmt"
     "net/http"
+    "io/ioutil"
     "github.com/gorilla/mux"
 )
 
@@ -13,11 +14,14 @@ func Index(w http.ResponseWriter, r *http.Request) {
 
 func ComicIndex(w http.ResponseWriter, r *http.Request) {
 
-  comics := Comics{
-        Comic{Name: "Afterlife with Archie"},
-        Comic{Name: "The Walking Dead"},
-        Comic{Name: "Chew"},
-      }
+  var comics []Comic
+  x:=0
+
+  files, _ := ioutil.ReadDir("..\\..\\covers")
+    for _, f := range files {
+        comics=append(comics, Comic{Name:f.Name(), Id:x})
+                  x++
+          }
 
       w.Header().Set("Content-Type", "application/json; charset=UTF-8")
       w.WriteHeader(http.StatusOK)
@@ -65,11 +69,15 @@ func ComicCreate(w http.ResponseWriter, r *http.Request) {
 }
 
 func CoverIndex(w http.ResponseWriter, r *http.Request) {
-  publishers := Publishers{
-        Publisher{Name: "Image"},
-        Publisher{Name: "DC"},
-        Publisher{Name: "Marvel"},
-      }
+
+      var publishers []Publisher
+      x:=0
+
+      files, _ := ioutil.ReadDir("..\\publishers")
+          for _, f := range files {
+                  publishers=append(publishers, Publisher{Name:f.Name(), Id:x})
+                  x++
+          }
 
       w.Header().Set("Content-Type", "application/json; charset=UTF-8")
       w.WriteHeader(http.StatusOK)
@@ -80,6 +88,7 @@ func CoverIndex(w http.ResponseWriter, r *http.Request) {
 }
 
 func CoverShow(w http.ResponseWriter, r *http.Request) {
+
     vars := mux.Vars(r)
     coverId := vars["coverId"]
     fmt.Fprintln(w, "Covers show:", coverId)

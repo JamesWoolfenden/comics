@@ -14,7 +14,7 @@ type Comics []Comic
 type Title struct {
   Id     int       `json:"id"`
   Name string      `json:"name"`
-  Publisher string `json:"publisher"`
+  PublisherID int  `json:"publisherid"`
   Writer string    `json:"writer"`
   Artist string    `json:"artist"`
 }
@@ -23,13 +23,24 @@ type Titles []Title
 
 type Issue  struct {
   Id      int       `json:"id"`
-  Title string      `json:"title"`
-  Signed bool       `json:"signed"`
+  TitleID   int     `json:"titleid"`
   Variant string    `json:"variant"`
-  Grade float32     `json:"grade"`
+  ImageSrc string   `json:"imagesrc"`
 }
 
 type Issues []Issue
+
+type Sale struct {
+  Id     int             `json:"id"`
+  Signed bool            `json:"signed"`
+  IssueID  int           `json:"issueid"`
+  Grade  float32         `json:"grade"`
+  Price  float32         `json:"price"`
+  SaleDate time.Time     `json:"saledate"`
+}
+
+type Sales []Sale
+
 
 type Publisher struct {
   Id     int       `json:"id"`
