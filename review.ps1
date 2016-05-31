@@ -54,13 +54,14 @@ function Set-ComicStatus
 {
    param(
      [PSObject]$record,
-   [string]$salestatus=$NULL)
+     [string]$salestatus=$NULL)
 
+   Write-host "$salestatus"
    if ($salestatus)
    {
      switch($salestatus)
      {
-       'LIVE'
+       {($_ -match 'LIVE') -or ($_ -match 'VERIFIED')}
        {
          $record.Status="VERIFIED"
        }
@@ -106,6 +107,7 @@ function Set-ComicStatus
       }
    }
    }
+
    $record
 }
 
@@ -717,6 +719,7 @@ function Update-RecordOld
    if(!$ActualIssue)
    {
      $IE[1].Application.Quit()
+     write-host "Premature return"
      return
    }
 

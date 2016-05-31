@@ -13,6 +13,9 @@ import-module "$PSScriptRoot\Core.ps1" -force
 import-module "$PSScriptRoot\modules\Search-Data.psd1" -force
 import-module "$PSScriptRoot\Review.ps1" -force
 
+function waitforpageload {
+    while ($ie.Busy -eq $true) { Start-Sleep -Milliseconds 1000; }
+}
 
 function findDiv {param ($name)
     $ie.Document.getElementsByTagName("div") | where-object {$_.id -and $_.id.EndsWith($name)}
@@ -54,9 +57,6 @@ function Add-Array
    [Parameter(Mandatory=$true)]
    [string]$status)
 
-   #first lets read in all existing related items
-   #$test=read-db
-
    $list=Search-DB "Where Ebayitem != NULL"|select -property Ebayitem
    $Ebayitems=$list|foreach {"$($_.EbayItem)"}
 
@@ -66,7 +66,7 @@ function Add-Array
 
       foreach ($set in $resultset)
       {
-		  $foundrecord=Search-DB -where "where ebayitem = '$($set.ebayitem)'"
+         $foundrecord=Search-DB -where "where ebayitem = '$($set.ebayitem)'"
 
           #new and not expired records
           if (!($foundrecord) -and ($status -ne "Expired"))
@@ -87,16 +87,16 @@ function Add-Array
                 $CurrentPrice=$set.CurrentPrice
              }
              else
-			 {
+			       {
                 $CurrentPrice=0
              }
 
              [string]$bestOffer=$set.BestOffer.ToString()
 
-			 try
-			 {
-			    add-record -title $title -issue $issue -price $CurrentPrice -bought $false `
-			               -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
+			       try
+			       {
+			          Add-Record -title $title -issue $issue -price $CurrentPrice -bought $false `
+                           -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
                            -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $BestOffer -BidCount $set.BidCount `
                            -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate `
 			               -ImageSrc $set.ImageSrc -Link $set.Link
@@ -408,7 +408,7 @@ function Update-Open
    #>
    param(
 	   [string]$title=$NULL,
-       [switch]$sort)
+     [switch]$sort)
 
    if ($title)
    {
@@ -443,7 +443,19 @@ function Update-Open
    foreach($record in $results)
    {
       Write-Host "Record $index of $count"
-      Update-Record $record -Old
+
+      Try
+      {
+         Update-Record -record $record -Old
+      }
+      Catch
+      {
+          Write-Host "Exception Type: $($_.Exception.GetType().FullName)" -ForegroundColor Red
+          Write-Host "Exception Message: $($_.Exception.Message)" -ForegroundColor Red
+
+          Write-Warning -Message "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
+          Write-Warning -Message "Update-Open Error"
+      }
 
       $index ++
    }
@@ -542,7 +554,7 @@ function Add-EBID
       $description=""
    }
 
-   add-record -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description "$description"`
+   Add-Record -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description "$description"`
    -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
    -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining  -Seller $seller
 
@@ -623,7 +635,7 @@ function DateString
    "$($date.day)-$($date.month)-$($date.year)"
 }
 
-function Closing-Record
+function Set-RecordClose
 {
    Param(
    [Parameter(Mandatory=$true)]
@@ -767,9 +779,9 @@ new-alias gb Get-BestBuy -force
 new-alias fr Get-RecordsFinalize -force
 new-alias ur Update-Recordset -force
 new-alias np Atom -force
-new-alias cr Closing-Record -force
+new-alias cr Set-RecordClose -force
 new-alias ep Get-PriceEstimate -force
-new-alias ap Get-allprices -force
+new-alias ap Get-AllPrices -force
 new-alias uo Update-Open -force
 new-alias bs Get-SellerItems -force
 new-alias byseller Get-SellerItems -force

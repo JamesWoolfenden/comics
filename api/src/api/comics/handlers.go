@@ -88,8 +88,8 @@ func CoverIndex(w http.ResponseWriter, r *http.Request) {
 }
 
 func CoverShow(w http.ResponseWriter, r *http.Request) {
-
+    Id   := r.FormValue("id")
     vars := mux.Vars(r)
     coverId := vars["coverId"]
-    fmt.Fprintln(w, "Covers show:", coverId)
+    fmt.Fprintln(w, "Covers show:", coverId, Id)
 }
