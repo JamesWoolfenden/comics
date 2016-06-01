@@ -122,7 +122,7 @@ function Get-EbayRecordBlock
    $url="http://www.ebay.co.uk/itm/$($ebayitem)?"
 
    #scrape $url "div#CenterPanelInternal"
-   write-verbose "ScrapeBlock $url span#prcIsum.notranslate .sh-fr-cst mbg-nw"
+   write-verbose "ScrapeBlock $url span#prcIsum.notranslate .sh-fr-cst mbg-nw  span.mbg-nw"
    ScrapeBlock $url  "span#prcIsum.notranslate" ".sh-fr-cst" "span.mbg-nw"
 }
 
