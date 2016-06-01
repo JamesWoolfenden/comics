@@ -25,7 +25,7 @@ function Get-RecordView
    }
    else
    {
-      write-warning "$($record.ebayitem) is null or empty"
+      Write-Warning "$($record.ebayitem) is null or empty"
    }
 
    $ie
@@ -54,13 +54,14 @@ function Set-ComicStatus
 {
    param(
      [PSObject]$record,
-   [string]$salestatus=$NULL)
+     [string]$salestatus=$NULL)
 
+   Write-host "$salestatus"
    if ($salestatus)
    {
      switch($salestatus)
      {
-       'LIVE'
+       {($_ -match 'LIVE') -or ($_ -match 'VERIFIED')}
        {
          $record.Status="VERIFIED"
        }
@@ -69,7 +70,6 @@ function Set-ComicStatus
          $record.Status="CLOSED"
        }
      }
-     $record.Status="VERIFIED"
    }
    else{
       [string]$newstatus=read-host $record.Status "(V)erified, (C)losed, (E)xpired, (B)ought, (W)atch"
@@ -107,6 +107,7 @@ function Set-ComicStatus
       }
    }
    }
+
    $record
 }
 
@@ -114,25 +115,23 @@ function Set-Title
 {
    param(
      [Parameter(Mandatory=$true)]
-     [string]$rawtitle,
-     [string]$color)
+     [string]$rawtitle)
 
-   write-verbose "Set-title"
+   Write-Verbose "Set-title"
    $newtitle=($rawtitle.ToUpper()).Split("#")
-   $padtitle=$newtitle -replace(" ","-")
-   $found=Test-Path "$PSScriptRoot\covers\$padtitle"
-   Write-Verbose "Title at $PSScriptRoot\covers\$padtitle"
+   $padtitle=$newtitle.replace(" ","-")
 
-   if ($found)
+   if (Test-Path "$PSScriptRoot\covers\$padtitle")
    {
-      write-Host "Title $($newtitle[0]):" -NoNewline -ForegroundColor green
+      Write-Verbose "Title at $PSScriptRoot\covers\$padtitle"
+      Write-Host "Title $($newtitle[0]):" -NoNewline -ForegroundColor green
    }
    else
    {
-      write-Host "New Title? $($newtitle[0]):" -NoNewline -ForegroundColor Yellow
+      Write-Host "New Title? $($newtitle[0]):" -NoNewline -ForegroundColor Yellow
    }
 
-   $title=read-host
+   $title=[string](Read-Host)
 
    If (($title -eq $null) -or ($title -eq ""))
    {
@@ -146,28 +145,52 @@ function Set-Title
    $padtitle=$returntitle -replace(" ","-")
    if (!(test-Path $PSScriptRoot\covers\$padtitle))
    {
-     write-Host "New title: $returntitle" -ForegroundColor cyan
+      Write-Host "New title: $returntitle" -ForegroundColor cyan
    }
 
-   $returntitle
-
-
+   $returntitle.ToUpper()
 }
 
 function Set-Issue
 {
    param(
-   [string]$rawissue,
-   [string]$rawtitle,
-   [string]$title,
-   [string]$color)
+        [Parameter(Mandatory=$true)]
+        [string]$rawissue,
+        [Parameter(Mandatory=$true)]
+        [string]$rawtitle,
+        [Parameter(Mandatory=$true)]
+        [string]$title,
+        [Parameter(Mandatory=$true)]
+        [string]$color)
 
-   write-verbose "$rawissue $rawtitle $color"
+   Write-Verbose "$rawissue $rawtitle $color"
+
+   [string]$tempstring=$null
+   [string]$variant=$null
 
    #if its a new record
    if ($rawissue -eq "0")
    {
-      [string]$tempstring=$null
+      $lowertitle=$rawtitle.ToLower()
+      #might have string saying issue variant
+      if (($rawtitle.Contains("1st")) -or ($lowertitle.Contains("first print")))
+      {
+        $variant="A"
+        $rawtitle=$rawtitle -replace "1st"
+      }
+
+      #might have string saying issue variant
+      if (($rawtitle.Contains("2nd")) -or ($lowertitle.Contains("second print")))
+      {
+        $variant="B"
+        $rawtitle=$rawtitle -replace "2nd"
+      }
+
+      if (($rawtitle.Contains("3rd")) -or ($lowertitle.Contains("third print")))
+      {
+        $variant="C"
+        $rawtitle=$rawtitle -replace "3rd"
+      }
 
       #are we lucky to have an issue no?
       if ($rawtitle.Contains("#"))
@@ -177,12 +200,14 @@ function Set-Issue
       elseif (($rawtitle.ToUpper()).Contains("PROG"))
       {
          $tempstring=($rawtitle.ToUpper() -split("PROG"))[1]
+      }else{
+         $tempstring=$rawtitle -replace '\D+'+$Variant
       }
 
       #has it split
       if ($tempstring -ne $null)
       {
-          write-verbose "Before estimate tempstring $tempstring"
+          Write-Verbose "Before estimate tempstring $tempstring"
           $splitstring=($tempstring.Trim()).split(" ")
 
           if ($splitstring -is [system.array])
@@ -199,21 +224,21 @@ function Set-Issue
              $estimateIssue=$null
           }
 
-          write-verbose "Tempstring $tempstring $($tempstring.GetType())"
-          write-verbose "GuessTitle -title $title -issue $estimateIssue"
+          Write-Verbose "Tempstring $tempstring $($tempstring.GetType())"
+          Write-Verbose "GuessTitle -title $title -issue $estimateIssue"
           $estimateIssue=GuessTitle -title $title -issue $estimateIssue
-          write-verbose "After estimate $estimateIssue"
+          Write-Verbose "After estimate $estimateIssue"
       }
       else
       {
          $tempstring=@()
-         write-verbose "No split # $($rawtitle -split('No'))"
+         Write-Verbose "No split # $($rawtitle -split('No'))"
          #maybe used no to indicate version
 
          if ($rawtitle -Contains("No"))
          {
             $tempstring=$rawtitle -split("No")
-            write-verbose "Split on No $tempstring"
+            Write-Verbose "Split on No $tempstring"
 
             $splitspaces=($tempstring[1].Trim()).split(" ")
 
@@ -226,14 +251,14 @@ function Set-Issue
                $estimateIssue=$tempstring
             }
 
-            write-host "Before estimate estimateIssue $estimateIssue"
+            Write-Host "Before estimate estimateIssue $estimateIssue"
             $estimateIssue=GuessTitle -title $title -issue "$estimateIssue"
-            write-verbose "After estimate $estimateIssue"
+            Write-Verbose "After estimate $estimateIssue"
          }
          else
          {
             $edition=""
-            write-verbose "No splits $rawissue"
+            Write-Verbose "No splits $rawissue"
             if ($rawtitle -match "1st")
             {
                $rawtitle =$rawtitle.Replace("1st","")
@@ -257,7 +282,7 @@ function Set-Issue
       #while nothings been entered continue
       while (($estimateIssue -eq "0") -or ($estimateIssue -eq ""))
       {
-         write-host "Estimate issue ($rawIssue):" -Foregroundcolor $color -nonewline
+         Write-Host "Estimate issue ($rawIssue):" -Foregroundcolor $color -nonewline
          $estimateIssue=read-host
       }
    }
@@ -266,8 +291,25 @@ function Set-Issue
       $estimateIssue=$rawIssue
    }
 
-   $Keys=("PHANTOM","CGC","SIGNED")
+   #decide whether to add string
+   if (!(Test-Image -title $title -issue $estimateIssue))
+   {
+     $estimateIssue+=$Variant
+   }
 
+   #Varianttypes
+   $VariantKeys=("PHANTOM","FIRSTS","SDCC","GHOST","HASTINGS")
+   foreach($key in $VariantKeys)
+   {
+       if ($rawtitle.ToUpper() -match $key)
+       {
+          $estimateIssue=($estimateIssue -replace '\D+')+$key
+       }
+   }
+
+
+   #modifiers
+   $keys=("CGC","SIGNED")
    foreach($key in $Keys)
    {
       if ($rawtitle.ToUpper() -match $key)
@@ -275,16 +317,16 @@ function Set-Issue
          if ($estimateIssue -notmatch $key)
          {
             $estimateIssue+=$key
-            write-host "Added $key to $estimateIssue"
+            Write-Host "Added $key to $estimateIssue"
          }
          else
          {
-            write-host "Found $key in $estimateIssue"
+            Write-Host "Found $key in $estimateIssue"
          }
       }
    }
 
-   write-host "Issue $($estimateIssue) - (i)dentify, (c)lose:" -Foregroundcolor $color -nonewline
+   Write-Host "Issue $($estimateIssue) - (i)dentify, (c)lose:" -Foregroundcolor $color -nonewline
    $actualIssue=(read-host).ToUpper()
 
    switch($actualIssue)
@@ -293,16 +335,16 @@ function Set-Issue
       {
           if (($estimateIssue -replace("\D","")) -eq "")
           {
-             write-host "Estimate Cover Issue:" -Foregroundcolor $color -nonewline
+             Write-Host "Estimate Cover Issue:" -Foregroundcolor $color -nonewline
              $cover=read-host
           }
           else
           {
-             $cover=Get-cover $estimateIssue
+             $cover=Get-Cover $estimateIssue
           }
 
           $actualIssue=Get-ImageTitle -issue $cover -title $newtitle
-          write-host "Choose $actualIssue" -ForegroundColor cyan
+          Write-Host "Choose $actualIssue" -ForegroundColor cyan
       }
       "C"
       {
@@ -318,31 +360,31 @@ function Set-Issue
       }
    }
 
-   if (!(test-image -title $newtitle -issue $actualIssue))
+   if (!(Test-Image -title $newtitle -issue $actualIssue))
    {
       if ($($record.ImageSrc))
       {
-         Write-host "Updating Library with image of $newtitle : $actualIssue" -foregroundcolor cyan
-         $filepath= Get-imagefilename -title $newtitle -issue $actualIssue
-         Write-host "Downloading from $($record.Imagesrc) "
-         Write-host "Writing to $filepath"
-         Set-ImageFolder $newtitle $actualIssue
+         Write-Host "Updating Library with image of $newtitle : $actualIssue" -foregroundcolor cyan
+         $filepath= Get-ImageFilename -title $newtitle -issue $actualIssue
+         Write-Host "Downloading from $($record.Imagesrc) "
+         Write-Host "Writing to $filepath"
+         Set-ImageFolder $newtitle $actualIssue|Out-null
 
          try
          {
-            Invoke-webRequest $record.ImageSrc -outfile $filepath
+            Invoke-WebRequest $record.ImageSrc -outfile $filepath
          }
          catch
          {
-            write-host "Cannot download  $($record.ImageSrc)"
+            Write-Host "Cannot download  $($record.ImageSrc)"
          }
       }
       Else
       {
-         Write-host "No image data"
+         Write-Host "No image data"
       }
    }
-   write-verbose "Finished setting title"
+   Write-Verbose "Finished setting title"
    $actualIssue
 
  }
@@ -367,7 +409,7 @@ function GuessTitle
     }
 
     $padtitle=$title -replace(" ","-")
-    write-host "looking for $PSScriptRoot\covers\$padtitle\$cover\$issue.jpg"
+    Write-Host "looking for $PSScriptRoot\covers\$padtitle\$cover\$issue.jpg"
 
     if (test-path "$PSScriptRoot\covers\$padtitle\$cover\$issue.jpg")
     {
@@ -381,7 +423,7 @@ function GuessTitle
        }
        else
        {
-          write-host "Guessing a set $issue"
+          Write-Host "Guessing a set $issue"
           return "set"
        }
     }
@@ -435,7 +477,7 @@ function Get-EbaySoldPrice
 
     if (!($SoldPrice))
     {
-      #Write-host "Looking for 'span.notranslate'"
+      #Write-Host "Looking for 'span.notranslate'"
       $money=scrape $url 'span.notranslate'
       if ($money -is [system.array])
       {
@@ -449,12 +491,12 @@ function Get-EbaySoldPrice
 
     if (!($SoldPrice))
     {
-       #Write-host "Looking for 'span#prcIsum.notranslate'"
+       #Write-Host "Looking for 'span#prcIsum.notranslate'"
        $money=scrape $url 'span#prcIsum.notranslate'
        $SoldPrice=$money[1].trim()
     }
 
-    #write-host $SoldPrice
+    #Write-Host $SoldPrice
     (Get-Price $SoldPrice).Amount
 }
 
@@ -463,63 +505,76 @@ function Get-EbaySaleStatus
     param(
       [Parameter(Mandatory=$true)]
       [PSObject]$record,
-      [string]$salestatus="live")
+      [string]$salestatus="LIVE")
 
     $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
 
-    [string]$status=(scrape $url 'span#w1-3-_msg')
-    [string]$delisted=(scrape $url 'div.sml-cnt')
+    [string]$Status=(scrape $url 'span#w1-3-_msg')
 
-     write-verbose "Status   : $Status"
-     
-    if (!$delisted)
+    [string]$delisted=(scrape $url 'div.sml-cnt').trim()
+    if (!($delisted)){
+      $delisted=[string]$delisted=(scrape $url 'h1.pivHdr').trim()
+    }
+
+    if (!([BOOL]$delisted))
     {
-      switch ($status.trim())
+      Write-Verbose "Not delisted, checking state: $Status"
+      switch ($Status.trim())
       {
-        "This Buy it now listing has ended."
-        {
-          $salestatus="expired"
-        }
-        "Bidding has ended on this item."
-        {
-          #returns no of bids as string
-          $bids=scrape $url  "a#vi-VR-bid-lnk.vi-bidC"
-          $salestatus="sold"
+          "This Buy it now listing has ended."
+          {
+             Write-Verbose "This Buy it now listing has ended."
+             $salestatus="EXPIRED"
+          }
+          {($_ -match "Bidding has ended on this item")}
+          {
+             Write-Verbose "Bidding has ended on this item."
+             #returns no of bids as string
+             $bids=scrape $url  "a#vi-VR-bid-lnk.vi-bidC"
+             $salestatus="SOLD"
 
-          if ($bids)
-          {
-            #check to see if no bids
-            if (Test-NoBids -bids $bids)
-            {
-               $salestatus="expired"
-            }
+             if ($bids)
+             {
+                #check to see if no bids
+                if (Test-NoBids -bids $bids)
+                {
+                   $salestatus="EXPIRED"
+                }
+             }
           }
-        }
-        "This listing has ended."
-        {
-          $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
-          if ($result)
+          {($_ -match "This listing was ended") }
           {
-            $salestatus="sold"
+             Write-Verbose     "This listing was ended by the seller because the item is no longer available."
+             $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
+
+             if ($result)
+             {
+                $salestatus="SOLD"
+             }
+             else
+             {
+                $salestatus="EXPIRED"
+             }
           }
-          else
+          {($_ -match "This listing has ended") }
           {
-            $salestatus="expired"
-          }
-        }
-        "This listing was ended by the seller because the item is no longer available."
-        {
-          $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
-          if ($result)
+             Write-Verbose "Caught by or logic"
+             $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
+             if ($result)
+             {
+               $salestatus="SOLD"
+             }
+             else
+             {
+                $salestatus="EXPIRED"
+             }
+           }
+          default
           {
-            $salestatus="sold"
+            Write-Host "Default"
+            $salestatus="LIVE"
           }
-          else
-          {
-            $salestatus="expired"
-          }
-        }
-      }
+         }
     }
     else
     {
@@ -582,14 +637,12 @@ function GetEbidPrice
      $scrapePrice=scrape -url $link -target ins.bid
      if ($scrapePrice)
      {
-      write-host "scrapePrice: $scrapePrice"
+       Write-Host "scrapePrice: $scrapePrice"
        $price=(Get-Price $scrapePrice).Amount
      }
    }
 
 }
-
-
 
 function Update-RecordOld
 {
@@ -619,6 +672,7 @@ function Update-RecordOld
          {
            'EXPIRED'
            {
+             Write-Verbose "Update-DB -ebayitem $($record.ebayitem) -Status EXPIRED"
              Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
              $IE[1].Application.Quit()
              return
@@ -642,12 +696,11 @@ function Update-RecordOld
 		     $estimate=Get-EbayShippingCost -record $record
          $seller  =Get-EbaySeller -record $record
          Write-Host "Seller : $seller"
-
 	    }
 	    default
 	    {
            Write-Host "Detected default ebid"
-	         Write-verbose "Record: $($record.postage)"
+	         Write-Verbose "Record: $($record.postage)"
            $estimate=$record.postage
 
            $seller=Get-EbidSeller -url $record.link
@@ -657,19 +710,21 @@ function Update-RecordOld
    }
 
    $color      =Get-Image  -title $($record.Title) -issue $record.Issue
-   $newtitle   =(Set-Title -rawtitle $($record.Title) -color $color).ToUpper()
-   write-host "Set-Issue -rawissue `"$($record.Issue)`" -rawtitle `"$($record.Description)`" -title `"$newtitle`" -color $color"
+   Write-Verbose  "Set-Title -rawtitle $($record.Title)"
+   $newtitle   =Set-Title -rawtitle $($record.Title)
+   Write-Verbose "Set-Issue -rawissue `"$($record.Issue)`" -rawtitle `"$($record.Description)`" -title `"$newtitle`" -color $color"
    $ActualIssue=Set-Issue -rawissue $record.Issue -rawtitle $record.Description -title $newtitle -color $color
 
    #crap hack
    if(!$ActualIssue)
    {
      $IE[1].Application.Quit()
+     write-host "Premature return"
      return
    }
 
-   write-host "ActualIssue:$ActualIssue"
-   $color      =Get-Image  -title $newtitle -issue $ActualIssue
+   Write-Verbose "ActualIssue:$ActualIssue"
+   $color      =Get-Image  -Title $newtitle -Issue $ActualIssue
    $newquantity=Set-Quantity -record $record -Issue $ActualIssue
 
    $priceestimate=0
@@ -685,13 +740,16 @@ function Update-RecordOld
 
    $marketprice="{0:N2}" -f $marketprice
 
-  Write-host "Price: $Price : market: $marketprice : " -foregroundcolor $foregroundcolor -NoNewline
-  $overrideprice=read-hostdecimal
-  if ($overrideprice)
+  Write-Host "Price: $Price : market: $marketprice : " -foregroundcolor $foregroundcolor -NoNewline
+  if ($salestatus -eq 'LIVE')
   {
-     $price=$overrideprice
-     write-host "Overide set price at $price"
-  }
+    $overrideprice=read-hostdecimal
+    if ($overrideprice)
+    {
+       $price=$overrideprice
+       Write-Host "Overide set price at $price"
+    }
+  }else{Write-Host ""}
 
 #postage
    if ($estimate -match "Free")
@@ -712,7 +770,7 @@ function Update-RecordOld
    }
    catch
    {
-      write-host "Postage: $($record.postage) estimate:$estimate" -NoNewline
+      Write-Host "Postage: $($record.postage) estimate:$estimate" -NoNewline
       $postage=read-hostdecimal
       $postage="{0:N2}" -f $postage
 
@@ -722,10 +780,10 @@ function Update-RecordOld
       }
    }
 
-   write-host "Postage estimate:$estimate"
+   Write-Host "Postage estimate:$estimate"
 
    $TCO ="{0:N2}" -f ([decimal]$postage+[decimal]$price)/$newquantity
-   write-host "TCO per issue $TCO" -foregroundcolor cyan
+   Write-Host "TCO per issue $TCO" -foregroundcolor cyan
 
    if ($salestatus)
    {
@@ -740,6 +798,7 @@ function Update-RecordOld
 
    try
    {
+      Write-Verbose "Update-DB -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $($record.status) -bought $($record.bought) -quantity $newquantity -seller $seller -watch $($record.watch)"
       Update-DB -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $record.status -bought $record.bought -quantity $newquantity -seller $seller -watch $record.watch
    }
    catch

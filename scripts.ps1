@@ -13,6 +13,9 @@ import-module "$PSScriptRoot\Core.ps1" -force
 import-module "$PSScriptRoot\modules\Search-Data.psd1" -force
 import-module "$PSScriptRoot\Review.ps1" -force
 
+function waitforpageload {
+    while ($ie.Busy -eq $true) { Start-Sleep -Milliseconds 1000; }
+}
 
 function findDiv {param ($name)
     $ie.Document.getElementsByTagName("div") | where-object {$_.id -and $_.id.EndsWith($name)}
@@ -54,9 +57,6 @@ function Add-Array
    [Parameter(Mandatory=$true)]
    [string]$status)
 
-   #first lets read in all existing related items
-   #$test=read-db
-
    $list=Search-DB "Where Ebayitem != NULL"|select -property Ebayitem
    $Ebayitems=$list|foreach {"$($_.EbayItem)"}
 
@@ -66,7 +66,7 @@ function Add-Array
 
       foreach ($set in $resultset)
       {
-		  $foundrecord=Search-DB -where "where ebayitem = '$($set.ebayitem)'"
+         $foundrecord=Search-DB -where "where ebayitem = '$($set.ebayitem)'"
 
           #new and not expired records
           if (!($foundrecord) -and ($status -ne "Expired"))
@@ -79,24 +79,24 @@ function Add-Array
                 $AuctionType="Mixed"
              }
 
-             Write-host "`r`nAdding " -nonewline
-             Write-host "$($set.Ebayitem)" -foregroundcolor red
+             Write-Host "`r`nAdding " -nonewline
+             Write-Host "$($set.Ebayitem)" -foregroundcolor red
 
              if ($set.CurrentPrice)
              {
                 $CurrentPrice=$set.CurrentPrice
              }
              else
-			 {
+			       {
                 $CurrentPrice=0
              }
 
              [string]$bestOffer=$set.BestOffer.ToString()
 
-			 try
-			 {
-			    add-record -title $title -issue $issue -price $CurrentPrice -bought $false `
-			               -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
+			       try
+			       {
+			          Add-Record -title $title -issue $issue -price $CurrentPrice -bought $false `
+                           -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
                            -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $BestOffer -BidCount $set.BidCount `
                            -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate `
 			               -ImageSrc $set.ImageSrc -Link $set.Link
@@ -133,17 +133,17 @@ function Add-Array
                  #record exists check its not expired or closed
 			     if (($foundrecord.Status -eq "Open") -or ($foundrecord.Status -eq "Verified"))
 			     {
-                    write-verbose " Update-DB -ebayitem $($set.Ebayitem) -status $status -price $($set.CurrentPrice)"
+                    Write-Verbose " Update-DB -ebayitem $($set.Ebayitem) -status $status -price $($set.CurrentPrice)"
 			        if ($status -eq "Open")
                     {
 			           Update-DB -ebayitem $set.Ebayitem -price $set.CurrentPrice
                     }
 
-			        Write-host "`rUpdating: $($set.Ebayitem)" -foregroundcolor green  -NoNewline
+			        Write-Host "`rUpdating: $($set.Ebayitem)" -foregroundcolor green  -NoNewline
                  }
 			     else
 			     {
-                    Write-host "`rSkipping: $($set.Ebayitem)" -foregroundcolor yellow  -NoNewline
+                    Write-Host "`rSkipping: $($set.Ebayitem)" -foregroundcolor yellow  -NoNewline
 			     }
               }
           }
@@ -188,13 +188,13 @@ function View
    $IE.Width =800
 
    $url="www.ebay.co.uk/itm/$ebayid"
-   write-host "Opening $url`?"
+   Write-Host "Opening $url`?"
    $IE.navigate2("$url`?")
    $IE.visible=$true
 
    while ($ie.ReadyState -ne 4)
    {
-      write-host "." -NoNewline
+      Write-Host "." -NoNewline
       Start-Sleep -Milliseconds 1000
    }
 
@@ -214,13 +214,13 @@ function Get-URLView
    $IE.Height=600
    $IE.Width =800
 
-   write-host "Opening $url`?"
+   Write-Host "Opening $url`?"
    $IE.navigate2("$url`?")
    $IE.visible=$true
 
    while ($ie.Busy -eq $true)
    {
-      write-host "." -NoNewline
+      Write-Host "." -NoNewline
       Start-Sleep -Milliseconds 1000
    }
 
@@ -247,7 +247,7 @@ function Get-MarketView
    $browser.visible=$true
    while ($ie.Busy -eq $true)
    {
-      write-host "." -NoNewline
+      Write-Host "." -NoNewline
       Start-Sleep -Milliseconds 1000
    }
 }
@@ -331,11 +331,11 @@ function Update-Recordset
 
       foreach($record in $results)
       {
-         Write-host "$counter of $total"
+         Write-Host "$counter of $total"
 
          if ($record.Ebayitem -eq "" -or $record.Ebayitem -eq $null)
          {
-           write-host "Skipping item: record.Ebayitem is nothing" -foregroundcolor yellow
+           Write-Host "Skipping item: record.Ebayitem is nothing" -foregroundcolor yellow
          }
          else
          {
@@ -354,8 +354,8 @@ function Update-Recordset
    }
    catch
    {
-     write-host $_.Exception
-     write-host "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
+     Write-Host $_.Exception
+     Write-Host "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
      throw $_.Exception
      exit 1
    }
@@ -408,7 +408,7 @@ function Update-Open
    #>
    param(
 	   [string]$title=$NULL,
-       [switch]$sort)
+     [switch]$sort)
 
    if ($title)
    {
@@ -443,7 +443,19 @@ function Update-Open
    foreach($record in $results)
    {
       Write-Host "Record $index of $count"
-      Update-Record $record -Old
+
+      Try
+      {
+         Update-Record -record $record -Old
+      }
+      Catch
+      {
+          Write-Host "Exception Type: $($_.Exception.GetType().FullName)" -ForegroundColor Red
+          Write-Host "Exception Message: $($_.Exception.Message)" -ForegroundColor Red
+
+          Write-Warning -Message "Script:$($_.InvocationInfo.ScriptName):$($_.InvocationInfo.ScriptLineNumber)"
+          Write-Warning -Message "Update-Open Error"
+      }
 
       $index ++
    }
@@ -461,7 +473,7 @@ function Get-EBidResults
 {
    param([string]$url)
 
-   write-verbose "Getting $url"
+   Write-Verbose "Getting $url"
    invoke-restmethod -uri "$url"
 }
 
@@ -482,7 +494,7 @@ function Add-EBidArray
        }
        else
        {
-          write-host "`t`rSkipping $($record.id)" -nonewline -foregroundcolor yellow
+          Write-Host "`t`rSkipping $($record.id)" -nonewline -foregroundcolor yellow
        }
    }
 
@@ -542,11 +554,11 @@ function Add-EBID
       $description=""
    }
 
-   add-record -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description "$description"`
+   Add-Record -title $comic -issue $issue -price $ebiditem.price -PublishDate $ebiditem.pubdate -Status "OPEN" -Description "$description"`
    -postage $ebiditem.Shipping -BidCount $ebiditem.bids -BuyItNowPrice $ebiditem.buynowprice -ImageSrc $ebiditem.image -Link $ebiditem.link`
    -site "Ebid" -quantity $ebiditem.quantity -Ebayitem $ebiditem.id -Remaining $ebiditem.remaining  -Seller $seller
 
-   write-host "Adding $title $($ebiditem.id)"
+   Write-Host "Adding $title $($ebiditem.id)"
 }
 
 function Get-Issues
@@ -583,7 +595,7 @@ function Get-Issues
       }
    }
 
-   write-host "$count unique titles of $title"
+   Write-Host "$count unique titles of $title"
    $issuesfound
 }
 
@@ -623,7 +635,7 @@ function DateString
    "$($date.day)-$($date.month)-$($date.year)"
 }
 
-function closing-record
+function Set-RecordClose
 {
    Param(
    [Parameter(Mandatory=$true)]
@@ -634,7 +646,7 @@ function closing-record
    Update-Recordset -title $title -Issue $Issue -sortby DateOfSale
 }
 
-function reduce
+function Reduce
 {
    param(
    $array,
@@ -658,7 +670,7 @@ function reduce
    }
 }
 
-function Get-ebidrecords
+function Get-EBIDRecords
 {
    <#
       .SYNOPSIS
@@ -689,15 +701,15 @@ function Get-ebidrecords
       $stringinclude =$search.include -join "%20-"
    }
 
-   write-verbose "Exclude: $stringexclude"
-   write-verbose "Include: $stringinclude"
+   Write-Verbose "Exclude: $stringexclude"
+   Write-Verbose "Include: $stringinclude"
 
    foreach($category in $search.category)
    {
-      write-verbose "$(Get-date) - category :$category"
+      Write-Verbose "$(Get-date) - category :$category"
       $url = "http://uk.ebid.net/perl/rss.cgi?type1=a&type2=a&words=$title$stringinclude$stringexclude&category2=$category&categoryid=$category&categoryonly=on&mo=search&type=keyword"
 
-      write-verbose "Querying Ebid $url"
+      Write-Verbose "Querying Ebid $url"
       $ebidresults=Get-ebidresults -url "$url"
 
 	  [int]$OpenCount=0
@@ -721,7 +733,7 @@ function Get-ebidrecords
    Write-Host "Open:    $OpenCount" -foregroundcolor cyan
 }
 
-function Get-allrecords
+function Get-AllRecords
 {
    <#
       .SYNOPSIS
@@ -740,7 +752,7 @@ function Get-allrecords
    Write-Host "`nFinding: $($search.title)" -ForegroundColor cyan
    Get-ebidrecords -search $search
    Get-records     -search $search
-   write-verbose "`r`nComplete."
+   Write-Verbose "`r`nComplete."
 }
 
 function Open-Covers
@@ -759,7 +771,7 @@ function Open-Covers
 
    $padtitle=$title -replace(" ","-")
    $path= "f:\comics\covers\$padtitle\$issue"
-   Write-host "Opening $path"
+   Write-Host "Opening $path"
    & explorer "`"$path`""
 }
 
@@ -767,9 +779,9 @@ new-alias gb Get-BestBuy -force
 new-alias fr Get-RecordsFinalize -force
 new-alias ur Update-Recordset -force
 new-alias np Atom -force
-new-alias cr Closing-Record -force
+new-alias cr Set-RecordClose -force
 new-alias ep Get-PriceEstimate -force
-new-alias ap Get-allprices -force
+new-alias ap Get-AllPrices -force
 new-alias uo Update-Open -force
 new-alias bs Get-SellerItems -force
 new-alias byseller Get-SellerItems -force

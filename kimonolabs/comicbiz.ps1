@@ -15,7 +15,7 @@ function Get-ComicbizData
    {
       $title=$record.title.ToUpper()
    }
-   
+
    $comic     =$title.replace(" ","%20")
    $search    ="&filter_name=$comic"
    $fullfilter=$search
@@ -23,11 +23,11 @@ function Get-ComicbizData
    $url       ="https://www.kimonolabs.com/api/ondemand/b1efn3xu?apikey=01f250503b7c40eb0ce695da7d74cbb1$fullfilter"
 
    $results   =Get-urltocomicarray -url $url -title $title -filters $record.exclude -site $site
-    
+
    $counter   =0
    $comicbiz  =@()
    $datetime  =Get-Date
-   
+
    foreach($result in $results)
    {
       $record= New-Object psobject
@@ -37,8 +37,8 @@ function Get-ComicbizData
       $record| Add-Member -type NoteProperty -name url -value $url
       $record| Add-Member -type NoteProperty -name orderdate -value $NULL
       $record| Add-Member -type NoteProperty -name title -value $title
-  
-      $issue=Get-coverdetails -rawissue $result.title.text     
+
+      $issue=Get-coverdetails -rawissue $result.title.text
       $price=Get-price -price $result.price.split(" ")[0]
 
       $record| Add-Member -type NoteProperty -name issue -value $issue.cover
@@ -52,22 +52,22 @@ function Get-ComicbizData
       $counter++
    }
 
-   write-host "$(Get-Date) - Record $counter"
-   $comicbiz 
+   Write-Host "$(Get-Date) - Record $counter"
+   $comicbiz
 }
 
-function Get-coverdetails
+function Get-CoverDetails
 {
    param (
    [Parameter(Mandatory=$true)]
    [string]$rawissue)
 
-   write-verbose $rawissue
+   Write-Verbose $rawissue
    $issue=$rawissue.ToUpper()
    $variant=$issue.trim()
-   
+
    if($issue.contains("#"))
-   { 
+   {
       $cover=($issue.split("#")[1]).split(" ")[0]
    }
    else
@@ -78,7 +78,7 @@ function Get-coverdetails
    $issue= New-Object System.Object
    $issue| Add-Member -type NoteProperty -name cover -value $cover
    $issue| Add-Member -type NoteProperty -name variant -value $variant
-   
+
    $issue
 }
 

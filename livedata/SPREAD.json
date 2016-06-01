@@ -1,12 +1,26 @@
-{
-    "link":  "http://www.ebay.co.uk/itm/SPREAD-7-IMAGE-COMICS-COVER-B-APR-2015-NM-M-NEW-/111732325502?hash=item1a03c3fc7e:g:wUMAAOSwstxVRSaW",
-    "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SPREAD-7-IMAGE-COMICS-COVER-B-APR-2015-NM-M-NEW-/111732325502?hash=item1a03c3fc7e:g:wUMAAOSwstxVRSaW\"\u003ehttp://www.ebay.co.uk/itm/SPREAD-7-IMAGE-COMICS-COVER-B-APR-2015-NM-M-NEW-/111732325502?hash=item1a03c3fc7e:g:wUMAAOSwstxVRSaW\u003c/a\u003e",
-    "orderdate":  null,
-    "title":  "SPREAD",
-    "issue":  "7",
-    "variant":  "7B",
-    "price":  3.25,
-    "currency":  "\u0026pound;",
-    "rundate":  "16-5-2016",
-    "site":  "Auction"
-}
+[
+    {
+        "link":  "http://www.ebay.co.uk/itm/SPREAD-7-IMAGE-COMICS-COVER-B-APR-2015-NM-M-NEW-/111732325502?hash=item1a03c3fc7e:g:wUMAAOSwstxVRSaW",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SPREAD-7-IMAGE-COMICS-COVER-B-APR-2015-NM-M-NEW-/111732325502?hash=item1a03c3fc7e:g:wUMAAOSwstxVRSaW\"\u003ehttp://www.ebay.co.uk/itm/SPREAD-7-IMAGE-COMICS-COVER-B-APR-2015-NM-M-NEW-/111732325502?hash=item1a03c3fc7e:g:wUMAAOSwstxVRSaW\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SPREAD",
+        "issue":  "7",
+        "variant":  "7B",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "30-5-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/SPREAD-7-IMAGE-COMICS-COVER-A-APR-2015-NM-M-NEW-/121746534754?hash=item1c58a8b162:g:M18AAOSwPgxVRSZG",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SPREAD-7-IMAGE-COMICS-COVER-A-APR-2015-NM-M-NEW-/121746534754?hash=item1c58a8b162:g:M18AAOSwPgxVRSZG\"\u003ehttp://www.ebay.co.uk/itm/SPREAD-7-IMAGE-COMICS-COVER-A-APR-2015-NM-M-NEW-/121746534754?hash=item1c58a8b162:g:M18AAOSwPgxVRSZG\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SPREAD",
+        "issue":  "7",
+        "variant":  "7A",
+        "price":  3.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "30-5-2016",
+        "site":  "Auction"
+    }
+]

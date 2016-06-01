@@ -37,7 +37,7 @@ function Get-RSSSet
 	Do
 	{
 	   $count=0
-	   write-verbose "Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $Category"
+	   Write-Verbose "Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $Category"
 	   $xml = Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $Category -Page $Page
 	   $xml.rss | % {$_.channel.item} | % {
 		  $item = $_
@@ -48,7 +48,7 @@ function Get-RSSSet
 		  }
 		  catch 
 		  {
-             write-warning "`nFailed to parse item"
+             Write-Warning "`nFailed to parse item"
 		  }
 	   }
 

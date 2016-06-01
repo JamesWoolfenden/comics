@@ -1,12 +1,26 @@
-{
-    "link":  "http://www.ebid.net/uk/for-sale/thief-of-thieves-6-skybound-entertainment-image-comics-robert-kirkman-119490002.htm",
-    "url":  "\u003ca href=\"http://www.ebid.net/uk/for-sale/thief-of-thieves-6-skybound-entertainment-image-comics-robert-kirkman-119490002.htm\"\u003ehttp://www.ebid.net/uk/for-sale/thief-of-thieves-6-skybound-entertainment-image-comics-robert-kirkman-119490002.htm\u003c/a\u003e",
-    "orderdate":  null,
-    "title":  "THIEF OF THIEVES",
-    "issue":  "6",
-    "variant":  "6A",
-    "price":  0.99,
-    "currency":  "\u0026pound;",
-    "rundate":  "9-5-2016",
-    "site":  "Auction"
-}
+[
+    {
+        "link":  "http://www.ebid.net/uk/for-sale/thief-of-thieves-6-skybound-entertainment-image-comics-robert-kirkman-119490002.htm",
+        "url":  "\u003ca href=\"http://www.ebid.net/uk/for-sale/thief-of-thieves-6-skybound-entertainment-image-comics-robert-kirkman-119490002.htm\"\u003ehttp://www.ebid.net/uk/for-sale/thief-of-thieves-6-skybound-entertainment-image-comics-robert-kirkman-119490002.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "6",
+        "variant":  "6A",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "30-5-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-19-IMAGE-COMICS-JAN-2014-NM-/121715406335?hash=item1c56cdb5ff:g:sisAAOxy2CZTY8P1",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/THIEF-OF-THIEVES-19-IMAGE-COMICS-JAN-2014-NM-/121715406335?hash=item1c56cdb5ff:g:sisAAOxy2CZTY8P1\"\u003ehttp://www.ebay.co.uk/itm/THIEF-OF-THIEVES-19-IMAGE-COMICS-JAN-2014-NM-/121715406335?hash=item1c56cdb5ff:g:sisAAOxy2CZTY8P1\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "19",
+        "variant":  "19",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "30-5-2016",
+        "site":  "Auction"
+    }
+]

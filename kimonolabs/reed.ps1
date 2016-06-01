@@ -58,7 +58,7 @@ function Get-ReedData
       $counter++
    }
    
-   write-host "$(Get-Date) - Found $counter"
+   Write-Host "$(Get-Date) - Found $counter"
    $reed
 }
 

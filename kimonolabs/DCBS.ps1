@@ -27,7 +27,7 @@ function Get-DCBSData
    $dollarrate=(Get-gbpdollarrate))
    
    $title=$Record.title.ToUpper()
-   write-Host "$(Get-Date) - Looking for $title @ `"DCBS`""
+   Write-Host "$(Get-Date) - Looking for $title @ `"DCBS`""
    $results=(Get-Content "$PSScriptRoot\data\dcbs\latest.json") -join "`n" | ConvertFrom-Json
    
    $arraytitle=$title.split(" ")
@@ -77,6 +77,6 @@ function Get-DCBSData
       $counter++
    }
   
-   write-host "$(Get-Date) - Found $counter"
+   Write-Host "$(Get-Date) - Found $counter"
    $dcbs
 }

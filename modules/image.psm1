@@ -1,10 +1,10 @@
-function show-image
+function Show-Image
 {
    param(
    [string]$filepath)
-   
+
    [void][reflection.assembly]::LoadWithPartialName("System.Windows.Forms")
-   $file = (Get-item $filepath) 
+   $file = (Get-item $filepath)
    $img = [System.Drawing.Image]::Fromfile($file);
 
    [System.Windows.Forms.Application]::EnableVisualStyles();
@@ -22,30 +22,30 @@ function show-image
    $form.ShowDialog()
 }
 
-function test-image
+function Test-Image
 {
    param(
    [string]$title,
    [string]$issue)
-   
+
    $padtitle=$title -replace(" ","-")
    $padtitle=$padtitle -replace(":","-")
-   write-verbose "Test image: $issue!"
+   Write-Verbose "Test image: $issue!"
    $cover= Get-cover $issue
    $filepath= Get-imagefilename -title $title -issue $issue
-   #Write-host $filepath
+   #Write-Host $filepath
    test-path $filepath
 }
 
-function Get-imagefilename
+function Get-ImageFilename
 {
    param(
    [string]$title,
    [string]$issue)
-      
+
    $padtitle=$title -replace(" ","-")
    $padtitle=$padtitle -replace(":","-")
-   $cover= Get-cover $issue
+   $cover= Get-Cover $issue
    $issue=$issue.Replace(":","")
    ($imageroot+"\"+$padtitle+"\"+$cover+"\"+$issue+".jpg").ToUpper()
 }
@@ -55,19 +55,19 @@ function set-imagefolder
    param(
    [string]$title,
    [string]$issue)
-   
+
    $cover= Get-cover $issue
    $padtitle=$title -replace(" ","-")
    $padtitle=$padtitle -replace(":","-")
    $imagefolder="$imageroot\$padtitle\$cover"
-   
+
    if (!(test-path -path  $imagefolder))
    {
       md $imageroot\$padtitle\$cover
    }
 }
 
-function import-image 
+function import-image
 {
    param (
    [string]$title,
@@ -78,11 +78,11 @@ function import-image
    $cover= Get-cover $issue
    $results=Search-DB $wherestring
    foreach ($record in $results)
-   {      
+   {
       if (!(test-image $title $issue))
       {
         set-imagefolder $title $issue
-        
+
         $fileurl=$($record.Imagesrc)
         If (($fileurl -ne "") -And ($fileurl -ne $null))
         {
@@ -92,12 +92,12 @@ function import-image
            Invoke-webRequest $fileurl -outfile $filepath
         }
         else
-        {           
+        {
            continue
         }
       }
       else
-      { 
+      {
          Write-Host "Image found" -foregroundcolor green
          break
       }

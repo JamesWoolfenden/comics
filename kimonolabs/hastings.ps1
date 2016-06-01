@@ -67,7 +67,7 @@ function Get-hastingsdata
             }     
             catch
             {
-                write-warning "Price fail on Count $counter : $result)"
+                Write-Warning "Price fail on Count $counter : $result)"
                 $price=$null
             }       
          }
@@ -95,6 +95,6 @@ function Get-hastingsdata
       $counter++
    }
    
-   write-host "$(Get-Date) - Record $counter"
+   Write-Host "$(Get-Date) - Record $counter"
    $hastings
 }

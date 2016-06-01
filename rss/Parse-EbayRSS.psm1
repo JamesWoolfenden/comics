@@ -12,7 +12,7 @@ function Get-RssContent
 	
 	$url = Build-Url -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $CategoryId
 
-	write-verbose "Reading $url"
+	Write-Verbose "Reading $url"
 	try
     {
 		$Results=Invoke-webrequest $url
@@ -21,7 +21,7 @@ function Get-RssContent
 	} 
     catch
     {
-		Write-host $_
+		Write-Host $_
 	}
 }
 
@@ -41,7 +41,7 @@ function Get-EbayRssItems
     foreach($Category in $Categories)
     {
 	   $items = @()
-	   write-verbose "Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $Category"
+	   Write-Verbose "Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $Category"
 	   $xml = Get-RssContent -Keywords $Keywords -ExcludeWords $ExcludeWords -state $state -CategoryId $Category
 	   $xml.rss | % {$_.channel.item} | % {
 		  $item = $_
@@ -51,7 +51,7 @@ function Get-EbayRssItems
 		  }
 		  catch 
 		  {
-             write-warning "`nFailed to parse item"
+             Write-Warning "`nFailed to parse item"
 		  }
 	   }
     }

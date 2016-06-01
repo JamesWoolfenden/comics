@@ -1,12 +1,26 @@
-{
-    "link":  "http://www.ebay.co.uk/itm/ALEX-ADA-7-VERY-FINE-IMAGE-COMICS-/111957591704?hash=item1a11314698:g:R2kAAOSwbwlXAh~E",
-    "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-ADA-7-VERY-FINE-IMAGE-COMICS-/111957591704?hash=item1a11314698:g:R2kAAOSwbwlXAh~E\"\u003ehttp://www.ebay.co.uk/itm/ALEX-ADA-7-VERY-FINE-IMAGE-COMICS-/111957591704?hash=item1a11314698:g:R2kAAOSwbwlXAh~E\u003c/a\u003e",
-    "orderdate":  null,
-    "title":  "ALEX ADA",
-    "issue":  "7",
-    "variant":  "7",
-    "price":  3.15,
-    "currency":  "\u0026pound;",
-    "rundate":  "16-5-2016",
-    "site":  "Auction"
-}
+[
+    {
+        "link":  "http://www.ebay.co.uk/itm/ALEX-ADA-7-VERY-FINE-IMAGE-COMICS-/111957591704?hash=item1a11314698:g:R2kAAOSwbwlXAh~E",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/ALEX-ADA-7-VERY-FINE-IMAGE-COMICS-/111957591704?hash=item1a11314698:g:R2kAAOSwbwlXAh~E\"\u003ehttp://www.ebay.co.uk/itm/ALEX-ADA-7-VERY-FINE-IMAGE-COMICS-/111957591704?hash=item1a11314698:g:R2kAAOSwbwlXAh~E\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "7",
+        "variant":  "7",
+        "price":  3.15,
+        "currency":  "\u0026pound;",
+        "rundate":  "30-5-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/IMAGE-FIRSTS-ALEX-ADA-1-APR-2014-VF-NM-/121714634040?hash=item1c56c1ed38:g:ockAAOSwAL9UePGj",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/IMAGE-FIRSTS-ALEX-ADA-1-APR-2014-VF-NM-/121714634040?hash=item1c56c1ed38:g:ockAAOSwAL9UePGj\"\u003ehttp://www.ebay.co.uk/itm/IMAGE-FIRSTS-ALEX-ADA-1-APR-2014-VF-NM-/121714634040?hash=item1c56c1ed38:g:ockAAOSwAL9UePGj\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "ALEX ADA",
+        "issue":  "1",
+        "variant":  "1FIRSTS",
+        "price":  1.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "30-5-2016",
+        "site":  "Auction"
+    }
+]

@@ -1,0 +1,22 @@
+
+
+package main
+
+import (
+    "io"
+    "net/http"
+    "os"
+    "fmt"
+)
+
+func main() {
+    img, _ := os.Create("image.jpg")
+    defer img.Close()
+
+    resp, _ := http.Get("http://i.imgur.com/Dz2r9lk.jpg")
+    defer resp.Body.Close()
+
+    b, _ := io.Copy(img, resp.Body)
+    fmt.Println("File size: ", b)
+}
+

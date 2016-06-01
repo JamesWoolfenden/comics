@@ -9,7 +9,7 @@ foreach($record in $sales.data)
 {
    if ($record.column_1_number -eq $NULL)
    {
-      write-host "Skip" -ForegroundColor Red
+      Write-Host "Skip" -ForegroundColor Red
       continue
    }
 
@@ -20,6 +20,6 @@ foreach($record in $sales.data)
    $data| Add-Member -type NoteProperty -name Rank -value $record.column_1_number[0]
    $data| Add-Member -type NoteProperty -name Price -value $record.column_4_currency[0]
    $data| Add-Member -type NoteProperty -name Currency -value $record."column_4_currency/_currency"[0] 
-   write-verbose "Here again"
+   Write-Verbose "Here again"
    $parseddata+=$data
 }

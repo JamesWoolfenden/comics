@@ -52,7 +52,7 @@ function Get-Cover
 
    Try
    {
-      write-verbose "Analysing cover $dirty"
+      Write-Verbose "Analysing cover $dirty"
       if ($dirty.Contains("#"))
       {
          $dirty=$dirty.split("#")[1]
@@ -144,7 +144,7 @@ function Add-Record
    VALUES
    ('$title', '$Price', '$Issue', '$bought', '$DateOfSale', '$status','$postage', '$Description','$PublishDate', '$ebayitem',$Quantity, '$AuctionType', '$BestOffer', '$BidCount', '$BuyItNowPrice', '$CloseDate', '$ImageSrc', '$Link', '$site', '$remaining', '$seller', '$saledate','$Price', '$Parentid', '$split')"
 
-   write-verbose $cmd.commandtext
+   Write-Verbose $cmd.commandtext
    $result=$cmd.executenonquery()
    $conn.close()
 }
@@ -296,7 +296,7 @@ function Update-DB
 
    If (($watch -eq "") -or ($watch -eq $null))
    {
-      #write-Host "watch not set:$watch"
+      #Write-Host "watch not set:$watch"
    }
    else
    {
@@ -304,7 +304,7 @@ function Update-DB
    }
 
    $cmd.commandtext = "update Comics.dbo.Comics SET $updatestring where Ebayitem = '$ebayitem' and (status !='CLOSED' OR status !='expired')"
-   #write-host $cmd.commandtext
+   #Write-Host $cmd.commandtext
 
    $transactionComplete=$NULL
 
@@ -495,7 +495,7 @@ function Search-DB
        }
        else
        {
-	      #write-host $data.GetValue(21)
+	      #Write-Host $data.GetValue(21)
           $watch=$data.GetValue(21)
        }
 
@@ -747,7 +747,7 @@ function Update-Issue
 
    $NewIssue=$NewIssue.ToUpper()
 
-   write-Host "Modifying issue $OldIssue - $title to $NewIssue" -ForegroundColor  cyan
+   Write-Host "Modifying issue $OldIssue - $title to $NewIssue" -ForegroundColor  cyan
    $conn = New-Object System.Data.SqlClient.SqlConnection
    $conn.ConnectionString = $connection
 

@@ -75,7 +75,7 @@ function Get-comicbookshopdata
       $counter++
    }
 
-   write-host "$(Get-Date) - Found $counter" 
+   Write-Host "$(Get-Date) - Found $counter" 
    $comicbookshop
 }
 

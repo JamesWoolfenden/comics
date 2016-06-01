@@ -39,7 +39,7 @@ function Get-gurudata
       $counter++
    }
    
-   write-host "$(Get-Date) - Found $counter"
+   Write-Host "$(Get-Date) - Found $counter"
    $guru
 }
 

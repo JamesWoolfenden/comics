@@ -4,12 +4,12 @@ function Split-Set
    [string]$title)
 
    $wherestring="where Title = '$title' And Issue = 'set' and status='closed' and split != 1 "
-   write-host "Where : $wherestring"
+   Write-Host "Where : $wherestring"
    $results=Search-DB $wherestring
 
    if ($results -ne "")
    {
-      write-host "Found $($results.count)"
+      Write-Host "Found $($results.count)"
 
       foreach($record in $results)
       {
@@ -63,7 +63,7 @@ function Split-Set
    }
    Else
    {
-      write-host "Found nothing"
+      Write-Host "Found nothing"
    }
 }
 
@@ -91,7 +91,7 @@ function Viewer
    }
    else
    {
-      write-warning "$($record.ebayitem) is null or empty"
+      Write-Warning "$($record.ebayitem) is null or empty"
    }
 
    $ie

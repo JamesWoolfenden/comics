@@ -35,7 +35,7 @@ function Get-Records
    }
 
    #this is the sold items
-   write-verbose "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {`$_.BidCount -ne '0'}"
+   Write-Verbose "Soldresult=Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'sold'|where {`$_.BidCount -ne '0'}"
    $soldresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'sold' -categories $search.category
 
    [int]$SoldCount=0
@@ -47,14 +47,14 @@ function Get-Records
         $SoldCount=$soldresult.count
      }
 
-     Write-host "Soldcount is $Soldcount"
+     Write-Host "Soldcount is $Soldcount"
 	 #filter out any records that are already in closed or exipred state
 
      add-array $soldresult -title $writetitle -issue 0 -Status Closed
    }
 
    # this is the closed results
-   write-verbose "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {`$_.BidCount -ne '0'}"
+   Write-Verbose "Get-EbayRssItems -Keywords $keywords -ExcludeWords $exclude -state 'closed'|where {`$_.BidCount -ne '0'}"
    $expiredresult=Get-EbayRssItems -Keywords "$keywords" -ExcludeWords "$exclude" -state 'closed' -categories $search.category|where {$_.BidCount -eq "0"}
 
    [int]$ExpiredCount = 0
@@ -67,7 +67,7 @@ function Get-Records
       }
 
       #should only update
-      Write-host "Expired is $ExpiredCount"
+      Write-Host "Expired is $ExpiredCount"
 	  add-array $expiredresult -title $writetitle -issue 0 -Status Expired
    }
 
@@ -84,18 +84,18 @@ function Get-Records
            $OpenCount=$result.count
          }
 
-         Write-host "Open is $OpenCount"
+         Write-Host "Open is $OpenCount"
          add-array $result -title $writetitle -issue 0 -status Open
       }
    }
    else
    {
-      write-warning "Disabled new records for $title"
+      Write-Warning "Disabled new records for $title"
    }
 
-   write-host "`nEbay Stats" -foregroundcolor yellow
-   write-host "Expired: $ExpiredCount" -foregroundcolor cyan
-   write-host "Sold:    $SoldCount" -foregroundcolor cyan
+   Write-Host "`nEbay Stats" -foregroundcolor yellow
+   Write-Host "Expired: $ExpiredCount" -foregroundcolor cyan
+   Write-Host "Sold:    $SoldCount" -foregroundcolor cyan
    Write-Host "Open:    $OpenCount" -foregroundcolor cyan
 }
 
@@ -138,7 +138,7 @@ function Update-RecordNew
 	    {
          $salestatus=Get-EbaySaleStatus -record $record
          $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
-         #write-host "Opening $url"
+         #Write-Host "Opening $url"
          #$BrowserProcess = [Diagnostics.Process]::Start("chrome.exe", "--window-size=800,600 --window-position=50,50 --app=$url")
          #$DirtyBlock=Get-EbayRecordBlock -record $record
 

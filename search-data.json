@@ -2350,6 +2350,7 @@
         "include":  "",
         "exclude":  [
                         "blur",
+                        "CREATIVE",
                         "Daredevil",
                         "fantastic",
                         "paperback",

@@ -4,7 +4,6 @@ import-module "$PSScriptRoot\fp.ps1" -force
 import-module "$PSScriptRoot\guru.ps1"  -force
 import-module "$PSScriptRoot\reed.ps1" -force
 import-module "$PSScriptRoot\comicbookshop.ps1" -force
-import-Module "$PSScriptRoot\disposableheroes.ps1" -force
 import-Module "$PSScriptRoot\comicbiz.ps1" -force
 import-Module "$PSScriptRoot\tfaw.ps1" -force
 import-Module "$PSScriptRoot\dcbs.ps1" -force
@@ -30,7 +29,6 @@ function Get-Market
 
    $allrecords+=Get-dcbsdata -record $record  -dollarrate $dollarrate
    $allrecords+=Get-comicxposuredata -record $record -dollarrate $dollarrate
-   $allrecords+=Get-dhdata -record $record
    $allrecords+=Get-closeencountersdata -record $record
    $allrecords+=Get-fpdata  -record $record
    $allrecords+=Get-reeddata -record $record
