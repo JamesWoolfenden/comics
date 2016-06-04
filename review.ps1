@@ -56,7 +56,6 @@ function Set-ComicStatus
      [PSObject]$record,
      [string]$salestatus=$NULL)
 
-   Write-host "$salestatus"
    if ($salestatus)
    {
      switch($salestatus)
@@ -521,6 +520,11 @@ function Get-EbaySaleStatus
       Write-Verbose "Not delisted, checking state: $Status"
       switch ($Status.trim())
       {
+          "This item is out of stock."
+          {
+            Write-Verbose "This Buy it now listing has ended."
+            $salestatus="EXPIRED"
+          }
           "This Buy it now listing has ended."
           {
              Write-Verbose "This Buy it now listing has ended."
