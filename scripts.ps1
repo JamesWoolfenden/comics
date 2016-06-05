@@ -99,7 +99,7 @@ function Add-Array
                            -PublishDate $set.PublishDate -Ebayitem $set.Ebayitem `
                            -Status "Open" -Description $trimmedtitle -AuctionType $AuctionType -BestOffer $BestOffer -BidCount $set.BidCount `
                            -BuyItNowPrice $set.BuyItNowPrice -CloseDate $set.CloseDate `
-			               -ImageSrc $set.ImageSrc -Link $set.Link
+			                     -ImageSrc $set.ImageSrc -Link $set.Link
              }
 			 Catch
 			 {
@@ -114,11 +114,11 @@ function Add-Array
 				 Write-Host "Ebayitem $($set.Ebayitem)"
 				 Write-Host "Description $($trimmedtitle)"
 				 Write-Host "AuctionType $($AuctionType)"
-			     Write-Host "BestOffer $BestOffer"
+			   Write-Host "BestOffer $BestOffer"
 				 Write-Host "BidCount $($set.BidCount)"
-                 Write-Host "BuyItNowPrice $($set.BuyItNowPrice)"
+         Write-Host "BuyItNowPrice $($set.BuyItNowPrice)"
 				 Write-Host "CloseDate $($set.CloseDate)"
-			     Write-Host "ImageSrc $($set.ImageSrc) "
+			   Write-Host "ImageSrc $($set.ImageSrc) "
 				 Write-Host "Link $($set.Link)"
 				 throw
 			 }

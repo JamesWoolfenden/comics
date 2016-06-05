@@ -217,14 +217,14 @@ function Update-DB
    param(
    [Parameter(Mandatory=$true)]
    [string]$ebayitem,
-   [string]$UpdateValue,
-   [string]$price,
-   [string]$postage,
-   [string]$title,
-   [string]$status=$NULL,
-   [string]$bought=$NULL,
-   [string]$quantity=$NULL,
-   [string]$seller=$NULL,
+   [string]$Issue,
+   [string]$Price,
+   [string]$Postage,
+   [string]$Title,
+   [string]$Status=$NULL,
+   [string]$Bought=$NULL,
+   [string]$Quantity=$NULL,
+   [string]$Seller=$NULL,
    [System.Nullable[System.Boolean]]$watch
    )
 
@@ -235,76 +235,65 @@ function Update-DB
    $cmd = New-Object System.Data.SqlClient.SqlCommand
    $cmd.connection = $conn
 
-   $saledate = Get-Date
-   $Issue=$UpdateValue.ToUpper()
+   $saledate = (Get-Date).ToString()
+   $updatestring="DateOfSale='$saledate'"
 
-   if($price)
+   if ($Issue)
    {
-      $price=Get-pounds $price
+      $Issue=$Issue.ToUpper()
+      $updatestring=$updatestring+",  issue='$Issue'"
    }
 
-   if($postage)
+   if($Price)
    {
-      $postage=Get-pounds $postage
+      $Price=Get-Pounds $Price
+      $updatestring=$updatestring+",  price='$price'"
    }
 
-   $updatestring="DateOfSale='$($saledate.ToString())'"
+   if($Postage)
+   {
+      $Postage=Get-Pounds $Postage
+      $updatestring=$updatestring+", postage='$postage'"
+   }
 
-   if ($title -ne "")
+
+   if ($Title)
    {
       $updatestring=$updatestring+",  title='$title'"
    }
 
-   if ($Price -ne "")
-   {
-      $updatestring=$updatestring+",  price='$price'"
-   }
-
-   if ($UpdateValue -ne "")
-   {
-      $updatestring=$updatestring+",  issue='$UpdateValue'"
-   }
-
-   if ($postage -ne "")
-   {
-      $updatestring=$updatestring+", postage='$postage'"
-   }
-
-   if ($Bought -ne "")
+   if ($Bought)
    {
       $updatestring=$updatestring+", bought='$bought'"
    }
 
-   if ($quantity -ne "")
+   if ($Quantity)
    {
       $updatestring=$updatestring+", quantity='$quantity'"
    }
 
-   if ($status -ne "")
+   if ($Status)
    {
-      $updatestring=$updatestring+", status='$status'"
-      if ($status -eq "CLOSED")
+      $updatestring=$updatestring+", status='$Status'"
+      if ($Status -eq "CLOSED")
       {
           $updatestring=$updatestring+", SaleDate='$saledate'"
       }
    }
 
-   if ($seller -ne "")
+   if ($Seller)
    {
       $updatestring=$updatestring+", seller='$seller'"
    }
 
-   If (($watch -eq "") -or ($watch -eq $null))
-   {
-      #Write-Host "watch not set:$watch"
-   }
-   else
+   If ($Watch)
    {
       $updatestring=$updatestring+", watch='$watch'"
    }
 
-   $cmd.commandtext = "update Comics.dbo.Comics SET $updatestring where Ebayitem = '$ebayitem' and (status !='CLOSED' OR status !='expired')"
-   #Write-Host $cmd.commandtext
+   $cmd.commandtext = "update Comics.dbo.Comics SET $updatestring where Ebayitem = '$ebayitem' and (status !='CLOSED' OR status !='EXPIRED')"
+
+   Write-Verbose $cmd.commandtext
 
    $transactionComplete=$NULL
 
@@ -317,13 +306,12 @@ function Update-DB
       }
       catch
       {
-		 Write-Warning "Write Failure"
+		     Write-Warning "Write Failure"
          $transactionComplete = $false
       }
 
    }
    until ($transactionComplete)
-
 
    $conn.close()
 }

@@ -138,9 +138,6 @@ function Update-RecordNew
 	    {
          $salestatus=Get-EbaySaleStatus -record $record
          $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
-         #Write-Host "Opening $url"
-         #$BrowserProcess = [Diagnostics.Process]::Start("chrome.exe", "--window-size=800,600 --window-position=50,50 --app=$url")
-         #$DirtyBlock=Get-EbayRecordBlock -record $record
 
          Write-Host "SaleStatus : $salestatus"
 
@@ -150,13 +147,13 @@ function Update-RecordNew
            {
              Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
            }
-           'SOLD'
+           'CLOSED'
            {
              $soldPrice=Get-EbaySoldPrice -record $record
-             Write-Host "Sold Price: $soldPrice"
-             Update-DB -ebayitem $record.ebayitem -price $soldPrice -Status "SOLD"
+             Write-Host "Sold Price: $soldPrice  Issue: $($record.Issue)"
+             Update-DB -ebayitem $record.ebayitem -Issue $record.Issue -Price $soldPrice -Status "CLOSED"
            }
-           'LIVE'
+           'VERIFIED'
            {
 
            }
@@ -165,9 +162,6 @@ function Update-RecordNew
              Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
            }
          }
-
-         #Stop-Process -Name $BrowserProcess.ProcessName -ErrorAction Ignore
-
      }
   }
 }

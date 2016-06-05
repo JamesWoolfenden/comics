@@ -60,11 +60,11 @@ function Set-ComicStatus
    {
      switch($salestatus)
      {
-       {($_ -match 'LIVE') -or ($_ -match 'VERIFIED')}
+       {($_ -match 'VERIFIED')}
        {
          $record.Status="VERIFIED"
        }
-       'SOLD'
+       'CLOSED'
        {
          $record.Status="CLOSED"
        }
@@ -504,7 +504,7 @@ function Get-EbaySaleStatus
     param(
       [Parameter(Mandatory=$true)]
       [PSObject]$record,
-      [string]$salestatus="LIVE")
+      [string]$salestatus="VERIFIED")
 
     $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
 
@@ -535,7 +535,7 @@ function Get-EbaySaleStatus
              Write-Verbose "Bidding has ended on this item."
              #returns no of bids as string
              $bids=scrape $url  "a#vi-VR-bid-lnk.vi-bidC"
-             $salestatus="SOLD"
+             $salestatus="CLOSED"
 
              if ($bids)
              {
@@ -553,7 +553,7 @@ function Get-EbaySaleStatus
 
              if ($result)
              {
-                $salestatus="SOLD"
+                $salestatus="CLOSED"
              }
              else
              {
@@ -566,7 +566,7 @@ function Get-EbaySaleStatus
              $result=scrape $url span.vi-qtyS.vi-bboxrev-dsplblk.vi-qty-vert-algn.vi-qty-pur-lnk
              if ($result)
              {
-               $salestatus="SOLD"
+               $salestatus="CLOSED"
              }
              else
              {
@@ -576,7 +576,7 @@ function Get-EbaySaleStatus
           default
           {
             Write-Host "Default"
-            $salestatus="LIVE"
+            $salestatus="VERIFIED"
           }
          }
     }
@@ -681,11 +681,11 @@ function Update-RecordOld
              $IE[1].Application.Quit()
              return
            }
-           'SOLD'
+           'CLOSED'
            {
              $price=Get-EbaySoldPrice -record $record
            }
-           'LIVE'
+           'VERIFIED'
            {
              $price=Get-EbaySoldPrice -record $record
            }
@@ -802,8 +802,9 @@ function Update-RecordOld
 
    try
    {
-      Write-Verbose "Update-DB -ebayitem $($record.ebayitem) -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $($record.status) -bought $($record.bought) -quantity $newquantity -seller $seller -watch $($record.watch)"
-      Update-DB -ebayitem $record.ebayitem -UpdateValue $actualIssue -price $price -postage $postage -title $newtitle -Status $record.status -bought $record.bought -quantity $newquantity -seller $seller -watch $record.watch
+      if (!($actualIssue)){ throw }
+      Write-Host "Update-DB -ebayitem $($record.ebayitem) -Issue $actualIssue -price $price -postage $postage -title $newtitle -Status $($record.status) -bought $($record.bought) -quantity $newquantity -seller $seller -watch $($record.watch)"
+      Update-DB -ebayitem $record.ebayitem -Issue $actualIssue -price $price -postage $postage -title $newtitle -Status $record.status -bought $record.bought -quantity $newquantity -seller $seller -watch $record.watch
    }
    catch
    {
