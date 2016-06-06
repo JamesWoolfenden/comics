@@ -803,7 +803,7 @@ function Update-RecordOld
    try
    {
       if (!($actualIssue)){ throw }
-      Write-Host "Update-DB -ebayitem $($record.ebayitem) -Issue $actualIssue -price $price -postage $postage -title $newtitle -Status $($record.status) -bought $($record.bought) -quantity $newquantity -seller $seller -watch $($record.watch)"
+      Write-Verbose "Update-DB -ebayitem $($record.ebayitem) -Issue $actualIssue -price $price -postage $postage -title $newtitle -Status $($record.status) -bought $($record.bought) -quantity $newquantity -seller $seller -watch $($record.watch)"
       Update-DB -ebayitem $record.ebayitem -Issue $actualIssue -price $price -postage $postage -title $newtitle -Status $record.status -bought $record.bought -quantity $newquantity -seller $seller -watch $record.watch
    }
    catch
