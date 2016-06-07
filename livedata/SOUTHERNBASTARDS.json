@@ -8,7 +8,7 @@
         "variant":  "1FP",
         "price":  10,
         "currency":  "\u0026pound;",
-        "rundate":  "30-5-2016",
+        "rundate":  "6-6-2016",
         "site":  "Auction"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "set",
         "price":  50,
         "currency":  "\u0026pound;",
-        "rundate":  "30-5-2016",
+        "rundate":  "6-6-2016",
         "site":  "Auction"
     },
     {
@@ -32,7 +32,19 @@
         "variant":  "1C",
         "price":  5.99,
         "currency":  "\u0026pound;",
-        "rundate":  "30-5-2016",
+        "rundate":  "6-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/SOUTHERN-BASTARDS-1-DCBS-Variant-CGC-9-8-Aaron-Latour-Image-OPTIONED-FOR-TV-/222134991812?hash=item33b846fbc4:g:gfcAAOSwjVVVr7~4",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SOUTHERN-BASTARDS-1-DCBS-Variant-CGC-9-8-Aaron-Latour-Image-OPTIONED-FOR-TV-/222134991812?hash=item33b846fbc4:g:gfcAAOSwjVVVr7~4\"\u003ehttp://www.ebay.co.uk/itm/SOUTHERN-BASTARDS-1-DCBS-Variant-CGC-9-8-Aaron-Latour-Image-OPTIONED-FOR-TV-/222134991812?hash=item33b846fbc4:g:gfcAAOSwjVVVr7~4\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SOUTHERN BASTARDS",
+        "issue":  "1",
+        "variant":  "1DCBSCGC",
+        "price":  139.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "6-6-2016",
         "site":  "Auction"
     }
 ]
