@@ -68,7 +68,7 @@ function Get-Records
 
       #should only update
       Write-Host "Expired is $ExpiredCount"
-	  add-array $expiredresult -title $writetitle -issue 0 -Status Expired
+	    add-array $expiredresult -title $writetitle -issue 0 -Status Expired
    }
 
    [int]$OpenCount=0
@@ -99,6 +99,43 @@ function Get-Records
    Write-Host "Open:    $OpenCount" -foregroundcolor cyan
 }
 
+function Get-SoldPrice
+{
+  param(
+   [Parameter(Mandatory=$true)]
+   [PSObject]$record,
+   [Parameter(Mandatory=$true)]
+   [string]$site,
+   [string]$salestatus)
+
+   if ($site -eq "EBAY")
+   {
+     Get-EbaySoldPrice -record $record
+   }
+   else
+   {
+     Get-EbidSoldPrice -url $record.link -Status $salestatus -OldPrice $record.Price
+   }
+}
+
+function Get-SaleStatus
+{
+  param(
+   [Parameter(Mandatory=$true)]
+   [PSObject]$record,
+   [Parameter(Mandatory=$true)]
+   [string]$site)
+
+
+   if ($site -eq "EBAY")
+   {
+     Get-EbaySaleStatus -record $record
+   }
+   else
+   {
+     Get-EbidSaleStatus -url $record.link
+   }
+}
 
 function ScrapeBlock
 {
@@ -107,7 +144,6 @@ function ScrapeBlock
     [string]$PriceID,
     [string]$PostageID,
     [string]$SellerID)
-
 
     #& node.exe $PSScriptRoot\scrapeBlock.js $url $target
     & node.exe .\scrapeBlock.js $url $PriceID $PostageID $SellerID
@@ -122,46 +158,47 @@ function Get-EbayRecordBlock
    $url="http://www.ebay.co.uk/itm/$($ebayitem)?"
 
    #scrape $url "div#CenterPanelInternal"
-   write-verbose "ScrapeBlock $url span#prcIsum.notranslate .sh-fr-cst mbg-nw  span.mbg-nw"
+   Write-Verbose "ScrapeBlock $url span#prcIsum.notranslate .sh-fr-cst mbg-nw  span.mbg-nw"
    ScrapeBlock $url  "span#prcIsum.notranslate" ".sh-fr-cst" "span.mbg-nw"
 }
 
 function Update-RecordNew
 {
-  param(
+   param(
    [Parameter(Mandatory=$true)]
    [PSObject]$record)
 
-   switch($record.site.ToUpper())
+   $site=$record.site.ToUpper()
+   $salestatus=Get-SaleStatus -record $record -site $site
+
+   Write-Host "SaleStatus : $salestatus"
+   Write-Host "Site       : $Site"
+
+   switch ($salestatus.ToUpper())
    {
-      'EBAY'
-	    {
-         $salestatus=Get-EbaySaleStatus -record $record
-         $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
-
-         Write-Host "SaleStatus : $salestatus"
-
-         switch ($salestatus.ToUpper())
-         {
-           'EXPIRED'
-           {
-             Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
-           }
-           'CLOSED'
-           {
-             $soldPrice=Get-EbaySoldPrice -record $record
-             Write-Host "Sold Price: $soldPrice  Issue: $($record.Issue)"
-             Update-DB -ebayitem $record.ebayitem -Issue $record.Issue -Price $soldPrice -Status "CLOSED"
-           }
-           'VERIFIED'
-           {
-
-           }
-           'DELISTED'
-           {
-             Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
-           }
-         }
+     {($_ -match 'EXPIRED') -or ($_ -match 'DELISTED')}
+     {
+        Write-Verbose "Setting to Expired"
+        Write-Verbose  "Update-DB -ebayitem $($record.ebayitem) -Status `"EXPIRED`""
+        if (!($record.Status -eq 'CLOSED'))
+        {
+           Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
+        }
+        Else{ Write-Host "Already Closed"}
      }
-  }
+     'CLOSED'
+     {
+        $soldPrice=Get-SoldPrice -record $record -site $site -SaleStatus $SaleStatus
+        Write-Host "Sold Price: $soldPrice  Issue: $($record.Issue)"
+        Update-DB -ebayitem $record.ebayitem -Issue $record.Issue -Price $soldPrice -Status "CLOSED"
+     }
+     'VERIFIED'
+     {
+        Write-Verbose "Do Nothing"
+     }
+     default
+     {
+        Throw "SALE STATUS FAILED"
+     }
+   }
 }

@@ -1,10 +1,12 @@
 use comics
+select * from comics where  site = 'ebid'
 select * from comics where title='THE WALKING DEAD WEEKLY' and status = 'SOLD' and issue='0'
 select * from comics where status = 'SOLD' and issue='0' AND TITLE='VELVET'
 select * from comics where status='open' and title = 'HAWKEYE'
 delete from comics where status='open' and title = 'HAWKEYE'
 select * from comics where status='open' order by title
-select * from comics where  status = 'closed' and title = 'the walking dead' and issue='1a'
+select * from comics where  status = 'closed' and issue='0'
+delete  from comics where  status = 'closed' and issue='0'
 select * from comics where  status = 'SOLD'
 delete from comics where status = 'open'
 delete from comics where status = 'expired'

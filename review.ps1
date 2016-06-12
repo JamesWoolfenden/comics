@@ -297,7 +297,7 @@ function Set-Issue
    }
 
    #Varianttypes
-   $VariantKeys=("PHANTOM","FIRSTS","SDCC","GHOST","HASTINGS")
+   $VariantKeys=("PHANTOM","FIRSTS","SDCC","GHOST","HASTINGS","MIDTOWN")
    foreach($key in $VariantKeys)
    {
        if ($rawtitle.ToUpper() -match $key)
@@ -470,33 +470,33 @@ function Get-EbaySoldPrice
     param(
       [Parameter(Mandatory=$true)]
       [PSObject]$record)
-    $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
+      $url="http://www.ebay.co.uk/itm/$($record.ebayitem)?"
 
-    $SoldPrice=scrape $url 'prcIsum_bidPrice'
+      $SoldPrice=scrape $url 'prcIsum_bidPrice'
 
-    if (!($SoldPrice))
-    {
-      #Write-Host "Looking for 'span.notranslate'"
-      $money=scrape $url 'span.notranslate'
-      if ($money -is [system.array])
+      if (!($SoldPrice))
       {
-        $SoldPrice=$money[1].trim()
+         #Write-Host "Looking for 'span.notranslate'"
+         $money=scrape $url 'span.notranslate'
+         if ($money -is [system.array])
+         {
+            $SoldPrice=$money[1].trim()
+         }
+         else
+         {
+           $SoldPrice=$money
+         }
       }
-      else
+
+      if (!($SoldPrice))
       {
-        $SoldPrice=$money
+         #Write-Host "Looking for 'span#prcIsum.notranslate'"
+         $money=scrape $url 'span#prcIsum.notranslate'
+         $SoldPrice=$money[1].trim()
       }
-    }
 
-    if (!($SoldPrice))
-    {
-       #Write-Host "Looking for 'span#prcIsum.notranslate'"
-       $money=scrape $url 'span#prcIsum.notranslate'
-       $SoldPrice=$money[1].trim()
-    }
-
-    #Write-Host $SoldPrice
-    (Get-Price $SoldPrice).Amount
+      #Write-Host $SoldPrice
+      (Get-Price $SoldPrice).Amount
 }
 
 function Get-EbaySaleStatus
@@ -575,8 +575,8 @@ function Get-EbaySaleStatus
            }
           default
           {
-            Write-Host "Default"
-            $salestatus="VERIFIED"
+             Write-Verbose "Defaulting"
+             $salestatus="VERIFIED"
           }
          }
     }
@@ -627,7 +627,7 @@ function Get-EbayShippingCost
    $estimate
 }
 
-function GetEbidPrice
+function Get-EbidSoldPrice
 {
   param(
     $link,
@@ -677,6 +677,7 @@ function Update-RecordOld
            'EXPIRED'
            {
              Write-Verbose "Update-DB -ebayitem $($record.ebayitem) -Status EXPIRED"
+
              Update-DB -ebayitem $record.ebayitem -Status "EXPIRED"
              $IE[1].Application.Quit()
              return
@@ -709,7 +710,7 @@ function Update-RecordOld
 
            $seller=Get-EbidSeller -url $record.link
            $salestatus=Get-EBidSaleStatus -url $record.link
-           $price=GetEbidPrice -url $record.link -Status $salestatus -OldPrice $record.Price
+           $price=Get-EbidSoldPrice -url $record.link -Status $salestatus -OldPrice $record.Price
        }
    }
 
@@ -723,7 +724,7 @@ function Update-RecordOld
    if(!$ActualIssue)
    {
      $IE[1].Application.Quit()
-     write-host "Premature return"
+     Write-Verbose "Premature return"
      return
    }
 
