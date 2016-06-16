@@ -8,7 +8,7 @@
         "variant":  "11",
         "price":  1.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-6-2016",
+        "rundate":  "13-6-2016",
         "site":  "Auction"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "4A",
         "price":  15,
         "currency":  "\u0026pound;",
-        "rundate":  "6-6-2016",
+        "rundate":  "13-6-2016",
         "site":  "Auction"
     },
     {
@@ -32,7 +32,31 @@
         "variant":  "3C",
         "price":  7,
         "currency":  "\u0026pound;",
-        "rundate":  "6-6-2016",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/SEX-CRIMINALS-11-BRYAN-LEE-O-MALLEY-IMAGE-COMICS-FIRST-PRINT-SEALED-POLYBAGGED-/131567540183?hash=item1ea20957d7:g:-h8AAOSw3ydVukgI",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SEX-CRIMINALS-11-BRYAN-LEE-O-MALLEY-IMAGE-COMICS-FIRST-PRINT-SEALED-POLYBAGGED-/131567540183?hash=item1ea20957d7:g:-h8AAOSw3ydVukgI\"\u003ehttp://www.ebay.co.uk/itm/SEX-CRIMINALS-11-BRYAN-LEE-O-MALLEY-IMAGE-COMICS-FIRST-PRINT-SEALED-POLYBAGGED-/131567540183?hash=item1ea20957d7:g:-h8AAOSw3ydVukgI\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SEX CRIMINALS",
+        "issue":  "11",
+        "variant":  "11B",
+        "price":  9.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/SEX-CRIMINALS-13-COOP-XXX-VARIANT-IMAGE-COMICS-THIRD-PRINT-/131721753795?hash=item1eab3a74c3:g:NVkAAOSwX~dWtkHr",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/SEX-CRIMINALS-13-COOP-XXX-VARIANT-IMAGE-COMICS-THIRD-PRINT-/131721753795?hash=item1eab3a74c3:g:NVkAAOSwX~dWtkHr\"\u003ehttp://www.ebay.co.uk/itm/SEX-CRIMINALS-13-COOP-XXX-VARIANT-IMAGE-COMICS-THIRD-PRINT-/131721753795?hash=item1eab3a74c3:g:NVkAAOSwX~dWtkHr\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SEX CRIMINALS",
+        "issue":  "13",
+        "variant":  "13B",
+        "price":  4.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
         "site":  "Auction"
     }
 ]

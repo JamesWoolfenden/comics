@@ -8,7 +8,7 @@
         "variant":  "4",
         "price":  2.75,
         "currency":  "\u0026pound;",
-        "rundate":  "6-6-2016",
+        "rundate":  "13-6-2016",
         "site":  "Auction"
     },
     {
@@ -18,9 +18,9 @@
         "title":  "NAILBITER",
         "issue":  "3",
         "variant":  "3",
-        "price":  2,
+        "price":  1.6,
         "currency":  "\u0026pound;",
-        "rundate":  "6-6-2016",
+        "rundate":  "13-6-2016",
         "site":  "Auction"
     },
     {
@@ -32,7 +32,43 @@
         "variant":  "1PHANTOM",
         "price":  10,
         "currency":  "\u0026pound;",
-        "rundate":  "6-6-2016",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/NAILBITER-14-IMAGE-COMICS-FIRST-PRINT-/131552654278?hash=item1ea12633c6:g:yyQAAOSwu4BVnU3c",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/NAILBITER-14-IMAGE-COMICS-FIRST-PRINT-/131552654278?hash=item1ea12633c6:g:yyQAAOSwu4BVnU3c\"\u003ehttp://www.ebay.co.uk/itm/NAILBITER-14-IMAGE-COMICS-FIRST-PRINT-/131552654278?hash=item1ea12633c6:g:yyQAAOSwu4BVnU3c\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "NAILBITER",
+        "issue":  "14",
+        "variant":  "14",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/NAILBITER-16-IMAGE-COMICS-FIRST-PRINT-/131641155228?hash=item1ea66c9e9c:g:srkAAOSwl9BWM6Aq",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/NAILBITER-16-IMAGE-COMICS-FIRST-PRINT-/131641155228?hash=item1ea66c9e9c:g:srkAAOSwl9BWM6Aq\"\u003ehttp://www.ebay.co.uk/itm/NAILBITER-16-IMAGE-COMICS-FIRST-PRINT-/131641155228?hash=item1ea66c9e9c:g:srkAAOSwl9BWM6Aq\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "NAILBITER",
+        "issue":  "16",
+        "variant":  "16",
+        "price":  2.5,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebid.net/uk/for-sale/nailbiter-2014-2-image-comics-131713792.htm",
+        "url":  "\u003ca href=\"http://www.ebid.net/uk/for-sale/nailbiter-2014-2-image-comics-131713792.htm\"\u003ehttp://www.ebid.net/uk/for-sale/nailbiter-2014-2-image-comics-131713792.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "NAILBITER",
+        "issue":  "2",
+        "variant":  "2",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
         "site":  "Auction"
     }
 ]

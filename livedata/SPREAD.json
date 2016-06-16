@@ -8,7 +8,7 @@
         "variant":  "7B",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-6-2016",
+        "rundate":  "13-6-2016",
         "site":  "Auction"
     },
     {
@@ -20,7 +20,19 @@
         "variant":  "7A",
         "price":  3.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-6-2016",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Spread-Comic-lot-Issues-1-2-3-NM-FREE-POSTAGE-/121987195821?hash=item1c6700e3ad:g:q7wAAOSwubRXOFuH",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Spread-Comic-lot-Issues-1-2-3-NM-FREE-POSTAGE-/121987195821?hash=item1c6700e3ad:g:q7wAAOSwubRXOFuH\"\u003ehttp://www.ebay.co.uk/itm/Spread-Comic-lot-Issues-1-2-3-NM-FREE-POSTAGE-/121987195821?hash=item1c6700e3ad:g:q7wAAOSwubRXOFuH\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "SPREAD",
+        "issue":  "",
+        "variant":  "SET",
+        "price":  10,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
         "site":  "Auction"
     }
 ]

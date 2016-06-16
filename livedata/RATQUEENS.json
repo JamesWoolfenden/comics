@@ -1,12 +1,38 @@
-{
-    "link":  "http://www.ebay.co.uk/itm/Rat-Queens-1-First-Print-Fiona-Staples-variant-Signed-by-Fiona-Staples-/111966213585?hash=item1a11b4d5d1:g:gHYAAOSwq19XC4dk",
-    "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Rat-Queens-1-First-Print-Fiona-Staples-variant-Signed-by-Fiona-Staples-/111966213585?hash=item1a11b4d5d1:g:gHYAAOSwq19XC4dk\"\u003ehttp://www.ebay.co.uk/itm/Rat-Queens-1-First-Print-Fiona-Staples-variant-Signed-by-Fiona-Staples-/111966213585?hash=item1a11b4d5d1:g:gHYAAOSwq19XC4dk\u003c/a\u003e",
-    "orderdate":  null,
-    "title":  "RAT QUEENS",
-    "issue":  "1",
-    "variant":  "1BSIGNED",
-    "price":  1.2,
-    "currency":  "\u0026pound;",
-    "rundate":  "6-6-2016",
-    "site":  "Auction"
-}
+[
+    {
+        "link":  "http://www.ebay.co.uk/itm/Rat-Queens-1-First-Print-Fiona-Staples-variant-Signed-by-Fiona-Staples-/111966213585?hash=item1a11b4d5d1:g:gHYAAOSwq19XC4dk",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Rat-Queens-1-First-Print-Fiona-Staples-variant-Signed-by-Fiona-Staples-/111966213585?hash=item1a11b4d5d1:g:gHYAAOSwq19XC4dk\"\u003ehttp://www.ebay.co.uk/itm/Rat-Queens-1-First-Print-Fiona-Staples-variant-Signed-by-Fiona-Staples-/111966213585?hash=item1a11b4d5d1:g:gHYAAOSwq19XC4dk\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "1",
+        "variant":  "1BSIGNED",
+        "price":  1.2,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Rat-Queens-1-CGC-9-6-Image-Comics-Kurtis-Wiebe-Roc-Upchurch-White-Pages-/121996937519?hash=item1c6795892f:g:w4UAAOSws8ZXHgNS",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Rat-Queens-1-CGC-9-6-Image-Comics-Kurtis-Wiebe-Roc-Upchurch-White-Pages-/121996937519?hash=item1c6795892f:g:w4UAAOSws8ZXHgNS\"\u003ehttp://www.ebay.co.uk/itm/Rat-Queens-1-CGC-9-6-Image-Comics-Kurtis-Wiebe-Roc-Upchurch-White-Pages-/121996937519?hash=item1c6795892f:g:w4UAAOSws8ZXHgNS\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "1",
+        "variant":  "1ACGC",
+        "price":  49.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Rat-Queens-6-CGC-9-4-Image-Comics-Kurtis-Wiebe-Roc-Upchurch-White-Pages-/121996937904?hash=item1c67958ab0:g:-wkAAOSw4T5XHgQG",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Rat-Queens-6-CGC-9-4-Image-Comics-Kurtis-Wiebe-Roc-Upchurch-White-Pages-/121996937904?hash=item1c67958ab0:g:-wkAAOSw4T5XHgQG\"\u003ehttp://www.ebay.co.uk/itm/Rat-Queens-6-CGC-9-4-Image-Comics-Kurtis-Wiebe-Roc-Upchurch-White-Pages-/121996937904?hash=item1c67958ab0:g:-wkAAOSw4T5XHgQG\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "RAT QUEENS",
+        "issue":  "6",
+        "variant":  "6ACGC",
+        "price":  44.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    }
+]

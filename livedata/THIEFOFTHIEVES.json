@@ -8,7 +8,7 @@
         "variant":  "6A",
         "price":  0.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-6-2016",
+        "rundate":  "13-6-2016",
         "site":  "Auction"
     },
     {
@@ -20,7 +20,67 @@
         "variant":  "19",
         "price":  2.5,
         "currency":  "\u0026pound;",
-        "rundate":  "6-6-2016",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebay.co.uk/itm/Thief-of-Thieves-16-1st-Print-Image-Comics-Robert-Kirkman-A-Diggle-Martinbrough-/122002385580?hash=item1c67e8aaac:g:xbgAAOSwaA5Wktdh",
+        "url":  "\u003ca href=\"http://www.ebay.co.uk/itm/Thief-of-Thieves-16-1st-Print-Image-Comics-Robert-Kirkman-A-Diggle-Martinbrough-/122002385580?hash=item1c67e8aaac:g:xbgAAOSwaA5Wktdh\"\u003ehttp://www.ebay.co.uk/itm/Thief-of-Thieves-16-1st-Print-Image-Comics-Robert-Kirkman-A-Diggle-Martinbrough-/122002385580?hash=item1c67e8aaac:g:xbgAAOSwaA5Wktdh\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "16",
+        "variant":  "16",
+        "price":  2.95,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebid.net/uk/for-sale/thief-of-thieves-10-skybound-entertainment-image-comics-robert-kirkman-123033315.htm",
+        "url":  "\u003ca href=\"http://www.ebid.net/uk/for-sale/thief-of-thieves-10-skybound-entertainment-image-comics-robert-kirkman-123033315.htm\"\u003ehttp://www.ebid.net/uk/for-sale/thief-of-thieves-10-skybound-entertainment-image-comics-robert-kirkman-123033315.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "10",
+        "variant":  "10",
+        "price":  0.99,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebid.net/uk/for-sale/thief-of-thieves-8-skybound-entertainment-image-comics-robert-kirkman-123081595.htm",
+        "url":  "\u003ca href=\"http://www.ebid.net/uk/for-sale/thief-of-thieves-8-skybound-entertainment-image-comics-robert-kirkman-123081595.htm\"\u003ehttp://www.ebid.net/uk/for-sale/thief-of-thieves-8-skybound-entertainment-image-comics-robert-kirkman-123081595.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "8",
+        "variant":  "8",
+        "price":  1.2,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebid.net/uk/for-sale/thief-of-thieves-7-skybound-entertainment-image-comics-robert-kirkman-126417808.htm",
+        "url":  "\u003ca href=\"http://www.ebid.net/uk/for-sale/thief-of-thieves-7-skybound-entertainment-image-comics-robert-kirkman-126417808.htm\"\u003ehttp://www.ebid.net/uk/for-sale/thief-of-thieves-7-skybound-entertainment-image-comics-robert-kirkman-126417808.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "7",
+        "variant":  "7A",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebid.net/uk/for-sale/thief-of-thieves-9-skybound-entertainment-image-comics-robert-kirkman-126418339.htm",
+        "url":  "\u003ca href=\"http://www.ebid.net/uk/for-sale/thief-of-thieves-9-skybound-entertainment-image-comics-robert-kirkman-126418339.htm\"\u003ehttp://www.ebid.net/uk/for-sale/thief-of-thieves-9-skybound-entertainment-image-comics-robert-kirkman-126418339.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "THIEF OF THIEVES",
+        "issue":  "9",
+        "variant":  "9",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
         "site":  "Auction"
     }
 ]

@@ -15,3 +15,5 @@ select * from comics where Ebayitem='172131853713'
 delete from comics.dbo.comics where Ebayitem='201325898027'
 update comics set status='open' where title='chew' and issue='0' and status ='closed'
 update comics set status='CLOSED' where status='SOLD'
+EXEC sp_help comics
+update Comics.dbo.Comics SET DateOfSale='14/06/2016 19:17:45',  issue='141',  price='4.99', postage='0',  title='THE WALKING DEAD', bought='False', quantity='1', status='CLOSED', SaleDate='14/06/2016 19:17:45', seller='checkpoint45' where Ebayitem = '121705070460' and (status !='CLOSED' OR status !='EXPIRED')

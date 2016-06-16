@@ -293,7 +293,7 @@ function Update-DB
 
    $cmd.commandtext = "update Comics.dbo.Comics SET $updatestring where Ebayitem = '$ebayitem' and (status !='CLOSED' OR status !='EXPIRED')"
 
-   Write-Verbose $cmd.commandtext
+   Write-host $cmd.commandtext
 
    $transactionComplete=$NULL
 
@@ -301,7 +301,8 @@ function Update-DB
    {
       try
       {
-         $cmd.executenonquery()|out-null
+         #$cmd.executenonquery()|out-null
+         $cmd.executenonquery()
          $transactionComplete = $true
       }
       catch

@@ -8,7 +8,7 @@
         "variant":  "2",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-6-2016",
+        "rundate":  "13-6-2016",
         "site":  "Auction"
     },
     {
@@ -20,7 +20,7 @@
         "variant":  "5",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-6-2016",
+        "rundate":  "13-6-2016",
         "site":  "Auction"
     },
     {
@@ -32,7 +32,7 @@
         "variant":  "4",
         "price":  2.25,
         "currency":  "\u0026pound;",
-        "rundate":  "6-6-2016",
+        "rundate":  "13-6-2016",
         "site":  "Auction"
     },
     {
@@ -44,7 +44,19 @@
         "variant":  "1A",
         "price":  4.99,
         "currency":  "\u0026pound;",
-        "rundate":  "6-6-2016",
+        "rundate":  "13-6-2016",
+        "site":  "Auction"
+    },
+    {
+        "link":  "http://www.ebid.net/uk/for-sale/the-mercenary-sea-2014-3-between-the-devil-and-the-deep-blue-sea-image-131405721.htm",
+        "url":  "\u003ca href=\"http://www.ebid.net/uk/for-sale/the-mercenary-sea-2014-3-between-the-devil-and-the-deep-blue-sea-image-131405721.htm\"\u003ehttp://www.ebid.net/uk/for-sale/the-mercenary-sea-2014-3-between-the-devil-and-the-deep-blue-sea-image-131405721.htm\u003c/a\u003e",
+        "orderdate":  null,
+        "title":  "MERCENARY SEA",
+        "issue":  "3",
+        "variant":  "3",
+        "price":  1.25,
+        "currency":  "\u0026pound;",
+        "rundate":  "13-6-2016",
         "site":  "Auction"
     }
 ]
